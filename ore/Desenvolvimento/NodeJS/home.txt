@@ -1,0 +1,53 @@
+h1. Node.js
+
+{tip:title=Motivação}Um dos motivos do interesse pelo Node.js é a possibilidade de executar códigos JavaScript sem a necessidade de um Web Browser. Com isto e sobre o Node.js surgiram muitas ferramentas de [automatização|cpi:JS - Executor de Tarefas], qualidade e [teste|cpi:JS - Testes] de software para projetos FrontEnd.
+
+\\
+
+Um exemplo de uso do Node.js com o Jenkins CI pode ser encontrado no : [ci.angularjs.org|http://ci.angularjs.org/] | [configurações|https://github.com/angular/ci.angularjs.org] - o qual é utilizado pelo framework MVC JavaScript [cpi:Angular.js]
+{tip}
+
+{info}[Utilizando o Node.js em um Windows XP sem Administrador|https://gist.github.com/erkobridee/4089098]{info}
+
+
+
+* [\[SlideShare\] Conhecendo mundo Node.js|http://www.slideshare.net/caioribeiropereira/conhecendo-mundo-nodejs-12813969]
+
+* [O que exatamente é o Node.js? :: IBM developerWorks|http://www.ibm.com/developerworks/br/library/os-nodejs/]
+
+* [\[GitHub\] erkobridee / lab-nodejs|https://github.com/erkobridee/lab-nodejs] \- Laboratório de testes com o Node.js
+
+h2. Sites Oficiais
+
+* [Node.js|http://nodejs.org/]
+
+* [Node.js API DOCS|http://nodejs.org/api/]
+
+* [Node.js Manual|http://nodemanual.org/latest/]
+
+* [GitHub : Joyent / Node.js : Wiki / Modules|https://github.com/joyent/node/wiki/modules]
+
+* [npm - Node Packaged Modules|https://npmjs.org/]
+
+* [Node.js Jenkins-CI|http://jenkins.nodejs.org/] \- To  support a higher degree of stability, and hopefully catch issues sooner,  we (node.js team) have a Jenkins instance running every commit through  the test suite, on each operating system we support.
+
+
+
+h2. Páginas filhas
+
+* Aprendizado
+
+* Casos de Uso
+
+* Dicas
+
+
+
+---
+
+h1. Tags
+
+
+nodejs
+desenvolvimento
+javascript

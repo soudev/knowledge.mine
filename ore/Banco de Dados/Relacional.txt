@@ -1,0 +1,47 @@
+h1. Relacional
+
+h2. Oracle
+
+ [Oracle Databasehttpwww.oracle.comusproductsdatabaseoverviewindex.html]
+
+ [Oracle MySQLhttpwww.oracle.comusproductsmysqloverviewindex.html]
+
+ [Oracle Berkeley DBhttpwww.oracle.comusproductsdatabaseberkeley-dboverviewindex.htm]
+
+
+h2. PostgreSQL
+
+ [PostgreSQLhttpwww.postgresql.org]  The world's most advanced open source database
+
+ [Comunidade Brasileira de PostgreSQLhttpwww.postgresql.org.br]
+
+ [PostgreSQL JDBC Driverhttpjdbc.postgresql.org]
+
+
+h2. MariaDB
+
+ [MariaDBhttpsmariadb.org] An enhanced, drop-in replacement for MySQL.
+
+ [The MariaDB Bloghttpblog.mariadb.org]
+
+
+h2. Base em memória - Java
+
+ [HSQLDBhttphsqldb.org]
+
+ [H2 Database Enginehttpwww.h2database.com]  [Tutoriaishttpwww.h2database.comhtmltutorial.html]  [Links úteishttph2database.comhtmllinks.html]
+
+
+ ---
+
+ h1. tags
+
+banco
+dados
+relacional
+mariadb
+hsqldb
+d2
+oracle
+mysql
+berkeleydb

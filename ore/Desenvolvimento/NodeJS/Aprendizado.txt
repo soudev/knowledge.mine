@@ -1,0 +1,46 @@
+h1. Aprendizado
+
+* [How to Node|http://howtonode.org/]
+
+* [The Node Beginner Book|http://www.nodebeginner.org/]
+
+* [The Art of Node.js|https://github.com/maxogden/art-of-node] \- a short introduction to node.js
+
+* [Node.js for Beginners :: Nettuts\+|http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/]
+
+* [Node.js para leigos (Versão completa) :: Underground WebDev|http://www.udgwebdev.com/nodejs-para-leigos/]
+
+* [Understanding how to create a nodejs package.json :: Nodejitsu|http://package.json.nodejitsu.com/] \- Package.json: an interactive guide
+
+* [Understanding the node.js event loop|http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/]
+
+* [Mastering Node.js|http://visionmedia.github.com/masteringnode/] Open Source Node eBook
+
+* [Learning Server-Side JavaScript with Node.js|http://net.tutsplus.com/tutorials/javascript-ajax/learning-serverside-javascript-with-node-js/]
+
+* [Node.js : Require and Exports|http://openmymind.net/2012/2/3/Node-Require-and-Exports/]
+
+* [How I write Node.js modules|http://substack.net/how_I_write_modules]
+
+* [Learn Node.js Completely and with Confidence|http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/]
+
+* [Getting Started with Node.js, Coffeescript, MongoDB, and more - Matt Kopala|http://mattkopala.com/blog/2012/02/12/getting-started-with-nodejs/]
+
+* [5 Talks to Learn More About Node.js|http://blog.modulus.io/five-talks-learn-more-nodejs]
+
+
+
+
+---
+
+h1. Tags
+
+
+nodejs
+aprendizado
+javascript
+npm
+package
+json
+tutorial
+book
