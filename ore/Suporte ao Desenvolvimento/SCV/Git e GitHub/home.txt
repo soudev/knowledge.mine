@@ -8,7 +8,6 @@ h1. Git e GitHub
 O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo. Cada checkout (resgate) é na prática um backup completo de todos os dados.
 {info}
 
-{tip}Temos o Git como uma das opções de controle de versão de código no [Forge da Petrobras|http://forge.petrobras.com.br/] ([Sobre o Forge|cpi:Forge - Colaboração e Reúso de Código]){tip}
 
 * [git-scm|http://git-scm.com/]
 
