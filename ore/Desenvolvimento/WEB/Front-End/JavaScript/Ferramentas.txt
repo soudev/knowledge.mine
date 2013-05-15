@@ -1,0 +1,63 @@
+h1. Ferramentas
+
+* [50 Useful JavaScript Tools|http://coding.smashingmagazine.com/2009/02/08/50-extremely-useful-javascript-tools/]
+
+* [Super useful online tools to make JavaScript development easier|http://www.catswhocode.com/blog/super-useful-online-tools-to-make-javascript-development-easier]
+
+* [Mixture : The perfect front-end development tool|http://mixture.io/]
+
+* \[GitHub\] [adamschwartz / log|https://github.com/adamschwartz/log] \- Console.log with style \| [Demo|http://adamschwartz.co/log/] (Google Chrome)
+
+* [Console e Command Line API :: Loop Infinito|http://loopinfinito.com.br/2013/03/13/console-command-line-api/]
+
+
+h2. Yeoman
+
+{info:title=Sobre}O Yeoman é um projeto open-source, que tem como objetivo melhorar o fluxo de trabalho em aplicações webs robustas. {info}
+
+{note:title=Dependência}Precisa e executa sobre o [cpi:Node.js]{note}
+
+* [Yeoman|http://yeoman.io/] \- is a  robust and opinionated set of tools, libraries, and a workflow that can  help developers quickly build beautiful, compelling web apps.
+
+* [Yeoman - Iniciando com Sr. Bigodes|http://www.randalmaia.com/post/49118899296/yeoman-iniciando-com-sr-bigodes]
+
+
+h2. DevTools
+
+h3. Firefox
+
+* [Firefox DevTools|https://developer.mozilla.org/en-US/docs/Tools]
+
+* [How To Use Firefox's Web Developer Tools|http://www.howtogeek.com/105320/how-to-use-firefoxs-web-developer-tools/]
+
+* [Future of Firefox DevTools|http://paulrouget.com/e/devtoolsnext/]
+
+* [Java,Coffee,Live Script terminal for Firefox :: more info|https://github.com/paulmillr/firefox-jsterm]
+
+
+h3. Google Chrome
+
+* [Chrome Dev Tools|https://developers.google.com/chrome-developer-tools/]
+
+* [Chrome Dev Tools: JavaScript and Performance :: Nettuts\+|http://net.tutsplus.com/tutorials/tools-and-tips/chrome-dev-tools-javascript-and-performance/]
+
+* [Grunt Task Runner Extension for Chrome Developer Tools|https://github.com/vladikoff/grunt-devtools] \- tests
+
+* [Discover DevTools :: Code School|http://www.codeschool.com/courses/discover-devtools] \- Sharpen your dev process with Chrome DevTools
+
+* [CSS Prettifier Bookmarklet|https://github.com/addyosmani/cssprettifier-bookmarklet] \- Um bookmarklet para unminify seu CSS no navegador
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+google
+chrome
+firefox
+devtools
+ferramenta
+yeoman

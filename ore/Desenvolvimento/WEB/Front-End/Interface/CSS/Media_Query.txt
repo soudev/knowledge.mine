@@ -1,0 +1,22 @@
+h1. Media Query
+
+* [Media Query Snippets|http://nmsdvid.com/snippets/]
+
+* [Media Queries are a Hack :: Ian Storm Taylor|http://ianstormtaylor.com/media-queries-are-a-hack/]
+
+* [mqa.js : a small, modern library for managing media queries programmatically|https://github.com/peol/mqa.js]
+
+
+
+---
+
+h1. Tags
+
+
+media
+query
+interface
+responsive
+layout
+dica
+biblioteca

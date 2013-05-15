@@ -1,0 +1,58 @@
+h1. Dicas
+
+* [HTML5 Boilerplate|http://html5boilerplate.com/]
+
+* [HTML5 - Async Scripts :: Zeno Rocha|http://zenorocha.com/html5-async-scripts/]
+
+* [The progress element :: HTML5 Doctor|http://html5doctor.com/the-progress-element/]
+
+* [Baterry API :: Loop Infinito|http://loopinfinito.com.br/2013/03/21/battery-api/]
+
+* [Making HTML5 audio actually work on mobile|http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/]
+
+* [HTML5 Video and Background Images|http://www.iandevlin.com/blog/2013/03/html5/html5-video-and-background-images]
+
+* [Spirograph in HTML 5 :: codepen.io|http://codepen.io/cwolves/pen/gykbc]
+
+* [Introduction to WebSockets :: Tech.Pro|http://tech.pro/tutorial/1167/introduction-to-websockets]
+
+* [Web SQL DB vs. IndexedDB :: JavAssCrypt|http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/]
+
+* [Está perdido? Geolocalização\! :: Tableless|http://tableless.com.br/esta-perdido-geolocalizacao/] \- Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
+
+* [HTML5 Web Notification|http://jaydson.org/html5-web-notifications/]
+
+h2. Server Sent Events
+
+* [HTML5 e SSE :: Igor Costa|http://www.igorcosta.com/html5-e-sse-eventsource/]
+
+* [Push Notifications to the Browser With Server Sent Events|http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/]
+
+h2. File System
+
+* [Exploring the FileSystem APIs :: HTML5 Rocks|http://www.html5rocks.com/en/tutorials/file/filesystem/]
+
+* [Ler arquivos em JavaScript usando as APIs do arquivo :: HTML5 Rocks|http://www.html5rocks.com/pt/tutorials/file/dndfiles/]\* \[GitHub\] [FileReader.js|http://bgrins.github.io/filereader.js/] \- Read Files with JavaScript
+
+
+
+---
+
+h1. Tags
+
+
+html5
+sse
+api
+file
+system
+arquivos
+javascript
+base
+de
+dados
+boilerplate
+audio
+indexdb
+websql
+bateria

@@ -1,0 +1,25 @@
+h1. Desktop & Mobile
+
+* [Appcelerator Titanium|http://www.appcelerator.com/platform/titanium-platform/]
+
+** [Wunderlist 2|https://www.wunderlist.com] \| [Code - GitHub|https://github.com/6wunderkinder/wunderlist]
+
+* twitter: *_@zaedysayao{_}* : [Rio.js|http://forge.petrobras.com.br/redmine/projects/poc-restful-bookmarks/wiki/www.riojs.org] \- \[SlideShare\] [Construindo aplicações Desktop com HTML, CSS e JS - Rio.JS Conference 2013|http://www.slideshare.net/javamanrj/construindo-aplicaes-desktop-com-html-css-e-js-riojs-conference] \| \[Github\] [Fontes mostrados durante o primeiro RioJS Conference|https://github.com/javamanrj/riojs-conference]
+
+
+---
+
+h1. Tags
+
+
+appcelerator
+titanium
+wunderlist
+github
+code
+código
+exemplo
+riojs
+desenvolvimento
+palestra
+apresentação

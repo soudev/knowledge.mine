@@ -1,0 +1,49 @@
+h1. Offline
+
+* [MDN - Application Cache API|https://developer.mozilla.org/en-US/docs/HTML/Using_the_application_cache]
+
+* [Can I use offline web applications?|http://caniuse.com/offline-apps] \- Compatibility table for support of offline web applications in desktop and mobile browsers.
+
+* [Apostilas da Caelum offline com Application Cache do HTML 5|http://blog.caelum.com.br/apostilas-da-caelum-offline-com-application-cache-do-html-5/]
+
+* [Palestra : HTML5 offline e Application Cache :: Sérgio Lopes|http://sergiolopes.org/palestra-appcache-html5-offline/]
+
+* [Load Your Game Faster with AppCache :: Learning Three.js|http://learningthreejs.com/blog/2013/03/22/load-your-game-faster-with-appcache/]
+
+* \[YouTube\] [O elo perdido: sincronizando webapps html5 com o servidor (node.js)|https://www.youtube.com/watch?v=JlrwvNpUJpM] \- [Slides|http://goo.gl/EBrYX]
+
+
+h2. Christophe Coenraets
+
+* [Simple Offline Data Synchronization for Mobile Web and PhoneGap Applications|http://coenraets.org/blog/2012/05/simple-offline-data-synchronization-for-mobile-web-and-phonegap-applications/]
+
+* [Building Mobile Apps with HTML and a Local Database|http://coenraets.org/blog/2012/04/building-mobile-apps-with-html-and-a-local-database/]
+
+
+h2. FT Labs
+
+* [Tutorial 4: History API in an offline HTML5 web app|http://labs.ft.com/2013/04/offline-html5-history-api/]
+
+
+h2. Icenium
+
+*  [Is This Thing On? (Part 1)|http://www.icenium.com/community/blog/icenium-team-blog/2013/04/23/is-this-thing-on-part-1] \- Detect and manage online/offline connectivity in Web/mobile applications
+
+
+
+---
+
+h1. Tags
+
+
+html5
+offline
+nodejs
+banco
+dados
+api
+histórico
+history
+móvel
+mobile
+cache

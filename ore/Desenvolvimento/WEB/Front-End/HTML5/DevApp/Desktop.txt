@@ -1,0 +1,28 @@
+h1. Desktop
+
+* \[GitHub\] [coolaj86 / HelloNode|https://github.com/coolaj86/HelloNode] \- An installable example node app
+
+* [AppJS|http://appjs.org/] \- for Linux, Windows and Mac using HTML, CSS and Javascript (Node.js)
+
+* [Chrome - Packaged Apps|http://developer.chrome.com/apps/]
+
+* [Desktop Apps with HTML5 and the Mozilla Web Runtime|https://hacks.mozilla.org/2012/05/desktop-apps-with-html5-and-the-mozilla-web-runtime/] \| [Mozilla Apps|https://developer.mozilla.org/en-US/docs/Apps]
+
+* [TideSDK - Create multi-platform desktop apps with HTML5, CSS3 and JavaScript|http://www.tidesdk.org] \| TideSDK formerly known as Titanium Desktop is the best way to create  beautiful, unique desktop apps using your web development skills.
+
+* [Create HTML5 Desktop Apps & Games - Developers :: Pokki|https://developers.pokki.com/]
+
+
+
+---
+
+h1. Tags
+
+
+html5
+aplicação
+desktop
+nodejs
+tidesdk
+mozilla
+chrome

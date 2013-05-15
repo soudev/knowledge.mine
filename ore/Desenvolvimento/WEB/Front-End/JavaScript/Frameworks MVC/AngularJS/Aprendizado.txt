@@ -1,0 +1,37 @@
+h1. Aprendizado
+
+* [Angular Docs Guide|http://docs.angularjs.org/guide/]
+
+* [AngularJS Cheat Sheet|http://www.cheatography.com/proloser/cheat-sheets/angularjs/]
+
+* [AngularJS - Where To Start?|http://blog.whydoifollow.com/post/angularjs-where-to-start]
+
+* [Egghead - AngularJS|http://egghead.io/] \- curso online
+
+* [Use AngularJS to power your web application :: Year of Moo|http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html]
+
+* [More AngularJS Magic to Supercharge your Webapp :: Year of Moo|http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html]
+
+* [Code Organization in Large AngularJS and JavaScript Applications|http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript]
+
+* [Angular Cats! An AngularJS Adventure Anthology|http://ericterpstra.com/2012/09/angular-cats-an-angularjs-adventure-anthology/]
+
+* [DevCast - Tunando o browser com AngularJS|http://devcastbrasil.com/videos/tunando-o-browser-com-angularjs/]
+
+* [ASP.NET MVC and Angular JS with Scott Allen|http://tv.ssw.com/3061/asp-net-mvc-and-angular-js]
+
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+angularjs
+framework
+aprendizado
+guia
+referência
+organização

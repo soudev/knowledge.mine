@@ -1,0 +1,38 @@
+h1. Projetos de Exemplo
+
+* \[GitHub\] [angular-app/angular-app|https://github.com/angular-app/angular-app] \- Reference application for AngularJS
+
+* [ng-boilerplate :: Non-Trivial AngularJS Made Easy|http://joshdmiller.github.com/ng-boilerplate/] \- Everything you need to kickstart AngularJS projects: a best-practice  directory structure, an intelligent build system, and the best web  design libraries around.
+
+* \[GitHub / erkobridee\] [lab-angularjs|https://github.com/erkobridee/lab-angularjs]
+
+* [AngularJS -- Consumindo a API do GitHub|http://blog.erkobridee.com/2012/07/26/angularjs-consumindo-a-api-do-github/] \| [Testar App|http://erkobridee.github.com/angularjs-github-info/] \| [GitHub Code|https://github.com/erkobridee/angularjs-github-info]
+
+
+
+h2. Angular-Seed
+
+Projeto de exemplo / estrutura inicial
+
+* *Oficial:* \[GitHub\] [angular/angular-seed|https://github.com/angular/angular-seed] \| [Jenkins-CI|http://ci.angularjs.org/view/angular-seed/]
+
+* *Fork:* \[GitHub\] [skivvies/angular-seed|https://github.com/skivvies/angular-seed] \| [Travis-CI|https://travis-ci.org/skivvies/angular-seed]
+
+* *require.js:* \[GitHub\] [ysilvestrov / angular-seed|https://github.com/ysilvestrov/angular-seed]
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+angularjs
+framework
+seed
+exemplo
+github
+código
+projeto
+boilerplate

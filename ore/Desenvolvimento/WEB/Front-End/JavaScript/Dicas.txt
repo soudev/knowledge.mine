@@ -1,0 +1,32 @@
+h1. Dicas
+
+* [Useful JavaScript Libraries and jQuery Plugins|http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/]
+
+* [Capturando erros js like a boss :: Tableless|http://tableless.com.br/capturando-erros-js-like-a-boss/] \- window.onerror
+
+* [SuperAgent - Ajax with less suck|http://visionmedia.github.com/superagent/]
+
+* [Callback Hell|http://callbackhell.com/] \- A guide to writing elegant asynchronous javascript programs
+
+* [Random Number Generation in JavaScript :: Bocoup|http://weblog.bocoup.com/random-numbers/]
+
+* [JS Packer|http://iwantaneff.in/packer/] \- compress your Javascript to a tiny file-size
+
+* [JavaScript Byte saving techniques|https://github.com/jed/140bytes/wiki/Byte-saving-techniques]
+
+
+
+
+---
+
+h1. Tags
+
+javascript
+dicas
+bibliotecas
+jquery
+plugins
+tecnicas
+random
+número
+ajax 

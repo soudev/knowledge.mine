@@ -1,0 +1,43 @@
+h1. Frameworks MVC
+
+* [MVC Architecture|http://developer.chrome.com/trunk/apps/app_frameworks.html]
+
+* [TodoMVC|http://addyosmani.github.com/todomvc/] \- Helping you select an MV\* framework
+
+* [Journey Through The JavaScript MVC Jungle :: Smashing Coding|http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/]
+
+* [Rich JavaScript Applications -- the Seven Frameworks|http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/]
+
+* [The Top 10 Javascript MVC Frameworks Reviewed|http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/]
+
+* [The Big Glossary of Open Source JavaScript and Web Frameworks with Cool Names|http://www.hanselman.com/blog/TheBigGlossaryOfOpenSourceJavaScriptAndWebFrameworksWithCoolNames.aspx]
+
+
+
+h2. Páginas filhas
+
+  Angular.js
+      Angular.js - Aprendizado
+      Angular.js - Caso de Uso
+      Angular.js - Dicas
+      Angular.js - Módulos
+      Angular.js - Projetos de Exemplo
+      Angular.js - Teste
+  Backbone.js
+
+
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+framework
+mvc
+glossário
+top10
+arquitetura
+todomvc

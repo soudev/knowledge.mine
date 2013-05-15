@@ -1,0 +1,37 @@
+h1. Sistema de Dependências e Módulos
+
+* [Mantri|http://mantrijs.com/] \- JavaScript Dependency System
+
+h2. Require.js - Performance e Organização
+
+* [RequireJS|http://requirejs.org]
+
+* GitHub : [CaryLandholt / Tutorial RequireJS TheBasics|https://github.com/CaryLandholt/Tutorial-RequireJS-TheBasics]
+
+* GitHub : [CaryLandholt / Tutorial RequireJS Optimizer|https://github.com/CaryLandholt/Tutorial-RequireJS-Optimizer]
+
+* [Modular JavaScript with RequireJS|http://blog.credera.com/topic/technology-solutions/java/modular-javascript-with-requirejs/]
+
+* [Lazy Loading JavaScript with RequireJS|http://www.joezimjs.com/javascript/lazy-loading-javascript-with-requirejs/]
+
+* [Usando requireJS + jQuery para organizar seu código - Tutsmais|http://tutsmais.com.br/blog/javascript-2/usando-requirejs-jquery-para-organizar-seu-codigo/]
+
+* [Organize Your Code with RequireJS|http://blog.teamtreehouse.com/organize-your-code-with-requirejs]
+
+* [Source Modification With r.js :: Merrick Christensen|http://merrickchristensen.com/articles/build-angular-with-requirejs.html] \- An overview of source modification with r.js. Using ngmin and [cpi:Angular.js] as an example.
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+performance
+organização
+requirejs
+mantri
+modular
+código
+github

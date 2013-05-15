@@ -1,0 +1,103 @@
+h1. Angular.js
+
+
+{tip:title=Motivação}
+Framework Javascript para desenvolvimento de Front-end com curva de  aprendizado rápida e produtividade similar a encontrada no Adobe Flex.
+{tip}
+
+
+
+*Obs.:*
+* o [Angular.js|http://angularjs.org/] é mantido pela Google
+
+* o código e desenvolvimento é realizado no [repositório do GitHub|https://github.com/angular/angular.js]
+
+* o criador do Angular.js era desenvolvedor Adobe Flex - [Miško Hevery|http://misko.hevery.com/about/]
+
+* O projeto utiliza o Jenkins CI para efetuar os builds [ci.angularjs.org|http://ci.angularjs.org/] \| [configurações|https://github.com/angular/ci.angularjs.org]
+
+
+h2. Por que utilizar o AngularJS?
+
+HTML é ótimo para documentos declarativos estátivos, porém deixa a  desejar quando se trata de aplicações web. O AngularJS possibilita  extender o vocabulário HTML em sua aplicação. O ambiente que resulta  disso é extraordinariamente expressivo, legível e aumenta a velocidade  do desenvolvimento.
+
+O AngularJS é um conjunto de ferramentas, para construir um framework mais adequado para o desenvolvimento de aplicações.
+
+É totalmente extensível e trabalha bem com outras bibliotecas. Cada  característica do AngularJS pode ser modificada ou substituida conforme a  necessidade do projeto.
+
+* [5 reasons to use AngularJS in the corporate app world :: Digital Caveman|http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/]
+
+
+h2. 5 Características impressionantes
+
+*Fonte:* [5 Awesome AngularJS Features :: Nettuts\+|http://net.tutsplus.com/tutorials/javascript-ajax/5-awesome-angularjs-features/]
+
+
+
+
+* Two Way Data-Binding
+
+Facilita muito a interação entre o View e o Controller. É  provavelmente uma das carateristicas mais legais do AngularJS e irá te  salvar de ter que escrever código redundante para atualização de  informações, tanto na view, quando no controller.
+* Templates
+
+No AngularJS, um template é nada mais que um pedaço de código HTML.  Este código HTML do template é extendido para conter instruções de como o  modelo deve ser exibido e atualizado pela view.
+* MVC
+
+O AngularJS incorpora os princípios básicos do padrão MVC de como  implementar o client-side de aplicações web, entretanto não implementa o  modelo tradicional do MVC, e sim um padrão próximo ao MVVM  (Model-View-ViewModel).
+
+*{_}Model{_}*
+
+O modelo são os dados da aplicação. O modelo nada mais são que  objetos JavaScript. Não há a necessidade de implementar nenhuma classe  específica do framework.
+
+*{_}ViewModel{_}*
+
+O ViewModel é um objeto que prove dados e métodos específicos para uma determinada View.
+
+No AngularJS o ViewModel é representado pelo objeto $scope. O $scope  é um objeto JavaScript com um conjunto pequeno de funcionalidades para  monitorar e refletir as alterações nos dados entre a View e o  Controller.
+
+*{_}Controller{_}*
+
+O Controller é responsável por determinar o estado inicial do $scope com os métodos e dados utilizados pela View.
+Vale  a pena notar que não é responsábilidade do Controller manter o estado  da aplicação, nem interagir(controlar as requisições/respostas) com os  serviços remotos.
+
+*{_}View{_}*
+
+A View é o HTML resultante do pós processamento do AngularJS do HTML que inclui as extensões de interação com o modelo.
+
+Esta divisão cria uma fundação sólida para a arquitetura da  aplicação. Onde o $scope possui as referências dos dados, o Controller  define o comportamento e a View lida com o layout e as interações com o  Controller, que responde de acordo com a interação.
+* Injeção de Dependências
+
+O AngularJS possui um suporte interno para injeção de dependências, o  que torna o desenvolvimento da aplicação mais fácil, compreensível e  testável.
+* Diretivas
+
+Diretivas é o que possibilita extender o HTML e criar tags  customizadas, possibilitando criar componentes, os quais poderão ser  reaproveitados em futuros projetos.
+* Bonus: Suporte para Testes
+
+O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava de uma filosofia de testes. Tendo isso em mente o AngularJS  foi projetado para que as aplicações que fossem implementadas utilizando  o AngularJS fossem o mais fácil possível de serem testadas. Com isso  não existe desculpas de não escrever testes para as aplicações  construídas com o AngularJS.
+
+
+
+
+h2. Páginas filhas
+
+    Angular.js - Aprendizado
+    Angular.js - Caso de Uso
+    Angular.js - Dicas
+    Angular.js - Módulos
+    Angular.js - Projetos de Exemplo
+    Angular.js - Teste
+
+
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+angularjs
+framework
+mvc
+definição

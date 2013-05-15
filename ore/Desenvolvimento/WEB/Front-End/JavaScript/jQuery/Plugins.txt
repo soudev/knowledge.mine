@@ -1,0 +1,29 @@
+h1. Plugins
+
+* [Useful JavaScript Libraries and jQuery Plugins|http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/]
+
+* [15+ jQuery Popup Modal Dialog Plugins and Tutorials|http://choosedaily.com/1178/15-jquery-popup-modal-dialog-plugins-tutorials/]
+
+* [50 Amazing jQuery Plugins That You Should Start Using Right Now :: Tutorialzine|http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/]
+
+* [jQuery Sortable|http://johnny.github.com/jquery-sortable/]
+
+* [MagicSuggest|http://nicolasbize.github.com/magicsuggest/] \- Auto-suggest combo with bootstrap theme using jQuery
+
+* [SlidesJS|http://slidesjs.com/] \- is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions
+
+* [jQuery-menu-aim|https://github.com/kamens/jQuery-menu-aim] \- menu-aim is a jQuery plugin for dropdown menus that can differentiate  between a user trying hover over a dropdown item vs trying to navigate  into a submenu's contents
+
+* [jQuery Pin|http://webpop.github.com/jquery.pin/] \- plugin for pinning elements within a container
+
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+jquery
+plugin

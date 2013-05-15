@@ -1,0 +1,27 @@
+h1. Teste
+
+{note:title=Dependência}
+\\
+As ferramentas de teste, para os projetos com Angular.js necessitam e executam sobre o [cpi:Node.js]
+
+[Grunt.js|cpi:JS - Executor de Tarefas] \| [Karma|cpi:JS - Testes] \| [Bower|cpi:JS - Gerenciador de Pacotes] 
+{note}
+
+* [How To Test An AngularJS Directive :: Newtriks LTD|http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/]
+
+* [How to mock AngularJS modules and inject them in your testacular tests?|http://southdesign.de/blog/mock-angular-js-modules-for-test-di.html]
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+angularjs
+framework
+mvc
+teste
+karma
+testacular

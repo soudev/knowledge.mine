@@ -1,0 +1,29 @@
+h1. Dicas
+
+* [Boas práticas com JavaScript e jQuery: código não-obstrusivo|http://blog.caelum.com.br/boas-praticas-com-javascript-e-jquery-codigo-nao-obstrusivo/]
+
+* [jQuery Boilerplate|http://jqueryboilerplate.com/] \- Jump-starting jQuery plugins development versão [pt_BR|http://br.jqueryboilerplate.com/]
+
+* [jQuery: Fastest method to find Descendents|http://aahacreative.com/2010/07/19/jquery-fastest-method-find-descendents/]
+
+* [Parallax simples com JQuery e CSS :: Tableless|http://tableless.com.br/parallax-simples-com-jquery-e-css/]
+
+* [Como fazer um build customizado do jQuery :: Tutsmais|http://tutsmais.com.br/blog/jquery/como-fazer-um-build-do-jquery/] \- utiliza o node.js, grunt.js e git-scm \| \[GitHub\] [jquery / jquery|https://github.com/jquery/jquery]
+
+* [5 Things You Should Stop Doing With jQuery|http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/]
+
+
+
+---
+
+h1. Tags
+
+
+javascript
+jquery
+boilerplate
+boas
+práticas
+dicas
+github
+código

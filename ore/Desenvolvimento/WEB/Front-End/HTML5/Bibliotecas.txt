@@ -1,0 +1,70 @@
+h1. Bibliotecas
+
+* [Charts.js|http://www.chartjs.org] \- Simple HTML5 Charts using the _canvas_ tag
+
+* [HumbleFinance|http://www.humblesoftware.com/finance/index] is an HTML5 data visualization tool written as a demonstration of interactive graphing in HTML5.
+
+* [5 of the Best Free HTML5 Presentation Systems|http://www.sitepoint.com/5-free-html5-presentation-systems/]
+
+* [CreateJS Studio|http://createjs.com/] \- A suite of Javascript libraries & tools for building rich, interactive experiences with HTML5.
+
+* [KineticJS|http://kineticjs.com/] \- is  an HTML5 Canvas JavaScript framework that enables high performance  animations, transitions, node nesting, layering, filtering, caching,  event handling for desktop and mobile applications, and much more.
+
+* [Nanoko|http://nanoko.org/] \- is a  JavaScript modular framework enabling flexible and sustainable HTML5  applications development and their deployment on both mobile and desktop  applications. [Getting Started|http://nanoko.org/?page=gettingstarted] \| _utiliza o maven como base para o projeto_ \|
+
+* [lunr.js - A bit like Solr, but much smaller and not as bright|http://lunrjs.com/] \- Simple full-text search in your browser
+
+* [Resumable.js|http://www.resumablejs.com/] \- A JavaScript library providing multiple simultaneous, stable and resumable uploads via the HTML5 File API
+
+* [JayData|http://jaydata.org/] \| [GitHub / JayData|https://github.com/jaydata] \| [Codeplex / JayData|https://jaydata.codeplex.com/] \- The cross-platform HTML5 data-management library for JavaScript
+
+* \[GitHub\] [lcavadas / Storage.js|https://github.com/lcavadas/Storage.js] \- Javascript library that wraps storage logic ( localStorage, WebSQL, IndexedDB) for all browsers
+
+* [Lawnchair|http://brian.io/lawnchair/] \- Simple JSON Storage
+
+
+
+h2. Game
+
+* [Largest Directory of HTML5 Games|http://html5games.com/]
+
+* \[GitHub\] [FuzzYspo0N / realtime-multiplayer-in-html5|https://github.com/FuzzYspo0N/realtime-multiplayer-in-html5] \- an example using node.js, socket.io and HTML5 Canvas to explain and demonstrate realtime multiplayer games in the browser.
+
+
+h3. Game Engine
+
+* [Game Closure|http://www.gameclosure.com/] \- The Game Closure DevKit. 100% JavaScript. Build your games faster  than ever before\! Native speed. Write HTML5 games that outperform the  competition.
+
+* [voxel.js * blocks in yo browser|http://voxeljs.com/]
+
+* [Joy.JS|http://joyjs.org/] \- A Joyful HTML5 2D Game Engine
+
+* [Collie|http://jindo.dev.naver.com/collie/] is a Javascript library that helps to create highly optimized animations and games using HTML 5.
+
+* [Construct 2|http://www.scirra.com/store/free-html5-game-engine] \- The Free HTML5 Game Engine
+
+* [enchant.js|http://enchantjs.com/] \- A simple JavaScript framework for creating games and apps
+
+
+
+
+---
+
+h1. Tags
+
+
+armazenamento
+jaydata
+json
+storage
+biblioteca
+kinectjs
+createjs
+apresentação
+html5
+gráficos
+charts
+texto
+buscador
+game
+engine
