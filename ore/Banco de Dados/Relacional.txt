@@ -2,34 +2,34 @@ h1. Relacional
 
 h2. Oracle
 
- [Oracle Databasehttpwww.oracle.comusproductsdatabaseoverviewindex.html]
+* [Oracle Database|http://www.oracle.com/us/products/database/overview/index.html]
 
- [Oracle MySQLhttpwww.oracle.comusproductsmysqloverviewindex.html]
+* [Oracle MySQL|http://www.oracle.com/us/products/mysql/overview/index.html]
 
- [Oracle Berkeley DBhttpwww.oracle.comusproductsdatabaseberkeley-dboverviewindex.htm]
+* [Oracle Berkeley DB|http://www.oracle.com/us/products/database/berkeley-db/overview/index.htm]
 
 
 h2. PostgreSQL
 
- [PostgreSQLhttpwww.postgresql.org]  The world's most advanced open source database
+* [PostgreSQL|http://www.postgresql.org/] : The world's most advanced open source database
 
- [Comunidade Brasileira de PostgreSQLhttpwww.postgresql.org.br]
+* [Comunidade Brasileira de PostgreSQL|http://www.postgresql.org.br/]
 
- [PostgreSQL JDBC Driverhttpjdbc.postgresql.org]
+* [PostgreSQL JDBC Driver|http://jdbc.postgresql.org/]
 
 
 h2. MariaDB
 
- [MariaDBhttpsmariadb.org] An enhanced, drop-in replacement for MySQL.
+* [MariaDB|https://mariadb.org/] An enhanced, drop-in replacement for MySQL.
 
- [The MariaDB Bloghttpblog.mariadb.org]
+* [The MariaDB Blog|http://blog.mariadb.org/]
 
 
 h2. Base em memória - Java
 
- [HSQLDBhttphsqldb.org]
+* [HSQLDB|http://hsqldb.org/]
 
- [H2 Database Enginehttpwww.h2database.com]  [Tutoriaishttpwww.h2database.comhtmltutorial.html]  [Links úteishttph2database.comhtmllinks.html]
+* [H2 Database Engine|http://www.h2database.com/] \| [Tutoriais|http://www.h2database.com/html/tutorial.html] \| [Links úteis|http://h2database.com/html/links.html]
 
 
  ---

@@ -1,1 +1,0 @@
-Pendente captar as informações dessa área
