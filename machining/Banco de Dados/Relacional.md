@@ -1,41 +1,42 @@
-h1. Relacional
+# Relacional
 
-h2. Oracle
+## Oracle
 
-* [Oracle Database|http://www.oracle.com/us/products/database/overview/index.html]
+* [Oracle Database](http://www.oracle.com/us/products/database/overview/index.html)
 
-* [Oracle MySQL|http://www.oracle.com/us/products/mysql/overview/index.html]
+* [Oracle MySQL](http://www.oracle.com/us/products/mysql/overview/index.html)
 
-* [Oracle Berkeley DB|http://www.oracle.com/us/products/database/berkeley-db/overview/index.htm]
-
-
-h2. PostgreSQL
-
-* [PostgreSQL|http://www.postgresql.org/] : The world's most advanced open source database
-
-* [Comunidade Brasileira de PostgreSQL|http://www.postgresql.org.br/]
-
-* [PostgreSQL JDBC Driver|http://jdbc.postgresql.org/]
+* [Oracle Berkeley DB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.htm)
 
 
-h2. MariaDB
+## PostgreSQL
 
-* [MariaDB|https://mariadb.org/] An enhanced, drop-in replacement for MySQL.
+* [PostgreSQL](http://www.postgresql.org/) - The world's most advanced open source database
 
-* [The MariaDB Blog|http://blog.mariadb.org/]
+* [Comunidade Brasileira de PostgreSQL](http://www.postgresql.org.br/)
 
-
-h2. Base em memória - Java
-
-* [HSQLDB|http://hsqldb.org/]
-
-* [H2 Database Engine|http://www.h2database.com/] \| [Tutoriais|http://www.h2database.com/html/tutorial.html] \| [Links úteis|http://h2database.com/html/links.html]
+* [PostgreSQL JDBC Driver](http://jdbc.postgresql.org/)
 
 
- ---
+## MariaDB
 
- h1. tags
+* [MariaDB](https://mariadb.org/) - An enhanced, drop-in replacement for MySQL.
 
+* [The MariaDB Blog](http://blog.mariadb.org/)
+
+
+## Base em memória - Java
+
+* [HSQLDB](http://hsqldb.org/)
+
+* [H2 Database Engine](http://www.h2database.com/) | [Tutoriais](http://www.h2database.com/html/tutorial.html) | [Links úteis](http://h2database.com/html/links.html)
+
+
+
+
+# Tags
+
+```
 banco
 dados
 relacional
@@ -45,3 +46,4 @@ d2
 oracle
 mysql
 berkeleydb
+```
