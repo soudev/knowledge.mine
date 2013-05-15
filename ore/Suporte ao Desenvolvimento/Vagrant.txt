@@ -14,8 +14,6 @@ h1. Vagrant - Ambientes de Desenvolvimento Virtuais
 
 *Proposta:* diminuir o tempo de configuração do  ambiente e maximizar a paridade dos ambientes de desenvolvimento e  produção, e tornar a desculpa _"funciona na minha máquina"_, uma relíquia do passado.
 
-*IMHO:* Acredito que pode ser muito útil principalmente na Petrobras.
-
 *Observação:* utiliza o [Oracle VM VirtualBox|https://www.virtualbox.org/]
 
 
