@@ -35,6 +35,8 @@ Para isso defina o arquivo *.gitignore*
 
 ## Branch
 
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/index.html)
+
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 * [Desmitificando branches remotas com Git | Caelum](http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/)
