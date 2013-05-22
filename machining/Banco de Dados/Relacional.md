@@ -1,5 +1,7 @@
 # Relacional
 
+* [Trabalhando com junções de tabelas (JOINs) | iMasters](http://imasters.com.br/banco-de-dados/trabalhando-com-juncoes-de-tabelas-joins/)
+
 ## Oracle
 
 * [Oracle Database](http://www.oracle.com/us/products/database/overview/index.html)
