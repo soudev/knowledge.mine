@@ -70,6 +70,8 @@
 
 * [Jetstrap](http://jetstrap.com/) - Rapid interface builder for Twitter Bootstrap. Don't just mock-up, build! Generates real Bootstrap HTML, CSS, and Javascript
 
+* [Fuel UX extends for twitter bootstrap](http://exacttarget.github.io/fuelux/)
+
 * [Bootply: Bootstrap playground](http://bootply.com/) - is a playground for Twitter Bootstrap. Bootply helps you design, prototype, extend or test the Bootstrap framework
 
 * [LayoutIt! - Interface Builder for Bootstrap](http://www.layoutit.com/)

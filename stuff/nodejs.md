@@ -81,6 +81,8 @@
 
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
 
+* [Can You Count on Node? - Blog - Joyent](http://joyent.com/blog/can-you-count-on-node)
+
 
 
 ## Dicas
