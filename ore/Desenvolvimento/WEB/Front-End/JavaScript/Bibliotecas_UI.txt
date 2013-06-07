@@ -1,4 +1,4 @@
-h1. Bibliotecas de UI
+h1. JS - Bibliotecas de UI
 
 * [15 Javascript Web UI Libraries, Frameworks and Toolkits|http://speckyboy.com/2010/05/17/15-javascript-web-ui-libraries-frameworks-and-libraries/]
 
@@ -22,6 +22,9 @@ h1. Bibliotecas de UI
 
 * [Snap.js|https://github.com/jakiestfu/Snap.js] \- A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus) \| [Demo|http://jakiestfu.github.io/Snap.js/]
 
+* [Turn.js|http://www.turnjs.com/] \- Uma biblioteca excelente para criar o efeito pageflip com HTML, CSS e JS.
+
+* [Como criar um pageflip em HTML5/CSS3 com Turn.js|http://javascript.techinsider.com.br/2012/06/27/como-criar-um-pageflip-em-html5css3-com-turn-js/]
 
 
 h2. JQuery
@@ -48,6 +51,7 @@ h2. Diagramas
 
 * [JS Sequence Diagrams|https://github.com/bramp/js-sequence-diagrams] \- Draws simple SVG sequence diagrams from textual representation of the diagram
 
+
 h2. Gráficos
 
 * [15 Awesome Free JavaScript Charts|http://www.splashnology.com/article/15-awesome-free-javascript-charts/325/]
@@ -62,6 +66,9 @@ h2. Gráficos
 
 * [Two.js|http://jonobr1.github.io/two.js/] \- is a  two-dimensional drawing api geared towards modern web browsers. It is  renderer agnostic enabling the same api to draw in multiple contexts:  svg, canvas, and webgl.
 
+* [JavaScript InfoVis Toolkit|http://philogb.github.io/jit/] \- Create Interactive Data Visualizations for the Web
+
+* [Cytoscape.js|http://cytoscape.github.io/cytoscape.js/] \- A JavaScript graph library for analysis and visualisation (compatible with Node.js, jQuery 1.4+, and plain JavaScript)
 
 
 h3. D3.js
@@ -118,13 +125,12 @@ h4. Bibliotecas e funcionalidades contruídas com D3.js
 * [FullScale dangle.js|http://www.fullscale.co/dangle/] \- A set of AngularJS directives that provide common visualizations based on D3.js
 
 
-
-
 h3. Gantt
 
 * [The JavaScript Gantt odyssey|http://roberto.open-lab.com/2012/06/14/the-javascript-gantt-odyssey/]
 
 * [Teamwork Gantt|http://gantt.twproject.com/] is a free online tool for creating Gantts
+
 
 h2. DataGrid
 

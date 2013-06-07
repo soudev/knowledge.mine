@@ -1,4 +1,4 @@
-h1. Executor de Tarefas
+h1. JS - Executor de Tarefas
 
 {note:title=Dependência}As ferramentas de automatização/tarefas necessitam e executam sobre o [cpi:Node.js]{note}
 
@@ -17,11 +17,16 @@ Dentre os ultilizadores, está o [JQuery|http://jquery.com/], [\[GitHub\] jquery
 
 * [Grunt: The JavaScript Task Runner|http://gruntjs.com/]
 
+
+h3. Aprendizado
+
 * [Grunt: Getting started|https://github.com/gruntjs/grunt/wiki/Getting-started]
 
 * [Getting started with Grunt :: Blog - Fronto|http://fronto.be/blog/detail/getting-started-with-grunt]
 
 * [Sample Gruntfile - Grunt: The JavaScript Task Runner|http://gruntjs.com/sample-gruntfile]
+
+* \[YouTube\] [Grunt - The Basics|https://www.youtube.com/watch?v=q3Sqljpr-Vc] \| \[GitHub\] [CaryLandholt / Tutorial-Grunt-TheBasics|https://github.com/CaryLandholt/Tutorial-Grunt-TheBasics]
 
 * [Meet Grunt: The Build Tool for JavaScript :: Nettuts\+|http://net.tutsplus.com/tutorials/javascript-ajax/meeting-grunt-the-build-tool-for-javascript/]
 
@@ -31,15 +36,37 @@ Dentre os ultilizadores, está o [JQuery|http://jquery.com/], [\[GitHub\] jquery
 
 * [Merrick Christensen - Grunt.js Workflow|http://merrickchristensen.com/articles/gruntjs-workflow.html]
 
-* [Kick Ass Cross-Platform Workflow With Grunt|http://blog.bittersweetryan.com/2013/04/kick-ass-cross-platform-workflow-with.html]
-
 * [Grunt: você deveria estar usando\! :: .openBlog()|http://openblog.github.com/2013/03/22/grunt/]
 
 * \[SlideShare\] [Grunt.js and Yeoman, Continous Integration|http://www.slideshare.net/DavidAm/gruntjs-and-yeoman-continous-integration]
 
+* \[YouTube\] [Grunt JavaScript Automation for the Lazy Developer|https://www.youtube.com/watch?v=bntNYzCrzvE]
+
+
+
+h3. Ferramentas
+
+* [Grunt Task Runner Extension for Chrome Developer Tools|https://github.com/vladikoff/grunt-devtools] \- tests
+
 * [Run grunt.js from IntelliJ|http://omar.gy/run-grunt-js-from-intellij/]
 
+
+
+h3. Plugins
+
+* [Grunt.js Plugins|http://gruntjs.com/plugins]
+
+* [grunt-build-gh-pages|https://github.com/pajtai/grunt-build-gh-pages] \- Grunt task to take build directory from current task and move it to another branch \| examplo: [exploratory-javascript-tests|https://github.com/pajtai/exploratory-javascript-tests]
+
+
+
+h3. Dicas
+
 * [Using Grunt.js with CSS|http://blog.pamelafox.org/2012/05/using-gruntjs-with-css.html] \| \[GitHub\] [source grunt file|https://github.com/pamelafox/5lide/blob/master/editor/grunt.js]
+
+* [Otimize suas tarefas com o Grunt! :: Luiz Felipe Tartarotti Fialho|http://www.felipefialho.com/blog/2013/grunt-voce-deveria-estar-usando/]
+
+
 
 h3. Testes
 
@@ -53,6 +80,7 @@ h3. Testes
 
 * [Backbone, RequireJS, Jasmine, PhantomJS, and Grunt|http://hdnrnzk.me/2013/01/10/backbone-requirejs-jasmine-phantomjs-and-grunt/]
 
+
 h3. Exemplos de Uso
 
 * \[GitHub\] [erkobridee / lab-nodejs / javascript / grunt /|https://github.com/erkobridee/lab-nodejs/tree/master/javascript/grunt]
@@ -62,30 +90,3 @@ h3. Exemplos de Uso
 * \[GitHub\] [felixlaumon / kickstart|https://github.com/felixlaumon/kickstart] \- is a starter template for building your next web app. It allows you to dive right into writing actual code. Kickstart uses *{_}Grunt{_}* and *{_}Bower{_}* and includes LiveReload, LESS, Jade, RequireJS, and JSHint
 
 * [Automatically download & use FrontEnd JS dependencies with Bower + Grunt boilerplate free|http://www.blogeek.com.ar/2013/04/25/automatically-download-use-frontend-js-dependencies-with-bower-grunt-boilerplate-free/]
-
-
-
----
-
-h1. Tags
-
-
-exemplo
-javascript
-nodejs
-gruntjs
-teste
-task
-runner
-executor
-tarefas
-github
-código
-jasmine
-intellij
-ferramenta
-build
-less
-liveroad
-jshint
-jade
