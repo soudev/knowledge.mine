@@ -30,6 +30,10 @@
 
 * [Getting Started](http://foundation.zurb.com/docs/)
 
+* [Foundation for Beginners: The Grid System | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/foundation-for-beginners-the-grid-system/)
+
+--
+
 * [Almost Flat UI](http://websymphony.net/almost-flat-ui/)
 
 
