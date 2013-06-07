@@ -137,6 +137,8 @@
 
 * [[SlideShare] 5 Tips for Better JavaScript](http://www.slideshare.net/toddanglin/5-tips-for-better-javascript)
 
+* [JavaScript Performance Tips & Tricks | Modus Create](https://moduscreate.com/javascript-performance-tips-tricks/)
+
 * [3 reasons why you should let Google host jQuery for you - Encosia](http://encosia.com/3-reasons-why-you-should-let-google-host-jquery-for-you/)
 
 * [Writing Fast, Memory-Efficient JavaScript | Smashing Coding](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
@@ -171,6 +173,8 @@
 * [Organize Your Code with RequireJS](http://blog.teamtreehouse.com/organize-your-code-with-requirejs)
 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example.
+
+* [RequireJS – Optimizing and Building One File](http://orizens.com/wp/topics/requirejs-optimizing-and-building-one-file/)
 
 
 ##### Backbone.js
@@ -226,6 +230,7 @@
 
 * [List.js](http://listjs.com/) - Add search, sort and flexibility to plain HTML lists or tables with cross-browser native JavaScript by @javve . “Native” JavaScript, no dependencies on libraries.
 
+* [Converse.js](http://conversejs.org/) - An XMPP chat client for your website
 
 
 ### Design API & Biblioteca
