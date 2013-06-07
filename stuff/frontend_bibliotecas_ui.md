@@ -37,8 +37,11 @@
 
 * [JQuery UI tools](http://jquerytools.org/)
 
+### Template Engine
 
-### Handlebars.js
+* [Template Engine Chooser](http://garann.github.io/template-chooser/)
+
+#### Handlebars.js
 
 * [Handlebars.js](http://handlebarsjs.com/)
 
