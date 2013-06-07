@@ -66,16 +66,19 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ## Dicas
 
-* Commit de um diretório vazio
+> **Commit de um diretório vazio**
+> 
+> Dentro do respectivo diretório crie o arquivo **\*.gitkeep**
 
-  * Dentro do respectivo diretório crie o arquivo `*.gitkeep`
+--
 
-* Ignorar o commit de arquivos e/ou diretórios
+> **Ignorar o commit de arquivos e/ou diretórios**
+>
+> Para isso defina o arquivo **\*.gitignore**
+>
+> [Uma coleção com templates de .gitignore úteis](https://github.com/github/gitignore)
 
-  * Para isso defina o arquivo `*.gitignore`
-
-  * [Uma coleção com templates de .gitignore úteis](https://github.com/github/gitignore)
-
+--
 
 * [Git Howto: Revert a Commit Already Pushed to a Remote Repository](http://christoph.ruegg.name/blog/2010/5/5/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 
