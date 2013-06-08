@@ -85,6 +85,7 @@
 
 * [Can You Count on Node? - Blog - Joyent](http://joyent.com/blog/can-you-count-on-node)
 
+* [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
 
 
 ## Dicas
