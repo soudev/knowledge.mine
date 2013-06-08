@@ -119,11 +119,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular.js Views and Controllers | Backlift Blog](https://blog.backlift.com/entry/angular-tut1)
 
----
+--
 
 * [Code Organization in Large AngularJS and JavaScript Applications](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
 
----
+--
 
 * [[YouTube] Google I/O 2013 - Design Decisions in AngularJS](https://www.youtube.com/watch?v=HCR7i5F5L8c)
 
@@ -135,11 +135,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [YouTube] AngularJS end-to-end web app tutorial - .Net [Part I](https://www.youtube.com/watch?v=Ja2xDrtylBw) | [Part II](https://www.youtube.com/watch?v=6WbVn_gYwQo) | [Part IIII](https://www.youtube.com/watch?v=ilCH2Euobz0)
 
----
+--
 
 * [Interesting Bits 8 - Angular Js](http://blog.rodolfocaldeira.com/2013/05/24/interesting-bits-8-angularjs.html) - A collection of some really useful AngularJs links.
 
 * [Things I Wish I Were Told About Angular.js](http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
+
+* [[GitHub] jmcunningham / AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 
 
 ## Caso de Uso
