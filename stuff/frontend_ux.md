@@ -18,10 +18,13 @@
 
 * [Color Swatches](http://maxmackie.com/jquery.swatches/) - a free to use [jQuery plugin](http://github.com/maxmackie/jquery.swatches) by [Max Mackie](http://maxmackie.com/)
 
----
+--
 
 * [Intro.js](http://usablica.github.com/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects
 
 * [Chardin.js](http://heelhook.github.com/chardin.js/) - Simple overlay instructions for your apps
 
 * [Tourist.js](http://easelinc.github.io/tourist/) - a simple library for creating guided tours through your app
+
+* [jQuery TourBus](http://ryanfunduk.com/jquery-tourbus/)
+
