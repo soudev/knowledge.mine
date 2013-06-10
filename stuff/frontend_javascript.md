@@ -214,6 +214,8 @@
 
 ### Bibliotecas
 
+* [JSDB.io](http://www.jsdb.io/) is a collection of the best javascript libraries
+
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
 
   * [NPM](https://npmjs.org/package/xlsjs) | [JS-XLS Live Demo](http://niggler.github.io/js-xls/)
