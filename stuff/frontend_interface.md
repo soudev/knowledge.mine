@@ -6,6 +6,8 @@
 
 * [How–to: Use TITLE attributes](http://a11yproject.com/posts/title-attributes/)
 
+* [target='_blank' vs. target='_new'](http://www.russellheimlich.com/blog/target_blank-vs-target_new/)
+
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/) - Passo-a-passo para aprender como funciona de verdade o esquema de layouts de CSS, especialmente útil para quem está começando.
 
 * [Dicas de sobrevivência em uma era pós o IE6 | Tableless](http://tableless.com.br/dicas-de-sobrevivencia-ie6/)
