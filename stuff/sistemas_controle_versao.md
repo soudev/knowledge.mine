@@ -200,8 +200,9 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/)
 
-* [Markdown Cheatsheet · adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Cheatsheet - adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+* [demarcate.js](http://will-hart.github.io/demarcate.js/) - is a jQuery based editor for Markdown.
 
 
 ## Ferramentas
