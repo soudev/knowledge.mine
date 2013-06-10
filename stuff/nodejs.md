@@ -128,6 +128,8 @@
 
 * [Node.js com Express.js nos negócios | iMasters](http://imasters.com.br/front-end/javascript/node-js-com-express-js-nos-negocios/)
 
+* [Unitech/pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
+
 
 ## Amazon AWS
 
