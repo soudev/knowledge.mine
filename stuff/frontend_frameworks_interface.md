@@ -22,6 +22,7 @@
 
 * [Pure](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 
+* [skelJS](http://skeljs.org/) - A framework for building responsive sites and apps.
  
  
 ### Foundation
