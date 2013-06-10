@@ -113,6 +113,8 @@
 
 * [Web SQL DB vs. IndexedDB | JavAssCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
 
+* [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
+
 * [Está perdido? Geolocalização! | Tableless](http://tableless.com.br/esta-perdido-geolocalizacao/) - Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
 
 * [HTML5 Web Notification](http://jaydson.org/html5-web-notifications/)
