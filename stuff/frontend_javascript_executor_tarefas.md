@@ -76,6 +76,9 @@
 
 * [Otimize suas tarefas com o Grunt! | Luiz Felipe Tartarotti Fialho](http://www.felipefialho.com/blog/2013/grunt-voce-deveria-estar-usando/)
 
+* [Using Grunt-contrib-livereload With Yeoman's Grunt-regarde](http://blog.jaredlaser.com/blog/2013/05/07/using-grunt-contrib-livereload-with-yeomans-grunt-regarde)
+
+* [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
 
 
 ##### Testes
