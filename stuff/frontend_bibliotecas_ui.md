@@ -75,6 +75,8 @@
 
 * [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - A JavaScript graph library for analysis and visualisation (compatible with Node.js, jQuery 1.4+, and plain JavaScript)
 
+* [DataMaps](http://datamaps.github.io/) - Interactive maps for data visualizations. Bundled into a single Javascript file.
+
 
 #### D3.js
 
