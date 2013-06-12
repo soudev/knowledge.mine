@@ -9,8 +9,6 @@
 
 * [Utilizando o Node.js em um Windows XP sem Administrador](https://gist.github.com/erkobridee/4089098)
 
-
-
 * [[SlideShare] Conhecendo mundo Node.js](http://www.slideshare.net/caioribeiropereira/conhecendo-mundo-nodejs-12813969)
 
 * [O que exatamente é o Node.js? | IBM developerWorks](http://www.ibm.com/developerworks/br/library/os-nodejs/)
@@ -63,6 +61,7 @@
 
 * [5 Talks to Learn More About Node.js](http://blog.modulus.io/five-talks-learn-more-nodejs)
 
+* [[YouTube] Node.js Explained](https://www.youtube.com/watch?v=L0pjVcIsU6A)
 
 
 ## Casos de Uso
