@@ -310,7 +310,7 @@
 > **Dependência**
 > Precisa e executa sobre o Node.js
 
-* [Bower](http://bower.io/) - A package manager for the web, by Twitter
+* [Bower](http://bower.io/) - is a package manager for the web, from Twitter, that lets you easily install assets such as images, CSS and JavaScript, and manages dependencies for you.
 
 * [[GitHub] bower / bower](https://github.com/bower/bower)
 
@@ -318,6 +318,11 @@
 
 * [[YouTube] Conheça o Bower](https://www.youtube.com/watch?v=0XffYRF7-G0)
 
+* [Meet Bower: A Package Manager For The Web | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/meet-bower-a-package-manager-for-the-web/)
+
+* [Twitter Bower & Grunt: Get started with assets management | Guillaume Piot](http://gpiot.com/twitter-bower-grunt-get-started-with-assets-management/)
+
+* [Package Management for the Browser with Bower | SitePoint](http://www.sitepoint.com/package-management-for-the-browser-with-bower/)
 
         
 ### Frameworks MVC
