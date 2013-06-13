@@ -17,6 +17,8 @@
 
 * [2 steps to better API Error Codes | API UX](http://apiux.com/2013/03/28/2-steps-api-error-codes/)
 
+* [webshell.io: The API of APIs](http://webshell.io/) - The API Combinator - Combine APIs easily in Javascript and create REST/JSON API on the fly.
+
 
 ## Desgin
 
