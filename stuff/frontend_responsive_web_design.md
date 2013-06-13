@@ -32,3 +32,9 @@
 
 * [The State Of Responsive Web Design | Smashing Mobile](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/)
 
+* [Facing The Challenge: Building A Responsive Web Application | Smashing Mobile](http://mobile.smashingmagazine.com/2013/06/12/building-a-responsive-web-application/)
+  
+  * [[GitHub] webpro / responsive-web-apps](https://github.com/webpro/responsive-web-apps) - Building Responsive & Hybrid Web Applications
+
+
+
