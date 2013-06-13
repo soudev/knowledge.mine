@@ -214,6 +214,8 @@
 
 ### Bibliotecas
 
+* [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
+
 * [JSDB.io](http://www.jsdb.io/) is a collection of the best javascript libraries
 
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
