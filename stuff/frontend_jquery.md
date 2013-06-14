@@ -32,6 +32,8 @@
 
 * [5 Things You Should Stop Doing With jQuery](http://flippinawesome.org/2013/05/06/5-things-you-should-stop-doing-with-jquery/)
 
+* [Quando usar $(document).ready e $(window).load } | Tutsmais](http://tutsmais.com.br/blog/jquery/quando-usar-document-read-jqueryy-e-window-load/)
+
 
 ### Mobile
 
