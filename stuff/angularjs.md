@@ -205,6 +205,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [PhoneGap and AngularJS: In App Browser | Tech Pro](http://tech.pro/tutorial/1357/phonegap-and-angularjs-in-app-browser)
 
+* [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
+
+* [Facebook authentication in your AngularJS web app | Web Development blog](http://blog.brunoscopelliti.com/facebook-authentication-in-your-angularjs-web-app)
+
+
 ### Directive
 
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
@@ -244,6 +249,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 4: Managing Feeds](http://dailyjs.com/2013/05/09/angularjs-4/)
 
 * [Part 5: Tests](http://dailyjs.com/2013/05/16/angularjs-5/)
+
+* [Part 6: Adding Dependencies](http://dailyjs.com/2013/05/30/angularjs-6/)
+
+* [Part 7: Form Validation](http://dailyjs.com/2013/06/06/angularjs-7/)
+
+* [Part 8: Iterators and Data](http://dailyjs.com/2013/06/13/angularjs-8/)
+
 
 ### Ferramentas
 
