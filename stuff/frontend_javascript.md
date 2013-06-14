@@ -73,6 +73,8 @@
 
 ### Dicas
 
+* [parseUri - Split URLs in JavaScript](http://stevenlevithan.com/demo/parseuri/js/)
+
 * [Native equivalents of jQuery functions | Lee Brimelow](http://www.leebrimelow.com/native-methods-jquery/)
 
 * [Useful JavaScript Libraries and jQuery Plugins](http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/)
@@ -139,6 +141,8 @@
 
 * [JavaScript Performance Tips & Tricks | Modus Create](https://moduscreate.com/javascript-performance-tips-tricks/)
 
+* [Effectively Managing Memory at Gmail scale | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
+
 * [3 reasons why you should let Google host jQuery for you - Encosia](http://encosia.com/3-reasons-why-you-should-let-google-host-jquery-for-you/)
 
 * [Writing Fast, Memory-Efficient JavaScript | Smashing Coding](http://coding.smashingmagazine.com/2012/11/05/writing-fast-memory-efficient-javascript/)
@@ -149,6 +153,7 @@
 
 * [Why I favor while loops](http://blog.millermedeiros.com/why-i-favor-while-loops/)
 
+* [Faster String#repeat method, with ancient Egyptian theory | CoderKeen](http://coderkeen.com/javascript/faster-stringrepeat-method-with-ancient-egyptian-theory)
 
 
 ### Sistema de Dependências e Módulos
@@ -236,6 +241,8 @@
 
 * [Converse.js](http://conversejs.org/) - An XMPP chat client for your website
 
+* [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
+
 
 ### Design API & Biblioteca
 
@@ -304,6 +311,10 @@
 
 ### Gerenciador de Pacotes
 
+* [Jam.js and Bower | Red Badger](http://red-badger.com/blog/2013/03/26/jam-js-and-bower/)
+
+#### Bower
+
 > **Sobre**
 > Bower é um gerenciador de pacotes para web. Ele oferece uma solução genérica para o problema de gerenciar os pacores de front-end. O Bower utiliza e executa sobre Git e é agnóstico de pacote.
 
@@ -323,6 +334,14 @@
 * [Twitter Bower & Grunt: Get started with assets management | Guillaume Piot](http://gpiot.com/twitter-bower-grunt-get-started-with-assets-management/)
 
 * [Package Management for the Browser with Bower | SitePoint](http://www.sitepoint.com/package-management-for-the-browser-with-bower/)
+
+#### JamJS
+
+* [JamJS](http://jamjs.org/) - For front-end developers who crave maintainable assets, Jam is a package manager for JavaScript. Unlike other repositories, we put the browser first.
+
+* [Frictionless AMD with Jam | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/frictionless-amd-with-jam/)
+
+* [Managed JavaScript with JamJS | zerokspot](http://zerokspot.com/weblog/2012/09/16/managed-js-with-jamjs/)
 
         
 ### Frameworks MVC
