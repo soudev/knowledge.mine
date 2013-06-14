@@ -175,6 +175,8 @@
 
 #### Storage
 
+* [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
+
 * [JayData](http://jaydata.org/) - The cross-platform HTML5 data-management library for JavaScript
 
   * [GitHub / JayData](https://github.com/jaydata)
