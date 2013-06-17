@@ -18,6 +18,8 @@
 
 * [Zone Of Front-Enders](http://zofe.com.br/) - Podcast sobre desenvolvimento web, front-end e afins
 
+* [Codrops](http://tympanus.net/codrops/) - Useful resources and inspiration for creative minds
+
 
 ## Emmet
 
@@ -54,6 +56,7 @@
 
 * [Tinycon](http://tommoor.github.com/tinycon/) - A small library for manipulating the favicon
 
+* [[GitHub] lipka / piecon](https://github.com/lipka/piecon/) - A tiny javascript library for generating progress pie charts in your favicon. 
 
 
 ## Source Map
