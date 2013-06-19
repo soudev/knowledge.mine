@@ -36,6 +36,8 @@
 
 * [Creative Button Styles | Codrops](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
 
+* [Dynamically removing and replacing an external JavaScript or CSS file](http://www.javascriptkit.com/javatutors/loadjavascriptcss2.shtml)
+
 
 ### Media Query
 
