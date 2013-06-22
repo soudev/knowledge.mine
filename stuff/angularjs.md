@@ -175,6 +175,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: 6 Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 
+* [Angular JS : Sharing data between Controllers](http://ramandv.com/blog/angular-js-sharing-data/)
+
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS](http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
 
 * [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
