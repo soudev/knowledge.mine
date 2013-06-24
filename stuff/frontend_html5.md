@@ -146,6 +146,8 @@
 
 * [5 of the Best Free HTML5 Presentation Systems](http://www.sitepoint.com/5-free-html5-presentation-systems/)
 
+* [SlideCaptain - Modern online presentation tool](https://www.slidecaptain.com/) - Made with JavaScript, HTML5, CSS3, Bootstrap, MongoDB, Node.js and AngularJS.
+
 * [Audio5js](http://zohararad.github.io/audio5js/) - The HTML Audio Compatibility Layer
 
 * [Charts.js](http://www.chartjs.org/) - Simple HTML5 Charts using the *canvas* tag
