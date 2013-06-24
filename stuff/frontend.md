@@ -20,6 +20,8 @@
 
 * [Codrops](http://tympanus.net/codrops/) - Useful resources and inspiration for creative minds
 
+* [[GitHub] dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Pull requests are welcome.
+
 
 ## Emmet
 
