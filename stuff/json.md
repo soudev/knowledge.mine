@@ -4,6 +4,8 @@
 
 * Wiki : JSON [en](http://en.wikipedia.org/wiki/JSON) | [pt](http://pt.wikipedia.org/wiki/JSON)
 
+* [JSON - De gambiarra a padrão | Loop Infinito](http://loopinfinito.com.br/2013/06/18/json-de-gambiarra-a-padrao/)
+
 * [JSON e JSONP - Parte 1 | iMasters](http://imasters.com.br/artigo/21303/javascript/json-e-jsonp-parte-1)
 
 * [Introdução ao formato JSON](http://www.devmedia.com.br/introducao-ao-formato-json/25275)
