@@ -12,6 +12,12 @@
 
 * [SAML Single Sign-On Service for Google Apps](https://developers.google.com/google-apps/sso/saml_reference_implementation)
 
+* [[SlideShare] Introduction to SAML 2.0](http://www.slideshare.net/koivimik/introduction-to-saml-20)
+
+# WS-Trust
+
+* [Using WS-Trust for token transformation | IBM developerWorks](http://www.ibm.com/developerworks/websphere/library/techarticles/1003_chades/1003_chades.html) - WS-Trust provides a standard way to send security token requests to a Security Token Service (STS). This specification can be used to manage token transformation when crossing the various security boundaries of the information system. This article introduces WS-Trust concepts and its basic use to manage token exchange.
+
 # Identity Server
 
 * [Thinktecture IdentityServer](http://thinktecture.github.com/) - IdentityServer is a light-weight, .NET based security token service that supports various protocols and token formats
