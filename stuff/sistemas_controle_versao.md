@@ -80,6 +80,16 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+> **Tag**
+>
+> * [2.6 Git Basics - Tagging](http://git-scm.com/book/en/Git-Basics-Tagging)
+>
+> * [Como trabalhar com tags no Git | iMasters](http://imasters.com.br/artigo/21127/software-livre/como-trabalhar-com-tags-no-git/)
+>
+> * [[StackOverflow] Rename a tag in git?](http://stackoverflow.com/questions/1028649/rename-a-tag-in-git)
+
+--
+
 * [Git Howto: Revert a Commit Already Pushed to a Remote Repository](http://christoph.ruegg.name/blog/2010/5/5/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 
 * [Git Basic Commands | Pankaj Kumar](http://panks.me/blog/2011/12/git-basic-commands/)
