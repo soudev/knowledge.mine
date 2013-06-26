@@ -37,7 +37,9 @@
 * [7 Reasons to use a Content Delivery Network](http://www.sitepoint.com/7-reasons-to-use-a-cdn/)
 
 * [Cloudflare’s CDNJS vs. Google Hosted Libraries – SHOCKING Results](http://www.baldnerd.com/make-your-site-faster-cloudflares-cdnjs-vs-google-hosted-libraries-shocking-results/)
-  
+
+* [Schemeless URLs](http://log4dev.com/2013/06/14/schemeless-urls/) - recurso utilizado por alguns CDNs como Google por exemplo.
+
 
 #### Fallback
   
