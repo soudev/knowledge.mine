@@ -90,6 +90,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [Configurando proxy no Git](http://rodrigoramalho.org/2012/03/14/configurando-proxy-no-git/)
+
 * [Git Howto: Revert a Commit Already Pushed to a Remote Repository](http://christoph.ruegg.name/blog/2010/5/5/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 
 * [Git Basic Commands | Pankaj Kumar](http://panks.me/blog/2011/12/git-basic-commands/)
