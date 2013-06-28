@@ -154,6 +154,8 @@
 
 * [Charts.js](http://www.chartjs.org/) - Simple HTML5 Charts using the *canvas* tag
 
+* [Aristochart](http://dunxrion.github.io/aristochart/) - Customizável e flexível biblioteca de gráficos em Canvas
+
 * [HumbleFinance](http://www.humblesoftware.com/finance/index) is an HTML5 data visualization tool written as a demonstration of interactive graphing in HTML5.
 
 * [CreateJS Studio](http://createjs.com/) - A suite of Javascript libraries & tools for building rich, interactive experiences with HTML5.
@@ -270,6 +272,8 @@
 * [Aplicativos Híbridos, Android e o poder da WebView](http://itweb.com.br/blogs/aplicativos-hibridos-android-e-o-poder-da-webview/)
 
 * [Uma tonelada de truques de Web mobile | DevCast](http://devcastbrasil.com/videos/uma-tonelada-de-truques-de-web-mobile/)
+
+* [Fries: Prototype Android apps using HTML, CSS and JavaScript](http://jaunesarmiento.me/fries/)
 
 
 ##### Apache Cordova & PhoneGap
