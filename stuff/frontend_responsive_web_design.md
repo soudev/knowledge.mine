@@ -2,6 +2,8 @@
 
 ## Responsive Web Design
 
+* [The Ultimate Responsive Web Design Beginners Resource List | Target Local](http://www.targetlocal.co.uk/responsive-web-design-resources/)
+
 * [8 Guidelines and 1 Rule for Responsive Images](http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/)
 
 * [Adventures in Responsive Navigation](http://responsivenavigation.net/) 
