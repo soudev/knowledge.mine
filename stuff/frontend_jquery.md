@@ -72,3 +72,5 @@
 
 * [SPOILER ALERT!](http://joshbuddy.github.io/spoiler-alert/) - A happy little jquery plugin to hide spoilers on your site.
 
+* [Minimalect](http://groenroos.github.io/minimalect/) - Minimal select replacement for jQuery
+
