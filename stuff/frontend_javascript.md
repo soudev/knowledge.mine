@@ -220,9 +220,11 @@
 
 ### Bibliotecas
 
+* [JSDB.io](http://www.jsdb.io/) is a collection of the best javascript libraries
+
 * [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
 
-* [JSDB.io](http://www.jsdb.io/) is a collection of the best javascript libraries
+* [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript. 
 
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
 
@@ -243,6 +245,10 @@
 * [Converse.js](http://conversejs.org/) - An XMPP chat client for your website
 
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
+
+* [[GitHub] Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
+
+* [spin.js](http://fgnass.github.io/spin.js/) - An animated CSS activity indicator with VML fallback [sample](http://www.javascriptoo.com/spin-js)
 
 
 ### Design API & Biblioteca
