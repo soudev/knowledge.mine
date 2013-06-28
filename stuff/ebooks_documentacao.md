@@ -15,3 +15,5 @@
 * [OverAPI.com | Collecting all the cheatsheets](http://overapi.com/)
 
 * [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
+
+* [DevDocs](http://devdocs.io/) — API Documentation Reader (html5, css3, jquery)
