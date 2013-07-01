@@ -207,6 +207,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Facebook authentication in your AngularJS web app | Web Development blog](http://blog.brunoscopelliti.com/facebook-authentication-in-your-angularjs-web-app)
 
+* [AngularJS directives and the computer science of JavaScript | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
+
 
 ### PhoneGap
 

@@ -11,12 +11,13 @@
 
 * [bl.ocks.org](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on [GitHub Gist](https://gist.github.com/). Code up an example using Gist, and then point people here to view the example and the source code, live!
 
+* [Plunker](http://plnkr.co/) - is an online community for creating, collaborating on and sharing your web development ideas.
 
 ### Eclipse Orion
 
 * [Eclipse Orion](http://www.eclipse.org/orion/) - Open Source Platform For Cloud Based Development
 
-* [InfoQ BR] - [Eclipse Orion: Um editor baseado em browser para desenvolver aplicações Web](http://www.infoq.com/br/news/2012/11/eclipse-orion-editor)
+* [Eclipse Orion: Um editor baseado em browser para desenvolver aplicações Web | InfoQ BR](http://www.infoq.com/br/news/2012/11/eclipse-orion-editor)
 
 * [OrionHub](http://orionhub.org/)
 
