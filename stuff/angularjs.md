@@ -97,6 +97,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Aprendizado
 
+* [AngularJS: an Overview | Glenn Stovall](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
+
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
 
 * [AngularJS Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
