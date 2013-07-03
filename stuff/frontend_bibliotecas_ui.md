@@ -77,6 +77,8 @@
 
 * [DataMaps](http://datamaps.github.io/) - Interactive maps for data visualizations. Bundled into a single Javascript file.
 
+* [Criando gráficos Gauge com Javascript puro](http://jsfiddle.net/igorcosta/cwkbf/) - by [@IgorCosta](https://twitter.com/igorcosta)
+
 
 #### D3.js
 

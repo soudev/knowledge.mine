@@ -40,4 +40,7 @@
 
 * [Responsive Retina-Ready Menu | Codrops](http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/)
 
+* [Blueprint: Responsive Icon Grid | Codrops](http://tympanus.net/codrops/2013/07/01/responsive-icon-grid/)
+
+
 

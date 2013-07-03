@@ -34,6 +34,10 @@
 
 * [Quando usar $(document).ready e $(window).load } | Tutsmais](http://tutsmais.com.br/blog/jquery/quando-usar-document-read-jqueryy-e-window-load/)
 
+* [jQuery Howto: Get URL parameters & values with jQuery](http://jquery-howto.blogspot.co.uk/2009/09/get-url-parameters-values-with-jquery.html)
+
+* [jQuery Howto: Find & select all external links with jQuery](http://jquery-howto.blogspot.co.uk/2009/06/find-select-all-external-links-with.html)
+
 
 ### Mobile
 

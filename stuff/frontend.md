@@ -49,6 +49,8 @@
 
 * [PhyloPic](http://phylopic.org/) — An Open Database of Life Form Silhouettes
 
+* [One div - The single element HTML/CSS icon database](http://one-div.com/)
+
 
 ## FavIcon
 

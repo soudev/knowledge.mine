@@ -129,6 +129,8 @@
 
 * [Unitech/pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
 
+* [[GitHub] fth-ship/code-problems](https://github.com/fth-ship/code-problems) - Common code problems solved using JavaScript - add your own problems and solutions!
+
 
 ## Amazon AWS
 
