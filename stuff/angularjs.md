@@ -17,6 +17,15 @@
 * O projeto utiliza o Jenkins CI para efetuar os builds [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org)
 
 
+### Estatísticas
+
+* [Usage statistics and market share of AngularJS for websites | W3Techs](http://w3techs.com/technologies/details/js-angularjs/all/all)
+
+* [Angular JS Usage Statistics | Build With](http://trends.builtwith.com/javascript/Angular-JS) - Websites using Angular JS
+
+* [AngularJS Developer Statistics | LinkedIn](http://www.linkedin.com/groups?groupDashboard=&gid=4896676)
+
+
 
 ### Por que utilizar o AngularJS?
 
@@ -146,6 +155,25 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] jmcunningham / AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) - A bunch of links to blog posts, articles, videos, etc for learning AngularJS
 
 
+### Dailyjs.com : Angular.js
+
+* [Part 1: Google, Twitter, and AngularJS](http://dailyjs.com/2013/04/11/angularjs-1/)
+
+* [Part 2: Let's Make a Feed Reader](http://dailyjs.com/2013/04/18/angularjs-2/)
+
+* [Part 3: Rendering Feeds](http://dailyjs.com/2013/04/25/angularjs-3/)
+
+* [Part 4: Managing Feeds](http://dailyjs.com/2013/05/09/angularjs-4/)
+
+* [Part 5: Tests](http://dailyjs.com/2013/05/16/angularjs-5/)
+
+* [Part 6: Adding Dependencies](http://dailyjs.com/2013/05/30/angularjs-6/)
+
+* [Part 7: Form Validation](http://dailyjs.com/2013/06/06/angularjs-7/)
+
+* [Part 8: Iterators and Data](http://dailyjs.com/2013/06/13/angularjs-8/)
+
+
 ## Caso de Uso
 
 * [Aplicações construídas com Angular.js](http://builtwith.angularjs.org/)
@@ -154,10 +182,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Tyto.io](http://tyto.io/) - A simple mobile framework powered by Angular.js | [[YouTube] Introduction to Tyto](https://www.youtube.com/watch?v=jiyMZLXGraw)
 
+* [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
+
 
 ## Dicas
 
 * [8 Tips for Angular.js Beginners](http://vxtindia.com/blog/8-tips-for-angular-js-beginners/)
+
+* [Fun with AngularJS | Holly Schinsky](http://devgirl.org/2013/03/21/fun-with-angularjs/)
 
 * [AngularJS Tips and Tricks](http://deansofer.com/posts/view/14/AngularJs-Tips-and-Tricks-UPDATED)
 
@@ -167,11 +199,38 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [How to create (singleton) AngularJS services in 4 different ways | JDriven BlogJDriven Blog](http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
-* [Writing Reusable AngularJS Components with Bower | Brian Ford](http://briantford.com/blog/angular-bower.html)
+* [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
+
+* [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
+
+* [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
+
+* [AngularJS collaboration board with Socket.io | Tutorial | .net magazine](http://www.netmagazine.com/tutorials/angularjs-collaboration-board-socketio)
+
+* [[SlideShare] AngularJS Animations](http://www.slideshare.net/EyalV/angularjs-animations-21435788)
+
+* [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
+
+* [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example. (Require.js)
 
+
+### Internacionalização
+
+* [[GitHub] tyson-benson / Internationalization with AngularJS](https://github.com/tyson-benson/Internationalization-with-AngularJS) - i18n
+
+* [[Gist] i18n Helper function for Javascript](https://gist.github.com/3353635)
+
+
+### Componentes
+
+* [Writing Reusable AngularJS Components with Bower | Brian Ford](http://briantford.com/blog/angular-bower.html)
+
 * [Sharing AngularJS modules with component.js | Jayway](http://www.jayway.com/2013/06/04/sharing-angularjs-modules-with-component-js/)
+
+
+### Escopo e informações
 
 * [Global variable with AngularJS | Coding Insight](http://www.codinginsight.com/global-variable-with-angularjs/)
 
@@ -179,39 +238,21 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular JS : Sharing data between Controllers](http://ramandv.com/blog/angular-js-sharing-data/)
 
-* [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS](http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
 
-* [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
-
-* [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
-
-* [[GitHub] tyson-benson / Internationalization with AngularJS](https://github.com/tyson-benson/Internationalization-with-AngularJS) - i18n
-
-* [[Gist] i18n Helper function for Javascript](https://gist.github.com/3353635)
-
-* [Fun with AngularJS | Holly Schinsky](http://devgirl.org/2013/03/21/fun-with-angularjs/)
-
-* [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
-
-* [AngularJS collaboration board with Socket.io | Tutorial | .net magazine](http://www.netmagazine.com/tutorials/angularjs-collaboration-board-socketio)
-
-* [Deal with users authentication in an AngularJS web app](http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
-
-* [[SlideShare] AngularJS Animations](http://www.slideshare.net/EyalV/angularjs-animations-21435788)
-
-* [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
-
-* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Angular.js Snippets for Sublime Text 2
+### Yeoman, Grunt e Bower
 
 * [Automating AngularJS With Yeoman, Grunt & Bower | Newtriks LTD](http://newtriks.com/2013/06/11/automating-angularjs-with-yeoman-grunt-and-bower/)
 
 * [[YouTube] Frontend Workflows with Grunt and Angular JS](https://www.youtube.com/watch?v=fSAgFxjFSqY)
 
-* [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
+
+### Autenticação
+
+* [Deal with users authentication in an AngularJS web app](http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
+
+* [Authentication in Single Page Applications with Angular.js    - A Modest Proposal]
 
 * [Facebook authentication in your AngularJS web app | Web Development blog](http://blog.brunoscopelliti.com/facebook-authentication-in-your-angularjs-web-app)
-
-* [AngularJS directives and the computer science of JavaScript | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
 
 
 ### PhoneGap
@@ -243,38 +284,26 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Part 5 - Custom Directive | Angular Cats!](http://ericterpstra.com/2012/09/angular-cats-part-5-custom-directive/)
 
+* [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS](http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
+
+
 ### AngularJS Sticky Notes | One Hungry MindOne Hungry Mind
 
 * [Pt 1 - Architecture](http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/)
 
 * [Pt 2 - Isolated Scope](http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/)
 
+
 ### AngularJS: Melhores Práticas | Ciro Nunes
 
 * [Parte I: Iniciando Um Projeto](http://cironunes.github.com/angularjs-melhores-praticas-parte-I-bootstrap/)
-
-### Dailyjs.com : Angular.js
-
-* [Part 1: Google, Twitter, and AngularJS](http://dailyjs.com/2013/04/11/angularjs-1/)
-
-* [Part 2: Let's Make a Feed Reader](http://dailyjs.com/2013/04/18/angularjs-2/)
-
-* [Part 3: Rendering Feeds](http://dailyjs.com/2013/04/25/angularjs-3/)
-
-* [Part 4: Managing Feeds](http://dailyjs.com/2013/05/09/angularjs-4/)
-
-* [Part 5: Tests](http://dailyjs.com/2013/05/16/angularjs-5/)
-
-* [Part 6: Adding Dependencies](http://dailyjs.com/2013/05/30/angularjs-6/)
-
-* [Part 7: Form Validation](http://dailyjs.com/2013/06/06/angularjs-7/)
-
-* [Part 8: Iterators and Data](http://dailyjs.com/2013/06/13/angularjs-8/)
 
 
 ### Ferramentas
 
 * [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
+
+* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Angular.js Snippets for Sublime Text 2
 
 
 ## Módulos
@@ -327,10 +356,6 @@ Projeto de exemplo / estrutura inicial
 * **Fork:** [[GitHub] skivvies / angular-seed](https://github.com/skivvies/angular-seed) | [Travis-CI](https://travis-ci.org/skivvies/angular-seed)
 
 * **require.js:** [[GitHub] ysilvestrov / angular-seed](https://github.com/ysilvestrov/angular-seed)
-
-### Feito com Angular
-
-* [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
 
 
 ## Teste
