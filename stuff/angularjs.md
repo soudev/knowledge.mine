@@ -328,6 +328,10 @@ Projeto de exemplo / estrutura inicial
 
 * **require.js:** [[GitHub] ysilvestrov / angular-seed](https://github.com/ysilvestrov/angular-seed)
 
+### Feito com Angular
+
+* [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
+
 
 ## Teste
 
