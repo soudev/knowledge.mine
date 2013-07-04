@@ -60,6 +60,8 @@
 
 * [[PDF] RESTful Web Services - An introduction to building Web Services without tears](http://home.ccil.org/%7Ecowan/restws.pdf) (i.e., without SOAP or WSDL)
 
+* [Designing a Secure REST (Web) API without OAuth | The Buzz Media](http://www.thebuzzmedia.com/designing-a-secure-rest-api-without-oauth-authentication/)
+
 
 ## Desenvolvimento
 
