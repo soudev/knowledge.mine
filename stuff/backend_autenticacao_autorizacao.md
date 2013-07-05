@@ -1,7 +1,11 @@
 # Autenticação & Autorização 
 
+## OAuth
 
-# SAML
+* [[SlideShare] OAuth with Restful Web Services](http://www.slideshare.net/vinayhulgar/oauth-with-restful-web-services)
+
+
+## SAML
 
 *Definição:* _SAML_ - Security Assertion Markup Language
 
@@ -14,11 +18,11 @@
 
 * [[SlideShare] Introduction to SAML 2.0](http://www.slideshare.net/koivimik/introduction-to-saml-20)
 
-# WS-Trust
+## WS-Trust
 
 * [Using WS-Trust for token transformation | IBM developerWorks](http://www.ibm.com/developerworks/websphere/library/techarticles/1003_chades/1003_chades.html) - WS-Trust provides a standard way to send security token requests to a Security Token Service (STS). This specification can be used to manage token transformation when crossing the various security boundaries of the information system. This article introduces WS-Trust concepts and its basic use to manage token exchange.
 
-# Identity Server
+## Identity Server
 
 * [Thinktecture IdentityServer](http://thinktecture.github.com/) - IdentityServer is a light-weight, .NET based security token service that supports various protocols and token formats
 
@@ -34,7 +38,7 @@
 
 * [Configurando SSO no Spring Security com o JaSig CAS](http://sfohart.blogspot.com.br/2011/04/single-sign-on-configurando-sso-no.html) | [Youtube](https://www.youtube.com/watch?v=0r2N083pgeI)
 
-# Microsoft ADFS / Microsoft ACS / SWT
+## Microsoft ADFS / Microsoft ACS / SWT
 
 *Definições:*
 
@@ -44,7 +48,7 @@ _SWT_ - Simple Web Token
 
 _ADFS_ - Active Directory Federation Services
 
----
+--
 
 * [Active Directory Federation Services - ADFS 2.0](http://technet.microsoft.com/library/dd727958.aspx)
 
