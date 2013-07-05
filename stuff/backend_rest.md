@@ -32,6 +32,8 @@
 
 * [Designing HTTP Interfaces and RESTful Web Services](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514)
 
+* [Designing REST + JSON APIs | Stormpath](https://www.stormpath.com/blog/designing-rest-json-apis)
+
 * [Introducing: Restful Objects](http://www.infoq.com/articles/Intro_Restful_Objects)
 
 * [Restful Objects Specification](http://restfulobjects.org/) [github](https://github.com/danhaywood/restfulobjects-spec)
@@ -67,7 +69,11 @@
 
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com/) | [HTTP Status Codes](http://restpatterns.org/HTTP_Status_Codes)
 
+### JIRA
+
 * [JIRA REST API documentation](https://docs.atlassian.com/jira/REST/latest/)
+
+* [JIRA REST API Tutorials](https://developer.atlassian.com/display/JIRADEV/JIRA+REST+API+Tutorials)
 
 
 ### dotNet
@@ -94,7 +100,6 @@
 
 ### Java
 
-
 * [Building RESTful Web Services with JAX-RS](http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html)
 
 * [RESTful services with jQuery and Java using JAX-RS and Jersey](http://coenraets.org/blog/2011/12/restful-services-with-jquery-and-java-using-jax-rs-and-jersey/)
@@ -111,6 +116,10 @@
 
 * [Spring Data Rest - JPA Repository REST Exporter](https://github.com/SpringSource/spring-data-rest/wiki/JPA-Repository-REST-Exporter)
 
+* [[YouTube] Spring Data REST: Easily export JPA entities directly to the web](https://www.youtube.com/watch?v=kaiH1HsacPs)
+
+* [[GitHub] olivergierke / spring-restbucks](https://github.com/olivergierke/spring-restbucks) - Implementation of the sample from REST in Practice based on Spring projects
+
 
 #### Testes
 
@@ -118,6 +127,10 @@
 
 
 #### Segurança
+
+* [REST Security Cheat Sheet | OWASP](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+
+* [Secure Your REST API... The Right Way | Stormpath](http://www.stormpath.com/blog/secure-your-rest-api-right-way)
 
 * [[baeldung part 3] Securing a RESTful Web Service with Spring Security 3.1](http://www.baeldung.com/2011/10/31/securing-a-restful-web-service-with-spring-security-3-1-part-3/)
 
