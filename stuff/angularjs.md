@@ -116,6 +116,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Egghead - AngularJS](http://egghead.io/) - curso online
 
+* [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
+
 * [A small introduction to AngularJS : data-binding, IoC/DI, directives](http://derkoe.github.io/presentations/angularjs-intro/)
 
 * [Use AngularJS to power your web application | Year of Moo](http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html)
