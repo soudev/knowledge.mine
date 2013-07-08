@@ -7,7 +7,9 @@
 > Um exemplo de uso do Node.js com o Jenkins CI pode ser encontrado no : [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org) - o qual é utilizado pelo framework MVC JavaScript Angular.js
 
 
-* [Utilizando o Node.js em um Windows XP sem Administrador](https://gist.github.com/erkobridee/4089098)
+* [Utilizando o Node.js em um Windows sem Administrador](https://gist.github.com/erkobridee/4089098)
+
+* [Node.js Infographic :: The State of Node | Strong Loop](http://strongloop.com/infographic)
 
 * [[SlideShare] Conhecendo mundo Node.js](http://www.slideshare.net/caioribeiropereira/conhecendo-mundo-nodejs-12813969)
 
