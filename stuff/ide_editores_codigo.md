@@ -11,6 +11,8 @@
 
 * [bl.ocks.org](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on [GitHub Gist](https://gist.github.com/). Code up an example using Gist, and then point people here to view the example and the source code, live!
 
+* [RequireBin](http://requirebin.com/) - Shareable JavaScript programs using modules from NPM
+
 * [Plunker](http://plnkr.co/) - is an online community for creating, collaborating on and sharing your web development ideas.
 
 ### Eclipse Orion
