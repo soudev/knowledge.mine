@@ -164,6 +164,10 @@
 
 * [KineticJS](http://kineticjs.com/) - is an HTML5 Canvas JavaScript framework that enables high performance animations, transitions, node nesting, layering, filtering, caching, event handling for desktop and mobile applications, and much more.
 
+* [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
+
+* [Voodoo](http://www.voodoojs.com/) - is a new Javascript framework that lets you easily mix 2D and 3D content together on the same page.
+
 * [Nanoko](http://nanoko.org/) - is a JavaScript modular framework enabling flexible and sustainable HTML5 applications development and their deployment on both mobile and desktop applications. [Getting Started](http://nanoko.org/?page=gettingstarted) | *utiliza o maven como base para o projeto* |
 
 
@@ -206,7 +210,6 @@
 
 
 ##### Game Engine
-
 
 * [Game Closure](http://www.gameclosure.com/) - _The Game Closure DevKit_. 100% JavaScript. Build your games faster than ever before! Native speed. Write HTML5 games that outperform the competition.
 

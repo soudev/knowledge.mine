@@ -96,6 +96,8 @@
 
 * [11 OPEN NoSQL Document-Oriented Databases](http://architects.dzone.com/articles/11-open-nosql-document)
 
+* [[GitHub] foursquare/fongo](https://github.com/foursquare/fongo) - faked out in-memory mongo for java 
+
 ### MongoDB
 
 * [MongoDB](http://www.mongodb.org/)

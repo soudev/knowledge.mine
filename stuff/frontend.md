@@ -51,6 +51,13 @@
 
 * [One div - The single element HTML/CSS icon database](http://one-div.com/)
 
+* [Socialicious](http://shalinguyen.github.io/socialicious/) - A social media icons library in font form.
+
+
+## Unicode
+
+* [Unicode Character Table](http://unicode-table.com/) - Very extensive table showing all existing unicode characters, along with their respective names, numbers and codes.
+
 
 ## FavIcon
 
