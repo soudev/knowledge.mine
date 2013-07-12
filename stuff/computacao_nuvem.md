@@ -2,6 +2,14 @@
 
 * [Computação em Nuvem Brasil](https://sites.google.com/site/computacaoemnuvembrasil/home/materi)
 
+## Conceitos - Cloud Stack
+
+03 . SaaS – Software as a Service (Software como Serviço)
+
+02 . PaaS – Platform as a Service (Plataforma como Serviço)
+
+01 . IaaS – Infrastructure as a Service (Infraestrutura como Serviço)
+
 
 ## ScraperWiki
 
@@ -17,3 +25,40 @@
 * [The Open Hybrid Cloud Application Platform by Red Hat](https://www.openshift.com/)
 
 * [Java na nuvem: conheça o openshift | InfoQ Br](http://www.infoq.com/br/presentations/java-nuvem-openshift)
+
+
+## OpenStack
+
+* [OpenStack](http://www.openstack.org/) - Open source software for building private and public clouds. 
+
+* [[GitHub] OpenStack](https://github.com/openstack)
+
+* [Brasil OpenStack](http://www.brasilopenstack.com.br/)
+
+* [[SlideShare] Openstack - Visão geral | Brasil OpenStack](http://www.slideshare.net/brasilopenstack/openstack-viso-geral)
+
+* [OpenStack: a alternativa aberta para restringir a nuvem | Rackspace](http://www.rackspace.com/pt/cloud/openstack/) - Inventado pela Rackspace e NASA. O OpenStack é um sistema operacional aberto e expansível para a construção de nuvens públicas e privadas. Ele fornece às grandes e pequenas organizações uma alternativa para ambientes em nuvem fechados, reduzindo os riscos de restrições associados com as plataformas exclusivas. O OpenStack oferece flexibilidade e escolha através de uma comunidade altamente engajada de mais de 6.000 indivíduos e mais de 190 empresas, inclusive a Rackspace®, Dell, HP, IBM e Red Hat®
+
+* [OpenStack with Ubuntu](http://www.ubuntu.com/cloud/private-cloud/openstack)
+
+* [Red Hat's OpenStack distribution](http://www.redhat.com/openstack/)
+
+* [Installing OpenStack Grizzly with DevStack | NetworkStatic](http://networkstatic.net/installing-openstack-grizzly-with-devstack/)
+
+### Caso de Uso
+
+* [CERN modernizes IT infrastructure with OpenStack and Puppet | PC World](http://www.pcworld.com/article/2042415/cern-modernizes-it-infrastructure-with-openstack-and-puppet.html)
+
+
+### Ubuntu Cloud
+
+* [Ubuntu Server for cloud](http://www.ubuntu.com/download/cloud) - Ubuntu Server 13.04 to get the latest features (including the Grizzly release of OpenStack)
+
+* [[PDF] Building a Private Cloud - Cloud Infrastructure Using OpenSource](http://assets.en.oreilly.com/1/event/45/Deploying%20an%20Open%20Source%20Private%20Cloud%20On%20a%20Shoe%20String%20Budget%20Presentation.pdf) - Building a Private Cloud with Ubuntu Server 10.04 Enterprise Cloud (Eucalyptus)
+
+
+### Red Hat Cloud
+
+* [Red Hat Cloud Infrastructure](http://www.redhat.com/products/cloud-computing/cloud-infrastructure/)
+
+
