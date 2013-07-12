@@ -10,3 +10,10 @@
 * [ScraperWiki lets anyone scrape Twitter data without coding | Gigaom](http://gigaom.com/2013/05/10/scraperwiki-lets-anyone-scrape-twitter-data-without-coding/)
 
 * [[ScraperWiki] tagint / Incidents data](https://scraperwiki.com/scrapers/aras_election_data_79/) - twitter search
+
+
+## OpenShift
+
+* [The Open Hybrid Cloud Application Platform by Red Hat](https://www.openshift.com/)
+
+* [Java na nuvem: conheça o openshift | InfoQ Br](http://www.infoq.com/br/presentations/java-nuvem-openshift)
