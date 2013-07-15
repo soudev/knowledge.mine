@@ -16,6 +16,8 @@
 
 * O projeto utiliza o Jenkins CI para efetuar os builds [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org)
 
+* [[YouTube] Breaking Open: AngularJS. Great interview with Misko Hevery, Angularjs Framework author](https://www.youtube.com/watch?v=X0VsStcCCM8)
+
 
 ### Estatísticas
 
@@ -116,6 +118,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Egghead - AngularJS](http://egghead.io/) - curso online
 
+* [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
+
 * [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
 
 * [A small introduction to AngularJS : data-binding, IoC/DI, directives](http://derkoe.github.io/presentations/angularjs-intro/)
@@ -189,6 +193,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Dicas
 
+* [Conjunto de materiais úteis](http://mattkruse.com/angular/) - PDFs
+
 * [8 Tips for Angular.js Beginners](http://vxtindia.com/blog/8-tips-for-angular-js-beginners/)
 
 * [Fun with AngularJS | Holly Schinsky](http://devgirl.org/2013/03/21/fun-with-angularjs/)
@@ -216,6 +222,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example. (Require.js)
+
+* [Form validation with AngularJS](http://www.ng-newsletter.com/posts/validations.html)
+
+* [Random tricks when using AngularJS](http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/) 
 
 
 ### Internacionalização
