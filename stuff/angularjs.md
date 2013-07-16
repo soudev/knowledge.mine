@@ -288,7 +288,26 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Brian Ford - Building **PhoneGap** Apps with AngularJS](http://briantford.com/blog/angular-phonegap.html)
 
 
-### Directive
+### AngularJS Sticky Notes | One Hungry MindOne Hungry Mind
+
+* [Pt 1 - Architecture](http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/)
+
+* [Pt 2 - Isolated Scope](http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/)
+
+
+### AngularJS: Melhores Práticas | Ciro Nunes
+
+* [Parte I: Iniciando Um Projeto](http://cironunes.github.com/angularjs-melhores-praticas-parte-I-bootstrap/)
+
+
+### Ferramentas
+
+* [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
+
+* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Angular.js Snippets for Sublime Text 2
+
+
+## Directive (componentes)
 
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 
@@ -307,25 +326,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 5 - Custom Directive | Angular Cats!](http://ericterpstra.com/2012/09/angular-cats-part-5-custom-directive/)
 
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS](http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
-
-
-### AngularJS Sticky Notes | One Hungry MindOne Hungry Mind
-
-* [Pt 1 - Architecture](http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/)
-
-* [Pt 2 - Isolated Scope](http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/)
-
-
-### AngularJS: Melhores Práticas | Ciro Nunes
-
-* [Parte I: Iniciando Um Projeto](http://cironunes.github.com/angularjs-melhores-praticas-parte-I-bootstrap/)
-
-
-### Ferramentas
-
-* [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
-
-* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Angular.js Snippets for Sublime Text 2
 
 
 ## Módulos
@@ -358,9 +358,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### ng animate
 
+* [AngularJS Animations](http://www.nganimate.org/)
+
 * [Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html) - AngularJS now provides full support for animations direct from it's core
 
-* [AngularJS Animations](http://www.nganimate.org/)
+* [Enhanced Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
 
 
 ## Projetos de Exemplo
