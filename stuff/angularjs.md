@@ -21,6 +21,8 @@
 
 ### Estatísticas
 
+* [[Google Trends] Angular.js x Backbone.js x Ext.js](http://www.google.com/trends/explore?q=AngularJS%2C+Backbone%2C+ExtJS#q=AngularJS %2B %22angular.js%22 %2B %22angular js%22%2C Backbone.JS %2B %22backbonejs%22 %2B backbone js%22%2C %22ExtJS%22 %2B %22extjs%22 %2B %22ext.js%22&cmpt=q)
+
 * [Usage statistics and market share of AngularJS for websites | W3Techs](http://w3techs.com/technologies/details/js-angularjs/all/all)
 
 * [Angular JS Usage Statistics | Build With](http://trends.builtwith.com/javascript/Angular-JS) - Websites using Angular JS
