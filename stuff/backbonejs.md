@@ -1,6 +1,9 @@
 # Backbone.js
 
-Este framework é bastante citado e utilizado em projetos para organizar o front-end das aplicações
+O Backbone.js é uma biblioteca javascript popular(apesar de muitos o considerarem como um framework, devido suas funcionalidades), utilizada para a construção de aplicações web, conhecidas como Single Page. 
+
+O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento aplicações web, provendo modelos chave-valor binding(interligáveis), eventos customizáveis e coleções de dados, através de uma API com um conjunto de functions(funções/funcionalidades), views com o tratamento de eventos declarativos e um suporte para interligar com o backend através de uma interface RESTful JSON.
+
 
 *Obs.:* Mantido pela [DocumentCloud](http://www.documentcloud.org/)
 
@@ -14,6 +17,10 @@ Este framework é bastante citado e utilizado em projetos para organizar o front
 * [Hello Backbone.js Tutorial](http://arturadib.com/hello-backbonejs/)
 
 * [Backbone Tutorials](http://backbonetutorials.com/)
+
+* [Getting Started with Backbone | Caliper Blog](http://caliper.io/blog/2013/Getting-Started-With-Backbone/)
+
+* [Série Backbone.js | Fernando Mantoan](http://fernandomantoan.com/category/serie-backbone-js/)
 
 
 ## Dicas
