@@ -66,7 +66,7 @@
 * [CreateJS CDN Libraries](http://code.createjs.com/)
 
 
-### Dynamic Script Loading
+### Dynamic (Script) Loading
 
 * [JavaScript Madness: Dynamic Script Loading](http://unixpapa.com/js/dyna.html)
 
@@ -77,7 +77,9 @@
 * [Head JS :: The only script in your HEAD](http://headjs.com/)
 
 * [[GitHub] berklee / nbl](https://github.com/berklee/nbl) - NBL is a tiny non-blocking JavaScript lazy loader
-  
+
+* [Aload - Loads images, scripts, styles, iframes, videos and audio asynchronously](https://github.com/pazguille/aload)  
+
 
 #### LABjs
   
