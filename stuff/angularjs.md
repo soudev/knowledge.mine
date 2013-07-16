@@ -332,13 +332,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular Modules](http://ngmodules.org/) - Encontre (Módulos, Plugins e Directives) para o Angular.js 
 
-* [Angular UI](http://angular-ui.github.com/) - Componentes de UI
-
-* [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
-
-* [AngularStrap](http://mgcrea.github.com/angular-strap/) - Bootstrap directives for AngularJS
-
-* [Angular Kendo](http://kendo-labs.github.com/angular-kendo/) - Angular-Kendo is a passthrough to the Kendo UI
+* [Simple AngularJS localStorage module (with two-way $scope bind into storage)](https://github.com/agrublev/Angular-localStorage)
 
 * [ngInfiniteScroll - Infinite Scrolling for AngularJS](http://binarymuse.github.com/ngInfiniteScroll/index.html)
 
@@ -349,6 +343,18 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [JQuery Mobile Angular Adapter](https://github.com/tigbro/jquery-mobile-angular-adapter)
 
 * [n3-charts.line-chart](http://angular-d3.github.io/line-chart/) - Awesome charts for AngularJS, powered by D3.js.
+
+
+### Módulos de UI
+
+* [Angular UI](http://angular-ui.github.com/) - Componentes de UI
+
+* [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
+
+* [AngularStrap](http://mgcrea.github.com/angular-strap/) - Bootstrap directives for AngularJS
+
+* [Angular Kendo](http://kendo-labs.github.com/angular-kendo/) - Angular-Kendo is a passthrough to the Kendo UI
+
 
 ### ng animate
 
