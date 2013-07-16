@@ -18,6 +18,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [Backbone Tutorials](http://backbonetutorials.com/)
 
+* [Read Rapid Prototyping with JS | Leanpub](https://leanpub.com/rapid-prototyping-with-js/read) - Introduction to Backbone.js: step-by-step tutorial
+
 * [Getting Started with Backbone | Caliper Blog](http://caliper.io/blog/2013/Getting-Started-With-Backbone/)
 
 * [Série Backbone.js | Fernando Mantoan](http://fernandomantoan.com/category/serie-backbone-js/)
