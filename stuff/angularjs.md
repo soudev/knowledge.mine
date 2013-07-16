@@ -235,13 +235,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[Gist] i18n Helper function for Javascript](https://gist.github.com/3353635)
 
 
-### Componentes
-
-* [Writing Reusable AngularJS Components with Bower | Brian Ford](http://briantford.com/blog/angular-bower.html)
-
-* [Sharing AngularJS modules with component.js | Jayway](http://www.jayway.com/2013/06/04/sharing-angularjs-modules-with-component-js/)
-
-
 ### Escopo e informações
 
 * [Global variable with AngularJS | Coding Insight](http://www.codinginsight.com/global-variable-with-angularjs/)
@@ -327,6 +320,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS](http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
 
+### Componentes
+
+* [Writing Reusable AngularJS Components with Bower | Brian Ford](http://briantford.com/blog/angular-bower.html)
+
+* [Sharing AngularJS modules with component.js | Jayway](http://www.jayway.com/2013/06/04/sharing-angularjs-modules-with-component-js/)
+
 
 ## Módulos
 
@@ -341,6 +340,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS + Chosen Plugin = Awesome](http://onehungrymind.com/angularjs-chosen-plugin-awesome/)
 
 * [JQuery Mobile Angular Adapter](https://github.com/tigbro/jquery-mobile-angular-adapter)
+
+### Módulos de Gráficos
 
 * [n3-charts.line-chart](http://angular-d3.github.io/line-chart/) - Awesome charts for AngularJS, powered by D3.js.
 
