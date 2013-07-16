@@ -46,6 +46,8 @@
 
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
 
+* [Grunt.js takes your workflow to the next level | Adnane Belmadiaf](http://daker.me/2013/06/gruntjs-takes-your-workflow-to-the-next-level.html)
+
 * [Grunt: você deveria estar usando! | .openBlog()](http://openblog.github.com/2013/03/22/grunt/)
 
 * [Automação de build de front-end com Grunt.js | Caelum](http://blog.caelum.com.br/automacao-de-build-de-front-end-com-grunt-js/)
