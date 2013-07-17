@@ -120,6 +120,14 @@
 
 * [[GitHub] olivergierke / spring-restbucks](https://github.com/olivergierke/spring-restbucks) - Implementation of the sample from REST in Practice based on Spring projects
 
+* [The Java API for RESTful Web Services (JAX-RS) - Rapidly Build Lightweight Web Services | Oracle](http://www.oracle.com/technetwork/articles/javaee/jax-rs-159890.html)
+
+* [Putting Java to REST | Javalobby](http://java.dzone.com/articles/putting-java-rest)
+
+* [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/articles/REST/)
+
+* [[GitHub] tdiesler / javaee-tutorial](https://github.com/tdiesler/javaee-tutorial) - [JBoss JavaEE 6 Tutorial](https://docs.jboss.org/author/display/AS71/JavaEE+6+Tutorial)
+
 
 #### Testes
 
