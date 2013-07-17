@@ -138,6 +138,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [5.2 Git Distribuído - Contribuindo Para Um Projeto | Pro Git](http://git-scm.com/book/pt-br/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto)
 
+* [Using Pull Requests | GitHub:Help](https://help.github.com/articles/using-pull-requests)
+
 
 ### Curiosidades
 
