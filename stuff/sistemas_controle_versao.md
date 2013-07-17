@@ -132,13 +132,13 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Syncing a fork | GitHub:Help](https://help.github.com/articles/syncing-a-fork)
 
+* [Using Pull Requests | GitHub:Help](https://help.github.com/articles/using-pull-requests)
+
 * [Keep sync with another git repository? | StackOverflow](http://stackoverflow.com/questions/11646080/keep-sync-with-another-git-repository)
 
 * [Syncing a Forked git Repository With a Master Repository´s Changes | Chris Case](https://chriscase.cc/2011/02/syncing-a-forked-git-repository-with-a-master-repositorys-changes/)
 
 * [5.2 Git Distribuído - Contribuindo Para Um Projeto | Pro Git](http://git-scm.com/book/pt-br/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto)
-
-* [Using Pull Requests | GitHub:Help](https://help.github.com/articles/using-pull-requests)
 
 
 ### Curiosidades
