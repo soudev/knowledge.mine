@@ -18,6 +18,11 @@
 
 * [[SlideShare] Introduction to SAML 2.0](http://www.slideshare.net/koivimik/introduction-to-saml-20)
 
+* [Spring Security - SAML Extension](http://static.springsource.org/spring-security/site/extensions/saml/index.html)
+
+	* [[GitHub] SpringSource/spring-security-saml](https://github.com/SpringSource/spring-security-saml) - SAML extension for the Spring Security project
+
+
 ## WS-Trust
 
 * [Using WS-Trust for token transformation | IBM developerWorks](http://www.ibm.com/developerworks/websphere/library/techarticles/1003_chades/1003_chades.html) - WS-Trust provides a standard way to send security token requests to a Security Token Service (STS). This specification can be used to manage token transformation when crossing the various security boundaries of the information system. This article introduces WS-Trust concepts and its basic use to manage token exchange.
