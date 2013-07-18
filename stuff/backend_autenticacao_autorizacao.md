@@ -73,9 +73,11 @@ _ADFS_ - Active Directory Federation Services
 
 * [Requesting a Token from ADFS 2.0 using WS-Trust with Username and Password](http://leandrob.com/2012/04/requesting-a-token-from-adfs-2-0-using-ws-trust-with-username-and-password/)
 
+* [Request a token from ADFS using WS-Trust from iOS, Objective-C, IPhone, IPad, Android, Java, Node.js or any platform or language](http://leandrob.com/2012/02/request-a-token-from-adfs-using-ws-trust-from-ios-objective-c-iphone-ipad-android-java-node-js-or-any-platform-or-language/)
+
 * [ADFS WS-Trust client for Node.js](http://leandrob.com/2012/08/adfs-ws-trust-client-for-node-js/)
 
-* [Request a token from ADFS using WS-Trust from iOS, Objective-C, IPhone, IPad, Android, Java, Node.js or any platform or language](http://leandrob.com/2012/02/request-a-token-from-adfs-using-ws-trust-from-ios-objective-c-iphone-ipad-android-java-node-js-or-any-platform-or-language/)
+* [Active Directory (ADFS) to Authenticate Node.js Apps in MS Azure](http://www.newvem.com/using-active-directory-federation-services-adfs-to-authenticate-authorize-node-js-apps-in-windows-azure/)
 
 * [Convert SAML token to SWT token using ACS](http://blogs.microsoft.co.il/blogs/applisec/archive/2011/11/16/convert-saml-token-to-swt-token-using-acs.aspx)
 
