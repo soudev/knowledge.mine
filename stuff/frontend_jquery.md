@@ -78,3 +78,5 @@
 
 * [Minimalect](http://groenroos.github.io/minimalect/) - Minimal select replacement for jQuery
 
+* [imagefill.js](http://johnpolacek.github.io/imagefill.js/) - The jQuery plugin for making an image fill its container (and be centered)
+
