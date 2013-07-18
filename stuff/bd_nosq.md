@@ -135,7 +135,10 @@ Mantido pela empresa [10gen](http://www.10gen.com/), a qual fornece treinamentos
 
 #### Dicas
 
-{note:title=Recomendação}Indicado para uma configuração inicial e básica, observar o uso de replica set do MongoDB{note}
+> **Recomendação**
+>
+> Indicado para uma configuração inicial e básica, observar o uso de replica set do MongoDB
+>
 
 * [MongoDB Gotchas & How To Avoid Them](http://rsmith.co/2012/11/05/mongodb-gotchas-and-how-to-avoid-them/)
 
@@ -156,6 +159,8 @@ Mantido pela empresa [10gen](http://www.10gen.com/), a qual fornece treinamentos
 * [[SlideShare] Building a Directed Graph with MongoDB](http://www.slideshare.net/fehguy/building-a-directed-graph-with-mongodb)
 
 * [A quick start with MongoDB Geospatial Queries](http://www.siletto.it/blog/alessandro/2013/03/19/quick-start-mongodb-geospatial-queries)
+
+* [[SlideShare] Introduction to MongoDB and Hadoop](http://www.slideshare.net/spf13/introduction-to-mongodb-and-hadoop) - An Introduction to MongoDB + an Introduction to MongoDB + Hadoop. This presentation was given at the CT Java Users Group in March 2013.
 
 
 #### Ferramentas
