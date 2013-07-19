@@ -38,6 +38,12 @@
 
 * [Dynamically removing and replacing an external JavaScript or CSS file](http://www.javascriptkit.com/javatutors/loadjavascriptcss2.shtml)
 
+* [Troubleshooting CSS | Codrops](http://tympanus.net/codrops/2013/07/17/troubleshooting-css/) - Sometimes CSS can be frustrating. Learn about some tricky properties, the common issues they can cause and how to solve them.
+
+* [Using Custom Data Attributes and Pseudo-Elements | Codrops](http://tympanus.net/codrops/2013/07/05/using-custom-data-attributes-and-pseudo-elements/) - A tutorial on how to (ab)use custom data attributes and pseudo-elements for creating image captions.
+
+* [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
+
 
 ### Media Query
 
@@ -46,3 +52,5 @@
 * [Media Queries are a Hack | Ian Storm Taylor](http://ianstormtaylor.com/media-queries-are-a-hack/)
 
 * [mqa.js : a small, modern library for managing media queries programmatically (i.e. in JavaScript)](https://github.com/peol/mqa.js)
+
+
