@@ -48,6 +48,8 @@
 
 * [Grunt.js takes your workflow to the next level | Adnane Belmadiaf](http://daker.me/2013/06/gruntjs-takes-your-workflow-to-the-next-level.html)
 
+* [Grunt JS: Automatize tarefas e otimize o seu workflow | Henrique Silvério](http://blog.henriquesilverio.com/javascript-e-jquery/grunt-js-automatize-tarefas-e-otimize-o-seu-workflow/)
+
 * [Grunt: você deveria estar usando! | .openBlog()](http://openblog.github.com/2013/03/22/grunt/)
 
 * [Automação de build de front-end com Grunt.js | Caelum](http://blog.caelum.com.br/automacao-de-build-de-front-end-com-grunt-js/)
@@ -97,6 +99,10 @@
 * [[GitHub] netzzwerg / example-grunt-jasmine-require](https://github.com/netzzwerg/example-grunt-jasmine-require) - Example project for testing jasmine with requirejs and grunt
 
 * [Backbone, RequireJS, Jasmine, PhantomJS, and Grunt](http://hdnrnzk.me/2013/01/10/backbone-requirejs-jasmine-phantomjs-and-grunt/)
+
+* [Testing your responsive design with PhantomJS | Adnane Belmadiaf](http://daker.me/2013/07/testing-your-responsive-design-with-phantomjs.html)
+
+* [Grunt - Synchronised Testing Between Browsers/Devices4 | Matt Bailey](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
 
 
 ##### Exemplos de Uso
