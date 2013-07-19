@@ -110,6 +110,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Aprendizado
 
+* [My Experience With AngularJS - The Super-heroic JavaScript MVW Framework | Ben Nadel](http://www.bennadel.com/blog/2439-My-Experience-With-AngularJS-The-Super-heroic-JavaScript-MVW-Framework.htm) - uma boa representação gráfica, sobre o aprendizado e uso do AngularJS 
+
 * [AngularJS: an Overview | Glenn Stovall](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
@@ -141,6 +143,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Code Organization in Large AngularJS and JavaScript Applications](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
+
+* [Code Organization in Large AngularJS and JavaScript Applications | Cliff Meyers](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
+
+* [Building Huuuuuge Apps with AngularJS | Brian Ford](http://briantford.com/blog/huuuuuge-angular-apps.html)
 
 --
 
