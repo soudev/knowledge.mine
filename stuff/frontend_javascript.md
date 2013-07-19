@@ -232,6 +232,8 @@
 
 * [zip.js](http://gildas-lormeau.github.io/zip.js/) - A JavaScript library to zip and unzip files
 
+* [lz-string](http://pieroxy.net/blog/pages/lz-string/demo.html) - JavaScript compression, fast!
+
 * [[GitHub] mikaelbr / SocialFeed.js](https://github.com/mikaelbr/SocialFeed.js) - Easily create a feed with your latest interactions on different social media. Accumulate Github Events, Disqus comments, Delicious links, Tweets, etc.
 
 * [[GitHub] Valve / fingerprintjs](https://github.com/Valve/fingerprintjs) - Fast browser fingerprint library. Written in pure JavaScript, no dependencies. By default uses Murmur hashing and returns a 32bit integer number. Hashing function can be easily replaced. Feather weight: only 843 bytes when gzipped.
