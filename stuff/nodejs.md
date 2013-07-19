@@ -11,6 +11,8 @@
 
 * [Node.js Infographic :: The State of Node | Strong Loop](http://strongloop.com/infographic)
 
+* [O que as empresas dizem sobre o Node.js](http://nodejs.org/industry/)
+
 * [[SlideShare] Conhecendo mundo Node.js](http://www.slideshare.net/caioribeiropereira/conhecendo-mundo-nodejs-12813969)
 
 * [O que exatamente é o Node.js? | IBM developerWorks](http://www.ibm.com/developerworks/br/library/os-nodejs/)
