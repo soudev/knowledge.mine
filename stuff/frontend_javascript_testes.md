@@ -63,6 +63,8 @@
 
 * [Why I use CasperJS for regression testing web applications](http://www.pixelite.co.nz/article/why-i-use-casperjs-regression-testing-web-applications)
 
+* [Responsive Screenshots With Casper | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/responsive-screenshots-with-casper/)
+
 
 #### SmilerJS
 
