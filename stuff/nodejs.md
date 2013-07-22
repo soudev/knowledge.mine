@@ -37,6 +37,8 @@
 
 ## Aprendizado
 
+* [Teach Yourself Node.JS in 10 Steps | Pony Foo](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
+
 * [How to Node](http://howtonode.org/)
 
 * [The Node Beginner Book](http://www.nodebeginner.org/)
@@ -92,6 +94,8 @@
 
 
 ## Dicas
+
+* [Tools and Strategies for node.js Development on GitHub | Chris Wren](http://chrisawren.com/posts/Tools-and-Strategies-for-node-js-Development-on-GitHub)
 
 * [Managing Node.js Virtual Environments with Nave](http://forge.zeunic.com/development/2013/managing-node-js-virtual-environments-with-nave)
 
