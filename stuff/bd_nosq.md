@@ -102,12 +102,12 @@
 
 * [MongoDB](http://www.mongodb.org/)
 
-{info:title=Sobre}
-
-Banco de Dados NoSQL (não relacional, sem esquema de dados fixo).
-
-Mantido pela empresa [10gen](http://www.10gen.com/), a qual fornece treinamentos e suporte pago ao MongoDB.
-{info}
+> **Sobre**
+>
+> Banco de Dados NoSQL (não relacional, sem esquema de dados fixo).
+>
+> Mantido pela empresa [10gen](http://www.10gen.com/), a qual fornece treinamentos e suporte pago ao MongoDB.
+>
 
 
 #### Aprendizado
