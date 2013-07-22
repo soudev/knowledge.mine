@@ -39,6 +39,8 @@ O AngularJS é um conjunto de ferramentas, para construir um framework mais adeq
 
 É totalmente extensível e trabalha bem com outras bibliotecas. Cada  característica do AngularJS pode ser modificada ou substituida conforme a  necessidade do projeto.
 
+* [3 Reasons to Choose AngularJS for Your Next Project | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/3-reasons-to-choose-angularjs-for-your-next-project/)
+
 * [5 reasons to use AngularJS in the corporate app world | Digital Caveman](http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
 
 
