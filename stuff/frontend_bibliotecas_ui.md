@@ -61,6 +61,10 @@
 
 * [15 Awesome Free JavaScript Charts](http://www.splashnology.com/article/15-awesome-free-javascript-charts/325/)
 
+* [Visualize Your Data: 25 Javascript Visualization Libraries](http://www.ma-no.org/en/content/index_visualize-your-data-25-javascript-visualization-libraries_1796.php)
+
+--
+
 * [Raphaël -JavaScript Library](http://raphaeljs.com/)
 
 * [JustGage](http://justgage.com/) is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges
