@@ -47,6 +47,7 @@
 
 * [JS Objects: Inherited a Mess](http://davidwalsh.name/javascript-objects)
 
+* [Object Playground : The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
 
 
 ### Padrões
@@ -126,6 +127,7 @@
 
 * [Debuggex: A beautiful visual regex tester](http://www.debuggex.com/)
 
+* [[GitHub] jehna / VerbalExpressions](https://github.com/jehna/VerbalExpressions) - JavaScript Regular expressions made easy
 
 
 ### Performance
@@ -225,6 +227,8 @@
 * [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
 
 * [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript. 
+
+* [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
 
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
 
