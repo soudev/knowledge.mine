@@ -121,13 +121,16 @@
 
 * [JavaScript Regular Expression Enlightenment |  Tech.Pro](http://tech.pro/tutorial/1214/javascript-regular-expression-enlightenment)
 
+* [[GitHub] jehna / VerbalExpressions](https://github.com/jehna/VerbalExpressions) - JavaScript Regular expressions made easy
+
+
+#### Expressões Regulares - Ferramentas online
+
 * [Scriptular is a javascript regular expression editor](http://scriptular.com/) - online
 
 * [Regexper](http://www.regexper.com/) - Regular expression visualizer using railroad diagrams
 
 * [Debuggex: A beautiful visual regex tester](http://www.debuggex.com/)
-
-* [[GitHub] jehna / VerbalExpressions](https://github.com/jehna/VerbalExpressions) - JavaScript Regular expressions made easy
 
 
 ### Performance
