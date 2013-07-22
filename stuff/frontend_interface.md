@@ -21,3 +21,8 @@
 * [Tudo que você precisa saber sobre resoluções, telas retina, devicePixelRatio, DPI, CSS pixels e etc | Sérgio Lopes](http://sergiolopes.org/resolucoes-dpi-pixel-ratio-retina/)
 
 * [Taking Ems Even Further | Webdesigntuts+](http://webdesign.tutsplus.com/articles/typography-articles/taking-ems-even-further/)
+
+
+## D3.js for HTML
+
+* [d3 for HTML](http://macwright.org/2013/07/07/d3-for-html.html)
