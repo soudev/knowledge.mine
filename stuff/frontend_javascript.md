@@ -7,6 +7,8 @@
 
 ### Aprendizado
 
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - documentação com recomendações e boas práticas de programação em JavaScript.
+
 * [JS: The Right Way](http://jstherightway.com/)
 
 * [Learn JavaScript | Mozilla Developer Network](https://developer.mozilla.org/en-US/learn/javascript)
