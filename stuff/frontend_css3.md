@@ -20,6 +20,8 @@
 
 * [Como usar linear-gradient em CSS de forma consciente? | Tableless](http://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/)
 
+* [Original Hover Effects with CSS3](http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/)
+
 
 ### Compatibilidade
 
