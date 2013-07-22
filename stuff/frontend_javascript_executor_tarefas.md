@@ -58,6 +58,7 @@
 
 * [[YouTube] Grunt JavaScript Automation for the Lazy Developer](https://www.youtube.com/watch?v=bntNYzCrzvE)
 
+* [Advanced Grunt tooling | Chris Wren](http://chrisawren.com/posts/Advanced-Grunt-tooling)
 
 
 ##### Ferramentas
@@ -74,6 +75,7 @@
 
 * [grunt-build-gh-pages](https://github.com/pajtai/grunt-build-gh-pages) - Grunt task to take build directory from current task and move it to another branch | examplo: [exploratory-javascript-tests](https://github.com/pajtai/exploratory-javascript-tests)
 
+* [Grunt Prompt](https://github.com/dylang/grunt-prompt) - Add interactive UI to your Gruntfile on the command line
 
 
 ##### Dicas
