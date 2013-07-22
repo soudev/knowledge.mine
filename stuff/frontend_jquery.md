@@ -38,6 +38,8 @@
 
 * [jQuery Howto: Find & select all external links with jQuery](http://jquery-howto.blogspot.co.uk/2009/06/find-select-all-external-links-with.html)
 
+* [Queuing Ajax Requests in JS Web Apps | Mostly harmless](http://blog.alexmaccaw.com/queuing-ajax-requests)
+
 
 ### Mobile
 
