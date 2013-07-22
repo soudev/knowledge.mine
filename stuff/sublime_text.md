@@ -33,3 +33,6 @@
 * [Markdown to Clipboard for Sublime Text 2](http://timewilltell.me/node/14)
 
 * [Sublime Web Inspector](http://sokolovstas.github.com/SublimeWebInspector/) - Debug Javascript right in the Sublime Text editor
+
+* [[GitHub] aziz / PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
+
