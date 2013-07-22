@@ -207,6 +207,8 @@
 
 * [[GitHub] zefhemel / persistencejs](https://github.com/zefhemel/persistencejs) - is an asynchronous Javascript database mapper library. You can use it in the browser, as well on the server (and you can share data models between them).
 
+* [LocalStorage with Amplify.js | TysonJS](http://tysonjs.com/blog/localstorage-with-amplify-js/)
+
 
 #### Games
 
@@ -298,7 +300,11 @@
 
 * [PhoneGap](http://phonegap.com/) is a free and open source framework that allows you to create mobile apps using standardized web APIs for the platforms you care about.
 
-* [CPBR6 slides da palestra Phonegap - Igor Costa](http://www.igorcosta.com/slides-phonegap/)
+* [Adobe PhoneGap 3.0 Released](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/)
+
+* [Phonegap 3.0 mais rápido e muito mais adaptável | Igor Costa](http://www.igorcosta.com/phonegap-3-0-mais-rapido-e-muito-mais-adaptavel/)
+
+* [CPBR6 slides da palestra Phonegap | Igor Costa](http://www.igorcosta.com/slides-phonegap/)
 
 * [PhoneGap Build - Package mobile apps in the cloud.](https://build.phonegap.com/) - Simply upload your HTML5, CSS, and JavaScript assets to the Adobe® PhoneGap™ Build cloud service and we do the work of compiling for you.
 
