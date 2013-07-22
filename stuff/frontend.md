@@ -31,7 +31,18 @@
 
 * [Emmet - Cheat Sheet](http://docs.emmet.io/cheat-sheet/) - Sublime Text 2
 
-## Icon
+
+## Unicode
+
+* [Unicode Character Table](http://unicode-table.com/) - Very extensive table showing all existing unicode characters, along with their respective names, numbers and codes.
+
+
+## Imagens
+
+* [[GitHub] paulirish / browser-logos](https://github.com/paulirish/browser-logos) - vector and raster versions of all browser logos possible. transparent backgrounds.
+
+
+### Icon
 
 * [Icon Finder](http://www.iconfinder.com/)
 
@@ -54,12 +65,7 @@
 * [Socialicious](http://shalinguyen.github.io/socialicious/) - A social media icons library in font form.
 
 
-## Unicode
-
-* [Unicode Character Table](http://unicode-table.com/) - Very extensive table showing all existing unicode characters, along with their respective names, numbers and codes.
-
-
-## FavIcon
+### FavIcon
 
 * [Favicon como deve ser](http://ramonpage.com/blog/2013/01/17/favicon-como-deve-ser)
 
