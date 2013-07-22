@@ -229,9 +229,7 @@
 
 * [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
 
-* [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript. 
-
-* [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
+* [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript.
 
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
 
@@ -256,6 +254,10 @@
 * [Converse.js](http://conversejs.org/) - An XMPP chat client for your website
 
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
+
+* [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
+
+* [Squel.js](http://hiddentao.github.io/squel/) - lightweight Javascript library for building SQL query strings.
 
 * [[GitHub] Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 
