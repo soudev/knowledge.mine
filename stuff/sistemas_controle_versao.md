@@ -116,6 +116,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Using Sublime Text 2 as your default editor · github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
+* [Git Collaboration Guide - Google Code](https://code.google.com/p/tigus/wiki/GitCollaborationGuide)
+
 
 ### Branch
 
@@ -138,7 +140,32 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Syncing a Forked git Repository With a Master Repository´s Changes | Chris Case](https://chriscase.cc/2011/02/syncing-a-forked-git-repository-with-a-master-repositorys-changes/)
 
+
+### Colaboração
+
+* [Understanding Git: Collaborating](http://www.sbf5.com/~cduan/technical/git/git-4.shtml)
+
 * [5.2 Git Distribuído - Contribuindo Para Um Projeto | Pro Git](http://git-scm.com/book/pt-br/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto)
+
+* [Working on other people's projects with Git | Barking Iguana](http://barkingiguana.com/2008/11/20/working-on-other-peoples-projects-with-git/)
+
+
+#### pull request
+
+* [git request-pull | Manual Page](http://git-scm.com/docs/git-request-pull)
+
+* [Sending a "request to pull"](http://wiki.koha-community.org/wiki/Sending_a_%22request_to_pull%22)
+
+* [How to use a signed tag in pull requests](https://www.kernel.org/pub/software/scm/git/docs/howto/using-signed-tag-in-pull-request.html)
+
+* [[Gist] Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
+
+* [Merging in a Pull Request](http://yuilibrary.com/yui/docs/tutorials/merge-pull-request/) - This tutorial is for developers who want to check out a Pull Request issued by another user. This is the workflow the YUI team follows to merge in Pull Requests to the YUI projects.
+
+
+#### Ferramentas para Colaboração
+
+* [TeamForge for Git | CollabNet](http://www.collab.net/products/teamforge/git-for-the-enterprise) - Central control for DVCS. Enterprise-grade security and compliance.
 
 
 ### Curiosidades
