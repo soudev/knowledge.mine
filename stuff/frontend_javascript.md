@@ -11,6 +11,8 @@
 
 * [JS: The Right Way](http://jstherightway.com/)
 
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - A Modern Introduction to Programming, by Marijn Haverbeke
+
 * [Learn JavaScript | Mozilla Developer Network](https://developer.mozilla.org/en-US/learn/javascript)
 
 * [Learning JavaScript: Essentials And Guidelines](http://www.smashingmagazine.com/learning-javascript-essentials-guidelines-tutorials/)
