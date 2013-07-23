@@ -312,6 +312,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Directive (componentes)
 
+* [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
+
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 
 * [[GitHub] rootux / angular-highcharts-directive](https://github.com/rootux/angular-highcharts-directive) - An Angular Js Directive which allows to simplify the use of Highcharts charts
@@ -329,6 +331,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 5 - Custom Directive | Angular Cats!](http://ericterpstra.com/2012/09/angular-cats-part-5-custom-directive/)
 
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS](http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
+
+* Scoping AngularJS Directives | Spectacle Labs Blog - [Part 1](http://spectaclelabs.io/blog/2013/06/22/scoping-angularjs-directives-part-1/) | [Part 2](http://spectaclelabs.io/blog/2013/06/23/scoping-angularjs-directives-part-2/)
+
 
 ### Componentes
 
