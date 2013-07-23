@@ -35,8 +35,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [git-scm: Pro Git book - online pt-br](http://git-scm.com/book/pt-br/)
 
-* [9.7 Git Internamente - Manutenção e Recuperação de Dados](http://git-scm.com/book/pt-br/Git-Internamente-Manuten%C3%A7%C3%A3o-e-Recupera%C3%A7%C3%A3o-de-Dados)
-
 * Tabless - Iniciando no GIT : [Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/) | [Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/)
 
 * [Começando com Git | DPW](http://desenvolvimentoparaweb.com/indicacoes/comecando-com-git/)
@@ -62,6 +60,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [GitHub Training](http://training.github.com/)
 
 * [GitHub Help](https://help.github.com/)
+
+* [Team Collaboration With GitHub | Nettuts+](http://net.tutsplus.com/articles/general/team-collaboration-with-github/)
 
 
 ## Dicas
@@ -98,6 +98,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Git Howto: Revert a Commit Already Pushed to a Remote Repository](http://christoph.ruegg.name/blog/2010/5/5/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 
+* [9.7 Git Internamente - Manutenção e Recuperação de Dados | Pro Git](http://git-scm.com/book/pt-br/Git-Internamente-Manuten%C3%A7%C3%A3o-e-Recupera%C3%A7%C3%A3o-de-Dados)
+
 * [Git Basic Commands | Pankaj Kumar](http://panks.me/blog/2011/12/git-basic-commands/)
 
 * [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
@@ -114,9 +116,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Using GitHub as a personal maven repository](http://coffeecoders.de/2011/09/using-github-as-a-personal-maven-repository/)
 
-* [Using Sublime Text 2 as your default editor · github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
-
-* [Git Collaboration Guide - Google Code](https://code.google.com/p/tigus/wiki/GitCollaborationGuide)
+* [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
 
 ### Branch
@@ -154,18 +154,19 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [git request-pull | Manual Page](http://git-scm.com/docs/git-request-pull)
 
+* [[Gist] Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
+
+* [Effective pull requests and other good practices for teams using GitHub](http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/)
+
 * [Sending a "request to pull"](http://wiki.koha-community.org/wiki/Sending_a_%22request_to_pull%22)
+
+* [How to send pull request on GIT | StackOverflow](http://stackoverflow.com/questions/6235379/how-to-send-pull-request-on-git)
+
+* [Is it possible to create merge requests in pure Git from the **command line**? | StackOverflow](http://stackoverflow.com/questions/7273434/is-it-possible-to-create-merge-requests-in-pure-git-from-the-command-line)
 
 * [How to use a signed tag in pull requests](https://www.kernel.org/pub/software/scm/git/docs/howto/using-signed-tag-in-pull-request.html)
 
-* [[Gist] Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
-
 * [Merging in a Pull Request](http://yuilibrary.com/yui/docs/tutorials/merge-pull-request/) - This tutorial is for developers who want to check out a Pull Request issued by another user. This is the workflow the YUI team follows to merge in Pull Requests to the YUI projects.
-
-
-#### Ferramentas para Colaboração
-
-* [TeamForge for Git | CollabNet](http://www.collab.net/products/teamforge/git-for-the-enterprise) - Central control for DVCS. Enterprise-grade security and compliance.
 
 
 ### Curiosidades
@@ -259,6 +260,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Aplicações visuais para o Git | Tabless](http://tableless.com.br/git-com-interface-grafica/)
 
 * [Git-SCM : Indicações](http://git-scm.com/downloads/guis)
+
+* [TeamForge for Git | CollabNet](http://www.collab.net/products/teamforge/git-for-the-enterprise) - Central control for DVCS. Enterprise-grade security and compliance.
 
 
 ### GitLab
