@@ -237,6 +237,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Random tricks when using AngularJS](http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/) 
 
+* [input radio | Angular Docs](http://docs-angularjs-org-dev.appspot.com/api/ng.directive:input.radio)
+
+* [input radio dinâmico | jsFiddle](http://jsfiddle.net/hgxjv/4/)
+
+* [AngularJS and Radio Buttons | Sudo Zest](http://www.mpdaugherty.com/blog/angularjs-and-radio-buttons/)
+
+
 
 ### Internacionalização
 
