@@ -90,6 +90,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [Everyday GIT With 20 Commands Or So](https://www.kernel.org/pub/software/scm/git/docs/everyday.html)
+
+--
+
 * [GitHub Flow in the Browser | GitHub Blog](https://github.com/blog/1557-github-flow-in-the-browser)
 
 * [Release Your Software | GitHub Blog](https://github.com/blog/1547-release-your-software)
@@ -263,14 +267,16 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Git-SCM : Indicações](http://git-scm.com/downloads/guis)
 
+
+### Gestão de servidor Git
+
+* [GitLab](http://gitlab.org/) - Self hosted Git management software. Keep & manage your code on your own server. [[GitHub] gitlabhq / gitlabhq](https://github.com/gitlabhq/gitlabhq)
+
+* [GitHub Enterprise](https://enterprise.github.com/) 
+
+* [Atlassian Stash](https://www.atlassian.com/software/stash)
+
 * [TeamForge for Git | CollabNet](http://www.collab.net/products/teamforge/git-for-the-enterprise) - Central control for DVCS. Enterprise-grade security and compliance.
-
-
-### GitLab
-
-* [GitLab](http://gitlab.org/) - Self hosted Git management software. Keep & manage your code on your own server.
-
-* [[GitHub] gitlabhq / gitlabhq](https://github.com/gitlabhq/gitlabhq)
 
 
 ### Mac
