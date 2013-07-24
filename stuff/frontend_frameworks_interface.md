@@ -49,6 +49,8 @@
 
 * [Twitter Bootstrap | desenvolvimento para web](http://desenvolvimentoparaweb.com/miscelanea/twitter-bootstrap/)
 
+* [Bootstrap Customization: Themes, UI Patterns and Tools | Awwwards](http://www.awwwards.com/bootstrap-customization-themes-ui-patterns-and-tools.html)
+
 * [BSU - Bootstrap University](http://mdo.github.io/bsu/)
 
 * [20+ Beautiful Resources That Complement Twitter Bootstrap](http://www.webresourcesdepot.com/20-beautiful-resources-that-complement-twitter-bootstrap/)
