@@ -20,6 +20,8 @@
 
 * [Improve Mobile Support With Server-Side-Enhanced Responsive Design | Smashing Mobile](http://mobile.smashingmagazine.com/2013/04/09/improve-mobile-support-with-server-side-enhanced-responsive-design/)
 
+* [Simple Responsive Images With CSS Background Images | Smashing Mobile](http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/)
+
 * [Web Design Responsivo: as melhores referências em português pra você aprender do básico ao avançado](http://sergiolopes.org/diretorio-design-responsivo/)
 
 * [85 Top Responsive Web Design Tools | Mashable](http://mashable.com/2013/03/18/web-design-tools/)
