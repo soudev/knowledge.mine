@@ -17,3 +17,8 @@
 * [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
 
 * [DevDocs](http://devdocs.io/) — API Documentation Reader (html5, css3, jquery)
+
+
+## Palestras
+
+* [Aplicando Clean Code e DDD em entidades Hibernate/JPA | InfoQ BR](http://www.infoq.com/br/presentations/clean-code-ddd-hibernate-jpa)
