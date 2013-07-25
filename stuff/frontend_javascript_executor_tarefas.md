@@ -77,6 +77,8 @@
 
 * [Grunt Prompt](https://github.com/dylang/grunt-prompt) - Add interactive UI to your Gruntfile on the command line
 
+* [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
+
 
 ##### Dicas
 
@@ -89,6 +91,8 @@
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
 
 * [[Gist] rhumaric / Gruntfile-connect-open.js](https://gist.github.com/rhumaric/5577257) - Sample configuration of grunt-contrib-connect and grunt-open to serve your project and open a browser tab to the appropriate URL
+
+* [Making Maven GruntJS | Addy Osmani](http://addyosmani.com/blog/making-maven-grunt/)
 
 ##### Testes
 
