@@ -200,6 +200,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
 
+* [Extensionizr](http://extensionizr.com/) - Generate Chrome Extensions with AngularJS. Extensionizr helps you create the basis for your own awesome chrome extension!
+
 
 ## Dicas
 
