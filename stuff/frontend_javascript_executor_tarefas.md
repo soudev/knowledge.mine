@@ -8,6 +8,9 @@
 > 
 > As ferramentas de automatização/tarefas necessitam e executam sobre o Node.js
 
+
+* [flour](http://ricardo.cc/cake-flour/) - A ferramenta brasileira Flour consiste em um conjunto de ferramentas para projetos javascript com foco na objetividade para rodar tarefas comuns, como: compilação, minificação, validação e concatenação de arquivos.
+
 #### Bundy
 
 * [Bundy](https://github.com/michaldudek/Bundy) - If you are working on a JavaScript library, plugin or a widget and  want to quickly "bundle" it (minify all JavaScript and CSS files, put  them in single files, copy other assets, eg. images and fonts, to  release directory), then Bundy is for you.
