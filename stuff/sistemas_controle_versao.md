@@ -92,6 +92,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Everyday GIT With 20 Commands Or So](https://www.kernel.org/pub/software/scm/git/docs/everyday.html)
 
+* [Git Hooks](http://githooks.com/) - Git hooks are scripts that Git executes before or after events such as: commit, push, and receive. Git hooks are a built-in feature - no need to download anything. Git hooks are run locally.
+
 --
 
 * [GitHub Flow in the Browser | GitHub Blog](https://github.com/blog/1557-github-flow-in-the-browser)
