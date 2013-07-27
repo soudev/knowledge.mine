@@ -339,6 +339,8 @@
 
 * [Jam.js and Bower | Red Badger](http://red-badger.com/blog/2013/03/26/jam-js-and-bower/)
 
+* [jspm.io](http://jspm.io/) - is a browser module loader that will load any module format (ES6 / AMD / CJS) locally or even directly from NPM and Github utilising SPDY push.
+
 #### Bower
 
 > **Sobre**
