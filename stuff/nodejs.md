@@ -92,6 +92,10 @@
 
 * [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
 
+## Frameworks
+
+* [Bone.io](http://bone.io/) is a lightweight framework for building high performance Realtime Single Page HTML5 Apps
+
 
 ## Dicas
 
