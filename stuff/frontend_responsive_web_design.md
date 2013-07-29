@@ -46,6 +46,10 @@
 
 --
 
+* [Using JavaScript to get the actual viewport width | Tyson Matanich](http://www.matanich.com/2013/01/07/viewport-size/)
+
+--
+
 * [Screenfly](https://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
 
 
