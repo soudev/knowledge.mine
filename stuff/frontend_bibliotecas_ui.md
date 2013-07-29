@@ -57,6 +57,11 @@
 * [JS Sequence Diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 
 
+### Widget
+
+* [ChessBoardJS](http://chessboardjs.com/) is a JavaScript Chess Board Widget
+
+
 ### Gráficos
 
 * [15 Awesome Free JavaScript Charts](http://www.splashnology.com/article/15-awesome-free-javascript-charts/325/)
