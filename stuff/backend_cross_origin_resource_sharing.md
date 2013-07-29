@@ -16,6 +16,8 @@ XS_SHARING_ALLOWED_HEADERS = ['Content-Type', 'X-Requested-With']{code}
 
 * [The JSONP Hack | Unicode Girl](http://www.unicodegirl.com/jsonp-hack.html) -  In this post we try to understand how the JSONP hack works, and we write our own version of jQuery's getJSON.
 
+* [[GitHub] jpillora / xdomain](https://github.com/jpillora/xdomain) - a JQuery plugin to do cross-domain AJAX requests via postMessage
+
 * [Cross Domain Javascript, Lessons Learned | Software Alchemist](http://avalanche123.com/blog/2011/10/10/cross-domain-javascript-lessons-learned/)
 
 
