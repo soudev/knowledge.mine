@@ -128,6 +128,8 @@
 
 * [[GitHub] tdiesler / javaee-tutorial](https://github.com/tdiesler/javaee-tutorial) - [JBoss JavaEE 6 Tutorial](https://docs.jboss.org/author/display/AS71/JavaEE+6+Tutorial)
 
+* [RESTful Web services Tutorials | How to do in JAVA](http://howtodoinjava.com/restful-web-service/)
+
 
 #### Testes
 
