@@ -114,6 +114,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Five advanced Git merge techniques](http://blog.ezyang.com/2010/01/advanced-git-merge/)
 
+* [More Git and GitHub Secrets | Zach Holman](http://zachholman.com/talk/more-git-and-github-secrets/)
+
 * [Juntando commits com git rebase - squash commits](http://rodrigopinto.me/2013/03/05/juntando-commits-com-git-rebase-squash-commits/) - Dica para o pessoal que usa o git, basicamente o squash commit é  juntar vários commits referentes a uma mesma tarefa em um só commit.
 
 * [Please, use git pull --rebase](https://coderwall.com/p/7aymfa)
