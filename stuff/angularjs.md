@@ -407,6 +407,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] angular-app / angular-app](https://github.com/angular-app/angular-app) - Reference application for AngularJS
 
+* [[GitHub] angular / angular-prs](https://github.com/angular/angular-prs)
+
 * [ng-boilerplate | Non-Trivial AngularJS Made Easy](http://joshdmiller.github.com/ng-boilerplate/) - Everything you need to kickstart AngularJS projects: a best-practice  directory structure, an intelligent build system, and the best web  design libraries around.
 
 * [[GitHub] CaryLandholt / AngularFun](https://github.com/CaryLandholt/AngularFun) - AngularJS Reference Architecture
