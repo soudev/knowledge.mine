@@ -85,3 +85,12 @@ _ADFS_ - Active Directory Federation Services
 
 * [Securing Web API REST services with ADFS and ACS](http://www.mexia.com.au/securing-web-api-rest-services-with-adfs-and-acs/)
 
+
+* [Troubleshooting ADFS 2.0 | DZone](http://dotnet.dzone.com/articles/troubleshooting-adfs-20)
+
+* [Entries in ADFS v2 | The Identity Guy](http://www.theidentityguy.com/articles/tag/adfs-v2)
+
+* [ADFS with Non-Standard HTTPS Port | Certified Security Solutions](http://www.css-security.com/blog/adfs-with-non-standard-https-port/)
+
+
+
