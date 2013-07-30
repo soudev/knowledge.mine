@@ -61,6 +61,10 @@ _ADFS_ - Active Directory Federation Services
 
   * [Securing REST Services](http://msdn.microsoft.com/en-us/library/hh446531.aspx)
 
+  * [[PDF] ADFS Step-by-Step Guide - Bandwidthco Computer Security](http://www.bandwidthco.com/whitepapers/os/windows/ad/ADFS%20Step-by-Step%20Guide.pdf)
+
+  * [Configuring ADFS Servers for Success and Failure Auditing of User Logon Events | Agile IT](http://www.agileit.com/news/configuring-adfs-servers-for-success-and-failure-auditing-of-user-logon-events/)
+
 * [How To Request SWT Token From ACS And How To Validate It At The REST WCF Service Hosted In Windows Azure](http://blogs.msdn.com/b/alikl/archive/2011/06/05/how-to-request-swt-token-from-acs-and-how-to-validate-it-at-the-rest-wcf-service-hosted-in-windows-azure.aspx)
 
 * [ACS SAML / ADFS v2 Sample](http://blogs.msdn.com/b/justinjsmith/archive/2009/11/14/acs-saml-adfs-v2-sample.aspx)
