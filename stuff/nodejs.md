@@ -131,6 +131,8 @@
 
 * [Install node.js on a raspberry pi](http://halusanation.com/post/49221746344/install-node-js-on-a-raspberry-pi)
 
+* [[GitHub] WebReflection / dblite](https://github.com/WebReflection/dblite) - sqlite for node.js without gyp problems
+
 * [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
 
 * [10 Cool Things You Probably Didn't Realize npm Could Do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do)
@@ -142,6 +144,8 @@
 * [Unitech/pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
 
 * [[GitHub] fth-ship/code-problems](https://github.com/fth-ship/code-problems) - Common code problems solved using JavaScript - add your own problems and solutions!
+
+* [[GitHub] eviltik / evilscan](https://github.com/eviltik/evilscan) - Massive ip/ports scanner (nodejs)
 
 
 ## Amazon AWS
@@ -165,4 +169,16 @@
 
 * [Node.js on Windows Azure](http://www.windowsazure.com/en-us/develop/nodejs/) - Get the tools, documentation, sample code and other resources you need to build powerful Node.js applications on Windows Azure.
 
+## Desktop App
 
+* [Build Desktop Application Using Node.js | Shift8Creative](http://www.shift8creative.com/posts/view/build-desktop-application-using-node-js) - A Quickstart using AppJs
+
+* [[GitHub] appjs / appjs](https://github.com/appjs/appjs) - SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
+
+* [[GitHub] arturadib / node-qt](https://github.com/arturadib/node-qt) - Qt bindings for Node.js
+
+* [[GitHub] rogerwang / node-webkit](https://github.com/rogerwang/node-webkit) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
+
+* [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
+
+s
