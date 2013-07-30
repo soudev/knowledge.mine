@@ -4,7 +4,11 @@
 
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
 
+* [Flat Design e a Re-Cultura da Interface | iMasters](http://imasters.com.br/design-ux/teoria-do-design/flat-design-e-a-re-cultura-da-interface/)
+
 * [The Responsive Designer](http://simonfosterdesign.com/blog/web-design/the-responsive-designer/)
+
+* [Your Responsive Website Design Isn’t Mobile Enough | Todaymade Blog](https://todaymade.com/blog/responsive-content-management/)
 
 * [Rich Internet Application Screen Design | UX Magazine](http://uxmag.com/articles/rich-internet-application-screen-design)
 
