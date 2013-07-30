@@ -45,6 +45,8 @@
 
 * [Site oficial](http://twitter.github.com/bootstrap/)
 
+* [Bootstrap 3 Migration Guide | Bootstrap Playground](http://www.bootply.com/migrate-to-bootstrap-3)
+
 * [Você já conhece o Twitter Bootstrap?](http://joaovagner.com.br/2012/09/20/voce-ja-conhece-o-twitter-bootstrap/)
 
 * [Twitter Bootstrap | desenvolvimento para web](http://desenvolvimentoparaweb.com/miscelanea/twitter-bootstrap/)
