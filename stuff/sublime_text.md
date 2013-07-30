@@ -36,3 +36,5 @@
 
 * [[GitHub] aziz / PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 
+* [Make URLs clickable in Sublime Text | Leonid Shevtsov](http://leonid.shevtsov.me/en/clickable-urls-in-sublime-text)
+
