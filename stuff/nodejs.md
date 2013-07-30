@@ -169,6 +169,7 @@
 
 * [Node.js on Windows Azure](http://www.windowsazure.com/en-us/develop/nodejs/) - Get the tools, documentation, sample code and other resources you need to build powerful Node.js applications on Windows Azure.
 
+
 ## Desktop App
 
 * [Build Desktop Application Using Node.js | Shift8Creative](http://www.shift8creative.com/posts/view/build-desktop-application-using-node-js) - A Quickstart using AppJs
@@ -181,4 +182,3 @@
 
 * [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
 
-s
