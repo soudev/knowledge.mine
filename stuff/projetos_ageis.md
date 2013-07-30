@@ -15,6 +15,8 @@
 
 ## InfoQ Br
 
+* [Modelagem de Domínio: os 7 maus cheiros de informação](http://www.infoq.com/br/articles/seven-modelling-smells) - A modelagem de domínio é uma poderosa técnica do arsenal dos profissionais de TI. Mas infelizmente algumas questões a tem feito cair em desuso nos últimos anos, especialmente nos círculos ágeis. Dois problemas reais são o tempo muito grande necessário e e propensão à "parálise na análise" . Aqui apresentamos uma abordagem para a modelagem de domínio que buscar tratar esses problemas.
+
 * [Dívida técnica: precisando de crédito?](http://www.infoq.com/br/presentations/divida-tecnica-precisando-credito) - Dívida técnica é inevitável. Nos projetos de software em que  participei observo em média investidores que são ou extremamente  conservadores (os perfeccionistas) ou irresponsavelmente agressivos (fãs  da gambiarra). Nesta palestra, são apresentadas histórias de projetos  reais, com orçamentos reais, para compartilhar técnicas e estratégias  para quantificar, visualizar e lidar com dívida técnica.
 
 * [Pedaços de XP, FDD, Scrum e Kanban na Análise de Negócio e Engenharia de Requisitos](http://www.infoq.com/br/presentations/agile-negocio-requisitos) - Utilizando partes de técnicas do FDD, XP, Scrum, Kanban e outros, o  palestrante pôde fazer uma experiência muito produtiva em Análise e  Modelagem de Negócios e Requisitos. Neste relato, é exposto o cenário  padrão da Elicitação de Requisitos ao longo do desenvolvimento, os  problemas enfrentados e o que levou a equipe a escolher pedaços de  vários frameworks e métodos ágeis.
