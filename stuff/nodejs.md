@@ -141,11 +141,13 @@
 
 * [Node.js com Express.js nos negócios | iMasters](http://imasters.com.br/front-end/javascript/node-js-com-express-js-nos-negocios/)
 
-* [Unitech/pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
+* [[GitHub] Unitech / pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
 
-* [[GitHub] fth-ship/code-problems](https://github.com/fth-ship/code-problems) - Common code problems solved using JavaScript - add your own problems and solutions!
+* [[GitHub] fth-ship / code-problems](https://github.com/fth-ship/code-problems) - Common code problems solved using JavaScript - add your own problems and solutions!
 
 * [[GitHub] eviltik / evilscan](https://github.com/eviltik/evilscan) - Massive ip/ports scanner (nodejs)
+
+* [[GitHub] dilvie / credential](https://github.com/dilvie/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
 
 
 ## Amazon AWS
