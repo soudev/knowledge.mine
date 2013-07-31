@@ -33,6 +33,9 @@
 
 * [eclipse.ini | Eclipsepedia](http://wiki.eclipse.org/Eclipse.ini#-vm_value%3a_Windows_Example)
 
+* [Config do encode no eclipse no Mac OS X](http://ekkescorner.wordpress.com/2009/07/28/howto-change-fileencoding-of-eclipse-projects-osx/)
+
+
 ### Light Table
 
 * [Light Table](http://www.lighttable.com/)
