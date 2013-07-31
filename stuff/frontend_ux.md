@@ -20,13 +20,19 @@
 
 * [Usability checklist | Userium](http://userium.com/) - Catch common usability problems before user testing
 
+### Colors
+
 * [Color Swatches](http://maxmackie.com/jquery.swatches/) - a free to use [jQuery plugin](http://github.com/maxmackie/jquery.swatches) by [Max Mackie](http://maxmackie.com/)
 
---
+* [Color Wheel - Color Calculator | Sessions College](http://www.sessions.edu/color-calculator)
+
+
+### Samples
 
 * [[Tumblr] Give n Go](http://give-n-go.tumblr.com/) - A curated gallery of Dribbble shots reworked as interactive CodePen pens.
 
---
+
+### Tours
 
 * [Intro.js](http://usablica.github.com/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects
 
