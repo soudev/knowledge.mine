@@ -89,6 +89,9 @@
 
 * [bootstrap-wysiwyg](http://mindmup.github.io/bootstrap-wysiwyg/) - tiny wysiwyg rich text editor for Bootstrap
 
+* [Bootstrap Expo](http://expo.getbootstrap.com/) - Beautiful and inspiring uses of Bootstrap
+
+
 #### Build with Twitter Bootstrap
 
 * [Bootplus](http://aozora.github.io/bootplus/) - Sleek, intuitive, and powerful Google styled front-end framework for faster and easier web development.
