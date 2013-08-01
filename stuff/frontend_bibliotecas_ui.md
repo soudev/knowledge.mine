@@ -70,6 +70,15 @@
 
 --
 
+* [Google Charts : Visualization: Organizational Chart](https://developers.google.com/chart/interactive/docs/gallery/orgchart)
+
+--
+
+* [[GitHub] gllona / lib-gg-orgchart](https://github.com/gllona/lib-gg-orgchart) - Javascript Organizational Chart Drawing Library
+
+--
+
+
 * [Raphaël -JavaScript Library](http://raphaeljs.com/)
 
 * [JustGage](http://justgage.com/) is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges
@@ -101,6 +110,8 @@
 
 * [Having fun with D3.js](http://blog.michelemattioni.me/2012/09/27/having-fun-with-d3js/)
 
+* [Creating Animations and Transitions With D3 | Visual.ly Blog](http://blog.visual.ly/creating-animations-and-transitions-with-d3-js/)
+
 
 ##### bl.ocks.org
 
@@ -110,6 +121,8 @@
 
 
 ##### D3.js Wiki
+
+* [[GitHub] mbostock / d3 : wiki](https://github.com/mbostock/d3/wiki)
 
 * [Force Layout](https://github.com/mbostock/d3/wiki/Force-Layout) - graph layout
 
