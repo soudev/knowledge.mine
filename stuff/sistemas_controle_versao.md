@@ -35,6 +35,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [git-scm: Pro Git book - online pt-br](http://git-scm.com/book/pt-br/)
 
+* [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+
 * Tabless - Iniciando no GIT : [Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/) | [Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/)
 
 * [Começando com Git | DPW](http://desenvolvimentoparaweb.com/indicacoes/comecando-com-git/)
