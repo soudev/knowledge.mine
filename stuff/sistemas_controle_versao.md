@@ -35,6 +35,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [git-scm: Pro Git book - online pt-br](http://git-scm.com/book/pt-br/)
 
+* [Comandos básicos do Git | GustavoHenrique.net](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
+
 * [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
 
 * Tabless - Iniciando no GIT : [Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/) | [Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/)
@@ -161,6 +163,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Working on other people's projects with Git | Barking Iguana](http://barkingiguana.com/2008/11/20/working-on-other-peoples-projects-with-git/)
 
+* [git: fetch and merge, don’t pull](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
+
 
 #### pull request
 
@@ -179,6 +183,20 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [How to use a signed tag in pull requests](https://www.kernel.org/pub/software/scm/git/docs/howto/using-signed-tag-in-pull-request.html)
 
 * [Merging in a Pull Request](http://yuilibrary.com/yui/docs/tutorials/merge-pull-request/) - This tutorial is for developers who want to check out a Pull Request issued by another user. This is the workflow the YUI team follows to merge in Pull Requests to the YUI projects.
+
+
+#### patch
+
+* [git-format-patch(1) Manual Page | Kernel.org](https://www.kernel.org/pub/software/scm/git/docs/git-format-patch.html)
+
+* [How to generate patches with git format-patch | OpenHatch wiki](https://openhatch.org/wiki/How_to_generate_patches_with_git_format-patch)
+
+* [How to create and apply a patch with Git | ariejan.net](http://ariejan.net/2009/10/26/how-to-create-and-apply-a-patch-with-git/)
+
+* [Applying patches with Git | drupal.org](https://drupal.org/node/1399218)
+
+* [git - partially applying a patch | Python Tales and Plone Stories](http://devblog.4teamwork.ch/blog/2013/06/05/git-partially-applying-a-patch/)
+
 
 
 ### Curiosidades
