@@ -65,3 +65,5 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [Bookshelf.js](http://bookshelfjs.org/) - Javascript ORM with some Backbone
 
+* [Init.js: A Guide to the Why and How of Full-Stack JavaScript | Toptal](http://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs) - Backbone, Node, Express, and More: An Introduction to Full-Stack JavaScript, with Init.js | [GitHub code](https://github.com/picanteverde/init)
+
