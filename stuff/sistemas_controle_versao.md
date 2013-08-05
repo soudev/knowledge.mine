@@ -195,7 +195,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Applying patches with Git | drupal.org](https://drupal.org/node/1399218)
 
-* [git - partially applying a patch | Python Tales and Plone Stories](http://devblog.4teamwork.ch/blog/2013/06/05/git-partially-applying-a-patch/)
+* [git - partially applying a patch | Python Tales and Plone Stories](http://devblog.4teamwork.ch/blog/2013/06/05/git-partially-applying-a-patch/) (utilizando: `git apply --reject file.patch` )
 
 
 
@@ -219,6 +219,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 #### gh-pages
 
 * [Publicando páginas HTML+JS+CSS diretamente no GitHub - gist:833223](https://gist.github.com/chrisjacob/833223)
+
+* [Criando páginas web para seus repositórios com o GitHub Pages | Tableless](http://tableless.com.br/criando-paginas-web-para-seus-repositorios-com-o-github-pages/)
 
 * [Getting started with GitHub Pages](http://xlson.com/2010/11/09/getting-started-with-github-pages.html)
 
