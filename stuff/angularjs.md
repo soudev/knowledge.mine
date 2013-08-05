@@ -126,6 +126,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
 
+* [How to get started (Part 1 of the AngularJS - from beginner to expert in 7 steps series) | ng-newsletter](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+
 * [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
 
 * [A small introduction to AngularJS : data-binding, IoC/DI, directives](http://derkoe.github.io/presentations/angularjs-intro/)
@@ -254,6 +256,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS and Radio Buttons | Sudo Zest](http://www.mpdaugherty.com/blog/angularjs-and-radio-buttons/)
 
+* [AngularJS + Cloud Endpoints: A Recipe for Building Modern Web Applications | Cloud Platform]()
 
 
 ### Internacionalização
