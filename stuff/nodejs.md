@@ -92,6 +92,9 @@
 
 * [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
 
+* [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
+
+
 ## Frameworks
 
 * [Bone.io](http://bone.io/) is a lightweight framework for building high performance Realtime Single Page HTML5 Apps
@@ -148,6 +151,10 @@
 * [[GitHub] eviltik / evilscan](https://github.com/eviltik/evilscan) - Massive ip/ports scanner (nodejs)
 
 * [[GitHub] dilvie / credential](https://github.com/dilvie/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
+
+* [[GitHub] louischatriot / nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
+
+  * [NeDB: SQLite for Node | DailyJS](http://dailyjs.com/2013/08/01/nedb/)
 
 
 ## Amazon AWS
