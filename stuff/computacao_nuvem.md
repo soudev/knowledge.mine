@@ -20,6 +20,25 @@
 * [[ScraperWiki] tagint / Incidents data](https://scraperwiki.com/scrapers/aras_election_data_79/) - twitter search
 
 
+## Twitter Search - (API 1.1)
+
+* [Exploring the Twitter API | Dev Twitter Console](https://dev.twitter.com/console)
+
+* [Use Twitter as a data source](https://klipfolio.uservoice.com/knowledgebase/articles/39664-use-twitter-as-a-data-source)
+
+* [Authenticating a Twitter Feed for OAuth API V1.1 - Timelines & streams | Web Dev Door](http://www.webdevdoor.com/php/authenticating-twitter-feed-timeline-oauth/)
+
+* [Creating a Custom jQuery Twitter Feed (API v1.1) | Web Dev Door](http://www.webdevdoor.com/javascript-ajax/custom-twitter-feed-integration-jquery/)
+
+* [Twitter feed authentication (API 1.1) for search | Web Dev Door](http://www.webdevdoor.com/jquery/twitter-feed-authentication-search/)
+
+* [Migrating to the new Twitter search API | Use Your Loaf](http://useyourloaf.com/blog/2013/06/24/migrating-to-the-new-twitter-search-api.html)
+
+* [Node.js OAuth1.0 and OAuth2.0: Twitter API v1.1 Examples | webapplog](http://webapplog.com/node-js-oauth1-0-and-oauth2-0-twitter-api-v1-1-examples/)
+
+* [Tweetledee](http://chrissimpkins.github.io/tweetledee/) - A PHP library that provides an incredibly easy way to access Twitter data formatted as JSON or a RSS feed (on GitHub)
+
+
 ## OpenShift
 
 * [The Open Hybrid Cloud Application Platform by Red Hat](https://www.openshift.com/)
