@@ -78,6 +78,10 @@
 
 ### Dicas
 
+* [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
+
+* [7 JavaScript Basics Many Developers Aren't Using (Properly) | Tech.Pro](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
+
 * [parseUri - Split URLs in JavaScript](http://stevenlevithan.com/demo/parseuri/js/)
 
 * [Native equivalents of jQuery functions | Lee Brimelow](http://www.leebrimelow.com/native-methods-jquery/)
@@ -364,6 +368,11 @@
 * [Twitter Bower & Grunt: Get started with assets management | Guillaume Piot](http://gpiot.com/twitter-bower-grunt-get-started-with-assets-management/)
 
 * [Package Management for the Browser with Bower | SitePoint](http://www.sitepoint.com/package-management-for-the-browser-with-bower/)
+
+* [How to host a private bower registry | ParadigmShift](http://toranbillups.com/blog/archive/2013/08/04/How-to-host-a-private-bower-registry/)
+
+* [Checking in front-end dependencies | Addy Osmani](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
+
 
 #### JamJS
 
