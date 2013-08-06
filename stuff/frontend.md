@@ -75,6 +75,12 @@
 
 * [[GitHub] lipka / piecon](https://github.com/lipka/piecon/) - A tiny javascript library for generating progress pie charts in your favicon. 
 
+### SVG
+
+* [SVGeneration : create gorgeous SVG backgrounds](http://www.svgeneration.com/)
+
+* [Animated line drawing in SVG | JakeArchibald.com](http://jakearchibald.com/2013/animated-line-drawing-svg/)
+
 
 ## Source Map
 
