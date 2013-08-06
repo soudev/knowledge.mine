@@ -59,6 +59,10 @@
 
 * [Testing JavaScript with PhantomJS | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/testing-javascript-with-phantomjs/)
 
+* [Generate Application Cache Manifest with PhantomJS | Integralist](http://integralist.co.uk/Generate-Application-Cache-Manifest-with-PhantomJS.html)
+
+* [Using PhantomJS WebServer | BenjaminBenBen](http://benjaminbenben.com/2013/07/28/phantomjs-webserver/)
+
 * [CasperJS](http://casperjs.org/) - is a navigation scripting & testing utility for PhantomJS, written in Javascript
 
 * [Why I use CasperJS for regression testing web applications](http://www.pixelite.co.nz/article/why-i-use-casperjs-regression-testing-web-applications)
