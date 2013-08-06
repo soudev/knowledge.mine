@@ -97,7 +97,13 @@
 
 * [Baterry API | Loop Infinito](http://loopinfinito.com.br/2013/03/21/battery-api/)
 
+--
+
 * [Making HTML5 audio actually work on mobile](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
+
+* [How to Generate Noise with the Web Audio API | Noisehack](http://noisehack.com/generate-noise-web-audio-api/)
+
+--
 
 * [JavaScript Dubstep Generator](http://www.mazbox.com/synths/dubstep/) - Uma lib que gera efeitos no canvas com ondas sonoras de uma música
 
@@ -118,6 +124,10 @@
 * [Está perdido? Geolocalização! | Tableless](http://tableless.com.br/esta-perdido-geolocalizacao/) - Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
 
 * [HTML5 Web Notification](http://jaydson.org/html5-web-notifications/)
+
+--
+
+* [[GitHub] pmneila / jsexp](https://github.com/pmneila/jsexp) - Some simulation experiments in JavaScript
 
 --
 
@@ -177,6 +187,7 @@
 
 * [KineticJS](http://kineticjs.com/) - is an HTML5 Canvas JavaScript framework that enables high performance animations, transitions, node nesting, layering, filtering, caching, event handling for desktop and mobile applications, and much more.
 
+* [three.js](http://mrdoob.github.io/three.js/) - JavaScript 3D library
 
 * [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
 
@@ -215,6 +226,8 @@
 * [[GitHub] zefhemel / persistencejs](https://github.com/zefhemel/persistencejs) - is an asynchronous Javascript database mapper library. You can use it in the browser, as well on the server (and you can share data models between them).
 
 * [LocalStorage with Amplify.js | TysonJS](http://tysonjs.com/blog/localstorage-with-amplify-js/)
+
+* [[GitHub] justindeguzman / locstor](https://github.com/justindeguzman/locstor) - JavaScript helper library for HTML5 localStorage
 
 
 #### Games
