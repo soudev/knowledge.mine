@@ -6,6 +6,10 @@
 
 * [Flat Design e a Re-Cultura da Interface | iMasters](http://imasters.com.br/design-ux/teoria-do-design/flat-design-e-a-re-cultura-da-interface/)
 
+* [Flat Pixels: The Battle Between Flat Design And Skeuomorphism](http://sachagreif.com/flat-pixels/)
+
+* [Repensando o front-end para telas de alta resolução | Sérgio Lopes](http://sergiolopes.org/palestra-retina-web) - palestra apresentada no Front In BH 2013
+
 * [The Responsive Designer](http://simonfosterdesign.com/blog/web-design/the-responsive-designer/)
 
 * [Your Responsive Website Design Isn’t Mobile Enough | Todaymade Blog](https://todaymade.com/blog/responsive-content-management/)
@@ -19,6 +23,7 @@
 * [Quando usar o scroll infinito?](http://blog.alexandremagno.net/2013/03/quando-usar-o-scroll-infinito/)
 
 * [Usability checklist | Userium](http://userium.com/) - Catch common usability problems before user testing
+
 
 ### Colors
 
