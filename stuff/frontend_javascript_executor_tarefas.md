@@ -57,6 +57,8 @@
 
 * [Automação de build de front-end com Grunt.js | Caelum](http://blog.caelum.com.br/automacao-de-build-de-front-end-com-grunt-js/)
 
+* [A primer into front-end tooling (Grunt.js) for an open-source workflow | Tech Pro](http://tech.pro/tutorial/1456/a-primer-into-front-end-tooling-gruntjs-for-an-open-source-workflow)
+
 * [[SlideShare] Grunt.js and Yeoman, Continous Integration](http://www.slideshare.net/DavidAm/gruntjs-and-yeoman-continous-integration)
 
 * [[YouTube] Grunt JavaScript Automation for the Lazy Developer](https://www.youtube.com/watch?v=bntNYzCrzvE)
