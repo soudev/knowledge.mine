@@ -4,6 +4,8 @@
 
 * [[SlideShare] OAuth with Restful Web Services](http://www.slideshare.net/vinayhulgar/oauth-with-restful-web-services)
 
+* [[GitHub] smarx / othw](https://github.com/smarx/othw) - OAuth 2 the Hard Way - calling the Dropbox API without any Dropbox or OAuth libraries
+
 
 ## SAML
 
