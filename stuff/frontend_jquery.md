@@ -24,6 +24,8 @@
 
 * [jQuery Boilerplate](http://jqueryboilerplate.com/) - Jump-starting jQuery plugins development [versão pt_BR](http://br.jqueryboilerplate.com/)
 
+* [[GitHub] jquery-boilerplate / jquery-patterns](https://github.com/jquery-boilerplate/jquery-patterns) - A variety of jQuery plugin patterns for jump starting your plugin development
+
 * [jQuery: Fastest method to find Descendents](http://aahacreative.com/2010/07/19/jquery-fastest-method-find-descendents/)
 
 * [Parallax simples com JQuery e CSS | Tableless](http://tableless.com.br/parallax-simples-com-jquery-e-css/)
