@@ -28,6 +28,12 @@
 
     * [Como criar um pageflip em HTML5/CSS3 com Turn.js](http://javascript.techinsider.com.br/2012/06/27/como-criar-um-pageflip-em-html5css3-com-turn-js/)
 
+* [[GitHub] VeriteCo / TimelineJS](https://github.com/VeriteCo/TimelineJS) - A Storytelling Timeline built in JavaScript. 
+
+  * [Timeline JS](http://timeline.verite.co/) - Beautifully crafted timelines that are easy, and intuitive to use.
+
+  * [Timeline Portfolio | Tutorialzine](http://tutorialzine.com/2012/04/timeline-portfolio/)
+
 
 ### JQuery
 
@@ -36,6 +42,8 @@
 * [An Introduction to the jQuery UI Library: Getting Started](http://www.htmlgoodies.com/beyond/javascript/an-introduction-to-the-jquery-ui-library-getting-started.html)
 
 * [JQuery UI tools](http://jquerytools.org/)
+
+
 
 ### Template Engine
 
