@@ -263,6 +263,8 @@
 
 * [Converse.js](http://conversejs.org/) - An XMPP chat client for your website
 
+* [Strophe.js](http://strophe.im/strophejs/) - An XMPP library for JavaScript
+
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 
 * [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
