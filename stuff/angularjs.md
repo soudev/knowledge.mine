@@ -218,6 +218,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Conjunto de materiais úteis](http://mattkruse.com/angular/) - PDFs
 
+* [AngularJS Best Practices | Jaco Pretorius](http://www.jacopretorius.net/2013/07/angularjs-best-practices.html)
+
 * [8 Tips for Angular.js Beginners](http://vxtindia.com/blog/8-tips-for-angular-js-beginners/)
 
 * [Fun with AngularJS | Holly Schinsky](http://devgirl.org/2013/03/21/fun-with-angularjs/)
@@ -226,25 +228,21 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular.js JSFiddle Examples](https://github.com/angular/angular.js/wiki/JSFiddle-Examples)
 
+--
+
 * [[Gist] Difference between Service, Factory and Provider in AngularJS](https://gist.github.com/Mithrandir0x/3639232)
 
 * [How to create (singleton) AngularJS services in 4 different ways | JDriven BlogJDriven Blog](http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
-* [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
+--
 
-* [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
-
-* [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
-
-* [AngularJS collaboration board with Socket.io | Tutorial | .net magazine](http://www.netmagazine.com/tutorials/angularjs-collaboration-board-socketio)
-
-* [[SlideShare] AngularJS Animations](http://www.slideshare.net/EyalV/angularjs-animations-21435788)
-
-* [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
+* [Angular backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
 
 * [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example. (Require.js)
+
+--
 
 * [Form validation with AngularJS](http://www.ng-newsletter.com/posts/validations.html)
 
@@ -256,7 +254,33 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS and Radio Buttons | Sudo Zest](http://www.mpdaugherty.com/blog/angularjs-and-radio-buttons/)
 
+--
+
 * [AngularJS + Cloud Endpoints: A Recipe for Building Modern Web Applications | Cloud Platform]()
+
+--
+
+* [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
+
+* [Preventing duplicated requests in Angular.js | Codebrag](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
+
+
+### Building Apps
+
+* [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
+
+* [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
+
+* [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
+
+* [Single Page Application with Angular.js, Node.js and MongoDB (MongoJS Module) | Technical Blogs](http://www.phloxblog.in/single-page-application-angular-js-node-js-mongodb-mongojs-module/)
+
+* [AngularJS collaboration board with Socket.io | Tutorial | .net magazine](http://www.netmagazine.com/tutorials/angularjs-collaboration-board-socketio)
+
+
+### Google Analytics
+
+* [Angulartics](http://luisfarzati.github.io/angulartics/) - Web analytics for AngularJS applications
 
 
 ### Internacionalização
@@ -399,11 +423,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### ng animate
 
+* [[SlideShare] AngularJS Animations](http://www.slideshare.net/EyalV/angularjs-animations-21435788)
+
 * [AngularJS Animations](http://www.nganimate.org/)
 
 * [Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html) - AngularJS now provides full support for animations direct from it's core
 
 * [Enhanced Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
+
+* [Animating with AngularJS | Devgirl's Weblog](http://devgirl.org/2013/08/06/animating-with-angularjs/) | [sample app](http://devgirl.org/files/AngularAnimationsDemo/) | [Animating with AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
 
 
 ## Projetos de Exemplo
@@ -446,3 +474,6 @@ Projeto de exemplo / estrutura inicial
 * [How To Test An AngularJS Directive | Newtriks LTD](http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
 
 * [How to mock AngularJS modules and inject them in your testacular tests?](http://southdesign.de/blog/mock-angular-js-modules-for-test-di.html)
+
+* [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
+
