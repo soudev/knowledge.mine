@@ -120,6 +120,8 @@
 
 * [Creating Animations and Transitions With D3 | Visual.ly Blog](http://blog.visual.ly/creating-animations-and-transitions-with-d3-js/)
 
+* [Over 1000 D3.js Examples and Demos | TechSlides](http://techslides.com/over-1000-d3-js-examples-and-demos/)
+
 
 ##### bl.ocks.org
 
