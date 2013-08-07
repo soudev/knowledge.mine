@@ -284,6 +284,12 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
 
+#### Markdown editor
+
+* [Mou - Markdown editor for web developers](http://mouapp.com/) - on Mac OS X
+
+* [Haroopad - Multimarkdown editor based on node-webkit](http://pad.haroopress.com/) - Windows / Linux / Mac [[GitHub] code](https://github.com/rhiokim/haroopad)
+
 
 ## Ferramentas
 
