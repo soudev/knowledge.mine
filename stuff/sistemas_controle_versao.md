@@ -157,6 +157,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Clay Shirky: How the Internet will (one day) transform government | Ted Talks](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html) - The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens. [Video no YouTube](https://www.youtube.com/watch?v=CEN4XNth61o)
 
+* [Git (e Github) para dados | iMasters](http://imasters.com.br/desenvolvimento/git-e-github-para-dados/)
+
 * [Understanding Git: Collaborating](http://www.sbf5.com/~cduan/technical/git/git-4.shtml)
 
 * [5.2 Git Distribuído - Contribuindo Para Um Projeto | Pro Git](http://git-scm.com/book/pt-br/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto)
