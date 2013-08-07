@@ -117,9 +117,15 @@
 
 * [Introduction to WebSockets | Tech.Pro](http://tech.pro/tutorial/1167/introduction-to-websockets)
 
+--
+
 * [Web SQL DB vs. IndexedDB | JavAssCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
 
 * [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
+
+* [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
+
+--
 
 * [Está perdido? Geolocalização! | Tableless](http://tableless.com.br/esta-perdido-geolocalizacao/) - Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
 
@@ -148,7 +154,14 @@
 * [Push Notifications to the Browser With Server Sent Events](http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/)
 
 
-#### File System
+#### Full Screen API
+
+* [Fullscreen API Specification](https://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#api)
+
+* [Using fullscreen mode | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/DOM/Using_full_screen_mode)
+
+
+#### File System/API
 
 * [Exploring the FileSystem APIs | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/file/filesystem/) / [Ler arquivos em JavaScript usando as APIs do arquivo | HTML5 Rocks](http://www.html5rocks.com/pt/tutorials/file/dndfiles/)
 
@@ -156,6 +169,7 @@
 
 * [Ler arquivos locais em JavaScript | HTML5 Rocks](http://www.html5rocks.com/pt/tutorials/file/dndfiles/)
 
+* [Resize an Image Using Canvas, Drag and Drop and the File API | David Walsh Blog](http://davidwalsh.name/resize-image-canvas)
 
 
 ### Bibliotecas
@@ -207,6 +221,8 @@
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
 
 * [[GitHub] FileReader.js](http://bgrins.github.io/filereader.js/) - Read Files with JavaScript!
+
+* [[GitHub] sindresorhus / screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
 
 #### Storage
