@@ -132,6 +132,8 @@
 
 * Getting Started with MongoDB | Nettuts+ : [Part 1](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/) | [Part 2](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb-part-2/)
 
+* [[YouTuve] Hangout - Iniciando com MongoDB | DevCast](https://www.youtube.com/watch?v=Ff4_DNKKPeo)
+
 
 #### Dicas
 
