@@ -84,6 +84,8 @@
 
 * [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
 
+* [[GitHub] sindresorhus / time-grunt](https://github.com/sindresorhus/time-grunt) - Displays the elapsed execution time of grunt tasks - Node.js module
+
 
 ##### Dicas
 
@@ -98,6 +100,7 @@
 * [[Gist] rhumaric / Gruntfile-connect-open.js](https://gist.github.com/rhumaric/5577257) - Sample configuration of grunt-contrib-connect and grunt-open to serve your project and open a browser tab to the appropriate URL
 
 * [Making Maven GruntJS | Addy Osmani](http://addyosmani.com/blog/making-maven-grunt/)
+
 
 ##### Testes
 
