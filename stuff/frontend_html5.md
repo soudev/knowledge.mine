@@ -119,14 +119,6 @@
 
 --
 
-* [Web SQL DB vs. IndexedDB | JavAssCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
-
-* [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
-
-* [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
-
---
-
 * [Está perdido? Geolocalização! | Tableless](http://tableless.com.br/esta-perdido-geolocalizacao/) - Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
 
 * [HTML5 Web Notification](http://jaydson.org/html5-web-notifications/)
@@ -140,6 +132,15 @@
 * [WebGL Fundamentals | HTML5 ROCKS](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
 * [How to write portable WebGL | CodeFlow](http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/)
+
+
+#### Storage
+
+* [Web SQL DB vs. IndexedDB | JavAssCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
+
+* [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
+
+* [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
 
 
 #### Performance
