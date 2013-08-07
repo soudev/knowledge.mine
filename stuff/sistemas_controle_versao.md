@@ -276,9 +276,13 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [John Gruber's Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
 
-* [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/)
+* [Github-flavored Markdown info page | GitHub](http://github.github.com/github-flavored-markdown/)
+
+* [GitHub Flavored Markdown | GitHub:Help](https://help.github.com/articles/github-flavored-markdown)
 
 * [Markdown Cheatsheet - adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+* [Markdown: The Ins and Outs | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/)
 
 * [demarcate.js](http://will-hart.github.io/demarcate.js/) - is a jQuery based editor for Markdown.
 
@@ -289,6 +293,14 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Mou - Markdown editor for web developers](http://mouapp.com/) - on Mac OS X
 
 * [Haroopad - Multimarkdown editor based on node-webkit](http://pad.haroopress.com/) - Windows / Linux / Mac [[GitHub] code](https://github.com/rhiokim/haroopad)
+
+* [78 Tools for Writing and Previewing Markdown | Mashable](http://mashable.com/2013/06/24/markdown-tools/)
+
+#### Markdown online tools
+
+* [markdown.io](http://www.markdown.io/) - is a new technology that allows you to easily create websites, wikis and blogs without the need of HTML knowledge or any other complex web technologies. There is no need to own expensive webspace, and markdown.io itself is completely free to use. | [wiki](http://wiki.markdown.io/)
+
+* [Markdown Live Preview](http://markdownlivepreview.com/)
 
 
 ## Ferramentas
