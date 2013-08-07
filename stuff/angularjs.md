@@ -456,6 +456,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [MEAN Stack](http://mean.io/) - is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
 
+* [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
+
 
 ### Angular-Seed
 
