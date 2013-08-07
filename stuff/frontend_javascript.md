@@ -119,6 +119,8 @@
 
 * [Regular expressions in JavaScript - Dive Into JavaScript](http://www.diveintojavascript.com/articles/javascript-regular-expressions)
 
+* [JavaScript: an overview of the regular expression API | 2ality](http://www.2ality.com/2011/04/javascript-overview-of-regular.html)
+
 * [Regular Expressions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/JavaScript/Guide/Regular_Expressions)
 
 * Regular Expressions in JavaScript [part 1](http://james.padolsey.com/javascript/regular-expressions-in-javascript/) | [part 2](http://james.padolsey.com/javascript/regular-expressions-in-javascript-part-2/)
@@ -313,7 +315,10 @@
 
 * [Yeoman - Iniciando com Sr. Bigodes](http://www.randalmaia.com/post/49118899296/yeoman-iniciando-com-sr-bigodes)
 
+* [Experimente o Yeoman em seu workflow de projetos front-end | Caelum](http://blog.caelum.com.br/experimente-o-yeoman-em-seu-workflow-de-projetos-front-end/)
+
 * [Building Apps With the Yeoman Workflow | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/)
+
 
 
 #### DevTools
