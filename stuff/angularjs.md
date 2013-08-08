@@ -262,7 +262,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [AngularJS + Cloud Endpoints: A Recipe for Building Modern Web Applications | Cloud Platform]()
+* [AngularJS + Cloud Endpoints: A Recipe for Building Modern Web Applications | Cloud Platform](https://cloud.google.com/resources/articles/angularjs-cloud-endpoints-recipe-for-building-modern-web-applications)
 
 --
 
