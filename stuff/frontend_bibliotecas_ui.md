@@ -34,6 +34,8 @@
 
   * [Timeline Portfolio | Tutorialzine](http://tutorialzine.com/2012/04/timeline-portfolio/)
 
+* [[GitHub] jakiestfu / Mention.js](https://github.com/jakiestfu/Mention.js) - Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
+
 
 ### JQuery
 
