@@ -101,12 +101,18 @@
 
 * [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - A JavaScript graph library for analysis and visualisation (compatible with Node.js, jQuery 1.4+, and plain JavaScript)
 
-* [DataMaps](http://datamaps.github.io/) - Interactive maps for data visualizations. Bundled into a single Javascript file.
-
 * [Criando gráficos Gauge com Javascript puro](http://jsfiddle.net/igorcosta/cwkbf/) - by [@IgorCosta](https://twitter.com/igorcosta)
 
 
-#### Maps
+#### Mapas
+
+* [ArcGIS API for JavaScript](https://developers.arcgis.com/en/javascript/)
+
+* [DataMaps](http://datamaps.github.io/) - Interactive maps for data visualizations. Bundled into a single Javascript file.
+
+* [Polymaps](http://polymaps.org/) - A JavaScript library for image- and vector-tiled maps using SVG.
+
+* [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 
 * [gmaps.js](http://hpneo.github.io/gmaps/) - allows you to use the potential of Google Maps in a simple way.
 
