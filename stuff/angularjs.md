@@ -287,6 +287,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Single Page Application with Angular.js, Node.js and MongoDB (MongoJS Module) | Technical Blogs](http://www.phloxblog.in/single-page-application-angular-js-node-js-mongodb-mongojs-module/)
 
+* [Single Page Application with Angular.js, Node.js and NeDB (NeDB Module)  | Technical Blogs](http://www.phloxblog.in/single-page-application-angular-js-node-js-nedb-nedb-module/)
+
 * [AngularJS collaboration board with Socket.io | Tutorial | .net magazine](http://www.netmagazine.com/tutorials/angularjs-collaboration-board-socketio)
 
 
@@ -416,6 +418,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS + Chosen Plugin = Awesome](http://onehungrymind.com/angularjs-chosen-plugin-awesome/)
 
 * [JQuery Mobile Angular Adapter](https://github.com/tigbro/jquery-mobile-angular-adapter)
+
+* [[GitHub] 2fdevs / videogular](https://github.com/2fdevs/videogular) - An HTML5 video player for AngularJS
+
 
 ### Módulos de Gráficos
 
