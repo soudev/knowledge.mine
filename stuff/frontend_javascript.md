@@ -74,6 +74,8 @@
   
 * [Scalable JavaScript Design Patterns](http://www.addyosmani.com/scalablejs/)
 
+* [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+
 
 
 ### Dicas
