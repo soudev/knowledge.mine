@@ -76,6 +76,8 @@
 
 * [Node GH](http://nodegh.io/) = NodeJS + GitHub - GitHub command line tools
 
+* [[GitHub] creationix / js-git](https://github.com/creationix/js-git) - JS-Git an open source project implementing git client and server in pure JavaScript
+
 * [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
 
 * [GitMoon](http://www.gitmoon.com/) Social analytics for Node.js developers | [GitHub : code](https://github.com/yaronn/gitmoon)
