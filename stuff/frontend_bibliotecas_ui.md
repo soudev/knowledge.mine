@@ -106,6 +106,14 @@
 * [Criando gráficos Gauge com Javascript puro](http://jsfiddle.net/igorcosta/cwkbf/) - by [@IgorCosta](https://twitter.com/igorcosta)
 
 
+#### Maps
+
+* [gmaps.js](http://hpneo.github.io/gmaps/) - allows you to use the potential of Google Maps in a simple way.
+
+* [Create Google Maps With gmaps.js | Paulund](http://www.paulund.co.uk/create-google-maps-with-gmaps-js)
+
+
+
 #### D3.js
 
 * [D3.js is a JavaScript library for manipulating documents based on data](http://d3js.org/) Para construção de representações gráficas
