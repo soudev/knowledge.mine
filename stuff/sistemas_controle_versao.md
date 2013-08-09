@@ -226,6 +226,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Getting started with GitHub Pages](http://xlson.com/2010/11/09/getting-started-with-github-pages.html)
 
+* [A Guide To Using Github Pages | Thinkful](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+
 * [Easily keep gh-pages in sync with master | Lea Verou](http://lea.verou.me/2011/10/easily-keep-gh-pages-in-sync-with-master/)
 
 * [Pushing to GitHub Pages gh-pages branch from only local master branch](http://blog.yjl.im/2012/02/pushing-to-github-pages-gh-pages-branch.html)
