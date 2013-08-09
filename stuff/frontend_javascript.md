@@ -129,6 +129,8 @@
 
 * [The empty regular expression](http://www.2ality.com/2012/09/empty-regexp.html)
 
+* [The flag /g of JavaScript’s regular expressions | 2 ality](http://www.2ality.com/2013/08/regexp-g.html)
+
 * [JavaScript Regular Expressions patterns](http://www.javascriptkit.com/javatutors/redev2.shtml)
 
 * [10+ Useful JavaScript Regular Expression Functions to improve your web applications efficiency](http://ntt.cc/2008/05/10/over-10-useful-javascript-regular-expression-functions-to-improve-your-web-applications-efficiency.html)
@@ -276,6 +278,8 @@
 * [Squel.js](http://hiddentao.github.io/squel/) - lightweight Javascript library for building SQL query strings.
 
 * [[GitHub] Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
+
+* [[GitHub] component/ infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
 
 * [spin.js](http://fgnass.github.io/spin.js/) - An animated CSS activity indicator with VML fallback [sample](http://www.javascriptoo.com/spin-js)
 
