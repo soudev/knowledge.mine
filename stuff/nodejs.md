@@ -233,7 +233,9 @@
 * [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
 
 
-### Frameworks
+### Modulos / Frameworks
+
+* [A collection of web frameworks for Node.js | Node Web Modules](http://nodewebmodules.com/)
 
 * [Bone.io](http://bone.io/) is a lightweight framework for building high performance Realtime Single Page HTML5 Apps
 
