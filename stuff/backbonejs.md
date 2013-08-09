@@ -35,6 +35,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [Angry Birds of JavaScript: Big Brother Bird - Patterns](http://www.elijahmanor.com/2013/04/angry-birds-of-javascript-big-brother.html)
 
+* [Backbone.js Tips And Patterns | Smashing Coding](http://coding.smashingmagazine.com/2013/08/09/backbone-js-tips-patterns/)
+
 * [Avoiding Common Backbone.js Pitfalls](http://ozkatz.github.com/avoiding-common-backbonejs-pitfalls.html)
 
 * [Understanding MVC And MVP](http://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/) (For JavaScript And Backbone Developers)
