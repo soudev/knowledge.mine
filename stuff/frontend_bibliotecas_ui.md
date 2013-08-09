@@ -130,6 +130,8 @@
 
 * [D3.js 101 - A Technical Intro](http://scottcheng.github.com/d3js-101/)
 
+* [Dashing D3.js](http://www.dashingd3js.com/) - Learn how to make Data Visualizations with D3.js
+
 * [D3.js Path Transitions](http://bost.ocks.org/mike/path/)
 
 * [Having fun with D3.js](http://blog.michelemattioni.me/2012/09/27/having-fun-with-d3js/)
