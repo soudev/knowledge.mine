@@ -260,6 +260,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS and Radio Buttons | Sudo Zest](http://www.mpdaugherty.com/blog/angularjs-and-radio-buttons/)
 
+* [Removing the unneeded watches | Angular Tips](http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
+
+* [Group and Display Data with Underscore and AngularJS | OdeToCode](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)
+
 --
 
 * [AngularJS + Cloud Endpoints: A Recipe for Building Modern Web Applications | Cloud Platform](https://cloud.google.com/resources/articles/angularjs-cloud-endpoints-recipe-for-building-modern-web-applications)
