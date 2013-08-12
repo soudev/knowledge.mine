@@ -6,6 +6,10 @@
 
 * [Oracle Database](http://www.oracle.com/us/products/database/overview/index.html)
 
+* Oracle XE
+
+  * [Oracle VM - Oracle XE running in VirtualBox](https://tech.lds.org/wiki/Oracle_VM)
+
 * [Oracle MySQL](http://www.oracle.com/us/products/mysql/overview/index.html)
 
   * [Top 20+ MySQL Best Practices | Nettuts+](http://net.tutsplus.com/tutorials/other/top-20-mysql-best-practices/)
