@@ -126,9 +126,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Egghead - AngularJS](http://egghead.io/) - curso online
 
-* [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
+* [Learn AngularJS this Weekend | @jhooks](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
 
-* [How to get started (Part 1 of the AngularJS - from beginner to expert in 7 steps series) | ng-newsletter](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+* [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
 
 * [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
 
@@ -182,6 +182,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 ### CoffeeScript
 
 * [CoffeeScript and AngularJS | Alexander Hill](http://alxhill.com/blog/articles/angular-coffeescript/)
+
+
+### ng-newsletter : AngularJS from beginner to expert in 7 steps series
+
+* [Part 1: How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+
+* [Part 2: Scopes](http://www.ng-newsletter.com/posts/beginner2expert-scopes.html)
+
+* [Part 3: Data binding and AJAX](http://www.ng-newsletter.com/posts/beginner2expert-data-binding.html)
 
 
 ### Dailyjs.com : Angular.js
@@ -422,6 +431,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS + Chosen Plugin = Awesome](http://onehungrymind.com/angularjs-chosen-plugin-awesome/)
 
 * [JQuery Mobile Angular Adapter](https://github.com/tigbro/jquery-mobile-angular-adapter)
+
+* [[GitHub] Pasvaz / bindonce](https://github.com/Pasvaz/bindonce) - Zero watches binding for AngularJs
 
 * [[GitHub] 2fdevs / videogular](https://github.com/2fdevs/videogular) - An HTML5 video player for AngularJS
 
