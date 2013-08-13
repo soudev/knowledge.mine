@@ -99,6 +99,10 @@
 
 --
 
+* [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
+
+--
+
 * [Making HTML5 audio actually work on mobile](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
 
 * [How to Generate Noise with the Web Audio API | Noisehack](http://noisehack.com/generate-noise-web-audio-api/)
@@ -328,6 +332,8 @@
 * [Uma tonelada de truques de Web mobile | DevCast](http://devcastbrasil.com/videos/uma-tonelada-de-truques-de-web-mobile/)
 
 * [Fries: Prototype Android apps using HTML, CSS and JavaScript](http://jaunesarmiento.me/fries/)
+
+* [Nativo ou Web? Técnicas e Dicas em JavaScript móvel | InfoQ Br](http://www.infoq.com/br/interviews/tecnicas-javascript-movel)
 
 
 ##### Apache Cordova & PhoneGap
