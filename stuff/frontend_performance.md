@@ -28,6 +28,7 @@
 
 * [Deploying JavaScript Applications | Alex Sexton](http://alexsexton.com/blog/2013/03/deploying-javascript-applications/)
 
+* [Acochambramento - Deixe o embed do YouTube mais leve e personalizado no seu Blog | EvelRyu](http://evelryu.com.br/deixe-o-embed-do-youtube-mais-leve-e-personalizado-no-seu-blog/)
 
 
 ### CDN
