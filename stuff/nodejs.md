@@ -45,7 +45,9 @@
 
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 
-* [The Art of Node.js](https://github.com/maxogden/art-of-node) - a short introduction to node.js
+* [[GitHub] maxogden / art-of-node](https://github.com/maxogden/art-of-node) - The Art of Node.js : a short introduction to node.js
+
+* [[GitHub] rvagg / learnyounode](https://github.com/rvagg/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 
 * [Node.js for Beginners | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
 
