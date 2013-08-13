@@ -44,3 +44,9 @@
 
 * [Light Table 0.4](http://www.chris-granger.com/2013/04/28/light-table-040/)
 
+
+### Vim
+
+* [130+ essential vim commands | CatsWhoCode](http://www.catswhocode.com/blog/130-essential-vim-commands)
+
+
