@@ -45,6 +45,8 @@
 
 * [Java na nuvem: conheça o openshift | InfoQ Br](http://www.infoq.com/br/presentations/java-nuvem-openshift)
 
+* [Como o OpenShift pode auxiliar desenvolvedores e startups | InfoQ Br](http://www.infoq.com/br/interviews/openshift-desenvolvedores-startups)
+
 
 ## OpenStack
 
