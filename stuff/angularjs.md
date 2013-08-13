@@ -116,11 +116,17 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: an Overview | Glenn Stovall](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 
+--
+
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
 
 * [Angular Docs Tutorial](http://docs.angularjs.org/tutorial/)
 
+--
+
 * [AngularJS Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
+
+--
 
 * [AngularJS - Where To Start?](http://blog.whydoifollow.com/post/angularjs-where-to-start)
 
@@ -129,6 +135,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Learn AngularJS this Weekend | @jhooks](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
 
 * [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
+
+--
+
+* [AngularJS for .NET Developers | henriquat.re](http://henriquat.re/) - a continuously deployed ebook
+
+* [ASP.NET MVC and Angular JS with Scott Allen](http://tv.ssw.com/3061/asp-net-mvc-and-angular-js)
+
+--
 
 * [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
 
@@ -141,8 +155,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [An AngularJS Adventure Anthology | Angular Cats!](http://ericterpstra.com/2012/09/angular-cats-an-angularjs-adventure-anthology/)
 
 * [Tunando o browser com AngularJS | DevCast](http://devcastbrasil.com/videos/tunando-o-browser-com-angularjs/)
-
-* [ASP.NET MVC and Angular JS with Scott Allen](http://tv.ssw.com/3061/asp-net-mvc-and-angular-js)
 
 * [Angular.js Views and Controllers | Backlift Blog](https://blog.backlift.com/entry/angular-tut1)
 
@@ -244,6 +256,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Angular.js JSFiddle Examples](https://github.com/angular/angular.js/wiki/JSFiddle-Examples)
 
 --
+
+* [Communication in Angular using the pubsub pattern | Per Ploug](http://scriptogr.am/pploug/post/communication-in-angular-using-the-pubsub-pattern)
 
 * [[Gist] Difference between Service, Factory and Provider in AngularJS](https://gist.github.com/Mithrandir0x/3639232)
 
@@ -405,6 +419,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Forced Repaints In Directive Can Cause Accidental Scrolling In AngularJS](http://www.bennadel.com/blog/2468-Forced-Repaints-In-Directive-Can-Cause-Accidental-Scrolling-In-AngularJS.htm)
 
 * Scoping AngularJS Directives | Spectacle Labs Blog - [Part 1](http://spectaclelabs.io/blog/2013/06/22/scoping-angularjs-directives-part-1/) | [Part 2](http://spectaclelabs.io/blog/2013/06/23/scoping-angularjs-directives-part-2/)
+
+* [AngularJS Missing Directives: Focus & Blur | The traveling hermit](http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur.html)
+
 
 ### Filters
 
