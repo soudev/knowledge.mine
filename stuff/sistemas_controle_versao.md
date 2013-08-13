@@ -51,6 +51,9 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Git Reference](http://gitref.org/)
 
+* [Saindo do básico com Git | iMasters](http://imasters.com.br/desenvolvimento/saindo-do-basico-com-git/)
+
+
 ### GitHub
 
 * [GitHub - Try Git | created by Code School](http://try.github.com/) - curso online
