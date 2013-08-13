@@ -36,6 +36,8 @@
 
 * [[GitHub] jakiestfu / Mention.js](https://github.com/jakiestfu/Mention.js) - Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
 
+* [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). 
+
 
 ### JQuery
 
@@ -116,10 +118,15 @@
 
 * [leaflet.js](http://leafletjs.com/) - An Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 
+--
+
 * [gmaps.js](http://hpneo.github.io/gmaps/) - allows you to use the potential of Google Maps in a simple way.
 
 * [Create Google Maps With gmaps.js | Paulund](http://www.paulund.co.uk/create-google-maps-with-gmaps-js)
 
+* [Google Maps Colorizr](http://software.stadtwerk.org/google_maps_colorizr/)
+
+* [How To Style Google Maps | Hongkiat.com](http://www.hongkiat.com/blog/google-maps-styles/)
 
 
 #### D3.js
