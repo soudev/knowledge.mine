@@ -1,6 +1,13 @@
 # Projetos 
 
 
+## Scrum
+
+* [The Scrum Guide](http://www.scrumguides.org/)
+
+  * [Novo Scrum Guide: Analisando as mudanças | InfoQ Br](http://www.infoq.com/br/articles/novo-scrum-guide)
+
+
 ## Estimativa
 
 * [A Rant about Estimation - When Will We Stop Being Crazy](http://agileramblings.com/2013/02/23/a-rant-about-estimation-when-will-we-stop-being-crazy/)
