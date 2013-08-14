@@ -261,6 +261,8 @@
 
 * [Unreal Engine in the browser](http://www.unrealengine.com/html5/)
 
+* [EndGate](http://endgate.net/) - a game framework to build powerful HTML5 games
+
 
 ##### Game Engine
 
