@@ -47,11 +47,17 @@
 
 * [Grunt: A build tool for front-end projects](http://frederic-hemberger.de/artikel/grunt-buildtool-for-frontend-projects/)
 
+--
+
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
 
 * [Grunt.js takes your workflow to the next level | Adnane Belmadiaf](http://daker.me/2013/06/gruntjs-takes-your-workflow-to-the-next-level.html)
 
 * [Grunt JS: Automatize tarefas e otimize o seu workflow | Henrique Silvério](http://blog.henriquesilverio.com/javascript-e-jquery/grunt-js-automatize-tarefas-e-otimize-o-seu-workflow/)
+
+* [Automating The Development, Build, and Deployment Process with Grunt | David Tucker](http://davidtucker.net/articles/automating-with-grunt/)
+
+--
 
 * [Grunt: você deveria estar usando! | .openBlog()](http://openblog.github.com/2013/03/22/grunt/)
 
