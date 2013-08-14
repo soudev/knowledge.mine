@@ -116,6 +116,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: an Overview | Glenn Stovall](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 
+* [Why Does Angular.js Rock? | Angular Tips](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock)
+
 --
 
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
@@ -204,6 +206,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Part 3: Data binding and AJAX](http://www.ng-newsletter.com/posts/beginner2expert-data-binding.html)
 
+* [Part 4 - 5: Directives - Expressions](http://www.ng-newsletter.com/posts/beginner2expert-directives.html)
+
 
 ### Dailyjs.com : Angular.js
 
@@ -286,6 +290,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Removing the unneeded watches | Angular Tips](http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 
 * [Group and Display Data with Underscore and AngularJS | OdeToCode](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)
+
+--
+
+* [Busca no Jekyll usando AngularJS | Frelleto Blog](http://blog.frelleto.com.br/javascript/angularjs/2013/08/10/busca-no-jekyll-usando-angularjs/)
 
 --
 
