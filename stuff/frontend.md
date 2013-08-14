@@ -66,6 +66,8 @@
 
 * [Socialicious](http://shalinguyen.github.io/socialicious/) - A social media icons library in font form.
 
+* [LivIcons](http://livicons.com/) - Truly animated icon pack with power of scalable vector graphic for clean and perfect look at any devices.
+
 
 ### FavIcon
 
