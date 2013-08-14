@@ -2,6 +2,8 @@
 
 ## UX
 
+* [UX is not UI | Hello Erik](http://www.helloerik.com/ux-is-not-ui)
+
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
 
 * [Flat Design e a Re-Cultura da Interface | iMasters](http://imasters.com.br/design-ux/teoria-do-design/flat-design-e-a-re-cultura-da-interface/)
@@ -27,6 +29,7 @@
 --
 
 * [Skeuocard](http://kenkeiter.com/skeuocard/) - An innovative way to enter credit card details
+
 
 ### Colors
 
