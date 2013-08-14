@@ -173,6 +173,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 #### pull request
 
+* [Checking out Pull Requests | GitHub Blog](https://github.com/blog/1582-checking-out-pull-requests)
+
 * [git request-pull | Manual Page](http://git-scm.com/docs/git-request-pull)
 
 * [[Gist] Checkout github pull requests locally](https://gist.github.com/piscisaureus/3342247)
