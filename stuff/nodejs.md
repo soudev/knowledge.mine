@@ -63,6 +63,8 @@
 
 * [Node.js : Require and Exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
 
+* [How to Use Exports in NodeJS | Liang Zan](http://blog.liangzan.net/blog/2012/06/04/how-to-use-exports-in-nodejs/)
+
 * [How I write Node.js modules](http://substack.net/how_I_write_modules)
 
 * [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
@@ -129,7 +131,11 @@
 
 * Hardening Node.js for production [part 1](http://blog.argteam.com/coding/hardening-nodejs-production-process-supervisor/) | [part 2](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/) | [part 3](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
 
+--
+
 * [Injeção de dependência com Node.js | iMasters](http://imasters.com.br/front-end/javascript/injecao-de-dependencia-com-node-js/)
+
+* [How AngularJS (DI) Made Me a Better Node.js Developer | Liam Kaufman](http://liamkaufman.com/blog/2013/08/06/how-angularjs-made-me-a-better-nodejs-developer/)
 
 --
 
@@ -140,6 +146,8 @@
 * [[GitHub] Cron for NodeJS](https://github.com/ncb000gt/node-cron)
 
 * [[GitHub] shell-jobs: Cron replacement in NodeJS, made for humans](https://github.com/azer/shell-jobs)
+
+* [How to Write a Command Line Application in Node.js | Liang Zan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/)
 
 --
 
