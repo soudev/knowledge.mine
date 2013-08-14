@@ -42,6 +42,9 @@
 
 * [Redis 101 | SlideShare](http://www.slideshare.net/phpguru/redis-101-10043219)
 
+* [How to Install and Use Redis | DigitalOcean](https://www.digitalocean.com/community/articles/how-to-install-and-use-redis)
+
+
 ##### Caso de Uso
 
 * [Usando o banco de dados NoSQL Redis para otimizar sistemas de alta escalabilidade | boo-box](http://blog.boo-box.com/br/2010/usando-banco-de-dados-nosql-redis/)
@@ -150,7 +153,7 @@
 
 * [Map reduce and MongoDB | Boxed Ice Blog](http://blog.serverdensity.com/map-reduce-and-mongodb/)
 
-* [Data Science on MongoDB¿At Last!](http://blog.mongodb.org/post/35204064565/data-science-on-mongodb-at-last)
+* [Data Science on MongoDB At Last!](http://blog.mongodb.org/post/35204064565/data-science-on-mongodb-at-last)
 
 * [Realtime Analytics at Buffer with MongoDB](http://blog.tommoor.com/post/24059620728/realtime-analytics-at-buffer-with-mongodb)
 
