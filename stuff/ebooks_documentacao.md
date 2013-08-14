@@ -22,6 +22,10 @@
 
 * [Essential Math for Games Programmers | Essential Math](http://www.essentialmath.com/tutorial.htm)
 
+--
+
+* [NerdyData](http://nerdydata.com/) - Source code search engine
+
 
 ## Palestras
 
