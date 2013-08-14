@@ -63,6 +63,8 @@
 
 * [Using PhantomJS WebServer | BenjaminBenBen](http://benjaminbenben.com/2013/07/28/phantomjs-webserver/)
 
+--
+
 * [CasperJS](http://casperjs.org/) - is a navigation scripting & testing utility for PhantomJS, written in Javascript
 
 * [Why I use CasperJS for regression testing web applications](http://www.pixelite.co.nz/article/why-i-use-casperjs-regression-testing-web-applications)
@@ -74,6 +76,8 @@
 * [[Gist] vitorbritto / responsive-test.md](https://gist.github.com/vitorbritto/6169986) - Teste para projetos responsivos - Método para capturar telas utilizando o PhantomJS + Async
 
 --
+
+* [[GitHub] sergi / xslty](https://github.com/sergi/xslty) - XSLTy : Command-line XSLT 2.0 processor (using PhantomJS and Node)
 
 
 #### SmilerJS
