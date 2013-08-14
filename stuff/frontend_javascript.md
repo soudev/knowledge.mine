@@ -74,6 +74,10 @@
   
 * [Scalable JavaScript Design Patterns](http://www.addyosmani.com/scalablejs/)
 
+--
+
+* [A meta style guide for JavaScript | 2ality](http://www.2ality.com/2013/07/meta-style-guide.html)
+
 * [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 
@@ -107,6 +111,8 @@
 * [JavaScript Byte saving techniques](https://github.com/jed/140bytes/wiki/Byte-saving-techniques)
 
 * [Introduction to Map and Reduce in Javascript](http://www.49lights.com/blogg/2013/05/introduction_to_map_and_reduce_in_javascript/)
+
+* [Reducing Filter and Map Down to Reduce | Web Dev .NET](http://www.elijahmanor.com/2013/08/reducing-filter-and-map-down-to-reduce.html)
 
 * [Fun with Javascript and function tracing](http://ebobby.org/2013/05/18/Fun-with-Javascript-and-function-tracing.html)
 
@@ -247,9 +253,15 @@
 
 * [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript.
 
+--
+
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
 
   * [NPM](https://npmjs.org/package/xlsjs) | [JS-XLS Live Demo](http://niggler.github.io/js-xls/)
+
+* [[GitHub] jlord / sheetsee.js](https://github.com/jlord/sheetsee.js) - visualize data from a google spreadsheet 
+
+--
 
 * [zip.js](http://gildas-lormeau.github.io/zip.js/) - A JavaScript library to zip and unzip files
 
@@ -375,6 +387,8 @@
 * [Bower components](http://sindresorhus.com/bower-components/) - Sistema de busca dos pacotes/componentes indexados pelo Bower
 
 * [[YouTube] Conheça o Bower](https://www.youtube.com/watch?v=0XffYRF7-G0)
+
+* [Client-Side Dependency Management With Bower | TysonJS](http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower)
 
 * [Meet Bower: A Package Manager For The Web | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/meet-bower-a-package-manager-for-the-web/)
 
