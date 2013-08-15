@@ -142,6 +142,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Desmitificando branches remotas com Git | Caelum](http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/)
 
+* [Branching and Merging | Git Reference](http://gitref.org/branching/)
+
+* [3.2 Ramificação (Branching) no Git - Básico de Branch e Merge | Pro Git](http://git-scm.com/book/pt-br/Ramifica%C3%A7%C3%A3o-(Branching)-no-Git-B%C3%A1sico-de-Branch-e-Merge)
+
 
 ### Fork de um repositório
 
