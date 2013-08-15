@@ -243,6 +243,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Kodigon](http://www.yrezgui.com/kodigon) - is a webapplication which encode and decode (if possible) text or files in many algorithm formats lke Base64, MD5, SHA1, etc.
 
 * [Plunker](http://plnkr.co/) - is an online community for creating, collaborating on and sharing your web development ideas.
+  
+* [[GitHub] matthiasn / BirdWatch](https://github.com/matthiasn/BirdWatch) - Tweet stream analysis and visualization using AngularJS, Bootstrap, D3.js, ElasticSearch and Play Framework | [Blog post](http://matthiasnehlsen.com/blog/2013/08/13/birdwatch-angularjs-elasticsearch-play/)
 
 
 ## Dicas
@@ -290,6 +292,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Removing the unneeded watches | Angular Tips](http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 
 * [Group and Display Data with Underscore and AngularJS | OdeToCode](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)
+
+* [Displaying json array data with AngularJS and ng-grid | Genlinux.rb](http://www.genlinux.org/2013/08/displaying-json-array-data-with-angular.html)
 
 --
 
@@ -407,6 +411,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 ## Directive (componentes)
 
 * [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
+
+* [AngularJS - $compile: How it works, How to use it | Try, Catch, Fail](http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
 
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 
