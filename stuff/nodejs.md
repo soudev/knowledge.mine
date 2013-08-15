@@ -93,17 +93,21 @@
 
 ## Projetos interessantes
 
+* [Tessel](http://technical.io/) - JavaScript right on the hardware 
+
+* [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
+
+* [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
+
+--
+
 * [Node Console](http://www.node-console.com/script/code) - test node.js apps online
 
 * [Node GH](http://nodegh.io/) = NodeJS + GitHub - GitHub command line tools
 
 * [[GitHub] creationix / js-git](https://github.com/creationix/js-git) - JS-Git an open source project implementing git client and server in pure JavaScript
 
-* [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
-
 * [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
-
-* [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
 
 * [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
 
@@ -252,3 +256,5 @@
 * [Express.js](http://expressjs.com/)
 
 * [Node.js com Express.js nos negócios | iMasters](http://imasters.com.br/front-end/javascript/node-js-com-express-js-nos-negocios/)
+
+* [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments
