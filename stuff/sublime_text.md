@@ -43,6 +43,8 @@
 
 * [Sublime Web Inspector](http://sokolovstas.github.com/SublimeWebInspector/) - Debug Javascript right in the Sublime Text editor
 
+* [[GitHub] zenorocha / sublime-snippets-js](https://github.com/zenorocha/sublime-snippets-js) - JavaScript & NodeJS Snippets for Sublime Text 2/3
+
 
 ### EditorConfig
 
