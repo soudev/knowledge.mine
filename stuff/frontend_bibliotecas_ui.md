@@ -40,6 +40,8 @@
 
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 
+* [Shifty!](http://jeremyckahn.github.io/shifty/) - is a tweening engine built in JavaScript. It is designed to fit any number of tweening needs
+
 
 ### JQuery
 
