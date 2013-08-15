@@ -18,6 +18,8 @@
 
 * [DevDocs](http://devdocs.io/) — API Documentation Reader (html5, css3, jquery)
 
+* [Browse Tutorials](http://browse-tutorials.com/) - Find computer related tutorials and snippets you need.
+
 --
 
 * [Essential Math for Games Programmers | Essential Math](http://www.essentialmath.com/tutorial.htm)
