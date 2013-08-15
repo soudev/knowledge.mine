@@ -14,6 +14,10 @@
 
   * [Top 20+ MySQL Best Practices | Nettuts+](http://net.tutsplus.com/tutorials/other/top-20-mysql-best-practices/)
 
+  * [MySQL Workbench](https://www.mysql.com/products/workbench/)
+
+  * [MySQL Joins | Browse Tutorials](http://browse-tutorials.com/tutorial/mysql-joins) - Full guide for MySQL joins
+
 * [Oracle Berkeley DB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.htm)
 
 
