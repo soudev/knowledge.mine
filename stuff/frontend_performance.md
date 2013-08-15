@@ -31,6 +31,11 @@
 * [Acochambramento - Deixe o embed do YouTube mais leve e personalizado no seu Blog | EvelRyu](http://evelryu.com.br/deixe-o-embed-do-youtube-mais-leve-e-personalizado-no-seu-blog/)
 
 
+### Rendering
+
+* [Solving rendering performance puzzles | JakeArchibald](http://jakearchibald.com/2013/solving-rendering-perf-puzzles/)
+
+
 ### CDN
 
 * [A importância de uma CDN | iMasters](http://imasters.com.br/desenvolvimento/a-importancia-de-uma-cdn/) - definição: [CDN (Content Delivery Network)](http://pt.wikipedia.org/wiki/Content_delivery_network)
