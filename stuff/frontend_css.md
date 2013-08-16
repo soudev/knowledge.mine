@@ -10,7 +10,7 @@
 
 * [The Semantic Grid System](http://semantic.gs/)
 
-* [Caelum - Seu código CSS pode ser mais limpo, flexível e reaproveitável](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/)
+* [Seu código CSS pode ser mais limpo, flexível e reaproveitável | Caelum](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/)
 
 * [Repensando CSS Resets | Tableless](http://tableless.com.br/repensando-css-resets/) - Como melhorar seu CSS Reset
 
@@ -48,8 +48,6 @@
 
 * [Multi-Level Push Menu | Codrops](http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/)
 
---
-
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
 
@@ -61,4 +59,10 @@
 
 * [mqa.js : a small, modern library for managing media queries programmatically (i.e. in JavaScript)](https://github.com/peol/mqa.js)
 
+
+### Ferramentas online
+
+* [ColorZilla](http://www.colorzilla.com/gradient-editor/) - Ultimate CSS Gradient Generator
+
+* [CSS Border Radius Generator](http://border-radius.com/)
 
