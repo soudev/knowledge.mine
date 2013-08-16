@@ -120,6 +120,8 @@
 
 * [Prime Numbers, Factorial, and Fibonacci Series with JavaScript Array](http://ariya.ofilabs.com/2013/07/prime-numbers-factorial-and-fibonacci-series-with-javascript-array.html)
 
+* [Searching with Array.prototype.some](http://ariya.ofilabs.com/2013/08/searching-with-array-prototype-some.html) - ECMAScript 5.1
+
 
 ### Expressões Regulares
 
