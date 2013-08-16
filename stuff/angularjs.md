@@ -234,6 +234,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Using AngularJS at Localytics](http://www.localytics.com/blog/2013/angularjs-at-localytics/) - This is the story of how we rewrote our Backbone-powered web  application in AngularJS, using nearly half the number of lines of code.  (It is a love story.)
 
+* [How to build a large Angular.js application | GoCardless](https://gocardless.com/blog/building-a-large-angular-application/)
+
 * [Tyto.io](http://tyto.io/) - A simple mobile framework powered by Angular.js | [[YouTube] Introduction to Tyto](https://www.youtube.com/watch?v=jiyMZLXGraw)
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
