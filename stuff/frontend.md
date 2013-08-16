@@ -22,6 +22,8 @@
 
 * [[GitHub] dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Pull requests are welcome.
 
+* [ColorPicker.com : Quick Online Color Picker Tool | HTML Color Codes](http://www.colorpicker.com/)
+
 
 ## Emmet
 
@@ -84,6 +86,8 @@
 * [SVGeneration : create gorgeous SVG backgrounds](http://www.svgeneration.com/)
 
 * [Animated line drawing in SVG | JakeArchibald.com](http://jakearchibald.com/2013/animated-line-drawing-svg/)
+
+* [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
 
 ## Source Map
