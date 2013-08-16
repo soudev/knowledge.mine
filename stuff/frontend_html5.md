@@ -93,6 +93,8 @@
 
 * [The progress element | HTML5 Doctor](http://html5doctor.com/the-progress-element/)
 
+* [What you need to know about HTML5 forms | TechRepublic](http://www.techrepublic.com/blog/web-designer/what-you-need-to-know-about-html5-forms/)
+
 * [5 HTML5 Javascript APIs to keep an eye on](http://daker.me/2013/06/5-html5-javascript-apis-to-keep-an-eye-on.html)
 
 * [Baterry API | Loop Infinito](http://loopinfinito.com.br/2013/03/21/battery-api/)
@@ -254,6 +256,8 @@
 
 
 #### Games
+
+* [Using the Web Speech API to Create Voice Driven HTML5 Games | HTML5 Hub](http://html5hub.com/using-the-web-speech-api/)
 
 * [Largest Directory of HTML5 Games](http://html5games.com/)
 
