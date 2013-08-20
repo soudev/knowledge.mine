@@ -22,6 +22,8 @@
 
 * [Original Hover Effects with CSS3](http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/)
 
+* [How to Capture CSS3 Animation Events in JavaScript | SitePoint](http://www.sitepoint.com/css3-animation-javascript-event-handlers/)
+
 
 ### Compatibilidade
 
