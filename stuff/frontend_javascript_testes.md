@@ -12,6 +12,8 @@
 
 * [Essential JavaScript: the top five testing libraries](http://www.netmagazine.com/features/essential-javascript-top-five-testing-libraries)
 
+* [Incredibly convenient testing of front-end Javascript with Node.js | Staal Forge](http://staal.io/blog/2013/08/17/incredibly-convenient-testing-of-frontend-javascript-with-node-dot-js/)
+
 * [Responsive Design: Testes automatizados com Node.js](http://www.pinceladasdaweb.com.br/blog/2013/02/20/responsive-design-testes-automatizados-com-node-js/)
 
 * [How to Test an API with Node.js | Strong Loop](http://blog.strongloop.com/how-to-test-an-api-with-node-js/)
