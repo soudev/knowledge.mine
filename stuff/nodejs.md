@@ -17,6 +17,8 @@
 
 * [O que exatamente é o Node.js? | IBM developerWorks](http://www.ibm.com/developerworks/br/library/os-nodejs/)
 
+* [A Case-by-Case Introduction to Node.js | Toptal](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
+
 * [[GitHub] erkobridee / lab-nodejs](https://github.com/erkobridee/lab-nodejs) - Laboratório de testes com o Node.js
 
 
