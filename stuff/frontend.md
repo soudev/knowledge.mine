@@ -89,6 +89,8 @@
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
+* [Art-Directed Adaptive Images With SVG and JavaScript | demosthenes.info](http://demosthenes.info/blog/722/Art-Directed-Adaptive-Images-With-SVG-and-JavaScript)
+
 
 ## Source Map
 
