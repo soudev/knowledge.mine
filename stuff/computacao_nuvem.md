@@ -38,6 +38,8 @@
 
 * [Tweetledee](http://chrissimpkins.github.io/tweetledee/) - A PHP library that provides an incredibly easy way to access Twitter data formatted as JSON or a RSS feed (on GitHub)
 
+* [Twitter4J](http://twitter4j.org/en/index.html) - is an unofficial Java library for the Twitter API.
+
 
 ## OpenShift
 
