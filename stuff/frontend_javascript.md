@@ -25,7 +25,7 @@
 
 * [Preparando-se para o desenvolvimento JavaScript moderno | iMasters](http://imasters.com.br/linguagens/javascript/preparando-se-para-o-desenvolvimento-javascript-moderno/)
 
-* [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)]
+* [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
 
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
 
