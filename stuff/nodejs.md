@@ -117,6 +117,8 @@
 
 * [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command
 
+* [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
+
 
 ## Dicas
 
