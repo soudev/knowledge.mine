@@ -16,6 +16,8 @@
 
 * [Your Responsive Website Design Isn’t Mobile Enough | Todaymade Blog](https://todaymade.com/blog/responsive-content-management/)
 
+* [The Ultimate UX Design of: Responsive Web Design Navigation | Designmodo](http://designmodo.com/ux-responsive-design-navigation)
+
 * [Rich Internet Application Screen Design | UX Magazine](http://uxmag.com/articles/rich-internet-application-screen-design)
 
 * [A linguagem como parte integrante da user experience | Tabless](http://tableless.com.br/a-linguagem-como-parte-integrante-da-user-experience/) - A linguagem é a ferramenta que utilizamos para entender e definir o mundo. E isto vale também para a criação de interfaces.
