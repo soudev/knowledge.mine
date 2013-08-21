@@ -191,9 +191,11 @@
 
 * [npm cheatsheet | Nodejitsu](https://blog.nodejitsu.com/npm-cheatsheet)
 
+* [10 Cool Things You Probably Didn't Realize npm Could Do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do)
+
 * [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
 
-* [10 Cool Things You Probably Didn't Realize npm Could Do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do)
+* [NodeZoo](http://nodezoo.com/) - A search engine for reliable Node.js modules
 
 
 ### CORS
