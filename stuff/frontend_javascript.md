@@ -27,7 +27,9 @@
 
 * [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)]
 
-* [Para que serve ouse strictem JavaScript?|http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/]
+* [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
+
+* [Javascript's Slightly Stricter Mode | Glen Maddern](http://geelen.github.io/web-directions-talk)
 
 * [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
@@ -157,6 +159,8 @@
 * [Regexper](http://www.regexper.com/) - Regular expression visualizer using railroad diagrams
 
 * [Debuggex: A beautiful visual regex tester](http://www.debuggex.com/)
+
+* [Build RegEx](http://buildregex.com/)
 
 
 ### Performance
