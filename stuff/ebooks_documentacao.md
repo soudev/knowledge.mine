@@ -29,6 +29,11 @@
 * [NerdyData](http://nerdydata.com/) - Source code search engine
 
 
+## Podcast
+
+* [GrokPodcast](http://www.grokpodcast.com/) - podcast sobre assuntos de desenvolvimento e tecnologias 
+
+
 ## Palestras
 
 * [Aplicando Clean Code e DDD em entidades Hibernate/JPA | InfoQ BR](http://www.infoq.com/br/presentations/clean-code-ddd-hibernate-jpa)
