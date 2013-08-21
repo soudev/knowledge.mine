@@ -47,13 +47,21 @@
 
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 
+* [An Absolute Beginner's Guide to Node.js | Modulus Blog](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
+
 * [[GitHub] maxogden / art-of-node](https://github.com/maxogden/art-of-node) - The Art of Node.js : a short introduction to node.js
 
 * [[GitHub] rvagg / learnyounode](https://github.com/rvagg/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
 
 * [Node.js for Beginners | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
 
+--
+
 * [Node.js para leigos (Versão completa) | Underground WebDev](http://www.udgwebdev.com/nodejs-para-leigos/)
+
+* [Quer aprender Node.js? (Atualizado) | Underground WebDev](http://udgwebdev.com/quer-aprender-node-js-atualizado/)
+
+--
 
 * [Understanding how to create a nodejs package.json | Nodejitsu](http://package.json.nodejitsu.com/) - Package.json: an interactive guide
 
