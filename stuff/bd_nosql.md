@@ -38,6 +38,8 @@
 
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
 
+* [Redis Weekly](https://redsmin.com/redisweekly/) - A free, once–weekly e-mail round-up of Redis news, articles, tools and libraries
+
 * [Kicking ass with redis | SlideShare](http://www.slideshare.net/dvirsky/kicking-ass-with-redis)
 
 * [Redis 101 | SlideShare](http://www.slideshare.net/phpguru/redis-101-10043219)
