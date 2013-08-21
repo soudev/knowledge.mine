@@ -45,6 +45,8 @@
 
 * [[GitHub] zenorocha / sublime-snippets-js](https://github.com/zenorocha/sublime-snippets-js) - JavaScript & NodeJS Snippets for Sublime Text 2/3
 
+* [[GitHub] caiogondim / js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets) - JavaScript Patterns snippets for Sublime Text
+
 
 ### EditorConfig
 
