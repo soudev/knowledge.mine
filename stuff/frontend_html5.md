@@ -106,6 +106,8 @@
 
 * [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
 
+* [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
+
 --
 
 * [Making HTML5 audio actually work on mobile](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
@@ -297,6 +299,7 @@
 
 * [enchant.js](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps
 
+* [IIOEngine](http://iioengine.com/) - An interactive app framework for HTML5 built with canvas and javascript
 
 
 ### Desenvolvimento de Aplicações
@@ -386,6 +389,12 @@
 * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
 
 * [Hardware-Accelerated Page Transitions for Mobile Web Apps / PhoneGap Apps](http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps)
+
+--
+
+* [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly. (angular.js)
+
+--
 
 * **Andrew Trice**
 
