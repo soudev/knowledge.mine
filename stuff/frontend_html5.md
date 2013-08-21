@@ -47,6 +47,9 @@
 
 * [HTML5Labs | Microsoft](http://www.html5labs.com/)
 
+--
+
+* [Ultimate HTML5 Cheatsheat [Infographic] | Tech King](http://www.testking.com/techking/infographics/ultimate-html5-cheatsheat/)
 
 
 ### Compatibilidade
@@ -141,6 +144,8 @@
 
 * [How to write portable WebGL | CodeFlow](http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/)
 
+* [9 WebGL Demo Examples Experiments | CSS Matter](http://cssmatter.com/blog/9-webgl-demo-examples-experiments/)
+
 
 #### Storage
 
@@ -149,6 +154,8 @@
 * [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
 
 * [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
+
+* [Storing Javascript objects in LocalStorage | DroidIT Blog](http://blog.droidit.eu/javascript-2/storing-javascript-objects-in-localstorage/)
 
 
 #### Performance
@@ -184,6 +191,14 @@
 ### Bibliotecas
 
 * [5 of the Best Free HTML5 Presentation Systems](http://www.sitepoint.com/5-free-html5-presentation-systems/)
+
+--
+
+* [bespoke.js](http://markdalgleish.com/projects/bespoke.js/) - DYI presentation micro-framework
+
+  * [Bespoke.js: The Road to 1KB (Slides)](http://markdalgleish.github.io/presentation-bespoke.js-the-road-to-1kb/)
+
+--
 
 * [SlideCaptain - Modern online presentation tool](https://www.slidecaptain.com/) - Made with JavaScript, HTML5, CSS3, Bootstrap, MongoDB, Node.js and AngularJS.
 
