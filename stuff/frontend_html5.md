@@ -392,11 +392,19 @@
 
 * [Hardware-Accelerated Page Transitions for Mobile Web Apps / PhoneGap Apps](http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps)
 
---
 
-* [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly. (angular.js)
+* **Angular.js**
 
---
+  * [PhoneGap and AngularJs, The Start | Tech Pro](http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start)
+
+  * [PhoneGap and AngularJs, Notification Service | Tech Pro](http://tech.pro/tutorial/1349/phonegap-and-angularjs-notification-service)
+
+  * [PhoneGap and AngularJS: In App Browser | Tech Pro](http://tech.pro/tutorial/1357/phonegap-and-angularjs-in-app-browser)
+
+  * [Building PhoneGap Apps with AngularJS | Brian Ford](http://briantford.com/blog/angular-phonegap.html)
+
+  * [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly. 
+
 
 * **Andrew Trice**
 
@@ -406,6 +414,7 @@
 
   * [PhoneGap Legends – A Sample Game App](http://www.tricedesigns.com/2013/03/22/phonegap-legends-a-sample-game-app/)
 
+
 * **Christophe Coenraets**
   
   * [PhoneGap and PhoneGap Build in 5 Minutes](http://coenraets.org/blog/2012/12/phonegap-and-phonegap-build-in-5-minutes/)
@@ -414,11 +423,6 @@
 
   * [Top 10 Performance Techniques for PhoneGap Applications](http://coenraets.org/blog/2013/05/top-10-performance-techniques-for-phonegap-applications/)
 
-* **Angular.js**
-
-  * [PhoneGap and AngularJs, The Start | Tech Pro](http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start)
-
-  * [Brian Ford - Building PhoneGap Apps with AngularJS](http://briantford.com/blog/angular-phonegap.html)
 
 
 ###### BlackBerry
