@@ -351,6 +351,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [GitExtensions](https://code.google.com/p/gitextensions/)
 
+* [msysgit](http://msysgit.github.io/)
+
 * [5 Windows Git Clients To 'Git' The Job Done](http://www.makeuseof.com/tag/5-windows-git-clients-git-job/)
 
 * [Best git clients on windows](http://gitstack.com/best-git-clients-on-windows/)
@@ -365,6 +367,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [SmartGit](http://www.syntevo.com/smartgithg)
 
 * [Git-Cola](http://git-cola.github.com/)
+
+* ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - The easiest way to use git. On any platform. Anywhere. (Node.js)
 
 
 ### Eclipse IDE - Git plugin
