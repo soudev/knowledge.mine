@@ -43,7 +43,16 @@
 
 * [jasmine tactics screencast](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
 
-* [Testing Tuesday #19: Testing node.js applications with Jasmine | The Codeship Blog](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
+
+##### The Codeship Blog : Testing Tuesday
+
+* [#16: JavaScript Testing with Jasmine](http://blog.codeship.io/2013/07/30/testing-tuesday-16-javascript-testing-with-jasmine.html)
+
+* [#17: How to spy on JavaScript methods with Jasmine](http://blog.codeship.io/2013/08/06/testing-tuesday-17-how-to-spy-on-javascript-methods-with-jasmine.html)
+
+* [#18: How to test asynchronous JavaScript with Jasmine](http://blog.codeship.io/2013/08/13/testing-tuesday-18-how-to-test-asynchronous-javascript-with-jasmine.html)
+
+* [#19: Testing node.js applications with Jasmine](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
 
 
 #### Karma
