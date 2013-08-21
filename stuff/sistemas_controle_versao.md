@@ -144,8 +144,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Branching and Merging | Git Reference](http://gitref.org/branching/)
 
-* [3.2 Ramificação (Branching) no Git - Básico de Branch e Merge | Pro Git](http://git-scm.com/book/pt-br/Ramifica%C3%A7%C3%A3o-(Branching)-no-Git-B%C3%A1sico-de-Branch-e-Merge)
-
 * [Empurrando e puxando | Git Ready](http://pt-br.gitready.com/iniciante/2009/01/21/pushing-and-pulling.html)
 
 
