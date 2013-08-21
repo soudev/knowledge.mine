@@ -43,7 +43,11 @@
 
 > Framework front-end para facilitar e aumentar a velocidade do desenvolvimento web (mantido pelo Twitter)
 
-* [Site oficial](http://twitter.github.com/bootstrap/)
+* [GitHub](https://github.com/twbs/bootstrap)
+
+* [v2.3.2](http://getbootstrap.com/2.3.2/)
+
+* [v3.0.0](http://getbootstrap.com/) | [release infos](http://blog.getbootstrap.com/2013/08/19/bootstrap-3-released/)
 
 --
 
