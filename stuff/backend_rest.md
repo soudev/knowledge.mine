@@ -130,6 +130,10 @@
 
 * [RESTful Web services Tutorials | How to do in JAVA](http://howtodoinjava.com/restful-web-service/)
 
+#### Monitoramento
+
+* [Monitoring of RESTful Jersey application | Miroslav Fuksa's blog](https://blogs.oracle.com/mira/entry/monitoring_of_restful_jersey_applicaiton)
+
 
 #### Testes
 
