@@ -24,6 +24,8 @@
 
 * [How to Capture CSS3 Animation Events in JavaScript | SitePoint](http://www.sitepoint.com/css3-animation-javascript-event-handlers/)
 
+* [Introduction to Animating in HTML | Flippin' Awesome](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
+
 
 ### Compatibilidade
 
