@@ -434,4 +434,11 @@
 
 * [The Big Glossary of Open Source JavaScript and Web Frameworks with Cool Names](http://www.hanselman.com/blog/TheBigGlossaryOfOpenSourceJavaScriptAndWebFrameworksWithCoolNames.aspx)
 
+--
+
+* [[GitHub] mattbaker / Reactive.js](https://github.com/mattbaker/Reactive.js) - A library for programming reactively in Javascript.
+
+  * [Ractive.js Expressions and the New Wave of Reactive Programming | Flippin' Awesome](http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/)
+
+--
 
