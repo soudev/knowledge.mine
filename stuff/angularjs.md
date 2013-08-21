@@ -208,6 +208,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Part 4 - 5: Directives - Expressions](http://www.ng-newsletter.com/posts/beginner2expert-directives.html)
 
+* [Part 6: Services](http://www.ng-newsletter.com/posts/beginner2expert-services.html)
+
 
 ### Dailyjs.com : Angular.js
 
@@ -270,6 +272,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[Gist] Difference between Service, Factory and Provider in AngularJS](https://gist.github.com/Mithrandir0x/3639232)
 
 * [How to create (singleton) AngularJS services in 4 different ways | JDriven BlogJDriven Blog](http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
+
+* [Using an AngularJS Factory to Interact with a RESTful Service | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/08/16/using-an-angularjs-factory-to-interact-with-a-restful-service.aspx)
 
 --
 
@@ -554,4 +558,6 @@ Projeto de exemplo / estrutura inicial
 * [Supplying Mocks for Services via $provide | Tech Pro](http://tech.pro/tutorial/1517/supplying-mocks-for-services-via-provide)
 
 * [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
+
+* [How To Unit Test An Angular App | Alex Rothenberg](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
 
