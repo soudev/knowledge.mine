@@ -394,6 +394,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Brian Ford - Building **PhoneGap** Apps with AngularJS](http://briantford.com/blog/angular-phonegap.html)
 
+--
+
+* [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly.
+
 
 ### AngularJS Sticky Notes | One Hungry MindOne Hungry Mind
 
@@ -421,6 +425,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS - $compile: How it works, How to use it | Try, Catch, Fail](http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
 
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
+
+* [AngularJS directives | Coding Insight](http://www.codinginsight.com/angularjs-directives/)
+
+--
 
 * [[GitHub] rootux / angular-highcharts-directive](https://github.com/rootux/angular-highcharts-directive) - An Angular Js Directive which allows to simplify the use of Highcharts charts
 
