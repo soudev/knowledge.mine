@@ -55,6 +55,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [Backbone.Notifications](http://fatiherikli.github.com/backbone-notifications/) - Global notification mechanism for Backbone
 
+* [Rendering A Filtered Backbone.Collection | Tech Pro](http://tech.pro/tutorial/1519/rendering-a-filtered-backbonecollection)
+
 
 ## UI
 
