@@ -44,6 +44,8 @@
 
 * [Shifty!](http://jeremyckahn.github.io/shifty/) - is a tweening engine built in JavaScript. It is designed to fit any number of tweening needs
 
+* [[GitHub] colintoh / skylo](https://github.com/colintoh/skylo) - Twitter Bootstrap Extension to add progress bar at the top of the page
+
 
 ### JQuery
 
@@ -101,6 +103,8 @@
 
 * [JustGage](http://justgage.com/) is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges
 
+* [Criando gráficos Gauge com Javascript puro](http://jsfiddle.net/igorcosta/cwkbf/) - by [@IgorCosta](https://twitter.com/igorcosta)
+
 * [Flot - Attractive JavaScript plotting for jQuery](http://www.flotcharts.org) - exemplo de uso [ACME Dashboard - Admin Template](http://wrapbootstrap.com/preview/WB0JLR295)
 
 * [easy pie chart](https://github.com/rendro/easy-pie-chart) - exemplo de uso [AdminFlare](http://wrapbootstrap.com/preview/WB0246423)
@@ -111,7 +115,7 @@
 
 * [Cytoscape.js](http://cytoscape.github.io/cytoscape.js/) - A JavaScript graph library for analysis and visualisation (compatible with Node.js, jQuery 1.4+, and plain JavaScript)
 
-* [Criando gráficos Gauge com Javascript puro](http://jsfiddle.net/igorcosta/cwkbf/) - by [@IgorCosta](https://twitter.com/igorcosta)
+* [sigma.js](http://sigmajs.org/) - is an open-source lightweight JavaScript library to draw graphs, using the HTML canvas element
 
 
 #### Mapas
