@@ -14,6 +14,8 @@
 
 * [[Gist] Sublime Text 2 - Useful Shortcuts](https://gist.github.com/1207002)
 
+* [Sublime Text Keyboard Shortcut Cheat Sheet | Sweetmeat](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/)
+
 * [Perfect Workflow in Sublime Text: Free Course! | Nettuts+](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
 
 * [Sublime Text 2 Tips and Shortcuts | Robson Dodson](http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/)
