@@ -116,6 +116,8 @@
 
 * [Custom Audio Effects in JavaScript with the Web Audio API | Noisehack](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
 
+* [Writing Web Audio API code that works in every browser | Mozilla Hacks](https://hacks.mozilla.org/2013/08/writing-web-audio-api-code-that-works-in-every-browser/)
+
 --
 
 * [JavaScript Dubstep Generator](http://www.mazbox.com/synths/dubstep/) - Uma lib que gera efeitos no canvas com ondas sonoras de uma música
@@ -190,6 +192,7 @@
 * [Resize an Image Using Canvas, Drag and Drop and the File API | David Walsh Blog](http://davidwalsh.name/resize-image-canvas)
 
 
+
 ### Bibliotecas
 
 * [5 of the Best Free HTML5 Presentation Systems](http://www.sitepoint.com/5-free-html5-presentation-systems/)
@@ -206,9 +209,15 @@
 
 * [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - an image quantization library
 
+--
+
 * [Popcorn.js](http://popcornjs.org/) - The HTML5 Media Framework
 
 * [Audio5js](http://zohararad.github.io/audio5js/) - The HTML Audio Compatibility Layer
+
+* [[GitHub] meenie / 8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds
+
+--
 
 * [heatmap.js | Create HTML5 Heatmaps with Canvas and JavaScript](http://www.patrick-wied.at/static/heatmapjs/) | [Sample](http://www.heatmapjs.com/)
 
@@ -319,6 +328,8 @@
 
 * [[YouTube] O elo perdido: sincronizando webapps html5 com o servidor (node.js)](https://www.youtube.com/watch?v=JlrwvNpUJpM) - [Slides](http://goo.gl/EBrYX)
 
+* [A Comprehensive Guide to Taking your HTML5 Game Offline | HTML5 Gamer](http://blog.sklambert.com/a-comprehensive-guide-to-taking-your-html5-game-offline/)
+
 
 ##### Christophe Coenraets
 
@@ -360,6 +371,10 @@
 * [Fries: Prototype Android apps using HTML, CSS and JavaScript](http://jaunesarmiento.me/fries/)
 
 * [Nativo ou Web? Técnicas e Dicas em JavaScript móvel | InfoQ Br](http://www.infoq.com/br/interviews/tecnicas-javascript-movel)
+
+--
+
+* [Localizing Firefox OS Apps | Mozilla Hacks](https://hacks.mozilla.org/2013/08/localizing-firefox-os-apps/)
 
 
 ##### Apache Cordova & PhoneGap
