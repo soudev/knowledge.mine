@@ -50,6 +50,10 @@
 
 --
 
+* [FlowType.JS](http://simplefocus.com/flowtype/) - Web typography at its finest: font-size and line-height based on element width.
+
+--
+
 * [Screenfly](https://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
 
 
