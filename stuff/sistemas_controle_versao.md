@@ -136,6 +136,13 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ### Branch
 
+> Encontrando branch's localmente que ainda não foram mesclados
+>
+> `git branch --no-merged`
+>
+
+* [git branch | git-scm docs](http://git-scm.com/docs/git-branch)
+
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/index.html)
 
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
