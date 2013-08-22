@@ -34,7 +34,13 @@
 
 * [The 30 CSS Selectors you Must Memorize | Nettuts+](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
 
+--
+
 * [Dynamically removing and replacing an external JavaScript or CSS file](http://www.javascriptkit.com/javatutors/loadjavascriptcss2.shtml)
+
+--
+
+* [Detecting CSS Style Support | Ryan Morr](http://ryanmorr.com/detecting-css-style-support/)
 
 --
 
