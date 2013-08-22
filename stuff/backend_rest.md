@@ -11,6 +11,14 @@
 
 * [Postmon](http://postmon.com.br/) - Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita
 
+* Telize
+  
+  * [JSON IP and GeoIP REST API (IP Geolocation) | Telize](http://www.telize.com/)
+
+  * [[GitHub] fcambus / telize](https://github.com/fcambus/telize) - Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua
+
+--
+
 * [White House Web API Standards](https://github.com/WhiteHouse/api-standards)
 
 * [7 erros mais comuns na hora de criar uma API | Escalabilidade](http://escalabilidade.com/2010/09/22/7-erros-mais-comuns-na-hora-de-criar-uma-api/)
