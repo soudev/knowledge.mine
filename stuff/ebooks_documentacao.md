@@ -28,6 +28,12 @@
 
 * [NerdyData](http://nerdydata.com/) - Source code search engine
 
+--
+
+* [HTML URL Encoding Reference | w3schools](http://www.w3schools.com/tags/ref_urlencode.asp)
+
+* [How to send HTTP requests using cURL | makandropedia](https://makandracards.com/makandra/1145-how-to-send-http-requests-using-curl)
+
 
 ## Podcast
 
