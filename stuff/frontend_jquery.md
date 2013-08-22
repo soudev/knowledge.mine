@@ -84,3 +84,5 @@
 
 * [imagefill.js](http://johnpolacek.github.io/imagefill.js/) - The jQuery plugin for making an image fill its container (and be centered)
 
+* [Tag-it!](http://aehlke.github.io/tag-it/) - Simple and configurable tag editing widget with autocomplete support
+
