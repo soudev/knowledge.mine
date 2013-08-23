@@ -70,10 +70,14 @@
 
 * [Smart JavaScript Techniques and Patterns](http://www.onextrapixel.com/2013/02/21/improve-your-code-with-smart-javascript-techniques-and-patterns/)
 
+* [JavaScript Design Patterns | Carl Danley](http://carldanley.com/javascript-design-patterns/)
+
+* [The Module Pattern | Carl Danley](http://carldanley.com/js-module-pattern/)
+
 * [JavaScript encapsulation & the module pattern](http://www.aviyehuda.com/blog/2013/01/12/javascript-encapsulation-the-module-pattern-for-beginners/)
   
 * [JavaScript Namespaces and Modules | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/)
-  
+
 * [Scalable JavaScript Design Patterns](http://www.addyosmani.com/scalablejs/)
 
 --
