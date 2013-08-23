@@ -132,6 +132,16 @@
 * [[GitHub] fent / node-ytdl](https://github.com/fent/node-ytdl) - Pure Javascript youtube video downloader
 
 
+### Async / flow control
+
+* [Async - utilities for node and the browser](https://github.com/caolan/async)
+
+* [Cyclop - Stupid simple control flow library](https://github.com/vesln/cyclop)
+
+* [[GitHub] luciotato / waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell
+
+
+
 ## Dicas
 
 * [Managing Node.js Virtual Environments with Nave](http://forge.zeunic.com/development/2013/managing-node-js-virtual-environments-with-nave)
