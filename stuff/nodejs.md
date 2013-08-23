@@ -210,6 +210,8 @@
 
 * [[GitHub] caio-ribeiro-pereira / gzipme](https://github.com/caio-ribeiro-pereira/gzipme) - A simple way to gzip your files with Node.js
 
+* [[GitHub] netroy / image-size](https://github.com/netroy/image-size) - NodeJS module for detecting image dimensions
+
 
 ### NPM
 
@@ -229,13 +231,21 @@
 
 ### Armazenamento
 
+* [Node.js and SQLite | Modulus Blog](http://blog.modulus.io/nodejs-and-sqlite) - Great introduction to using SQLite with Node.js. Covers everything from installing to running queries against the database.
+
 * [[GitHub] WebReflection / dblite](https://github.com/WebReflection/dblite) - sqlite for node.js without gyp problems
 
 * [[GitHub] louischatriot / nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
 
   * [NeDB: SQLite for Node | DailyJS](http://dailyjs.com/2013/08/01/nedb/)
 
+--
+
 * [[GitHub] phidelta / abstract-store](https://github.com/phidelta/abstract-store) - a node-module to abstract key/value storage away from the underlying technology
+
+--
+
+* [Node.js and MongoDB | Modulus Blog](http://blog.modulus.io/getting-started-with-mongoose) - Getting Started with Mongoose
 
 
 ### Nuvem
