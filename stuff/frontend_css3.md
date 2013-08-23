@@ -20,6 +20,8 @@
 
 * [Como usar linear-gradient em CSS de forma consciente? | Tableless](http://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/)
 
+### Animation
+
 * [CSS3 Keyframe Animation Demo](http://www.impressivewebs.com/demo-files/css3-animated-scene/)
 
 * [Original Hover Effects with CSS3](http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/)
@@ -27,6 +29,8 @@
 * [How to Capture CSS3 Animation Events in JavaScript | SitePoint](http://www.sitepoint.com/css3-animation-javascript-event-handlers/)
 
 * [Introduction to Animating in HTML | Flippin' Awesome](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
+
+* [[GitHub] daneden / animate.css](https://github.com/daneden/animate.css) - Cross-browser CSS3 animations. Plug and play. Do a little dance.
 
 
 ### Ferramentas
