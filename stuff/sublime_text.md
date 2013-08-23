@@ -4,7 +4,25 @@
 
 * [Sublime Text 2](http://www.sublimetext.com/2)
 
+--
+
 * [Configuring Sublime Text 2](http://www.mutuallyhuman.com/blog/2012/10/18/configuring-sublime-text-2/)
+
+* [Configurando o Sublime Text 2 | Simples Ideias](http://simplesideias.com.br/configurando-o-sublime-text-2)
+
+--
+
+* Path
+
+  * [Setting the PATH on OS X Mountain Lion](http://overwatering.org/blog/2012/08/setting-path-osx-mountain-lion/)
+
+  * [Hacking the PATH Variable in Sublime Text](http://robdodson.me/blog/2012/05/14/hacking-the-path-variable-in-sublime-text/)
+
+  * [Setting OS X Path variable for Sublime | super user](http://superuser.com/questions/448476/setting-os-x-path-variable-for-sublime)
+
+  * [can not run node app with nodejs sublime plugin | stackoverflow](http://stackoverflow.com/questions/12124544/can-not-run-node-app-with-nodejs-sublime-plugin)
+
+--
 
 * [Nice Sublime Text (2) setup guide for web developers | Drew Barontini](http://drewbarontini.com/setup/sublime-text/)
 
@@ -12,9 +30,13 @@
 
 * [Sublime Text 2 Tips and Tricks | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 
+--
+
 * [[Gist] Sublime Text 2 - Useful Shortcuts](https://gist.github.com/1207002)
 
 * [Sublime Text Keyboard Shortcut Cheat Sheet | Sweetmeat](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/)
+
+--
 
 * [Perfect Workflow in Sublime Text: Free Course! | Nettuts+](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
 
