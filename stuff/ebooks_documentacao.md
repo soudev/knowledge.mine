@@ -4,6 +4,8 @@
 
 * [JSBooks](http://jsbooks.revolunet.com/) - free javascript books
 
+* [JSWiki](http://jswiki.org/) - This wiki indexes libraries and resources available for JavaScript
+
 * [45 Free eBooks for Developers and Designers | Speckyboy Design Magazine](http://speckyboy.com/2011/01/12/45-free-ebooks-for-developers-and-designers/)
 
 * [Free Ebooks for Designers and Developers | Speckyboy Design Magazine](http://speckyboy.com/2013/06/10/free-ebooks-for-designers-and-developers/)
@@ -19,6 +21,10 @@
 * [DevDocs](http://devdocs.io/) — API Documentation Reader (html5, css3, jquery)
 
 * [Browse Tutorials](http://browse-tutorials.com/) - Find computer related tutorials and snippets you need.
+
+--
+
+* [Semantic Versioning](http://semver.org/) - Every wonder how to version your software? There's a whole methodology behind X.Y.Z
 
 --
 
