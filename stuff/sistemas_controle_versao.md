@@ -53,6 +53,12 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Saindo do básico com Git | iMasters](http://imasters.com.br/desenvolvimento/saindo-do-basico-com-git/)
 
+--
+
+* [Controle de versão com Git | Simplificando Isto (ponto) Net](http://simplificandoisto.net/andre/blog/controle-de-versao-com-git/)
+
+* [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/)
+
 
 ### GitHub
 
