@@ -118,6 +118,8 @@
 
 * [Writing Web Audio API code that works in every browser | Mozilla Hacks](https://hacks.mozilla.org/2013/08/writing-web-audio-api-code-that-works-in-every-browser/)
 
+* [Frequency Modulation (FM) with Web Audio API | @GreWeb](http://greweb.me/2013/08/FM-audio-api/) | [jsfiddle](http://jsfiddle.net/greweb/s2MMR/19/)
+
 --
 
 * [JavaScript Dubstep Generator](http://www.mazbox.com/synths/dubstep/) - Uma lib que gera efeitos no canvas com ondas sonoras de uma música
