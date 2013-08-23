@@ -336,6 +336,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Single Page Application with Angular.js, Node.js and NeDB (NeDB Module)  | Technical Blogs](http://www.phloxblog.in/single-page-application-angular-js-node-js-nedb-nedb-module/)
 
+* [Single Page Application with Angular.js, Node.js and CouchDB (Cradle Module) | Technical Blogs](http://www.phloxblog.in/single-page-application-angular-js-node-js-couchdb-cradle-module/)
+
 * [AngularJS collaboration board with Socket.io | Tutorial | .net magazine](http://www.netmagazine.com/tutorials/angularjs-collaboration-board-socketio)
 
 
