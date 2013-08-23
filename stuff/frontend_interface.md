@@ -23,6 +23,19 @@
 * [Taking Ems Even Further | Webdesigntuts+](http://webdesign.tutsplus.com/articles/typography-articles/taking-ems-even-further/)
 
 
-## D3.js for HTML
+
+### Web Components
+
+* [Web Components' spec](http://www.w3.org/TR/2013/WD-components-intro-20130606/)
+
+* [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
+
+* [[Gist] ebidel / Web Components Resources.md](https://gist.github.com/ebidel/6314025) - List of resources related to Web Components
+
+* [Exploring HTML Imports | Rob Dodson talks internets](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
+
+
+
+### D3.js for HTML
 
 * [d3 for HTML](http://macwright.org/2013/07/07/d3-for-html.html)
