@@ -35,6 +35,15 @@
 
 ## Dicas
 
+### Build
+
+* [Custom Sublime Text Build Systems For Popular Tools And Languages | AddyOsmani.com](http://addyosmani.com/blog/custom-sublime-text-build-systems-for-popular-tools-and-languages/)
+
+* [Sublime Text 2 Build System Scripts: CoffeeScript & Node | Wes Bos](http://wesbos.com/sublime-text-build-scripts/)
+
+* [Adding a JS build-system to Sublime | Logic Mason](http://logicmason.com/2013/adding-a-js-build-system-to-sublime/)
+
+
 ### Path
 
 * [Setting the PATH on OS X Mountain Lion](http://overwatering.org/blog/2012/08/setting-path-osx-mountain-lion/)
