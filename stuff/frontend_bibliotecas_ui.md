@@ -16,17 +16,23 @@
 
 * [fragment.js](http://danielrapp.github.com/fragment.js/) - A tiny (625 bytes gzipped) tool for easily loading html fragments and templates.
 
-* [Spin.js](http://fgnass.github.com/spin.js/) - An animated CSS activity indicator with VML fallback.
-
 * [Horwheel](https://github.com/pazguille/horwheel) - Scroll horizontally with mouse wheel
 
 * [Stellar.js](http://markdalgleish.com/projects/stellar.js/) - jQuery plugin that provides parallax scrolling effects to any scrolling element
 
 * [Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus) \| [Demo](http://jakiestfu.github.io/Snap.js/)
 
+--
+
+* [Spin.js](http://fgnass.github.com/spin.js/) - An animated CSS activity indicator with VML fallback.
+
 * [Turn.js](http://www.turnjs.com/) - Uma biblioteca excelente para criar o efeito pageflip com HTML, CSS e JS.
 
     * [Como criar um pageflip em HTML5/CSS3 com Turn.js](http://javascript.techinsider.com.br/2012/06/27/como-criar-um-pageflip-em-html5css3-com-turn-js/)
+
+* [[GitHub] pazguille / flipload](https://github.com/pazguille/flipload) - Flipping elements and show a loading indicator easily
+
+--
 
 * [[GitHub] VeriteCo / TimelineJS](https://github.com/VeriteCo/TimelineJS) - A Storytelling Timeline built in JavaScript. 
 
@@ -45,6 +51,8 @@
 * [Shifty!](http://jeremyckahn.github.io/shifty/) - is a tweening engine built in JavaScript. It is designed to fit any number of tweening needs
 
 * [[GitHub] colintoh / skylo](https://github.com/colintoh/skylo) - Twitter Bootstrap Extension to add progress bar at the top of the page
+
+* [AdminJS](http://adminjs.com/) - The Backend-Agnostic Administration Framework
 
 
 ### JQuery
@@ -137,6 +145,8 @@
 * [Google Maps Colorizr](http://software.stadtwerk.org/google_maps_colorizr/)
 
 * [How To Style Google Maps | Hongkiat.com](http://www.hongkiat.com/blog/google-maps-styles/)
+
+* [Using Drawing Tools and Maps to Find Data | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/19/Using-Drawing-Tools-and-Maps-to-Find-Data)
 
 
 #### D3.js
