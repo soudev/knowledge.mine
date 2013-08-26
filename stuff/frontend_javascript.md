@@ -71,9 +71,13 @@
 
 * [Smart JavaScript Techniques and Patterns](http://www.onextrapixel.com/2013/02/21/improve-your-code-with-smart-javascript-techniques-and-patterns/)
 
+
 * [JavaScript Design Patterns | Carl Danley](http://carldanley.com/javascript-design-patterns/)
 
-* [The Module Pattern | Carl Danley](http://carldanley.com/js-module-pattern/)
+  * [The Module Pattern | Carl Danley](http://carldanley.com/js-module-pattern/)
+
+  * [The Revealing Module Pattern | Carl Danley](http://carldanley.com/js-revealing-module-pattern/)
+
 
 * [JavaScript encapsulation & the module pattern](http://www.aviyehuda.com/blog/2013/01/12/javascript-encapsulation-the-module-pattern-for-beginners/)
   
@@ -137,6 +141,8 @@
 * [Get Most Out of JavaScript Data Structures | JSter Javascript Catalog](http://jster.net/blog/javascript-data-structures)
 
 * [Protecting objects in JavaScript | 2ality](http://www.2ality.com/2013/08/protecting-objects.html)
+
+* [Determining if a String Contains a Substring | Design Pepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches)
 
 
 ### Expressões Regulares
