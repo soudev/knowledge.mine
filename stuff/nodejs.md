@@ -113,11 +113,15 @@
 
 * [Node Console](http://www.node-console.com/script/code) - test node.js apps online
 
+--
+
 * [Node GH](http://nodegh.io/) = NodeJS + GitHub - GitHub command line tools
 
 * ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - The easiest way to use git. On any platform. Anywhere.
 
 * [[GitHub] creationix / js-git](https://github.com/creationix/js-git) - JS-Git an open source project implementing git client and server in pure JavaScript
+
+--
 
 * [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
 
@@ -125,11 +129,21 @@
 
 * [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
 
+--
+
 * [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command
 
 * [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
 
+--
+
+* [[GitHub] chilts / flake](https://github.com/chilts/flake) - Generate practically unique (approximately sortable) IDs in a distributed environment
+
 * [[GitHub] fent / node-ytdl](https://github.com/fent/node-ytdl) - Pure Javascript youtube video downloader
+
+* [[GitHub] MatthewMueller / cheerio](https://github.com/MatthewMueller/cheerio)
+
+  * [Use Node.js to Extract Data from the Web for Fun and Profit | Stormin' The Castle](http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/)
 
 
 ### Async / flow control
