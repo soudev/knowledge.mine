@@ -10,17 +10,7 @@
 
 * [Configurando o Sublime Text 2 | Simples Ideias](http://simplesideias.com.br/configurando-o-sublime-text-2)
 
---
-
-* Path
-
-  * [Setting the PATH on OS X Mountain Lion](http://overwatering.org/blog/2012/08/setting-path-osx-mountain-lion/)
-
-  * [Hacking the PATH Variable in Sublime Text](http://robdodson.me/blog/2012/05/14/hacking-the-path-variable-in-sublime-text/)
-
-  * [Setting OS X Path variable for Sublime | super user](http://superuser.com/questions/448476/setting-os-x-path-variable-for-sublime)
-
-  * [can not run node app with nodejs sublime plugin | stackoverflow](http://stackoverflow.com/questions/12124544/can-not-run-node-app-with-nodejs-sublime-plugin)
+* [Syncing packages and settings across multiple machines in Sublime Text](https://sublime.wbond.net/docs/syncing)
 
 --
 
@@ -41,6 +31,19 @@
 * [Perfect Workflow in Sublime Text: Free Course! | Nettuts+](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
 
 * [Sublime Text 2 Tips and Shortcuts | Robson Dodson](http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/)
+
+
+## Dicas
+
+### Path
+
+* [Setting the PATH on OS X Mountain Lion](http://overwatering.org/blog/2012/08/setting-path-osx-mountain-lion/)
+
+* [Hacking the PATH Variable in Sublime Text](http://robdodson.me/blog/2012/05/14/hacking-the-path-variable-in-sublime-text/)
+
+* [Setting OS X Path variable for Sublime | super user](http://superuser.com/questions/448476/setting-os-x-path-variable-for-sublime)
+
+* [can not run node app with nodejs sublime plugin | stackoverflow](http://stackoverflow.com/questions/12124544/can-not-run-node-app-with-nodejs-sublime-plugin)
 
 
 ## Packages / Plugins
