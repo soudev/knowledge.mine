@@ -28,12 +28,15 @@
 
 * [Web Components' spec](http://www.w3.org/TR/2013/WD-components-intro-20130606/)
 
+* [[Speaker Deck] Um futuro chamado Web Components | Zeno Rocha](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
+
 * [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
 
 * [[Gist] ebidel / Web Components Resources.md](https://gist.github.com/ebidel/6314025) - List of resources related to Web Components
 
 * [Exploring HTML Imports | Rob Dodson talks internets](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
 
+* [Google’s Polymer and the future of web UI frameworks | 2ality](http://www.2ality.com/2013/05/google-polymer.html)
 
 
 ### D3.js for HTML
