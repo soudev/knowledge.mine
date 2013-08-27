@@ -74,6 +74,8 @@
 
 * [HTML5 Features - Storage](http://www.html5rocks.com/en/features/storage)
 
+* [The CSS3 Test](http://css3test.com/)
+
 * [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Browser support scorecard
 
 
@@ -261,6 +263,8 @@
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
 
 * [[GitHub] FileReader.js](http://bgrins.github.io/filereader.js/) - Read Files with JavaScript!
+
+* [[GitHub] OptimalBits / fs.js](https://github.com/OptimalBits/fs.js) - This module provides a wrapper for the HTML5 File System API inspired in nodejs fs module
 
 * [[GitHub] sindresorhus / screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
