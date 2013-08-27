@@ -52,6 +52,8 @@
 
 * [FlowType.JS](http://simplefocus.com/flowtype/) - Web typography at its finest: font-size and line-height based on element width.
 
+* [[GitHub] BBC-News / Imager.js](https://github.com/BBC-News/Imager.js) - Responsive images while we wait for srcset to finish cooking
+
 --
 
 * [Screenfly](https://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
