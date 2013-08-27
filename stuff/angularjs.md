@@ -524,6 +524,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Animating with AngularJS | Devgirl's Weblog](http://devgirl.org/2013/08/06/animating-with-angularjs/) | [sample app](http://devgirl.org/files/AngularAnimationsDemo/) | [Animating with AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
 
+* [Preparing for Animations in Angular 1.2.0 | John Papa](http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
+
 
 ## Projetos de Exemplo
 
