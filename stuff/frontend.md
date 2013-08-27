@@ -60,6 +60,8 @@
 
 * [Flat Icons: More Than 3600 Icons | iconShock](http://www.iconshock.com/icon_sets/flat-icons/)
 
+* [FlatIcons.net](http://flaticons.net/) - Generate free flat icons, royalty free. Over 2,500 icon shapes to use in your flat and metro icons. Unlimited options
+
 * [We love icon fonts](http://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
 * [PhyloPic](http://phylopic.org/) — An Open Database of Life Form Silhouettes
