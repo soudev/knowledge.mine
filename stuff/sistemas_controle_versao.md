@@ -35,6 +35,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [git-scm: Pro Git book - online pt-br](http://git-scm.com/book/pt-br/)
 
+* [Using Git | GitHub:Help](https://help.github.com/categories/19/articles)
+
 * [Comandos básicos do Git | GustavoHenrique.net](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
 
 * [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
