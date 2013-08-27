@@ -133,9 +133,13 @@
 
 --
 
+* [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
+
 * [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command
 
-* [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
+* [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
+
+* [[GitHub] dharmafly / noodle](https://github.com/dharmafly/noodle) - A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST
 
 --
 
@@ -210,10 +214,6 @@
 
 --
 
-* [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
-
---
-
 * [[GitHub] kenshiro-o / login-utils](https://github.com/kenshiro-o/login-utils) - Simple authentication library
 
 * [[GitHub] dilvie / credential](https://github.com/dilvie/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
@@ -227,6 +227,11 @@
 * [[GitHub] caio-ribeiro-pereira / gzipme](https://github.com/caio-ribeiro-pereira/gzipme) - A simple way to gzip your files with Node.js
 
 * [[GitHub] netroy / image-size](https://github.com/netroy/image-size) - NodeJS module for detecting image dimensions
+
+--
+
+* [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
+
 
 
 ### NPM
