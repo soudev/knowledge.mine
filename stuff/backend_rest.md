@@ -11,11 +11,25 @@
 
 * [Postmon](http://postmon.com.br/) - Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita
 
+--
+
 * Telize
   
   * [JSON IP and GeoIP REST API (IP Geolocation) | Telize](http://www.telize.com/)
 
   * [[GitHub] fcambus / telize](https://github.com/fcambus/telize) - Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua
+
+--
+
+* Geocode
+
+  * [Geocode Area Names of a City to get Lat and Long | StackOverflow](http://stackoverflow.com/questions/3806548/geocode-area-names-of-a-city-to-get-lat-and-long)
+
+  * [A Google Geocoding API | Google Developers](https://developers.google.com/maps/documentation/geocoding/?hl=pt-BR&csw=1)
+
+    * [Exemplo JSON : Curitiba](https://maps.googleapis.com/maps/api/geocode/json?address=Curtiba&sensor=false)
+
+    * [Latitude Longitude Finder | latlong.net](http://www.latlong.net/) - utiliza o serviço do Google como base
 
 --
 
