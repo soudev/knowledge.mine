@@ -29,19 +29,31 @@
 
 * [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
 
+--
+
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
 
 * [Javascript's Slightly Stricter Mode | Glen Maddern](http://geelen.github.io/web-directions-talk)
+
+--
 
 * [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
 * [Functions Explained | Mark Daggett's Blog](http://markdaggett.com/blog/2013/02/15/functions-explained/)
 
+* [Javascript hoisting explained | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/)
+
+* [An Introduction to IIFEs - Immediately Invoked Function Expressions | Design Pepper](http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions)
+
+--
+
 * [Understanding JavaScript Inheritance | Alex Sexton](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 
 * [Avoiding the *this* problem in JavaScript | Tech.Pro](http://tech.pro/tutorial/1192/avoiding-the-this-problem-in-javascript)
 
-* [Javascript hoisting explained | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/)
+* [Understanding Scope and Context in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/)
+
+--
 
 * [JSDares](http://www.jsdares.com/) - Experimental educational programming environment. Learn Javascript and create your own dares!
 
@@ -139,6 +151,8 @@
 * [[Speaker Deck] Categorizing values: typeof, instanceof and beyond | Axel Rauschmayer](https://speakerdeck.com/rauschma/categorizing-values-typeof-instanceof-and-beyond) - You have probably heard of two common ways of categorizing values in JavaScript: typeof and instanceof. In this talk, we first review the basics of this kind of categorization and then move on to quirks and advanced topics: primitive values versus objects; typeof and instanceof (and their quirks); the internal property [[Class]]; the odd nature of the prototypes of built-in constructors; and more.
 
 * [Get Most Out of JavaScript Data Structures | JSter Javascript Catalog](http://jster.net/blog/javascript-data-structures)
+
+* [Sorted Maps in JavaScript | JSter Javascript Catalog](http://jster.net/blog/sorted-maps-in-javascript)
 
 * [Protecting objects in JavaScript | 2ality](http://www.2ality.com/2013/08/protecting-objects.html)
 
