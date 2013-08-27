@@ -74,6 +74,7 @@
 
 * [HTML5 Features - Storage](http://www.html5rocks.com/en/features/storage)
 
+* [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Browser support scorecard
 
 
 ### Ferramentas
