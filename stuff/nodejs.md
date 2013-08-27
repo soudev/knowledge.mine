@@ -168,7 +168,15 @@
 
 * [Node.js as a build script | Blog - Miller Medeiros](http://blog.millermedeiros.com/node-js-as-a-build-script/)
 
+--
+
 * [[Gist] Tips for Writing Portable Node.js Code](https://gist.github.com/domenic/2790533)
+
+* [Windows and Node: Writing Portable Code | DailyJS](http://dailyjs.com/2012/05/24/windows-and-node-4/)
+
+* [How to Write Portable Node.js Code | Node on Azure](http://nodeblog.azurewebsites.net/how-to-write-portable-nodejs-code)
+
+--
 
 * [Tracking down a memory leak in Node.js and Socket.IO](http://jpallen.net/2013/03/08/tracking-down-a-memory-leak-in-node-js-and-socket-io/)
 
@@ -226,12 +234,31 @@
 
 * [[GitHub] caio-ribeiro-pereira / gzipme](https://github.com/caio-ribeiro-pereira/gzipme) - A simple way to gzip your files with Node.js
 
+* [[GitHub] ctalkington / node-archiver](https://github.com/ctalkington/node-archiver) - Creates Archives (Zip, Tar) via Node Streams
+
 * [[GitHub] netroy / image-size](https://github.com/netroy/image-size) - NodeJS module for detecting image dimensions
+
+* [Loading PDFs In PhantomJS Using PDF.JS | Gary Sieling](http://www.garysieling.com/blog/integrating-phantomjs-and-pdf-js-inter-process-communication)
+
+* [Practical Examples of the New Node.js Streams API | StrongLoop](http://blog.strongloop.com/practical-examples-of-the-new-node-js-streams-api/)
+
+* [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
+
+* [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
+
+--
+
+* [Full HTTPS REST server in Node.js | Bogomil Shopov](http://talkweb.eu/full-https-rest-server-in-node-js/)
 
 --
 
 * [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
 
+* [Testing Private State and Mocking Dependencies | How To Node - NodeJS](http://howtonode.org/testing-private-state-and-mocking-deps)
+
+--
+
+* [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
 
 
 ### NPM
@@ -285,6 +312,8 @@
 
 * [How to install & setup Node.js on Amazon EC2 instance - complete guide](http://iconof.com/blog/how-to-install-setup-node-js-on-amazon-aws-ec2-complete-guide/)
 
+* [Examples — AWS SDK for Node.js - Documentation](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/examples.html)
+
 
 #### Windows Azure
 
@@ -319,5 +348,9 @@
 
   * [Build a Complete MVC Website With ExpressJS | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/)
   
+  * [Super simple file upload with node.js | Tanya Nam](http://tanyanam.com/everything/super-simple-file-upload-with-node-js)
+
+  * [Building a simple blog with NodeJS and Express | KOPIS.DE](http://blog.kopis.de/2012/01/30/building-a-simple-blog-with-nodejs-and-express/) | [[GitHub] MoriTanosuke / blode](https://github.com/MoriTanosuke/blode) - Simple blog framework with NodeJS (post write in markdown)
+
 
 * [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments
