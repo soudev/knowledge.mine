@@ -20,6 +20,8 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 
 ## Sobre
 
+* [Git | Wikipedia PT](https://pt.wikipedia.org/wiki/Git)
+
 * [Uma Breve História do Git](http://git-scm.com/book/pt-br/Primeiros-passos-Uma-Breve-Hist%C3%B3ria-do-Git)
 
 * [Sistemas de Controle de Versão Distribuídos](http://git-scm.com/book/pt-br/Primeiros-passos-Sobre-Controle-de-Vers%C3%A3o#Sistemas-de-Controle-de-Vers%C3%A3o-Distribu%C3%ADdos)
@@ -53,7 +55,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Git Reference](http://gitref.org/)
 
-* [Saindo do básico com Git | iMasters](http://imasters.com.br/desenvolvimento/saindo-do-basico-com-git/)
+* [Saíndo do Básico com Git | developerWorks IBM](http://www.ibm.com/developerworks/br/local/opensource/saindo_basico_git/) - Aprendendo a reescrever histórico e a rearranjar commits (18/06/2013)
+
 
 --
 
@@ -107,6 +110,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Everyday GIT With 20 Commands Or So](https://www.kernel.org/pub/software/scm/git/docs/everyday.html)
 
+* [Git Basic Commands | Pankaj Kumar](http://panks.me/blog/2011/12/git-basic-commands/)
+
 * [Git Hooks](http://githooks.com/) - Git hooks are scripts that Git executes before or after events such as: commit, push, and receive. Git hooks are a built-in feature - no need to download anything. Git hooks are run locally.
 
 --
@@ -121,8 +126,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [9.7 Git Internamente - Manutenção e Recuperação de Dados | Pro Git](http://git-scm.com/book/pt-br/Git-Internamente-Manuten%C3%A7%C3%A3o-e-Recupera%C3%A7%C3%A3o-de-Dados)
 
-* [Git Basic Commands | Pankaj Kumar](http://panks.me/blog/2011/12/git-basic-commands/)
-
 * [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
 
 * [Git Submodules: Core Concept, Workflows And Tips | Atlassian Blogs](https://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
@@ -136,8 +139,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Please, use git pull --rebase](https://coderwall.com/p/7aymfa)
 
 * [[GitHub] visionmedia / git-extras](https://github.com/visionmedia/git-extras) - GIT utilities - repo summary, repl, changelog population, author commit percentages and more (for Mac/Unix)
-
-* [Using GitHub as a personal maven repository](http://coffeecoders.de/2011/09/using-github-as-a-personal-maven-repository/)
 
 * [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
@@ -237,7 +238,11 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Usando Dropbox para manter seu repositório Git | Igor Costa](http://www.igorcosta.com/usando-dropbox-para-manter-seu-repositorio-git/)
 
+* [Usando Dropbox como Repositório GIT | Thiago Genez](http://blog.thiagogenez.com/2011/05/usando-dropbox-como-repositorio-git.html)
+
 * [[GitHub] qrpike / NodeJS-Git-Server](https://github.com/qrpike/NodeJS-Git-Server) - A multi-tenant git server using NodeJS
+
+* [Using GitHub as a personal maven repository](http://coffeecoders.de/2011/09/using-github-as-a-personal-maven-repository/)
 
 
 ### GitHub
@@ -398,3 +403,60 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 
 
+## Quem usa o Git/GitHub?
+
+### Governos
+
+#### Brasil
+
+* [PloneGovBr](http://www.softwarelivre.gov.br/plone)
+
+* [PloneGovBr no GitHub](https://github.com/plonegovbr)
+
+* [DadosGovBr](http://dados.gov.br/)
+
+* [DadosGovBr no GitHub](https://github.com/dadosgovbr)
+
+* [Demoiselle](http://www.frameworkdemoiselle.gov.br/) | [GitHub](https://github.com/demoiselle) - é um conjunto de seis projetos, sendo cinco de software e um processo de desenvolvimento (Framework em Java criado pelo SERPRO)
+
+#### Estados Unidos
+
+* [Casa Branca no GitHub](https://github.com/WhiteHouse)
+
+  * [Casa Branca lança primeiro sistema no GitHub, baseado em PHP/MySQL e MongoDB | InfoQ Br](http://www.infoq.com/br/news/2012/08/casa-branca-opensource) (29/08/2012)
+
+
+### Empresas
+
+#### NASA
+
+* [NASA Open Source Software versioned with Git | code.NASA](http://code.nasa.gov/version-control-system/git/)
+
+* [NASA no GitHub](https://github.com/nasa)
+
+
+#### SAP
+
+* [SAP no GitHub](http://sap.github.io/)
+
+* [Essentials - Working with Git & Maven in Eclipse | SAP Community Network](http://scn.sap.com/community/developer-center/cloud-platform/blog/2012/11/02/essentials--working-with-git-maven-in-eclipse)
+
+
+#### Microsoft
+
+* [Microsoft Announces Git Support For Visual Studio, Team Foundation Server And Service | TechCrunch](http://techcrunch.com/2013/01/30/microsoft-announces-git-support-for-visual-studio-team-foundation-server-and-service/) (30/01/2013)
+
+* [Git support for Visual Studio - Git, TFS, and VS put into Context | Scott Hanselman](http://www.hanselman.com/blog/GitSupportForVisualStudioGitTFSAndVSPutIntoContext.aspx)
+
+* [Windows Azure SDK team on GitHub](http://windowsazure.github.io/)
+
+
+#### Globo.com
+
+* [Globo.com](http://www.globo.com/)
+
+* [Globo.com no GitHub](https://github.com/globocom)
+
+* [Projetos e Colaboradores do Globo.com no GitHub](http://opensource.globo.com/)
+
+* [[GitHub] globocom / IWantToWorkAtGloboCom](https://github.com/globocom/IWantToWorkAtGloboCom) - seleção de desenvolvedores
