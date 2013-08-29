@@ -125,6 +125,8 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n√
 
 * [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
 
+* [Git Behind the Firewall with Atlassian Stash | Matthew Riley](http://matthewriley.us/git-behind-the-firewall-with-atlassian-stash/) (28/02/2013)
+
 ### Github
 
 * [GitHub Training](http://training.github.com/)
