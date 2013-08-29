@@ -33,6 +33,8 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n�
 
 * Totalmente distribuído
 
+> Sobre a possibilidade de vários [workflow's](http://git-scm.com/about/distributed)
+
 * Capaz de lidar eficientemente com grandes projetos como o kernel do Linux (velocidade e volume de dados)
 
 ---
