@@ -35,9 +35,13 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ## Aprendizado
 
+* [Why Git is Better than X](http://thkoch2001.github.io/whygitisbetter/)
+
 * [git-scm: Pro Git book - online pt-br](http://git-scm.com/book/pt-br/)
 
 * [Using Git | GitHub:Help](https://help.github.com/categories/19/articles)
+
+* [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git)
 
 * [Comandos básicos do Git | GustavoHenrique.net](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
 
@@ -400,6 +404,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Tips and Tricks: Using Eclipse with GitHub](http://eclipsesource.com/blogs/2012/08/28/tips-and-tricks-using-eclipse-with-github/)
 
 * [Git version control with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html)
+
+
 
 
 
