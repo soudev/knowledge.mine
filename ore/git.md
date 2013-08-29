@@ -41,13 +41,13 @@ O Git foi modelado do ponto de vista de um sistema de arquivos e não apenas de 
 
   * Snapshots, E Não Diferenças
 
-    * O Git rastreia todas as alterações ocorridas
+    > O Git rastreia todas as alterações ocorridas
 
   * Quase Todas Operações São Locais
 
   * Git Tem Integridade
 
-    * A forma com que o Git identifica/versiona as alterações, utilizando checksum (algoritmo SHA-1), ou comumente chamado hash, garante a integridade e unicidade das alterações, com isso reduzindo inumeros problemas na hora de mesclar (merge) conteúdos dos arquivos, atividades executadas comumente em projetos.
+    > A forma com que o Git identifica/versiona as alterações, utilizando checksum (algoritmo SHA-1), ou comumente chamado hash, garante a integridade e unicidade das alterações, com isso reduzindo inumeros problemas na hora de mesclar (merge) conteúdos dos arquivos, atividades executadas comumente em projetos.
 
   * Git Geralmente Só Adiciona Dados
 
