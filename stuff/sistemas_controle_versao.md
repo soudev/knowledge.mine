@@ -16,6 +16,19 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 * [Parte 2](http://pronus.eng.br/blog/http:/pronus.eng.br/blog/comparacao-entre-subversion-mercurial-e-git-parte-2)
 
 
+## Jazz SCM
+
+* [Jazz Community](https://jazz.net/)
+
+* [Getting Started with Jazz Source Control | Jazz Community](https://jazz.net/library/article/41)
+
+* [Jazz Source Control: Design Objectives | Jazz Community](https://jazz.net/library/article/525)
+
+* [A guide to Jazz source control management | developerWorks IBM](http://www.ibm.com/developerworks/rational/library/jazz-source-control-management/)
+
+* [Using Rational Team Concert on Mac with Xcode (Part 1) | Jazz Community](https://jazz.net/library/article/979/)
+
+
 ## Git e GitHub 
 
 ## Sobre
@@ -145,6 +158,11 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [[GitHub] visionmedia / git-extras](https://github.com/visionmedia/git-extras) - GIT utilities - repo summary, repl, changelog population, author commit percentages and more (for Mac/Unix)
 
 * [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
+
+--
+
+* [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
+
 
 
 ### Branch

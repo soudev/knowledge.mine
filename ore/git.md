@@ -8,9 +8,11 @@ Controlar versões de arquivos de forma distribuída.
 
 ## O que é?
 
-O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo. Cada checkout (resgate) é na prática um backup completo de todos os dados.
+O Git é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo. Cada checkout (resgate) é na prática um backup completo de todos os dados.
 
-O Git foi modelado do ponto de vista de um sistema de arquivos e não apenas de um gerenciador de código fonte.
+O Git é gratuito e OpenSource.
+
+O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e não apenas de um gerenciador de código fonte, focado inicialmente para atender as necessidades do desenvolvimento do Kernel do Linux, assim possibilitando a não dependência de acesso a rede ou a um servidor central.
 
 * [Git | Wikipedia PT](https://pt.wikipedia.org/wiki/Git)
 
