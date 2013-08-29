@@ -8,12 +8,19 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 
 * Sistemas de Controle de Versão Distribuídos (ex.: Git, Mercurial, Bazaar ou Darcs)
 
+* [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
+
 
 ## Comparacão entre Subversion, Mercurial e Git
 
 * [Parte 1](http://pronus.eng.br/blog/http:/pronus.eng.br/blog/comparacao-entre-subversion-mercurial-e-git-parte-1)
 
 * [Parte 2](http://pronus.eng.br/blog/http:/pronus.eng.br/blog/comparacao-entre-subversion-mercurial-e-git-parte-2)
+
+
+## Job trends
+
+* [git, subversion, mercurial, cvs, github, clearcase, ibm scm | Indeed](http://www.indeed.com/jobtrends?q=git%2C+subversion%2C+mercurial%2C+cvs%2C+github%2C+clearcase%2C+ibm+scm&l=)
 
 
 ## Jazz SCM
@@ -177,6 +184,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/index.html)
 
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+* [Git Branching and Forking in the Enterprise: Why Fork? | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
 
 * [Desmitificando branches remotas com Git | Caelum](http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/)
 

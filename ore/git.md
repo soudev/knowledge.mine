@@ -123,6 +123,8 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n√
 
 * [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git)
 
+* [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
+
 ### Github
 
 * [GitHub Training](http://training.github.com/)
@@ -195,6 +197,10 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n√
 * [Abril](http://www.abril.com.br/) : projetos OpenSource no [GitHub](https://github.com/abril)
 
 * [Globo.com](http://www.globo.com/) : projetos OpenSource no [GitHub](https://github.com/globocom)
+
+* [Rakuten](http://www.rakuten.co.jp/) : projetos internos em [git utilizando o Atlassian Stash](https://www.atlassian.com/company/customers/case-studies/rakuten) | Empresa de e-Commerce japonesa.
+
+* [Orbitz](http://www.orbitz.com/) : projetos internos em [git utilizando o Atlassian Stash](https://www.atlassian.com/company/customers/case-studies/orbitz) | Empresa de e-Commerce norte americana.
 
 #### projetos
 
