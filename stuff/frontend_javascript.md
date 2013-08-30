@@ -83,15 +83,31 @@
 
 * [Smart JavaScript Techniques and Patterns](http://www.onextrapixel.com/2013/02/21/improve-your-code-with-smart-javascript-techniques-and-patterns/)
 
+--
 
 * [JavaScript Design Patterns | Carl Danley](http://carldanley.com/javascript-design-patterns/)
 
-  * [The Module Pattern | Carl Danley](http://carldanley.com/js-module-pattern/)
+    * [The Module Pattern](http://carldanley.com/js-module-pattern/)
+    
+    * [The Revealing Module Pattern](http://carldanley.com/js-revealing-module-pattern/)
+    
+    * [The Singleton Pattern](http://carldanley.com/js-singleton-pattern/)
+    
+    * [The Observer Pattern](http://carldanley.com/js-observer-pattern/)
+    
+    * [The Mediator Pattern](http://carldanley.com/js-mediator-pattern/)
+    
+    * [The Prototype Pattern](http://carldanley.com/js-prototype-pattern/)
+    
+    * The Facade Pattern
+    
+    * The Factory Pattern
+    
+    * The Mixin Pattern
+    
+    * The Decorator Pattern
 
-  * [The Revealing Module Pattern | Carl Danley](http://carldanley.com/js-revealing-module-pattern/)
-
-  * [The Prototype Pattern | Carl Danley](http://carldanley.com/js-prototype-pattern/)
-
+--
 
 * [JavaScript encapsulation & the module pattern](http://www.aviyehuda.com/blog/2013/01/12/javascript-encapsulation-the-module-pattern-for-beginners/)
   
