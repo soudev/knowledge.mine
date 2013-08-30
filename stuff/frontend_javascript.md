@@ -90,6 +90,8 @@
 
   * [The Revealing Module Pattern | Carl Danley](http://carldanley.com/js-revealing-module-pattern/)
 
+  * [The Prototype Pattern | Carl Danley](http://carldanley.com/js-prototype-pattern/)
+
 
 * [JavaScript encapsulation & the module pattern](http://www.aviyehuda.com/blog/2013/01/12/javascript-encapsulation-the-module-pattern-for-beginners/)
   
@@ -106,6 +108,8 @@
 
 
 ### Dicas
+
+* [Defensive JavaScript](http://www.defensivejs.com/)
 
 * [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 
@@ -319,9 +323,13 @@
 
 * [List.js](http://listjs.com/) - Add search, sort and flexibility to plain HTML lists or tables with cross-browser native JavaScript by @javve . “Native” JavaScript, no dependencies on libraries.
 
+--
+
 * [Converse.js](http://conversejs.org/) - An XMPP chat client for your website
 
 * [Strophe.js](http://strophe.im/strophejs/) - An XMPP library for JavaScript
+
+--
 
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 
@@ -336,6 +344,8 @@
 * [spin.js](http://fgnass.github.io/spin.js/) - An animated CSS activity indicator with VML fallback [sample](http://www.javascriptoo.com/spin-js)
 
 * [[GitHub] tildeio / kamino.js](https://github.com/tildeio/kamino.js) - Kamino.js is a library for passing data structures between sandboxed environments in the browser via 'postMessage'
+
+* [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/)
 
 
 ### Design API & Biblioteca
