@@ -2,6 +2,12 @@
 
 * [Why Do Developers Contribute to Open Source Projects? - Website Magazine](http://www.websitemagazine.com/m/Blog/Post/27064?name=why-developers-contribute-to-open-source-projects)
 
+## ALM
+
+### IBM
+
+* [[YouTube] Demo de ALM - IBM Rational](https://www.youtube.com/watch?v=mpnt_PyQN7E)
+
 
 ## Scrum
 
