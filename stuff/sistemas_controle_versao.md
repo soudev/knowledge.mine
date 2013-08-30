@@ -227,7 +227,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ### Colaboração
 
-* [Clay Shirky: How the Internet will (one day) transform government | Ted Talks](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html) - The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens. [Video no YouTube](https://www.youtube.com/watch?v=CEN4XNth61o)
+* [Clay Shirky: How the Internet will (one day) transform government | Ted Talks](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html) - The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens. [Video no YouTube](https://www.youtube.com/watch?v=CEN4XNth61o) 
+
+  * [GitHub e Linux são exemplos para a política | Estadão](http://blogs.estadao.com.br/link/github-e-linux-sao-exemplos-para-a-politica/) (04/10/2012)
+
 
 * [Git (e Github) para dados | iMasters](http://imasters.com.br/desenvolvimento/git-e-github-para-dados/)
 
