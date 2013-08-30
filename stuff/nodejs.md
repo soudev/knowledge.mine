@@ -166,6 +166,8 @@
 
 * [Managing Node.js Virtual Environments with Nave](http://forge.zeunic.com/development/2013/managing-node-js-virtual-environments-with-nave)
 
+* [[GitHub] keremc / nodevers](https://github.com/keremc/nodevers) - a Node.js version manager
+
 * [Node.js as a build script | Blog - Miller Medeiros](http://blog.millermedeiros.com/node-js-as-a-build-script/)
 
 --
