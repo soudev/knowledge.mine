@@ -24,6 +24,8 @@
 
 * [ColorPicker.com : Quick Online Color Picker Tool | HTML Color Codes](http://www.colorpicker.com/)
 
+* [UIBox - Curated HTML, CSS, JS UI Component Library](http://www.uibox.in/)
+
 
 ## Emmet
 
@@ -32,6 +34,8 @@
 * [Goodbye, Zen Coding. Hello, Emmet! | Smashing Coding](http://coding.smashingmagazine.com/2013/03/26/goodbye-zen-coding-hello-emmet/)
 
 * [Emmet - Cheat Sheet](http://docs.emmet.io/cheat-sheet/) - Sublime Text 2
+
+* [Build Bootstrap in Minutes Using Emmet | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/applications/build-bootstrap-in-minutes-using-emmet/)
 
 
 ## Unicode
