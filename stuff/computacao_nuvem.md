@@ -2,6 +2,9 @@
 
 * [Computação em Nuvem Brasil](https://sites.google.com/site/computacaoemnuvembrasil/home/materi)
 
+* [O que é computação na nuvem? | Conta Azul : Blog](http://contaazul.com/blog/2013/07/o-que-e-computacao-na-nuvem/)
+
+
 ## Conceitos - Cloud Stack
 
 03 . SaaS – Software as a Service (Software como Serviço)
