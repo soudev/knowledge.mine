@@ -138,6 +138,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
 
+* [AngularJS Tutorial: Learn to build modern web apps | Thinkster](http://www.thinkster.io/pick/521e8672e2a3b28f98000314/angularjs-tutorial-learn-to-build-modern-web-apps)
+
 --
 
 * [AngularJS for .NET Developers | henriquat.re](http://henriquat.re/) - a continuously deployed ebook
