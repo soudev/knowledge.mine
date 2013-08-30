@@ -224,6 +224,8 @@
 
 * [[GitHub] meenie / 8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds
 
+* [[GitHub]  meenie / band.js](https://github.com/meenie/band.js) - Music composer interface for the Web Audio API.
+
 --
 
 * [heatmap.js | Create HTML5 Heatmaps with Canvas and JavaScript](http://www.patrick-wied.at/static/heatmapjs/) | [Sample](http://www.heatmapjs.com/)
@@ -384,6 +386,8 @@
 --
 
 * [Localizing Firefox OS Apps | Mozilla Hacks](https://hacks.mozilla.org/2013/08/localizing-firefox-os-apps/)
+
+* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos) - Criando apps com HTML5 para o Firefox OS (eBook)
 
 
 ##### Apache Cordova & PhoneGap
