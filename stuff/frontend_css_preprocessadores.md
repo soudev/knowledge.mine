@@ -21,6 +21,8 @@
 
 * [LESS Elements: a collection of useful LESS mixins](http://lesselements.com/)
   
+* [Introducing LESS | Desizn Tech](http://desizntech.info/2013/08/introducing-less/)
+
 * [CSS fácil, flexível e dinâmico com LESS | Caelum](http://blog.caelum.com.br/css-facil-flexivel-e-dinamico-com-less/)
 
 * [CSS dinâmico com LESS | Tableless](http://tableless.com.br/css-dinamico-com-less/)
