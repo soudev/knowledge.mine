@@ -1,5 +1,7 @@
 # Projetos 
 
+* [Why Do Developers Contribute to Open Source Projects? - Website Magazine](http://www.websitemagazine.com/m/Blog/Post/27064?name=why-developers-contribute-to-open-source-projects)
+
 
 ## Scrum
 
