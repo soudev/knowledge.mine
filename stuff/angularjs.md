@@ -462,6 +462,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
 
+* [Angularjs-nvd3-directives](http://cmaurer.github.io/angularjs-nvd3-directives/index.html) - Angular.js directives for nvd3.js
+
 
 ### Filters
 
@@ -496,6 +498,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] eu81273 / angular.treeview](https://github.com/eu81273/angular.treeview) - AngularJS based Treeview (no jQuery)
 
 * [ngProgress](http://victorbjelkholm.github.io/ngProgress/) - Slim, site-wide progressbar for Angular
+
+* [[GitHub] cgross / angular-busy](https://github.com/cgross/angular-busy) - Show busy/loading indicators on any element during $http requests (or any promise).
+
+* [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses.
 
 
 ### Módulos de Gráficos
