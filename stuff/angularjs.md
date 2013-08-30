@@ -522,6 +522,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Enhanced Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
 
+* [Remastered Animation in AngularJS 1.2 | Year of Moo](http://www.yearofmoo.com/2013/08/remastered-animation-in-angularjs-1-2.html) - Learn how to use the bigger and better animation features in AngularJS 1.2
+
 * [Animating with AngularJS | Devgirl's Weblog](http://devgirl.org/2013/08/06/animating-with-angularjs/) | [sample app](http://devgirl.org/files/AngularAnimationsDemo/) | [Animating with AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/08/05/animating-with-angularjs/)
 
 * [Preparing for Animations in Angular 1.2.0 | John Papa](http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
