@@ -4,6 +4,8 @@
 
 * [15 Javascript Web UI Libraries, Frameworks and Toolkits](http://speckyboy.com/2010/05/17/15-javascript-web-ui-libraries-frameworks-and-libraries/)
 
+* [UIBox - Curated HTML, CSS, JS UI Component Library](http://www.uibox.in/)
+
 * [Free Web UI Libraries, Frameworks and Toolkits](http://designmodo.com/web-ui-libraries-frameworks-toolkits/)
 
 * [Wijmo - UI for the Web](http://wijmo.com/)
