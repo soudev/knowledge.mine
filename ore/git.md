@@ -123,18 +123,46 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n�
 
 * [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git)
 
-* [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
-
-* [Git Behind the Firewall with Atlassian Stash | Matthew Riley](http://matthewriley.us/git-behind-the-firewall-with-atlassian-stash/) (28/02/2013)
 
 ### Github
-
-* [GitHub Training](http://training.github.com/)
 
 * [GitHub Enterprise](https://enterprise.github.com/) - Bring GitHub to work. The best way to build and ship software, on your servers. | [Pricing](https://enterprise.github.com/pricing)
 
 * [GitHub Enterprise Features](http://teach.github.com/articles/github-enterprise-features/)
 
+* [GitHub Training](http://training.github.com/)
+
+
+### CollabNet
+
+* [TeamForge for Git | CollabNet](http://www.collab.net/products/teamforge/git-for-the-enterprise) - [preços do suporte](http://www.collab.net/support/support-programs#git), também possuem [ALM](http://www.collab.net/support/support-programs#alm)
+
+
+---
+
+## Git em empresas
+
+* [Git Turns 8, Sees Wide Adoption in the Enterprise | Linux.com](http://www.linux.com/news/enterprise/systems-management/715287-git-turns-8-enterprise-wide-adoption/) (20/04/2013)
+
+* [Why the (legacy) Enterprise is Scared of Git – and what you can do about it – Laurence Sweeney | Opscode Blog](http://www.opscode.com/blog/chefconf-talks/why-the-legacy-enterprise-is-scared-of-git-and-what-you-can-do-about-it-laurence-sweeney/)
+
+* [Thoughts on Git and 'Enterprise Open Source' | Guilherme Chapiewski](http://guilherme.pro/2012/06/12/thoughts-on-git-and-enterprise-open-source/)
+
+* [Using Git in Enterprise environment | Programmers Stack Exchange](http://programmers.stackexchange.com/questions/96915/using-git-in-enterprise-environment)
+
+--
+
+* [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
+
+* [Git Patterns and Anti-Patterns | DZone Refcardz](http://refcardz.dzone.com/refcardz/git-patterns-and-anti-patterns) - Scaling from Workgroup to Enterprise
+
+* [Git Behind the Firewall with Atlassian Stash | Matthew Riley](http://matthewriley.us/git-behind-the-firewall-with-atlassian-stash/) (28/02/2013)
+
+* [Git Branching and Forking in the Enterprise: Why Fork? | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
+
+--
+
+* [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
 
 ---
 

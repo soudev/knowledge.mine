@@ -8,8 +8,6 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 
 * Sistemas de Controle de Versão Distribuídos (ex.: Git, Mercurial, Bazaar ou Darcs)
 
-* [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
-
 
 ## Comparacão entre Subversion, Mercurial e Git
 
@@ -34,6 +32,8 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 * [A guide to Jazz source control management | developerWorks IBM](http://www.ibm.com/developerworks/rational/library/jazz-source-control-management/)
 
 * [Using Rational Team Concert on Mac with Xcode (Part 1) | Jazz Community](https://jazz.net/library/article/979/)
+
+* [Git Versus Subversion Versus Rational Team Concert | developerWorks IBM](https://www.ibm.com/developerworks/community/blogs/amcohen/entry/git_versus_subversion_versus_rational_team_concert_basic_commandline_syntax_reference313?lang=en) - Basic Commandline Syntax Reference
 
 
 ## Git e GitHub 
@@ -81,12 +81,36 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Saíndo do Básico com Git | developerWorks IBM](http://www.ibm.com/developerworks/br/local/opensource/saindo_basico_git/) - Aprendendo a reescrever histórico e a rearranjar commits (18/06/2013)
 
-
 --
 
 * [Controle de versão com Git | Simplificando Isto (ponto) Net](http://simplificandoisto.net/andre/blog/controle-de-versao-com-git/)
 
 * [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/)
+
+
+### Git em empresas
+
+* [Git Turns 8, Sees Wide Adoption in the Enterprise | Linux.com](http://www.linux.com/news/enterprise/systems-management/715287-git-turns-8-enterprise-wide-adoption/) (20/04/2013)
+
+* [Why the (legacy) Enterprise is Scared of Git – and what you can do about it – Laurence Sweeney | Opscode Blog](http://www.opscode.com/blog/chefconf-talks/why-the-legacy-enterprise-is-scared-of-git-and-what-you-can-do-about-it-laurence-sweeney/)
+
+* [Thoughts on Git and 'Enterprise Open Source' | Guilherme Chapiewski](http://guilherme.pro/2012/06/12/thoughts-on-git-and-enterprise-open-source/)
+
+* [Using Git in Enterprise environment | Programmers Stack Exchange](http://programmers.stackexchange.com/questions/96915/using-git-in-enterprise-environment)
+
+--
+
+* [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
+
+* [Git Patterns and Anti-Patterns | DZone Refcardz](http://refcardz.dzone.com/refcardz/git-patterns-and-anti-patterns) - Scaling from Workgroup to Enterprise
+
+* [Git Behind the Firewall with Atlassian Stash | Matthew Riley](http://matthewriley.us/git-behind-the-firewall-with-atlassian-stash/) (28/02/2013)
+
+* [Git Branching and Forking in the Enterprise: Why Fork? | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
+
+--
+
+* [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
 
 
 ### GitHub
@@ -166,10 +190,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
---
-
-* [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
-
 
 
 ### Branch
@@ -184,8 +204,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/index.html)
 
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
-
-* [Git Branching and Forking in the Enterprise: Why Fork? | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
 
 * [Desmitificando branches remotas com Git | Caelum](http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/)
 
