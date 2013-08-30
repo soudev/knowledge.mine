@@ -81,9 +81,9 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n√
 
 * [Jenkins CI](http://jenkins-ci.org/) | [git plugin](https://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin)
 
-* [Hudson CI](http://hudson-ci.org/) | [Git plugin](http://wiki.hudson-ci.org/display/HUDSON/Git+Plugin)
+* [Hudson CI](http://hudson-ci.org/) | [git plugin](http://wiki.hudson-ci.org/display/HUDSON/Git+Plugin)
 
-* [Atlassian Bamboo](https://www.atlassian.com/software/bamboo) - a ferramenta disponibiliza junto um suporte para uso do [Git | Bamboo Docs](https://confluence.atlassian.com/display/BAMBOO/Git)
+* [Atlassian Bamboo](https://www.atlassian.com/software/bamboo) - a ferramenta disponibiliza junto um suporte para uso do [git | Bamboo Docs](https://confluence.atlassian.com/display/BAMBOO/Git)
 
 
 ### .Net
