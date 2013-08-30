@@ -36,6 +36,10 @@
 
 --
 
+* [Top 5 CSS Tutorial Videos You Must Watch | CSSReflex](http://www.cssreflex.com/css-tutorial-videos/) - Learn a few new tips and tricks with these handpicked 5 CSS tutorial videos
+
+--
+
 * [Dynamically removing and replacing an external JavaScript or CSS file](http://www.javascriptkit.com/javatutors/loadjavascriptcss2.shtml)
 
 --
