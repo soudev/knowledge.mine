@@ -101,6 +101,8 @@
 
 * [Bootstrap Expo](http://expo.getbootstrap.com/) - Beautiful and inspiring uses of Bootstrap
 
+* [Build Bootstrap in Minutes Using Emmet | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/applications/build-bootstrap-in-minutes-using-emmet/)
+
 
 #### Build with Twitter Bootstrap
 
