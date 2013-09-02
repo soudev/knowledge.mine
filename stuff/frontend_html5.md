@@ -254,12 +254,6 @@
 
 * [Nanoko](http://nanoko.org/) - is a JavaScript modular framework enabling flexible and sustainable HTML5 applications development and their deployment on both mobile and desktop applications. [Getting Started](http://nanoko.org/?page=gettingstarted) | *utiliza o maven como base para o projeto* |
 
-
-* [lunr.js - A bit like Solr, but much smaller and not as bright](http://lunrjs.com/) - Simple full-text search in your browser
-
-  * [Building a Full-Text Index in Javascript | Gary Sieling](http://garysieling.com/blog/building-a-full-text-index-in-javascript)
-
-
 * [Resumable.js](http://www.resumablejs.com/) - A JavaScript library providing multiple simultaneous, stable and resumable **uploads** via the HTML5 File API
 
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
@@ -270,6 +264,17 @@
 
 * [[GitHub] sindresorhus / screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
+#### Text Search
+
+* [lunr.js - A bit like Solr, but much smaller and not as bright](http://lunrjs.com/) - Simple full-text search in your browser
+
+  * [Building a Full-Text Index in Javascript | Gary Sieling](http://garysieling.com/blog/building-a-full-text-index-in-javascript)
+
+* [[GitHub] brianreavis / sifter.js](https://github.com/brianreavis/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
+
+#### Gesture
+
+* [[GitHub]  roboleary / LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - A gesture learning and recognition framework for the Leap Motion
 
 #### Storage
 
@@ -433,6 +438,8 @@
 
   * [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly. 
 
+  * [[GitHub] calvinl / ng-phonegap](https://github.com/calvinl/ng-phonegap) - Grunt workflow for building AngularJS applications on PhoneGap
+  
 
 * **Andrew Trice**
 
