@@ -92,6 +92,8 @@
 
 * [[GitHub] sindresorhus / time-grunt](https://github.com/sindresorhus/time-grunt) - Displays the elapsed execution time of grunt tasks - Node.js module
 
+* [[GitHub] karlgoldstein / grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
+
 
 ##### Dicas
 
@@ -106,6 +108,8 @@
 * [[Gist] rhumaric / Gruntfile-connect-open.js](https://gist.github.com/rhumaric/5577257) - Sample configuration of grunt-contrib-connect and grunt-open to serve your project and open a browser tab to the appropriate URL
 
 * [Making Maven GruntJS | Addy Osmani](http://addyosmani.com/blog/making-maven-grunt/)
+
+* [Generate multi-resolution images for srcset with Grunt | Addy Osmani](http://addyosmani.com/blog/generate-multi-resolution-images-for-srcset-with-grunt/)
 
 
 ##### Testes
