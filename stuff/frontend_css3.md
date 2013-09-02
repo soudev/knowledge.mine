@@ -24,7 +24,9 @@
 
 * [CSS3 Keyframe Animation Demo](http://www.impressivewebs.com/demo-files/css3-animated-scene/)
 
-* [Original Hover Effects with CSS3](http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/)
+* [Original Hover Effects with CSS3 | Codrops](http://tympanus.net/codrops/2011/11/02/original-hover-effects-with-css3/)
+
+* [Creative Link Effects | Codrops](http://tympanus.net/codrops/2013/08/06/creative-link-effects/)
 
 * [How to Capture CSS3 Animation Events in JavaScript | SitePoint](http://www.sitepoint.com/css3-animation-javascript-event-handlers/)
 
