@@ -6,9 +6,11 @@
 
 * [Oracle Database](http://www.oracle.com/us/products/database/overview/index.html)
 
-* Oracle XE
+* [Oracle XE](http://www.oracle.com/technetwork/products/express-edition/overview/index.html)
 
   * [Oracle VM - Oracle XE running in VirtualBox](https://tech.lds.org/wiki/Oracle_VM)
+
+  * [How-To Connect to Oracle Database 10g Express Edition](http://www.oracle.com/technetwork/developer-tools/sql-developer/howto-connect-xe-095131.html) - Oracle XE default user/password
 
 * [Oracle MySQL](http://www.oracle.com/us/products/mysql/overview/index.html)
 
