@@ -53,5 +53,7 @@
 
 * [Tourist.js](http://easelinc.github.io/tourist/) - a simple library for creating guided tours through your app
 
+* [Hopscotch](http://linkedin.github.io/hopscotch/) - is a framework to make it easy for developers to add product tours to their pages. Hopscotch accepts a tour JSON object as input and provides an API for the developer to control rendering the tour display and managing the tour progress. (LinkedIn)
+
 * [jQuery TourBus](http://ryanfunduk.com/jquery-tourbus/)
 
