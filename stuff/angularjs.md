@@ -534,6 +534,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[SlideShare] AngularJS Animations](http://www.slideshare.net/EyalV/angularjs-animations-21435788)
 
+* [[Slid.es] Animation in AngularJS by Gias Kay Lee](http://slid.es/gsklee/animation-in-angularjs)
+
 * [AngularJS Animations](http://www.nganimate.org/)
 
 * [Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html) - AngularJS now provides full support for animations direct from it's core
