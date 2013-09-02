@@ -315,11 +315,17 @@
 
 --
 
+* [[GitHub] allouis / minivents](https://github.com/allouis/minivents) - Small event system for javascript
+
+--
+
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
 
   * [NPM](https://npmjs.org/package/xlsjs) | [JS-XLS Live Demo](http://niggler.github.io/js-xls/)
 
 * [[GitHub] jlord / sheetsee.js](https://github.com/jlord/sheetsee.js) - visualize data from a google spreadsheet 
+
+* [[GitHub] gkindel / CSV-JS](https://github.com/gkindel/CSV-JS) - A Comma-Separated Values parser for JavaScript. Standards-based, stand alone, and no regular expressions
 
 --
 
@@ -353,7 +359,7 @@
 
 * [Squel.js](http://hiddentao.github.io/squel/) - lightweight Javascript library for building SQL query strings.
 
-* [[GitHub] Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
+* [[GitHub] Prinzhorn  /skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 
 * [[GitHub] component/ infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
 
@@ -361,7 +367,27 @@
 
 * [[GitHub] tildeio / kamino.js](https://github.com/tildeio/kamino.js) - Kamino.js is a library for passing data structures between sandboxed environments in the browser via 'postMessage'
 
-* [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/)
+* [[GitHub] jpillora / xhook](https://github.com/jpillora/xhook) - Easily modify XHR requests and responses
+
+
+#### Text Search
+
+* [lunr.js - A bit like Solr, but much smaller and not as bright](http://lunrjs.com/) - Simple full-text search in your browser
+
+  * [Building a Full-Text Index in Javascript | Gary Sieling](http://garysieling.com/blog/building-a-full-text-index-in-javascript)
+
+* [[GitHub] brianreavis / sifter.js](https://github.com/brianreavis/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
+
+
+#### Crypto
+
+* [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/) - The Stanford Javascript Crypto Library is a project by the Stanford Computer Security Lab to build a secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in Javascript.
+
+
+#### Gesture
+
+* [[GitHub]  roboleary / LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - A gesture learning and recognition framework for the Leap Motion
+
 
 
 ### Design API & Biblioteca
@@ -398,6 +424,8 @@
 > Precisa e executa sobre o Node.js
 
 * [Yeoman](http://yeoman.io/) - is a  robust and opinionated set of tools, libraries, and a workflow that can  help developers quickly build beautiful, compelling web apps.
+
+  * [Yeoman 1.0](http://yeoman.io/blog/hello-1.0.html)
 
 * [Yeoman - Iniciando com Sr. Bigodes](http://www.randalmaia.com/post/49118899296/yeoman-iniciando-com-sr-bigodes)
 
