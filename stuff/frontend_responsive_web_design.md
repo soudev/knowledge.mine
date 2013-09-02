@@ -54,7 +54,19 @@
 
 * [[GitHub] BBC-News / Imager.js](https://github.com/BBC-News/Imager.js) - Responsive images while we wait for srcset to finish cooking
 
+* [Intention.js](http://intentionjs.com/) - offers a light-weight and clear way to dynamically restructure HTML in a responsive manner.
+
+* [Generate multi-resolution images for srcset with Grunt | Addy Osmani](http://addyosmani.com/blog/generate-multi-resolution-images-for-srcset-with-grunt/)
+
+* [[GitHub] toddmotto / echo](https://github.com/toddmotto/echo) - Simple raw JavaScript image lazy loading
+
+  * [Echo.js, simple JavaScript image lazy loading | toddmotto](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/)
+
 --
+
+* [FooTable](http://fooplugins.com/plugins/footable-jquery/) - is a jQuery plugin that aims to make HTML tables on smaller devices look awesome – No matter how many columns of data you may have in them.
+
+### Ferramentas
 
 * [Screenfly](https://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
 
