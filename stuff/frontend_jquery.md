@@ -64,6 +64,8 @@
 
 * [jQuery Sortable](http://johnny.github.com/jquery-sortable/)
 
+* [FooTable](http://fooplugins.com/plugins/footable-jquery/) - is a jQuery plugin that aims to make HTML tables on smaller devices look awesome – No matter how many columns of data you may have in them.
+
 * [Plugins jQuery e bibliotecas JavaScript para e-commerces | Tabless](http://tableless.com.br/plugins-jquery-e-bibliotecas-javascript-para-e-commerces/)
 
 * [Hook.js - Pull to refresh. For the web.](http://usehook.com/)
