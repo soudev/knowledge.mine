@@ -204,6 +204,16 @@
 
 * [5 of the Best Free HTML5 Presentation Systems](http://www.sitepoint.com/5-free-html5-presentation-systems/)
 
+* [SlideCaptain - Modern online presentation tool](https://www.slidecaptain.com/) - Made with JavaScript, HTML5, CSS3, Bootstrap, MongoDB, Node.js and AngularJS.
+
+* [[GitHub] hakimel / reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework
+
+  * [Example Presentations | reveal.js github wiki](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+
+  * [Reveal.js: criando apresentações no navegador | Tableless](http://tableless.com.br/reveal-js-criando-apresentacoes-no-navegador/)
+
+  * [slid.es](http://slid.es/) - The easiest way to create and share beautiful presentations. Online presentation tool based on reveal.js
+
 --
 
 * [bespoke.js](http://markdalgleish.com/projects/bespoke.js/) - DYI presentation micro-framework
@@ -211,8 +221,6 @@
   * [Bespoke.js: The Road to 1KB (Slides)](http://markdalgleish.github.io/presentation-bespoke.js-the-road-to-1kb/)
 
 --
-
-* [SlideCaptain - Modern online presentation tool](https://www.slidecaptain.com/) - Made with JavaScript, HTML5, CSS3, Bootstrap, MongoDB, Node.js and AngularJS.
 
 * [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - an image quantization library
 
