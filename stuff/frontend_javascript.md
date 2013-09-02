@@ -237,6 +237,8 @@
 
 * [Vazamento de memória em JavaScript | Loop Infinito](http://loopinfinito.com.br/2013/04/19/vazamento-de-memoria-em-javascript/) - Aprenda o que é um vazamento de memória, como identificar um vazamento de memória e como funciona a alocação, uso e liberação de memória no JavaScript.
 
+* [[Slid.es] memory by Gonzalo Ruiz de Villa](http://slid.es/gruizdevilla/memory) - Finding and debugging memory leaks in JavaScript with Chrome DevTools
+
 * [[PDF] Erik Corry: Optimization With V8 JavaScript](http://gotocon.com/dl/jaoo-aarhus-2010/slides/ErikCorry_OptimizationWithV8JavaScript.pdf)
 
 * [Why I favor while loops](http://blog.millermedeiros.com/why-i-favor-while-loops/)
