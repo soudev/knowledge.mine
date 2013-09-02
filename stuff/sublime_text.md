@@ -20,6 +20,8 @@
 
 * [Sublime Text 2 Tips and Tricks | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/)
 
+* [5 things you didn't know Sublime Text 2 could do | .net magazine](http://www.netmagazine.com/features/5-things-you-didnt-know-sublime-text-2-could-do)
+
 --
 
 * [[Gist] Sublime Text 2 - Useful Shortcuts](https://gist.github.com/1207002)
