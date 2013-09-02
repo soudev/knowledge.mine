@@ -143,6 +143,10 @@
 
 --
 
+* [mongo-express](http://andzdroid.github.io/mongo-express/) - Web-based MongoDB admin interface written with Node.js and express
+
+--
+
 * [[GitHub] chilts / flake](https://github.com/chilts/flake) - Generate practically unique (approximately sortable) IDs in a distributed environment
 
 * [[GitHub] fent / node-ytdl](https://github.com/fent/node-ytdl) - Pure Javascript youtube video downloader
@@ -210,6 +214,8 @@
 
 * [How to Write a Command Line Application in Node.js | Liang Zan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/)
 
+* [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
+
 --
 
 * [[GitHub] c9 / architect](https://github.com/c9/architect) - A simple yet powerful plugin system for large-scale node applications
@@ -243,6 +249,8 @@
 * [Loading PDFs In PhantomJS Using PDF.JS | Gary Sieling](http://www.garysieling.com/blog/integrating-phantomjs-and-pdf-js-inter-process-communication)
 
 * [Practical Examples of the New Node.js Streams API | StrongLoop](http://blog.strongloop.com/practical-examples-of-the-new-node-js-streams-api/)
+
+* [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
 
 * [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
 
