@@ -155,6 +155,10 @@
 
   * [Use Node.js to Extract Data from the Web for Fun and Profit | Stormin' The Castle](http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/)
 
+* [[GitHub] edwardhotchkiss / short](https://github.com/edwardhotchkiss/short) - Promise-based Node.js URL Shortener backed by Mongoose.js
+
+  * [[GitHub] thinkroth / shortUrl](https://github.com/thinkroth/shortUrl) - Another short url service in node.js
+
 
 ### Async / flow control
 
@@ -273,13 +277,17 @@
 
 ### NPM
 
+* [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
+
+* [NodeZoo](http://nodezoo.com/) - A search engine for reliable Node.js modules
+
+--
+
 * [npm cheatsheet | Nodejitsu](https://blog.nodejitsu.com/npm-cheatsheet)
 
 * [10 Cool Things You Probably Didn't Realize npm Could Do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do)
 
-* [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
-
-* [NodeZoo](http://nodezoo.com/) - A search engine for reliable Node.js modules
+* [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
 
 
 ### CORS
@@ -350,6 +358,8 @@
 
 * [A collection of web frameworks for Node.js | Node Web Modules](http://nodewebmodules.com/)
 
+--
+
 * [Bone.io](http://bone.io/) is a lightweight framework for building high performance Realtime Single Page HTML5 Apps
 
 * [Express.js](http://expressjs.com/)
@@ -364,5 +374,14 @@
 
   * [Using the Directory-serving middleware in Express | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/11/Using-the-Directoryserving-middleware-in-Express)
 
+--
+
+* [Socket.IO](http://socket.io/) - aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms. It's care-free realtime 100% in JavaScript.
+
+  * [[GitHub] LearnBoost / socket.io](https://github.com/learnboost/socket.io) - Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support
+
+  * [[GitHub] LearnBoost / engine.io](https://github.com/learnboost/engine.io) - is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
+
+--
 
 * [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments
