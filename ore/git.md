@@ -137,6 +137,11 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n�
 
 * [TeamForge for Git | CollabNet](http://www.collab.net/products/teamforge/git-for-the-enterprise) - [preços do suporte](http://www.collab.net/support/support-programs#git), também possuem [ALM](http://www.collab.net/support/support-programs#alm)
 
+---
+
+## Job trends
+
+* [git, subversion, mercurial, cvs, github, clearcase, ibm scm | Indeed](http://www.indeed.com/jobtrends?q=git%2C+subversion%2C+mercurial%2C+cvs%2C+github%2C+clearcase%2C+ibm+scm&l=)
 
 ---
 
