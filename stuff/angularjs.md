@@ -518,6 +518,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [n3-charts.line-chart](http://angular-d3.github.io/line-chart/) - Awesome charts for AngularJS, powered by D3.js.
 
+* [[GitHub] Schweigi / angular-gantt](https://github.com/schweigi/angular-gantt/) - A Gantt chart directive for Angular.js without any other dependencies
+
 
 ### Módulos de UI
 
@@ -556,6 +558,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] angular / angular-prs](https://github.com/angular/angular-prs)
 
 * [ng-boilerplate | Non-Trivial AngularJS Made Easy](http://joshdmiller.github.com/ng-boilerplate/) - Everything you need to kickstart AngularJS projects: a best-practice  directory structure, an intelligent build system, and the best web  design libraries around.
+
+* [[GitHub] marcorinck / ngStart](https://github.com/marcorinck/ngStart)
 
 * [[GitHub] CaryLandholt / AngularFun](https://github.com/CaryLandholt/AngularFun) - AngularJS Reference Architecture
 
