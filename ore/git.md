@@ -7,7 +7,7 @@ Controlar versões de arquivos de forma distribuída.
 
 ## O que é?
 
-O git-scm é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo. Cada checkout (resgate) é na prática um backup completo de todos os dados.
+O git-scm é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo.
 
 
 ## Qual o custo?
@@ -19,6 +19,13 @@ O git-scm é gratuito e OpenSource.
 
 O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos e não apenas de um gerenciador de código fonte, focado inicialmente para atender as necessidades do desenvolvimento do Kernel do Linux, assim possibilitando a não dependência de acesso a rede ou a um servidor central.
 
+--
+
+Como o git-scm foi projetado tendo em mente ser um sistema de arquivos, seu uso e possibilidades vão muito além de apenas o versionamento de código de software, mas pode também ser utilizado para versionamento de dados, documento, sendo estes atualizados de forma colaborativa.
+
+* [Git (e Github) para dados | iMasters](http://imasters.com.br/desenvolvimento/git-e-github-para-dados/)
+
+* [Kivo Uses Git To Make Collaborating On Documents Easier, Starting With PowerPoint | TechCrunch](http://techcrunch.com/2013/08/05/kivo-uses-git-to-make-collaborating-on-documents-easier-starting-with-powerpoint/)
 
 
 ## Referências:
@@ -149,7 +156,7 @@ O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos 
 
 * [Git-Cola](http://git-cola.github.com/)
 
-* ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - Aplicação visual para manipulação de um repositório git visualmente. Funciona em qualquer plataforma, porém necessita do Node.js para executar.
+* ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - Aplicação visual para manipulação de um repositório git visualmente. Funciona em qualquer plataforma, porém necessita do [Node.js](http://nodejs.org/) para executar.
 
 
 ### Gestão de git-scm gratuítos e OpenSource
@@ -227,9 +234,9 @@ O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos 
 
 ## Quem usa?
 
-### listados no : git-scm
+### Listados no : git-scm
 
-#### empresas
+#### Empresas
 
 * [Google](http://www.google.com) : projetos OpenSource no [GitHub](https://github.com/google)
 
@@ -248,7 +255,7 @@ O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos 
 * [NETFLIX](http://netflix.com) : projetos OpenSource no [GitHub](https://github.com/netflix)
 
 
-#### projetos
+#### Projetos
 
 * [The Perl Programming Language](http://www.perl.org/) : repositório próprio de [git](http://perl5.git.perl.org/perl.git)
 
@@ -271,9 +278,9 @@ O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos 
 * [The X.Org Foundation](http://www.x.org/wiki/) : repositório git no [freedesktop.org](http://cgit.freedesktop.org/), conforme verificado nesta [documentação](http://www.x.org/wiki/Development/BuildingX/?action=show&redirect=Development%2Fgit) para os desenvolvedores
 
 
-### não listados no : git-scm
+### Não listados no : git-scm
 
-#### empresas
+#### Empresas
 
 * [SAP](http://www.sap.com/) : projetos OpenSource no [GitHub](http://sap.github.io/)
 
@@ -297,8 +304,12 @@ O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos 
 
 * [Zarafa](http://www.zarafa.com/) : projetos em um [git](https://git.zarafa.com/) próprio | empresa especializada em sistemas de mensagem e colaboração. Mais informações sobre: [1](http://www.linuxnewmedia.com.br/lm/noticia/um_repositorio_git_para_o_zarafa) | [2](http://www.zarafa.com/news/2-february-2012-zarafa-catalyses-software-development-collaboration-launching-gitzarafacom)
 
+* [Kivo](http://www.kivo.com/) - solução para MS Power Point, na qual é utilizado o git-scm para gerenciar o versionamento e o trabalho colaborativo em apresentações. 
 
-#### projetos
+  * [Kivo Uses Git To Make Collaborating On Documents Easier, Starting With PowerPoint | TechCrunch](http://techcrunch.com/2013/08/05/kivo-uses-git-to-make-collaborating-on-documents-easier-starting-with-powerpoint/)
+
+
+#### Projetos
 
 * [Spring Source](http://www.springsource.org/) : projetos OpenSource no [GitHub](https://github.com/SpringSource)
 
@@ -319,4 +330,6 @@ O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos 
 #### Governo : Estados Unidos
 
 * [The White House](http://www.whitehouse.gov/) | [Developers](http://www.whitehouse.gov/developers) : projetos OpenSource no [GitHub](https://github.com/WhiteHouse)
+
+* [Project Open Data](http://project-open-data.github.io/) : projetos OpenSource no [GitHub](https://github.com/project-open-data)
 
