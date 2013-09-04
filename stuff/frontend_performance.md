@@ -30,6 +30,11 @@
 
 * [Acochambramento - Deixe o embed do YouTube mais leve e personalizado no seu Blog | EvelRyu](http://evelryu.com.br/deixe-o-embed-do-youtube-mais-leve-e-personalizado-no-seu-blog/)
 
+--
+
+* [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
+
+    * [Web Tracing framework do Google ajuda você se livrar do código porco | Igor Costa](http://www.igorcosta.com/web-tracing-framework-do-google-codigo-porco/)
 
 ### Rendering
 
