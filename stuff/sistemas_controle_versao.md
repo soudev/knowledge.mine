@@ -110,7 +110,17 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
-* [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
+* [ALM vendors scramble to add support for Git | Ovum](http://ovum.com/2013/06/19/alm-vendors-scramble-to-add-support-for-git/)
+
+* IBM
+
+  * [Rational Team Concert](https://jazz.net/products/rational-team-concert/)
+
+    * [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
+
+  * [Collaborative Lifecycle Management](https://jazz.net/products/clm/)
+
+    * [Connect Rational CLM to Atlassian JIRA, HP ALM, and Git or Gerrit](https://jazz.net/products/clm/features/clm_integrations)
 
 
 ### GitHub
