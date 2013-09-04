@@ -171,6 +171,8 @@
 
 * [[SlideShare] Introduction to MongoDB and Hadoop](http://www.slideshare.net/spf13/introduction-to-mongodb-and-hadoop) - An Introduction to MongoDB + an Introduction to MongoDB + Hadoop. This presentation was given at the CT Java Users Group in March 2013.
 
+* [Converting your data from MySQL to MongoDB | You are IT!](http://tamaspiros.co.uk/2013/09/03/converting-your-data-from-mysql-to-mongodb/)
+
 
 #### Ferramentas
 
