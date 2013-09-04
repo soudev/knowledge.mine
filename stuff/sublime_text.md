@@ -91,3 +91,6 @@
 * [EditorConfig](http://editorconfig.org/) - helps developers define and maintain consistent coding styles between different editors and IDEs.
 
 * [[GitHub] sindresorhus / editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) - Sublime Text plugin for EditorConfig
+
+* [EditorConfig | Tableless](http://tableless.com.br/editorconfig/) - um plugin que salva a vida de equipes inteiras
+
