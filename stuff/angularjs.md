@@ -491,11 +491,19 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular Modules](http://ngmodules.org/) - Encontre (Módulos, Plugins e Directives) para o Angular.js 
 
+--
+
 * [Simple AngularJS localStorage module (with two-way $scope bind into storage)](https://github.com/agrublev/Angular-localStorage)
+
+* [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
+
+--
 
 * [ngInfiniteScroll - Infinite Scrolling for AngularJS](http://binarymuse.github.com/ngInfiniteScroll/index.html)
 
 * [Criando um scroll Infinito com o AngularJS e JQuery | Igor Costa](http://www.igorcosta.com/criando-um-scroll-infinito-com-o-angularjs/)
+
+--
 
 * [AngularJS + Chosen Plugin = Awesome](http://onehungrymind.com/angularjs-chosen-plugin-awesome/)
 
@@ -597,7 +605,13 @@ Projeto de exemplo / estrutura inicial
 
 * [[GitHub] ricardohbin / angularjs-meetup-sp](https://github.com/ricardohbin/angularjs-meetup-sp) - Jasmine + Angular.mocks + Karma.JS
 
+--
+
 * [How To Test An AngularJS Directive | Newtriks LTD](http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
+
+* [[GitHub] vojtajina / ng-directive-testing](https://github.com/vojtajina/ng-directive-testing) - Simple example of testing Angular's directives
+
+--
 
 * [How to mock AngularJS modules and inject them in your testacular tests?](http://southdesign.de/blog/mock-angular-js-modules-for-test-di.html)
 
