@@ -4,15 +4,24 @@
 
 Controlar versões de arquivos de forma distribuída.
 
----
 
 ## O que é?
 
-O Git é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo. Cada checkout (resgate) é na prática um backup completo de todos os dados.
+O git-scm é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo. Cada checkout (resgate) é na prática um backup completo de todos os dados.
 
-O Git é gratuito e OpenSource.
 
-O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e não apenas de um gerenciador de código fonte, focado inicialmente para atender as necessidades do desenvolvimento do Kernel do Linux, assim possibilitando a não dependência de acesso a rede ou a um servidor central.
+## Qual o custo?
+
+O git-scm é gratuito e OpenSource.
+
+
+## Motivo pelo que foi criado?
+
+O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos e não apenas de um gerenciador de código fonte, focado inicialmente para atender as necessidades do desenvolvimento do Kernel do Linux, assim possibilitando a não dependência de acesso a rede ou a um servidor central.
+
+
+
+## Referências:
 
 * [Git | Wikipedia PT](https://pt.wikipedia.org/wiki/Git)
 
@@ -45,18 +54,27 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n�
 
 * Snapshots, E Não Diferenças
 
-> O Git rastreia todas as alterações ocorridas
+> O git-scm rastreia todas as alterações ocorridas
 
 * Quase Todas Operações São Locais
 
-* Git Tem Integridade
+> Apenas as operações de sincronização com outros repositórios que não são locais
+
+* git-scm Tem Integridade
 
 > A forma com que o Git identifica/versiona as alterações, utilizando checksum (algoritmo SHA-1), ou comumente chamado hash, garante a integridade e unicidade das alterações, com isso reduzindo inumeros problemas na hora de mesclar (merge) conteúdos dos arquivos, atividades executadas comumente em projetos.
 
-* Git Geralmente Só Adiciona Dados
+* git-scm Geralmente Só Adiciona Dados
+
+> Isso significa que todas as alterações no projeto são adicionadas na "base de dados" local do git-scm, com isso permitindo e possibilitando fazer qualquer alteração (experiência), que futuramente possa ser desfeita, sem nenhuma complicação
 
 * Os Três Estados
 
+> Refere-se aos 3 estados possíveis de um arquivo no repositório local:
+> consolidado (committed), modificado (modified) e preparado (staged)
+>
+> em uma das 3 possíveis sessões do repositório local:
+> o diretório do Git (git directory, repository), o diretório de trabalho (working directory), e a área de preparação (staging area)
 
 ---
 
@@ -111,6 +129,36 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n�
   * [Xcode iPhone beginner projects with GitHub integration | Leniel Macaferi's blog](http://www.leniel.net/2011/08/xcode-iphone-beginner-projects-git.html)
 
 
+### Clientes
+
+#### Windows
+
+* [msysgit](http://msysgit.github.io/)
+
+* [Atlassian SourceTree](http://www.sourcetreeapp.com/) - Git e Mercurial | apenas para Windows 7 ou superior
+
+#### Mac OS X
+
+* [Atlassian SourceTree](http://www.sourcetreeapp.com/) -  Git e Mercurial
+
+* [GitX](http://gitx.frim.nl/)
+
+#### Windows, Linux e Mac OS X
+
+* [SmartGit](http://www.syntevo.com/smartgithg)
+
+* [Git-Cola](http://git-cola.github.com/)
+
+* ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - Aplicação visual para manipulação de um repositório git visualmente. Funciona em qualquer plataforma, porém necessita do Node.js para executar.
+
+
+### Gestão de git-scm gratuítos e OpenSource
+
+* [GitLab](http://gitlab.org/) - Software de gerenciamento de git-scm. Mantenha e gerencie seu código no seu próprio servidor git. [[GitHub] gitlabhq / gitlabhq](https://github.com/gitlabhq/gitlabhq)
+
+* [Gitorious](http://getgitorious.com/) | [Installation](https://gitorious.org/gitorious/pages/Installation)
+
+
 ---
 
 ## Suporte comercial / empresarial
@@ -136,6 +184,12 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n�
 ### CollabNet
 
 * [TeamForge for Git | CollabNet](http://www.collab.net/products/teamforge/git-for-the-enterprise) - [preços do suporte](http://www.collab.net/support/support-programs#git), também possuem [ALM](http://www.collab.net/support/support-programs#alm)
+
+
+### Gitorious
+
+* [Gitorious behind your firewall](http://www.gitorious.com/local_install/) | [Princing](http://www.gitorious.com/pricing) | [Professional support](http://www.gitorious.com/support) | [Git training](http://www.gitorious.com/training)
+
 
 ---
 
@@ -232,6 +286,10 @@ O Git foi modelado do ponto de vista de um sistema de arquivos distribuidos e n�
 * [Abril](http://www.abril.com.br/) : projetos OpenSource no [GitHub](https://github.com/abril)
 
 * [Globo.com](http://www.globo.com/) : projetos OpenSource no [GitHub](https://github.com/globocom)
+
+* [OpenSuse](http://www.opensuse.org/) : repositório no [Gitorious](https://gitorious.org/opensuse)
+
+* [XBMC Media Center](http://xbmc.org/) : repositório no [Gitorious](https://gitorious.org/xbmc)
 
 * [Rakuten](http://www.rakuten.co.jp/) : projetos internos em [git utilizando o Atlassian Stash](https://www.atlassian.com/company/customers/case-studies/rakuten) | Empresa de e-Commerce japonesa.
 
