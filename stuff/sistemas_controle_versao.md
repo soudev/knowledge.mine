@@ -79,7 +79,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Git Reference](http://gitref.org/)
 
-* [Saíndo do Básico com Git | developerWorks IBM](http://www.ibm.com/developerworks/br/local/opensource/saindo_basico_git/) - Aprendendo a reescrever histórico e a rearranjar commits (18/06/2013)
+* [Saíndo do Básico com Git | developerWorks IBM](http://www.ibm.com/developerworks/br/local/opensource/saindo_basico_git/) - Aprendendo a reescrever histórico e a rearranjar commits (18/06/2013) | escrito por: Fernando Granha Jeronimo, Engenheiro de Software, Linux Technology Center - IBM
 
 --
 
@@ -106,7 +106,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Git Behind the Firewall with Atlassian Stash | Matthew Riley](http://matthewriley.us/git-behind-the-firewall-with-atlassian-stash/) (28/02/2013)
 
-* [Git Branching and Forking in the Enterprise: Why Fork? | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
+* [Git Branching and Forking in the Enterprise | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/) - Why Fork?
 
 --
 
@@ -118,9 +118,12 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
     * [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
 
+    * [Integrating Rational Team Concert and Git | Help - IBM Rational Software](http://pic.dhe.ibm.com/infocenter/clmhelp/v4r0m2/index.jsp?topic=%2Fcom.ibm.team.connector.cq.doc%2Ftopics%2Fc_integ_git.html)
+
   * [Collaborative Lifecycle Management](https://jazz.net/products/clm/)
 
-    * [Connect Rational CLM to Atlassian JIRA, HP ALM, and Git or Gerrit](https://jazz.net/products/clm/features/clm_integrations)
+    * [Connect Rational CLM to Atlassian JIRA, HP ALM, and Git or Gerrit | Jazz Community](https://jazz.net/products/clm/features/clm_integrations) - possibilidade de integrar ao Atlassian Jira e ao Git
+
 
 
 ### GitHub
@@ -451,6 +454,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ### Windows, Linux e Mac
 
+* [GitEye | CollabNet](http://www.collab.net/giteyeapp)
+
 * [SmartGit](http://www.syntevo.com/smartgithg)
 
 * [Git-Cola](http://git-cola.github.com/)
@@ -467,8 +472,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Tips and Tricks: Using Eclipse with GitHub](http://eclipsesource.com/blogs/2012/08/28/tips-and-tricks-using-eclipse-with-github/)
 
 * [Git version control with Eclipse (EGit) - Tutorial](http://www.vogella.com/articles/EGit/article.html)
-
-
 
 
 

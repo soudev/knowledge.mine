@@ -31,14 +31,8 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * O CVS foi utilizado como exemplo do que não fazer (o Linus Torvalds, tem uma visão similar do SVN)
 
---
 
-* [Git (e Github) para dados | iMasters](http://imasters.com.br/desenvolvimento/git-e-github-para-dados/)
-
-* [Kivo Uses Git To Make Collaborating On Documents Easier, Starting With PowerPoint | TechCrunch](http://techcrunch.com/2013/08/05/kivo-uses-git-to-make-collaborating-on-documents-easier-starting-with-powerpoint/)
-
-
-## Referências:
+## Referências
 
 * [Git | Wikipedia PT](https://pt.wikipedia.org/wiki/Git)
 
@@ -78,6 +72,8 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * Snapshots, E Não Diferenças
 
 > O git-scm rastreia todas as alterações ocorridas
+>
+> A maior diferença entre Git e qualquer outro VCS (Subversion e similares inclusos) está na forma que o Git trata os dados.
 
 * Quase Todas Operações São Locais
 
@@ -98,6 +94,25 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 >
 > em uma das 3 possíveis sessões do repositório local:
 > o diretório do Git (git directory, repository), o diretório de trabalho (working directory), e a área de preparação (staging area)
+
+---
+
+## Exemplos de Workflows
+
+> Possibilita definir e utilizar vários tipos de [workflow's](http://git-scm.com/about/distributed)
+
+* Estilo SVN
+
+* Colaborativo
+
+* Ditadorial
+
+### Colaboração
+
+* [Git (e Github) para dados | iMasters](http://imasters.com.br/desenvolvimento/git-e-github-para-dados/)
+
+* [Kivo Uses Git To Make Collaborating On Documents Easier, Starting With PowerPoint | TechCrunch](http://techcrunch.com/2013/08/05/kivo-uses-git-to-make-collaborating-on-documents-easier-starting-with-powerpoint/)
+
 
 ---
 
@@ -127,7 +142,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * [Atlassian Bamboo](https://www.atlassian.com/software/bamboo) - a ferramenta disponibiliza junto um suporte para uso do [git | Bamboo Docs](https://confluence.atlassian.com/display/BAMBOO/Git)
 
 
-### .Net
+### Microsoft .Net
 
 * Notícia sobre o início do suporte da Microsoft ao Git 
 
@@ -176,7 +191,10 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * [GitX](http://gitx.frim.nl/)
 
+
 #### Windows, Linux e Mac OS X
+
+* [GitEye | CollabNet](http://www.collab.net/giteyeapp)
 
 * [SmartGit](http://www.syntevo.com/smartgithg)
 
@@ -190,6 +208,8 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * [GitLab](http://gitlab.org/) - Software de gerenciamento de git-scm. Mantenha e gerencie seu código no seu próprio servidor git. [[GitHub] gitlabhq / gitlabhq](https://github.com/gitlabhq/gitlabhq)
 
 * [Gitorious](http://getgitorious.com/) | [Installation](https://gitorious.org/gitorious/pages/Installation)
+
+* [Redmine](http://www.redmine.org/) - gerenciamento de projetos, possui integração com SCMs (SVN, CVS, [Git](http://www.redmine.org/projects/redmine/wiki/HowTo_configure_Redmine_for_advanced_git_integration), Mercurial, Bazaar e Darcs)
 
 
 ---
@@ -250,11 +270,24 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * [Git Behind the Firewall with Atlassian Stash | Matthew Riley](http://matthewriley.us/git-behind-the-firewall-with-atlassian-stash/) (28/02/2013)
 
-* [Git Branching and Forking in the Enterprise: Why Fork? | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/)
+* [Git Branching and Forking in the Enterprise | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/) - Why Fork?
 
 --
 
-* [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
+* [ALM vendors scramble to add support for Git | Ovum](http://ovum.com/2013/06/19/alm-vendors-scramble-to-add-support-for-git/)
+
+* IBM
+
+  * [Rational Team Concert](https://jazz.net/products/rational-team-concert/)
+
+    * [Integrating other SCM Systems with Rational Team Concert 2.0 | Jazz Community](https://jazz.net/library/article/194/) - Git e IBM RTC
+
+    * [Integrating Rational Team Concert and Git | Help - IBM Rational Software](http://pic.dhe.ibm.com/infocenter/clmhelp/v4r0m2/index.jsp?topic=%2Fcom.ibm.team.connector.cq.doc%2Ftopics%2Fc_integ_git.html)
+
+  * [Collaborative Lifecycle Management](https://jazz.net/products/clm/)
+
+    * [Connect Rational CLM to Atlassian JIRA, HP ALM, and Git or Gerrit | Jazz Community](https://jazz.net/products/clm/features/clm_integrations) - possibilidade de integrar ao Atlassian Jira e ao Git
+
 
 ---
 
