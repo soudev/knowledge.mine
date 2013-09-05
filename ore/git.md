@@ -9,7 +9,7 @@ Gerenciar versões de arquivos de forma distribuída.
 
 * O git-scm é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS) | SCM = Source Code Management
 
-* Os clientes não apenas fazem cópias das últimas versões dos arquivos, eles são cópias completas do repositório
+* Os clientes não apenas fazem cópias das últimas versões dos arquivos, eles são cópias completas do repositório 
 
 * Caso um servidor falhar, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo (facilidade de backup)
 
@@ -32,7 +32,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * O CVS foi utilizado como exemplo do que não fazer (o Linus Torvalds, tem uma visão similar do SVN)
 
 
-## Referências
+### Referências
 
 * [Git | Wikipedia PT](https://pt.wikipedia.org/wiki/Git)
 
@@ -41,7 +41,6 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * [Sobre Controle de Versão | Pro Git](http://git-scm.com/book/pt-br/Primeiros-passos-Sobre-Controle-de-Vers%C3%A3o)
 
 
----
 
 ## Objetivos do git-scm
 
@@ -52,20 +51,21 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * Design simples
 
 * Suporte robusto ao desenvolvimento não linear
-  
+
   * Facilidade de criar e mesclar milhares de branches paralelos
 
 * Totalmente distribuído
-  
+
   * Possibilita definir e utilizar vários tipos de [workflow's](http://git-scm.com/about/distributed)
 
 * Capaz de lidar com grandes projetos
-  
-  *Exemplo: Kernel do Linux 
 
----
+  * Exemplo: Kernel do Linux
 
-## Principais características e diferenças dos demais sistemas de controle de versão
+
+
+
+## Principais características
 
 [Noções Básicas de Git | Pro Git](http://git-scm.com/book/pt-br/Primeiros-passos-No%C3%A7%C3%B5es-B%C3%A1sicas-de-Git)
 
@@ -95,7 +95,8 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 > em uma das 3 possíveis sessões do repositório local:
 > o diretório do Git (git directory, repository), o diretório de trabalho (working directory), e a área de preparação (staging area)
 
----
+
+
 
 ## Exemplos de Workflows
 
@@ -114,7 +115,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * [Kivo Uses Git To Make Collaborating On Documents Easier, Starting With PowerPoint | TechCrunch](http://techcrunch.com/2013/08/05/kivo-uses-git-to-make-collaborating-on-documents-easier-starting-with-powerpoint/)
 
 
----
+
 
 ## Integração com ferramentas
 
@@ -212,7 +213,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * [Redmine](http://www.redmine.org/) - gerenciamento de projetos, possui integração com SCMs (SVN, CVS, [Git](http://www.redmine.org/projects/redmine/wiki/HowTo_configure_Redmine_for_advanced_git_integration), Mercurial, Bazaar e Darcs)
 
 
----
+
 
 ## Suporte comercial / empresarial
 
@@ -244,13 +245,14 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * [Gitorious behind your firewall](http://www.gitorious.com/local_install/) | [Princing](http://www.gitorious.com/pricing) | [Professional support](http://www.gitorious.com/support) | [Git training](http://www.gitorious.com/training)
 
 
----
+
 
 ## Job trends
 
-* [git, subversion, mercurial, cvs, github, clearcase, ibm scm | Indeed](http://www.indeed.com/jobtrends?q=git%2C+subversion%2C+mercurial%2C+cvs%2C+github%2C+clearcase%2C+ibm+scm&l=)
+* [git, subversion, mercurial, github, clearcase, jazz | Indeed](http://www.indeed.com/jobtrends?q=git%2C+subversion%2C+mercurial%2C+github%2C+clearcase%2C+jazz&l=)
 
----
+
+
 
 ## Git em empresas
 
@@ -262,7 +264,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * [Using Git in Enterprise environment | Programmers Stack Exchange](http://programmers.stackexchange.com/questions/96915/using-git-in-enterprise-environment)
 
---
+---
 
 * [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
 
@@ -272,7 +274,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * [Git Branching and Forking in the Enterprise | Atlassian](http://blogs.atlassian.com/2013/05/git-branching-and-forking-in-the-enterprise-why-fork/) - Why Fork?
 
---
+---
 
 * [ALM vendors scramble to add support for Git | Ovum](http://ovum.com/2013/06/19/alm-vendors-scramble-to-add-support-for-git/)
 
@@ -289,7 +291,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
     * [Connect Rational CLM to Atlassian JIRA, HP ALM, and Git or Gerrit | Jazz Community](https://jazz.net/products/clm/features/clm_integrations) - possibilidade de integrar ao Atlassian Jira e ao Git
 
 
----
+
 
 ## Quem usa?
 
@@ -320,7 +322,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * [PostgreSQL](http://www.postgresql.org/) : repositório próprio de [git](http://git.postgresql.org/gitweb/)
 
-* [Android](http://www.android.com/) : repositório próprio de [git](https://android-review.googlesource.com/#/q/status:open,n,z) 
+* [Android](http://www.android.com/) : repositório próprio de [git](https://android-review.googlesource.com/#/q/status:open,n,z)
 
 * [Linux Kernel](https://www.kernel.org/) : repositório próprio de [git](https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git)
 
