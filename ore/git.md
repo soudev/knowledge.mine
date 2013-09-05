@@ -2,26 +2,36 @@
 
 ## Para que serve?
 
-Controlar versões de arquivos de forma distribuída.
+Gerenciar versões de arquivos de forma distribuída.
 
 
 ## O que é?
 
-O git-scm é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS). Em um DVCS, os clientes não apenas fazem cópias das últimas versões dos arquivos: eles são cópias completas do repositório. Assim, se um servidor falha, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo.
+* O git-scm é um Sistema de Controle de Versão Distribuído (Distributed Version Control System ou DVCS) | SCM = Source Code Management
+
+* Os clientes não apenas fazem cópias das últimas versões dos arquivos, eles são cópias completas do repositório
+
+* Caso um servidor falhar, qualquer um dos repositórios dos clientes pode ser copiado de volta para o servidor para restaurá-lo (facilidade de backup)
 
 
 ## Qual o custo?
 
-O git-scm é gratuito e OpenSource.
+O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU General Public License.
 
 
-## Motivo pelo que foi criado?
+## Por que foi criado?
 
-O git-scm foi modelado do ponto de vista de um sistema de arquivos distribuidos e não apenas de um gerenciador de código fonte, focado inicialmente para atender as necessidades do desenvolvimento do Kernel do Linux, assim possibilitando a não dependência de acesso a rede ou a um servidor central.
+* O git-scm foi criado para atender as necessidades de desenvolvimento do Kernel do Linux
+
+* Ser um sistema de arquivos distribuído, não apenas um gerenciador de código fonte
+
+* Possibilitar o desenvolvimento mesmo sem acesso a rede ou a um servidor central 
+
+* Proteger contra corrompimento de arquivos, seja por acidente ou origem maldosa
+
+* O CVS foi utilizado como exemplo do que não fazer (o Linus Torvalds, tem uma visão similar do SVN)
 
 --
-
-Como o git-scm foi projetado tendo em mente ser um sistema de arquivos, seu uso e possibilidades vão muito além de apenas o versionamento de código de software, mas pode também ser utilizado para versionamento de dados, documento, sendo estes atualizados de forma colaborativa.
 
 * [Git (e Github) para dados | iMasters](http://imasters.com.br/desenvolvimento/git-e-github-para-dados/)
 
@@ -39,19 +49,25 @@ Como o git-scm foi projetado tendo em mente ser um sistema de arquivos, seu uso 
 
 ---
 
-## Objetivos
+## Objetivos do git-scm
 
 * Velocidade
 
+* Capacidade de lidar com grande volume de dados
+
 * Design simples
 
-* Suporte robusto a desenvolvimento não linear (milhares de branches paralelos)
+* Suporte robusto ao desenvolvimento não linear
+  
+  * Facilidade de criar e mesclar milhares de branches paralelos
 
 * Totalmente distribuído
+  
+  * Possibilita definir e utilizar vários tipos de [workflow's](http://git-scm.com/about/distributed)
 
-> Sobre a possibilidade de vários [workflow's](http://git-scm.com/about/distributed)
-
-* Capaz de lidar eficientemente com grandes projetos como o kernel do Linux (velocidade e volume de dados)
+* Capaz de lidar com grandes projetos
+  
+  *Exemplo: Kernel do Linux 
 
 ---
 
@@ -119,12 +135,20 @@ Como o git-scm foi projetado tendo em mente ser um sistema de arquivos, seu uso 
 
   * [Git init VS | Brian Harry's blog : MSDN](https://blogs.msdn.com/b/bharry/archive/2013/01/30/git-init-vs.aspx)
 
+  * [Microsoft Announces Git Support For Visual Studio, Team Foundation Server And Service | TechCrunch](http://techcrunch.com/2013/01/30/microsoft-announces-git-support-for-visual-studio-team-foundation-server-and-service/) (30/01/2013)
+
   * [TFS Now Integrated with Git | Visual Studio Magazine](http://visualstudiomagazine.com/articles/2012/08/13/tfs-now-integrated-with-git.aspx) (13/08/2012)
+
+  * [Getting started with Git and TFS | ALM Guide - Esteban Garcia](http://www.almguide.com/2013/04/getting-started-with-git-and-tfs/)
 
 
 * [Visual Studio 2012 update 3](https://www.microsoft.com/en-us/download/details.aspx?id=39305) | [Visual Studio Tools for Git](http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c) - Free
 
 * [Getting Started with Git in Visual Studio and Team Foundation Service | MSDN](https://blogs.msdn.com/b/visualstudioalm/archive/2013/01/30/getting-started-with-git-in-visual-studio-and-team-foundation-service.aspx)
+
+* [Create a new code project in a local Git repo using Visual Studio with Git | Team Foundation Service](http://tfs.visualstudio.com/en-us/learn/create-code-project-vs-git.aspx)
+
+* [Git support for Visual Studio - Git, TFS, and VS put into Context | Scott Hanselman](http://www.hanselman.com/blog/GitSupportForVisualStudioGitTFSAndVSPutIntoContext.aspx)
 
 * [Use Git and Xcode with TFS](http://tfs.visualstudio.com/en-us/learn/use-git-and-xcode-with-tfs.aspx)
 
@@ -143,6 +167,8 @@ Como o git-scm foi projetado tendo em mente ser um sistema de arquivos, seu uso 
 * [msysgit](http://msysgit.github.io/)
 
 * [Atlassian SourceTree](http://www.sourcetreeapp.com/) - Git e Mercurial | apenas para Windows 7 ou superior
+
+* [TortoiseGit](https://code.google.com/p/tortoisegit/)
 
 #### Mac OS X
 

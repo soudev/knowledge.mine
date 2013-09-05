@@ -446,6 +446,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Atlassian SourceTree](http://www.sourcetreeapp.com/) - Git e Mercurial | apenas para Windows 7 ou superior
 
+* [TortoiseGit](https://code.google.com/p/tortoisegit/)
+
 
 ### Windows, Linux e Mac
 
@@ -511,11 +513,30 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 #### Microsoft
 
-* [Microsoft Announces Git Support For Visual Studio, Team Foundation Server And Service | TechCrunch](http://techcrunch.com/2013/01/30/microsoft-announces-git-support-for-visual-studio-team-foundation-server-and-service/) (30/01/2013)
+* [Windows Azure SDK team on GitHub](http://windowsazure.github.io/)
+
+* Notícia sobre o início do suporte da Microsoft ao Git 
+
+  * [Visual Studio 2012 ganha suporte a Git | InfoQ Br](http://www.infoq.com/br/news/2013/02/vs2012-suporte-git)
+
+  * [Git init VS | Brian Harry's blog : MSDN](https://blogs.msdn.com/b/bharry/archive/2013/01/30/git-init-vs.aspx)
+
+  * [Microsoft Announces Git Support For Visual Studio, Team Foundation Server And Service | TechCrunch](http://techcrunch.com/2013/01/30/microsoft-announces-git-support-for-visual-studio-team-foundation-server-and-service/) (30/01/2013)
+
+  * [TFS Now Integrated with Git | Visual Studio Magazine](http://visualstudiomagazine.com/articles/2012/08/13/tfs-now-integrated-with-git.aspx) (13/08/2012)
+
+  * [Getting started with Git and TFS | ALM Guide - Esteban Garcia](http://www.almguide.com/2013/04/getting-started-with-git-and-tfs/)
+
+
+* [Visual Studio 2012 update 3](https://www.microsoft.com/en-us/download/details.aspx?id=39305) | [Visual Studio Tools for Git](http://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c) - Free
+
+* [Getting Started with Git in Visual Studio and Team Foundation Service | MSDN](https://blogs.msdn.com/b/visualstudioalm/archive/2013/01/30/getting-started-with-git-in-visual-studio-and-team-foundation-service.aspx)
+
+* [Create a new code project in a local Git repo using Visual Studio with Git | Team Foundation Service](http://tfs.visualstudio.com/en-us/learn/create-code-project-vs-git.aspx)
 
 * [Git support for Visual Studio - Git, TFS, and VS put into Context | Scott Hanselman](http://www.hanselman.com/blog/GitSupportForVisualStudioGitTFSAndVSPutIntoContext.aspx)
 
-* [Windows Azure SDK team on GitHub](http://windowsazure.github.io/)
+* [Use Git and Xcode with TFS](http://tfs.visualstudio.com/en-us/learn/use-git-and-xcode-with-tfs.aspx)
 
 
 #### Globo.com
