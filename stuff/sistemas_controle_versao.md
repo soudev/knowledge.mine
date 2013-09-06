@@ -9,7 +9,14 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 * Sistemas de Controle de Versão Distribuídos (ex.: Git, Mercurial, Bazaar ou Darcs)
 
 
-## Comparacão entre Subversion, Mercurial e Git
+## Comparação entre SCMs
+
+* [Comparison of revision control software | Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
+
+* [Git Versus Subversion Versus Rational Team Concert | developerWorks IBM](https://www.ibm.com/developerworks/community/blogs/amcohen/entry/git_versus_subversion_versus_rational_team_concert_basic_commandline_syntax_reference313?lang=en) - Basic Commandline Syntax Reference
+
+
+### Comparacão entre Subversion, Mercurial e Git
 
 * [Parte 1](http://pronus.eng.br/blog/http:/pronus.eng.br/blog/comparacao-entre-subversion-mercurial-e-git-parte-1)
 
@@ -33,7 +40,6 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 
 * [Using Rational Team Concert on Mac with Xcode (Part 1) | Jazz Community](https://jazz.net/library/article/979/)
 
-* [Git Versus Subversion Versus Rational Team Concert | developerWorks IBM](https://www.ibm.com/developerworks/community/blogs/amcohen/entry/git_versus_subversion_versus_rational_team_concert_basic_commandline_syntax_reference313?lang=en) - Basic Commandline Syntax Reference
 
 
 ## Git e GitHub 
