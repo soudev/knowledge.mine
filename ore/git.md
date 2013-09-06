@@ -168,6 +168,8 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * [Use Git and Xcode with TFS](http://tfs.visualstudio.com/en-us/learn/use-git-and-xcode-with-tfs.aspx)
 
+* [NuGet](https://www.nuget.org/) - [sobre](http://msdn.microsoft.com/pt-br/magazine/hh547106.aspx) | repositório [git no codeplex](https://nuget.codeplex.com/SourceControl/latest) | projetos no [GitHub](https://github.com/NuGet)
+
 
 ### Apple
 
@@ -290,6 +292,7 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
     * [Connect Rational CLM to Atlassian JIRA, HP ALM, and Git or Gerrit | Jazz Community](https://jazz.net/products/clm/features/clm_integrations) - possibilidade de integrar ao Atlassian Jira e ao Git
 
+    * [[YouTube] IBM Rational Lifecycle Integration Adapter Standard Edition Overview](https://www.youtube.com/watch?v=irNeT1UWvmE) - This video introduces IBM Rational Lifecycle Adapters for HP ALM, Atlassian JIRA and Git, and how they integrate IBM Rational ALM tools (Rational Requirements Composer, Rational Team Concert and Rational Quality Manager) with non-IBM tools (HP ALM, JIRA and Git). The topics addressed include: - Rational Lifecycle Adapters - Open Services for Lifecycle Collaboration (OSLC) - Rational Adapter for HP ALM - Rational Adapter for Git - Rational Adapter for JIRA
 
 
 
