@@ -256,6 +256,8 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * A Microsoft oferece suporte ao uso do git-scm dentro do Team Foundation Server a partir do 2012, sendo uma das opções disponíveis para o versionamento de código ao criar um novo projeto no TFS
 
+  * [Enterprise grade Git - Brian Harry's blog | MSDN Blogs](http://blogs.msdn.com/b/bharry/archive/2013/06/19/enterprise-grade-git.aspx)
+
   * [Create a new code project in a local Git repo using Visual Studio with Git | Team Foundation Service](http://tfs.visualstudio.com/en-us/learn/create-code-project-vs-git.aspx)
 
   * [Create, Connect, and Publish using Visual Studio with Git - Visual Studio ALM + Team Foundation Server Blog | MSDN Blogs](http://blogs.msdn.com/b/visualstudioalm/archive/2013/02/06/set-up-connect-and-publish-using-visual-studio-with-git.aspx)
