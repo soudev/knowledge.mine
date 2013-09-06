@@ -1,5 +1,24 @@
 # git-scm
 
+## SCM Corporativo : pontos a serem considerados 
+
+* Colaboração
+
+> Facilitar ao máximo a evolução dos produtos corporativos por qualquer desenvolvedor capacitado para o mesmo
+
+* Integração
+
+> Garantir que a ferramenta de SCM integre-se com a maior gama de tecnologias possíveis (.NET, Java, IOS, Android, Windows Phone)
+
+* Suporte
+
+> Ter a possibilidade de acionar especialistas para resolver problemas ou orientar o melhor uso de alguma funcionalidade
+
+* Curva de Aprendizado
+
+> Garantir que a usabilidade da ferramenta de SCM seja imediata e de fácil entendimento. Se os usuários desta não a considerarem simples e intuitiva, a resistência será muito alta
+
+
 ## Para que serve?
 
 Gerenciar versões de arquivos de forma distribuída.
@@ -220,6 +239,27 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 ## Suporte comercial / empresarial
 
 * Suporte comercial no Brasil, desconhecido se existe
+
+
+### RedHat 
+
+* A RedHat oferece suporte ao uso do git-scm no RedHat Enterprise Linux a partir da versão 5
+
+  * [Documentação | RedHat Enterprise Linux](https://access.redhat.com/site/documentation/Red_Hat_Enterprise_Linux/)
+
+  * [Chapter 2. Collaborating](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Developer_Guide/collaborating.html)
+
+    * [2.3. Git](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/6/html/Developer_Guide/collaboration.git.html)
+
+
+### Microsoft
+
+* A Microsoft oferece suporte ao uso do git-scm dentro do Team Foundation Server a partir do 2012, sendo uma das opções disponíveis para o versionamento de código ao criar um novo projeto no TFS
+
+  * [Create a new code project in a local Git repo using Visual Studio with Git | Team Foundation Service](http://tfs.visualstudio.com/en-us/learn/create-code-project-vs-git.aspx)
+
+  * [Create, Connect, and Publish using Visual Studio with Git - Visual Studio ALM + Team Foundation Server Blog | MSDN Blogs](http://blogs.msdn.com/b/visualstudioalm/archive/2013/02/06/set-up-connect-and-publish-using-visual-studio-with-git.aspx)
+
 
 ### Atlassian
 
