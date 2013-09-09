@@ -101,7 +101,7 @@
     
     * [The Prototype Pattern](http://carldanley.com/js-prototype-pattern/)
     
-    * The Facade Pattern
+    * [The Facade Pattern](http://carldanley.com/js-facade-pattern/)
     
     * The Factory Pattern
     
@@ -165,10 +165,15 @@
 
 * [Dynamically removing and replacing an external JavaScript or CSS file](http://www.javascriptkit.com/javatutors/loadjavascriptcss2.shtml)
 
+--
+
 * [Prime Numbers, Factorial, and Fibonacci Series with JavaScript Array](http://ariya.ofilabs.com/2013/07/prime-numbers-factorial-and-fibonacci-series-with-javascript-array.html)
 
 * [Searching with Array.prototype.some](http://ariya.ofilabs.com/2013/08/searching-with-array-prototype-some.html) - ECMAScript 5.1
 
+* [How to remove an element from an array | Simone Web Design](http://simonewebdesign.it/blog/how-to-remove-element-from-array/)
+
+--
 
 * [[Speaker Deck] Categorizing values: typeof, instanceof and beyond | Axel Rauschmayer](https://speakerdeck.com/rauschma/categorizing-values-typeof-instanceof-and-beyond) - You have probably heard of two common ways of categorizing values in JavaScript: typeof and instanceof. In this talk, we first review the basics of this kind of categorization and then move on to quirks and advanced topics: primitive values versus objects; typeof and instanceof (and their quirks); the internal property [[Class]]; the odd nature of the prototypes of built-in constructors; and more.
 
@@ -280,6 +285,8 @@
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example.
 
 * [RequireJS – Optimizing and Building One File](http://orizens.com/wp/topics/requirejs-optimizing-and-building-one-file/)
+
+* [How to load jQuery plugins with RequireJS | Simone Web Design](http://simonewebdesign.it/blog/how-to-load-jquery-plugins-with-requirejs/)
 
 
 ##### Backbone.js
@@ -426,6 +433,8 @@
 
 * [Console e Command Line API | Loop Infinito](http://loopinfinito.com.br/2013/03/13/console-command-line-api/)
 
+* [Getting a Head Start with Front End Generators | Flippin' Awesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
+
 
 #### Yeoman
 
@@ -521,6 +530,11 @@
 * [Frictionless AMD with Jam | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/frictionless-amd-with-jam/)
 
 * [Managed JavaScript with JamJS | zerokspot](http://zerokspot.com/weblog/2012/09/16/managed-js-with-jamjs/)
+
+
+### Single Page Application
+
+* [[GitHub] imrefazekas / leaper.js](https://github.com/imrefazekas/leaper.js) - is a simple javascript library to aid creation of single-page web-applications. It follows declarative way to define pages making the markings simpler and straightforward.
 
         
 ### Frameworks MVC
