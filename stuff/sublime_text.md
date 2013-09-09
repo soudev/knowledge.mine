@@ -37,6 +37,11 @@
 
 ## Dicas
 
+### Setup
+
+* [Documented my SublimeText setup in case your interested | VIPickering](http://vincentp.me/blog/sublime-text-setup)
+
+
 ### Build
 
 * [Custom Sublime Text Build Systems For Popular Tools And Languages | AddyOsmani.com](http://addyosmani.com/blog/custom-sublime-text-build-systems-for-popular-tools-and-languages/)
