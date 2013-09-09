@@ -85,6 +85,10 @@
 
 * [[YouTube] Node.js Explained](https://www.youtube.com/watch?v=L0pjVcIsU6A)
 
+--
+
+* [Node.js processando em paralelo | iMasters](http://imasters.com.br/desenvolvimento/node-js-processando-em-paralelo/) 
+
 
 
 ## Casos de Uso
@@ -158,6 +162,10 @@
 * [[GitHub] edwardhotchkiss / short](https://github.com/edwardhotchkiss/short) - Promise-based Node.js URL Shortener backed by Mongoose.js
 
   * [[GitHub] thinkroth / shortUrl](https://github.com/thinkroth/shortUrl) - Another short url service in node.js
+
+--
+
+* [[GitHub] leetreveil / node-musicmetadata](https://github.com/leetreveil/node-musicmetadata) - Streaming music metadata parser for node, written in pure Javascript
 
 
 ### Async / flow control
