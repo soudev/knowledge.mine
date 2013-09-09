@@ -109,6 +109,10 @@
 
 * [Tessel](http://technical.io/) - JavaScript right on the hardware 
 
+  * [[YouTube] Tessel Preview: Pushing code, servos, and UDP](https://www.youtube.com/watch?v=XCwKzipBIaA)
+
+--
+
 * [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
 
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
