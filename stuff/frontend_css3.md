@@ -20,7 +20,12 @@
 
 * [Como usar linear-gradient em CSS de forma consciente? | Tableless](http://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/)
 
+* [Responsive CSS3 Slider Without Javascript | CSScience](http://csscience.com/responsiveslidercss3/)
+
+
 ### Animation
+
+* [CSS3 Animation Cheat Sheet | Justin Aguilar](http://www.justinaguilar.com/animations/)
 
 * [CSS3 Keyframe Animation Demo](http://www.impressivewebs.com/demo-files/css3-animated-scene/)
 
@@ -31,6 +36,8 @@
 * [How to Capture CSS3 Animation Events in JavaScript | SitePoint](http://www.sitepoint.com/css3-animation-javascript-event-handlers/)
 
 * [Introduction to Animating in HTML | Flippin' Awesome](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
+
+* [The Guide To CSS Animation: Principles and Examples | Smashing Coding](http://coding.smashingmagazine.com/2011/09/14/the-guide-to-css-animation-principles-and-examples/)
 
 * [[GitHub] daneden / animate.css](https://github.com/daneden/animate.css) - Cross-browser CSS3 animations. Plug and play. Do a little dance.
 
