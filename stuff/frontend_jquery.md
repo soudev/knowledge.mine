@@ -88,3 +88,5 @@
 
 * [Tag-it!](http://aehlke.github.io/tag-it/) - Simple and configurable tag editing widget with autocomplete support
 
+* [Loadie.js](http://9elements.github.io/loadie.js/) - A lightweight jQuery loader plugin
+
