@@ -50,6 +50,8 @@
 
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 
+* [[GitHub] bradbirdsall / Swipe](https://github.com/bradbirdsall/Swipe) - is the most accurate touch slider
+
 * [Shifty!](http://jeremyckahn.github.io/shifty/) - is a tweening engine built in JavaScript. It is designed to fit any number of tweening needs
 
 * [[GitHub] colintoh / skylo](https://github.com/colintoh/skylo) - Twitter Bootstrap Extension to add progress bar at the top of the page
@@ -65,6 +67,7 @@
 
 * [JQuery UI tools](http://jquerytools.org/)
 
+* [TouchSwipe: a jQuery plugin for touch and gesture-based interaction | Awwwards](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html)
 
 
 ### Template Engine
