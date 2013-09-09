@@ -83,6 +83,8 @@
 
 * [Saiba tudo sobre favicons e como eles funcionam | Tableless](http://tableless.com.br/favicons/)
 
+* [[GitHub] audreyr / favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types
+
 * [Tinycon](http://tommoor.github.com/tinycon/) - A small library for manipulating the favicon
 
 * [[GitHub] lipka / piecon](https://github.com/lipka/piecon/) - A tiny javascript library for generating progress pie charts in your favicon. 
