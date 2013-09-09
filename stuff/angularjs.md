@@ -256,8 +256,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   
 * [[GitHub] matthiasn / BirdWatch](https://github.com/matthiasn/BirdWatch) - Tweet stream analysis and visualization using AngularJS, Bootstrap, D3.js, ElasticSearch and Play Framework | [Blog post](http://matthiasnehlsen.com/blog/2013/08/13/birdwatch-angularjs-elasticsearch-play/)
 
+* [AngularFire](http://angularfire.com/) - A real-time backend for AngularJS from [Firebase](https://www.firebase.com/)
+
 
 ## Dicas
+
+* [[Android App] AngularJS Pocket Reference](https://play.google.com/store/apps/details?id=com.angularpocketreference.app&amp;amp;hl=en)
 
 * [Conjunto de materiais úteis](http://mattkruse.com/angular/) - PDFs
 
@@ -361,6 +365,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] tyson-benson / Internationalization with AngularJS](https://github.com/tyson-benson/Internationalization-with-AngularJS) - i18n
 
 * [[Gist] i18n Helper function for Javascript](https://gist.github.com/3353635)
+
+* [Easy global i18n angularJS language translations for your Angular app | ng-newsletter](http://www.ng-newsletter.com/posts/angular-translate.html)
 
 
 ### Escopo e informações
