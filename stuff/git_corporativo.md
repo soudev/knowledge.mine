@@ -414,6 +414,15 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
   * [Kivo Uses Git To Make Collaborating On Documents Easier, Starting With PowerPoint | TechCrunch](http://techcrunch.com/2013/08/05/kivo-uses-git-to-make-collaborating-on-documents-easier-starting-with-powerpoint/)
 
+* [CERN](http://home.web.cern.ch/) - Organização Europeia para a Investigação Nuclear, maior laboratório de física de partículas do mundo e referência global no assunto, faz uso do sistema em suas pesquisas relacionadas a partículas de energia. 
+
+  * Projetos OpenSource no [GitHub](https://github.com/CERN)
+
+  * Projetos Git hospedados pelo CERN : [git.cern.ch](http://git.cern.ch/pubweb/)
+
+  * CERN › IT DEPARTMENT › SERVICES › [GIT SERVICE](http://information-technology.web.cern.ch/services/git-service)
+
+
 
 #### Projetos
 
@@ -438,4 +447,30 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 * [The White House](http://www.whitehouse.gov/) | [Developers](http://www.whitehouse.gov/developers) : projetos OpenSource no [GitHub](https://github.com/WhiteHouse)
 
 * [Project Open Data](http://project-open-data.github.io/) : projetos OpenSource no [GitHub](https://github.com/project-open-data)
+
+
+
+## Posso confiar em uma solução OpenSource?
+
+* Relembrando que o git-scm foi criado para manter e comportar o desenvolvimento do Kernel do Linux, para ter uma pequena noção da importância do Kernel do Linux, é bom saber onde este é utilizado
+
+* [10 coisas que não existiriam se não fosse o Linux | TecMundo](http://www.tecmundo.com.br/linux/12021-10-coisas-que-nao-existiriam-se-nao-fosse-o-linux.htm) - O sistema operacional livre mais famoso do mundo está em vários lugares é mais importante do que você pode imaginar.
+
+  * Grandes servidores
+
+  * Sistemas de controle de tráfego aéreo
+
+  * Sistemas de alta tecnologia para controle de tráfego
+
+  * Android
+
+  * Trem de alta velocidade japonês
+
+  * Bolsa de Nova York
+
+  * Carros inteligentes da Toyota
+
+  * Acelerador de partícula (CERN)
+
+  * Submarinos nucleares
 
