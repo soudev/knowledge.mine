@@ -12,6 +12,10 @@
 
 * [Recursos para aprender noSQL | iMasters](http://imasters.com.br/banco-de-dados/recursos-para-aprender-nosql/)
 
+--
+
+* [[YouTube] Configuring an LDAP Server](https://www.youtube.com/watch?v=KQdQ3ITG_Vg)
+
 
 ## Comparação
 
@@ -172,6 +176,12 @@
 * [[SlideShare] Introduction to MongoDB and Hadoop](http://www.slideshare.net/spf13/introduction-to-mongodb-and-hadoop) - An Introduction to MongoDB + an Introduction to MongoDB + Hadoop. This presentation was given at the CT Java Users Group in March 2013.
 
 * [Converting your data from MySQL to MongoDB | You are IT!](http://tamaspiros.co.uk/2013/09/03/converting-your-data-from-mysql-to-mongodb/)
+
+--
+
+* [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
+
+* [How to use Go language and MongoDB | g33k talk](http://g33ktalk.com/10gen-how-we-use-go-and-mongodb-by-sam-helman/)
 
 
 #### Ferramentas
