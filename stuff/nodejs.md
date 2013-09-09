@@ -109,13 +109,19 @@
 
 * [Tessel](http://technical.io/) - JavaScript right on the hardware 
 
+  * [Tessel - Dragon Innovation](http://www.dragoninnovation.com/projects/22-tessel) - Technical Machine - hardware module that speak javascript - totally amazing
+
   * [[YouTube] Tessel Preview: Pushing code, servos, and UDP](https://www.youtube.com/watch?v=XCwKzipBIaA)
 
 --
 
-* [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
-
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
+
+* Arduino
+
+  * [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
+
+  * [NodeBots](http://nodebots.io/) - The Rise of JS Robotics
 
 --
 
@@ -170,6 +176,11 @@
 --
 
 * [[GitHub] leetreveil / node-musicmetadata](https://github.com/leetreveil/node-musicmetadata) - Streaming music metadata parser for node, written in pure Javascript
+
+--
+
+* [VNC client on 200 lines of JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
+
 
 
 ### Async / flow control
@@ -272,9 +283,13 @@
 
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
+* [[GitHub] Sendanor / nor-fs](https://github.com/Sendanor/nor-fs) - chainable asynchronous file system library for Node.js
+
 --
 
 * [Full HTTPS REST server in Node.js | Bogomil Shopov](http://talkweb.eu/full-https-rest-server-in-node-js/)
+
+* [[GitHub] imrefazekas / connect-rest](https://github.com/imrefazekas/connect-rest) - Exceptionally featureful Restful web services middleware for connect node.js
 
 --
 
@@ -325,6 +340,8 @@
 
 * [Node.js and MongoDB | Modulus Blog](http://blog.modulus.io/getting-started-with-mongoose) - Getting Started with Mongoose
 
+* [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
+
 
 ### Nuvem
 
@@ -374,6 +391,7 @@
 
 * [Bone.io](http://bone.io/) is a lightweight framework for building high performance Realtime Single Page HTML5 Apps
 
+
 * [Express.js](http://expressjs.com/)
 
   * [Node.js com Express.js nos negócios | iMasters](http://imasters.com.br/front-end/javascript/node-js-com-express-js-nos-negocios/)
@@ -385,6 +403,14 @@
   * [Building a simple blog with NodeJS and Express | KOPIS.DE](http://blog.kopis.de/2012/01/30/building-a-simple-blog-with-nodejs-and-express/) | [[GitHub] MoriTanosuke / blode](https://github.com/MoriTanosuke/blode) - Simple blog framework with NodeJS (post write in markdown)
 
   * [Using the Directory-serving middleware in Express | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/11/Using-the-Directoryserving-middleware-in-Express)
+
+  * [Using Express.js for APIs | StrongLoop](http://blog.strongloop.com/using-express-js-for-apis)
+
+
+* [Geddy](http://geddyjs.org/) - A simple, structured web framework for Node
+
+  * [In the Loop: Geddy – a Simple Node.js Web Framework | StrongLoop](http://blog.strongloop.com/in-the-loop-geddy/)
+
 
 --
 
