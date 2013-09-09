@@ -86,6 +86,10 @@
 
 * [Designing a Secure REST (Web) API without OAuth | The Buzz Media](http://www.thebuzzmedia.com/designing-a-secure-rest-api-without-oauth-authentication/)
 
+--
+
+* [[SlideShare] The RESTful Soa Datagrid with Oracle](http://www.slideshare.net/EmilianoPecis/the-restful-soa-datagrid-with-oracle) - It transforms and caches any SOA based application in REST. A proxy "soap to rest" is provided, using Oracle Service Bus and Oracle Coherence.(22/04/2009) [Slide 11 é interessante]
+
 
 ## Desenvolvimento
 
