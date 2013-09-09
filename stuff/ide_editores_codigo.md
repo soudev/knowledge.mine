@@ -17,6 +17,9 @@
 
 * [Plunker](http://plnkr.co/) - is an online community for creating, collaborating on and sharing your web development ideas.
 
+* [Nitrous.io](https://www.nitrous.io/) - cloud IDE supporting Ruby, Python, Go, NodeJS
+
+
 ### Eclipse Orion
 
 * [Eclipse Orion](http://www.eclipse.org/orion/) - Open Source Platform For Cloud Based Development
