@@ -55,6 +55,8 @@
 
 * [Bootstrap 3 Upgrade Service. Convert Bootstrap 2.x to 3](http://upgrade-bootstrap.bootply.com/)
 
+* [Bootstrap 3: Nova aparência e mais componentes | iMasters](http://imasters.com.br/noticia/bootstrap-3-nova-aparencia-e-mais-componentes/)
+
 --
 
 * [Você já conhece o Twitter Bootstrap?](http://joaovagner.com.br/2012/09/20/voce-ja-conhece-o-twitter-bootstrap/)
