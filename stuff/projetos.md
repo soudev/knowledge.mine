@@ -1,6 +1,11 @@
 # Projetos 
 
+* [[YouTube] Paradigma dos Macacos](https://www.youtube.com/watch?v=g5G0qE7Lf0A)
+
 * [Why Do Developers Contribute to Open Source Projects? - Website Magazine](http://www.websitemagazine.com/m/Blog/Post/27064?name=why-developers-contribute-to-open-source-projects)
+
+* [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
+
 
 ## ALM
 
@@ -39,3 +44,9 @@
 * [Pedaços de XP, FDD, Scrum e Kanban na Análise de Negócio e Engenharia de Requisitos](http://www.infoq.com/br/presentations/agile-negocio-requisitos) - Utilizando partes de técnicas do FDD, XP, Scrum, Kanban e outros, o  palestrante pôde fazer uma experiência muito produtiva em Análise e  Modelagem de Negócios e Requisitos. Neste relato, é exposto o cenário  padrão da Elicitação de Requisitos ao longo do desenvolvimento, os  problemas enfrentados e o que levou a equipe a escolher pedaços de  vários frameworks e métodos ágeis.
 
 * [Kanban Avançado - Além de Visualizações e Limites](http://www.infoq.com/br/presentations/kanban-avancado) - Kanban, uma abordagem Lean para trabalho do conhecimento, é a nova  onda na evolução em gestão e desenvolvimento ágil. Atualmente a  comunidade tem se fixado nas características mais simples deste método.  Nesta palestra são explorados os principais fundamentos e propriedades  avançadas de um sistema Kanban para quem busca maior maturidade e  previsibilidade dentro de sistemas complexos.
+
+
+## Integração Contínua
+
+* [Série Continuous Integration: Rodando o Jenkins a partir do Jetty no Windows 7 | iMasters](http://imasters.com.br/linguagens/java/serie-continuous-integration-rodando-o-jenkins-a-partir-do-jetty-no-windows-7/)
+
