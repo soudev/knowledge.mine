@@ -76,6 +76,8 @@
 
 * [LivIcons](http://livicons.com/) - Truly animated icon pack with power of scalable vector graphic for clean and perfect look at any devices.
 
+* [Fontastic](http://fontastic.me/) - Create Your Icon Fonts - Free icon Vectors
+
 
 ### FavIcon
 
@@ -87,7 +89,10 @@
 
 * [Tinycon](http://tommoor.github.com/tinycon/) - A small library for manipulating the favicon
 
+* [favico.js](http://lab.ejci.net/favico.js/) - Make a use of your favicon with badges, images or videos
+
 * [[GitHub] lipka / piecon](https://github.com/lipka/piecon/) - A tiny javascript library for generating progress pie charts in your favicon. 
+
 
 ### SVG
 
