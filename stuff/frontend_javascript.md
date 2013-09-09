@@ -43,6 +43,8 @@
 
 * [Javascript hoisting explained | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/)
 
+* [Variable and Function Hoisting in JavaScript | Design Pepper](http://designpepper.com/blog/drips/variable-and-function-hoisting)
+
 * [An Introduction to IIFEs - Immediately Invoked Function Expressions | Design Pepper](http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions)
 
 --
@@ -446,6 +448,9 @@
 
 
 #### DevTools
+
+* [NiDIUM](http://www.nidium.com/) - A new browser engine
+
 
 ##### Firefox
 
