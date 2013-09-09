@@ -110,3 +110,5 @@
 
 * [Bootplus](http://aozora.github.io/bootplus/) - Sleek, intuitive, and powerful Google styled front-end framework for faster and easier web development.
 
+* [Flatstrap](http://flatstrap.org/) - Flat design bootstrap templates.
+
