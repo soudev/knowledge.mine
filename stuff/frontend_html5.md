@@ -168,6 +168,8 @@
 
 * [Storing Javascript objects in LocalStorage | DroidIT Blog](http://blog.droidit.eu/javascript-2/storing-javascript-objects-in-localstorage/)
 
+* [Dropbox Datastores and Drop-Ins | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/dropbox-datastores-and-drop-ins/)
+
 
 #### Performance
 
@@ -210,9 +212,12 @@
 
   * [Example Presentations | reveal.js github wiki](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
 
+  * [reveal.js is available on npm](https://npmjs.org/package/reveal.js)
+
   * [Reveal.js: criando apresentações no navegador | Tableless](http://tableless.com.br/reveal-js-criando-apresentacoes-no-navegador/)
 
   * [slid.es](http://slid.es/) - The easiest way to create and share beautiful presentations. Online presentation tool based on reveal.js
+
 
 --
 
@@ -318,6 +323,8 @@
 * [EndGate](http://endgate.net/) - a game framework to build powerful HTML5 games
 
 * [Getting Started With HTML5 Game Development | Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
+
+* [Senshi | Zolmeister](http://www.zolmeister.com/2013/09/senshi-mmo-battle-royale-inspired-html5.html) - an open source MMO Battle-Royale inspired HTML5 game
 
 
 ##### Game Engine
