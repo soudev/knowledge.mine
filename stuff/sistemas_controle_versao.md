@@ -91,7 +91,9 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Controle de versão com Git | Simplificando Isto (ponto) Net](http://simplificandoisto.net/andre/blog/controle-de-versao-com-git/)
 
-* [Top 10 Git Tutorials for Beginners](http://sixrevisions.com/resources/git-tutorials-beginners/)
+* [7 Useful Git Tips for Beginners | Six Revisions](http://sixrevisions.com/web-development/git-tips/)
+
+* [Top 10 Git Tutorials for Beginners | Six Revisions](http://sixrevisions.com/resources/git-tutorials-beginners/)
 
 
 ### Git em empresas
@@ -209,6 +211,20 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
+
+### SVN para GIT
+
+* [Mudando do Subversion para o Git: antes tarde do que nunca | Pseudo-blog](http://luthiano.com/2012/11/12/mudando-do-subversion-para-o-git-antes-tarde-do-que-nunca/)
+
+* [conversão do svn | git ready](http://pt-br.gitready.com/iniciante/2009/02/04/converting-from-svn.html)
+
+--
+
+* [Como migrar um repositório de códigos Svn para Git | iMasters](http://imasters.com.br/desenvolvimento/como-migrar-um-repositorio-de-codigos-svn-para-git/)
+
+* [8.2 Git e Outros Sistemas - Migrando para o Git | Pro Git](http://git-scm.com/book/pt-br/Git-e-Outros-Sistemas-Migrando-para-o-Git)
+
+* [Migrando um repositório SVN para GIT | leonardofaria.net](http://leonardofaria.net/2013/01/04/migrando-um-repositorio-svn-para-git/)
 
 
 ### Branch
