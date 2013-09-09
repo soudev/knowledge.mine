@@ -34,6 +34,8 @@
 
 * [[GitHub] daneden / animate.css](https://github.com/daneden/animate.css) - Cross-browser CSS3 animations. Plug and play. Do a little dance.
 
+* [[GitHub] ThrivingKings / animo.js](https://github.com/ThrivingKings/animo.js) - A powerful little tool for managing CSS animations
+
 
 ### Ferramentas
 
