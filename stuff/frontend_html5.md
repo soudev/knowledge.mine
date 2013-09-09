@@ -433,6 +433,8 @@
 
 * [Hardware-Accelerated Page Transitions for Mobile Web Apps / PhoneGap Apps](http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps)
 
+* [[GitHub] ccoenraets / pull-to-refresh](https://github.com/ccoenraets/pull-to-refresh) - Example of Using Pull-To-Refresh in PhoneGap / Cordova apps
+
 
 * **Angular.js**
 
