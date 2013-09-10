@@ -157,6 +157,12 @@
 
 * [Fusing WebGL, CSS 3D and HTML - Zero to Sixty in One Second | Acko.net](http://acko.net/blog/zero-to-sixty-in-one-second/)
 
+* [Using WebGL to Add 3D Effects to Your Website | HTML5 Hub](http://html5hub.com/using-webgl-to-add-3d-effects-to-your-website)
+
+--
+
+* [HTML5 Game Development | Eric Terpstra](http://slides.ericterpstra.com/html5games) - A presentation on getting started creating games on the web.
+
 
 #### Storage
 
@@ -169,6 +175,10 @@
 * [Storing Javascript objects in LocalStorage | DroidIT Blog](http://blog.droidit.eu/javascript-2/storing-javascript-objects-in-localstorage/)
 
 * [Dropbox Datastores and Drop-Ins | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/dropbox-datastores-and-drop-ins/)
+
+* [[YoutTube] Google Cloud Storage - Getting started with the JavaScript Sample Application](https://www.youtube.com/watch?v=8ytpvQJNOU8) - This demonstration covers getting started with Google Cloud Storage using JavaScript
+
+  * [[GitHub] GoogleCloudPlatform / storage-getting-started-javascript](https://github.com/GoogleCloudPlatform/storage-getting-started-javascript/) - This is a simple web-based example of calling the Google Cloud Storage API in JavaScript
 
 
 #### Performance
@@ -238,6 +248,8 @@
 * [[GitHub] meenie / 8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds
 
 * [[GitHub]  meenie / band.js](https://github.com/meenie/band.js) - Music composer interface for the Web Audio API.
+
+  * [Retro Game Music using Web Audio and Band.js  | Flippin' Awesome](http://flippinawesome.org/2013/09/09/retro-game-music-using-web-audio-and-band-js/)
 
 --
 
