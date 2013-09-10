@@ -41,6 +41,8 @@
 
 * [Documented my SublimeText setup in case your interested | VIPickering](http://vincentp.me/blog/sublime-text-setup)
 
+* [My Top 10 Sublime Text Plugins | Henrique Barroso](http://www.henriquebarroso.com/my-top-10sublime-2-plugins/)
+
 
 ### Build
 
