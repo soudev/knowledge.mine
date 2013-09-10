@@ -198,6 +198,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Learn AngularJS With These 5 Practical Examples | Tutorialzine](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
 
+* [Angular Cats! An AngularJS Adventure Anthology](http://ericterpstra.com/2012/09/angular-cats-an-angularjs-adventure-anthology/)
+
 
 ### CoffeeScript
 
@@ -261,7 +263,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Dicas
 
+* [The AngularJS Magazine | Flipboard](https://flipboard.com/section/the-angularjs-magazine-bP12ur) - All about AngularJS! Tweet article suggestions to @DanWahlin.
+
+  * [The AngularJS Magazine – What’s New this Week? | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/08/23/the-angularjs-magazine-what-s-new-this-week.aspx)
+
+--
+
 * [[Android App] AngularJS Pocket Reference](https://play.google.com/store/apps/details?id=com.angularpocketreference.app&amp;amp;hl=en)
+
+--
 
 * [Conjunto de materiais úteis](http://mattkruse.com/angular/) - PDFs
 
@@ -324,6 +334,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [AngularJS + Cloud Endpoints: A Recipe for Building Modern Web Applications | Cloud Platform](https://cloud.google.com/resources/articles/angularjs-cloud-endpoints-recipe-for-building-modern-web-applications)
+
+* [Laravel 4 & AngularJS E2E secured SPA | Neoxia.com](http://blog.neoxia.com/laravel4-and-angularjs/) | [[GitHub] neoxia / laravel4-angularjs-security](https://github.com/neoxia/laravel4-angularjs-security)
 
 --
 
@@ -402,6 +414,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Authentication in AngularJS (or similar) based application](http://www.espeo.pl/2012/02/26/authentication-in-angularjs-application)
 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
+
+
 
 
 ### PhoneGap
@@ -508,6 +522,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Simple AngularJS localStorage module (with two-way $scope bind into storage)](https://github.com/agrublev/Angular-localStorage)
 
 * [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
+
+--
+
+* [[GitHub] pc035860 / ngQueue](https://github.com/pc035860/ngQueue) - ngQueue is an AngularJS module that helps you to handle routine sync/async queue task in AngularJS with ease.
 
 --
 
@@ -630,6 +648,8 @@ Projeto de exemplo / estrutura inicial
 * [How to mock AngularJS modules and inject them in your testacular tests?](http://southdesign.de/blog/mock-angular-js-modules-for-test-di.html)
 
 * [Supplying Mocks for Services via $provide | Tech Pro](http://tech.pro/tutorial/1517/supplying-mocks-for-services-via-provide)
+
+* [Mocking Server Dependencies in JavaScript and AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
 
 * [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
 
