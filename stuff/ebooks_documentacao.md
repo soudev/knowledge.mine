@@ -24,6 +24,10 @@
 
 --
 
+* [Plataformatec Guideline](http://guidelines.plataformatec.com.br/) - Code conventions and general guidelines used at [Plataformatec](http://plataformatec.com.br/).
+
+--
+
 * [Semantic Versioning](http://semver.org/) - Every wonder how to version your software? There's a whole methodology behind X.Y.Z
 
 --
@@ -33,6 +37,10 @@
 --
 
 * [NerdyData](http://nerdydata.com/) - Source code search engine
+
+--
+
+* [7 Useful Mobile HTML, CSS, and JavaScript Snippets | Tech Pro](http://tech.pro/blog/1557/7-useful-mobile-html-css-and-javascript-snippets)
 
 --
 
