@@ -15,6 +15,8 @@
 
   * [Site](http://designmodo.com/flat-free/) - [Demo](http://designmodo.com/demo/flat-ui/) - [[GitHub] Code](https://github.com/iurevych/Flat-UI)
   
+* [Free Download: Flattastic UI kit | Webdesigner Depot](http://www.webdesignerdepot.com/2013/08/free-download-flattastic-ui-kit/)
+
 
 * [Responsive Grid System](http://www.responsivegridsystem.com/) - Spectacularly Easy Responsive Design
 
@@ -56,6 +58,8 @@
 * [Bootstrap 3 Upgrade Service. Convert Bootstrap 2.x to 3](http://upgrade-bootstrap.bootply.com/)
 
 * [Bootstrap 3: Nova aparência e mais componentes | iMasters](http://imasters.com.br/noticia/bootstrap-3-nova-aparencia-e-mais-componentes/)
+
+* [Bootstrap 3 PSD: Free For Commercial And Personal Use! | Design Shock](http://www.designshock.com/bootstrap-3-psd/)
 
 --
 
