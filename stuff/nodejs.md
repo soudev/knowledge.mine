@@ -117,11 +117,27 @@
 
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
 
+
 * Arduino
+
+  * [NodeBots](http://nodebots.io/) - The Rise of JS Robotics
+
+  * [[GitHub] ecto / duino](https://github.com/ecto/duino) - Arduino framework for node.js
 
   * [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
 
-  * [NodeBots](http://nodebots.io/) - The Rise of JS Robotics
+  * [heimcontrol.js](http://ni-c.github.io/heimcontrol.js/) - Awesome home automation with Raspberry PI and Arduino using Node.js, MongoDB, HTML5 and Websockets
+
+
+* RaspberryPi
+
+  * [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
+
+--
+
+* [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript. 
+
+  * [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
 
 --
 
@@ -140,8 +156,6 @@
 * [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
 
 * [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
-
-* [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
 
 * [[GitHub] gravityonmars / nodejs-starter](https://github.com/gravityonmars/nodejs-starter) - Simple project setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap
 
@@ -181,6 +195,7 @@
 
 * [VNC client on 200 lines of JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
 
+* [[GitHub] ConradIrwin / unicode-dragon](https://github.com/ConradIrwin/unicode-dragon) - eats invalid unicode for breakfast
 
 
 ### Async / flow control
@@ -222,6 +237,8 @@
 * [Production Node.js Secrets](http://dshaw.github.com/2012-05-jsday/)
 
 * Hardening Node.js for production [part 1](http://blog.argteam.com/coding/hardening-nodejs-production-process-supervisor/) | [part 2](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/) | [part 3](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
+
+* [Testing Tuesday #20: Continuous Deployment for node.js applications | CodeShip Blog](http://blog.codeship.io/2013/08/27/testing-tuesday-20-continuous-deployment-for-node-js-applications.html)
 
 --
 
