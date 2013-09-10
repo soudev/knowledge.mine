@@ -165,6 +165,8 @@
 
 * [Dynamically removing and replacing an external JavaScript or CSS file](http://www.javascriptkit.com/javatutors/loadjavascriptcss2.shtml)
 
+* [Extract info from a web page using JavaScript | Dan Goldin](http://dangoldin.com/2013/08/26/extract-info-from-a-web-page-using-javascript/)
+
 --
 
 * [Prime Numbers, Factorial, and Fibonacci Series with JavaScript Array](http://ariya.ofilabs.com/2013/07/prime-numbers-factorial-and-fibonacci-series-with-javascript-array.html)
@@ -483,6 +485,8 @@
 * [Grunt Task Runner Extension for Chrome Developer Tools](https://github.com/vladikoff/grunt-devtools) - tests
 
 * [Discover DevTools | Code School](http://www.codeschool.com/courses/discover-devtools) - Sharpen your dev process with Chrome DevTools
+
+* [Breakpoint Actions in JavaScript | RandomThink.net](http://www.randomthink.net/blog/2012/11/breakpoint-actions-in-javascript/)
 
 * [CSS Prettifier Bookmarklet](https://github.com/addyosmani/cssprettifier-bookmarklet) - Um bookmarklet para unminify seu CSS no navegador
 
