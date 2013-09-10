@@ -48,6 +48,8 @@
 
 * [Using JavaScript to get the actual viewport width | Tyson Matanich](http://www.matanich.com/2013/01/07/viewport-size/)
 
+* [How to build standards-compliant responsive design using @viewport | Webdesigner Depot](http://www.webdesignerdepot.com/2013/08/how-to-build-standards-compliant-responsive-design-using-viewport/)
+
 --
 
 * [FlowType.JS](http://simplefocus.com/flowtype/) - Web typography at its finest: font-size and line-height based on element width.
