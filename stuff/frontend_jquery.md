@@ -56,6 +56,8 @@
 
 * [Unheap - A tidy repository of jQuery plugins](http://www.unheap.com/)
 
+* [The Badass List of Essential jQuery Plugins](http://hasinhayder.github.io/essential-jquery-plugins/)
+
 * [Useful JavaScript Libraries and jQuery Plugins](http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/)
 
 * [15+ jQuery Popup Modal Dialog Plugins and Tutorials](http://choosedaily.com/1178/15-jquery-popup-modal-dialog-plugins-tutorials/)
@@ -87,6 +89,8 @@
 * [imagefill.js](http://johnpolacek.github.io/imagefill.js/) - The jQuery plugin for making an image fill its container (and be centered)
 
 * [Tag-it!](http://aehlke.github.io/tag-it/) - Simple and configurable tag editing widget with autocomplete support
+
+* [Selectize.js](http://brianreavis.github.io/selectize.js/) - is the hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, and so on.
 
 * [Loadie.js](http://9elements.github.io/loadie.js/) - A lightweight jQuery loader plugin
 
