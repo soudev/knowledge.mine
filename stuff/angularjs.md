@@ -16,6 +16,8 @@
 
 * O projeto utiliza o Jenkins CI para efetuar os builds [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org)
 
+  * [NodeJS Plugin - Jenkins | Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin)
+
 * [[YouTube] Breaking Open: AngularJS. Great interview with Misko Hevery, Angularjs Framework author](https://www.youtube.com/watch?v=X0VsStcCCM8)
 
 
@@ -218,6 +220,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Part 6: Services](http://www.ng-newsletter.com/posts/beginner2expert-services.html)
 
+* [Part 7: Next steps](http://www.ng-newsletter.com/posts/beginner2expert-config.html)
+
 
 ### Dailyjs.com : Angular.js
 
@@ -300,6 +304,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Angular backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
+
+* [D3.js on AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/d3-on-angular.html) | [[GitHub] EpiphanyMachine / d3AngularIntegration](https://github.com/EpiphanyMachine/d3AngularIntegration) - A tutorial about the integration of d3 and Angular Directives
 
 * [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
 
@@ -409,6 +415,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Facebook authentication in your AngularJS web app | Web Development blog](http://blog.brunoscopelliti.com/facebook-authentication-in-your-angularjs-web-app)
 
+* [Authentication to a RESTful web service in an AngularJS web app | Web Development blog](http://blog.brunoscopelliti.com/authentication-to-a-restful-web-service-in-an-angularjs-web-app)
+
 * [AngularJS: Send auth token with every request](http://nils-blum-oeste.net/angularjs-send-auth-token-with-every--request/)
 
 * [Authentication in AngularJS (or similar) based application](http://www.espeo.pl/2012/02/26/authentication-in-angularjs-application)
@@ -465,6 +473,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 
 * [AngularJS directives | Coding Insight](http://www.codinginsight.com/angularjs-directives/)
+
+* [Build custom directives with AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/directives.html)
 
 --
 
