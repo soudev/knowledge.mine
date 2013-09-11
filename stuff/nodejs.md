@@ -37,6 +37,7 @@
 
 * [Node.js Jenkins-CI](http://jenkins.nodejs.org/) - To  support a higher degree of stability, and hopefully catch issues sooner,  we (node.js team) have a Jenkins instance running every commit through  the test suite, on each operating system we support.
 
+  * [NodeJS Plugin - Jenkins | Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin)
 
 
 ## Aprendizado
@@ -168,6 +169,12 @@
 * [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
 
 * [[GitHub] dharmafly / noodle](https://github.com/dharmafly/noodle) - A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST
+
+
+* [Hapi : server framework for Node.js](http://spumko.github.io/)
+
+  * [Node.js and Hapi - Creating a REST API | Modulus Blog](http://blog.modulus.io/nodejs-and-hapi-create-rest-api)
+
 
 --
 
