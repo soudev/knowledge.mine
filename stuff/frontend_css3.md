@@ -23,6 +23,11 @@
 * [Responsive CSS3 Slider Without Javascript | CSScience](http://csscience.com/responsiveslidercss3/)
 
 
+### Dicas
+
+* [Client-side full-text search in CSS | Redo The Web](http://redotheweb.com/2013/05/15/client-side-full-text-search-in-css.html) - and a little bit of JS
+
+
 ### Animation
 
 * [CSS3 Animation Cheat Sheet | Justin Aguilar](http://www.justinaguilar.com/animations/)
