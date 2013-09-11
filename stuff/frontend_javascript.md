@@ -53,6 +53,8 @@
 
 * [Avoiding the *this* problem in JavaScript | Tech.Pro](http://tech.pro/tutorial/1192/avoiding-the-this-problem-in-javascript)
 
+* [Demystifying *this*](http://toshsharma.github.io/presentation-this) - Understanding the 'this' keyword in JavaScript. by Ashutosh Sharma
+
 * [Understanding Scope and Context in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/)
 
 --
