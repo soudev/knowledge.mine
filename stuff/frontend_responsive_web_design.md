@@ -32,6 +32,8 @@
 
 * [Responsive Web Design is Not the Future](http://sixrevisions.com/mobile/responsive-web-design-not-the-future/) - Is responsive web design the ultimate solution for addressing the increasing number of ways people are accessing the Web?
 
+* [Responsive Design is Not About Screen Sizes Any More | Speckyboy Design Magazine](http://speckyboy.com/2013/09/11/responsive-design-is-not-about-screen-sizes-any-more)
+
 * [Slides para Devs #3 – Responsive Web Design | Tableless](http://tableless.com.br/slides-para-devs-3-responsive-web-design/)
 
 * [The State Of Responsive Web Design | Smashing Mobile](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/)
