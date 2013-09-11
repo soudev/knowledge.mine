@@ -122,6 +122,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Why Does Angular.js Rock? | Angular Tips](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock)
 
+* [AngularJS Insights | Pascal Precht](http://pascalprecht.github.io/slides/angularjs-insights/)
+
 --
 
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
@@ -475,6 +477,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS directives | Coding Insight](http://www.codinginsight.com/angularjs-directives/)
 
 * [Build custom directives with AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/directives.html)
+
+* [Mastering AngularJS Directives | Pascal Precht](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 
 --
 
