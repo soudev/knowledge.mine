@@ -163,6 +163,11 @@
 
 * [HTML5 Game Development | Eric Terpstra](http://slides.ericterpstra.com/html5games) - A presentation on getting started creating games on the web.
 
+* [Getting Started With HTML5 Game Development | Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
+
+* [Using the Web Speech API to Create Voice Driven HTML5 Games | HTML5 Hub](http://html5hub.com/using-the-web-speech-api/)
+
+
 
 #### Storage
 
@@ -326,8 +331,6 @@
 
 #### Games
 
-* [Using the Web Speech API to Create Voice Driven HTML5 Games | HTML5 Hub](http://html5hub.com/using-the-web-speech-api/)
-
 * [Largest Directory of HTML5 Games](http://html5games.com/)
 
 * [[GitHub] FuzzYspo0N / realtime-multiplayer-in-html5](https://github.com/FuzzYspo0N/realtime-multiplayer-in-html5) - an example using node.js, socket.io and HTML5 Canvas to explain and demonstrate realtime multiplayer games in the browser.
@@ -335,8 +338,6 @@
 * [Unreal Engine in the browser](http://www.unrealengine.com/html5/)
 
 * [EndGate](http://endgate.net/) - a game framework to build powerful HTML5 games
-
-* [Getting Started With HTML5 Game Development | Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
 
 * [Senshi | Zolmeister](http://www.zolmeister.com/2013/09/senshi-mmo-battle-royale-inspired-html5.html) - an open source MMO Battle-Royale inspired HTML5 game
 
