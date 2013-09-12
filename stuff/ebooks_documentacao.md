@@ -49,6 +49,11 @@
 * [How to send HTTP requests using cURL | makandropedia](https://makandracards.com/makandra/1145-how-to-send-http-requests-using-curl)
 
 
+## Eventos
+
+* [Google I/O](https://developers.google.com/events/io/)
+
+
 ## Podcast
 
 * [GrokPodcast](http://www.grokpodcast.com/) - podcast sobre assuntos de desenvolvimento e tecnologias 
