@@ -61,31 +61,21 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ## Aprendizado
 
-* [Why Git is Better than X](http://thkoch2001.github.io/whygitisbetter/)
-
-* [git-scm: Pro Git book - online pt-br](http://git-scm.com/book/pt-br/)
+* [git-scm: Pro Git book](http://git-scm.com/book/pt-br/) - livro online completo sobre git, em português
 
 * [Using Git | GitHub:Help](https://help.github.com/categories/19/articles)
 
-* [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git)
-
-* [Comandos básicos do Git | GustavoHenrique.net](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
-
-* [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
-
-* Tabless - Iniciando no GIT : [Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/) | [Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/)
+--
 
 * [Começando com Git | DPW](http://desenvolvimentoparaweb.com/indicacoes/comecando-com-git/)
 
-* [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
+* [Comandos básicos do Git | GustavoHenrique.net](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
 
-* [git - guia prático - sem complicação!](http://rogerdudler.github.com/git-guide/index.pt_BR.html)
-
-* [Try Git - Code School](http://www.codeschool.com/courses/try-git) - curso online
-
-* [Git Reference](http://gitref.org/)
+* Tabless - Iniciando no GIT : [Parte 1](http://tableless.com.br/iniciando-no-git-parte-1/) | [Parte 2](http://tableless.com.br/iniciando-no-git-parte-2/)
 
 * [Saíndo do Básico com Git | developerWorks IBM](http://www.ibm.com/developerworks/br/local/opensource/saindo_basico_git/) - Aprendendo a reescrever histórico e a rearranjar commits (18/06/2013) | escrito por: Fernando Granha Jeronimo, Engenheiro de Software, Linux Technology Center - IBM
+
+* [How to GitHub: Fork, Branch, Track, Squash and Pull Request | Gun.io](http://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 
 --
 
@@ -96,7 +86,49 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Top 10 Git Tutorials for Beginners | Six Revisions](http://sixrevisions.com/resources/git-tutorials-beginners/)
 
 
-### Git em empresas
+### Referência
+
+* [Git Reference](http://gitref.org/)
+
+* [A Visual Git Reference](http://marklodato.github.com/visual-git-guide/index-en.html)
+
+* [Why Git is Better than X](http://thkoch2001.github.io/whygitisbetter/)
+
+
+### Curso online
+
+* [git - guia prático - sem complicação!](http://rogerdudler.github.com/git-guide/index.pt_BR.html)
+
+* [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
+
+* [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git)
+
+
+### Cursos online interativos
+
+* [Try Git - Code School](http://www.codeschool.com/courses/try-git)
+
+* [GitHub - Try Git | created by Code School](http://try.github.com/)
+
+* [Learn Git Branching](http://pcottle.github.io/learnGitBranching/index.html)
+
+
+### GitHub
+
+* [Learn Git | GitHub Learn](http://learn.github.com/)
+
+* [git undoing | GitHub Learn](http://learn.github.com/p/undoing.html)
+
+* [GitHub Official Teaching Materials | GitHub Teach](http://teach.github.com/)
+
+* [GitHub Training](http://training.github.com/)
+
+* [GitHub Help](https://help.github.com/)
+
+* [Team Collaboration With GitHub | Nettuts+](http://net.tutsplus.com/articles/general/team-collaboration-with-github/)
+
+
+## Git em empresas
 
 * [Git Turns 8, Sees Wide Adoption in the Enterprise | Linux.com](http://www.linux.com/news/enterprise/systems-management/715287-git-turns-8-enterprise-wide-adoption/) (20/04/2013)
 
@@ -133,22 +165,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
     * [Connect Rational CLM to Atlassian JIRA, HP ALM, and Git or Gerrit | Jazz Community](https://jazz.net/products/clm/features/clm_integrations) - possibilidade de integrar ao Atlassian Jira e ao Git
 
 
-
-### GitHub
-
-* [GitHub - Try Git | created by Code School](http://try.github.com/) - curso online
-
-* [Learn Git](http://learn.github.com/)
-
-* [git undoing](http://learn.github.com/p/undoing.html)
-
-* [GitHub Official Teaching Materials](http://teach.github.com/)
-
-* [GitHub Training](http://training.github.com/)
-
-* [GitHub Help](https://help.github.com/)
-
-* [Team Collaboration With GitHub | Nettuts+](http://net.tutsplus.com/articles/general/team-collaboration-with-github/)
 
 
 ## Dicas
