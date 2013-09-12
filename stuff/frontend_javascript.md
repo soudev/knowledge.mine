@@ -125,6 +125,9 @@
 
 * [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
+* [[GitHub] rwaldron / idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+
+* [Meteor Style Guide](https://github.com/meteor/meteor/wiki/Meteor-Style-Guide)
 
 
 ### Dicas
@@ -458,6 +461,9 @@
 
 * [Building Apps With the Yeoman Workflow | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/)
 
+--
+
+* [[GitHub] mrichard / generator-marionette](https://github.com/mrichard/generator-marionette) - Yeoman marionette generator a la AMD
 
 
 #### DevTools
