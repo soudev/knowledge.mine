@@ -284,7 +284,11 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
   * [GitHub e Linux são exemplos para a política | Estadão](http://blogs.estadao.com.br/link/github-e-linux-sao-exemplos-para-a-politica/) (04/10/2012)
 
+* [GitHub gains new prominence as the use of open source within governments grows | O'Reilly Radar](http://radar.oreilly.com/2013/03/github-government-bureaucat-open-source.html)
+
 * [GitLaw: GitHub for Laws and Legal Documents - a Tourniquet for American Liberty | Abe Voelker](https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/)
+
+* [Writing a New Dictionary? | Fox News](http://video.foxbusiness.com/v/2667694577001/writing-new-dictionary) - Github’s CEO and co-founder Tom Preston-Werner breaks down his company’s goals and explains what it will take to continue its success.
 
 --
 

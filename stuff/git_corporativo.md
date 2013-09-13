@@ -394,6 +394,8 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 * [NASA](http://www.nasa.gov/) : projetos OpenSource no [GitHub](https://github.com/nasa)
 
+* [Yahoo! Inc.](http://yahoo.com/) :  projetos OpenSource no [GitHub](https://github.com/yahoo/)
+
 * [BBC News](http://www.bbc.co.uk/news/) : projetos OpenSource no [GitHub](https://github.com/BBC-News)
 
 * [Abril](http://www.abril.com.br/) : projetos OpenSource no [GitHub](https://github.com/abril)
