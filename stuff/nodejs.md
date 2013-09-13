@@ -347,6 +347,8 @@
 
 * [[GitHub] natlownes / headrest](https://github.com/natlownes/headrest) - A RESTful, CORS enabled webserver intended for use when developing single page Javascript applications
 
+* [[GitHub] agrueneberg / Corser](https://github.com/agrueneberg/Corser) - A highly configurable, middleware compatible implementation of CORS for Node.js.
+
 
 ### Armazenamento
 
