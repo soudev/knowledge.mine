@@ -223,6 +223,8 @@
 
 * [SlideCaptain - Modern online presentation tool](https://www.slidecaptain.com/) - Made with JavaScript, HTML5, CSS3, Bootstrap, MongoDB, Node.js and AngularJS.
 
+--
+
 * [[GitHub] hakimel / reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework
 
   * [Example Presentations | reveal.js github wiki](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
@@ -233,6 +235,13 @@
 
   * [slid.es](http://slid.es/) - The easiest way to create and share beautiful presentations. Online presentation tool based on reveal.js
 
+--
+
+* [deck.js](http://imakewebthings.com/deck.js/) - presentation engine
+
+  * [[GitHub] imakewebthings / deck.js](https://github.com/imakewebthings/deck.js)
+
+  * [[GitHub] thiagofelix / hackynote](https://github.com/thiagofelix/hackynote) - A presentation editor and preview based on markdown. Made for hackers
 
 --
 
