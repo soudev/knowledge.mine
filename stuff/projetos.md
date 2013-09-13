@@ -45,6 +45,10 @@
 
 * [Kanban Avançado - Além de Visualizações e Limites](http://www.infoq.com/br/presentations/kanban-avancado) - Kanban, uma abordagem Lean para trabalho do conhecimento, é a nova  onda na evolução em gestão e desenvolvimento ágil. Atualmente a  comunidade tem se fixado nas características mais simples deste método.  Nesta palestra são explorados os principais fundamentos e propriedades  avançadas de um sistema Kanban para quem busca maior maturidade e  previsibilidade dentro de sistemas complexos.
 
+-- 
+
+* [Fuja da Escravidão, antes que ela te alcance](http://www.infoq.com/br/presentations/devinrio-vinicius-teles) - Vinícius Teles nos fala a respeito da realidade de muitos trabalhadores que possuem vidas estáveis, porém repletas de frustrações advindas de suas rotinas e carreiras aparentemente seguras. Vinícius trata do empreendedorismo, com dicas para profissionais de tecnologia que buscam atingir não apenas a estabilidade financeira, mas também a plena satisfação profissional e pessoal.
+
 
 ## Integração Contínua
 
