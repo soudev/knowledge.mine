@@ -295,6 +295,8 @@
 
 * [How to load jQuery plugins with RequireJS | Simone Web Design](http://simonewebdesign.it/blog/how-to-load-jquery-plugins-with-requirejs/)
 
+* [Five Helpful Tips When Using RequireJS | Tech Pro](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
+
 
 ##### Backbone.js
 
