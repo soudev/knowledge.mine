@@ -56,6 +56,8 @@
 
 * [Node.js for Beginners | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/)
 
+* [Node School](http://nodeschool.io/) - Learn Node.JS with interactive lessons
+
 --
 
 * [Node.js para leigos (Versão completa) | Underground WebDev](http://www.udgwebdev.com/nodejs-para-leigos/)
@@ -87,6 +89,8 @@
 * [[YouTube] Node.js Explained](https://www.youtube.com/watch?v=L0pjVcIsU6A)
 
 --
+
+* [NodeBR](http://nodebr.com/)
 
 * [Node.js processando em paralelo | iMasters](http://imasters.com.br/desenvolvimento/node-js-processando-em-paralelo/) 
 
@@ -168,14 +172,15 @@
 
 --
 
+* [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
+
 * [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
 
-* [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command
-
-* [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
+* [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command 
 
 * [[GitHub] dharmafly / noodle](https://github.com/dharmafly/noodle) - A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST
 
+* [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
 
 * [Hapi : server framework for Node.js](http://spumko.github.io/)
 
@@ -183,6 +188,9 @@
 
 * [[GitHub] dai-shi / social-cms-backend](https://github.com/dai-shi/social-cms-backend) - Express middleware to provide schema-less REST APIs for creating a social networking website primarily using angular.js. It comes with built-in authentication, authorization and notification features.
 
+--
+
+* [[GitHub] simonewebdesign / real-time-web-chat](https://github.com/simonewebdesign/real-time-web-chat) - A chat built with NodeJS, ExpressJS and Socket.io | [Demo App on OpenShift](https://github.com/simonewebdesign/real-time-web-chat)
 
 --
 
