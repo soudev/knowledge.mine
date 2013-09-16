@@ -4,6 +4,8 @@
 
 * [10 Easy Steps to a Complete Understanding of SQL | Tech Pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql?utm_source=newsletter22&utm_medium=email)
 
+* [DatabaseCast: Índices | iMasters](http://imasters.com.br/banco-de-dados/sql-server/databasecast-indices/) - Oracle e SQLServer
+
 
 ## Oracle
 
