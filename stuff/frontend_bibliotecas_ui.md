@@ -58,6 +58,10 @@
 
 * [AdminJS](http://adminjs.com/) - The Backend-Agnostic Administration Framework
 
+* [QuestionMark.js](http://impressivewebs.github.io/QuestionMark.js/) - modal window that displays shortcut keys for your app | [Demo Page](http://www.impressivewebs.com/demo-files/question-mark-js/)
+
+* [Formbuilder.js | dobtco](http://dobtco.github.io/formbuilder/)
+
 
 ### JQuery
 
@@ -152,6 +156,10 @@
 * [How To Style Google Maps | Hongkiat.com](http://www.hongkiat.com/blog/google-maps-styles/)
 
 * [Using Drawing Tools and Maps to Find Data | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/19/Using-Drawing-Tools-and-Maps-to-Find-Data)
+
+--
+
+* [transit.js](http://onloop.net/transit/) - make client-side, schedule-driven transit maps
 
 
 #### D3.js
