@@ -96,6 +96,10 @@
 
 * [[GitHub] zonak / grunt-ftp-deploy](https://github.com/zonak/grunt-ftp-deploy) - Grunt task for code deployment over ftp
 
+* [[GitHub] rhiokim / grunt-sloc](https://github.com/rhiokim/grunt-sloc) - Source line of codes plugin for Grunt.js
+
+* [[GitHub] btford / grunt-merge-conflict](https://github.com/btford/grunt-merge-conflict) - Grunt plugin for preventing you from accidentally comitting a merge conflict into your project
+
 
 ##### Dicas
 
