@@ -33,6 +33,11 @@
 * [Clay Shirky: How the Internet will (one day) transform government | Ted Talks](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html) - The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens. [Video no YouTube](https://www.youtube.com/watch?v=CEN4XNth61o)
 
 
+## QCon
+
+* [[SlideShare] Qcon bigdata](http://www.slideshare.net/fmeyer/qcon-bigdata-25761729) - by Fernando Meyer 
+
+
 ## InfoQ Br
 
 * [Modelagem de Domínio: os 7 maus cheiros de informação](http://www.infoq.com/br/articles/seven-modelling-smells) - A modelagem de domínio é uma poderosa técnica do arsenal dos profissionais de TI. Mas infelizmente algumas questões a tem feito cair em desuso nos últimos anos, especialmente nos círculos ágeis. Dois problemas reais são o tempo muito grande necessário e e propensão à "parálise na análise" . Aqui apresentamos uma abordagem para a modelagem de domínio que buscar tratar esses problemas.
