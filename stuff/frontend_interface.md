@@ -22,6 +22,7 @@
 
 * [Taking Ems Even Further | Webdesigntuts+](http://webdesign.tutsplus.com/articles/typography-articles/taking-ems-even-further/)
 
+* [On Web Typography | Jason Santa Maria](http://www.besquare.me/session/on-web-typography/) - Awesome presentation on web typography 
 
 
 ### Web Components
