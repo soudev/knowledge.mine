@@ -66,6 +66,8 @@
 
 * [FlatIcons.net](http://flaticons.net/) - Generate free flat icons, royalty free. Over 2,500 icon shapes to use in your flat and metro icons. Unlimited options
 
+* [53 coleções de ícones para Flat Design | Vitamina Publicitaria](http://vitaminapublicitaria.com.br/design/53-colecoes-de-icones-para-flat-design/)
+
 * [We love icon fonts](http://weloveiconfonts.com/) - This is a free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
 
 * [PhyloPic](http://phylopic.org/) — An Open Database of Life Form Silhouettes
