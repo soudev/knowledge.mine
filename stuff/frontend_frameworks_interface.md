@@ -4,9 +4,13 @@
 
 * [CSSDB](http://cssdb.co/) - A curated collection of great CSS, Sass, LESS and Stylus libraries.
 
+--
+
 * [CSS Front-end Frameworks with comparison](http://usablica.github.com/front-end-frameworks/compare.html) | [GitHub source](https://github.com/usablica/front-end-frameworks)
 
 * [Responsive CSS Framework Comparison](http://responsive.vermilion.com/compare.php) - Bootstrap vs. Foundation vs. Skeleton
+
+--
 
 * [HTML KickStart](http://www.99lime.com/) - Ultra–Lean HTML Building Blocks for Rapid Website Production - KickStart your Website Production
 
@@ -28,6 +32,7 @@
 
 * [[GitHub] jlukic / Semantic-UI](https://github.com/jlukic/Semantic-UI) - Semantic empowers designers and developers by creating a shared vocabulary for UI | [site: Semantic UI](http://semantic-ui.com/)
  
+* [ChocolateChip-UI](http://www.chocolatechip-ui.com/) - Full support for the new iOS 7 look and feel | Native Look for Web Apps | Powerful, Simple, Clean 
  
 
 ### Foundation
