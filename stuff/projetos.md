@@ -42,6 +42,8 @@
 
 * [Modelagem de Domínio: os 7 maus cheiros de informação](http://www.infoq.com/br/articles/seven-modelling-smells) - A modelagem de domínio é uma poderosa técnica do arsenal dos profissionais de TI. Mas infelizmente algumas questões a tem feito cair em desuso nos últimos anos, especialmente nos círculos ágeis. Dois problemas reais são o tempo muito grande necessário e e propensão à "parálise na análise" . Aqui apresentamos uma abordagem para a modelagem de domínio que buscar tratar esses problemas.
 
+* [Refatorar! Porque ninguém gosta de código que cheira mal](http://www.infoq.com/br/presentations/refatorar-codigo) - Escrever código de qualidade não é fácil. Alterar código legado, é mais complicado ainda. Como enfrentar essas atividades tão recorrentes? Nessa palestra, vemos que assumir a responsabilidade pelo código de seu time, desenvolver de forma orientada a testes, saber identificar "bad smells" de código e conhecer as técnicas de refatoração são essenciais para produzir um código limpo e sustentável.
+
 * [O design de software morreu?](http://www.infoq.com/br/presentations/design-software-morreu) - Por que software apodrece? Por que grandes projetos maduros se deterioram com o tempo? Como sustentar o crescimento ágil e incremental de uma arquitetura evolutiva em um projeto de grande porte? Nessa palestra são discutidos esses pontos, buscando convencer o público de que não existe o verdadeiro Agile sem um Design Ágil e sem uma Arquitetura Evolutiva sustentável.
 
 * [Dívida técnica: precisando de crédito?](http://www.infoq.com/br/presentations/divida-tecnica-precisando-credito) - Dívida técnica é inevitável. Nos projetos de software em que  participei observo em média investidores que são ou extremamente  conservadores (os perfeccionistas) ou irresponsavelmente agressivos (fãs  da gambiarra). Nesta palestra, são apresentadas histórias de projetos  reais, com orçamentos reais, para compartilhar técnicas e estratégias  para quantificar, visualizar e lidar com dívida técnica.
@@ -58,4 +60,15 @@
 ## Integração Contínua
 
 * [Série Continuous Integration: Rodando o Jenkins a partir do Jetty no Windows 7 | iMasters](http://imasters.com.br/linguagens/java/serie-continuous-integration-rodando-o-jenkins-a-partir-do-jetty-no-windows-7/)
+
+* [Série Continuous Integration: Maven + Jenkins + Git | iMasters](http://imasters.com.br/desenvolvimento/serie-ci-maven-jenkins-git/)
+
+* [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
+
+* [[SlideShare] Automating PhoneGap Build](http://www.slideshare.net/coldfumonkeh/automating-phonegap-build)
+
+* [[YouTube] Mac Mini and Jenkins as a Phonegap Build Server](https://www.youtube.com/watch?&v=tcRXB3n-5qE)
+
+* [[GitHub] Medic - Continuous integration setup for Apache Cordova](https://github.com/filmaj/medic)
+
 
