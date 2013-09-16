@@ -18,6 +18,9 @@
 
 * [Posts sobre JSON | BRN Souza](http://www.brnsouza.com/blog/index.php/tag/json/)
 
+* [Hiding JSON-formatted data in the DOM with CSP enabled | Mathias Bynens](http://mathiasbynens.be/notes/json-dom-csp) - CSP = [Content Security Policy](http://www.w3.org/TR/CSP/)
+
+
 ## Ferramentas
 
 * [JSON Editor Online - view, edit and format JSON](http://jsoneditoronline.org/)
