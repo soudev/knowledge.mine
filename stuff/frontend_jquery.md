@@ -6,6 +6,7 @@
 
 * [JQuery Selectors](http://www.w3schools.com/jquery/jquery_ref_selectors.asp)
 
+* [jQuery Quick API Reference](http://oscarotero.com/jquery/)
 
 ### Aprendizado
 
