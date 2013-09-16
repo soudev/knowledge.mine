@@ -29,7 +29,14 @@
 * [OrionHub](http://orionhub.org/)
 
 
+## iPad
+
+* [Kodiak JavaScript](http://www.becomekodiak.com/kodiak-javascript.html) - iPad IDE for JavaScript developers 
+
+
 ## Desktop
+
+* [Hyro - cross-platform, real-time HTML5 editor](http://jawerty.github.io/Hyro/) - is a live HTML editor for creating webpages on your desktop and in real-time.
 
 
 ### Eclipse IDE
