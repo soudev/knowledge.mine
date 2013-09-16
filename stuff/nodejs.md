@@ -116,6 +116,12 @@
 
 --
 
+* [Espruino](http://www.espruino.com/) - A JavaScript interpreter for Microcontrollers
+
+  * [Espruino quer usar Javascript para controlar sua casa | Info](http://info.abril.com.br/noticias/blogs/zonalivre/hardware/espruino-quer-usar-javascript-para-controlar-sua-casa/)
+
+--
+
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
 
 
@@ -215,6 +221,9 @@
 
 * [[GitHub] luciotato / waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell
 
+--
+
+* [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
 
 
 ## Dicas
