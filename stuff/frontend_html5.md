@@ -111,6 +111,8 @@
 
 * [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
 
+* [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
+
 --
 
 * [Making HTML5 audio actually work on mobile](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
@@ -258,6 +260,8 @@
 * [Popcorn.js](http://popcornjs.org/) - The HTML5 Media Framework
 
 * [Audio5js](http://zohararad.github.io/audio5js/) - The HTML Audio Compatibility Layer
+
+* [[GitHub] EvandroLG / audioJS](https://github.com/EvandroLG/audioJS) - AudioJS is a agnostic lib cross-browser to work easily with the AudioContext API of HTML5.
 
 * [[GitHub] meenie / 8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds
 
@@ -442,6 +446,8 @@
 
 * [Apache Cordova](https://cordova.apache.org/) - is a platform for building native mobile applications using HTML, CSS and JavaScript.
 
+* [Cordova + Web Best Practices | Gaunt Face - Matthew Gaunt](http://www.gauntface.co.uk/blog/2013/07/18/cordova-web-best-practices/) - Getting PhoneGap / Cordova up and running with Yeoman
+
 
 ###### PhoneGap
 
@@ -463,10 +469,6 @@
 * [[GitHub] Medic - Continuous integration setup for Apache Cordova](https://github.com/filmaj/medic)
   
 * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
-
-* [Hardware-Accelerated Page Transitions for Mobile Web Apps / PhoneGap Apps](http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps)
-
-* [[GitHub] ccoenraets / pull-to-refresh](https://github.com/ccoenraets/pull-to-refresh) - Example of Using Pull-To-Refresh in PhoneGap / Cordova apps
 
 
 * **Angular.js**
@@ -501,6 +503,13 @@
 
   * [Top 10 Performance Techniques for PhoneGap Applications](http://coenraets.org/blog/2013/05/top-10-performance-techniques-for-phonegap-applications/)
 
+  * [Hardware-Accelerated Page Transitions for Mobile Web Apps / PhoneGap Apps](http://coenraets.org/blog/2013/03/hardware-accelerated-page-transitions-for-mobile-web-apps-phonegap-apps)
+
+  * [[GitHub] ccoenraets / pull-to-refresh](https://github.com/ccoenraets/pull-to-refresh) - Example of Using Pull-To-Refresh in PhoneGap / Cordova apps
+
+  * [How to upload pictures from a PhoneGap Application to Node.js (and other servers)](http://coenraets.org/blog/2013/09/how-to-upload-pictures-from-a-phonegap-application-to-node-js-and-other-servers-2/)
+
+  * [How to Upload Pictures from a PhoneGap App to Amazon S3](http://coenraets.org/blog/2013/09/how-to-upload-pictures-from-a-phonegap-app-to-amazon-s3/)
 
 
 ###### BlackBerry
