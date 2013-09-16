@@ -30,6 +30,8 @@
 
 ### Animation
 
+* [Simplest Way to Create Cool CSS3 Animation Effects | Queness](http://www.queness.com/post/14835/simplest-way-to-create-cool-css3-animation-effects)
+
 * [CSS3 Animation Cheat Sheet | Justin Aguilar](http://www.justinaguilar.com/animations/)
 
 * [CSS3 Keyframe Animation Demo](http://www.impressivewebs.com/demo-files/css3-animated-scene/)
