@@ -154,7 +154,13 @@
 
 * [SuperAgent - Ajax with less suck](http://visionmedia.github.com/superagent/)
 
+--
+
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
+
+* [Handling concurrency and asynchronous JavaScript | Oliver.prototype.blog](http://oli.me.uk/2013/09/11/handling-concurrency-and-asynchronous-javascript/)
+
+--
 
 * [Random Number Generation in JavaScript | Bocoup](http://weblog.bocoup.com/random-numbers/)
 
@@ -162,9 +168,13 @@
 
 * [JavaScript Byte saving techniques](https://github.com/jed/140bytes/wiki/Byte-saving-techniques)
 
+--
+
 * [Introduction to Map and Reduce in Javascript](http://www.49lights.com/blogg/2013/05/introduction_to_map_and_reduce_in_javascript/)
 
 * [Reducing Filter and Map Down to Reduce | Web Dev .NET](http://www.elijahmanor.com/2013/08/reducing-filter-and-map-down-to-reduce.html)
+
+--
 
 * [Fun with Javascript and function tracing](http://ebobby.org/2013/05/18/Fun-with-Javascript-and-function-tracing.html)
 
@@ -271,6 +281,11 @@
 ### Sistema de Dependências e Módulos
 
 * [Mantri](http://mantrijs.com/) - JavaScript Dependency System
+
+
+* [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way | [site: browserify](http://browserify.org/)
+
+    * [Introduction to Browserify | Blake Embrey](http://blakeembrey.com/articles/introduction-to-browserify/)
 
 
 #### Require.js - Performance e Organização
@@ -385,7 +400,13 @@
 
 * [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
 
+--
+
 * [Squel.js](http://hiddentao.github.io/squel/) - lightweight Javascript library for building SQL query strings.
+
+* [Formbuilder.js | dobtco](http://dobtco.github.io/formbuilder/)
+
+--
 
 * [[GitHub] Prinzhorn  /skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 
@@ -396,6 +417,10 @@
 * [[GitHub] tildeio / kamino.js](https://github.com/tildeio/kamino.js) - Kamino.js is a library for passing data structures between sandboxed environments in the browser via 'postMessage'
 
 * [[GitHub] jpillora / xhook](https://github.com/jpillora/xhook) - Easily modify XHR requests and responses
+
+--
+
+* [[GitHub] lorenzoongithub / completely](https://github.com/lorenzoongithub/completely/) - A fresh take on autocompletion for a wonderful user experience
 
 
 #### Text Search
@@ -465,6 +490,10 @@
 
 --
 
+* [Static Site Generators for Yeoman | DailyJS](http://dailyjs.com/2013/09/12/yeoman-static-site-generators/)
+
+* [Cordova + Web Best Practices | Gaunt Face - Matthew Gaunt](http://www.gauntface.co.uk/blog/2013/07/18/cordova-web-best-practices/) - Getting PhoneGap / Cordova up and running with Yeoman
+
 * [[GitHub] mrichard / generator-marionette](https://github.com/mrichard/generator-marionette) - Yeoman marionette generator a la AMD
 
 
@@ -492,6 +521,8 @@
 
 * [[GitHub] mauricecruz / chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome DevTools
 
+* [DevTools Extensions For Web App Developers | AddyOsmani.com](http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/)
+
 * [Grunt Task Runner Extension for Chrome Developer Tools](https://github.com/vladikoff/grunt-devtools) - tests
 
 * [Discover DevTools | Code School](http://www.codeschool.com/courses/discover-devtools) - Sharpen your dev process with Chrome DevTools
@@ -500,6 +531,7 @@
 
 * [CSS Prettifier Bookmarklet](https://github.com/addyosmani/cssprettifier-bookmarklet) - Um bookmarklet para unminify seu CSS no navegador
 
+* [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
 
 
 ### Gerenciador de Pacotes
@@ -507,6 +539,7 @@
 * [Jam.js and Bower | Red Badger](http://red-badger.com/blog/2013/03/26/jam-js-and-bower/)
 
 * [jspm.io](http://jspm.io/) - is a browser module loader that will load any module format (ES6 / AMD / CJS) locally or even directly from NPM and Github utilising SPDY push.
+
 
 #### Bower
 
@@ -572,6 +605,18 @@
 * [[GitHub] mattbaker / Reactive.js](https://github.com/mattbaker/Reactive.js) - A library for programming reactively in Javascript.
 
   * [Ractive.js Expressions and the New Wave of Reactive Programming | Flippin' Awesome](http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/)
+
+--
+
+* [Ember.js](http://emberjs.com/)
+
+    * [An Ember.js beginners tutorial | WilliamHart.info](http://www.williamhart.info/an-emberjs-beginners-tutorial.html)
+
+--
+
+* [Knockout.js](http://knockoutjs.com/)
+
+    * [KnockoutJS Tips and Tricks | Tech Pro](http://tech.pro/tutorial/1559/knockoutjs-tips-and-tricks)
 
 --
 
