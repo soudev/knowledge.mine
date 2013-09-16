@@ -53,6 +53,18 @@
 * [Como o OpenShift pode auxiliar desenvolvedores e startups | InfoQ Br](http://www.infoq.com/br/interviews/openshift-desenvolvedores-startups)
 
 
+## Eucalyptus
+
+* [Eucalyptus](http://www.eucalyptus.com/) - Open source, AWS compatible, Private Cloud 
+
+
+## Amazon AWS
+
+* [Amazon AWS](https://aws.amazon.com/pt/)
+
+* [Estudo de Caso AWS: Rede Globo](https://aws.amazon.com/pt/solutions/case-studies/redeglobo/?ref_=pe_436690_32492230)
+
+
 ## OpenStack
 
 * [OpenStack](http://www.openstack.org/) - Open source software for building private and public clouds. 
@@ -70,6 +82,7 @@
 * [Red Hat's OpenStack distribution](http://www.redhat.com/openstack/)
 
 * [Installing OpenStack Grizzly with DevStack | NetworkStatic](http://networkstatic.net/installing-openstack-grizzly-with-devstack/)
+
 
 ### Caso de Uso
 
