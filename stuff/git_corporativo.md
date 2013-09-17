@@ -386,6 +386,9 @@ O git-scm é um software livre, distribuído sob os termos da versão 2 da GNU G
 
 ### Não listados no : git-scm
 
+* [Github repositories of music tech | Music Machinery](http://musicmachinery.com/2013/09/02/github-repositories-of-music-tech/)
+
+
 #### Empresas
 
 * [SAP](http://www.sap.com/) : projetos OpenSource no [GitHub](http://sap.github.io/)
