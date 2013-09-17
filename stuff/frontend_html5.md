@@ -257,6 +257,8 @@
 
 --
 
+* [[GitHub] TalAter / annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition
+
 * [Popcorn.js](http://popcornjs.org/) - The HTML5 Media Framework
 
 * [Audio5js](http://zohararad.github.io/audio5js/) - The HTML Audio Compatibility Layer
