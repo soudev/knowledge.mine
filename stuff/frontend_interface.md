@@ -39,9 +39,12 @@
 
 * [Google’s Polymer and the future of web UI frameworks | 2ality](http://www.2ality.com/2013/05/google-polymer.html)
 
+
 * [Brick](http://mozilla.github.io/brick/) - UI Components for Modern Web Apps
 
   * [Introducing Brick: Minimal-markup Web Components for Faster App Development | Mozilla Hacks](https://hacks.mozilla.org/2013/08/introducing-brick-minimal-markup-web-components-for-faster-app-development/)
+
+  * [Brick: Uma biblioteca para Componentes Web da Mozilla | InfoQ Br](http://www.infoq.com/br/news/2013/09/mozilla-brick-componentes-web)
 
 
 
