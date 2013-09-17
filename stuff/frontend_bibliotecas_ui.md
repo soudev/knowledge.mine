@@ -73,6 +73,8 @@
 
 * [TouchSwipe: a jQuery plugin for touch and gesture-based interaction | Awwwards](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html)
 
+* [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/) - A jQuery Plugin for Responsive Menus
+
 
 ### Template Engine
 
