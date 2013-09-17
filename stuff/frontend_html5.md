@@ -271,6 +271,8 @@
 
   * [Retro Game Music using Web Audio and Band.js  | Flippin' Awesome](http://flippinawesome.org/2013/09/09/retro-game-music-using-web-audio-and-band-js/)
 
+* [Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html) - jQuery-plugin for playing sounds on events
+
 --
 
 * [heatmap.js | Create HTML5 Heatmaps with Canvas and JavaScript](http://www.patrick-wied.at/static/heatmapjs/) | [Sample](http://www.heatmapjs.com/)
