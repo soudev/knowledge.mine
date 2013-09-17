@@ -356,6 +356,8 @@
 
 * [NodeZoo](http://nodezoo.com/) - A search engine for reliable Node.js modules
 
+* [The Node Toolbox - Node.js happiness](http://nodetoolbox.com/) - is a catalogue of Node.js packages, tools and resources with popularity ratings based on Github watchers and forks
+
 --
 
 * [npm cheatsheet | Nodejitsu](https://blog.nodejitsu.com/npm-cheatsheet)
