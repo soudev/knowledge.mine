@@ -159,8 +159,6 @@
 
 * [[SlideShare] Optimizing MongoDB: Lessons Learned at Localytics](http://www.slideshare.net/andrew311/optimizing-mongodb-lessons-learned-at-localytics)
 
-* [Map reduce and MongoDB | Boxed Ice Blog](http://blog.serverdensity.com/map-reduce-and-mongodb/)
-
 * [Data Science on MongoDB At Last!](http://blog.mongodb.org/post/35204064565/data-science-on-mongodb-at-last)
 
 * [Realtime Analytics at Buffer with MongoDB](http://blog.tommoor.com/post/24059620728/realtime-analytics-at-buffer-with-mongodb)
@@ -173,7 +171,11 @@
 
 * [A quick start with MongoDB Geospatial Queries](http://www.siletto.it/blog/alessandro/2013/03/19/quick-start-mongodb-geospatial-queries)
 
+* [Map reduce and MongoDB | Boxed Ice Blog](http://blog.serverdensity.com/map-reduce-and-mongodb/)
+
 * [[SlideShare] Introduction to MongoDB and Hadoop](http://www.slideshare.net/spf13/introduction-to-mongodb-and-hadoop) - An Introduction to MongoDB + an Introduction to MongoDB + Hadoop. This presentation was given at the CT Java Users Group in March 2013.
+
+* [Webinar: What's New with MongoDB Hadoop Integration | MongoDB](http://www.mongodb.com/presentations/webinar-whats-new-mongodb-hadoop-integration)
 
 * [Converting your data from MySQL to MongoDB | You are IT!](http://tamaspiros.co.uk/2013/09/03/converting-your-data-from-mysql-to-mongodb/)
 
