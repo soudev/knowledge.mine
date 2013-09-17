@@ -179,6 +179,8 @@
 
 * [Converting your data from MySQL to MongoDB | You are IT!](http://tamaspiros.co.uk/2013/09/03/converting-your-data-from-mysql-to-mongodb/)
 
+* [Scaling MongoDB at Mailbox | Dropbox Tech Blog](https://tech.dropbox.com/2013/09/scaling-mongodb-at-mailbox/)
+
 --
 
 * [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
