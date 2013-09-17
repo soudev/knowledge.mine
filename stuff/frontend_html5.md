@@ -292,6 +292,8 @@
 
   * [Shader Particle Engine](http://squarefeet.github.io/ShaderParticleEngine/) - A GLSL-heavy particle engine for THREE.js. Based on Stemkoski's great particle engine 
 
+  * [The Beginner's Guide to three.js | Treehouse Blog](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
+
 * [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
 
 * [Voodoo](http://www.voodoojs.com/) - is a new Javascript framework that lets you easily mix 2D and 3D content together on the same page.
@@ -356,6 +358,8 @@
 
 
 ##### Game Engine
+
+* [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator
 
 * [Game Closure](http://www.gameclosure.com/) - _The Game Closure DevKit_. 100% JavaScript. Build your games faster than ever before! Native speed. Write HTML5 games that outperform the competition.
 
