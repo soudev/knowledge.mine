@@ -52,6 +52,8 @@
 
 * [Stop Designing Fragile Web APIs](http://mathieu.fenniak.net/stop-designing-fragile-web-apis/)
 
+* [Não exponha seu REST | InfoQ Br](http://www.infoq.com/br/news/2013/09/nao-exponha-seu-rest)
+
 * [Designing HTTP Interfaces and RESTful Web Services](http://www.slideshare.net/Wombert/designing-http-interfaces-and-restful-web-services-phpday11-20110514)
 
 * [Designing REST + JSON APIs | Stormpath](https://www.stormpath.com/blog/designing-rest-json-apis)
