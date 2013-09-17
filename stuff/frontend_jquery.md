@@ -65,6 +65,8 @@
 
 * [50 Amazing jQuery Plugins That You Should Start Using Right Now | Tutorialzine](http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/)
 
+* [12 jQuery Plugins To Show Notification Messages | Cool Graphic & Web Design Blog](http://bashooka.com/coding/jquery-plugins-to-show-notification-messages/)
+
 * [jQuery Sortable](http://johnny.github.com/jquery-sortable/)
 
 * [FooTable](http://fooplugins.com/plugins/footable-jquery/) - is a jQuery plugin that aims to make HTML tables on smaller devices look awesome – No matter how many columns of data you may have in them.
@@ -94,4 +96,7 @@
 * [Selectize.js](http://brianreavis.github.io/selectize.js/) - is the hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, and so on.
 
 * [Loadie.js](http://9elements.github.io/loadie.js/) - A lightweight jQuery loader plugin
+
+* [Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html) - jQuery-plugin for playing sounds on events
+
 
