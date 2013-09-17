@@ -475,6 +475,8 @@
 
 * [[GitHub] adamschwartz / log](https://github.com/adamschwartz/log) - Console.log with style | [Demo](http://adamschwartz.co/log/) (Google Chrome)
 
+* [[GitHub] paulirish / break-on-access](https://github.com/paulirish/break-on-access) - break on access to a property
+
 * [Console e Command Line API | Loop Infinito](http://loopinfinito.com.br/2013/03/13/console-command-line-api/)
 
 * [Getting a Head Start with Front End Generators | Flippin' Awesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
