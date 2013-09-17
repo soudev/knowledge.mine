@@ -237,6 +237,12 @@
 
   * [slid.es](http://slid.es/) - The easiest way to create and share beautiful presentations. Online presentation tool based on reveal.js
 
+  * [[GitHub] piatra / kreator.js](https://github.com/piatra/kreator.js) - slide tool interface for reveal.js
+
+      * [kreator](http://piatra.jit.su/)
+
+      * [javascript nodejs kreator reveal.js | ROSEdu Summer of Code Blog](http://soc.rosedu.org/blog/?tag=javascript-nodejs-kreator-reveal-js)
+
 --
 
 * [deck.js](http://imakewebthings.com/deck.js/) - presentation engine
