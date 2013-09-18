@@ -273,6 +273,8 @@
 
 * [[PDF] Erik Corry: Optimization With V8 JavaScript](http://gotocon.com/dl/jaoo-aarhus-2010/slides/ErikCorry_OptimizationWithV8JavaScript.pdf)
 
+* [Performance Optimizing for Smart Layers | AddThis Blog](http://www.addthis.com/blog/2013/09/17/performance-optimizing-for-smart-layers/)
+
 * [Why I favor while loops](http://blog.millermedeiros.com/why-i-favor-while-loops/)
 
 * [Faster String#repeat method, with ancient Egyptian theory | CoderKeen](http://coderkeen.com/javascript/faster-stringrepeat-method-with-ancient-egyptian-theory)
