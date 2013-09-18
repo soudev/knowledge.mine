@@ -70,6 +70,10 @@
 
 ### iMasters
 
+* [Build e Integração Contínua no PHP com Composer, Phing, Travis-CI e Scrutinizer-CI](http://imasters.com.br/linguagens/php/build-e-integracao-continua-no-php-com-composer-phing-travis-ci-e-scrutinizer-ci/)
+
+--
+
 * [Série Continuous Integration: Rodando o Jenkins a partir do Jetty no Windows 7](http://imasters.com.br/linguagens/java/serie-continuous-integration-rodando-o-jenkins-a-partir-do-jetty-no-windows-7/)
 
 * [Série Continuous Integration: Maven + Jenkins + Git](http://imasters.com.br/desenvolvimento/serie-ci-maven-jenkins-git/)
