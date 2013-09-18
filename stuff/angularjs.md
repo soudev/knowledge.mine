@@ -430,8 +430,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
 
 
-
-
 ### PhoneGap
 
 * [PhoneGap and AngularJs, The Start | Tech Pro](http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start)
@@ -540,6 +538,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Simple AngularJS localStorage module (with two-way $scope bind into storage)](https://github.com/agrublev/Angular-localStorage)
 
 * [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
+
+--
+
+* [[GitHub] mgonto / restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
+
+* [[GitHub] jeffbcross / syncResource](https://github.com/jeffbcross/syncResource) - OmniBinder - One binder to bind AngularJS models to everything [Status: Experimental, In-Development : 17/09/2013] 
 
 --
 
