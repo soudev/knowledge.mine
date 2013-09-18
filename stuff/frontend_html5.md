@@ -99,6 +99,8 @@
 
 * [The progress element | HTML5 Doctor](http://html5doctor.com/the-progress-element/)
 
+* [New HTML5 Form Input Types](http://cdn.sixrevisions.com/demos/0345-new_html5_form_input_types/new-html5-form-input-types.html)
+
 * [What you need to know about HTML5 forms | TechRepublic](http://www.techrepublic.com/blog/web-designer/what-you-need-to-know-about-html5-forms/)
 
 * [5 HTML5 Javascript APIs to keep an eye on](http://daker.me/2013/06/5-html5-javascript-apis-to-keep-an-eye-on.html)
@@ -114,6 +116,8 @@
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
 
 --
+
+* [Capturing Audio & Video in HTML5 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
 
 * [Making HTML5 audio actually work on mobile](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
 
