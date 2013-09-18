@@ -69,6 +69,8 @@
 
 * [Bootstrap 3 PSD: Free For Commercial And Personal Use! | Design Shock](http://www.designshock.com/bootstrap-3-psd/)
 
+* [Ladda UI for Bootstrap 3](http://msurguy.github.io/ladda-bootstrap/)
+
 --
 
 * [Você já conhece o Twitter Bootstrap?](http://joaovagner.com.br/2012/09/20/voce-ja-conhece-o-twitter-bootstrap/)
