@@ -59,10 +59,6 @@
 
 ## Integração Contínua
 
-* [Série Continuous Integration: Rodando o Jenkins a partir do Jetty no Windows 7 | iMasters](http://imasters.com.br/linguagens/java/serie-continuous-integration-rodando-o-jenkins-a-partir-do-jetty-no-windows-7/)
-
-* [Série Continuous Integration: Maven + Jenkins + Git | iMasters](http://imasters.com.br/desenvolvimento/serie-ci-maven-jenkins-git/)
-
 * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
 
 * [[SlideShare] Automating PhoneGap Build](http://www.slideshare.net/coldfumonkeh/automating-phonegap-build)
@@ -70,5 +66,14 @@
 * [[YouTube] Mac Mini and Jenkins as a Phonegap Build Server](https://www.youtube.com/watch?&v=tcRXB3n-5qE)
 
 * [[GitHub] Medic - Continuous integration setup for Apache Cordova](https://github.com/filmaj/medic)
+
+
+### iMasters
+
+* [Série Continuous Integration: Rodando o Jenkins a partir do Jetty no Windows 7](http://imasters.com.br/linguagens/java/serie-continuous-integration-rodando-o-jenkins-a-partir-do-jetty-no-windows-7/)
+
+* [Série Continuous Integration: Maven + Jenkins + Git](http://imasters.com.br/desenvolvimento/serie-ci-maven-jenkins-git/)
+
+* [Série Continuous Integration: Executando unit tests Jenkins via Maven](http://imasters.com.br/desenvolvimento/serie-continuous-integration-executando-unit-tests-jenkins-via-maven/)
 
 
