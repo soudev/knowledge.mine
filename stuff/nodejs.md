@@ -42,8 +42,6 @@
 
 ## Aprendizado
 
-* [Teach Yourself Node.JS in 10 Steps | Pony Foo](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
-
 * [How to Node](http://howtonode.org/)
 
 * [The Node Beginner Book](http://www.nodebeginner.org/)
@@ -63,6 +61,12 @@
 * [Node.js para leigos (Versão completa) | Underground WebDev](http://www.udgwebdev.com/nodejs-para-leigos/)
 
 * [Quer aprender Node.js? (Atualizado) | Underground WebDev](http://udgwebdev.com/quer-aprender-node-js-atualizado/)
+
+--
+
+* [Teach Yourself Node.JS in 10 Steps | Pony Foo](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
+
+* [7 tips for a Node.js padawan | Tech Talk — Medium](https://medium.com/tech-talk/e7c0b0e5ce3c) - Node.js development is extremely fun and satisfying. There are over 35k modules to choose from, and overall node is very easy to develop a working application that can scale easily
 
 --
 
@@ -234,6 +238,8 @@
 
 * [[GitHub] luciotato / waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell
 
+* [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
+
 --
 
 * [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
@@ -290,6 +296,8 @@
 * [How to Write a Command Line Application in Node.js | Liang Zan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/)
 
 * [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
+
+* [Build Custom Shells with Node Shotgun | Code Tunnel](http://codetunnel.com/blog/post/build-custom-shells-with-node-shotgun)
 
 --
 
@@ -438,6 +446,8 @@
 ### Modulos / Frameworks
 
 * [A collection of web frameworks for Node.js | Node Web Modules](http://nodewebmodules.com/)
+
+* [Node.js Frameworks](http://nodeframework.com/) - Hand-picked registry of Node.js frameworks
 
 --
 
