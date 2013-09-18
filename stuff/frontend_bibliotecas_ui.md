@@ -62,6 +62,10 @@
 
 * [Formbuilder.js | dobtco](http://dobtco.github.io/formbuilder/)
 
+* [React](http://facebook.github.io/react/) - A JavaScript library for building user interfaces
+
+    * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
+
 
 ### JQuery
 
