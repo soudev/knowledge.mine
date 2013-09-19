@@ -6,6 +6,8 @@
 
 * [[GitHub] smarx / othw](https://github.com/smarx/othw) - OAuth 2 the Hard Way - calling the Dropbox API without any Dropbox or OAuth libraries
 
+* [JAX-RS: OAuth2 | Apache CXF](https://cxf.apache.org/docs/jax-rs-oauth2.html)
+
 
 ## SAML
 
