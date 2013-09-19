@@ -153,6 +153,12 @@
 
 --
 
+* [API do Google Maps](https://developers.google.com/maps/?hl=pt-br)
+
+  * [Getting Started With the Google Maps API | Chris Holtz](http://chrisholtz.com/blog/getting-started-with-the-google-maps-api/)
+
+--
+
 * [gmaps.js](http://hpneo.github.io/gmaps/) - allows you to use the potential of Google Maps in a simple way.
 
 * [Create Google Maps With gmaps.js | Paulund](http://www.paulund.co.uk/create-google-maps-with-gmaps-js)
