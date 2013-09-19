@@ -43,6 +43,8 @@
 
 * [My Top 10 Sublime Text Plugins | Henrique Barroso](http://www.henriquebarroso.com/my-top-10sublime-2-plugins/)
 
+* [[GitHub] zenorocha / sublime-preferences](https://github.com/zenorocha/sublime-preferences) - The whole list of plugins, snippets and settings that I use on Sublime Text 3
+
 --
 
 * [[GitHub] fedecarg / sublime-projects](https://github.com/fedecarg/sublime-projects) - Open a Sublime Text project from the command line by automatically passing the .sublime-project file as an argument to the Sublime Text executable
