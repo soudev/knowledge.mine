@@ -256,6 +256,8 @@
 
   * [[GitHub] thiagofelix / hackynote](https://github.com/thiagofelix/hackynote) - A presentation editor and preview based on markdown. Made for hackers
 
+  * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
+
 --
 
 * [bespoke.js](http://markdalgleish.com/projects/bespoke.js/) - DYI presentation micro-framework
