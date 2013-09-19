@@ -173,6 +173,7 @@
 
 * [Using the Web Speech API to Create Voice Driven HTML5 Games | HTML5 Hub](http://html5hub.com/using-the-web-speech-api/)
 
+* [[GitHub] idflood / ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) - This is an attempt to make something like "vvvv" in javascript, html and webgl.
 
 
 #### Storage
@@ -388,6 +389,8 @@
 * [enchant.js](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps
 
 * [IIOEngine](http://iioengine.com/) - An interactive app framework for HTML5 built with canvas and javascript
+
+* [Phaser 1.0](http://phaser.io/) - Desktop and Mobile HTML5 Game Framework is released
 
 
 ### Desenvolvimento de Aplicações
