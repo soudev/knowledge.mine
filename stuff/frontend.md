@@ -80,6 +80,8 @@
 
 * [Fontastic](http://fontastic.me/) - Create Your Icon Fonts - Free icon Vectors
 
+* [Iconic - Advanced icons for the modern web](http://useiconic.com/)
+
 
 ### FavIcon
 
