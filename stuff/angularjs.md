@@ -569,9 +569,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] eu81273 / angular.treeview](https://github.com/eu81273/angular.treeview) - AngularJS based Treeview (no jQuery)
 
+--
+
 * [ngProgress](http://victorbjelkholm.github.io/ngProgress/) - Slim, site-wide progressbar for Angular
 
+* [Angular Loading Bar](http://chieffancypants.github.io/angular-loading-bar/) - An automatic loading bar using angular interceptors. It works automatically, so simply include it as a dependency and it will automatically display the progress of your $http requests.
+
 * [[GitHub] cgross / angular-busy](https://github.com/cgross/angular-busy) - Show busy/loading indicators on any element during $http requests (or any promise).
+
+--
 
 * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses.
 
@@ -587,7 +593,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular UI](http://angular-ui.github.com/) - Componentes de UI
 
-* [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
+  * [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
+
+  * [Diving deep into the AngularUI Router | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-router.html)
 
 * [AngularStrap](http://mgcrea.github.com/angular-strap/) - Bootstrap directives for AngularJS
 
