@@ -144,7 +144,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
 
-* [AngularJS Tutorial: Learn to build modern web apps | Thinkster](http://www.thinkster.io/pick/521e8672e2a3b28f98000314/angularjs-tutorial-learn-to-build-modern-web-apps)
+* [AngularJS Tutorial: Learn to build modern web apps | Thinkster](http://www.thinkster.io/pick/GUIDJbpIie/)
 
 --
 
@@ -300,6 +300,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Communication in Angular using the pubsub pattern | Per Ploug](http://scriptogr.am/pploug/post/communication-in-angular-using-the-pubsub-pattern)
 
 * [[Gist] Difference between Service, Factory and Provider in AngularJS](https://gist.github.com/Mithrandir0x/3639232)
+
+* [When to use directives, controllers, or services in Angular JS | Kirk Bushell](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
 
 * [How to create (singleton) AngularJS services in 4 different ways | JDriven BlogJDriven Blog](http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
@@ -638,6 +640,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS - Consumindo a API do GitHub](http://blog.erkobridee.com/2012/07/26/angularjs-consumindo-a-api-do-github/) | [Testar App](http://erkobridee.github.io/angularjs-github-info/) | [GitHub Code](https://github.com/erkobridee/angularjs-github-info)
 
 * [MEAN Stack](http://mean.io/) - is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
+
+  * [What is the MEAN stack? | You are IT!](http://tamaspiros.co.uk/2013/09/19/what-is-the-mean-stack/)
+
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
 
