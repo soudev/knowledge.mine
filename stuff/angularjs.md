@@ -273,6 +273,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [The AngularJS Magazine – What’s New this Week? | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/08/23/the-angularjs-magazine-what-s-new-this-week.aspx)
 
+* [AngularJS Daily](http://www.angularjsdaily.com/) - Get more out of AngularJS
+
 --
 
 * [[Android App] AngularJS Pocket Reference](https://play.google.com/store/apps/details?id=com.angularpocketreference.app&amp;amp;hl=en)
