@@ -374,6 +374,17 @@
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
 
 
+### url rewrite / proxy
+
+* [[GitHub] tinganho / connect-modrewrite](https://github.com/tinganho/connect-modrewrite) - Adds modrewrite functionality to your connect/express server
+
+* [[GitHub] viart / grunt-connect-rewrite](https://github.com/viart/grunt-connect-rewrite) - Provides RewriteRules middleware for the grunt connect / express.
+
+* [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy) - Provides a http proxy as middleware for the grunt-contrib-connect plugin. With rewrite options.
+
+
+
+
 ### NPM
 
 * [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
