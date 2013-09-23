@@ -8,11 +8,15 @@
 
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
 
+* [Branding: Google Visual Assets Guidelines | Abduzeedo Design Inspiration](http://abduzeedo.com/branding-google-visual-assets-guidelines)
+
 * [Flat Design e a Re-Cultura da Interface | iMasters](http://imasters.com.br/design-ux/teoria-do-design/flat-design-e-a-re-cultura-da-interface/)
 
 * [Flat Pixels: The Battle Between Flat Design And Skeuomorphism](http://sachagreif.com/flat-pixels/)
 
-* [Branding: Google Visual Assets Guidelines | Abduzeedo Design Inspiration](http://abduzeedo.com/branding-google-visual-assets-guidelines)
+* [Basic Principles of Flat Design | 1stwebdesigner](http://www.1stwebdesigner.com/design/flat-design-principles/) - And Resources to Get You Started!
+
+* [106 Free Flat UI Kits to Boost Your Designs in No Time | 1stwebdesigner](http://www.1stwebdesigner.com/freebies/free-flat-ui-kits/)
 
 --
 
