@@ -20,6 +20,8 @@
 
 * [Hiding JSON-formatted data in the DOM with CSP enabled | Mathias Bynens](http://mathiasbynens.be/notes/json-dom-csp) - CSP = [Content Security Policy](http://www.w3.org/TR/CSP/)
 
+* [Getting Started with JSON | Codular](http://codular.com/json)
+
 
 ## Ferramentas
 
