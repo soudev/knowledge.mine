@@ -140,6 +140,10 @@
 
 * [sigma.js](http://sigmajs.org/) - is an open-source lightweight JavaScript library to draw graphs, using the HTML canvas element
 
+* [[GitHub] jdonaghue / loupe](https://github.com/jdonaghue/loupe) - A pure JavaScript data visualization library
+
+  * [Introducing Loupe | Spectacle Labs Blog](http://spectaclelabs.io/blog/2013/09/20/introducing-loupe/)
+
 
 #### Mapas
 
