@@ -201,11 +201,13 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [Configurando proxy no Git](http://rodrigoramalho.org/2012/03/14/configurando-proxy-no-git/)
+
+--
+
 * [GitHub Flow in the Browser | GitHub Blog](https://github.com/blog/1557-github-flow-in-the-browser)
 
 * [Release Your Software | GitHub Blog](https://github.com/blog/1547-release-your-software)
-
-* [Configurando proxy no Git](http://rodrigoramalho.org/2012/03/14/configurando-proxy-no-git/)
 
 * [Git Howto: Revert a Commit Already Pushed to a Remote Repository](http://christoph.ruegg.name/blog/2010/5/5/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 
@@ -236,11 +238,20 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [git-svn(1) Manual Page | Kernel.org](https://www.kernel.org/pub/software/scm/git/docs/git-svn.html)
+
 * [Como migrar um repositório de códigos Svn para Git | iMasters](http://imasters.com.br/desenvolvimento/como-migrar-um-repositorio-de-codigos-svn-para-git/)
 
 * [8.2 Git e Outros Sistemas - Migrando para o Git | Pro Git](http://git-scm.com/book/pt-br/Git-e-Outros-Sistemas-Migrando-para-o-Git)
 
+* [Migrating from SVN to Git, preserving branches and tags | Sailmaker Blog](http://www.sailmaker.co.uk/blog/2013/05/05/migrating-from-svn-to-git-preserving-branches-and-tags-3/)
+
 * [Migrando um repositório SVN para GIT | leonardofaria.net](http://leonardofaria.net/2013/01/04/migrando-um-repositorio-svn-para-git/)
+
+* [Converting subversion to git redux | linsec.ca blog ](http://linsec.ca/blog/2013/04/27/converting-subversion-to-git-redux/) 
+
+* [Converting a Subversion repository to Git | JohnAlbin](http://john.albin.net/git/convert-subversion-to-git) - 7 steps to migrate a complete mirror of svn in git
+
 
 
 ### Branch
