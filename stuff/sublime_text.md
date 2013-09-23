@@ -49,7 +49,6 @@
 
 * [[GitHub] fedecarg / sublime-projects](https://github.com/fedecarg/sublime-projects) - Open a Sublime Text project from the command line by automatically passing the .sublime-project file as an argument to the Sublime Text executable
 
-
 ### Build
 
 * [Custom Sublime Text Build Systems For Popular Tools And Languages | AddyOsmani.com](http://addyosmani.com/blog/custom-sublime-text-build-systems-for-popular-tools-and-languages/)
@@ -68,6 +67,10 @@
 * [Setting OS X Path variable for Sublime | super user](http://superuser.com/questions/448476/setting-os-x-path-variable-for-sublime)
 
 * [can not run node app with nodejs sublime plugin | stackoverflow](http://stackoverflow.com/questions/12124544/can-not-run-node-app-with-nodejs-sublime-plugin)
+
+### Open Terminal
+
+* [Sublime Terminal – a Sublime Text 2 Package | wbond](http://wbond.net/sublime_packages/terminal) - Shortcuts and menu entries for opening a terminal at the current file, or the current root project folder in Sublime Text 2
 
 
 ## Packages / Plugins
