@@ -60,6 +60,8 @@
 
 * [Sass](http://sass-lang.com/) - is an extension of CSS3, adding nested rules, variables, mixins, selector inheritance, and more.
 
+* [SassME](http://sassme.arc90.com/) - Essa ferramenta proporciona uma interface para ajudar a descobrir novas cores usando as funções de cores do Sass
+
 * [Getting Started With Sass: Installation And The Basics](http://www.hongkiat.com/blog/getting-started-saas/)
 
 
