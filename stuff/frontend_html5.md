@@ -85,6 +85,8 @@
 
 * [Tools to Package Your HTML5 App for Mobile Devices](http://jster.net/blog/tools-to-package-your-html5-app-for-mobile-devices)
 
+* [FireShell](http://getfireshell.com/) - fiercely quick front-end boilerplate and workflows
+
 
 
 ### Dicas
@@ -286,6 +288,10 @@
 
 * [Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html) - jQuery-plugin for playing sounds on events
 
+* [[GitHub] eshiota / retro-audio-js](https://github.com/eshiota/retro-audio-js) - Web Audio API based retro player that give us that nostalgic feelings
+
+  * [Retro.js Demo](http://eshiota.com/experiments/retrojs/) - Uma lib que usa a Web Audio API para tocar teclado usando uma representação em JSON de partituras de teclado, no site tem exemplo de 3 músicas
+
 --
 
 * [heatmap.js | Create HTML5 Heatmaps with Canvas and JavaScript](http://www.patrick-wied.at/static/heatmapjs/) | [Sample](http://www.heatmapjs.com/)
@@ -372,6 +378,8 @@
 * [EndGate](http://endgate.net/) - a game framework to build powerful HTML5 games
 
 * [Senshi | Zolmeister](http://www.zolmeister.com/2013/09/senshi-mmo-battle-royale-inspired-html5.html) - an open source MMO Battle-Royale inspired HTML5 game
+
+* [The JavaScript Warrior](http://jswarrior.fusioncharts.com/) - Welcome to the JSWarrior Game. Unlike traditional games, you can't control your character through a keyboard or joystick. The only way you can control your character is through JavaScript.
 
 
 ##### Game Engine
