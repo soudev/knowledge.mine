@@ -158,6 +158,10 @@
 
 --
 
+* [[GitHub] MatthewMueller / coderunner](https://github.com/matthewmueller/coderunner) - Run server-side code quickly and securely in the browser
+
+--
+
 * [[GitHub] idflood / ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) - This is an attempt to make something like "vvvv" in javascript, html and webgl.
 
 --
@@ -221,6 +225,8 @@
 
   * [Use Node.js to Extract Data from the Web for Fun and Profit | Stormin' The Castle](http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/)
 
+  * [Mineração de dados e as funções map, reduce e filter | NodeBR - NodeJS Brasil](http://nodebr.com/mineracao-de-dados-e-as-funcoes-map-reduce-filter/)
+
 * [[GitHub] edwardhotchkiss / short](https://github.com/edwardhotchkiss/short) - Promise-based Node.js URL Shortener backed by Mongoose.js
 
   * [[GitHub] thinkroth / shortUrl](https://github.com/thinkroth/shortUrl) - Another short url service in node.js
@@ -251,6 +257,8 @@
 --
 
 * [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
+
+* [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
 
 
 ## Dicas
@@ -374,6 +382,8 @@
 
 * [The Node Toolbox - Node.js happiness](http://nodetoolbox.com/) - is a catalogue of Node.js packages, tools and resources with popularity ratings based on Github watchers and forks
 
+* [Node Modules](http://node-modules.com/) - Better search for Node.js modules
+
 --
 
 * [npm cheatsheet | Nodejitsu](https://blog.nodejitsu.com/npm-cheatsheet)
@@ -409,6 +419,8 @@
 * [Node.js and MongoDB | Modulus Blog](http://blog.modulus.io/getting-started-with-mongoose) - Getting Started with Mongoose
 
 * [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
+
+* [Nodejs e MongoDB - Introdução ao Mongoose | NodeBR - NodeJS Brasil](view-source:http://nodebr.com/nodejs-e-mongodb-introducao-ao-mongoose/)
 
 
 ### Nuvem
