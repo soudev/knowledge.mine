@@ -97,6 +97,9 @@
 
 * [Learn REST: A RESTful Tutorial](http://www.restapitutorial.com/) | [HTTP Status Codes](http://restpatterns.org/HTTP_Status_Codes)
 
+* [The HTTP status codes in IIS 7.0 and in IIS 7.5 | x443](http://x443.wordpress.com/2012/12/02/the-http-status-codes-in-iis-7-0-and-in-iis-7-5/)
+
+
 ### JIRA
 
 * [JIRA REST API documentation](https://docs.atlassian.com/jira/REST/latest/)
