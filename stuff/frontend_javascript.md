@@ -113,6 +113,10 @@
 
 --
 
+* [JavaScript Observer (Publish/Subscribe) Pattern](http://bumbu.ru/javascript-observer-publish-subscribe-pattern/)
+
+--
+
 * [JavaScript encapsulation & the module pattern](http://www.aviyehuda.com/blog/2013/01/12/javascript-encapsulation-the-module-pattern-for-beginners/)
   
 * [JavaScript Namespaces and Modules | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/)
@@ -189,6 +193,8 @@
 * [Searching with Array.prototype.some](http://ariya.ofilabs.com/2013/08/searching-with-array-prototype-some.html) - ECMAScript 5.1
 
 * [How to remove an element from an array | Simone Web Design](http://simonewebdesign.it/blog/how-to-remove-element-from-array/)
+
+* [Filtering Arrays with Array#filter | Design Pepper](http://designpepper.com/blog/drips/filtering-arrays-with-array-filter)
 
 --
 
@@ -281,6 +287,8 @@
 
 * [JavaScript object pooling | Qoopido](http://www.qoopido.com/articles/javascript-object-pooling/)
 
+* [How to really defer loading javascript](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Deferring javascript using the method recommended by Google allows for quicker crisper page loads
+
 
 ### Sistema de Dependências e Módulos
 
@@ -363,6 +371,8 @@
 --
 
 * [[GitHub] allouis / minivents](https://github.com/allouis/minivents) - Small event system for javascript
+
+* [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
 
 --
 
@@ -576,6 +586,8 @@
 * [Bower components](http://sindresorhus.com/bower-components/) - Sistema de busca dos pacotes/componentes indexados pelo Bower
 
 * [[YouTube] Conheça o Bower](https://www.youtube.com/watch?v=0XffYRF7-G0)
+
+* [Gerenciando dependências client-side com Bower | Simples Ideias]()
 
 * [Client-Side Dependency Management With Bower | TysonJS](http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower)
 
