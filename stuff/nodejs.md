@@ -365,6 +365,10 @@
 
 --
 
+* [How to Create a Resumable Video Uploader in Node.js | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-a-resumable-video-uploade-in-node-js/)
+
+--
+
 * [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
 
 * [Testing Private State and Mocking Dependencies | How To Node - NodeJS](http://howtonode.org/testing-private-state-and-mocking-deps)
@@ -432,6 +436,11 @@
 * [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
 
 * [Nodejs e MongoDB - Introdução ao Mongoose | NodeBR - NodeJS Brasil](view-source:http://nodebr.com/nodejs-e-mongodb-introducao-ao-mongoose/)
+
+--
+
+* [[GitHub] BagosGiAr / modQuery](https://github.com/BagosGiAr/modQuery) - A module to use for MySQL queries with respect to SQL.
+
 
 
 ### Nuvem
