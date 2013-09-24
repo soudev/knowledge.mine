@@ -61,4 +61,11 @@
 
 * [130+ essential vim commands | CatsWhoCode](http://www.catswhocode.com/blog/130-essential-vim-commands)
 
+### Brackets
+
+* [Brackets.io](http://brackets.io/)
+
+  * [[GitHub] adobe / brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+
+  * [[YouTube] Brackets Live Development for HTML & CSS](https://www.youtube.com/watch?v=Nhvj1NYC3Uc)
 
