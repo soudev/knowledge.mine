@@ -272,6 +272,14 @@
 
 --
 
+* [[GitHub] maroslaw / rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window (use canvas)
+
+  * [Creating a Realistic Rain Effect with Canvas and JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
+
+  * [rainyday.js | CreativeJS](http://creativejs.com/2013/09/rainyday-js/)
+
+--
+
 * [[GitHub] TalAter / annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition
 
 * [Popcorn.js](http://popcornjs.org/) - The HTML5 Media Framework
