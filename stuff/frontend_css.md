@@ -60,6 +60,8 @@
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
+* [Modos de Mesclagem em CSS | Tableless](http://tableless.com.br/modos-de-mesclagem-em-css/) - Neste artigo entenda como funcionam os modos de mesclagem e saiba como utilizar cada um deles através de simples parâmetros de CSS.
+
 
 ### Media Query
 
