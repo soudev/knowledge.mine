@@ -533,6 +533,8 @@
 
 * [[GitHub] mrichard / generator-marionette](https://github.com/mrichard/generator-marionette) - Yeoman marionette generator a la AMD
 
+* [[GitHub] yeoman / generator-mobile](https://github.com/yeoman/generator-mobile/) - A Yeoman generator for mobile-first web apps
+
 
 #### DevTools
 
