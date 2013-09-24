@@ -97,6 +97,7 @@
 
 * [Spring Data Neo4j](http://www.springsource.org/spring-data/neo4j)
 
+
 ### Caso de Uso
 
 * [GitMoon](http://www.gitmoon.com/) | [[GitHub] yaronn / gitmoon](https://github.com/yaronn/gitmoon) - Social analytics for node.js open source developers
@@ -109,6 +110,20 @@
 
 * [[GitHub] foursquare/fongo](https://github.com/foursquare/fongo) - faked out in-memory mongo for java 
 
+
+### CouchDB
+
+* [CoucgDB | Apache](https://couchdb.apache.org/)
+
+* [CouchBase](http://www.couchbase.com/)
+
+  * [Couchbase Lite | CouchBase](http://www.couchbase.com/communities/couchbase-lite) - The NoSQL Mobile Database
+
+    * [Couchbase ‘JSON Anywhere’ Mobile Strategy - First NoSQL database for mobile | CouchBase](http://blog.couchbase.com/couchbase-json-anywhere-mobile-strategy-first-nosql-database-mobile)
+
+    * [Couchbase Announces First NoSQL Database For Mobile Devices | Tools Journal](http://www.toolsjournal.com/mobile-articles/item/2242-couchbase-announces-first-nosql-database-for-mobile-devices)
+
+
 ### MongoDB
 
 * [MongoDB](http://www.mongodb.org/)
@@ -118,6 +133,10 @@
 > Banco de Dados NoSQL (não relacional, sem esquema de dados fixo).
 >
 > Mantido pela empresa [10gen](http://www.10gen.com/), a qual fornece treinamentos e suporte pago ao MongoDB.
+> 
+> A empresa 10gen mudou de nome para MongoDB Inc. [MongoDB.com](https://www.mongodb.com/)
+>
+> [10gen Announces Company Name Change to MongoDB, Inc. | MongoDB](https://www.mongodb.com/press/10gen-announces-company-name-change-mongodb-inc)
 >
 
 
