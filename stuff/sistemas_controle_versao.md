@@ -253,6 +253,14 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Converting a Subversion repository to Git | JohnAlbin](http://john.albin.net/git/convert-subversion-to-git) - 7 steps to migrate a complete mirror of svn in git
 
 
+#### Problema conhecido
+
+* [Git Svn clone certain revision, and continue cloning other revisions in the future](http://fatalweb.com/question/git-svn-clone-certain-revision-and-continue-cloning-other-revisions-in-the-future-17689582.html)
+
+> RA layer request failed: REPORT request failed on '/svn/project/!svn/vcc/default': REPORT of '/svn/project/!svn/vcc/default': Could not read chunk size: Secure connection truncated (https://svn.myserver.com) at /usr/lib/perl5/site_perl/Git/SVN/Ra.pm line 282
+
+* sugestão puxar parcialmente, iniciando em -r1:10000, por exemplo e depois puxar as demais partes
+
 
 ### Branch
 
