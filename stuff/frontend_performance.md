@@ -30,6 +30,8 @@
 
 * [Acochambramento - Deixe o embed do YouTube mais leve e personalizado no seu Blog | EvelRyu](http://evelryu.com.br/deixe-o-embed-do-youtube-mais-leve-e-personalizado-no-seu-blog/)
 
+* [Performance Optimizing for Smart Layers | AddThis Blog](http://www.addthis.com/blog/2013/09/17/performance-optimizing-for-smart-layers)
+
 --
 
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
