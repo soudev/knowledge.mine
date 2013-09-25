@@ -22,6 +22,8 @@
 
 * [Getting Started with JSON | Codular](http://codular.com/json)
 
+* [JSON Tutorial | w3resource](http://www.w3resource.com/JSON/introduction.php)
+
 
 ## Ferramentas
 
