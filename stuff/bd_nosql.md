@@ -206,6 +206,8 @@
 
 * [How to use Go language and MongoDB | g33k talk](http://g33ktalk.com/10gen-how-we-use-go-and-mongodb-by-sam-helman/)
 
+* [Using MongoDB as your primary Django database](http://staltz.github.io/djangoconfi-mongoengine/) - By Andre Medeiros at DjangoCon Finland 2013
+
 
 #### Ferramentas
 
