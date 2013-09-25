@@ -280,6 +280,10 @@
 
 --
 
+* [[GitHub] kovacsv / JSModeler](https://github.com/kovacsv/JSModeler) - A JavaScript framework to create and visualize 3D models.
+
+--
+
 * [[GitHub] TalAter / annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition
 
 * [Popcorn.js](http://popcornjs.org/) - The HTML5 Media Framework
