@@ -698,6 +698,8 @@ Projeto de exemplo / estrutura inicial
 
 --
 
+* [Intuitive AngularJS testing with Jasmine | HP Enterprise Business Community](http://h30499.www3.hp.com/t5/HP-Software-Developers-Blog/Intuitive-AngularJS-testing-with-Jasmine/ba-p/6159427) | [[Slid.es] angularjs-testing](http://slid.es/eitanpeer/angularjs-testing) - This presentation covers Jasmine, testing angular.js with Jasmine and even a small exercise (+solution)
+
 * [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
 
 * [How To Unit Test An Angular App | Alex Rothenberg](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
@@ -742,4 +744,11 @@ Projeto de exemplo / estrutura inicial
 * [Mocking Server Dependencies in JavaScript and AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
 
 * [How to verify JSON data with AngularJS $httpBackend | Thinking in Crowd](http://www.thinkingincrowd.me/blog/2013/06/08/how-to-verify-json-data-with-angularjs-httpbackend/)
+
+
+### CI
+
+* [[Google Docs] Continuous Integration Testing of AngularJS](https://docs.google.com/presentation/d/1-j264F0Q8k3NzionQspx7fhKd2E8XPkIKItxz2qhN28)
+
+  * Jenkins CI : [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org)
 
