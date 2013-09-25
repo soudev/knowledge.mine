@@ -147,3 +147,7 @@
 
 * [Automatically download & use FrontEnd JS dependencies with Bower + Grunt boilerplate free](http://www.blogeek.com.ar/2013/04/25/automatically-download-use-frontend-js-dependencies-with-bower-grunt-boilerplate-free/)
 
+
+##### Construído sobre o Grunt.js
+
+* [Lineman](http://www.linemanjs.com/) - Build awesome web apps, easily. Lineman got its name from finding that the word "grunt" was first used to describe unskilled railroad workers. Grunts that made the cut were promoted to linemen.
