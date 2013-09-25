@@ -156,6 +156,8 @@
 
   * [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
 
+  * [Introduction to Photoshop Generator | Lee Brimelow](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
+
 --
 
 * [[GitHub] MatthewMueller / coderunner](https://github.com/matthewmueller/coderunner) - Run server-side code quickly and securely in the browser
