@@ -301,6 +301,8 @@
 
 * [How AngularJS (DI) Made Me a Better Node.js Developer | Liam Kaufman](http://liamkaufman.com/blog/2013/08/06/how-angularjs-made-me-a-better-nodejs-developer/)
 
+* [Dependency Injection in Node.JS | Tech @ i.TV](http://tech.i.tv/09-17-2013/dependency-injection-in-nodejs/)
+
 --
 
 * [Install node.js on a raspberry pi](http://halusanation.com/post/49221746344/install-node-js-on-a-raspberry-pi)
@@ -442,6 +444,10 @@
 --
 
 * [[GitHub] BagosGiAr / modQuery](https://github.com/BagosGiAr/modQuery) - A module to use for MySQL queries with respect to SQL.
+
+--
+
+* [[GitHub] philipp-spiess / json-db](https://github.com/philipp-spiess/json-db) - A lightweight database for your node.js app.
 
 
 
