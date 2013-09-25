@@ -524,6 +524,16 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angularjs-nvd3-directives](http://cmaurer.github.io/angularjs-nvd3-directives/index.html) - Angular.js directives for nvd3.js
 
+--
+
+* [Use Cases of AngularJS Directives | Web Development blog](http://blog.brunoscopelliti.com/use-cases-of-angularjs-directives)
+
+* [A directive to manage file upload in an AngularJS application | Web Development blog](http://blog.brunoscopelliti.com/a-directive-to-manage-file-upload-in-an-angularjs-application)
+
+* [AngularJS Directive to check that passwords match | Web Development blog](http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
+
+* [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
+
 
 ### Filters
 
@@ -688,11 +698,35 @@ Projeto de exemplo / estrutura inicial
 
 --
 
+* [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
+
+* [How To Unit Test An Angular App | Alex Rothenberg](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
+
+* [Full-Spectrum Testing with AngularJS and Karma | Year of moo](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html) - Learn how to fully test your AngularJS application with Karma
+
+  * [[GitHub] yearofmoo-articles / AngularJS-Testing-Article](https://github.com/yearofmoo-articles/AngularJS-Testing-Article) - A testing repository for AngularJS
+
+--
+
 * [How To Test An AngularJS Directive | Newtriks LTD](http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
 
 * [[GitHub] vojtajina / ng-directive-testing](https://github.com/vojtajina/ng-directive-testing) - Simple example of testing Angular's directives
 
+* [Testing AngularJS Directives:  Handling External Templates | Portland Webworks](http://www.portlandwebworks.com/blog/testing-angularjs-directives-handling-external-templates)
+
 --
+
+* Try, Catch, Fail : AngularJS - Unit Testing
+
+  * [Controllers](http://www.benlesh.com/2013/05/angularjs-unit-testing-controllers.html)
+
+  * [Services](http://www.benlesh.com/2013/06/angular-js-unit-testing-services.html)
+
+  * [Directives](http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
+
+
+
+### Mock
 
 * [How to mock AngularJS modules and inject them in your testacular tests?](http://southdesign.de/blog/mock-angular-js-modules-for-test-di.html)
 
@@ -701,8 +735,4 @@ Projeto de exemplo / estrutura inicial
 * [Mocking Server Dependencies in JavaScript and AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
 
 * [Prototype Angular UIs Without A Backend | OpenSource Connections](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
-
-* [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
-
-* [How To Unit Test An Angular App | Alex Rothenberg](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
 
