@@ -724,6 +724,9 @@ Projeto de exemplo / estrutura inicial
 
   * [Directives](http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
 
+-- 
+
+* [[GitHub] michaelgruczel / angularJs-Jasmine-Example](https://github.com/michaelgruczel/angularJs-Jasmine-Example) - This is an extremely simple example for angular js and jasmine
 
 
 ### Mock
