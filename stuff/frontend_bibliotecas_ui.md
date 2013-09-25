@@ -242,9 +242,13 @@
 
 #### Gantt
 
-* [The JavaScript Gantt odyssey](http://roberto.open-lab.com/2012/06/14/the-javascript-gantt-odyssey/)
-
 * [Teamwork Gantt](http://gantt.twproject.com/) - is a free online tool for creating Gantts
+
+  * [The JavaScript Gantt odyssey](http://roberto.open-lab.com/2012/06/14/the-javascript-gantt-odyssey/)
+
+* [dhtmlxGantt | dhtmlx](http://www.dhtmlx.com/docs/products/dhtmlxGantt/index.shtml) - pago, gratuito GPL apenas para projetos gratuitos
+
+  * [dhtmlxGantt 2.0 - Interactive JavaScript Gantt Chart | dhtmlx](http://www.dhtmlx.com/blog/?p=1993)
 
 
 ### DataGrid
