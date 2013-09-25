@@ -728,11 +728,15 @@ Projeto de exemplo / estrutura inicial
 
 ### Mock
 
+* [Prototype Angular UIs Without A Backend | OpenSource Connections](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
+
+--
+
 * [How to mock AngularJS modules and inject them in your testacular tests?](http://southdesign.de/blog/mock-angular-js-modules-for-test-di.html)
 
 * [Supplying Mocks for Services via $provide | Tech Pro](http://tech.pro/tutorial/1517/supplying-mocks-for-services-via-provide)
 
 * [Mocking Server Dependencies in JavaScript and AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
 
-* [Prototype Angular UIs Without A Backend | OpenSource Connections](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
+* [How to verify JSON data with AngularJS $httpBackend | Thinking in Crowd](http://www.thinkingincrowd.me/blog/2013/06/08/how-to-verify-json-data-with-angularjs-httpbackend/)
 
