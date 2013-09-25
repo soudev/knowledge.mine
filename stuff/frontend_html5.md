@@ -360,6 +360,10 @@
 
 #### Storage
 
+* [TaffyDB](http://www.taffydb.com/) - The JavaScript Database
+
+* [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
+
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 
 * [JayData](http://jaydata.org/) - The cross-platform HTML5 data-management library for JavaScript
