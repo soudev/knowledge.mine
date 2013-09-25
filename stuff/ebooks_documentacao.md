@@ -14,6 +14,8 @@
 
 * [50 Web Developer Documentation Manuals You Need To Know About](http://www.codedevelopr.com/articles/50-web-developer-documentation-manuals-you-need-to-know-about/)
 
+* [bento](http://www.bentobox.io/) - Everything you need to know about web development. Neatly packaged.
+
 * [Being A Web Developer - Front end standards](http://www.yellowshoe.com.au/standards/) - This little book is to aid a shared understanding of front-end development best practice
 
 * [OverAPI.com | Collecting all the cheatsheets](http://overapi.com/)
