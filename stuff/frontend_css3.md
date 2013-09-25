@@ -30,6 +30,10 @@
 
 ### Animation
 
+* [Optimizing CSS3 for GPU Compositing](http://ariya.ofilabs.com/2013/06/optimizing-css3-for-gpu-compositing.html) - Modern web browsers can leverage the ubiquitous graphics processing unit (GPU), both in mobile and desktop, to accelerate page rendering. This is particularly suitable for popular CSS features such as animation, transition, opacity, transformation, and many others. Web developers however need to ensure that all the bits and pieces work well to achieve the ideal 60 frames per second.
+
+--
+
 * [Simplest Way to Create Cool CSS3 Animation Effects | Queness](http://www.queness.com/post/14835/simplest-way-to-create-cool-css3-animation-effects)
 
 * [CSS3 Animation Cheat Sheet | Justin Aguilar](http://www.justinaguilar.com/animations/)
