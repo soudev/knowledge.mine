@@ -424,9 +424,15 @@
 
 --
 
-* [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
-
 * [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
+
+--
+
+* [TaffyDB](http://www.taffydb.com/) - The JavaScript Database
+
+* [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
+
+* [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 
 --
 
@@ -636,6 +642,8 @@
 * [MVC Architecture](http://developer.chrome.com/trunk/apps/app_frameworks.html)
 
 * [TodoMVC](http://addyosmani.github.com/todomvc/) - Helping you select an MV* framework
+
+    * [How Complex are TodoMVC Implementations | CoderStats Blog](http://blog.coderstats.net/todomvc-complexity/)
 
 * [Journey Through The JavaScript MVC Jungle | Smashing Coding](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
 
