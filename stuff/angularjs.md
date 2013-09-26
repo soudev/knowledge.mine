@@ -534,6 +534,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 
+* [Building a Custom AngularJS Unique Value Directive | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/09/24/building-a-custom-angularjs-unique-value-directive.aspx) - To see the directive in an actual application check out the [Customer Manager sample application](https://github.com/DanWahlin/CustomerManagerStandard) 
+
 
 ### Filters
 
@@ -668,6 +670,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] yrezgui / kodigon](https://github.com/yrezgui/kodigon) - is a web application which encode and decode (if possible) string in many algorithm formats lke Base64, MD5, SHA1, etc. It's an example of AngularJS use.
 
+* [[GitHub] DanWahlin / CustomerManagerStandard](https://github.com/DanWahlin/CustomerManagerStandard) - Customer Manager AngularJS/BreezeJS Application.
 
 
 ### Angular-Seed
