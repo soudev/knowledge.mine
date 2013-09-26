@@ -148,6 +148,8 @@
 
 * [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 
+* [Unicode and JavaScript | 2 ality](http://www.2ality.com/2013/09/javascript-unicode.html)
+
 * [7 JavaScript Basics Many Developers Aren't Using (Properly) | Tech.Pro](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
 
 * [An interesting kind of JavaScript memory leak | Meteor Blog](http://www.meteor.com/blog/2013/08/13/an-interesting-kind-of-javascript-memory-leak)
@@ -565,6 +567,10 @@
 
 * [Java,Coffee,Live Script terminal for Firefox | more info](https://github.com/paulmillr/firefox-jsterm)
 
+* Reintroducing the Firefox Developer Tools | Mozilla Hacks
+
+    * [part 1: the Web Console and the JavaScript Debugger](https://hacks.mozilla.org/2013/09/reintroducing-the-firefox-developer-tools-part-1-the-web-console-and-the-javascript-debugger/)
+
 
 ##### Google Chrome
 
@@ -674,6 +680,8 @@
 * [Knockout.js](http://knockoutjs.com/)
 
     * [KnockoutJS Tips and Tricks | Tech Pro](http://tech.pro/tutorial/1559/knockoutjs-tips-and-tricks)
+
+    * [Knockout.js Lesson 1 - Introduction | Tech Pro](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
 
 --
 
