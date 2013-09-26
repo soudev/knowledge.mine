@@ -751,7 +751,27 @@ Projeto de exemplo / estrutura inicial
 
 ### CI
 
-* [[Google Docs] Continuous Integration Testing of AngularJS](https://docs.google.com/presentation/d/1-j264F0Q8k3NzionQspx7fhKd2E8XPkIKItxz2qhN28)
+* Jenkins CI : [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org)
 
-  * Jenkins CI : [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org)
+* [[YouTube] AngularJS CI Server Overview](https://www.youtube.com/watch?v=5GGMa6mmcg0) - 03/09/2011
+
+--
+
+* [The AngularJS CI Server: Automated cross-browser testing for fun and profit](http://www.meetup.com/AngularJS-MTV/events/102051832/) -  AngularJS Mountain View (Mountain View, CA) | Meetup
+
+  * [[YouTube] Feb - AngularJS MTV Meetup Livestream: CI Server](https://www.youtube.com/watch?v=BNpV7npURhE) - 12/02/2013
+
+    * [[Google Docs] Continuous Integration Testing of AngularJS](https://docs.google.com/presentation/d/1-j264F0Q8k3NzionQspx7fhKd2E8XPkIKItxz2qhN28)
+
+--
+
+* [Getting Jenkins ready for Node.js and AngularJS testing | Shane A. Stillwell](http://www.shanestillwell.com/2013/01/15/getting-jenkins-ready-for-node-js-and-angularjs-testing/) - Setting up Jenkins for Node.js + Mocha testing and such Install this stuff. Node.js via Nave.
+
+* [Using Testacular(Karma) with Jenkins for AngularJS e2e Testing | Shane A. Stillwell](http://www.shanestillwell.com/2013/01/09/using-testacular-with-jenkins-for-angularjs-e2e-testing/)
+
+--
+
+* [Jenkins Configuration for a Yeoman based AngularJS web application | Portland Webworks](http://www.portlandwebworks.com/blog/jenkins-configuration-yeoman-based-angularjs-web-application)
+
+* [Continuous Deployment with Yeoman and Jenkins | weluse GmbH](https://weluse.de/blog/continuous-deployment-with-yeoman-and-jenkins.html)
 
