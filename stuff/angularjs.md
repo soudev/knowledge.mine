@@ -341,6 +341,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Displaying json array data with AngularJS and ng-grid | Genlinux.rb](http://www.genlinux.org/2013/08/displaying-json-array-data-with-angular.html)
 
+* [Breaking the Ice with AngularUI Utils | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-utils.html)
+
 --
 
 * [Busca no Jekyll usando AngularJS | Frelleto Blog](http://blog.frelleto.com.br/javascript/angularjs/2013/08/10/busca-no-jekyll-usando-angularjs/)
