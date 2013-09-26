@@ -57,6 +57,8 @@
 
 * [Understanding JavaScript Inheritance | Alex Sexton](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 
+* [JavaScript: entendendo o this | Tableless](http://tableless.com.br/javascript-entendendo-o-this/) - Conheça mais sobre a palavra reservada this e entenda  como funciona o escopo de um objeto JavaScript.
+
 * [Avoiding the *this* problem in JavaScript | Tech.Pro](http://tech.pro/tutorial/1192/avoiding-the-this-problem-in-javascript)
 
 * [Demystifying *this*](http://toshsharma.github.io/presentation-this) - Understanding the 'this' keyword in JavaScript. by Ashutosh Sharma
