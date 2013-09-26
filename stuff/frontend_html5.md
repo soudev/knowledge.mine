@@ -167,6 +167,12 @@
 
 * [Using WebGL to Add 3D Effects to Your Website | HTML5 Hub](http://html5hub.com/using-webgl-to-add-3d-effects-to-your-website)
 
+* [Barry Martin's Hopalong Orbits Visualizer - WebGL Experiment](http://iacopoapps.appspot.com/hopalongwebgl/) - An interactive flight through attractor orbits generated using Barry Martin's Hopalong formula.
+
+--
+
+* [Announcing Artillery's Project Atlas, a Hardcore RTS for the Browser | The Artillery Blog](http://blog.artillery.com/2013/09/project-atlas-and-the-artillery-platform.html) - HTML5 Game Development and Engineering. The Artillery Platform, which Atlas is built upon, uses JavaScript and WebGL to deliver a high-quality, low-latency multiplayer gaming experience to anyone with a modern web browser. The platform is centered around 3D experiences with real-time multiplayer capability and strong community support. The JavaScript-based game engine features a component-entity design, a modern deferred rendering pipeline, and development tools designed to allow creative expression and super-fast iteration.
+
 --
 
 * [HTML5 Game Development | Eric Terpstra](http://slides.ericterpstra.com/html5games) - A presentation on getting started creating games on the web.
