@@ -409,7 +409,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Adding a Table of Contents to your Github Wiki | BLACKBELT](http://blackbe.lt/github-wiki-sidebar-table-contents-header-footer/)
 
 
-### Sistemas de Blog
+### Sistemas de Blog e Sites Estáticos
+
+* [[GitHub] pinceladasdaweb / Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
+
 
 #### Octopress
 
@@ -435,6 +438,15 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Hexo - Node.js blog framework](http://zespia.tw/hexo/) - A fast, simple & powerful blog framework, powered by Node.js
 
 
+#### Docpad
+
+* [DocPad - Streamlined Web Development](http://docpad.org/) - build on top of node.js - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. Use it either standalone, as a build script, or even as a module in a bigger system. Either way, DocPad will streamline your web development process allowing you to craft full-featured websites quicker than ever before.
+
+* [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
+
+* [Primeiros passos com o Docpad | Luiz Felipe Tartarotti Fialho](http://www.felipefialho.com/blog/2013/primeiros-passos-com-o-docpad/)
+
+
 ### Markdown
 
 * [John Gruber's original spec](http://daringfireball.net/projects/markdown/)
@@ -453,6 +465,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
 
+
 #### Markdown editor
 
 * [Mou - Markdown editor for web developers](http://mouapp.com/) - on Mac OS X
@@ -460,6 +473,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Haroopad - Multimarkdown editor based on node-webkit](http://pad.haroopress.com/) - Windows / Linux / Mac [[GitHub] code](https://github.com/rhiokim/haroopad)
 
 * [78 Tools for Writing and Previewing Markdown | Mashable](http://mashable.com/2013/06/24/markdown-tools/)
+
 
 #### Markdown online tools
 
