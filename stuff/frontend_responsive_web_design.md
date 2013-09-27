@@ -16,9 +16,13 @@
 
 * [Responsive Navigation: Optimizing for Touch Across Devices | LukeW](http://www.lukew.com/ff/entry.asp?1649)
 
+
 * [Mastering Real-World Constraints (A Case Study) | Smashing UX Design](http://uxdesign.smashingmagazine.com/2013/03/28/mastering-real-world-constraints/)
 
 * [Improve Mobile Support With Server-Side-Enhanced Responsive Design | Smashing Mobile](http://mobile.smashingmagazine.com/2013/04/09/improve-mobile-support-with-server-side-enhanced-responsive-design/)
+
+* [Adapting To A Responsive Design (Case Study) | Smashing Mobile](http://mobile.smashingmagazine.com/2013/06/18/adapting-to-a-responsive-design-case-study/)
+
 
 * [Simple Responsive Images With CSS Background Images | Smashing Mobile](http://mobile.smashingmagazine.com/2013/07/22/simple-responsive-images-with-css-backgrounds/)
 
