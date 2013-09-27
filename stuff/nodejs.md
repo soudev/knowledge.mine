@@ -102,6 +102,8 @@
 
 ## Casos de Uso
 
+* [Can You Count on Node? - Blog - Joyent](http://joyent.com/blog/can-you-count-on-node)
+
 * [Geekli.st](https://geekli.st/erkobridee/invite/196DA487FB) - rede social construída com Node.js | [Sobre a Geekli.st e tecnologias utilizadas](https://geekli.st/about)
 
 * [GitMoon](http://www.gitmoon.com/) Social analytics for Node.js developers | [GitHub : code](https://github.com/yaronn/gitmoon)
@@ -110,7 +112,7 @@
 
 * [How We Built eBay’s First Node.js Application](http://www.ebaytechblog.com/2013/05/17/how-we-built-ebays-first-node-js-application/)
 
-* [Can You Count on Node? - Blog - Joyent](http://joyent.com/blog/can-you-count-on-node)
+* [Getting Physical: Networked Hardware with Node.js | InfoQ](http://www.infoq.com/presentations/Hardware-Nodejs-WiFi-XBee) - Ted Hayes discusses WiFi, XBee and their associated network topologies, and demoes controlling a networked pong game with a physical joystick using Node.js.
 
 
 
