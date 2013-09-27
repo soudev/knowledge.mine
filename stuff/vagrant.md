@@ -14,6 +14,12 @@
 
 * [Pra não dizer que não falei de Vagrant | iMasters](http://imasters.com.br/desenvolvimento/pra-nao-dizer-que-nao-falei-de-vagrant/)
 
+--
+
+* [Episódio 100 – Vagrant e Docker - Parte 1 de 3 | GrokPodcast](http://www.grokpodcast.com/2013/09/26/episodio-100-vagrant-docker/)
+
+--
+
 **Proposta:** diminuir o tempo de configuração do  ambiente e maximizar a paridade dos ambientes de desenvolvimento e  produção, e tornar a desculpa _"funciona na minha máquina"_, uma relíquia do passado.
 
 **Observação:** utiliza o [Oracle VM VirtualBox](https://www.virtualbox.org/)
