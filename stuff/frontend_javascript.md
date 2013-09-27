@@ -488,6 +488,11 @@
 * [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/) - The Stanford Javascript Crypto Library is a project by the Stanford Computer Security Lab to build a secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in Javascript.
 
 
+#### Steganography
+
+* [steganography.js](http://www.peter-eigenschink.at/projects/steganographyjs/) - Information Hiding done with JavaScript
+
+
 #### Gesture
 
 * [[GitHub]  roboleary / LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - A gesture learning and recognition framework for the Leap Motion
