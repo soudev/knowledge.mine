@@ -58,6 +58,8 @@
 
 --
 
+* [Node.js | Underground WebDev](http://udgwebdev.com/nodejs/)
+
 * [Node.js para leigos (Versão completa) | Underground WebDev](http://www.udgwebdev.com/nodejs-para-leigos/)
 
 * [Quer aprender Node.js? (Atualizado) | Underground WebDev](http://udgwebdev.com/quer-aprender-node-js-atualizado/)
@@ -389,6 +391,10 @@
 
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
 
+--
+
+* [Instalando Cloud9 local com suporte a RunJS no Linux | GARTZ](http://gartz.com.br/instalando-cloud9-local-com-suporte-a-runjs-no-linux/)
+
 
 ### url rewrite / proxy
 
@@ -543,3 +549,11 @@
 --
 
 * [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments
+
+--
+
+* [meteor](http://www.meteor.com/)
+
+  * [Introdução sobre Meteor | Underground WebDev](http://udgwebdev.com/introducao-sobre-meteor/)
+
+
