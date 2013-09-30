@@ -196,6 +196,8 @@
 
 * [Over 1000 D3.js Examples and Demos | TechSlides](http://techslides.com/over-1000-d3-js-examples-and-demos/)
 
+* [Using SVG gradients and filters with d3.js | 4waisenkinder](http://4waisenkinder.de/blog/2013/09/28/using-gradient-and-shadows-with-d3-dot-js/)
+
 
 ##### bl.ocks.org
 
