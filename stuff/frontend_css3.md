@@ -25,6 +25,8 @@
 
 ### Dicas
 
+* [CSSDeck](http://cssdeck.com/) : HTML5 CSS3 JS - Demos, Creations and Experiments 
+
 * [Client-side full-text search in CSS | Redo The Web](http://redotheweb.com/2013/05/15/client-side-full-text-search-in-css.html) - and a little bit of JS
 
 
