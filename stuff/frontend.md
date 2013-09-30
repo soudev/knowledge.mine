@@ -84,6 +84,8 @@
 
 * [Iconic - Advanced icons for the modern web](http://useiconic.com/)
 
+* [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line.
+
 
 ### FavIcon
 
