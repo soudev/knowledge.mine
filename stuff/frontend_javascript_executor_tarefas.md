@@ -57,6 +57,8 @@
 
 * [Automating The Development, Build, and Deployment Process with Grunt | David Tucker](http://davidtucker.net/articles/automating-with-grunt/)
 
+* [Automating Complex Workflows with Grunt Custom Tasks | Flippin' Awesome](http://flippinawesome.org/2013/09/23/automating-complex-workflows-with-grunt-custom-tasks/)
+
 --
 
 * [Grunt: você deveria estar usando! | .openBlog()](http://openblog.github.com/2013/03/22/grunt/)
