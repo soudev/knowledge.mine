@@ -87,6 +87,7 @@
 
 * [FireShell](http://getfireshell.com/) - fiercely quick front-end boilerplate and workflows
 
+* [Google Web Designer](https://www.google.com/webdesigner/) - Create engaging, interactive HTML5-based designs and motion graphics that can run on any device.
 
 
 ### Dicas
