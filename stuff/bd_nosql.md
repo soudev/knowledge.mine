@@ -192,9 +192,13 @@
 
 * [Map reduce and MongoDB | Boxed Ice Blog](http://blog.serverdensity.com/map-reduce-and-mongodb/)
 
+* [Map Reduce | MongoDB Docs](http://docs.mongodb.org/manual/core/map-reduce/)
+
 * [[SlideShare] Introduction to MongoDB and Hadoop](http://www.slideshare.net/spf13/introduction-to-mongodb-and-hadoop) - An Introduction to MongoDB + an Introduction to MongoDB + Hadoop. This presentation was given at the CT Java Users Group in March 2013.
 
 * [Webinar: What's New with MongoDB Hadoop Integration | MongoDB](http://www.mongodb.com/presentations/webinar-whats-new-mongodb-hadoop-integration)
+
+* [Partner Webinar: The Scaling Checklist for MongoDB - 100GB and beyond | MongoDB](http://www.mongodb.com/presentations/partner-webinar-scaling-checklist-mongodb-100gb-and-beyond)
 
 * [Converting your data from MySQL to MongoDB | You are IT!](http://tamaspiros.co.uk/2013/09/03/converting-your-data-from-mysql-to-mongodb/)
 
