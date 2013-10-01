@@ -296,6 +296,10 @@
 
 --
 
+* [[GitHub] mark-rolich / RulersGuides.js](https://github.com/mark-rolich/RulersGuides.js) - Creates Photoshop-like guides and rulers interface on a web page | [Demo](http://mark-rolich.github.io/RulersGuides.js/)
+
+--
+
 * [[GitHub] maroslaw / rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window (use canvas)
 
   * [Creating a Realistic Rain Effect with Canvas and JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
