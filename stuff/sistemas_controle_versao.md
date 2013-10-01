@@ -205,17 +205,23 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
-* [GitHub Flow in the Browser | GitHub Blog](https://github.com/blog/1557-github-flow-in-the-browser)
-
 * [Release Your Software | GitHub Blog](https://github.com/blog/1547-release-your-software)
 
 * [Git Howto: Revert a Commit Already Pushed to a Remote Repository](http://christoph.ruegg.name/blog/2010/5/5/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 
 * [9.7 Git Internamente - Manutenção e Recuperação de Dados | Pro Git](http://git-scm.com/book/pt-br/Git-Internamente-Manuten%C3%A7%C3%A3o-e-Recupera%C3%A7%C3%A3o-de-Dados)
 
+--
+
+* [GitHub Flow in the Browser | GitHub Blog](https://github.com/blog/1557-github-flow-in-the-browser)
+
 * [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
 
 * [Git Submodules: Core Concept, Workflows And Tips | Atlassian Blogs](https://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
+
+* [cheatsheet do git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) - O git-flow é um conjunto de extensões para o git que provê operações de alto-nível para repositórios usando o modelo de branches do Vincent Driessen.
+
+--
 
 * [Five advanced Git merge techniques](http://blog.ezyang.com/2010/01/advanced-git-merge/)
 
@@ -276,6 +282,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/index.html)
 
 * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
+
+* [[Gist] jbenet / simple-git-branching-model.md](https://gist.github.com/jbenet/ee6c9ac48068889b0912) - a simple git branching model
 
 * [Desmitificando branches remotas com Git | Caelum](http://blog.caelum.com.br/desmitificando-branches-remotas-com-git/)
 
