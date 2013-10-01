@@ -20,8 +20,6 @@
 
 * [OverAPI.com | Collecting all the cheatsheets](http://overapi.com/)
 
-* [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
-
 * [DevDocs](http://devdocs.io/) — API Documentation Reader (html5, css3, jquery)
 
 * [Browse Tutorials](http://browse-tutorials.com/) - Find computer related tutorials and snippets you need.
@@ -55,6 +53,12 @@
 * [HTML URL Encoding Reference | w3schools](http://www.w3schools.com/tags/ref_urlencode.asp)
 
 * [How to send HTTP requests using cURL | makandropedia](https://makandracards.com/makandra/1145-how-to-send-http-requests-using-curl)
+
+--
+
+* [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
+
+* [PeepCode Git Internals PDF](https://github.com/pluralsight/git-internals-pdf/releases) - A PDF by Scott Chacon about how the Git source code control system stores files and revisions.
 
 
 ## Eventos
