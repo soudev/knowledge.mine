@@ -71,6 +71,7 @@
 
 * [can not run node app with nodejs sublime plugin | stackoverflow](http://stackoverflow.com/questions/12124544/can-not-run-node-app-with-nodejs-sublime-plugin)
 
+
 ### Open Terminal
 
 * [Sublime Terminal – a Sublime Text 2 Package | wbond](http://wbond.net/sublime_packages/terminal) - Shortcuts and menu entries for opening a terminal at the current file, or the current root project folder in Sublime Text 2
@@ -103,6 +104,8 @@
 * [[GitHub] zenorocha / sublime-snippets-js](https://github.com/zenorocha/sublime-snippets-js) - JavaScript & NodeJS Snippets for Sublime Text 2/3
 
 * [[GitHub] caiogondim / js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets) - JavaScript Patterns snippets for Sublime Text
+
+* [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/)
 
 
 ### EditorConfig
