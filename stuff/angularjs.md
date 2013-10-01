@@ -456,6 +456,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Brian Ford - Building **PhoneGap** Apps with AngularJS](http://briantford.com/blog/angular-phonegap.html)
 
+* [Quick Start Guide to PhoneGap+AngularJS | Devgirl's Weblog](http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
+
+* [How to build AngularJS based native mobile application | HTMLCenter](http://www.htmlcenter.com/blog/how-to-build-angularjs-based-native-mobile-application/)
+
 --
 
 * [[GitHub] calvinl / ng-phonegap](https://github.com/calvinl/ng-phonegap) - Grunt workflow for building AngularJS applications on PhoneGap
@@ -727,6 +731,8 @@ Projeto de exemplo / estrutura inicial
 * [Full-Spectrum Testing with AngularJS and Karma | Year of moo](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html) - Learn how to fully test your AngularJS application with Karma
 
   * [[GitHub] yearofmoo-articles / AngularJS-Testing-Article](https://github.com/yearofmoo-articles/AngularJS-Testing-Article) - A testing repository for AngularJS
+
+* [Advanced Testing and Debugging in AngularJS | Year of moo](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 
 --
 
