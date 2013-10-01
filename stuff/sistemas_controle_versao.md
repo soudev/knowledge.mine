@@ -229,6 +229,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
+* [glog - a git log alias for a decent view of your repo : by Jed Schneider | Coder Wall](https://coderwall.com/p/syqplg)
+
 
 ### SVN para GIT
 
@@ -464,6 +466,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [demarcate.js](http://will-hart.github.io/demarcate.js/) - is a jQuery based editor for Markdown.
 
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
+
+--
+
+* [Sublime Text 2 and Markdown: Tips, Tricks, and Links](http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
 
 
 #### Markdown editor
