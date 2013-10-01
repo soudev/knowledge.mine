@@ -292,6 +292,10 @@
 
 --
 
+* [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - a simple canvas based drawing app that you can integrate easily on your website.
+
+--
+
 * [[GitHub] maroslaw / rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window (use canvas)
 
   * [Creating a Realistic Rain Effect with Canvas and JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
