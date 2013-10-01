@@ -61,6 +61,8 @@
 
 ## Integração Contínua
 
+* [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
+
 * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
 
 * [[SlideShare] Automating PhoneGap Build](http://www.slideshare.net/coldfumonkeh/automating-phonegap-build)
