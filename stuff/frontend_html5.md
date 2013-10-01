@@ -157,6 +157,13 @@
 * [[GitHub] pmneila / jsexp](https://github.com/pmneila/jsexp) - Some simulation experiments in JavaScript
 
 
+#### WebRTC
+
+* [Licode](http://lynckia.com/licode/) - Open Source Communication Provider
+
+* [Talky](https://talky.io/) - Group video chat and screen sharing
+
+
 #### WebGL
 
 * [WebGL Fundamentals | HTML5 ROCKS](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
@@ -176,7 +183,11 @@
 
 #### Game
 
+* [FightCode](http://fightcodegame.com/) - Killing Robots for Fun
+
 * [Full Screen Mario](http://www.fullscreenmario.com/) : a purely HTML5 remake of the original Super Mario Bros game 
+
+* [The JavaScript Warrior](http://jswarrior.fusioncharts.com/) - Welcome to the JSWarrior Game. Unlike traditional games, you can't control your character through a keyboard or joystick. The only way you can control your character is through JavaScript.
 
 
 #### Game Development
@@ -427,8 +438,6 @@
 * [EndGate](http://endgate.net/) - a game framework to build powerful HTML5 games
 
 * [Senshi | Zolmeister](http://www.zolmeister.com/2013/09/senshi-mmo-battle-royale-inspired-html5.html) - an open source MMO Battle-Royale inspired HTML5 game
-
-* [The JavaScript Warrior](http://jswarrior.fusioncharts.com/) - Welcome to the JSWarrior Game. Unlike traditional games, you can't control your character through a keyboard or joystick. The only way you can control your character is through JavaScript.
 
 
 ##### Game Engine
