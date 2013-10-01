@@ -20,6 +20,8 @@
 
 * [[YouTube] Breaking Open: AngularJS. Great interview with Misko Hevery, Angularjs Framework author](https://www.youtube.com/watch?v=X0VsStcCCM8)
 
+* [The Future of AngularJS by @briantford | Google Drive Presentation](https://docs.google.com/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p)
+
 
 ### Estatísticas
 
@@ -326,6 +328,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example. (Require.js)
 
 --
+
+* [AngularJS Video Tutorial: Using angular.bootstrap to Initialize Your App | EggHead.io](http://egghead.io/lessons/angularjs-angular-bootstrap-app-init)
 
 * [Form validation with AngularJS](http://www.ng-newsletter.com/posts/validations.html)
 
@@ -697,6 +701,12 @@ Projeto de exemplo / estrutura inicial
 > 
 > As ferramentas de teste, para os projetos com Angular.js necessitam e executam sobre o [Node.js](http://nodejs.org/) | [[GitHub] erkobridee / lab-nodejs](https://github.com/erkobridee/lab-nodejs)
 >
+
+--
+
+* [AngularJS Video Tutorial: Testing Overview | EggHead.io](http://egghead.io/lessons/angularjs-testing-overview)
+
+--
 
 * [[GitHub] ricardohbin / angularjs-meetup-sp](https://github.com/ricardohbin/angularjs-meetup-sp) - Jasmine + Angular.mocks + Karma.JS
 
