@@ -156,7 +156,8 @@
 
 * [[GitHub] pmneila / jsexp](https://github.com/pmneila/jsexp) - Some simulation experiments in JavaScript
 
---
+
+#### WebGL
 
 * [WebGL Fundamentals | HTML5 ROCKS](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
@@ -170,7 +171,15 @@
 
 * [Barry Martin's Hopalong Orbits Visualizer - WebGL Experiment](http://iacopoapps.appspot.com/hopalongwebgl/) - An interactive flight through attractor orbits generated using Barry Martin's Hopalong formula.
 
---
+* [Three.js and Babylon.js: a Comparison of WebGL Frameworks | SitePoint](http://www.sitepoint.com/three-js-babylon-js-comparison-webgl-frameworks/)
+
+
+#### Game
+
+* [Full Screen Mario](http://www.fullscreenmario.com/) : a purely HTML5 remake of the original Super Mario Bros game 
+
+
+#### Game Development
 
 * [Announcing Artillery's Project Atlas, a Hardcore RTS for the Browser | The Artillery Blog](http://blog.artillery.com/2013/09/project-atlas-and-the-artillery-platform.html) - HTML5 Game Development and Engineering. The Artillery Platform, which Atlas is built upon, uses JavaScript and WebGL to deliver a high-quality, low-latency multiplayer gaming experience to anyone with a modern web browser. The platform is centered around 3D experiences with real-time multiplayer capability and strong community support. The JavaScript-based game engine features a component-entity design, a modern deferred rendering pipeline, and development tools designed to allow creative expression and super-fast iteration.
 
@@ -195,6 +204,8 @@
 
 * [Storing Javascript objects in LocalStorage | DroidIT Blog](http://blog.droidit.eu/javascript-2/storing-javascript-objects-in-localstorage/)
 
+* [HTML5 Web Storage - Teddy Garland | Coder Wall](https://coderwall.com/p/8awebg)
+
 * [Dropbox Datastores and Drop-Ins | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/dropbox-datastores-and-drop-ins/)
 
 * [[YoutTube] Google Cloud Storage - Getting started with the JavaScript Sample Application](https://www.youtube.com/watch?v=8ytpvQJNOU8) - This demonstration covers getting started with Google Cloud Storage using JavaScript
@@ -205,6 +216,8 @@
 #### Performance
 
 * [Five things you can do to make HTML5 perform better](http://christianheilmann.com/2013/01/25/five-things-you-can-do-to-make-html5-perform-better/)
+
+* [Native Speed on the Web: JavaScript and asm.js | Alon Zakai](http://kripken.github.io/mloc_emscripten_talk/sloop.html)
 
 
 #### Server Sent Events
@@ -388,6 +401,11 @@
 * [LocalStorage with Amplify.js | TysonJS](http://tysonjs.com/blog/localstorage-with-amplify-js/)
 
 * [[GitHub] justindeguzman / locstor](https://github.com/justindeguzman/locstor) - JavaScript helper library for HTML5 localStorage
+
+
+#### Physics
+
+* [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/) - A modular, extendable, and easy-to-use physics engine for javascript
 
 
 #### Games
