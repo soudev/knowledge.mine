@@ -245,6 +245,8 @@
 
 * [FullScale dangle.js](http://www.fullscale.co/dangle/) - A set of AngularJS directives that provide common visualizations based on D3.js
 
+* [morris.js](http://www.oesmith.co.uk/morris.js/index.html) - good-looking charts shouldn't be difficult | d3 based chart library
+
 
 #### Gantt
 
