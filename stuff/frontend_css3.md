@@ -22,6 +22,8 @@
 
 * [Responsive CSS3 Slider Without Javascript | CSScience](http://csscience.com/responsiveslidercss3/)
 
+* [Creative Loading Effects | Codrops](http://tympanus.net/codrops/2013/09/18/creative-loading-effects/)
+
 
 ### Dicas
 
