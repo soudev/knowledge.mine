@@ -247,6 +247,8 @@
 
 * [[GitHub] SpringSource / spring-hateoas](https://github.com/SpringSource/spring-hateoas)
 
+* [[Vimeo] Designing Hypermedia APIs by Steve Klabnik](http://vimeo.com/53223942) - Ruby on Rails did a lot to bring REST to developers, but its conception leaves the REST devotee feeling a bit empty. "Where's the hypermedia?" she says. "REST isn't RPC," he may cry. In this talk, Steve will explain how to design your APIs so that they truly embrace the web and HTTP. Pros and cons of this approach will be discussed, as well as why many aren't building things this way yet.
+
 
 # HAL
 
