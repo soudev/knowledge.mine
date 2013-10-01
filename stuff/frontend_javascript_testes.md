@@ -8,6 +8,8 @@
 >
 > As ferramentas de testes e qualidade de código para JavaScript, utilizam em sua maioria, o Node.js, o qual possibilita a execução do JavaScript sem a necessidade de um Web Browser.
 
+* [Unit Testing Guidelines | Geotechnical Software Services](http://geosoft.no/development/unittesting.html) - Unit testing guidelines, recommendations and best practices.
+
 * [[YouTube] Testable JavaScript - Architecting Your Application for Testability (GTAC 2013)](https://www.youtube.com/watch?v=JjqKQ8ezwKQ)
 
 * [Essential JavaScript: the top five testing libraries](http://www.netmagazine.com/features/essential-javascript-top-five-testing-libraries)
@@ -25,6 +27,13 @@
 * [JavaScript unit testing on steroids - Automation and code coverage with grunt, jasmine, and istanbul](http://sandiegojs.org/blog/2013/03/10/client-side-code-coverage/)
 
 * [Intern : A next-generation JavaScript testing stack](http://theintern.io/) - Run tests in the browser or node.js; seamlessly integrate with  SauceLabs or Selenium; use object, TDD, or BDD styles; get code coverage  with Istanbul; Travis CI integration out of the box.
+
+
+#### Plato
+
+* [[GitHub] es-analysis / plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
+
+* [Testable & Tested Client-side Code | Tech.Pro](http://tech.pro/tutorial/1589/testable--tested-client-side-code)
 
 
 #### Online fake data
