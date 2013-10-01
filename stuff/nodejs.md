@@ -365,6 +365,8 @@
 
 * [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
 
+* [[GitHub] substack / stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
+
 * [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
 
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
@@ -406,8 +408,11 @@
 
 
 
-
 ### NPM
+
+* [[GitHub] deoxxa / npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
+
+--
 
 * [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
 
