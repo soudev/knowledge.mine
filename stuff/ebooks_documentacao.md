@@ -28,6 +28,10 @@
 
 --
 
+* [explainshell.com](http://explainshell.com/) - match command-line arguments to their help text
+
+--
+
 * [Plataformatec Guideline](http://guidelines.plataformatec.com.br/) - Code conventions and general guidelines used at [Plataformatec](http://plataformatec.com.br/).
 
 --
