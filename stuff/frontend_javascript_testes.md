@@ -28,6 +28,10 @@
 
 * [Intern : A next-generation JavaScript testing stack](http://theintern.io/) - Run tests in the browser or node.js; seamlessly integrate with  SauceLabs or Selenium; use object, TDD, or BDD styles; get code coverage  with Istanbul; Travis CI integration out of the box.
 
+--
+
+* [BrowserSwarm](http://www.browserswarm.com/) - A tool that automates your testing of JavaScript across browsers. Spend less time testing and more time innovating.
+
 
 #### Plato
 
