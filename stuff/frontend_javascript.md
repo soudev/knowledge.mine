@@ -13,6 +13,10 @@
 
 ### Aprendizado
 
+* [JavaScript for Designers | Rachel Nabors](http://rachelnabors.com/javascript-for-designers/) - An Intro to JS Terms and Concepts
+
+--
+
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - documentação com recomendações e boas práticas de programação em JavaScript.
 
 * [JS: The Right Way](http://jstherightway.com/)
@@ -263,6 +267,10 @@
 
 --
 
+* [Native Speed on the Web: JavaScript and asm.js | Alon Zakai](http://kripken.github.io/mloc_emscripten_talk/sloop.html)
+
+--
+
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
 
     * [Web Tracing framework do Google ajuda você se livrar do código porco | Igor Costa](http://www.igorcosta.com/web-tracing-framework-do-google-codigo-porco/)
@@ -301,6 +309,8 @@
 
 
 ### Sistema de Dependências e Módulos
+
+* [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
 * [Mantri](http://mantrijs.com/) - JavaScript Dependency System
 
@@ -377,6 +387,12 @@
 * [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
 
 * [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript.
+
+--
+
+* [[GitHub] baconjs / bacon.js](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript
+
+    * [Functional Reactive Programming in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/)
 
 --
 
