@@ -20,6 +20,8 @@
 
   * [Novo Scrum Guide: Analisando as mudanças | InfoQ Br](http://www.infoq.com/br/articles/novo-scrum-guide)
 
+* [ScrumBut - você usa e nem sabia | iMasters﻿](http://imasters.com.br/desenvolvimento/agile/scrumbut-voce-usa-e-nem-sabia/)
+
 
 ## Estimativa
 
