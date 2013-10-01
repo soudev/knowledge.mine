@@ -66,6 +66,8 @@
 
 * [Estudo de Caso AWS: BigData Corp | iMasters](http://imasters.com.br/infra/cloud/estudo-de-caso-aws-bigdata-corp/)
 
+* [[SlideShare] Escalabilidade para sua solução na Nuvem da AWS de um para centenas de milhões de usuários](http://www.slideshare.net/AmazonWebServicesLATAM/escalabilidade-nuvem-aws) | [[Vimeo] vídeo gravado do webinar](http://vimeo.com/68720156) 
+
 
 ## OpenStack
 
