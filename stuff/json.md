@@ -35,6 +35,8 @@
 
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) - Google Chrome
 
+* [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier
+
 * [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments (node.js module)
 
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - Json Formatting for Human Beings
