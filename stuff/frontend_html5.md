@@ -393,6 +393,8 @@
 
 * [[GitHub]  roboleary / LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - A gesture learning and recognition framework for the Leap Motion
 
+* [[GitHub] EightMedia / hammer.js](https://github.com/EightMedia/hammer.js/) - A javascript library for multi-touch gestures
+
 
 #### Storage
 
@@ -422,6 +424,8 @@
 #### Animations
 
 * [[GitHub] sole / tween.js](https://github.com/sole/tween.js) - Javascript tweening engine
+
+* [Turn.js](http://www.turnjs.com/) - The page flip effect in HTML5
 
 
 #### Physics
