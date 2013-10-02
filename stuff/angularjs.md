@@ -516,6 +516,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Mastering AngularJS Directives | Pascal Precht](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 
+* [Angular Directive Examples | Tech Pro](http://tech.pro/tutorial/1603/angular-directive-examples)
+
 --
 
 * [[GitHub] wmluke / angular-blocks](https://github.com/wmluke/angular-blocks) - Template inheritance for Angular JS
