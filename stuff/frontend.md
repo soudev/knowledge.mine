@@ -26,6 +26,8 @@
 
 * [UIBox - Curated HTML, CSS, JS UI Component Library](http://www.uibox.in/)
 
+* [30 Days to Learn HTML & CSS | Tuts+](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
+
 
 ## Emmet
 
