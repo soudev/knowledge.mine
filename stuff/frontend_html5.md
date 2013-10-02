@@ -185,6 +185,8 @@
 
 #### Game
 
+* [Largest Directory of HTML5 Games](http://html5games.com/)
+
 * [FightCode](http://fightcodegame.com/) - Killing Robots for Fun
 
 * [Full Screen Mario](http://www.fullscreenmario.com/) : a purely HTML5 remake of the original Super Mario Bros game 
@@ -364,16 +366,6 @@
 
 * [KineticJS](http://kineticjs.com/) - is an HTML5 Canvas JavaScript framework that enables high performance animations, transitions, node nesting, layering, filtering, caching, event handling for desktop and mobile applications, and much more.
 
-* [three.js](http://mrdoob.github.io/three.js/) - JavaScript 3D library
-
-  * [Shader Particle Engine](http://squarefeet.github.io/ShaderParticleEngine/) - A GLSL-heavy particle engine for THREE.js. Based on Stemkoski's great particle engine 
-
-  * [The Beginner's Guide to three.js | Treehouse Blog](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
-
-* [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
-
-* [Voodoo](http://www.voodoojs.com/) - is a new Javascript framework that lets you easily mix 2D and 3D content together on the same page.
-
 
 * [Nanoko](http://nanoko.org/) - is a JavaScript modular framework enabling flexible and sustainable HTML5 applications development and their deployment on both mobile and desktop applications. [Getting Started](http://nanoko.org/?page=gettingstarted) | *utiliza o maven como base para o projeto* |
 
@@ -387,6 +379,7 @@
 
 * [[GitHub] sindresorhus / screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
+
 #### Text Search
 
 * [lunr.js - A bit like Solr, but much smaller and not as bright](http://lunrjs.com/) - Simple full-text search in your browser
@@ -395,9 +388,11 @@
 
 * [[GitHub] brianreavis / sifter.js](https://github.com/brianreavis/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
 
+
 #### Gesture
 
 * [[GitHub]  roboleary / LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - A gesture learning and recognition framework for the Leap Motion
+
 
 #### Storage
 
@@ -424,14 +419,30 @@
 * [[GitHub] justindeguzman / locstor](https://github.com/justindeguzman/locstor) - JavaScript helper library for HTML5 localStorage
 
 
+#### Animations
+
+* [[GitHub] sole / tween.js](https://github.com/sole/tween.js) - Javascript tweening engine
+
+
 #### Physics
 
 * [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/) - A modular, extendable, and easy-to-use physics engine for javascript
 
 
-#### Games
+#### WebGL
 
-* [Largest Directory of HTML5 Games](http://html5games.com/)
+* [three.js](http://mrdoob.github.io/three.js/) - JavaScript 3D library
+
+  * [Shader Particle Engine](http://squarefeet.github.io/ShaderParticleEngine/) - A GLSL-heavy particle engine for THREE.js. Based on Stemkoski's great particle engine 
+
+  * [The Beginner's Guide to three.js | Treehouse Blog](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
+
+* [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
+
+* [Voodoo](http://www.voodoojs.com/) - is a new Javascript framework that lets you easily mix 2D and 3D content together on the same page.
+
+
+#### Games
 
 * [[GitHub] FuzzYspo0N / realtime-multiplayer-in-html5](https://github.com/FuzzYspo0N/realtime-multiplayer-in-html5) - an example using node.js, socket.io and HTML5 Canvas to explain and demonstrate realtime multiplayer games in the browser.
 
