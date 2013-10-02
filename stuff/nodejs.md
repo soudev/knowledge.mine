@@ -397,6 +397,19 @@
 
 * [Instalando Cloud9 local com suporte a RunJS no Linux | GARTZ](http://gartz.com.br/instalando-cloud9-local-com-suporte-a-runjs-no-linux/)
 
+--
+
+* [Building Multiplayer Games with Node.js and Socket.IO | Flippin' Awesome](http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/)
+
+
+### modulo
+
+* [How to Make Simple Node.js Modules Work in the Browser | Richard Rodger](http://www.richardrodger.com/2013/09/27/how-to-make-simple-node-js-modules-work-in-the-browser/)
+
+* [How to create a NodeJS NPM package | Anup Shinde](http://www.anupshinde.com/posts/how-to-create-nodejs-npm-package/) - See how to create a simple NodeJS NPM package. We'll first create a simple program, add some node_modules  to it and walk through the process of creating a NPM package, publishing it and upgrading it. We'll also walk through see some common issues that you might face for the first time.
+
+  * [Adding dependencies and data to Node-NPM package | Anup Shinde](http://www.anupshinde.com/posts/adding-dependencies-data-nodejs-npm-package/) - In the first part we created a package with no dependencies. In this part, we'll add some dependencies to our program and package. We'll also look at some additional tips that you may require when creating your first NPM package.
+
 
 ### url rewrite / proxy
 
