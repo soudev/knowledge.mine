@@ -42,6 +42,10 @@
 
 * [Skeuocard](http://kenkeiter.com/skeuocard/) - An innovative way to enter credit card details
 
+--
+
+* [7 Data Viz Sites to Inspire Your Creative Eye | Mashable](http://mashable.com/2013/10/01/data-viz-sites)
+
 
 ### Colors
 
