@@ -301,6 +301,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS | One Hungry MindOne Hungry Mind](http://onehungrymind.com/category/angularjs/) - A ton of great AngularJS content here
+
+--
+
+* [AngularJS: Clearing a few confusion points | Next Big Thing](http://blog.nebithi.com/angularjs-clearing-a-few-confusion-points/)
+
+--
+
 * [Communication in Angular using the pubsub pattern | Per Ploug](http://scriptogr.am/pploug/post/communication-in-angular-using-the-pubsub-pattern)
 
 * [[YouTube] AngularJS Factory vs. Service](https://www.youtube.com/watch?v=A6cJasNBkyI)
@@ -341,6 +349,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS and Radio Buttons | Sudo Zest](http://www.mpdaugherty.com/blog/angularjs-and-radio-buttons/)
 
+* [Responsive template swapping with Angular Directives | CheapSteak.net](http://cheapsteak.net/posts/responsive-template-swapping-with-angular)
+
 * [Removing the unneeded watches | Angular Tips](http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 
 * [Group and Display Data with Underscore and AngularJS | OdeToCode](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)
@@ -366,6 +376,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
+
+--
+
+* [Restangular on Angular | ng-newsletter](http://www.ng-newsletter.com/posts/restangular.html)
 
 --
 
