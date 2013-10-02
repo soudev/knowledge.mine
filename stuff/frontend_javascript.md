@@ -59,6 +59,10 @@
 
 --
 
+* [Tips for using window in JavaScript | 2ality](http://www.2ality.com/2013/09/window.html)
+
+--
+
 * [Understanding JavaScript Inheritance | Alex Sexton](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 
 * [JavaScript: entendendo o this | Tableless](http://tableless.com.br/javascript-entendendo-o-this/) - Conheça mais sobre a palavra reservada this e entenda  como funciona o escopo de um objeto JavaScript.
