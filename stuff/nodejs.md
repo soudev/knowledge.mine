@@ -568,6 +568,8 @@
 
 * [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments
 
+* [[GitHub] jprichardson / jsock](https://github.com/jprichardson/jsock) - JavaScript component for easy JSON handling over sockets or streams. Works in Node.js or the browser.
+
 --
 
 * [meteor](http://www.meteor.com/)

@@ -32,6 +32,11 @@
 * [[GitHub] mbostock / topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology.
 
 
+## Sockets
+
+* [[GitHub] jprichardson / jsock](https://github.com/jprichardson/jsock) - JavaScript component for easy JSON handling over sockets or streams. Works in Node.js or the browser.
+
+
 ## Ferramentas
 
 * [JSON Editor Online - view, edit and format JSON](http://jsoneditoronline.org/)
