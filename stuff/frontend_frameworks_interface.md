@@ -34,6 +34,12 @@
  
 * [ChocolateChip-UI](http://www.chocolatechip-ui.com/) - Full support for the new iOS 7 look and feel | Native Look for Web Apps | Powerful, Simple, Clean 
  
+--
+
+* [Metro UI](http://metroui.org.ua/)
+
+  * [[GitHub] olton / Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface 
+
 
 ### Foundation
 
