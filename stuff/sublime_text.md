@@ -95,6 +95,8 @@
 
 * [Markdown to Clipboard for Sublime Text 2](http://timewilltell.me/node/14)
 
+  * [Sublime Text 2 and Markdown: Tips, Tricks, and Links](http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
+
 * [[GitHub] aziz / PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 
 * [Make URLs clickable in Sublime Text | Leonid Shevtsov](http://leonid.shevtsov.me/en/clickable-urls-in-sublime-text)
