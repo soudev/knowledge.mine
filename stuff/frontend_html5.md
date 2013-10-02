@@ -90,6 +90,11 @@
 * [Google Web Designer](https://www.google.com/webdesigner/) - Create engaging, interactive HTML5-based designs and motion graphics that can run on any device.
 
 
+### Caso de Uso
+
+* [Next Generation Web Layout: National Geographic Forest Giant | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/casestudies/natgeo/)
+
+
 ### Dicas
 
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
@@ -127,6 +132,8 @@
 * [How to Generate Noise with the Web Audio API | Noisehack](http://noisehack.com/generate-noise-web-audio-api/)
 
 * [Custom Audio Effects in JavaScript with the Web Audio API | Noisehack](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
+
+* [How to Build a Supersaw Synthesizer with the Web Audio API | Noisehack](http://noisehack.com/how-to-build-supersaw-synth-web-audio-api/)
 
 * [Writing Web Audio API code that works in every browser | Mozilla Hacks](https://hacks.mozilla.org/2013/08/writing-web-audio-api-code-that-works-in-every-browser/)
 
