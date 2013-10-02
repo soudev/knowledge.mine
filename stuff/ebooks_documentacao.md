@@ -1,5 +1,9 @@
 # eBooks e Documentação 
 
+* [[GitHub] pinceladasdaweb / Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain) - The definitive list of newsletters to keep up to date on various web development technologies
+
+--
+
 * [Oracle Tahiti](http://tahiti.oracle.com/) - Search engine for the official Oracle documentation
 
 * [IT Books](http://it-ebooks.info/) - Free Download IT eBooks
