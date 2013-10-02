@@ -200,6 +200,8 @@
 
 * [Full Screen Mario](http://www.fullscreenmario.com/) : a purely HTML5 remake of the original Super Mario Bros game 
 
+  * [[GitHub] Diogenesthecynic / FullScreenMario](https://github.com/Diogenesthecynic/FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
+
 * [The JavaScript Warrior](http://jswarrior.fusioncharts.com/) - Welcome to the JSWarrior Game. Unlike traditional games, you can't control your character through a keyboard or joystick. The only way you can control your character is through JavaScript.
 
 
