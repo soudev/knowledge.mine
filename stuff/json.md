@@ -25,6 +25,13 @@
 * [JSON Tutorial | w3resource](http://www.w3resource.com/JSON/introduction.php)
 
 
+## GeoJSON
+
+* [GeoJSON Previewing | GitHub Blog](https://github.com/blog/1638-geojson-previewing)
+
+* [[GitHub] mbostock / topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology.
+
+
 ## Ferramentas
 
 * [JSON Editor Online - view, edit and format JSON](http://jsoneditoronline.org/)
