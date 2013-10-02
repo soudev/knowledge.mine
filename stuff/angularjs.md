@@ -518,6 +518,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] wmluke / angular-blocks](https://github.com/wmluke/angular-blocks) - Template inheritance for Angular JS
+
+    * [Template inheritance for AngularJS | The Bunsel Blog](http://www.bunselmeyer.net/#!/thoughts/angular-blocks) - I really enjoy using block-style template inheritance in Jade and Handlebars. From my understanding, this pattern was popularized by Django.
+
+--
+
 * [[GitHub] jonashartmann / webcam-directive](https://github.com/jonashartmann/webcam-directive) - Angularjs directive to access the webcam
 
 * [[GitHub] rootux / angular-highcharts-directive](https://github.com/rootux/angular-highcharts-directive) - An Angular Js Directive which allows to simplify the use of Highcharts charts
