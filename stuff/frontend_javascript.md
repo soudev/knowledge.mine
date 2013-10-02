@@ -105,6 +105,10 @@
 
 --
 
+* [Design Patterns no JavaScript – Singleton | Simples Ideias](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
+
+--
+
 * [JavaScript Design Patterns | Carl Danley](http://carldanley.com/javascript-design-patterns/)
 
     * [The Module Pattern](http://carldanley.com/js-module-pattern/)
