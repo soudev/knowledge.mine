@@ -202,6 +202,8 @@
 
 * [Using SVG gradients and filters with d3.js | 4waisenkinder](http://4waisenkinder.de/blog/2013/09/28/using-gradient-and-shadows-with-d3-dot-js/)
 
+* [D3.js: How to handle dynamic JSON Data | Pier-Olivier Thibault](http://pothibo.com/2013/09/d3-js-how-to-handle-dynamic-json-data/)
+
 
 ##### bl.ocks.org
 
