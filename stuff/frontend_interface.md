@@ -46,6 +46,8 @@
 
   * [Getting started with web components and polymer.js | 4waisenkinder](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/)
 
+  * [[GitHub] robdodson / mark-down](https://github.com/robdodson/mark-down) - A Custom Element for rendering Markdown built with Polymer
+
 
 * [Brick](http://mozilla.github.io/brick/) - UI Components for Modern Web Apps
 
