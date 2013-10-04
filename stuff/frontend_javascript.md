@@ -176,9 +176,13 @@
 
 * [Optimize Your Workflow: JavaScript Tools and Libraries](http://www.joezimjs.com/javascript/optimize-your-workflow-javascript-tools-and-libraries/)
 
+* [SuperAgent - Ajax with less suck](http://visionmedia.github.com/superagent/)
+
+--
+
 * [Capturando erros JS LIKE-A-BOSS | Tableless](http://tableless.com.br/capturando-erros-js-like-a-boss/) - window.onerror
 
-* [SuperAgent - Ajax with less suck](http://visionmedia.github.com/superagent/)
+* [Rethinking JavaScript's Try/Catch | Flippin Awesome](http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/)
 
 --
 
