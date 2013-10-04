@@ -222,9 +222,11 @@
 
 #### Storage
 
-* [Web SQL DB vs. IndexedDB | JavAssCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
+* [Web SQL DB vs. IndexedDB | JavassCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
 
 * [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
+
+* [Working With IndexedDB | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb/)
 
 * [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
 
