@@ -433,6 +433,10 @@
 
 * [[GitHub] justindeguzman / locstor](https://github.com/justindeguzman/locstor) - JavaScript helper library for HTML5 localStorage
 
+* [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
+
+  * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
+  
 
 #### Animations
 

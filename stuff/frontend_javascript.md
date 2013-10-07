@@ -470,6 +470,10 @@
 
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 
+* [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
+
+  * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
+
 --
 
 * [Squel.js](http://hiddentao.github.io/squel/) - lightweight Javascript library for building SQL query strings.

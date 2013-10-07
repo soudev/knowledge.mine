@@ -32,6 +32,13 @@
 * [[GitHub] mbostock / topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology.
 
 
+## Base de Dados
+
+* [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
+
+  * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
+
+
 ## Sockets
 
 * [[GitHub] jprichardson / jsock](https://github.com/jprichardson/jsock) - JavaScript component for easy JSON handling over sockets or streams. Works in Node.js or the browser.

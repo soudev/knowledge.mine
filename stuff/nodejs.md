@@ -481,6 +481,9 @@
 
 * [[GitHub] philipp-spiess / json-db](https://github.com/philipp-spiess/json-db) - A lightweight database for your node.js app.
 
+* [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
+
+  * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
 
 
 ### Nuvem
