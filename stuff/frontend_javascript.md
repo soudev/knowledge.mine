@@ -162,6 +162,8 @@
 
 * [Unicode and JavaScript | 2 ality](http://www.2ality.com/2013/09/javascript-unicode.html)
 
+* [The JavaScript console API | 2 ality](http://www.2ality.com/2013/10/console-api.html)
+
 * [7 JavaScript Basics Many Developers Aren't Using (Properly) | Tech.Pro](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
 
 * [An interesting kind of JavaScript memory leak | Meteor Blog](http://www.meteor.com/blog/2013/08/13/an-interesting-kind-of-javascript-memory-leak)
