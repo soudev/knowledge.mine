@@ -138,6 +138,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] mgechev / angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
+
+* [The Ultimate Guide to Learning AngularJS in One Day | Todd Motto](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
+
+--
+
 * [AngularJS - Where To Start?](http://blog.whydoifollow.com/post/angularjs-where-to-start)
 
 * [Egghead - AngularJS](http://egghead.io/) - curso online
