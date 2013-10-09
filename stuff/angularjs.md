@@ -200,6 +200,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular Cats! An AngularJS Adventure Anthology](http://ericterpstra.com/2012/09/angular-cats-an-angularjs-adventure-anthology/)
 
+--
+
+* [Writing an AngularJS App with Socket.IO | HTML5 Rocks]()
+
 
 ### CoffeeScript
 
@@ -518,6 +522,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 ## Directive (componentes)
 
 * [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
+
+* [Introduction to Directives | henriquat.re](http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html) - AngularJS Directives - Domain-Specific Extensions to HTML
 
 * [AngularJS - $compile: How it works, How to use it | Try, Catch, Fail](http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
 
