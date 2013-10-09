@@ -59,3 +59,5 @@
 * [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments (node.js module)
 
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - Json Formatting for Human Beings
+
+* [JSONProxy](http://jsonp.jit.su/) - Enables cross-domain requests to any JSON API | [[GitHub] afeld / jsonp](https://github.com/afeld/jsonp) - A simple JSON proxy
