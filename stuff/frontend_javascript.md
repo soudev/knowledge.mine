@@ -45,6 +45,8 @@
 
 * [Javascript's Slightly Stricter Mode | Glen Maddern](http://geelen.github.io/web-directions-talk)
 
+* [ECMAScript 5 Strict Mode, JSON, and More | John Resig](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
+
 --
 
 * [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
