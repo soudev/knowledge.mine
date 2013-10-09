@@ -47,6 +47,8 @@
 
 * [Grunt: A build tool for front-end projects](http://frederic-hemberger.de/artikel/grunt-buildtool-for-frontend-projects/)
 
+* [Automação de tarefas com o Grunt JS - Parte I | Javascript Brasil](http://javascriptbrasil.com/2013/10/08/automacao-de-tarefas-com-grunt-parte-1/)
+
 --
 
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
