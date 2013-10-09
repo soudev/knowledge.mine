@@ -51,7 +51,7 @@
 
 * [Testing Your JavaScript with Jasmine](http://net.tutsplus.com/tutorials/javascript-ajax/testing-your-javascript-with-jasmine/)
 
-* [How do I Jasmine : Tutorial](http://evanhahn.com/?p=181)
+* [How do I Jasmine : Tutorial | Evan Hahn](http://evanhahn.com/how-do-i-jasmine/)
 
 * [Configurando um ambiente de teste unitário Jasmine com Testem | iMasters](http://imasters.com.br/front-end/javascript/configurando-um-ambiente-de-teste-unitario-jasmine-com-testem/)
 
