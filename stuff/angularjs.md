@@ -388,6 +388,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[Gist] AngularJS Lesson Learned #2: Enabling HTTP Credentials | Mário Junior](https://gist.github.com/mariojunior/6175849)
 
 
+### Decorator
+
+* [Enhancing AngularJS $log using Decorators | The Solution Optimist](http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
+
+* [Experiment: decorating directives | Angular Tips](http://angular-tips.com/blog/2013/09/experiment-decorating-directives/)
+
+
 ### Dynamic / Lazy Load
 
 * [Dynamically Loading Controllers and Views with AngularJS and RequireJS | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
@@ -786,6 +793,8 @@ Projeto de exemplo / estrutura inicial
 * [[GitHub] vojtajina / ng-directive-testing](https://github.com/vojtajina/ng-directive-testing) - Simple example of testing Angular's directives
 
 * [Testing AngularJS Directives:  Handling External Templates | Portland Webworks](http://www.portlandwebworks.com/blog/testing-angularjs-directives-handling-external-templates)
+
+* [Testing External Templates in Angular | Nysa Vann](http://www.nysavann.com/javascript/testing/2013/10/01/testing-external-templates-in-angular.html)
 
 --
 
