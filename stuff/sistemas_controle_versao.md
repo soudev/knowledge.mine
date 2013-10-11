@@ -556,6 +556,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - The easiest way to use git. On any platform. Anywhere. (Node.js)
 
+  * [Ungit real with this great web based UI - by shoogle designs | shoogle designs' blog](http://shoogledesigns.com/blog/blog/2013/10/11/ungit-real-great-web-based-ui/)
+
 
 ### Eclipse IDE - Git plugin
 
