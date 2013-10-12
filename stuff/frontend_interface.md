@@ -48,6 +48,8 @@
 
   * [[GitHub] robdodson / mark-down](https://github.com/robdodson/mark-down) - A Custom Element for rendering Markdown built with Polymer
 
+  * [Building Web Apps With Yeoman And Polymer: Scaffold your webapps with modern tooling | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+
 
 * [Brick](http://mozilla.github.io/brick/) - UI Components for Modern Web Apps
 
