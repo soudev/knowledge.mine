@@ -115,6 +115,8 @@
 
 * [Using Grunt-contrib-livereload With Yeoman's Grunt-regarde](http://blog.jaredlaser.com/blog/2013/05/07/using-grunt-contrib-livereload-with-yeomans-grunt-regarde)
 
+* [Dica Rápida: Utilizando LiveReload no Grunt | Vitor Britto](http://www.vitorbritto.com/blog/utilizando-livereload-no-grunt/)
+
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
 
 * [[Gist] rhumaric / Gruntfile-connect-open.js](https://gist.github.com/rhumaric/5577257) - Sample configuration of grunt-contrib-connect and grunt-open to serve your project and open a browser tab to the appropriate URL
