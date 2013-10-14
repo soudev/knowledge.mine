@@ -125,6 +125,8 @@
 
 * [Generate multi-resolution images for srcset with Grunt | Addy Osmani](http://addyosmani.com/blog/generate-multi-resolution-images-for-srcset-with-grunt/)
 
+* [Tools for image optimization | Addy Osmani](http://addyosmani.com/blog/image-optimization-tools/)
+
 
 ##### Testes
 
