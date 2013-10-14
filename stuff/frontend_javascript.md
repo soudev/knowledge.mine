@@ -287,6 +287,10 @@
 
 --
 
+* [[Speaker Deck] Efficient JavaScript](https://speakerdeck.com/volkan/efficient-javascript)
+
+--
+
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
 
     * [Web Tracing framework do Google ajuda você se livrar do código porco | Igor Costa](http://www.igorcosta.com/web-tracing-framework-do-google-codigo-porco/)
@@ -322,6 +326,8 @@
 * [JavaScript object pooling | Qoopido](http://www.qoopido.com/articles/javascript-object-pooling/)
 
 * [How to really defer loading javascript](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Deferring javascript using the method recommended by Google allows for quicker crisper page loads
+
+* [[Speaker Deck] JavaScript Widget Development Best Practices](https://speakerdeck.com/volkan/javascript-widget-development-best-practices)
 
 
 ### Sistema de Dependências e Módulos
@@ -403,6 +409,10 @@
 * [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
 
 * [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript.
+
+--
+
+* [stacktrace.js](http://stacktracejs.com/) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
 
 --
 
