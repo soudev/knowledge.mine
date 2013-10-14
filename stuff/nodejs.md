@@ -465,6 +465,8 @@
 
   * [NeDB: SQLite for Node | DailyJS](http://dailyjs.com/2013/08/01/nedb/)
 
+* [TingoDB](http://www.tingodb.com/) - Embedded JavaScript database for Node.js and node webkit
+
 --
 
 * [[GitHub] phidelta / abstract-store](https://github.com/phidelta/abstract-store) - a node-module to abstract key/value storage away from the underlying technology
