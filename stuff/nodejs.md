@@ -128,6 +128,8 @@
 
   * [[YouTube] Tessel Preview: Pushing code, servos, and UDP](https://www.youtube.com/watch?v=XCwKzipBIaA)
 
+  * [[SlideShare] Tessel: The End of Web Development (as we know it)](http://www.slideshare.net/TechnicalMachine/tessel-the-end-of-web-development-as-we-know-it)
+
 --
 
 * [Espruino](http://www.espruino.com/) - A JavaScript interpreter for Microcontrollers
