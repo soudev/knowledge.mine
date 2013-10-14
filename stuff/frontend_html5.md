@@ -194,6 +194,10 @@
 
 #### Game
 
+* [HTML5 Gamepad Tester](http://html5gamepad.com/)
+
+--
+
 * [Largest Directory of HTML5 Games](http://html5games.com/)
 
 * [FightCode](http://fightcodegame.com/) - Killing Robots for Fun
