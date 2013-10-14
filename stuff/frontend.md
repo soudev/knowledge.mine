@@ -51,6 +51,10 @@
 
 * [Gridulator](http://gridulator.com/) - Make pixel grids, lickety-split
 
+--
+
+* [Tools for image optimization | AddyOsmani.com](http://addyosmani.com/blog/image-optimization-tools/)
+
 
 ### Icon
 
