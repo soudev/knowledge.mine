@@ -223,6 +223,8 @@
 
 * [[GitHub] idflood / ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) - This is an attempt to make something like "vvvv" in javascript, html and webgl.
 
+* [How to Learn Three.js for Game Development | Gamedevtuts+](http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/)
+
 
 #### Storage
 
@@ -396,6 +398,8 @@
 
 * [[GitHub] sindresorhus / screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
+* [[GitHub] maxogden / psd.js](https://github.com/maxogden/psd.js) - PSD Parser in JavaScript | [site](http://maxogden.github.io/psd.js/)
+
 
 #### Text Search
 
@@ -409,6 +413,8 @@
 #### Gesture
 
 * [[GitHub]  roboleary / LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - A gesture learning and recognition framework for the Leap Motion
+
+* [[GitHub] roboleary / LeapCursor.js](https://github.com/roboleary/LeapCursor.js) - Effortless Leap Motion support for websites
 
 * [[GitHub] EightMedia / hammer.js](https://github.com/EightMedia/hammer.js/) - A javascript library for multi-touch gestures
 
@@ -499,6 +505,8 @@
 * [IIOEngine](http://iioengine.com/) - An interactive app framework for HTML5 built with canvas and javascript
 
 * [Phaser 1.0](http://phaser.io/) - Desktop and Mobile HTML5 Game Framework is released
+
+* [[GitHub] beakable / isometric](https://github.com/beakable/isometric) - HTML5 Canvas Isometric Engine
 
 
 ### Desenvolvimento de Aplicações
