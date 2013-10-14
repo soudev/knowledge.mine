@@ -33,11 +33,15 @@
 
 * [Basic JavaScript for the impatient programmer | 2ality](http://www.2ality.com/2013/06/basic-javascript.html)
 
-* [Code Academy - JavaScript](http://www.codecademy.com/pt/tracks/javascript-combined)
-
 * [Preparando-se para o desenvolvimento JavaScript moderno | iMasters](http://imasters.com.br/linguagens/javascript/preparando-se-para-o-desenvolvimento-javascript-moderno/)
 
 * [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
+
+--
+
+* [Code Academy - JavaScript](http://www.codecademy.com/pt/tracks/javascript-combined)
+
+* [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge.
 
 --
 
