@@ -98,6 +98,8 @@
 
 * [[GitHub] karlgoldstein / grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
 
+* [[GitHub] terrykingcha / grunt-depconcat](https://github.com/terrykingcha/grunt-depconcat) - Concat depended files
+
 * [[GitHub] zonak / grunt-ftp-deploy](https://github.com/zonak/grunt-ftp-deploy) - Grunt task for code deployment over ftp
 
 * [[GitHub] rhiokim / grunt-sloc](https://github.com/rhiokim/grunt-sloc) - Source line of codes plugin for Grunt.js
