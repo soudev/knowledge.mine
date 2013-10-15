@@ -71,6 +71,8 @@
 
 * [Bootstrap 3 Upgrade Service. Convert Bootstrap 2.x to 3](http://upgrade-bootstrap.bootply.com/)
 
+* [Bootstrap v3: What Has Changed in the New Version | GroupDocs Blog](http://groupdocs.com/blog/bootstrap-v3-what-has-changed-in-the-new-version)
+
 * [Bootstrap 3: Nova aparência e mais componentes | iMasters](http://imasters.com.br/noticia/bootstrap-3-nova-aparencia-e-mais-componentes/)
 
 * [Bootstrap 3 PSD: Free For Commercial And Personal Use! | Design Shock](http://www.designshock.com/bootstrap-3-psd/)
