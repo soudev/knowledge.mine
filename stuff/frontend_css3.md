@@ -60,6 +60,8 @@
 
 * [[GitHub] ThrivingKings / animo.js](https://github.com/ThrivingKings/animo.js) - A powerful little tool for managing CSS animations
 
+* [[GitHub] HubSpot / odometer](https://github.com/HubSpot/odometer) - Beautiful CSS3 Number Transitions #hubspot-open-source
+
 
 ### Ferramentas
 
