@@ -8,7 +8,7 @@ h1. Aprendizado
 
 * [Node.js for Beginners :: Nettuts\+|http://net.tutsplus.com/tutorials/javascript-ajax/node-js-for-beginners/]
 
-* [Node.js para leigos (Versão completa) :: Underground WebDev|http://www.udgwebdev.com/nodejs-para-leigos/]
+* [Node.js para leigos (Versão completa) :: Underground WebDev|http://udgwebdev.com/nodejs]
 
 * [Understanding how to create a nodejs package.json :: Nodejitsu|http://package.json.nodejitsu.com/] \- Package.json: an interactive guide
 
