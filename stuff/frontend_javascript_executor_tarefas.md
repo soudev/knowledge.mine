@@ -109,6 +109,10 @@
 
 ##### Dicas
 
+* [maintainable grunt example](https://github.com/erkobridee/lab-nodejs/tree/master/javascript/grunt/maintainable-grunt) - on [GitHub] erkobridee / lab-nodejs
+
+--
+
 * [Grunt Boilerplate | Integralist](http://integralist.co.uk/Grunt-Boilerplate.html)
 
 * [Using Grunt.js with CSS](http://blog.pamelafox.org/2012/05/using-gruntjs-with-css.html) | [[GitHub] source grunt file](https://github.com/pamelafox/5lide/blob/master/editor/grunt.js)
