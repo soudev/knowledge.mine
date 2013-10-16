@@ -327,6 +327,14 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [GitHub and Government](http://government.github.com/) - Make government better, together
+
+  * [Introducing government.github.com | GitHub Blog](https://github.com/blog/1657-introducing-government-github-com)
+
+  * [GitHub lança plataforma voltada para governos | iMasters](http://imasters.com.br/noticia/github-lanca-plataforma-voltada-para-governos/)
+
+--
+
 * [Understanding Git: Collaborating](http://www.sbf5.com/~cduan/technical/git/git-4.shtml)
 
 * [5.2 Git Distribuído - Contribuindo Para Um Projeto | Pro Git](http://git-scm.com/book/pt-br/Git-Distribu%C3%ADdo-Contribuindo-Para-Um-Projeto)
