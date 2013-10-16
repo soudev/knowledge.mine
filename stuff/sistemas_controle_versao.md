@@ -275,6 +275,11 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * sugestão puxar parcialmente, iniciando em -r1:10000, por exemplo e depois puxar as demais partes
 
+* **Quando ocorre?**
+
+> Este erro ocorre em revisões do SVN, as quais possuem muitos arquivos associados, onde o servidor do SVN não consegue responder todas as informações.
+
+
 
 ### Branch
 
