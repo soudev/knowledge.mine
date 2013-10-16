@@ -479,6 +479,9 @@
 
 * [Nodejs e MongoDB - Introdução ao Mongoose | NodeBR - NodeJS Brasil](view-source:http://nodebr.com/nodejs-e-mongodb-introducao-ao-mongoose/)
 
+* [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica) 
+
+
 --
 
 * [[GitHub] BagosGiAr / modQuery](https://github.com/BagosGiAr/modQuery) - A module to use for MySQL queries with respect to SQL.
@@ -556,6 +559,11 @@
   * [Using the Directory-serving middleware in Express | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/11/Using-the-Directoryserving-middleware-in-Express)
 
   * [Using Express.js for APIs | StrongLoop](http://blog.strongloop.com/using-express-js-for-apis)
+  
+  * [Node.js para leigos - Framework Express parte 1 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-1/) 
+
+  * [Node.js para leigos - Framework Express parte 2 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-2/)  
+  
 
 
 * [Geddy](http://geddyjs.org/) - A simple, structured web framework for Node
@@ -572,6 +580,9 @@
   * [[GitHub] LearnBoost / engine.io](https://github.com/learnboost/engine.io) - is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
 
     * [The Realtime Engine | Devthought](http://www.devthought.com/2012/07/07/the-realtime-engine/)
+    * [Node.js para leigos - Explorando real-time | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-explorando-real-time/)
+    * [Real-time com Socket.IO no Node.js | Underground WebDev](http://udgwebdev.com/real-time-com-socket-io-no-nodejs/)
+    * [Express, Socket.IO e Sessions | Underground WebDev](http://udgwebdev.com/nodejs-express-socketio-e-sessions/)
 
 --
 
@@ -584,6 +595,8 @@
 * [meteor](http://www.meteor.com/)
 
   * [Introdução sobre Meteor | Underground WebDev](http://udgwebdev.com/introducao-sobre-meteor/)
+  * [Primeiros passos com Meteor | Underground WebDev](http://udgwebdev.com/primeiros-passos-com-meteor)
+  * [Organizando um projeto Meteor | Underground WebDev](http://udgwebdev.com/organizando-um-projeto-meteor)
 
 --
 
