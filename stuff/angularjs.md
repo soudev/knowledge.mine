@@ -484,7 +484,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
 
 
-### PhoneGap
+### Mobile
+
+* [The Definitive Guide to Angular on Mobile | ng-newsletter](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
+
+
+#### PhoneGap
 
 * [PhoneGap and AngularJs, The Start | Tech Pro](http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start)
 
