@@ -515,6 +515,10 @@
 
 * [Examples — AWS SDK for Node.js - Documentation](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/examples.html)
 
+* [awsbox, a PaaS layer for Node.js: An Update on Latest Developments | Mozilla Hacks](https://hacks.mozilla.org/2013/10/awsbox-a-paas-layer-for-node-js-an-update-on-latest-developments/)
+  
+  * [[GitHub] mozilla / awsbox](https://github.com/mozilla/awsbox)
+
 
 #### Windows Azure
 
