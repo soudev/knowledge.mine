@@ -234,6 +234,8 @@
 
 * [Working With IndexedDB | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb/)
 
+* [Using IndexedDB to Manage 3D WebGL Assets | SitePoint](http://www.sitepoint.com/using-indexeddb-manage-3d-webgl-assets/)
+
 * [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
 
 * [Storing Javascript objects in LocalStorage | DroidIT Blog](http://blog.droidit.eu/javascript-2/storing-javascript-objects-in-localstorage/)
