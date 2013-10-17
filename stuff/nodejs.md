@@ -272,6 +272,8 @@
 
 * [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
 
+* [Evitando callback hell no Node.js | Underground WebDev](http://udgwebdev.com/evitando-callback-hell-no-node-js/)
+
 * [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
 
 
@@ -282,7 +284,6 @@
 * [[GitHub] keremc / nodevers](https://github.com/keremc/nodevers) - a Node.js version manager
 
 * [Node.js as a build script | Blog - Miller Medeiros](http://blog.millermedeiros.com/node-js-as-a-build-script/)
-
 --
 
 * [[Gist] Tips for Writing Portable Node.js Code](https://gist.github.com/domenic/2790533)
@@ -308,7 +309,6 @@
 * [Testing Tuesday #20: Continuous Deployment for node.js applications | CodeShip Blog](http://blog.codeship.io/2013/08/27/testing-tuesday-20-continuous-deployment-for-node-js-applications.html)
 
 * [Nodejs Deployment: Building and Configuring on Amazon Linux AMI | Asaf Shakarchi](http://asaf.github.io/blog/2013/07/10/nodejs-deployment-building-and-configuring-on-amazon-linux-ami/)
-
 --
 
 * [Injeção de dependência com Node.js | iMasters](http://imasters.com.br/front-end/javascript/injecao-de-dependencia-com-node-js/)
@@ -397,6 +397,7 @@
 
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
 
+* [Nginx servindo Node.js | Underground WebDev](http://udgwebdev.com/nginx-servindo-nodejs)
 --
 
 * [Instalando Cloud9 local com suporte a RunJS no Linux | GARTZ](http://gartz.com.br/instalando-cloud9-local-com-suporte-a-runjs-no-linux/)
@@ -412,8 +413,9 @@
 
 * [How to create a NodeJS NPM package | Anup Shinde](http://www.anupshinde.com/posts/how-to-create-nodejs-npm-package/) - See how to create a simple NodeJS NPM package. We'll first create a simple program, add some node_modules  to it and walk through the process of creating a NPM package, publishing it and upgrading it. We'll also walk through see some common issues that you might face for the first time.
 
-  * [Adding dependencies and data to Node-NPM package | Anup Shinde](http://www.anupshinde.com/posts/adding-dependencies-data-nodejs-npm-package/) - In the first part we created a package with no dependencies. In this part, we'll add some dependencies to our program and package. We'll also look at some additional tips that you may require when creating your first NPM package.
+* [Adding dependencies and data to Node-NPM package | Anup Shinde](http://www.anupshinde.com/posts/adding-dependencies-data-nodejs-npm-package/) - In the first part we created a package with no dependencies. In this part, we'll add some dependencies to our program and package. We'll also look at some additional tips that you may require when creating your first NPM package.
 
+* [NPM Node Package Manager | Underground WebDev](http://udgwebdev.com/npm-node-package-manager/)
 
 ### url rewrite / proxy
 
@@ -597,7 +599,7 @@
   * [Introdução sobre Meteor | Underground WebDev](http://udgwebdev.com/introducao-sobre-meteor/)
   * [Primeiros passos com Meteor | Underground WebDev](http://udgwebdev.com/primeiros-passos-com-meteor)
   * [Organizando um projeto Meteor | Underground WebDev](http://udgwebdev.com/organizando-um-projeto-meteor)
-
+  * [Quer aprender Meteor? | Underground WebDev](http://udgwebdev.com/quer-aprender-meteor)
 --
 
 * [Sails.js](http://www.sailsjs.org/) - Realtime MVC Framework for Node.js
