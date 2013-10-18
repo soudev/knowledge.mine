@@ -1,5 +1,9 @@
 # Front-End
 
+* [Como perder peso (no browser)](http://browserdiet.com/pt/) - O guia definitivo de performance front-end
+
+--
+
 * [O que é desenvolvimento FrontEnd? | Tableless](http://tableless.com.br/iniciantes/) - Um guia para iniciantes na área
 
 * [Being A Web Developer - Front end standards](http://www.yellowshoe.com.au/standards/) - This little book is to aid a shared understanding of front-end development best practice
