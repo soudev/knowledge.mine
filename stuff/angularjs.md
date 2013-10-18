@@ -459,6 +459,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular JS : Sharing data between Controllers](http://ramandv.com/blog/angular-js-sharing-data/)
 
+* [Share state between controllers in AngularJS | variadic.me](https://variadic.me/posts/2013-10-15-share-state-between-controllers-in-angularjs.html)
+
 
 ### Yeoman, Grunt e Bower
 
@@ -794,6 +796,8 @@ Projeto de exemplo / estrutura inicial
 * [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
 
 * [How To Unit Test An Angular App | Alex Rothenberg](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
+
+* [Unit Testing Best Practices in AngularJS | Andy Shora](http://andyshora.com/unit-testing-best-practices-angularjs.html)
 
 * [Full-Spectrum Testing with AngularJS and Karma | Year of moo](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-karma.html) - Learn how to fully test your AngularJS application with Karma
 
