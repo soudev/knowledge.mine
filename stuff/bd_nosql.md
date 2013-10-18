@@ -212,6 +212,10 @@
 
 * [Using MongoDB as your primary Django database](http://staltz.github.io/djangoconfi-mongoengine/) - By Andre Medeiros at DjangoCon Finland 2013
 
+--
+
+* [Raspberry Pi MongoDB Installation - The working guide! | Raspberry Pi | 512MB of Awesome](http://c-mobberley.com/wordpress/index.php/2013/10/14/raspberry-pi-mongodb-installation-the-working-guide/)
+
 
 #### Ferramentas
 
