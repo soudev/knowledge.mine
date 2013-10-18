@@ -142,6 +142,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [The Ultimate Guide to Learning AngularJS in One Day | Todd Motto](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
+  * [Guia Definitivo para Aprender AngularJS em Um Dia | Javascript Brasil](http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/)
+
 --
 
 * [AngularJS - Where To Start?](http://blog.whydoifollow.com/post/angularjs-where-to-start)
@@ -413,6 +415,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Building Huuuuuge Apps with AngularJS | Brian Ford](http://briantford.com/blog/huuuuuge-angular-apps.html)
 
 * [Building large apps with AngularJS - Jason Dobry | Coder Wall](https://coderwall.com/p/y0zkiw)
+
+* [How to structure large angularJS applications | Entwicklertagebuch](http://entwicklertagebuch.com/blog/2013/10/how-to-structure-large-angularjs-applications/)
 
 --
 
@@ -718,7 +722,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [ng-boilerplate | Non-Trivial AngularJS Made Easy](http://joshdmiller.github.com/ng-boilerplate/) - Everything you need to kickstart AngularJS projects: a best-practice  directory structure, an intelligent build system, and the best web  design libraries around.
 
-* [[GitHub] marcorinck / ngStart](https://github.com/marcorinck/ngStart)
+* [[GitHub] marcorinck / ngStart](https://github.com/marcorinck/ngStart) - skeleton project for new angular.js projects
 
 * [[GitHub] CaryLandholt / AngularFun](https://github.com/CaryLandholt/AngularFun) - AngularJS Reference Architecture
 
@@ -823,6 +827,8 @@ Projeto de exemplo / estrutura inicial
 ### Mock
 
 * [Prototype Angular UIs Without A Backend | OpenSource Connections](http://www.opensourceconnections.com/2013/09/16/prototype-angular-uis-without-a-backend/)
+
+* [[GitHub] erkobridee / angular-mocks-backend](https://github.com/erkobridee/angular-mocks-backend) - Extend Angular.js Mocks to emulate backend, intercepting http requests with $httpBackend.when()
 
 --
 
