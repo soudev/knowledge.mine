@@ -63,6 +63,8 @@
 
 * [An Introduction to IIFEs - Immediately Invoked Function Expressions | Design Pepper](http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions)
 
+* [Applicative Programming In JavaScript With lodash.js | Tech.Pro](http://tech.pro/tutorial/1611/functional-javascript)
+
 --
 
 * [Tips for using window in JavaScript | 2ality](http://www.2ality.com/2013/09/window.html)
