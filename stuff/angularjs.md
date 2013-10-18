@@ -573,6 +573,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] kentcdodds / ng-genie](https://github.com/kentcdodds/ng-genie) - Directive for [GenieJS](https://github.com/kentcdodds/genie). GenieJS was built to bring behavior found in Alfred to JavaScript.
 
+* [textAngular](http://textangular.com/) - Lightweight Angular.js, Javascript Wysiwyg/Text-Editor
+
 --
 
 * [AngularJS Directives and The Computer Science of JavaScript | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
