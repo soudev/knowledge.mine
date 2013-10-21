@@ -541,7 +541,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [GitHub:Mac](http://mac.github.com/)
 
-* [Atlassian SourceTree](http://www.sourcetreeapp.com/) -  Git e Mercurial
+* [Atlassian SourceTree](http://www.sourcetreeapp.com/) -  Git e Mercurial. Necessário registrar, porém a licensa é gratuíta.
 
 * [GitX](http://gitx.frim.nl/)
 
@@ -560,7 +560,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [[GitHub Blog] GitHub for Windows Recent Improvements](https://github.com/blog/1420-github-for-windows-recent-improvements)
 
-* [Atlassian SourceTree](http://www.sourcetreeapp.com/) - Git e Mercurial | apenas para Windows 7 ou superior
+* [Atlassian SourceTree](http://www.sourcetreeapp.com/) - Git e Mercurial | apenas para Windows 7 ou superior. Necessário registrar, porém a licensa é gratuíta.
 
 * [TortoiseGit](https://code.google.com/p/tortoisegit/)
 
