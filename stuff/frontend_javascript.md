@@ -248,6 +248,8 @@
 
 * [Determining if a String Contains a Substring | Design Pepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches)
 
+* [Javascript’s call v apply v bind — The JavaScript Collection | Medium](https://medium.com/the-javascript-collection/9e6122cde639)
+
 
 ### Expressões Regulares
 
