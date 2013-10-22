@@ -227,6 +227,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [cheatsheet do git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) - O git-flow é um conjunto de extensões para o git que provê operações de alto-nível para repositórios usando o modelo de branches do Vincent Driessen.
 
+* [Quatro workflows para trabalhar com Git | iMasters﻿](http://imasters.com.br/desenvolvimento/qatro-workflows-para-trabalhar-com-git/)
+
 --
 
 * [Five advanced Git merge techniques](http://blog.ezyang.com/2010/01/advanced-git-merge/)
