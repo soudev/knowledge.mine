@@ -372,6 +372,8 @@
 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example.
 
+* [Using r.js to Optimize Your RequireJS Project | Tech Pro](http://tech.pro/blog/1639/using-rjs-to-optimize-your-requirejs-project)
+
 * [RequireJS – Optimizing and Building One File](http://orizens.com/wp/topics/requirejs-optimizing-and-building-one-file/)
 
 * [How to load jQuery plugins with RequireJS | Simone Web Design](http://simonewebdesign.it/blog/how-to-load-jquery-plugins-with-requirejs/)
