@@ -509,6 +509,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [How to build AngularJS based native mobile application | HTMLCenter](http://www.htmlcenter.com/blog/how-to-build-angularjs-based-native-mobile-application/)
 
+* [AngularJS, Phonegap, and angular-seed. Let’s Go! | Project: Poppycock](http://projectpoppycock.com/angularjs-phonegap-and-angular-seed-lets-go/)
+
 --
 
 * [[GitHub] calvinl / ng-phonegap](https://github.com/calvinl/ng-phonegap) - Grunt workflow for building AngularJS applications on PhoneGap
@@ -556,6 +558,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Mastering AngularJS Directives | Pascal Precht](http://pascalprecht.github.io/slides/mastering-angularjs-directives/)
 
 * [Angular Directive Examples | Tech Pro](http://tech.pro/tutorial/1603/angular-directive-examples)
+
+* [Refactoring to AngularJS Directive in 9 Steps | Suhair Hassan](http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
 
 --
 
