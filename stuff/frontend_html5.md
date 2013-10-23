@@ -170,6 +170,8 @@
 
 * [WebRTC: Update and Workarounds | Mozilla Hacks](https://hacks.mozilla.org/2013/09/webrtc-update-and-workarounds/)
 
+  [[Speaker Deck] WebRTC Data Black Magic](https://speakerdeck.com/feross/webrtc-data-black-magic)
+
 * [Licode](http://lynckia.com/licode/) - Open Source Communication Provider
 
 * [Talky](https://talky.io/) - Group video chat and screen sharing
