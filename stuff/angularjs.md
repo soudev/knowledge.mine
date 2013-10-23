@@ -279,6 +279,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Daily](http://www.angularjsdaily.com/) - Get more out of AngularJS
 
+* [What you need to know about Angular SEO | ng-newsletter](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
+
 --
 
 * [[Android App] AngularJS Pocket Reference](https://play.google.com/store/apps/details?id=com.angularpocketreference.app&amp;amp;hl=en)
@@ -364,6 +366,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Busca no Jekyll usando AngularJS | Frelleto Blog](http://blog.frelleto.com.br/javascript/angularjs/2013/08/10/busca-no-jekyll-usando-angularjs/)
+
+* [Searching the iTunes API asynchronously with AngularJS | John Philip Morgan](http://blog.jpamorgan.com/searching-the-itunes-api-asynchronously-with-angular-js/)
 
 --
 
