@@ -258,6 +258,13 @@
 * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
 
 
+### Boilerplate
+
+* [Node.js Boilerplate: Express, Mongo, Cross-Origin, and More | bryankrosenbaum.com](http://bryankrosenbaum.com/2013/10/17/node-js-boilerplate/)
+
+  * [[GitHub] bryanro / nodejs-boilerplate](https://github.com/bryanro/nodejs-boilerplate) - Template for nodejs RESTful web services and optional front-end
+
+
 ### Async / flow control
 
 * [Async - utilities for node and the browser](https://github.com/caolan/async)
