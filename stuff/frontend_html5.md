@@ -236,6 +236,8 @@
 
 #### Storage
 
+* [HTML5 Browser Storage: the Past, Present and Future | SitePoint](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
+
 * [Web SQL DB vs. IndexedDB | JavassCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
 
 * [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
