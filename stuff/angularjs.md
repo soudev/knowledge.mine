@@ -585,6 +585,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [textAngular](http://textangular.com/) - Lightweight Angular.js, Javascript Wysiwyg/Text-Editor
 
+* [Angular.js Intro.js](http://code.mendhak.com/angular-intro.js/) - AngularJS directives for intro.js
+
 --
 
 * [AngularJS Directives and The Computer Science of JavaScript | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
