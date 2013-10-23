@@ -229,6 +229,8 @@
 
 * [How to Learn Three.js for Game Development | Gamedevtuts+](http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/)
 
+* [Building a 3D MMO Using WebSocket | David Walsh Blog](http://davidwalsh.name/3d-websockets)
+
 
 #### Storage
 
