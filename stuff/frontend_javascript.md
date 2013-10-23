@@ -67,6 +67,10 @@
 
 --
 
+* [JavaScript: arguments explained | Victor Quinn](http://blog.victorquinn.com/javascript-arguments-explained)
+
+--
+
 * [Tips for using window in JavaScript | 2ality](http://www.2ality.com/2013/09/window.html)
 
 --
