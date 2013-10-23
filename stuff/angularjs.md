@@ -200,8 +200,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Learn AngularJS With These 5 Practical Examples | Tutorialzine](http://tutorialzine.com/2013/08/learn-angularjs-5-examples/)
 
-* [Angular Cats! An AngularJS Adventure Anthology](http://ericterpstra.com/2012/09/angular-cats-an-angularjs-adventure-anthology/)
-
 --
 
 * [Writing an AngularJS App with Socket.IO | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
