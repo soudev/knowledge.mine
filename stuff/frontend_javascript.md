@@ -170,6 +170,8 @@
 
 ### Dicas
 
+* [Medindo a complexidade do seu código JavaScript | Tableless](http://tableless.com.br/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/)
+
 * [Defensive JavaScript](http://www.defensivejs.com/)
 
 * [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)

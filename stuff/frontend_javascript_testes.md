@@ -39,6 +39,8 @@
 
 * [Testable & Tested Client-side Code | Tech.Pro](http://tech.pro/tutorial/1589/testable--tested-client-side-code)
 
+* [Medindo a complexidade do seu código JavaScript | Tableless](http://tableless.com.br/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/)
+
 
 #### Online fake data
 
