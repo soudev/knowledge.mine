@@ -48,6 +48,8 @@
 
 * [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). 
 
+* [[GitHub] madebymany / sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
+
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 
 * [[GitHub] bradbirdsall / Swipe](https://github.com/bradbirdsall/Swipe) - is the most accurate touch slider
