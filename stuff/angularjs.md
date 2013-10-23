@@ -126,6 +126,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Insights | Pascal Precht](http://pascalprecht.github.io/slides/angularjs-insights/)
 
+* [AngularJS – Presentation | Camilo Lopes](http://blog.camilolopes.com.br/angularjs-presentation/)
+
 --
 
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
