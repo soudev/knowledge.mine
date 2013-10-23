@@ -2,6 +2,8 @@
 
 * [[GitHub] pinceladasdaweb / Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain) - The definitive list of newsletters to keep up to date on various web development technologies
 
+* [Visualizando algoritmos | iMasters](http://imasters.com.br/linguagens/visualizando-algoritmos/)
+
 --
 
 * [Oracle Tahiti](http://tahiti.oracle.com/) - Search engine for the official Oracle documentation
