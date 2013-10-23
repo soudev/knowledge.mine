@@ -85,6 +85,8 @@
 
 * [Understanding Scope and Context in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/)
 
+* [Closures: Front to Back | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/closures-front-to-back/)
+
 --
 
 * [JSDares](http://www.jsdares.com/) - Experimental educational programming environment. Learn Javascript and create your own dares!
@@ -533,6 +535,21 @@
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
 * [[GitHub] HubSpot / humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane.
+
+
+#### Compiler / VM
+
+* [altJS](http://altjs.org/) - Web coding beyond JavaScript. JavaScript is the only language browsers understand, but JS compilers and converters make it possible to code in a variety of languages and still deploy the result anywhere.
+
+* [[GitHub] lkesteloot / turbopascal](lkesteloot / turbopascal) - Web-based Turbo Pascal compiler.
+
+    * [Turbo Pascal Compiler](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/) | [try it here](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/demo/)
+
+* [[GitHub] kripken / lua.vm.js](https://github.com/kripken/lua.vm.js)
+    
+    * [The Lua VM, on the Web](http://kripken.github.io/lua.vm.js/lua.vm.js.html) - This is an experiment in running [Lua](http://www.lua.org/) on the web, by porting the Lua C implementation to JavaScript using [Emscripten](https://github.com/kripken/emscripten/wiki).
+
+    * [Learning Lua/From JS](http://phrogz.net/lua/LearningLua_FromJS.html)
 
 
 #### Text Search
