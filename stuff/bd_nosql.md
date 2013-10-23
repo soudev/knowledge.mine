@@ -178,6 +178,8 @@
 
 * [[SlideShare] Optimizing MongoDB: Lessons Learned at Localytics](http://www.slideshare.net/andrew311/optimizing-mongodb-lessons-learned-at-localytics)
 
+* [The genius and folly of MongoDB - Bryce Nyeggen's Blog | Bryce Nyeggen](http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/)
+
 * [Data Science on MongoDB At Last!](http://blog.mongodb.org/post/35204064565/data-science-on-mongodb-at-last)
 
 * [Realtime Analytics at Buffer with MongoDB](http://blog.tommoor.com/post/24059620728/realtime-analytics-at-buffer-with-mongodb)
