@@ -470,10 +470,6 @@
 
 --
 
-* [HeliosJS](http://entrendipity.github.io/helios.js/) - in-memory graph database for modern browsers
-
---
-
 * [[GitHub] zvictor / ArgueJS](https://github.com/zvictor/ArgueJs) - optional parameters, default values and type-checking for your JavaScript method signatures
 
 * [Leaflet](http://leafletjs.com/) - a JavaScript library for mobile-friendly maps
@@ -489,6 +485,10 @@
 --
 
 * [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
+
+--
+
+* [HeliosJS](http://entrendipity.github.io/helios.js/) - in-memory graph database for modern browsers
 
 --
 
