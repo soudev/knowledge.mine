@@ -757,6 +757,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[YouTube] Getting MEAN | Google Developers](http://www.youtube.com/watch?v=XwSFg8nqBFA&t=1m39s)
 
+  * [[Speaker Deck] Developing MEAN applications](https://speakerdeck.com/voronianski/developing-mean-applications) - Simple overview of modules and other stuff that we've used while building http://likeastore.com using Mongodb, Express.js, Angular.js and Node.js stack.
+  
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
 
