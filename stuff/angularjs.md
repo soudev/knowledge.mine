@@ -158,6 +158,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Tutorial: Learn to build modern web apps | Thinkster](http://www.thinkster.io/pick/GUIDJbpIie/)
 
+* [Aprenda AngularJS com estes 5 Exemplos Práticos | Javascript Brasil](http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/)
+
 --
 
 * [AngularJS for .NET Developers | henriquat.re](http://henriquat.re/) - a continuously deployed ebook
@@ -552,6 +554,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Introduction to Directives | henriquat.re](http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html) - AngularJS Directives - Domain-Specific Extensions to HTML
 
 * [Combining AngularJS with existing Components | henriquat.re](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
+
+* [[YouTube] Using Angular with Polymer elements](https://www.youtube.com/watch?v=p1NpZ-0Op0w)
 
 * [AngularJS - $compile: How it works, How to use it | Try, Catch, Fail](http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
 
