@@ -118,6 +118,8 @@
 
 * [Getting Physical: Networked Hardware with Node.js | InfoQ](http://www.infoq.com/presentations/Hardware-Nodejs-WiFi-XBee) - Ted Hayes discusses WiFi, XBee and their associated network topologies, and demoes controlling a networked pong game with a physical joystick using Node.js.
 
+* [Utilizando Node.js para automação de build e deploy no dell.com | BrazilJS 2013](http://bitbonsai.com/braziljs2013/)
+
 
 
 ## Projetos interessantes
@@ -294,7 +296,14 @@
 
 * [[GitHub] keremc / nodevers](https://github.com/keremc/nodevers) - a Node.js version manager
 
+--
+
 * [Node.js as a build script | Blog - Miller Medeiros](http://blog.millermedeiros.com/node-js-as-a-build-script/)
+
+* [Write your shell scripts in JavaScript, via Node.js | 2 ality](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
+
+* [[GitHbb] arturadib / shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands for Node.js
+
 --
 
 * [[Gist] Tips for Writing Portable Node.js Code](https://gist.github.com/domenic/2790533)
