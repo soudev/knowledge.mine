@@ -213,6 +213,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Release Your Software | GitHub Blog](https://github.com/blog/1547-release-your-software)
 
+* [Very Easy Changelogs with Git | Tech.Pro](http://tech.pro/tutorial/1649/very-easy-changelogs-with-git)
+
 * [Git Howto: Revert a Commit Already Pushed to a Remote Repository](http://christoph.ruegg.name/blog/2010/5/5/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html)
 
 * [9.7 Git Internamente - Manutenção e Recuperação de Dados | Pro Git](http://git-scm.com/book/pt-br/Git-Internamente-Manuten%C3%A7%C3%A3o-e-Recupera%C3%A7%C3%A3o-de-Dados)
