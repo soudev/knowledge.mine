@@ -581,6 +581,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] jonashartmann / webcam-directive](https://github.com/jonashartmann/webcam-directive) - Angularjs directive to access the webcam
 
+* [[GitHub] angular-adaptive / adaptive-motion](https://github.com/angular-adaptive/adaptive-motion) - Want to control an AngularJS app using your web cam? Check it.
+
 * [[GitHub] rootux / angular-highcharts-directive](https://github.com/rootux/angular-highcharts-directive) - An Angular Js Directive which allows to simplify the use of Highcharts charts
 
 * [[GitHub] wzr1337 / angular-gestures](https://github.com/wzr1337/angular-gestures) - AngularJS directive that adds support for multi touch gestures to your app. Based on hammer.js.
