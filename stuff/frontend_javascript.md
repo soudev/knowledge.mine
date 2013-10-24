@@ -258,6 +258,8 @@
 
 * [Javascript’s call v apply v bind — The JavaScript Collection | Medium](https://medium.com/the-javascript-collection/9e6122cde639)
 
+* [Currying in Javascript — The JavaScript Collection | Medium](https://medium.com/the-javascript-collection/ce6da2d324fe)
+
 
 ### Expressões Regulares
 
