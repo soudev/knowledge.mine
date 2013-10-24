@@ -342,6 +342,10 @@
 
 --
 
+* [Snap.svg](http://snapsvg.io/) - is designed for modern browsers and therefore supports the newest SVG features like masking, clipping, patterns, full gradients, groups, and more.
+
+--
+
 * [[GitHub] mark-rolich / RulersGuides.js](https://github.com/mark-rolich/RulersGuides.js) - Creates Photoshop-like guides and rulers interface on a web page | [Demo](http://mark-rolich.github.io/RulersGuides.js/)
 
 --
