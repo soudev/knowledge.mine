@@ -188,6 +188,10 @@
 
 --
 
+* [[GitHub] YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
+
+--
+
 * [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
 
 * [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
