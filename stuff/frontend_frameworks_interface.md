@@ -83,6 +83,8 @@
 
 * [Ladda UI for Bootstrap 3](http://msurguy.github.io/ladda-bootstrap/)
 
+* [HTML5 Admin](http://www.html5admin.com/) - Responsive HTML5 Admin Template using Bootstrap v3
+
 --
 
 * [Você já conhece o Twitter Bootstrap?](http://joaovagner.com.br/2012/09/20/voce-ja-conhece-o-twitter-bootstrap/)
