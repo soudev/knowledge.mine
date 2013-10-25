@@ -78,4 +78,5 @@
 
 * [Screenfly](https://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
 
+* [Dimensions](https://chrome.google.com/webstore/detail/dimensions/hdmihohhdcbejdkidbfijmfehjbnmifk?utm_source=chrome-ntp-launcher) - (Google Chrome) Dimensions is a responsive web design testing tool. It is the easiest way to test responsive websites at different viewports. It works offline & is compatible with LiveReload. 
 
