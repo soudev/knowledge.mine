@@ -551,7 +551,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
 
+* [Lesser know AngularJS directives | Reverse Polarity](http://djds4rce.wordpress.com/2013/10/20/lesser-know-angularjs-directives/)
+
 * [Introduction to Directives | henriquat.re](http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html) - AngularJS Directives - Domain-Specific Extensions to HTML
+
+* [The Hitchhiker's Guide to the Directive | codef0rmer](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
+
+* [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
 
 * [Combining AngularJS with existing Components | henriquat.re](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
 
