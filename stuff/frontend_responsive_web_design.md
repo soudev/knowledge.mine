@@ -74,6 +74,7 @@
 
 * [FooTable](http://fooplugins.com/plugins/footable-jquery/) - is a jQuery plugin that aims to make HTML tables on smaller devices look awesome – No matter how many columns of data you may have in them.
 
+
 ### Ferramentas
 
 * [Screenfly](https://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
