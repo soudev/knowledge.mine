@@ -208,6 +208,8 @@
 
 * [FightCode](http://fightcodegame.com/) - Killing Robots for Fun
 
+* [Code Combat](http://codecombat.com/) - Learn to Code JavaScript by Playing a Game
+
 * [Full Screen Mario](http://www.fullscreenmario.com/) : a purely HTML5 remake of the original Super Mario Bros game 
 
   * [[GitHub] Diogenesthecynic / FullScreenMario](https://github.com/Diogenesthecynic/FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
@@ -216,6 +218,10 @@
 
 
 #### Game Development
+
+* [Screen size management in mobile HTML5 games | HTML5 Hub](http://html5hub.com/screen-size-management-in-mobile-html5-games/)
+
+--
 
 * [Announcing Artillery's Project Atlas, a Hardcore RTS for the Browser | The Artillery Blog](http://blog.artillery.com/2013/09/project-atlas-and-the-artillery-platform.html) - HTML5 Game Development and Engineering. The Artillery Platform, which Atlas is built upon, uses JavaScript and WebGL to deliver a high-quality, low-latency multiplayer gaming experience to anyone with a modern web browser. The platform is centered around 3D experiences with real-time multiplayer capability and strong community support. The JavaScript-based game engine features a component-entity design, a modern deferred rendering pipeline, and development tools designed to allow creative expression and super-fast iteration.
 
@@ -595,11 +601,14 @@
 
 * [Nativo ou Web? Técnicas e Dicas em JavaScript móvel | InfoQ Br](http://www.infoq.com/br/interviews/tecnicas-javascript-movel)
 
---
+
+##### Firefox OS
 
 * [Localizing Firefox OS Apps | Mozilla Hacks](https://hacks.mozilla.org/2013/08/localizing-firefox-os-apps/)
 
 * [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos) - Criando apps com HTML5 para o Firefox OS (eBook)
+
+* [[GitHub] tehsis / webinstaller](https://github.com/tehsis/webinstaller) - Helper for installing Mozilla webapps
 
 
 ##### Apache Cordova & PhoneGap
