@@ -135,6 +135,8 @@
 
 * [How to Build a Supersaw Synthesizer with the Web Audio API | Noisehack](http://noisehack.com/how-to-build-supersaw-synth-web-audio-api/)
 
+* [Dynamic Audio Generation In the Browser : a JavaScript Synthesizer](http://keithwhor.com/music/)
+
 * [Writing Web Audio API code that works in every browser | Mozilla Hacks](https://hacks.mozilla.org/2013/08/writing-web-audio-api-code-that-works-in-every-browser/)
 
 * [Frequency Modulation (FM) with Web Audio API | @GreWeb](http://greweb.me/2013/08/FM-audio-api/) | [jsfiddle](http://jsfiddle.net/greweb/s2MMR/19/)
