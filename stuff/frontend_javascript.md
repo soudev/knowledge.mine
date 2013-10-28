@@ -436,6 +436,10 @@
 
 --
 
+* [Offline.js](http://github.hubspot.com/offline/docs/welcome/) - Handle your users losing their internet connection like a pro
+
+--
+
 * [stacktrace.js](http://stacktracejs.com/) - Framework-agnostic, micro-library for getting stack traces in all web browsers.
 
 --
@@ -479,6 +483,8 @@
 * [[GitHub] mikaelbr / SocialFeed.js](https://github.com/mikaelbr/SocialFeed.js) - Easily create a feed with your latest interactions on different social media. Accumulate Github Events, Disqus comments, Delicious links, Tweets, etc.
 
 --
+
+* [[GitHub] philbooth / check-types.js](https://github.com/philbooth/check-types.js) - A tiny JavaScript library for checking arguments and throwing exceptions.
 
 * [[GitHub] zvictor / ArgueJS](https://github.com/zvictor/ArgueJs) - optional parameters, default values and type-checking for your JavaScript method signatures
 
@@ -539,6 +545,13 @@
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
 * [[GitHub] HubSpot / humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane.
+
+* [[GitHub] rschmukler / human-interval](https://github.com/rschmukler/human-interval) - Human readable time distances for javascript
+
+
+#### Emulator
+
+* [PCjs : IBM PC XT (Model 5160) running Windows v1.01](http://jsmachines.net/demos/pc/cga-win101/xt-cga-win101.xml)
 
 
 #### Compiler / VM
