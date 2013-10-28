@@ -23,3 +23,10 @@
 **Proposta:** diminuir o tempo de configuração do  ambiente e maximizar a paridade dos ambientes de desenvolvimento e  produção, e tornar a desculpa _"funciona na minha máquina"_, uma relíquia do passado.
 
 **Observação:** utiliza o [Oracle VM VirtualBox](https://www.virtualbox.org/)
+
+
+## Docker
+
+* [docker.io](http://www.docker.io/)
+
+* [The Revolution will be Containerized | Joshua Barratt](https://rawgithub.com/jbarratt/dockertalk/master/talk/index.html) - The Past, Present and Future of Containers for Applications
