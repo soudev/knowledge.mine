@@ -90,6 +90,9 @@
 
 * [Template Engine Chooser](http://garann.github.io/template-chooser/)
 
+* [Nunjucks](http://jlongster.github.io/nunjucks/) - A rich and powerful templating language for JavaScript
+
+
 #### Handlebars.js
 
 * [Handlebars.js](http://handlebarsjs.com/)
