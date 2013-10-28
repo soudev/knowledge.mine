@@ -6,9 +6,12 @@
 
 * [Configurando o Terminal no Mac OS X | Simples Ideias](http://simplesideias.com.br/configurando-o-terminal-no-mac-os-x)
 
---
+
+## Colors
 
 * [LSCOLORS Generator | Geoff Greer](http://geoff.greer.fm/lscolors/) - terminal `export LSCOLORS=GxFxCxDxBxegedabagaced`
+
+* [[GitHub] hukl / Smyck-Color-Scheme](https://github.com/hukl/Smyck-Color-Scheme) - Color Scheme for Terminal.app, iTerm2, Vim, MacVim, Sublime Text2 and Textmate
 
 
 ## dotFiles
@@ -18,6 +21,8 @@
 * [[GitHub] mathiasbynens / dotfiles](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
 
 * [[GitHub] davidsonfellipe / dotfiles](https://github.com/davidsonfellipe/dotfiles) - OS X dotfiles
+
+* [[GitHub] luanmuniz / dotfiles](https://github.com/luanmuniz/dotfiles) - Script de configuração de workspace
 
 
 ## Setup
