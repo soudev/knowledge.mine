@@ -428,8 +428,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
-
 * [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
 
 * [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
@@ -445,7 +443,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Home Automation with AngularJS and node.js on a Raspberry Pi | codecentric Blogcodecentric Blog](https://blog.codecentric.de/en/2013/03/home-automation-with-angularjs-and-node-js-on-a-raspberry-pi/)
 
 
-### Google Analytics
+### Google
+
+* [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
+
+* [AngularJs web app with Google Cloud Storage backend service | dev.yathit.com](http://dev.yathit.com/tutorial/angular-js-gcs-backend.html)
+
+
+#### Analytics
 
 * [Angulartics](http://luisfarzati.github.io/angulartics/) - Web analytics for AngularJS applications
 
@@ -468,6 +473,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Angular JS : Sharing data between Controllers](http://ramandv.com/blog/angular-js-sharing-data/)
 
 * [Share state between controllers in AngularJS | variadic.me](https://variadic.me/posts/2013-10-15-share-state-between-controllers-in-angularjs.html)
+
+* [A Tale of Frankenstein and Binding to Service Values in Angular.js | stsc3000's blog](http://stsc3000.github.io/blog/2013/10/26/a-tale-of-frankenstein-and-binding-to-service-values-in-angular-dot-js/)
 
 
 ### Yeoman, Grunt e Bower
