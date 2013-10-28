@@ -393,7 +393,7 @@
   * [High Performance JS heatmaps | Codeflow](http://codeflow.org/entries/2013/feb/04/high-performance-js-heatmaps/)
 
 
-* [Charts.js](http://www.chartjs.org/) - Simple HTML5 Charts using the *canvas* tag
+* [Chart.js](http://www.chartjs.org/) - Simple HTML5 Charts using the *canvas* tag
 
 * [Aristochart](http://dunxrion.github.io/aristochart/) - Customizável e flexível biblioteca de gráficos em Canvas
 
