@@ -877,6 +877,8 @@ Projeto de exemplo / estrutura inicial
 
 --
 
+* [DRY Up Your $httpBackend mock | Burnside Digital Blog](http://blogs.burnsidedigital.com/2013/10/dry-up-your-httpbackend-mock/)
+
 * [How to mock AngularJS modules and inject them in your testacular tests?](http://southdesign.de/blog/mock-angular-js-modules-for-test-di.html)
 
 * [Supplying Mocks for Services via $provide | Tech Pro](http://tech.pro/tutorial/1517/supplying-mocks-for-services-via-provide)
