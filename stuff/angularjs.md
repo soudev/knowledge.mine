@@ -490,6 +490,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Autenticação
 
+* [[GitHub]  andreareginato / ng-oauth](https://github.com/andreareginato/ng-oauth) - AngularJS directive working with the OAuth2 Implicit Flow
+
 * [[GitHub] philipsorst / angular-rest-springsecurity](https://github.com/philipsorst/angular-rest-springsecurity) - An example AngularJS Application that uses a Spring Security protected Jersey REST backend based on Hibernate/JPA
 
 * [Deal with users authentication in an AngularJS web app](http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
