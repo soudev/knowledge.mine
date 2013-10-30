@@ -12,7 +12,7 @@
 
 * [JSBooks](http://jsbooks.revolunet.com/) - free javascript books
 
-* [[GitHub] vhf / free-programming-books](https://github.com/vhf/free-programming-books) | [site]()
+* [[GitHub] vhf / free-programming-books](https://github.com/vhf/free-programming-books) | [site](http://resrc.io/list/10/list-of-free-programming-books/)
 
 * [JSWiki](http://jswiki.org/) - This wiki indexes libraries and resources available for JavaScript
 
