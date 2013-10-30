@@ -614,6 +614,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular.js Intro.js](http://code.mendhak.com/angular-intro.js/) - AngularJS directives for intro.js
 
+* [[GitHub] klederson / angular-masonry-directive](https://github.com/klederson/angular-masonry-directive) - A very simple and 100% compatible masonry directive for AngularJS ... do you know how to use masonry? Good! You know how to use this
+
 --
 
 * [AngularJS Directives and The Computer Science of JavaScript | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
