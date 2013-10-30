@@ -22,6 +22,8 @@
 
 * [[GitHub] mathiasbynens / dotfiles](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
 
+* [[GitHub] zenorocha / dotfiles](https://github.com/zenorocha/dotfiles) - OS X dotfiles
+
 * [[GitHub] davidsonfellipe / dotfiles](https://github.com/davidsonfellipe/dotfiles) - OS X dotfiles
 
 * [[GitHub] luanmuniz / dotfiles](https://github.com/luanmuniz/dotfiles) - Script de configuração de workspace
