@@ -673,6 +673,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
 
+* [[GitHub] jmdobry / angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for Angular's [$cacheFactory](http://docs.angularjs.org/api/ng.$cacheFactory)
+
 --
 
 * [[GitHub] mgonto / restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
