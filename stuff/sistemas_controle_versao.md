@@ -473,6 +473,11 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Hexo - Node.js blog framework](http://zespia.tw/hexo/) - A fast, simple & powerful blog framework, powered by Node.js
 
 
+####  Cabin.js
+
+* [Cabin.js](http://www.cabinjs.com/) - Simple and extensible static site generator powered by Grunt.
+
+
 #### Docpad
 
 * [DocPad - Streamlined Web Development](http://docpad.org/) - build on top of node.js - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. Use it either standalone, as a build script, or even as a module in a bigger system. Either way, DocPad will streamline your web development process allowing you to craft full-featured websites quicker than ever before.
