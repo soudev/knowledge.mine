@@ -553,6 +553,8 @@
 
 * [PCjs : IBM PC XT (Model 5160) running Windows v1.01](http://jsmachines.net/demos/pc/cga-win101/xt-cga-win101.xml)
 
+* [JsDOSBox - JavaScript PC DOS Emulator](http://sourceforge.net/p/jsdosbox/home/Home/)
+
 
 #### Compiler / VM
 
