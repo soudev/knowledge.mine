@@ -618,6 +618,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Datatable with fully dynamic columns in AngularJS | Entwicklertagebuch](http://entwicklertagebuch.com/blog/2013/11/datatable-with-fully-dynamic-columns-in-angularjs/)
+
+--
+
 * [AngularJS Directives and The Computer Science of JavaScript | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/angularjs-directives-and-the-computer-science-of-javascript.html)
 
 * [Understanding AngularJS transclude in directives](http://odiseo.net/angularjs/understanding-angularjs-transclude-in-directives)
