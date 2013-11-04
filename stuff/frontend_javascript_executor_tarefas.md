@@ -49,6 +49,8 @@
 
 * [Automação de tarefas com o Grunt JS - Parte I | Javascript Brasil](http://javascriptbrasil.com/2013/10/08/automacao-de-tarefas-com-grunt-parte-1/)
 
+* [Get Up And Running With Grunt | Smashing Coding](http://coding.smashingmagazine.com/2013/10/29/get-up-running-grunt/)
+
 --
 
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
