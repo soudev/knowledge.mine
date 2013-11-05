@@ -11,7 +11,9 @@
 
 ## GET, UPDATE, DELETE
 
-  http://:app-name/rest/:version/:resource/:id
+```
+http://:app-name/rest/:version/:resource/:id
+```
 
 **:id** - identificador do recurso
 
@@ -24,7 +26,9 @@
 
 ## GET, POST
 
-  http://:app-name/rest/:version/:resource
+```
+http://:app-name/rest/:version/:resource
+```
 
 * **GET** - recupera uma listagem dos recursos
 
