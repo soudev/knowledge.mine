@@ -241,6 +241,8 @@
 
 * [Building a 3D MMO Using WebSocket | David Walsh Blog](http://davidwalsh.name/3d-websockets)
 
+* [Building Multiplayer HTML5 Games with Cloak | Bocoup](http://weblog.bocoup.com/building-multiplayer-html5-games-with-cloak/)
+
 
 #### Storage
 
@@ -253,6 +255,8 @@
 * [Working With IndexedDB | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb/)
 
 * [Using IndexedDB to Manage 3D WebGL Assets | SitePoint](http://www.sitepoint.com/using-indexeddb-manage-3d-webgl-assets/)
+
+* [indexeddb file system | mode·switch](http://blog.modeswitch.org/indexeddb-file-system.html)
 
 * [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
 
