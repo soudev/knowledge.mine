@@ -254,6 +254,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 8: Iterators and Data](http://dailyjs.com/2013/06/13/angularjs-8/)
 
 
+### Tero Parviainen : Make Your Own AngularJS
+
+* [Part 1: Scopes And Digest](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
+
+
+
 ## Caso de Uso
 
 * [Aplicações construídas com Angular.js](http://builtwith.angularjs.org/)
@@ -398,6 +404,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[Gist] AngularJS Lesson Learned #2: Enabling HTTP Credentials | Mário Junior](https://gist.github.com/mariojunior/6175849)
 
 
+### Amazon AWS
+
+* [AWS JS SDK - The Canonical Angular Guide | ng-newsletter](http://www.ng-newsletter.com/posts/aws-js-sdk.html)
+
+  * [A Developer Preview of an AWS SDK for JavaScript in the Browser | Amazon Web Services Blog](http://aws.typepad.com/aws/2013/10/developer-preview-aws-sdk-for-javascript.html)
+
+
 ### Decorator
 
 * [Enhancing AngularJS $log using Decorators | The Solution Optimist](http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
@@ -410,6 +423,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Dynamically Loading Controllers and Views with AngularJS and RequireJS | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
 
 * [Lazy Loading In AngularJS | IFY I/O](http://ify.io/lazy-loading-in-angularjs/)
+
+* [[GitHubb] mikeromano38 / angular-async](https://github.com/mikeromano38/angular-async) - a module for asynchronous loading of angular components
 
 
 ### Building Apps
@@ -527,6 +542,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [How to build AngularJS based native mobile application | HTMLCenter](http://www.htmlcenter.com/blog/how-to-build-angularjs-based-native-mobile-application/)
 
 * [AngularJS, Phonegap, and angular-seed. Let’s Go! | Project: Poppycock](http://projectpoppycock.com/angularjs-phonegap-and-angular-seed-lets-go/)
+
+* [Sample Mobile Application with AngularJS | Christophe Coenraets](http://coenraets.org/blog/2013/11/sample-mobile-application-with-angularjs/)
 
 --
 
