@@ -121,6 +121,12 @@
 * [Utilizando Node.js para automação de build e deploy no dell.com | BrazilJS 2013](http://bitbonsai.com/braziljs2013/)
 
 
+### IBM developerWorks
+
+* [Developing mobile apps with Node.js and MongoDB, Part 1: A team's methods and results](http://www.ibm.com/developerworks/java/library/mo-nodejs-1/index.html)
+
+* [Developing mobile apps with Node.js and MongoDB, Part 2: Hints and tips](http://www.ibm.com/developerworks/mobile/library/mo-nodejs-2/index.html)
+
 
 ## Projetos interessantes
 
@@ -285,13 +291,16 @@
 
 * [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
 
+* [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
+
+* [[GitHub] Sahadar / pubsub.js](https://github.com/Sahadar/pubsub.js) - JavaScript pubsub implementation with wildcards, inheritance and multisubscribtions
+
 --
 
 * [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
 
 * [Evitando callback hell no Node.js | Underground WebDev](http://udgwebdev.com/evitando-callback-hell-no-node-js/)
 
-* [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
 
 
 ## Dicas
@@ -422,6 +431,7 @@
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
 
 * [Nginx servindo Node.js | Underground WebDev](http://udgwebdev.com/nginx-servindo-nodejs)
+
 --
 
 * [Instalando Cloud9 local com suporte a RunJS no Linux | GARTZ](http://gartz.com.br/instalando-cloud9-local-com-suporte-a-runjs-no-linux/)
@@ -429,6 +439,10 @@
 --
 
 * [Building Multiplayer Games with Node.js and Socket.IO | Flippin' Awesome](http://flippinawesome.org/2013/09/30/building-multiplayer-games-with-node-js-and-socket-io/)
+
+--
+
+* [[GitHub] bekk / retire.js](https://github.com/bekk/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilites
 
 
 ### modulo
@@ -440,6 +454,7 @@
 * [Adding dependencies and data to Node-NPM package | Anup Shinde](http://www.anupshinde.com/posts/adding-dependencies-data-nodejs-npm-package/) - In the first part we created a package with no dependencies. In this part, we'll add some dependencies to our program and package. We'll also look at some additional tips that you may require when creating your first NPM package.
 
 * [NPM Node Package Manager | Underground WebDev](http://udgwebdev.com/npm-node-package-manager/)
+
 
 ### url rewrite / proxy
 
