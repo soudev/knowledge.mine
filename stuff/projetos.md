@@ -6,6 +6,10 @@
 
 * [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
 
+--
+
+* [REMOTE: The new book from 37signals](https://37signals.com/remote/)
+
 
 ## ALM
 
@@ -53,6 +57,10 @@
 * [Pedaços de XP, FDD, Scrum e Kanban na Análise de Negócio e Engenharia de Requisitos](http://www.infoq.com/br/presentations/agile-negocio-requisitos) - Utilizando partes de técnicas do FDD, XP, Scrum, Kanban e outros, o  palestrante pôde fazer uma experiência muito produtiva em Análise e  Modelagem de Negócios e Requisitos. Neste relato, é exposto o cenário  padrão da Elicitação de Requisitos ao longo do desenvolvimento, os  problemas enfrentados e o que levou a equipe a escolher pedaços de  vários frameworks e métodos ágeis.
 
 * [Kanban Avançado - Além de Visualizações e Limites](http://www.infoq.com/br/presentations/kanban-avancado) - Kanban, uma abordagem Lean para trabalho do conhecimento, é a nova  onda na evolução em gestão e desenvolvimento ágil. Atualmente a  comunidade tem se fixado nas características mais simples deste método.  Nesta palestra são explorados os principais fundamentos e propriedades  avançadas de um sistema Kanban para quem busca maior maturidade e  previsibilidade dentro de sistemas complexos.
+
+--
+
+* [Utilizando ferramentas open source para reorganizar seus dados em informações concretas](http://www.infoq.com/br/presentations/ferramentas-opensource) - Muito se fala do papel que os dados podem assumir no dia-a-dia de empresas, mas pouco se mostra como podem ser eficazes no auxílio das tomadas de decisões. Veja como seguir um caminho prático pelos emaranhados de termos e técnicas surgindo a cada dia neste campo que floresce como nova onda. Mostramos como transformar conjuntos de dados em informação – e por consequência em lucros.
 
 -- 
 
