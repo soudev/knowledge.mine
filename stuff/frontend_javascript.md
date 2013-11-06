@@ -774,6 +774,10 @@
 
 --
 
+* [Contrasting Backbone and Angular | Victor Savkin on Software Architecture & Design](http://victorsavkin.com/post/65519559752/contrasting-backbone-and-angular)
+
+--
+
 * [[GitHub] mattbaker / Reactive.js](https://github.com/mattbaker/Reactive.js) - A library for programming reactively in Javascript.
 
   * [Ractive.js Expressions and the New Wave of Reactive Programming | Flippin' Awesome](http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/)
