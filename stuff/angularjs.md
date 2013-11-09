@@ -357,6 +357,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Form validation with AngularJS](http://www.ng-newsletter.com/posts/validations.html)
 
+* [[SlideShare] Forms in AngularJS](http://www.slideshare.net/EyalV/forms-in-angularjs)
+
 * [Random tricks when using AngularJS](http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/) 
 
 * [input radio | Angular Docs](http://docs-angularjs-org-dev.appspot.com/api/ng.directive:input.radio)
