@@ -14,6 +14,8 @@
 
 * [Pra não dizer que não falei de Vagrant | iMasters](http://imasters.com.br/desenvolvimento/pra-nao-dizer-que-nao-falei-de-vagrant/)
 
+* [Puppet e Vagrant: Como provisionar máquinas para seu projeto | ThoughtWorks](http://www.thoughtworks.com/insights/blog/puppet-e-vagrant-como-provisionar-maquinas-para-seu-projeto)
+
 --
 
 * [Episódio 100 – Vagrant e Docker - Parte 1 de 3 | GrokPodcast](http://www.grokpodcast.com/2013/09/26/episodio-100-vagrant-docker/)
