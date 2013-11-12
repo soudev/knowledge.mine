@@ -653,6 +653,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Missing Directives: Focus & Blur Part 2 | The traveling hermit](http://blog.jasoncust.com/2013/08/angularjs-missing-directives-focus-blur_14.html)
 
+* [Dealing with focus and blur in AngularJS directives | Miroslav Magda's blog](http://blog.ejci.net/2013/08/06/dealing-with-focus-and-blur-in-angularjs-directives/)
+
 * [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
 
 * [Angularjs-nvd3-directives](http://cmaurer.github.io/angularjs-nvd3-directives/index.html) - Angular.js directives for nvd3.js
