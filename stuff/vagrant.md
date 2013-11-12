@@ -32,3 +32,6 @@
 * [docker.io](http://www.docker.io/)
 
 * [The Revolution will be Containerized | Joshua Barratt](https://rawgithub.com/jbarratt/dockertalk/master/talk/index.html) - The Past, Present and Future of Containers for Applications
+
+* [Docker on Raspberry Pi | Resin.io](http://resin.io/docker-on-raspberry-pi/)
+
