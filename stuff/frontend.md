@@ -44,7 +44,9 @@
 * [Build Bootstrap in Minutes Using Emmet | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/applications/build-bootstrap-in-minutes-using-emmet/)
 
 
-## Unicode
+## HTML Codes / Unicode
+
+* [HTML Codes - Characters and symbols](http://www.ascii.cl/htmlcodes.htm)
 
 * [Unicode Character Table](http://unicode-table.com/) - Very extensive table showing all existing unicode characters, along with their respective names, numbers and codes.
 
