@@ -579,6 +579,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
 
+* [[GitHub] IgorMinar / directives-workshop](https://github.com/IgorMinar/directives-workshop)
+
+--
+
 * [Lesser know AngularJS directives | Reverse Polarity](http://djds4rce.wordpress.com/2013/10/20/lesser-know-angularjs-directives/)
 
 * [Introduction to Directives | henriquat.re](http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html) - AngularJS Directives - Domain-Specific Extensions to HTML
@@ -590,6 +594,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Combining AngularJS with existing Components | henriquat.re](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
 
 * [[YouTube] Using Angular with Polymer elements](https://www.youtube.com/watch?v=p1NpZ-0Op0w)
+
+--
 
 * [AngularJS - $compile: How it works, How to use it | Try, Catch, Fail](http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
 
