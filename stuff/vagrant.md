@@ -35,7 +35,14 @@
 
 * [My Other Virtual Machine is a Container | Innovation Insights](http://insights.wired.com/profiles/blogs/my-other-virtual-machine-is-a-container)
 
-* [Docker on Raspberry Pi | Resin.io](http://resin.io/docker-on-raspberry-pi/)
-
 * [Building a Multi-Purpose Docker Image | Docker News — Medium](https://medium.com/docker-news/7762378ebc2e)
 
+* [Notes about fiddling with docker and continuous deployment ideas | Roxee Tech](http://tech.roxee.tv/2013/10/01/notes-about-fiddling-with-docker-and-continuous-deployment-ideas/)
+
+--
+
+* [Docker on Raspberry Pi | Resin.io](http://resin.io/docker-on-raspberry-pi/)
+
+* [Why port Docker to the Raspberry Pi? | Resin.io](http://resin.io/why-port-docker-to-the-raspberry-pi/)
+
+* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
