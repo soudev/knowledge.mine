@@ -18,6 +18,8 @@
 
 * [Essential HTML, CSS and JavaScript techniques | Feature | .net magazine](http://www.netmagazine.com/features/essential-html-css-and-javascript-techniques)
 
+* [Quanto vale 1px? | Loop Infinito](http://loopinfinito.com.br/2013/11/12/quanto-vale-1px/)
+
 * [Tudo que você precisa saber sobre resoluções, telas retina, devicePixelRatio, DPI, CSS pixels e etc | Sérgio Lopes](http://sergiolopes.org/resolucoes-dpi-pixel-ratio-retina/)
 
 * [Taking Ems Even Further | Webdesigntuts+](http://webdesign.tutsplus.com/articles/typography-articles/taking-ems-even-further/)
