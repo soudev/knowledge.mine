@@ -152,6 +152,7 @@
 
   * [Hacking Lego Mindstorms EV3 with JavaScript](http://andrew.ghost.io/hacking-lego-mindstorms-ev3-with-javascript/)
 
+
 * Arduino
 
   * [NodeBots](http://nodebots.io/) - The Rise of JS Robotics
@@ -200,6 +201,8 @@
 --
 
 * [[GitHub] YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
+
+* [How to run Node.js on the JVM with Avatar.js and LoopBack | StrongLoop](http://strongloop.com/strongblog/how-to-run-node-js-on-the-jvm-with-avatar-js-and-loopback/)
 
 --
 
@@ -275,6 +278,10 @@
 --
 
 * [[GitHub] shakyShane / browser-sync](https://github.com/shakyShane/browser-sync) - Keep multiple browsers & devices in sync when building websites.
+
+--
+
+* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
 
 
 ### Boilerplate
