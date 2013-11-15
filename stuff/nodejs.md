@@ -148,6 +148,9 @@
 
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
 
+* Lego Mindstorms
+
+  * [Hacking Lego Mindstorms EV3 with JavaScript](http://andrew.ghost.io/hacking-lego-mindstorms-ev3-with-javascript/)
 
 * Arduino
 
@@ -324,6 +327,10 @@
 * [Windows and Node: Writing Portable Code | DailyJS](http://dailyjs.com/2012/05/24/windows-and-node-4/)
 
 * [How to Write Portable Node.js Code | Node on Azure](http://nodeblog.azurewebsites.net/how-to-write-portable-nodejs-code)
+
+--
+
+*[Real-time Engines in Node.js | StrongLoop](http://strongloop.com/strongblog/real-time-engines-in-node-js/)
 
 --
 
@@ -594,6 +601,8 @@
 
 
 * [Express.js](http://expressjs.com/)
+
+  * [Express.js Fundamentals | Flippin' Awesome](http://flippinawesome.org/2013/11/11/express-js-fundamentals/)
 
   * [Node.js com Express.js nos negócios | iMasters](http://imasters.com.br/front-end/javascript/node-js-com-express-js-nos-negocios/)
 
