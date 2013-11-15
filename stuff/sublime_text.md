@@ -39,6 +39,8 @@
 
 * [Sublime Text 2 and Markdown: Tips, Tricks, and Links](http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
 
+* [Running MongoDB from Sublime Text 2 | Mark Drew on Code](http://www.markdrew.co.uk/blog/post.cfm/running-mongodb-from-sublime-text-2)
+
 
 ### Setup
 
