@@ -379,6 +379,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Escaping the AngularJS route | Simon Friis Vindum](http://vindum.io/escape-the-angularjs-router/)
+
+--
+
 * [Busca no Jekyll usando AngularJS | Frelleto Blog](http://blog.frelleto.com.br/javascript/angularjs/2013/08/10/busca-no-jekyll-usando-angularjs/)
 
 * [Searching the iTunes API asynchronously with AngularJS | John Philip Morgan](http://blog.jpamorgan.com/searching-the-itunes-api-asynchronously-with-angular-js/)
@@ -439,7 +443,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Building Huuuuuge Apps with AngularJS | Brian Ford](http://briantford.com/blog/huuuuuge-angular-apps.html)
 
-* [Building large apps with AngularJS - Jason Dobry | Coder Wall](https://coderwall.com/p/y0zkiw)
+* Jason Dobry
+
+  * [Building large apps with Angular.js | Tech Pro](http://tech.pro/tutorial/1699/building-large-apps-with-angularjs)
+
+  * [[Slid.es] Building LARGE apps with Angular.js](http://slid.es/jdobry/building-large-apps-with-angularjs)
+
 
 * [How to structure large angularJS applications | Entwicklertagebuch](http://entwicklertagebuch.com/blog/2013/10/how-to-structure-large-angularjs-applications/)
 
@@ -580,6 +589,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
 
 * [[GitHub] IgorMinar / directives-workshop](https://github.com/IgorMinar/directives-workshop)
+
+--
+
+* [Defer DOM Tree Binding In AngularJS With Delayed Transclusion | Ben Nadel](http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
+
+* [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
 
 --
 
