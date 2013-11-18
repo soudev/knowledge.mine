@@ -143,7 +143,7 @@
     
     * [The Facade Pattern](http://carldanley.com/js-facade-pattern/)
     
-    * The Factory Pattern
+    * [The Factory Pattern](http://carldanley.com/js-factory-pattern/)
     
     * The Mixin Pattern
     
@@ -222,8 +222,6 @@
 
 --
 
-* [Random Number Generation in JavaScript | Bocoup](http://weblog.bocoup.com/random-numbers/)
-
 * [JS Packer](http://iwantaneff.in/packer/) - compress your Javascript to a tiny file-size
 
 * [JavaScript Byte saving techniques](https://github.com/jed/140bytes/wiki/Byte-saving-techniques)
@@ -244,7 +242,13 @@
 
 --
 
+* [Numbers and JavaScript's Dot Notation | Design Pepper](http://designpepper.com/blog/drips/numbers-and-javascripts-dot-notation)
+
+* [Random Number Generation in JavaScript | Bocoup](http://weblog.bocoup.com/random-numbers/)
+
 * [Prime Numbers, Factorial, and Fibonacci Series with JavaScript Array](http://ariya.ofilabs.com/2013/07/prime-numbers-factorial-and-fibonacci-series-with-javascript-array.html)
+
+--
 
 * [Searching with Array.prototype.some](http://ariya.ofilabs.com/2013/08/searching-with-array-prototype-some.html) - ECMAScript 5.1
 
@@ -271,6 +275,10 @@
 * [Javascript’s call v apply v bind — The JavaScript Collection | Medium](https://medium.com/the-javascript-collection/9e6122cde639)
 
 * [Currying in Javascript — The JavaScript Collection | Medium](https://medium.com/the-javascript-collection/ce6da2d324fe)
+
+--
+
+* [[JSFIDDLE] Tiny Excel-like app in less that 30 lines of JavaScript](http://jsfiddle.net/ondras/hYfN3/)
 
 
 ### Expressões Regulares
@@ -362,6 +370,8 @@
 * [How to really defer loading javascript](http://www.feedthebot.com/pagespeed/defer-loading-javascript.html) - Deferring javascript using the method recommended by Google allows for quicker crisper page loads
 
 * [[Speaker Deck] JavaScript Widget Development Best Practices](https://speakerdeck.com/volkan/javascript-widget-development-best-practices)
+
+* [Journey of Discovery - the Global 'window.performance' Object | 4waisenkinder](http://4waisenkinder.de/blog/2013/11/10/discovery-of-window-dot-performance-dot-timing/)
 
 
 ### Sistema de Dependências e Módulos
