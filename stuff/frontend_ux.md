@@ -46,6 +46,12 @@
 
 * [7 Data Viz Sites to Inspire Your Creative Eye | Mashable](http://mashable.com/2013/10/01/data-viz-sites)
 
+--
+
+* [Mobile First - Entenda o conceito e o que é | Tableless](http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/)
+
+* [Offline First: Your Next Progressive Enhancement Technique? | SitePoint](http://www.sitepoint.com/offline-first-next-progressive-enhancement-technique/)
+
 
 ### Colors
 
