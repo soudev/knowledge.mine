@@ -54,6 +54,8 @@
 
 * [REST-ful URI design](http://blog.2partsmagic.com/restful-uri-design/)
 
+* [API Design at GitHub](http://tech.yandex.com/events/yac/2013/talks/42/) - Get a behind-the-scenes look at development on the GitHub API team
+
 * [Stop Designing Fragile Web APIs](http://mathieu.fenniak.net/stop-designing-fragile-web-apis/)
 
 * [Não exponha seu REST | InfoQ Br](http://www.infoq.com/br/news/2013/09/nao-exponha-seu-rest)
