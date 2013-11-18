@@ -18,7 +18,13 @@
 
 --
 
-* [Episódio 100 – Vagrant e Docker - Parte 1 de 3 | GrokPodcast](http://www.grokpodcast.com/2013/09/26/episodio-100-vagrant-docker/)
+* GrokPodcast
+
+  * [Episódio 100 – Vagrant e Docker - Parte 1 de 3](http://www.grokpodcast.com/2013/09/26/episodio-100-vagrant-docker/)
+
+  * [Episódio 101 – Vagrant e Docker - Parte 2 de 3](http://www.grokpodcast.com/2013/10/10/episodio-101-vagrant-docker/)
+
+  * [Episódio 102 – Vagrant e Docker - Parte 3 de 3](http://www.grokpodcast.com/2013/10/30/episodio-102-vagrant-docker/)
 
 --
 
@@ -30,6 +36,12 @@
 ## Docker
 
 * [docker.io](http://www.docker.io/)
+
+* [Docker - Getting Started](https://www.docker.io/gettingstarted/)
+
+* [Docker Image Index](https://index.docker.io/)
+
+--
 
 * [The Revolution will be Containerized | Joshua Barratt](https://rawgithub.com/jbarratt/dockertalk/master/talk/index.html) - The Past, Present and Future of Containers for Applications
 
