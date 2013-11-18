@@ -582,6 +582,8 @@
 
 * [Building Mobile Apps with HTML and a Local Database](http://coenraets.org/blog/2012/04/building-mobile-apps-with-html-and-a-local-database/)
 
+* [Top 10 Performance Techniques for PhoneGap and Hybrid Apps](http://coenraets.org/blog/2013/10/top-10-performance-techniques-for-phonegap-and-hybrid-apps-slides-available/) - Slides Available
+
 
 ##### FT Labs
 
