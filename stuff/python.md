@@ -15,12 +15,17 @@
 
 * [Online Python Tutor - Learn programming by visualizing code execution](http://www.pythontutor.com/)
 
+--
+
+* [Python Skill Tests | MetaBright](http://www.metabright.com/challenges/python)
 
 ## Dicas
 
 * [Exploring Python Code Objects | pyvideo.org](http://pyvideo.org/video/1372/exploring-python-code-objects)
 
 * [7 Python Libraries you should know about](http://doda.co/7-python-libraries-you-should-know-about)
+
+* [Python Development Environment on Mac OS X Mavericks 10.9 | Hacker Codex](http://hackercodex.com/guide/python-development-environment-on-mac-osx/)
 
 
 ## Frameworks
