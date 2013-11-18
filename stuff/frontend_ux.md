@@ -8,6 +8,8 @@
 
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
 
+* [Como Aprimorar sua Interface | Choco la Design](http://chocoladesign.com/aprimorar-interface)
+
 * [Branding: Google Visual Assets Guidelines | Abduzeedo Design Inspiration](http://abduzeedo.com/branding-google-visual-assets-guidelines)
 
 * [Flat Design e a Re-Cultura da Interface | iMasters](http://imasters.com.br/design-ux/teoria-do-design/flat-design-e-a-re-cultura-da-interface/)
