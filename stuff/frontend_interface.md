@@ -28,6 +28,8 @@
 
 * [[GitHub] nodebox / opentype.js](https://github.com/nodebox/opentype.js) - A JavaScript parser for TrueType and OpenType fonts. 
 
+* [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
+
 
 ### Web Components
 
