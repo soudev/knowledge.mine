@@ -66,17 +66,19 @@
 
 * [HTML5 Readiness](http://html5readiness.com/)
 
-* [Modernizr](http://modernizr.com/) is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser | [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
-
-  * [Modernizr - documentação em português](http://www.andrebuzzo.com.br/bibliotecaModernizr/)
-  
-  * [Up and Running with Modernizr | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/up-and-running-with-modernizr.html)
-
 * [HTML5 Features - Storage](http://www.html5rocks.com/en/features/storage)
 
 * [The CSS3 Test](http://css3test.com/)
 
 * [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Browser support scorecard
+
+* [The Developer's Guide To Writing Cross-Browser JavaScript Polyfills | Addy Osmani](http://addyosmani.com/blog/writing-polyfills/)
+
+* [Modernizr](http://modernizr.com/) is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser | [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
+
+  * [Modernizr - documentação em português](http://www.andrebuzzo.com.br/bibliotecaModernizr/)
+  
+  * [Up and Running with Modernizr | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/up-and-running-with-modernizr.html)
 
 
 ### Ferramentas
@@ -156,6 +158,8 @@
 * [Introduction to WebSockets | Tech.Pro](http://tech.pro/tutorial/1167/introduction-to-websockets)
 
 --
+
+* [HTML5 Geolocation API - Specification and Usages | ST Solutions](http://stsbd.com/html5-geolocation-api-specifications-usages/)
 
 * [Está perdido? Geolocalização! | Tableless](http://tableless.com.br/esta-perdido-geolocalizacao/) - Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
 
@@ -397,6 +401,8 @@
 * [[GitHub] eshiota / retro-audio-js](https://github.com/eshiota/retro-audio-js) - Web Audio API based retro player that give us that nostalgic feelings
 
   * [Retro.js Demo](http://eshiota.com/experiments/retrojs/) - Uma lib que usa a Web Audio API para tocar teclado usando uma representação em JSON de partituras de teclado, no site tem exemplo de 3 músicas
+
+* [Pedalboard.js](http://dashersw.github.io/pedalboard.js/) - Open-source JavaScript framework for developing audio effects with Web Audio API
 
 --
 
