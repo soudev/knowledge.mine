@@ -44,6 +44,11 @@
 
 * [Gumby Framework](http://gumbyframework.com/) -  is a flexible, responsive CSS Framework, Powered by SASS. In order to stay on the cutting edge, Gumby supports modern web browsers like: Chrome, Firefox, Opera, Internet Explorer 8 – 10.
 
+--
+
+* [uikit](http://www.getuikit.com/) - A lightweight and modular front-end framework
+for developing fast and powerful web interfaces.
+
 
 ### Foundation
 
