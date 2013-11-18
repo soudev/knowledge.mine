@@ -474,6 +474,8 @@
 
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 
+* [[GitHub] tantaman / LargeLocalStorage](https://github.com/tantaman/LargeLocalStorage) - Problem: You need to store a large amount of key-value based data in IE, Chrome, Safari, AND Firefox
+
 * [JayData](http://jaydata.org/) - The cross-platform HTML5 data-management library for JavaScript
 
   * [GitHub / JayData](https://github.com/jaydata)
