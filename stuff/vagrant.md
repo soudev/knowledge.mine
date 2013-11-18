@@ -14,6 +14,10 @@
 
 --
 
+* [Vagrant e seus plugins | iMasters](http://imasters.com.br/tecnologia/redes-e-servidores/vagrant-e-seus-plugins/)
+
+--
+
 * [Vagrant: Fácil e útil | Flávio Silveira](http://flaviosilveira.com/2012/vagrant-facil-e-util/)
 
 * [Criando ambientes virtualizados com Vagrant](http://blog.concretesolutions.com.br/2012/10/criando-ambientes-virtualizados-com-vagrant/)
