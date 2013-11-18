@@ -124,6 +124,7 @@ for developing fast and powerful web interfaces.
 
 * [Build Bootstrap in Minutes Using Emmet | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/applications/build-bootstrap-in-minutes-using-emmet/)
 
+* [Social Buttons for Bootstrap](http://lipis.github.io/bootstrap-social/)
 
 #### Twitter Bootstrap v3
 
@@ -141,7 +142,9 @@ for developing fast and powerful web interfaces.
 
 --
 
-* [Bootstrap 3 : form sample](http://bootply.com/82900)
+* [Bootstrap 3 : form sample | bootply](http://bootply.com/82900)
+
+* [Google Plus style Template for Bootstrap | bootply](http://www.bootply.com/90113)
 
 --
 
@@ -153,6 +156,10 @@ for developing fast and powerful web interfaces.
 
 * [HTML5 Admin](http://www.html5admin.com/) - Responsive HTML5 Admin Template using Bootstrap v3
 
+
+#### Ferramentas
+
+* [Bootstrap Editor and Playground for JavaScript, CSS, HTML5 and jQuery.](http://www.bootply.com)
 
 
 #### Build with Twitter Bootstrap
