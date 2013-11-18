@@ -67,6 +67,9 @@
   * [Brick: Uma biblioteca para Componentes Web da Mozilla | InfoQ Br](http://www.infoq.com/br/news/2013/09/mozilla-brick-componentes-web)
 
 
+* [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
+
+
 
 ### D3.js for HTML
 
