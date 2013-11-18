@@ -598,6 +598,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Little-known directives of Angular.js | CODETUNES](http://codetunes.com/2013/little-known-angular-directives/)
+
 * [Lesser know AngularJS directives | Reverse Polarity](http://djds4rce.wordpress.com/2013/10/20/lesser-know-angularjs-directives/)
 
 * [Introduction to Directives | henriquat.re](http://henriquat.re/directives/introduction-to-directives/introductionToDirectives.html) - AngularJS Directives - Domain-Specific Extensions to HTML
