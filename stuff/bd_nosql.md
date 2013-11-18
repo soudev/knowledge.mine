@@ -182,6 +182,8 @@
 
 * [The genius and folly of MongoDB - Bryce Nyeggen's Blog | Bryce Nyeggen](http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/)
 
+* [How to Use MongoDB as a Pure In-memory DB (Redis Style) | Javalobby](http://java.dzone.com/articles/how-use-mongodb-pure-memory-db)
+
 * [Data Science on MongoDB At Last!](http://blog.mongodb.org/post/35204064565/data-science-on-mongodb-at-last)
 
 * [Realtime Analytics at Buffer with MongoDB](http://blog.tommoor.com/post/24059620728/realtime-analytics-at-buffer-with-mongodb)
