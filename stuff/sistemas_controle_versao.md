@@ -434,8 +434,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Generate GitHub pages in a submodule](http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html)
 
-* [github pages tips for jekyll wiki](https://gist.github.com/jedschneider/2890453)
-
 * [Designing Custom Github Demo Pages](http://speckyboy.com/2013/03/04/designing-custom-github-demo-pages/)
 
 
@@ -447,6 +445,15 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 ### Sistemas de Blog e Sites Estáticos
 
 * [[GitHub] pinceladasdaweb / Static-Site-Generators](https://github.com/pinceladasdaweb/Static-Site-Generators) - A definitive list of tools for generating static websites.
+
+
+#### Jekyll
+
+* [Jekyll](http://jekyllrb.com/)
+
+* [github pages tips for jekyll wiki](https://gist.github.com/jedschneider/2890453)
+
+* [Servindo sites estáticos com Jekyll | Tableless](http://tableless.com.br/jekyll-servindo-sites-estaticos/) - Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websites estáticos, sem banco de dados e fáceis de gerenciar.
 
 
 #### Octopress
