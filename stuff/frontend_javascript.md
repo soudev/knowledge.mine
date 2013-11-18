@@ -178,9 +178,17 @@
 
 * [Defensive JavaScript](http://www.defensivejs.com/)
 
+--
+
 * [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 
 * [Unicode and JavaScript | 2 ality](http://www.2ality.com/2013/09/javascript-unicode.html)
+
+--
+
+* [Of how to implement transient in JavaScript | Paul Masurel](http://fulmicoton.com/posts/transient/) - Java programmers are probably familiar with the concept of transient as it is a keyword in this language. By marking an object property as transient, you tell Java that this property should be skipped in serialization.
+
+--
 
 * [The JavaScript console API | 2 ality](http://www.2ality.com/2013/10/console-api.html)
 
