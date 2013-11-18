@@ -422,6 +422,8 @@
 
 * [Resumable.js](http://www.resumablejs.com/) - A JavaScript library providing multiple simultaneous, stable and resumable **uploads** via the HTML5 File API
 
+* [[GitHub] mailru / FileAPI](https://github.com/mailru/FileAPI) - a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation 
+
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
 
 * [[GitHub] FileReader.js](http://bgrins.github.io/filereader.js/) - Read Files with JavaScript!
