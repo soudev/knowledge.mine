@@ -42,6 +42,8 @@
 
 * [explainshell.com](http://explainshell.com/) - match command-line arguments to their help text
 
+* [20 comandos Linux que você talvez não conheça | Linux Descomplicado](http://www.linuxdescomplicado.com.br/2013/11/20-comandos-linux-que-voce-talvez-nao.html)
+
 --
 
 * [Plataformatec Guideline](http://guidelines.plataformatec.com.br/) - Code conventions and general guidelines used at [Plataformatec](http://plataformatec.com.br/).
