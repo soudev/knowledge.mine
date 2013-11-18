@@ -632,6 +632,8 @@
 
   * [Building a simple blog with NodeJS and Express | KOPIS.DE](http://blog.kopis.de/2012/01/30/building-a-simple-blog-with-nodejs-and-express/) | [[GitHub] MoriTanosuke / blode](https://github.com/MoriTanosuke/blode) - Simple blog framework with NodeJS (post write in markdown)
 
+  * [ExpressJS and MySQL Sample Application and Tutorial | gist.pages](http://gistpages.com/2013/11/1/expressjs_and_mysql_sample_application_and_tutorial)
+
   * [Using the Directory-serving middleware in Express | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/11/Using-the-Directoryserving-middleware-in-Express)
 
   * [Using Express.js for APIs | StrongLoop](http://blog.strongloop.com/using-express-js-for-apis)
@@ -640,6 +642,8 @@
 
   * [Node.js para leigos - Framework Express parte 2 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-2/)  
   
+  * [Todo App with Express.js/Node.js and MongoDB | webapplog](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
+
   * [Passport.js](http://passportjs.org/) - Simple, unobtrusive authentication for Node.js.
 
     * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
