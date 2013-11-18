@@ -18,7 +18,7 @@
 
 * [Desenvolvimento Front-end com HTML, CSS 3 e javascript | Igor Costa](http://www.igorcosta.com/os-mitos-do-desenvolvimento-front-end-com-html-css-e-javascript/)
 
-* [[SlideShare] Automating Front-end Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow) - by Addy Osmani
+* [[Speaker Deck] Automating Front-end Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow) - by Addy Osmani
 
 --
 
