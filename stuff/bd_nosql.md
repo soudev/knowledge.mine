@@ -176,6 +176,8 @@
 
 * [MongoDB Quick Start - Replica Sets and Sharding](http://alexyu.se/content/2012/04/mongodb-quick-start-replica-sets-and-sharding)
 
+* [MongoDB scalability and high availability with Replica-Set](http://vparihar01.github.io/talks/2013/10/27/MongoDB-Scalability-and-High-Availabiltity-with-Replica-Sets/)
+
 * [[SlideShare] Optimizing MongoDB: Lessons Learned at Localytics](http://www.slideshare.net/andrew311/optimizing-mongodb-lessons-learned-at-localytics)
 
 * [The genius and folly of MongoDB - Bryce Nyeggen's Blog | Bryce Nyeggen](http://nyeggen.com/blog/2013/10/18/the-genius-and-folly-of-mongodb/)
