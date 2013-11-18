@@ -329,15 +329,15 @@
 
 --
 
-* [[Speaker Deck] Efficient JavaScript](https://speakerdeck.com/volkan/efficient-javascript)
-
---
-
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
 
     * [Web Tracing framework do Google ajuda você se livrar do código porco | Igor Costa](http://www.igorcosta.com/web-tracing-framework-do-google-codigo-porco/)
 
 --
+
+* [[Speaker Deck] Efficient JavaScript](https://speakerdeck.com/volkan/efficient-javascript)
+
+* [How to Give Your Web Apps a Real Speed Boost | TNW Network](http://thenextweb.com/apps/2013/10/20/give-web-apps-real-speed-boost/)
 
 * [Building High-Performing JavaScript for Modern Engines | Build 2012 | Channel 9](http://channel9.msdn.com/Events/Build/2012/4-000)
 
