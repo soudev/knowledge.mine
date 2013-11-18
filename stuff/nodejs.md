@@ -120,6 +120,8 @@
 
 * [Utilizando Node.js para automação de build e deploy no dell.com | BrazilJS 2013](http://bitbonsai.com/braziljs2013/)
 
+* [How PayPal is Being Revolutionized by Node.js and Lean UX | nearForm](http://www.nearform.com/nodecrunch/release-the-kracken-how-paypal-is-being-revolutionized-by-node-js-and-lean-ux)
+
 
 ### IBM developerWorks
 
@@ -327,6 +329,8 @@
 
 * [[GitHbb] arturadib / shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands for Node.js
 
+* [[GitHub] typicode / shoutjs](https://github.com/typicode/shoutjs) - Make your ShellJS commands explicit and get a beautiful output
+
 --
 
 * [[Gist] Tips for Writing Portable Node.js Code](https://gist.github.com/domenic/2790533)
@@ -352,6 +356,8 @@
 * [Production Node.js Secrets](http://dshaw.github.com/2012-05-jsday/)
 
 * Hardening Node.js for production [part 1](http://blog.argteam.com/coding/hardening-nodejs-production-process-supervisor/) | [part 2](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/) | [part 3](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
+
+* [Check out our new nodejs dev & production practices library for details on designing, deploying & debugging Node.js | Joyent](https://www.joyent.com/developers/node)
 
 * [Testing Tuesday #20: Continuous Deployment for node.js applications | CodeShip Blog](http://blog.codeship.io/2013/08/27/testing-tuesday-20-continuous-deployment-for-node-js-applications.html)
 
@@ -629,6 +635,9 @@
 
   * [Node.js para leigos - Framework Express parte 2 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-2/)  
   
+  * [Passport.js](http://passportjs.org/) - Simple, unobtrusive authentication for Node.js.
+
+    * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
 
 
 * [Geddy](http://geddyjs.org/) - A simple, structured web framework for Node
