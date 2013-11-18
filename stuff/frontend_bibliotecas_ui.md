@@ -24,9 +24,13 @@
 
 * [Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus) \| [Demo](http://jakiestfu.github.io/Snap.js/)
 
+* [[GitHub] pazguille / is-near](https://github.com/pazguille/is-near) - Calculates if the mouse position is near to a given element
+
 --
 
 * [ContextJS](http://lab.jakiestfu.com/contextjs/) - Sweet simple context menu with amazing support!
+
+* [flyLabel.js](http://athaeryn.github.io/flyLabel.js/) - flexible floating form labels to make your boring placeholders super fly
 
 --
 
