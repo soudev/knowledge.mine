@@ -11,6 +11,8 @@
 
 * [Postmon](http://postmon.com.br/) - Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita
 
+* [Busca CEP - API de Consulta](http://apps.widenet.com.br/busca-cep/api-de-consulta)
+
 --
 
 * [Runscope](https://www.runscope.com/) - Debug and test your API, webhook and mobile back end service integrations.
