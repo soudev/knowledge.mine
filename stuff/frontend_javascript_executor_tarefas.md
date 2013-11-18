@@ -72,11 +72,13 @@
 
 * [A primer into front-end tooling (Grunt.js) for an open-source workflow | Tech Pro](http://tech.pro/tutorial/1456/a-primer-into-front-end-tooling-gruntjs-for-an-open-source-workflow)
 
-* [[SlideShare] Grunt.js and Yeoman, Continous Integration](http://www.slideshare.net/DavidAm/gruntjs-and-yeoman-continous-integration)
-
 * [[YouTube] Grunt JavaScript Automation for the Lazy Developer](https://www.youtube.com/watch?v=bntNYzCrzvE)
 
 * [Advanced Grunt tooling | Chris Wren](http://chrisawren.com/posts/Advanced-Grunt-tooling)
+
+* [[SlideShare] Grunt.js and Yeoman, Continous Integration](http://www.slideshare.net/DavidAm/gruntjs-and-yeoman-continous-integration)
+
+* [[SlideShare] Automating Front-end Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow) - by Addy Osmani
 
 
 ##### Ferramentas

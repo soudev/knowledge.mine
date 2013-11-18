@@ -18,6 +18,10 @@
 
 * [Desenvolvimento Front-end com HTML, CSS 3 e javascript | Igor Costa](http://www.igorcosta.com/os-mitos-do-desenvolvimento-front-end-com-html-css-e-javascript/)
 
+* [[SlideShare] Automating Front-end Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow) - by Addy Osmani
+
+--
+
 * [23 extensões indispensáveis para desenvolvedores web](http://imasters.com.br/desenvolvimento/23-extensoes-indispensaveis-para-desenvolvedores-web/)
 
 * [Zone Of Front-Enders](http://zofe.com.br/) - Podcast sobre desenvolvimento web, front-end e afins
