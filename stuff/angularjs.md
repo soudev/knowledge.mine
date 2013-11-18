@@ -286,6 +286,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularFire](http://angularfire.com/) - A real-time backend for AngularJS from [Firebase](https://www.firebase.com/)
 
+  * [AngularJS Tutorial: Learn to Rapidly Build Real-time Web Apps with Firebase | Thinkster](http://www.thinkster.io/pick/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase)
+
 
 ## Dicas
 
@@ -380,6 +382,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Displaying json array data with AngularJS and ng-grid | Genlinux.rb](http://www.genlinux.org/2013/08/displaying-json-array-data-with-angular.html)
 
 * [Breaking the Ice with AngularUI Utils | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-utils.html) - creditcard parsing, custom events, maps, and an easter egg
+
+--
+
+* [Integrating Parse Data with ng-model in AngularJS | Jonathan Broquist](http://blog.jonathanbroquist.com/integrating-parse-data-with-ng-model-in-angularjs/)
 
 --
 
