@@ -214,6 +214,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [A Simple Visual Model for Promises | Flippin' Awesome](http://flippinawesome.org/2013/10/14/a-simple-visual-model-for-promises/)
 
+--
+
+* [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
+
 
 ### CoffeeScript
 
@@ -693,6 +697,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 
 * [Building a Custom AngularJS Unique Value Directive | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/09/24/building-a-custom-angularjs-unique-value-directive.aspx) - To see the directive in an actual application check out the [Customer Manager sample application](https://github.com/DanWahlin/CustomerManagerStandard) 
+
+* [Creating an AngularJS Component | Safari Books Online](http://blog.safaribooksonline.com/2013/11/07/creating-an-angularjs-component/) 
+  
+  * [[GitHub] jonniespratley / ng-chartjs-directive](https://github.com/jonniespratley/ng-chartjs-directive) - This is a AngularJS directive for creating charts with ChartJS
+
+  * [[plunkr] ng-chartjs-directive example](http://embed.plnkr.co/QE2TLfiS9zabrTRKM0Vr/preview)
 
 
 ### Filters
