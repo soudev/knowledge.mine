@@ -16,8 +16,6 @@
 
 * [Vagrant: Fácil e útil | Flávio Silveira](http://flaviosilveira.com/2012/vagrant-facil-e-util/)
 
-* [Usando o Vagrant como ambiente de desenvolvimento no Windows - Simples Ideias](http://simplesideias.com.br/usando-o-vagrant-como-ambiente-de-desenvolvimento-no-windows)
-
 * [Criando ambientes virtualizados com Vagrant](http://blog.concretesolutions.com.br/2012/10/criando-ambientes-virtualizados-com-vagrant/)
 
 * [Vagrant: What, Why, and How](http://net.tutsplus.com/tutorials/php/vagrant-what-why-and-how/)
@@ -25,6 +23,10 @@
 * [Pra não dizer que não falei de Vagrant | iMasters](http://imasters.com.br/desenvolvimento/pra-nao-dizer-que-nao-falei-de-vagrant/)
 
 * [Puppet e Vagrant: Como provisionar máquinas para seu projeto | ThoughtWorks](http://www.thoughtworks.com/insights/blog/puppet-e-vagrant-como-provisionar-maquinas-para-seu-projeto)
+
+--
+
+* [Usando o Vagrant como ambiente de desenvolvimento no Windows - Simples Ideias](http://simplesideias.com.br/usando-o-vagrant-como-ambiente-de-desenvolvimento-no-windows)
 
 * [Usando Vagrant como ambiente de desenvolvimento Ruby | RubyConf Brasil 2013](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
 
