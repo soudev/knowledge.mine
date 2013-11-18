@@ -43,6 +43,9 @@
 
 * [Exploring HTML Imports | Rob Dodson talks internets](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
 
+* [HTML Imports: #include for the web | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
+
+--
 
 * [Polymer](http://www.polymer-project.org/)
 
