@@ -65,6 +65,8 @@
 
 --
 
+* [Adventures in Dockerland | Open Source Community](http://community.redhat.com/adventures-in-dockerland/)
+
 * [The Revolution will be Containerized | Joshua Barratt](https://rawgithub.com/jbarratt/dockertalk/master/talk/index.html) - The Past, Present and Future of Containers for Applications
 
 * [My Other Virtual Machine is a Container | Innovation Insights](http://insights.wired.com/profiles/blogs/my-other-virtual-machine-is-a-container)
