@@ -50,6 +50,8 @@
 
 --
 
+* [Shell Scripting – Best Practices | Java Code Geeks](http://www.javacodegeeks.com/2013/10/shell-scripting-best-practices.html)
+
 * [explainshell.com](http://explainshell.com/) - match command-line arguments to their help text
 
 * [20 comandos Linux que você talvez não conheça | Linux Descomplicado](http://www.linuxdescomplicado.com.br/2013/11/20-comandos-linux-que-voce-talvez-nao.html)
