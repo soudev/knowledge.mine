@@ -8,6 +8,7 @@
 > 
 > As ferramentas de automatização/tarefas necessitam e executam sobre o Node.js
 
+* [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
 
 * [flour](http://ricardo.cc/cake-flour/) - A ferramenta brasileira Flour consiste em um conjunto de ferramentas para projetos javascript com foco na objetividade para rodar tarefas comuns, como: compilação, minificação, validação e concatenação de arquivos.
 
@@ -84,6 +85,7 @@
 
 * [Run grunt.js from IntelliJ](http://omar.gy/run-grunt-js-from-intellij/)
 
+* [[GitHub] tvooo / sublime-grunt](https://github.com/tvooo/sublime-grunt) - A Grunt plugin for Sublime Text
 
 
 ##### Plugins
