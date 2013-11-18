@@ -102,6 +102,9 @@
 
 * [Node.js processando em paralelo | iMasters](http://imasters.com.br/desenvolvimento/node-js-processando-em-paralelo/) 
 
+--
+
+* [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 
 
 ## Casos de Uso
@@ -429,6 +432,8 @@
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
 * [[GitHub] Sendanor / nor-fs](https://github.com/Sendanor/nor-fs) - chainable asynchronous file system library for Node.js
+
+* [[GitHub] vesln / fine](https://github.com/vesln/fine) - Tiny, recursive and synchronous file finder utility
 
 --
 
