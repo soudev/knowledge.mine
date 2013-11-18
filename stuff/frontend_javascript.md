@@ -43,6 +43,8 @@
 
 * [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge.
 
+* [CodeCombat](http://codecombat.com/) - Learn to Code JavaScript by Playing a Game
+
 --
 
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
@@ -161,6 +163,7 @@
 
 * [Scalable JavaScript Design Patterns](http://www.addyosmani.com/scalablejs/)
 
+
 --
 
 * [A meta style guide for JavaScript | 2ality](http://www.2ality.com/2013/07/meta-style-guide.html)
@@ -170,6 +173,8 @@
 * [[GitHub] rwaldron / idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 
 * [Meteor Style Guide](https://github.com/meteor/meteor/wiki/Meteor-Style-Guide)
+
+* [jsCode](http://jscode.org/) - Custom JavaScript Coding Guidelines
 
 
 ### Dicas
@@ -592,6 +597,8 @@
 
     * [Learning Lua/From JS](http://phrogz.net/lua/LearningLua_FromJS.html)
 
+* [[GitHub] copy / v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
+
 
 #### Text Search
 
@@ -803,6 +810,12 @@
 * [[GitHub] mattbaker / Reactive.js](https://github.com/mattbaker/Reactive.js) - A library for programming reactively in Javascript.
 
   * [Ractive.js Expressions and the New Wave of Reactive Programming | Flippin' Awesome](http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/)
+
+--
+
+* [[GitHub] moot / riotjs](https://github.com/moot/riotjs/)
+
+    * [Riot.js — The 1kb client-side MVP framework](https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html)
 
 --
 
