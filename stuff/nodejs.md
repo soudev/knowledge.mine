@@ -502,6 +502,8 @@
 
 * [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
 
+* [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
+
 
 ### CORS
 
