@@ -79,6 +79,11 @@
 * [Sublime Terminal – a Sublime Text 2 Package | wbond](http://wbond.net/sublime_packages/terminal) - Shortcuts and menu entries for opening a terminal at the current file, or the current root project folder in Sublime Text 2
 
 
+## Temas
+
+* [Dracula Theme](http://zenorocha.github.io/dracula-theme/)
+
+
 ## Packages / Plugins
 
 * [Criando plugins para Sublime Text | Rodrigo Amaral](http://rodrigoamaral.net/2012/07/01/criando-plugins-para-sublime-text/)
