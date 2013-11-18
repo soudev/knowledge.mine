@@ -1,5 +1,15 @@
 # eBooks e Documentação 
 
+* [Code.org - Anybody can learn code](http://code.org)
+  
+  * [learn | Code.org](http://learn.code.org)
+
+* [Skill Tests | MetaBright](http://www.metabright.com) 
+
+  * [Python](http://www.metabright.com/challenges/python) | [JavaScript](http://www.metabright.com/challenges/javascript) | ...
+
+--
+
 * [[GitHub] pinceladasdaweb / Upgrade-your-brain](https://github.com/pinceladasdaweb/Upgrade-your-brain) - The definitive list of newsletters to keep up to date on various web development technologies
 
 * [Visualizando algoritmos | iMasters](http://imasters.com.br/linguagens/visualizando-algoritmos/)
@@ -90,3 +100,12 @@
 ## Palestras
 
 * [Aplicando Clean Code e DDD em entidades Hibernate/JPA | InfoQ BR](http://www.infoq.com/br/presentations/clean-code-ddd-hibernate-jpa)
+
+## Gráficos
+
+* [Code 2 Flow](http://code2flow.com)
+
+  * [Code Your Flowcharts | Atlassian Blogs](http://blogs.atlassian.com/2013/10/code-your-flowcharts/)
+
+* [Mapas, linhas do tempo e infográficos | iMasters](http://imasters.com.br/midia-e-marketing-digital/conteudo-digital/mapas-linhas-do-tempo-e-infograficos-5-ferramentas-para-ilustrar-suas-materias-com-visualizacoes-interativas/) - 5 ferramentas para ilustrar suas matérias com visualizações interativas
+
