@@ -66,6 +66,10 @@
 
 --
 
+* [Entendendo o Event-loop do Node.js | iMasters](http://imasters.com.br/front-end/javascript/entendendo-o-event-loop-do-node-js/)
+
+--
+
 * [Teach Yourself Node.JS in 10 Steps | Pony Foo](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
 
 * [7 tips for a Node.js padawan | Tech Talk — Medium](https://medium.com/tech-talk/e7c0b0e5ce3c) - Node.js development is extremely fun and satisfying. There are over 35k modules to choose from, and overall node is very easy to develop a working application that can scale easily
@@ -222,6 +226,8 @@
 * [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
 
 * [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
+
+  * [Introduction to the Harp Web Server | Introductory Screencast - Harp](http://harpjs.com/blog/introductory-screencast)
 
 * [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command 
 
@@ -515,6 +521,10 @@
 
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
 
+--
+
+* [Stay up-to-date with Node.js packages using npm-onupdate service | Piotr Walczyszyn's Blog](http://outof.me/stay-up-to-date-with-node-js-packages-using-npm-onupdate-service/)
+
 
 ### CORS
 
@@ -621,6 +631,8 @@
 
 
 * [Express.js](http://expressjs.com/)
+
+  * [ExpressWorks | webapplog](http://webapplog.com/expressworks/) - is an automated Express.js/Node.js workshop
 
   * [Express.js Fundamentals | Flippin' Awesome](http://flippinawesome.org/2013/11/11/express-js-fundamentals/)
 
