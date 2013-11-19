@@ -170,6 +170,13 @@
 * [RESTful Web services Tutorials | How to do in JAVA](http://howtodoinjava.com/restful-web-service/)
 
 
+* Jersey Spring
+
+  * [[GitHub] jersey / examples / helloworld-spring-webapp](https://github.com/jersey/jersey/tree/2.4.1/examples/helloworld-spring-webapp) - tag: 2.4.1
+
+  * [[GitHub] thomasma / jaxrs-jersey-springsec](https://github.com/thomasma/jaxrs-jersey-springsec)
+
+
 #### Monitoramento
 
 * [Monitoring of RESTful Jersey application | Miroslav Fuksa's blog](https://blogs.oracle.com/mira/entry/monitoring_of_restful_jersey_applicaiton)
