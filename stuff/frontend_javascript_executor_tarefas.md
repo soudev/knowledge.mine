@@ -52,6 +52,8 @@
 
 * [Get Up And Running With Grunt | Smashing Coding](http://coding.smashingmagazine.com/2013/10/29/get-up-running-grunt/)
 
+* [Writing an Awesome Build Script with Grunt | SitePoint](http://www.sitepoint.com/writing-awesome-build-script-grunt/)
+
 --
 
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
@@ -64,6 +66,10 @@
 
 * [Automating Complex Workflows with Grunt Custom Tasks | Flippin' Awesome](http://flippinawesome.org/2013/09/23/automating-complex-workflows-with-grunt-custom-tasks/)
 
+* [[Speaker Deck] Automating Front-end Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow) - by Addy Osmani
+
+* [[SlideShare] Grunt.js and Yeoman, Continous Integration](http://www.slideshare.net/DavidAm/gruntjs-and-yeoman-continous-integration)
+
 --
 
 * [Grunt: você deveria estar usando! | .openBlog()](http://openblog.github.com/2013/03/22/grunt/)
@@ -75,10 +81,6 @@
 * [[YouTube] Grunt JavaScript Automation for the Lazy Developer](https://www.youtube.com/watch?v=bntNYzCrzvE)
 
 * [Advanced Grunt tooling | Chris Wren](http://chrisawren.com/posts/Advanced-Grunt-tooling)
-
-* [[SlideShare] Grunt.js and Yeoman, Continous Integration](http://www.slideshare.net/DavidAm/gruntjs-and-yeoman-continous-integration)
-
-* [[Speaker Deck] Automating Front-end Workflow](https://speakerdeck.com/addyosmani/automating-front-end-workflow) - by Addy Osmani
 
 
 ##### Ferramentas
@@ -93,6 +95,8 @@
 ##### Plugins
 
 * [Grunt.js Plugins](http://gruntjs.com/plugins)
+
+* [[GitHub] tschaub / grunt-newer](https://github.com/tschaub/grunt-newer) - Configure Grunt tasks to run with newer files only
 
 * [grunt-build-gh-pages](https://github.com/pajtai/grunt-build-gh-pages) - Grunt task to take build directory from current task and move it to another branch | examplo: [exploratory-javascript-tests](https://github.com/pajtai/exploratory-javascript-tests)
 
