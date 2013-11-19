@@ -22,6 +22,10 @@
 
 * [[GitHub] mathiasbynens / dotfiles](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
 
+* [[GitHub] paulirish / dotfiles](https://github.com/paulirish/dotfiles)
+
+* [[GitHub] addyosmani / dotfiles](https://github.com/addyosmani/dotfiles)
+
 * [[GitHub] zenorocha / dotfiles](https://github.com/zenorocha/dotfiles) - OS X dotfiles
 
 * [[GitHub] davidsonfellipe / dotfiles](https://github.com/davidsonfellipe/dotfiles) - OS X dotfiles
