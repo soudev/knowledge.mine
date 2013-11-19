@@ -511,6 +511,8 @@
 
 * [Node Modules](http://node-modules.com/) - Better search for Node.js modules
 
+* [David, a dependency management tool for Node.js projects](https://david-dm.org)
+
 --
 
 * [npm cheatsheet | Nodejitsu](https://blog.nodejitsu.com/npm-cheatsheet)
