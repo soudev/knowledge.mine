@@ -218,6 +218,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 
+* [A Step-by-Step Guide to Your First AngularJS App | Toptal](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
+
 
 ### CoffeeScript
 
