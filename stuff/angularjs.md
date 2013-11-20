@@ -220,6 +220,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [A Step-by-Step Guide to Your First AngularJS App | Toptal](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 
+* [Angular for the jQuery developer | ng-newsletter](http://www.ng-newsletter.com/posts/angular-for-the-jquery-developer.html)
+
 
 ### CoffeeScript
 
