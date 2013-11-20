@@ -702,3 +702,6 @@
 --
 
 * [Sails.js](http://www.sailsjs.org/) - Realtime MVC Framework for Node.js
+
+* [Nombo](http://nombo.io/) - Node.js Realtime App Framework 
+
