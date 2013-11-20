@@ -1,12 +1,14 @@
 # Mac OS X
 
+* [Configurando o Terminal no Mac OS X | Simples Ideias](http://simplesideias.com.br/configurando-o-terminal-no-mac-os-x)
+
+## Mavericks
+
 * [Everything You Need to Know About OS X Mavericks | Mac.AppStorm](http://mac.appstorm.net/reviews/os-x-reviews/everything-you-need-to-know-about-os-x-mavericks/)
 
 * [Como criar um pendrive de instalação do OS X Mavericks | Meio Bit](http://meiobit.com/270071/como-instalar-os-x-mavericks-atraves-do-pendrive-usb/)
 
---
-
-* [Configurando o Terminal no Mac OS X | Simples Ideias](http://simplesideias.com.br/configurando-o-terminal-no-mac-os-x)
+* [Command Line Tools on OSX Mavericks | Marcos Junior](http://webmarcos.net/2013/11/20/command-line-tools-on-osx-mavericks/)
 
 
 ## Colors
