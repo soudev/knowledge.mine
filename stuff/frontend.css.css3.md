@@ -56,6 +56,10 @@
 
 * [The Guide To CSS Animation: Principles and Examples | Smashing Coding](http://coding.smashingmagazine.com/2011/09/14/the-guide-to-css-animation-principles-and-examples/)
 
+* [Controlling CSS Animations and Transitions with JavaScript | CSS-Tricks](http://css-tricks.com/controlling-css-animations-transitions-javascript/)
+
+--
+
 * [[GitHub] daneden / animate.css](https://github.com/daneden/animate.css) - Cross-browser CSS3 animations. Plug and play. Do a little dance.
 
 * [[GitHub] ThrivingKings / animo.js](https://github.com/ThrivingKings/animo.js) - A powerful little tool for managing CSS animations
