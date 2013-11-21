@@ -68,6 +68,8 @@
 
 * [[SlideShare] Escalabilidade para sua solução na Nuvem da AWS de um para centenas de milhões de usuários](http://www.slideshare.net/AmazonWebServicesLATAM/escalabilidade-nuvem-aws) | [[Vimeo] vídeo gravado do webinar](http://vimeo.com/68720156) 
 
+* [AWS: 10 Things You're Probably Doing Wrong as an Architect | ELEKS Labs](http://www.elekslabs.com/2013/11/aws-10-things-youre-probably-doing.html)
+
 
 ## OpenStack
 
