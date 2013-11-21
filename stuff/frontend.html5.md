@@ -207,6 +207,8 @@
 
 * [Three.js and Babylon.js: a Comparison of WebGL Frameworks | SitePoint](http://www.sitepoint.com/three-js-babylon-js-comparison-webgl-frameworks/)
 
+* [Live editing WebGL shaders with Firefox Developer Tools | Mozilla Hacks](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/)
+
 
 #### Game
 
