@@ -14,7 +14,7 @@
 
 --
 
-* [[Speaker Deck] Protocolos de Comunicação](https://speakerdeck.com/jcemer/protocolos-de-comunicacao) - by Jean Carlo Emer
+* [[Speaker Deck] Protocolos de comunicação e o desenvolvimento front-end ](https://speakerdeck.com/jcemer/protocolos-de-comunicacao) - by Jean Carlo Emer
 
 --
 
