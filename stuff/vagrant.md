@@ -65,6 +65,8 @@
 
 --
 
+* [Learning About Docker | Composite Code](http://compositecode.com/2013/11/20/learning-about-docker/)
+
 * [[Gist] wsargent / docker_cheat.md](https://gist.github.com/wsargent/7049221) - Docker cheat sheet
 
 * [Adventures in Dockerland | Open Source Community](http://community.redhat.com/adventures-in-dockerland/)
@@ -79,8 +81,14 @@
 
 --
 
+* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
+
+--
+
 * [Docker on Raspberry Pi | Resin.io](http://resin.io/docker-on-raspberry-pi/)
 
 * [Why port Docker to the Raspberry Pi? | Resin.io](http://resin.io/why-port-docker-to-the-raspberry-pi/)
 
-* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
+--
+
+* [Developing with WildFly, JBoss Developer Studio and Docker | Marek Goldmann](http://goldmann.pl/blog/2013/11/20/developing-with-wildfly-jboss-developer-studio-and-docker/)
