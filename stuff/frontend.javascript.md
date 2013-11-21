@@ -37,6 +37,8 @@
 
 * [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
 
+* [21 JavaScript Parts I Struggle To Remember | Tech.Pro](http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-)
+
 --
 
 * [Code Academy - JavaScript](http://www.codecademy.com/pt/tracks/javascript-combined)
