@@ -37,6 +37,10 @@
 
 * [[Speaker Deck] Um futuro chamado Web Components | Zeno Rocha](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
 
+* [Web Components: Why You're Already An Expert | Mark Dalgleish](http://markdalgleish.com/2013/11/web-components-why-youre-already-an-expert/)
+
+--
+
 * [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
 
 * [[Gist] ebidel / Web Components Resources.md](https://gist.github.com/ebidel/6314025) - List of resources related to Web Components
