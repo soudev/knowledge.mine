@@ -12,6 +12,12 @@
 
 * [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 
+--
+
+* [[Speaker Deck] Protocolos de Comunicação](https://speakerdeck.com/jcemer/protocolos-de-comunicacao) - by Jean Carlo Emer
+
+--
+
 * [Complete List of HTML Meta Tags | Lance Pollard](http://code.lancepollard.com/complete-list-of-html-meta-tags/)
 
 * [WebKit for Developers | Paul Irish](http://paulirish.com/2013/webkit-for-developers/)
