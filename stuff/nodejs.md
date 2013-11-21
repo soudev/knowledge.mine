@@ -56,6 +56,8 @@
 
 * [Node School](http://nodeschool.io/) - Learn Node.JS with interactive lessons
 
+* [Node.js: A Jumpstart for Devs | NewCircle](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
+
 --
 
 * [Node.js | Underground WebDev](http://udgwebdev.com/nodejs/)
@@ -300,6 +302,8 @@
 * [Node.js Boilerplate: Express, Mongo, Cross-Origin, and More | bryankrosenbaum.com](http://bryankrosenbaum.com/2013/10/17/node-js-boilerplate/)
 
   * [[GitHub] bryanro / nodejs-boilerplate](https://github.com/bryanro/nodejs-boilerplate) - Template for nodejs RESTful web services and optional front-end
+
+* [[GitHub] eunjae-lee / node-express-grunt-boilerplate](https://github.com/eunjae-lee/node-express-grunt-boilerplate) - A boilerplate to start a new express project based on CoffeeScript, Grunt build system, forever runner, Jade Template Engine and bootstrap
 
 
 ### Async / flow control
