@@ -161,6 +161,8 @@
 
 --
 
+* [A Deep Dive Into JavaScript Modules](http://toshsharma.github.io/presentation-js-modules) - by Ashutosh Sharma / @zorder
+
 * [JavaScript encapsulation & the module pattern](http://www.aviyehuda.com/blog/2013/01/12/javascript-encapsulation-the-module-pattern-for-beginners/)
   
 * [JavaScript Namespaces and Modules | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/)
@@ -557,7 +559,7 @@
 
 --
 
-* [[GitHub] Prinzhorn  /skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
+* [[GitHub] Prinzhorn / skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 
 * [[GitHub] component/ infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
 
@@ -578,6 +580,10 @@
 * [[GitHub] HubSpot / humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane.
 
 * [[GitHub] rschmukler / human-interval](https://github.com/rschmukler/human-interval) - Human readable time distances for javascript
+
+--
+
+* [[GitHub] jstayton / version.js](https://github.com/jstayton/version.js) - Test a different script version with the switch of a query string
 
 
 #### Emulator
