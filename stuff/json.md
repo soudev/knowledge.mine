@@ -63,3 +63,6 @@
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - Json Formatting for Human Beings
 
 * [JSONProxy](http://jsonp.jit.su/) - Enables cross-domain requests to any JSON API | [[GitHub] afeld / jsonp](https://github.com/afeld/jsonp) - A simple JSON proxy
+
+* [[GitHub] nemtsov / json-mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest
+
