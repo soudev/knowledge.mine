@@ -79,6 +79,8 @@
 
 * [Notes about fiddling with docker and continuous deployment ideas | Roxee Tech](http://tech.roxee.tv/2013/10/01/notes-about-fiddling-with-docker-and-continuous-deployment-ideas/)
 
+* [Day 21: Docker - The Missing Tutorial | OpenShift by Red Hat](https://www.openshift.com/blogs/day-21-docker-the-missing-tutorial)
+
 --
 
 * [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
