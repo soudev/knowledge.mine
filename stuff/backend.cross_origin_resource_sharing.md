@@ -33,6 +33,17 @@ XS_SHARING_ALLOWED_HEADERS = ['Content-Type', 'X-Requested-With']{code}
 
   * [[Bitbucket] CORS Filter Git repo](https://bitbucket.org/thetransactioncompany/cors-filter)
 
+  * [CORS Filter : Configuration](http://software.dzhuvinov.com/cors-filter-configuration.html)
+
+  ```xml
+  <dependency>
+    <groupId>com.thetransactioncompany</groupId>
+    <artifactId>cors-filter</artifactId>
+    <version>1.3.2</version>
+  </dependency>
+  ```
+
+
 ## Jersey
 
 * [Cross Origin Resource Sharing (CORS) Web Service Endpoints with JSON Using Jersey](http://www.iceycake.com/2012/06/cross-origin-resource-sharing-cors-json-web-service-endpoints-using-jersey/)
