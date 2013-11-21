@@ -709,3 +709,14 @@
 
 * [Nombo](http://nombo.io/) - Node.js Realtime App Framework 
 
+
+### Ferramentas
+
+* [Introducing node.js Tools for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx)
+
+* JetBrains
+
+  * [IntelliJ IDEA :: Node.js](http://www.jetbrains.com/idea/features/nodejs.html)
+
+  * [WebStorm :: Node.js](http://www.jetbrains.com/webstorm/features/index.html#node.js)
+
