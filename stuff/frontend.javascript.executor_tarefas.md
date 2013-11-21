@@ -54,6 +54,8 @@
 
 * [Writing an Awesome Build Script with Grunt | SitePoint](http://www.sitepoint.com/writing-awesome-build-script-grunt/)
 
+* [Grunt Tips and Tricks | Pony Foo](http://blog.ponyfoo.com/2013/11/13/grunt-tips-and-tricks)
+
 --
 
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
