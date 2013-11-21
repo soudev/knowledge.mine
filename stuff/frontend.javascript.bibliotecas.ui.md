@@ -217,6 +217,8 @@
 
 * [D3.js: How to handle dynamic JSON Data | Pier-Olivier Thibault](http://pothibo.com/2013/09/d3-js-how-to-handle-dynamic-json-data/)
 
+* [Rotate the World in D3.js](http://www.jasondavies.com/maps/rotate/)
+
 
 ##### bl.ocks.org
 
