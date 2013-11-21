@@ -22,6 +22,8 @@
 
 * [The Future of AngularJS by @briantford | Google Drive Presentation](https://docs.google.com/presentation/d/1Gv-dvU-yy6WY7SiNJ9QRo9XayPS6N2jtgWezdRpoI04/preview?sle=true#slide=id.p)
 
+* [[YouTube] Angular.js](https://www.youtube.com/user/angularjs)
+
 
 ### Estatísticas
 
