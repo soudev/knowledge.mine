@@ -108,6 +108,10 @@
 
 * [Object Playground : The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
 
+--
+
+* [Topiarist: A JavaScript OO library featuring mixins, interfaces & multiple inheritance | BladeRunnerJS](http://bladerunnerjs.org/blog/topiarist/)
+
 
 ### Padrões
 
