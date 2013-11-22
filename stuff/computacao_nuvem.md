@@ -62,13 +62,17 @@
 
 * [Amazon AWS](https://aws.amazon.com/pt/)
 
+* [AWS: 10 Things You're Probably Doing Wrong as an Architect | ELEKS Labs](http://www.elekslabs.com/2013/11/aws-10-things-youre-probably-doing.html)
+
+--
+
 * [Estudo de Caso AWS: Rede Globo](https://aws.amazon.com/pt/solutions/case-studies/redeglobo/?ref_=pe_436690_32492230)
 
 * [Estudo de Caso AWS: BigData Corp | iMasters](http://imasters.com.br/infra/cloud/estudo-de-caso-aws-bigdata-corp/)
 
 * [[SlideShare] Escalabilidade para sua solução na Nuvem da AWS de um para centenas de milhões de usuários](http://www.slideshare.net/AmazonWebServicesLATAM/escalabilidade-nuvem-aws) | [[Vimeo] vídeo gravado do webinar](http://vimeo.com/68720156) 
 
-* [AWS: 10 Things You're Probably Doing Wrong as an Architect | ELEKS Labs](http://www.elekslabs.com/2013/11/aws-10-things-youre-probably-doing.html)
+* [[SlidesShare] Using AWS to Build a Graph-Based Product Recommendation System (BDT303) | AWS re:Invent 2013](http://www.slideshare.net/AmazonWebServices/using-aws-to-build-a-graphbased-product-recommendation-system-bdt303-aws-reinvent-2013)
 
 
 ## OpenStack
