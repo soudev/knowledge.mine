@@ -16,6 +16,8 @@
 
 * [[Speaker Deck] Protocolos de comunicação e o desenvolvimento front-end ](https://speakerdeck.com/jcemer/protocolos-de-comunicacao) - by Jean Carlo Emer
 
+* [Client-Side Security Best Practices | Nettuts+](http://net.tutsplus.com/tutorials/client-side-security-best-practices/)
+
 --
 
 * [Complete List of HTML Meta Tags | Lance Pollard](http://code.lancepollard.com/complete-list-of-html-meta-tags/)
