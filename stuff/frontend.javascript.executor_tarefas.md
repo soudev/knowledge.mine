@@ -84,6 +84,10 @@
 
 * [Advanced Grunt tooling | Chris Wren](http://chrisawren.com/posts/Advanced-Grunt-tooling)
 
+--
+
+* [Easy JavaScript Documentation with YUIDocs and Grunt.js | Tech.Pro](http://tech.pro/tutorial/1729/easy-javascript-documentation-with-yuidocs-and-gruntjs)
+
 
 ##### Ferramentas
 
