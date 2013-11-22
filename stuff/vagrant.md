@@ -81,6 +81,8 @@
 
 * [Day 21: Docker - The Missing Tutorial | OpenShift by Red Hat](https://www.openshift.com/blogs/day-21-docker-the-missing-tutorial)
 
+* [Comparing Containers and Generating Dockerfiles with GuardRail | ScriptRock](https://www.scriptrock.com/blog/comparing-containers-generating-dockerfiles-guardrail/)
+
 --
 
 * [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
@@ -92,6 +94,8 @@
 * [Why port Docker to the Raspberry Pi? | Resin.io](http://resin.io/why-port-docker-to-the-raspberry-pi/)
 
 --
+
+* [[SlideShare] Running Netflix OSS on Docker with Nirmata](http://www.slideshare.net/patelrit/nirmata-docker)
 
 * [Developing with WildFly, JBoss Developer Studio and Docker | Marek Goldmann](http://goldmann.pl/blog/2013/11/20/developing-with-wildfly-jboss-developer-studio-and-docker/)
 
