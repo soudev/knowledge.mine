@@ -54,9 +54,12 @@ for developing fast and powerful web interfaces.
 
 * [Foundation](http://foundation.zurb.com/) - is the most advanced responsive front-end framework in the world.
 
-* [Getting Started](http://foundation.zurb.com/docs/)
+  * [Getting Started](http://foundation.zurb.com/docs/)
+
+  * [Foundation Features](http://foundation.zurb.com/learn/features.html)
 
 * [Foundation for Beginners: The Grid System | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/foundation-for-beginners-the-grid-system/)
+
 
 --
 
