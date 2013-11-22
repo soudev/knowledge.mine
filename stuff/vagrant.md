@@ -59,9 +59,11 @@
 
 * [docker.io](http://www.docker.io/)
 
+* [Docker Image Index](https://index.docker.io/)
+
 * [Docker - Getting Started](https://www.docker.io/gettingstarted/)
 
-* [Docker Image Index](https://index.docker.io/)
+* [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
 
 --
 
@@ -76,6 +78,8 @@
 * [My Other Virtual Machine is a Container | Innovation Insights](http://insights.wired.com/profiles/blogs/my-other-virtual-machine-is-a-container)
 
 * [Building a Multi-Purpose Docker Image | Docker News — Medium](https://medium.com/docker-news/7762378ebc2e)
+
+* [Building a Development Environment with Docker | Terse Systems](http://tersesystems.com/2013/11/20/building-a-development-environment-with-docker/)
 
 * [Notes about fiddling with docker and continuous deployment ideas | Roxee Tech](http://tech.roxee.tv/2013/10/01/notes-about-fiddling-with-docker-and-continuous-deployment-ideas/)
 
