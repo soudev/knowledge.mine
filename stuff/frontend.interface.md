@@ -39,6 +39,8 @@
 
 * [Web Components: Why You're Already An Expert | Mark Dalgleish](http://markdalgleish.com/2013/11/web-components-why-youre-already-an-expert/)
 
+* [A Guide to Web Components | CSS-Tricks](http://css-tricks.com/modular-future-web-components/)
+
 --
 
 * [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
