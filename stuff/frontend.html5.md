@@ -561,6 +561,8 @@
 
 * [[GitHub] beakable / isometric](https://github.com/beakable/isometric) - HTML5 Canvas Isometric Engine
 
+* [[GitHub] suffick / Clarity](https://github.com/suffick/Clarity) - A simple, customisable and scriptable platform game engine. [Demo](http://codepen.io/suffick/details/CqIxk)
+
 
 ### Desenvolvimento de Aplicações
 
@@ -602,6 +604,10 @@
 
 
 #### Mobile
+
+* [[SlideShare] How Can HTML Compete with Native?](http://www.slideshare.net/andreasc/how-can-html-compete-with-native)
+
+--
 
 * [Screensiz.es](http://screensiz.es/phone) is a nifty little database of screen specifications for the most popular devices on the market.
 
