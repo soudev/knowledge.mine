@@ -742,6 +742,8 @@
 
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
 
+* [DevTools Snippets](http://bgrins.github.io/devtools-snippets/) - A collection of helpful snippets to use inside of browser devtools
+
 
 ### Gerenciador de Pacotes
 
