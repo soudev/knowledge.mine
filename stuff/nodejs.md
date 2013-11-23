@@ -516,6 +516,10 @@
 
 ### NPM
 
+* [npmjs.eu - European npm mirror](http://npmjs.eu/)
+
+--
+
 * [[GitHub] deoxxa / npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
 
 --
