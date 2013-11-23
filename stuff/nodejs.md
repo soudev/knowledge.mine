@@ -129,7 +129,9 @@
 
 * [Utilizando Node.js para automação de build e deploy no dell.com | BrazilJS 2013](http://bitbonsai.com/braziljs2013/)
 
-* [How PayPal is Being Revolutionized by Node.js and Lean UX | nearForm](http://www.nearform.com/nodecrunch/release-the-kracken-how-paypal-is-being-revolutionized-by-node-js-and-lean-ux)
+* [Node.js at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
+
+  * [How PayPal is Being Revolutionized by Node.js and Lean UX | nearForm](http://www.nearform.com/nodecrunch/release-the-kracken-how-paypal-is-being-revolutionized-by-node-js-and-lean-ux)
 
 
 ### IBM developerWorks
