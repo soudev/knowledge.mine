@@ -143,6 +143,8 @@
 
 * [An Introduction to Source Maps | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/source-maps-101/) -  source maps come into play, by pointing out the exact mapping in our production code to the original authored code. ex. (.coffee > .js) | (.less > .css)
 
+* [Introduction to JavaScript Source Maps | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
+
 
 ## HTML Email
 
