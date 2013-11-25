@@ -106,7 +106,13 @@
 
 * [grunt-build-gh-pages](https://github.com/pajtai/grunt-build-gh-pages) - Grunt task to take build directory from current task and move it to another branch | examplo: [exploratory-javascript-tests](https://github.com/pajtai/exploratory-javascript-tests)
 
-* [Grunt Prompt](https://github.com/dylang/grunt-prompt) - Add interactive UI to your Gruntfile on the command line
+--
+
+* [[GitHub] dylang / grunt-prompt](https://github.com/dylang/grunt-prompt) - Add interactive UI to your Gruntfile on the command line
+
+* [[GitHub] dylang / grunt-notify](https://github.com/dylang/grunt-notify) - Automatic Notifications when Grunt tasks fail
+
+--
 
 * [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
 
