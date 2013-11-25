@@ -443,6 +443,8 @@
 
 * [JSHint](http://www.jshint.com/)
 
+  * [[Gist] When JSLint hurts your feelings, hug it out with Doug](https://gist.github.com/textarcana/1745829) 
+
 * [JSLint](http://www.jslint.com/)
 
 
@@ -480,6 +482,10 @@
 --
 
 * [[GitHub] RadLikeWhoa / helpers.js](https://github.com/RadLikeWhoa/helpers.js) - Small JavaScript functions for common use cases.
+
+--
+
+* [[GitHub] wilmoore / selectn](https://github.com/wilmoore/selectn) - Resolves deeply-nested object properties via dot or bracket-notation for Node.js and the browser
 
 --
 
