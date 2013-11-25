@@ -470,6 +470,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [How to structure large angularJS applications | Entwicklertagebuch](http://entwicklertagebuch.com/blog/2013/10/how-to-structure-large-angularjs-applications/)
 
+* [Angular Structure: Refactoring for Growth | John Papa](http://www.johnpapa.net/angular-growth-structure/)
+
 --
 
 * [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
