@@ -550,10 +550,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
 
+* [Handling Oauth2 with Node.js and Angular.js – Passport to the rescue! | FlashICS](http://www.flashics.com/2013/11/24/handling-oauth2-with-node-js-and-angular-js-passport-to-the-rescue/)
+
 
 ### Mobile
 
 * [The Definitive Guide to Angular on Mobile | ng-newsletter](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
+
+* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
 
 
 #### PhoneGap
