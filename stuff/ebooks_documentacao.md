@@ -84,7 +84,11 @@
 
 --
 
+* [Continuous Integration | Martin Fowler](http://martinfowler.com/articles/continuousIntegration.html) - 06/05/2006
+
 * [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
+
+--
 
 * [PeepCode Git Internals PDF](https://github.com/pluralsight/git-internals-pdf/releases) - A PDF by Scott Chacon about how the Git source code control system stores files and revisions.
 
