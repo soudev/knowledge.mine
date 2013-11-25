@@ -16,6 +16,12 @@
 
 * [[YouTube] Configuring an LDAP Server](https://www.youtube.com/watch?v=KQdQ3ITG_Vg)
 
+--
+
+* [FoundationDB](https://foundationdb.com/)
+
+  * [[GitHub] OptimalBits / fowl](https://github.com/OptimalBits/fowl) - A NodeJS Document Model and Query Layer for FoundationDB
+
 
 ## Comparação
 
