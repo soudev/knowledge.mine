@@ -251,6 +251,8 @@
 
 * [DynoSRC](http://dinosrc.it/) - Eliminate HTTP requests for JavaScript files and serve differential updates to your users on the fly. No, really. Like, seriously.
 
+* [[GitHub] williamwicks / litesocket](https://github.com/williamwicks/litesocket) - Realtime server events for Node.JS, using Server Sent Events (SSE)
+
 --
 
 * [[GitHub] topcloud / cachemere](https://github.com/topcloud/cachemere) - A nice, smooth, cushiony layer of cache
