@@ -71,3 +71,5 @@
 
   * [[YouTube] Brackets Live Development for HTML & CSS](https://www.youtube.com/watch?v=Nhvj1NYC3Uc)
 
+  * [Deeper In the Brackets Editor | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/deeper-in-the-brackets-editor/)
+  
