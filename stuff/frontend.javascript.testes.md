@@ -128,3 +128,7 @@
 
 * [Hard Thresholds on JavaScript Code Coverage](http://ariya.ofilabs.com/2013/05/hard-thresholds-on-javascript-code-coverage.html)
 
+* [JSCoverage](http://siliconforks.com/jscoverage/)
+
+* [Saga](http://timurstrekalov.github.io/saga/) - Better code coverage tool for JavaScript
+
