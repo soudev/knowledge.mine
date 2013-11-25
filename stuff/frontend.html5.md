@@ -253,6 +253,8 @@
 
 * [Building Multiplayer HTML5 Games with Cloak | Bocoup](http://weblog.bocoup.com/building-multiplayer-html5-games-with-cloak/)
 
+* [The Pond – building a multi-platform HTML5 game | Mozilla Hacks](https://hacks.mozilla.org/2013/11/the-pond-building-a-multi-platform-html5-game/)
+
 
 #### Storage
 
@@ -630,6 +632,8 @@
 * [Fries: Prototype Android apps using HTML, CSS and JavaScript](http://jaunesarmiento.me/fries/)
 
 * [Nativo ou Web? Técnicas e Dicas em JavaScript móvel | InfoQ Br](http://www.infoq.com/br/interviews/tecnicas-javascript-movel)
+
+* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
 
 
 ##### Firefox OS
