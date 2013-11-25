@@ -50,6 +50,13 @@
 * [Config do encode no eclipse no Mac OS X](http://ekkescorner.wordpress.com/2009/07/28/howto-change-fileencoding-of-eclipse-projects-osx/)
 
 
+### IntelliJ - JetBrains
+
+* [IntelliJ IDEA](http://www.jetbrains.com/idea/)
+
+* [5 Things You Might Not Know About IntelliJ | Conductor Nightlight](http://nightlight.conductor.com/5-things-you-might-not-know-about-intellij/)
+
+
 ### Light Table
 
 * [Light Table](http://www.lighttable.com/)
