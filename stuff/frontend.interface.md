@@ -10,6 +10,8 @@
 
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/) - Passo-a-passo para aprender como funciona de verdade o esquema de layouts de CSS, especialmente útil para quem está começando.
 
+* [[GitHub] gdipgh / html-and-css-for-beginners](https://github.com/gdipgh/html-and-css-for-beginners) - Course materials for the HTML & CSS for Beginners class
+
 * [Dicas de sobrevivência em uma era pós o IE6 | Tableless](http://tableless.com.br/dicas-de-sobrevivencia-ie6/)
 
 * [7 Recursos de Referências que todo Designer deve conhecer](http://www.des1gnon.com/2013/02/7-recursos-de-referencias-que-todo-designer-deve-conhecer/)
