@@ -505,6 +505,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] tyson-benson / Internationalization with AngularJS](https://github.com/tyson-benson/Internationalization-with-AngularJS) - i18n
 
+* [angular translate](http://pascalprecht.github.io/angular-translate/) - i18n for your Angular apps, made easy
+
 * [[Gist] i18n Helper function for Javascript](https://gist.github.com/3353635)
 
 * [Easy global i18n angularJS language translations for your Angular app | ng-newsletter](http://www.ng-newsletter.com/posts/angular-translate.html)
