@@ -52,9 +52,13 @@
 
 * [JSON Generator](http://www.json-generator.com/)
 
+--
+
 * [JSON Prettifier](https://chrome.google.com/webstore/detail/json-prettifier/kccpfgilgmgbipamhohknpokhibinhhj) - Google Chrome
 
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) - Google Chrome
+
+--
 
 * [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier
 
