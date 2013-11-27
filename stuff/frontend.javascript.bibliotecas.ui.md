@@ -76,6 +76,8 @@
 
     * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
 
+* [tablecloth.js](http://tableclothjs.com/) - Making HTML Tables Suck Less
+
 
 ### JQuery
 
