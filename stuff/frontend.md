@@ -138,6 +138,8 @@
 
 * [Snap.svg](http://snapsvg.io/) - is designed for modern browsers and therefore supports the newest SVG features like masking, clipping, patterns, full gradients, groups, and more.
 
+* [Animated Checkboxes and Radio Buttons with SVG | Codrops](view-source:http://tympanus.net/codrops/2013/10/15/animated-checkboxes-and-radio-buttons-with-svg/)
+
 
 ## Source Map
 
