@@ -85,6 +85,9 @@
 
 * [Using Redis for Caching in Node.js](http://blog.stevenlu.com/2013/03/07/using-redis-for-caching-in-nodejs/)
 
+* [[GitHub] maritz / nohm](https://github.com/maritz/nohm) - node.js implementation of a redis object relations mapper (orm). High speed queries with this ODM for Redis
+
+
 ###### Python
 
 * [[GitHub] vivekn / redis-simple-cache](https://github.com/vivekn/redis-simple-cache/) - Simple redis based cache for storing json encoded strings or html
