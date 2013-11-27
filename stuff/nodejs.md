@@ -481,6 +481,10 @@
 
 --
 
+* [[GitHub] vesln / hippie](https://github.com/vesln/hippie) - End-to-end API testing made easy
+
+--
+
 * [How to Create a Resumable Video Uploader in Node.js | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-a-resumable-video-uploade-in-node-js/)
 
 --
@@ -601,6 +605,9 @@
 
 * [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica) 
 
+--
+
+* [[GitHub] maritz / nohm](https://github.com/maritz/nohm) - node.js implementation of a redis object relations mapper (orm). High speed queries with this ODM for Redis
 
 --
 
