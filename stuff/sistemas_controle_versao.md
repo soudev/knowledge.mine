@@ -520,6 +520,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [EpicEditor](http://oscargodson.github.io/EpicEditor/) - Embeddable JavaScript Markdown Editor 
+
 * [Sublime Text 2 and Markdown: Tips, Tricks, and Links](http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
 
 
