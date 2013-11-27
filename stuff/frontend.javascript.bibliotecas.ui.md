@@ -32,6 +32,8 @@
 
 * [flyLabel.js](http://athaeryn.github.io/flyLabel.js/) - flexible floating form labels to make your boring placeholders super fly
 
+* [cheet.js](http://namuol.github.io/cheet.js/) - easy easter eggs (konami code, etc) for your site
+
 --
 
 * [Spin.js](http://fgnass.github.com/spin.js/) - An animated CSS activity indicator with VML fallback.
