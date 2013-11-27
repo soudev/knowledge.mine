@@ -81,6 +81,8 @@
 
 ## Temas
 
+* [Themes for Web Developer's Toys | devtheme](http://devthemez.com/)
+
 * [Dracula Theme](http://zenorocha.github.io/dracula-theme/)
 
 * [Theme - Argonaut | Package Control](https://sublime.wbond.net/packages/Theme%20-%20Argonaut)
