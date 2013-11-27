@@ -531,6 +531,10 @@
 
 ### NPM
 
+* [Keeping The npm Registry Awesome | Nodejs Blog](http://blog.nodejs.org/2013/11/26/npm-post-mortem/) - 26/11/2013
+
+--
+
 * [npmjs.eu - European npm mirror](http://npmjs.eu/)
 
 --
@@ -655,6 +659,8 @@
   * [[Speaker Deck] node-webkit: app runtime based on Chromium and node.js](https://speakerdeck.com/zcbenz/node-webkit-app-runtime-based-on-chromium-and-node-dot-js)
 
   * [[GitHub] wookiecooking / nwfaketop](https://github.com/wookiecooking/nwfaketop) - A GruntJS Compiler for Node-webkit Applications (OSX Based)
+
+  * [Creating Desktop Applications With node-webkit | StrongLoop](http://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 
 * [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
 
