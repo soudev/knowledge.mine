@@ -8,6 +8,7 @@
 
 * [jQuery Quick API Reference](http://oscarotero.com/jquery/)
 
+
 ### Aprendizado
 
 * [JQuery - Learning Center](http://learn.jquery.com/)
@@ -17,6 +18,8 @@
 * [Try jQuery Now - Code School](http://try.jquery.com/)
 
 * [jQuery Air: First Flight | Code School](http://www.codeschool.com/courses/jquery-air-first-flight)
+
+* [Intro to jQuery: Learn jQuery with Street Fighter and Hadoukens](http://www.thinkful.com/learn/intro-to-jquery)
 
 
 ### Dicas
@@ -77,8 +80,6 @@
 
 * [jQuery Internationalization (i18n) Plugin by Chris Johnson](https://github.com/edgeui/i18n.js)
 
-* [MagicSuggest](http://nicolasbize.github.com/magicsuggest/) - Auto-suggest combo with bootstrap theme using jQuery
-
 * [SlidesJS](http://slidesjs.com/) - is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions. 
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - menu-aim is a jQuery plugin for dropdown menus that can differentiate between a user trying hover over a dropdown item vs trying to navigate into a submenu's contents.
@@ -91,7 +92,11 @@
 
 * [imagefill.js](http://johnpolacek.github.io/imagefill.js/) - The jQuery plugin for making an image fill its container (and be centered)
 
+* [MagicSuggest](http://nicolasbize.github.com/magicsuggest/) - Auto-suggest combo with bootstrap theme using jQuery
+
 * [Tag-it!](http://aehlke.github.io/tag-it/) - Simple and configurable tag editing widget with autocomplete support
+
+* [AutoJS](http://atmb4u.github.io/AutoJS/) - is a library to continuously autocomplete textarea based on a standard dictionary
 
 * [Selectize.js](http://brianreavis.github.io/selectize.js/) - is the hybrid of a textbox and <select> box. It's jQuery-based and it's useful for tagging, contact lists, country selectors, and so on.
 
