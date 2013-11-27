@@ -191,6 +191,8 @@
 
 * [Defensive JavaScript](http://www.defensivejs.com/)
 
+* [Javascript Hacks for Hipsters | Tal Bereznitskey](http://berzniz.com/post/68001735765/javascript-hacks-for-hipsters)
+
 --
 
 * [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
@@ -398,6 +400,8 @@
 
     * [Introduction to Browserify | Blake Embrey](http://blakeembrey.com/articles/introduction-to-browserify/)
 
+    * [A collection of useful Browserify resources | learnjs.io](http://learnjs.io/blog/2013/11/24/browserify-resources/)
+
 
 #### Require.js - Performance e Organização
 
@@ -482,6 +486,8 @@
 --
 
 * [[GitHub] RadLikeWhoa / helpers.js](https://github.com/RadLikeWhoa/helpers.js) - Small JavaScript functions for common use cases.
+
+* [[GitHub] dankogai / js-combinatorics](https://github.com/dankogai/js-combinatorics) - power set, combination, and permutation in JavaScript
 
 --
 
@@ -569,7 +575,7 @@
 
 * [[GitHub] Prinzhorn / skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 
-* [[GitHub] component/ infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
+* [[GitHub] component / infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
 
 * [spin.js](http://fgnass.github.io/spin.js/) - An animated CSS activity indicator with VML fallback [sample](http://www.javascriptoo.com/spin-js)
 
@@ -637,6 +643,8 @@
 #### Crypto
 
 * [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/) - The Stanford Javascript Crypto Library is a project by the Stanford Computer Security Lab to build a secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in Javascript.
+
+* [OpenPGP.js](http://openpgpjs.org/) - JavaScript implementation
 
 
 #### Steganography
