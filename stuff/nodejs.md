@@ -769,6 +769,9 @@
 
   * [Introducing node.js Tools for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx)
 
+  * [Node.js support in Visual Studio? You bet your IDE | StrongLoop](http://strongloop.com/strongblog/node-js-support-in-visual-studio-you-bet-your-ide/)
+
+
 * JetBrains
 
   * [IntelliJ IDEA :: Node.js](http://www.jetbrains.com/idea/features/nodejs.html)
