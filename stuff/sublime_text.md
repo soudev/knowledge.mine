@@ -81,7 +81,11 @@
 
 ## Temas
 
+* [Color Sublime](http://colorsublime.com) - Make Your Sublime Text2 More Awesome
+
 * [Themes for Web Developer's Toys | devtheme](http://devthemez.com/)
+
+--
 
 * [Dracula Theme](http://zenorocha.github.io/dracula-theme/)
 
