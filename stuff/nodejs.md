@@ -143,6 +143,11 @@
 
 ## Projetos interessantes
 
+* dotFiles - Mac OS X config
+
+  * [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
+
+
 * [Tessel](http://technical.io/) - JavaScript right on the hardware 
 
   * [Tessel - Dragon Innovation](http://www.dragoninnovation.com/projects/22-tessel) - Technical Machine - hardware module that speak javascript - totally amazing

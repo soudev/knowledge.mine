@@ -34,6 +34,10 @@
 
 * [[GitHub] luanmuniz / dotfiles](https://github.com/luanmuniz/dotfiles) - Script de configuração de workspace
 
+--
+
+* [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
+
 
 ## Setup
 
