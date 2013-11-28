@@ -293,6 +293,10 @@
 
 --
 
+* [Getting input from the keyboard using JavaScript | ANTONOFF](http://www.antonoffplus.com/getting-input-from-the-keyboard-using-javascript/)
+
+--
+
 * [[JSFIDDLE] Tiny Excel-like app in less that 30 lines of JavaScript](http://jsfiddle.net/ondras/hYfN3/)
 
 
