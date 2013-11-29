@@ -488,6 +488,10 @@
 
 * [[GitHub] imrefazekas / connect-rest](https://github.com/imrefazekas/connect-rest) - Exceptionally featureful Restful web services middleware for connect node.js
 
+* [[GitHub] mcavage / node-restify](https://github.com/mcavage/node-restify) - node.js REST framework specifically meant for web service APIs
+
+  * [Day 27: Restify - Build Correct REST Web Services in Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/day-27-restify-build-correct-rest-web-services-in-nodejs)
+
 --
 
 * [[GitHub] vesln / hippie](https://github.com/vesln/hippie) - End-to-end API testing made easy
