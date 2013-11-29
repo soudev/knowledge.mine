@@ -154,6 +154,8 @@ for developing fast and powerful web interfaces.
 
 * [Google Plus style Template for Bootstrap | bootply](http://www.bootply.com/90113)
 
+* [Shoelace - Visual Bootstrap 3 Grid Builder](http://shoelace.io)
+
 --
 
 * [Using Bootstrap 3 as a Web Development Workflow Tool | Flippin Awesome](http://flippinawesome.org/2013/11/04/using-bootstrap-3-as-a-web-development-workflow-tool/)
