@@ -475,6 +475,10 @@
 
 * [JSDB.io](http://www.jsdb.io/) is a collection of the best javascript libraries
 
+* [Microjs](http://microjs.com/) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! | [[GiHub] madrobby / microjs.com](https://github.com/madrobby/microjs.com)
+
+--
+
 * [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
 
 * [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript.
@@ -532,6 +536,8 @@
 * [lz-string](http://pieroxy.net/blog/pages/lz-string/demo.html) - JavaScript compression, fast!
 
 * [[GitHub] mikaelbr / SocialFeed.js](https://github.com/mikaelbr/SocialFeed.js) - Easily create a feed with your latest interactions on different social media. Accumulate Github Events, Disqus comments, Delicious links, Tweets, etc.
+
+* [SpeakingURL](http://pid.github.io/speakingurl/) - Generate a SpeakingURL/slug for browser & server
 
 --
 
