@@ -861,6 +861,8 @@
 
     * [An Ember.js beginners tutorial | WilliamHart.info](http://www.williamhart.info/an-emberjs-beginners-tutorial.html)
 
+    * [An In-Depth Introduction To Ember.js | Smashing Coding](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+
 --
 
 * [Knockout.js](http://knockoutjs.com/)
