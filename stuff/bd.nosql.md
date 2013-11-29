@@ -18,6 +18,12 @@
 
 --
 
+* [ArangoDB](http://www.arangodb.org/) - An open-source database with a flexible data model for documents, graphs, and key-values. Build high performance applications using a convenient sql-like query language or JavaScript/Ruby extensions
+
+  * [ArangoDB Foxx](http://www.arangodb.org/foxx) - Lean Application Server for Single Page Applications
+
+--
+
 * [FoundationDB](https://foundationdb.com/)
 
   * [[GitHub] OptimalBits / fowl](https://github.com/OptimalBits/fowl) - A NodeJS Document Model and Query Layer for FoundationDB
