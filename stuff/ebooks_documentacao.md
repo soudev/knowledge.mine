@@ -20,11 +20,15 @@
 
 * [IT Books](http://it-ebooks.info/) - Free Download IT eBooks
 
-* [JSBooks](http://jsbooks.revolunet.com/) - free javascript books
-
 * [[GitHub] vhf / free-programming-books](https://github.com/vhf/free-programming-books) | [site](http://resrc.io/list/10/list-of-free-programming-books/)
 
+--
+
+* [JSBooks](http://jsbooks.revolunet.com/) - free javascript books
+
 * [JSWiki](http://jswiki.org/) - This wiki indexes libraries and resources available for JavaScript
+
+* [Microjs](http://microjs.com/) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! | [[GiHub] madrobby / microjs.com](https://github.com/madrobby/microjs.com)
 
 --
 
