@@ -404,6 +404,10 @@
 
 * [Nodejs Deployment: Building and Configuring on Amazon Linux AMI | Asaf Shakarchi](http://asaf.github.io/blog/2013/07/10/nodejs-deployment-building-and-configuring-on-amazon-linux-ami/)
 
+* [Topic: Automatically restart your node.js server after code updates | StrongLoop](http://strongloop.com/node-republic-topics/automatically-restart-your-node-js-server-after-code-updates/)
+
+--
+
 * [[GitHub] mikefrey / node-pac](https://github.com/mikefrey/node-pac) - pack your node_modules as *.tgz files for version control and easy deploys (not tested on Windows yeat)
 
   * [Deploying Node.js apps without npm using pac | Coding in the Crease](http://www.codinginthecrease.com/news_article/show/307636)
