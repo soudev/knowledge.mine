@@ -68,6 +68,10 @@
 
 * [Utilizando ferramentas open source para reorganizar seus dados em informações concretas](http://www.infoq.com/br/presentations/ferramentas-opensource) - Muito se fala do papel que os dados podem assumir no dia-a-dia de empresas, mas pouco se mostra como podem ser eficazes no auxílio das tomadas de decisões. Veja como seguir um caminho prático pelos emaranhados de termos e técnicas surgindo a cada dia neste campo que floresce como nova onda. Mostramos como transformar conjuntos de dados em informação – e por consequência em lucros.
 
+--
+
+* [Por que a nuvem irá acabar com soluções "Enterprise"](http://www.infoq.com/br/presentations/nuvem-ira-acabar-solucoes-enterprise) - O surgimento do Cloud Computing está levando a profundas mudanças nas práticas de desenvolvimento e na arquitetura de aplicações. As soluções Enterprise tradicionais se tornam pouco efetivas nesse contexto. Como as soluções Enterprise estão desaparecendo e por quê? Qual o novo modelo para as arquiteturas agora e para o futuro? São essas e outras questões que vamos analisar nessa palestra.
+
 -- 
 
 * [Fuja da Escravidão, antes que ela te alcance](http://www.infoq.com/br/presentations/devinrio-vinicius-teles) - Vinícius Teles nos fala a respeito da realidade de muitos trabalhadores que possuem vidas estáveis, porém repletas de frustrações advindas de suas rotinas e carreiras aparentemente seguras. Vinícius trata do empreendedorismo, com dicas para profissionais de tecnologia que buscam atingir não apenas a estabilidade financeira, mas também a plena satisfação profissional e pessoal.
