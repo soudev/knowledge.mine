@@ -143,7 +143,7 @@
 >
 > Mantido pela empresa [10gen](http://www.10gen.com/), a qual fornece treinamentos e suporte pago ao MongoDB.
 > 
-> A empresa 10gen mudou de nome para MongoDB Inc. [MongoDB.com](https://www.mongodb.com/)
+> * A empresa 10gen mudou de nome para MongoDB Inc. [MongoDB.com](https://www.mongodb.com/)
 >
 > [10gen Announces Company Name Change to MongoDB, Inc. | MongoDB](https://www.mongodb.com/press/10gen-announces-company-name-change-mongodb-inc)
 >
@@ -199,15 +199,23 @@
 
 * [Métricas na web em tempo real com MongoDB | InfoQ BR](http://www.infoq.com/br/presentations/web-analytics-MongoDB)
 
-* [10gen - MongoDB Presentations - Rapid Realtime App Development with Node.JS & MongoDB](https://www.10gen.com/presentations/mongosf2011/nodejs)
+* [Rapid Realtime App Development with Node.JS & MongoDB | MongoDB, Inc](http://www.mongodb.com/presentations/rapid-realtime-app-development-nodejs-mongodb)
 
 * [[SlideShare] Building a Directed Graph with MongoDB](http://www.slideshare.net/fehguy/building-a-directed-graph-with-mongodb)
 
+--
+
 * [A quick start with MongoDB Geospatial Queries](http://www.siletto.it/blog/alessandro/2013/03/19/quick-start-mongodb-geospatial-queries)
+
+* [[SlideShare] Geolocation in mongodb](http://www.slideshare.net/mongodb/geolocation-in-mongodb)
+
+--
 
 * [Map reduce and MongoDB | Boxed Ice Blog](http://blog.serverdensity.com/map-reduce-and-mongodb/)
 
 * [Map Reduce | MongoDB Docs](http://docs.mongodb.org/manual/core/map-reduce/)
+
+--
 
 * [[SlideShare] Introduction to MongoDB and Hadoop](http://www.slideshare.net/spf13/introduction-to-mongodb-and-hadoop) - An Introduction to MongoDB + an Introduction to MongoDB + Hadoop. This presentation was given at the CT Java Users Group in March 2013.
 
