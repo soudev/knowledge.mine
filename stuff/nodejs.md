@@ -382,7 +382,7 @@
 
 --
 
-*[Real-time Engines in Node.js | StrongLoop](http://strongloop.com/strongblog/real-time-engines-in-node-js/)
+* [Real-time Engines in Node.js | StrongLoop](http://strongloop.com/strongblog/real-time-engines-in-node-js/)
 
 --
 
@@ -519,6 +519,14 @@
 --
 
 * [[GitHub] bekk / retire.js](https://github.com/bekk/retire.js) - scanner detecting the use of JavaScript libraries with known vulnerabilites
+
+--
+
+* [Jade](http://jade-lang.com/) - node template engine
+
+  * [Using Node.js for Static Sites: Jade | StrongLoop](http://strongloop.com/strongblog/using-node-js-for-static-sites-jade/)
+
+  * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
 
 
 ### modulo
