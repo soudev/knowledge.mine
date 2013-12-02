@@ -66,6 +66,10 @@
 
 --
 
+* [Amazon AWS oferece aplicativo Android para gerenciar instâncias | Christiano Anderson](http://christiano.me/2013/01/05/amazon-aws-oferece-aplicativo-android-para-gerenciar-instancias-na-nuvem/)
+
+--
+
 * [Estudo de Caso AWS: Rede Globo](https://aws.amazon.com/pt/solutions/case-studies/redeglobo/?ref_=pe_436690_32492230)
 
 * [Estudo de Caso AWS: BigData Corp | iMasters](http://imasters.com.br/infra/cloud/estudo-de-caso-aws-bigdata-corp/)
