@@ -91,6 +91,8 @@
 
 * [Theme - Argonaut | Package Control](https://sublime.wbond.net/packages/Theme%20-%20Argonaut)
 
+* [[GitHub] thinkpixellab / flatland](https://github.com/thinkpixellab/flatland) - Flatland is a simple theme and accompanying color scheme for Sublime Text 2
+
 
 ## Packages / Plugins
 
