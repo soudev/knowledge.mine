@@ -114,6 +114,8 @@
 
   * [Sublime Text 2 and Markdown: Tips, Tricks, and Links](http://www.macstories.net/roundups/sublime-text-2-and-markdown-tips-tricks-and-links/)
 
+* [[GitHub] jonschlinkert / sublime-markdown-extended](https://github.com/jonschlinkert/sublime-markdown-extended) - Markdown syntax highlighter for Sublime Text, with extended support for GFM fenced code blocks, with language-specific syntax highlighting. YAML Front Matter. Works with ST2/ST3. Goes great with Assemble
+
 * [[GitHub] aziz / PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 
 * [Make URLs clickable in Sublime Text | Leonid Shevtsov](http://leonid.shevtsov.me/en/clickable-urls-in-sublime-text)
