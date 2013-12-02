@@ -328,6 +328,8 @@
 
 * [Async - utilities for node and the browser](https://github.com/caolan/async)
 
+  * [Node.js async in practice: When to use what? | Sebastian Seilund](http://www.sebastianseilund.com/nodejs-async-in-practice)
+
 * [Cyclop - Stupid simple control flow library](https://github.com/vesln/cyclop)
 
 * [[GitHub] luciotato / waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell
