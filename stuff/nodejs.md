@@ -568,6 +568,8 @@
 
 * [npmjs.eu - European npm mirror](http://npmjs.eu/)
 
+* [How to create a private npm.js repository | Clock Blog](http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository)
+
 --
 
 * [[GitHub] deoxxa / npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
@@ -780,6 +782,8 @@
 --
 
 * [Sails.js](http://www.sailsjs.org/) - Realtime MVC Framework for Node.js
+
+  * [sailsCasts](http://irlnathan.github.io/sailscasts/) - Learning about sails.js one screencast at a time
 
 * [Nombo](http://nombo.io/) - Node.js Realtime App Framework 
 
