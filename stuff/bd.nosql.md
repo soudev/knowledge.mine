@@ -46,6 +46,7 @@
 
 * [MyBatis Memcached | Reference Documentation](http://www.mybatis.org/caches/memcached/)
 
+
 ### Redis
 
 * [Redis.io](http://redis.io/)
@@ -171,9 +172,15 @@
 
 * [Building scalable applications with mongoDB](http://lanyrd.com/2012/jazoon/swkpc/)
 
+--
+
 * [[SlideShare] MongoDB Schema Design](http://www.slideshare.net/kbanker/mongodb-schema-design)
 
 * [[Speaker Deck] MongoDB DC 2012: Schema Design by Example](https://speakerdeck.com/mongodb/mongodb-dc-2012-schema-design-by-example)
+
+* [Um pouco de schema design no MongoDB | Christiano Anderson](http://christiano.me/2013/11/30/um-pouco-de-schema-design-mongodb/)
+
+--
 
 * Getting Started with MongoDB | Nettuts+ : [Part 1](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/) | [Part 2](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb-part-2/)
 
