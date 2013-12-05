@@ -108,7 +108,13 @@
 
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter) - s a plugin that supports "lint" programs (known as "linters").  SublimeLinter highlights lines of code the linter deems to contain  (potential) errors. It also supports highlighting special annotations  (for example: TODO) so that they can be quickly located.
 
+--
+
 * [Git Gutter](https://github.com/jisaacks/GitGutter) - A sublime text 2/3 plugin to show an icon in the gutter area  indicating whether a line has been inserted, modified or deleted.
+
+* [[GitHub] SublimeText / SideBarGit](https://github.com/SublimeText/SideBarGit) - Add git commands to sidebar. Textual port of komodin extension for sublime text.
+
+--
 
 * [Markdown to Clipboard for Sublime Text 2](http://timewilltell.me/node/14)
 
