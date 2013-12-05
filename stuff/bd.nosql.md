@@ -257,4 +257,5 @@
 
 * [Admin UIs](http://docs.mongodb.org/ecosystem/tools/administration-interfaces/)
 
+* [Robomongo](http://www.robomongo.org/) - Shell-centric cross-platform MongoDB management tool
 
