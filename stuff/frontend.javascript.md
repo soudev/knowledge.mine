@@ -759,6 +759,8 @@
 
 * [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
 
+* [Console | Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/console)
+
 * [Chrome Dev Tools: JavaScript and Performance | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/chrome-dev-tools-javascript-and-performance/)
 
 * [[GitHub] mauricecruz / chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome DevTools
