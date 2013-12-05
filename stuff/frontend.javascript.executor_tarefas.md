@@ -126,6 +126,10 @@
 
 * [[GitHub] btford / grunt-merge-conflict](https://github.com/btford/grunt-merge-conflict) - Grunt plugin for preventing you from accidentally comitting a merge conflict into your project
 
+* [[GitHub] rubenv / grunt-git](https://github.com/rubenv/grunt-git) - Git commands for grunt
+
+* [[GitHub] thanpolas / grunt-github-pages](https://github.com/thanpolas/grunt-github-pages) - Push to gh-pages no problem
+
 --
 
 * [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy)
