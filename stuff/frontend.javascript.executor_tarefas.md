@@ -102,6 +102,8 @@
 
 * [Grunt.js Plugins](http://gruntjs.com/plugins)
 
+--
+
 * [[GitHub] tschaub / grunt-newer](https://github.com/tschaub/grunt-newer) - Configure Grunt tasks to run with newer files only
 
 * [grunt-build-gh-pages](https://github.com/pajtai/grunt-build-gh-pages) - Grunt task to take build directory from current task and move it to another branch | examplo: [exploratory-javascript-tests](https://github.com/pajtai/exploratory-javascript-tests)
@@ -126,6 +128,8 @@
 
 * [[GitHub] btford / grunt-merge-conflict](https://github.com/btford/grunt-merge-conflict) - Grunt plugin for preventing you from accidentally comitting a merge conflict into your project
 
+--
+
 * [[GitHub] rubenv / grunt-git](https://github.com/rubenv/grunt-git) - Git commands for grunt
 
 * [[GitHub] thanpolas / grunt-github-pages](https://github.com/thanpolas/grunt-github-pages) - Push to gh-pages no problem
@@ -141,6 +145,12 @@
 * [[GitHub] rhiokim / grunt-sloc](https://github.com/rhiokim/grunt-sloc) - Source line of codes plugin for Grunt.js
 
 * [[GitHub] vigetlabs / grunt-complexity](https://github.com/vigetlabs/grunt-complexity) - A JavaScript complexity analysis grunt task
+
+--
+
+* [[GitHub] astronaughts / grunt-play](https://github.com/astronaughts/grunt-play) - play sound with grunt
+
+  * [[GitHub] wlepinski / grunt-peao](https://github.com/wlepinski/grunt-peao)
 
 
 ##### Dicas
