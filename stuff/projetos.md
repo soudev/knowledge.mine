@@ -79,15 +79,27 @@
 
 ## Integração Contínua
 
-* [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
+* [Jenkins CI](http://jenkins-ci.org/)
 
-* [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
+  * [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
 
-* [[SlideShare] Automating PhoneGap Build](http://www.slideshare.net/coldfumonkeh/automating-phonegap-build)
+  * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
 
-* [[YouTube] Mac Mini and Jenkins as a Phonegap Build Server](https://www.youtube.com/watch?&v=tcRXB3n-5qE)
+  * [[SlideShare] Automating PhoneGap Build](http://www.slideshare.net/coldfumonkeh/automating-phonegap-build)
 
-* [[GitHub] Medic - Continuous integration setup for Apache Cordova](https://github.com/filmaj/medic)
+  * [[YouTube] Mac Mini and Jenkins as a Phonegap Build Server](https://www.youtube.com/watch?&v=tcRXB3n-5qE)
+
+  * [[GitHub] Medic - Continuous integration setup for Apache Cordova](https://github.com/filmaj/medic)
+
+--
+
+* [Travis CI](https://travis-ci.org/)
+
+  * [Docs | Travis CI](http://about.travis-ci.org/docs/)
+
+--
+
+* [Capistrano](http://www.capistranorb.com) - A remote server automation and deployment tool written in Ruby.
 
 
 ### iMasters
