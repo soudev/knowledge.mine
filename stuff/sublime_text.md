@@ -28,6 +28,8 @@
 
 * [Sublime Text Keyboard Shortcut Cheat Sheet | Sweetmeat](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/)
 
+* [10 keyboard shortcuts to become a true Sublime Text ninja | Marcel Kalveram](http://www.marcelkalveram.com/2013/11/10-shortcuts-to-become-a-true-sublime-text-ninja/)
+
 --
 
 * [Perfect Workflow in Sublime Text: Free Course! | Nettuts+](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
