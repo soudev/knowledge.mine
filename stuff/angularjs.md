@@ -640,6 +640,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [The Hitchhiker's Guide to the Directive | codef0rmer](http://amitgharat.wordpress.com/2013/06/08/the-hitchhikers-guide-to-the-directive/)
 
+* [Don't Fear Directives In Angular.js | Nathan LeClaire](http://nathanleclaire.com/blog/2013/12/07/dont-fear-directives-in-angular-dot-js/)
+
+--
+
 * [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
 
 * [Combining AngularJS with existing Components | henriquat.re](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
