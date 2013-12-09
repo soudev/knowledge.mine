@@ -337,6 +337,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [25 days of Angular - Day 5: Configuration in Angular | ng-newsletter](http://www.ng-newsletter.com/advent2013/#/day/5)
+
+--
+
 * [Logging Client-Side Errors With AngularJS And Stacktrace.js | The Blog Of Ben Nadel](http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm) - Ben Nadel demonstrates how he logs errors in his AngularJS applications using Stacktrace.js, and how he posts the error data to his server
 
 --
@@ -546,6 +550,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] philipsorst / angular-rest-springsecurity](https://github.com/philipsorst/angular-rest-springsecurity) - An example AngularJS Application that uses a Spring Security protected Jersey REST backend based on Hibernate/JPA
 
+--
+
 * [Deal with users authentication in an AngularJS web app](http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
 
 * [Authentication in Single Page Applications with Angular.js - A Modest Proposal](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
@@ -563,6 +569,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
 
 * [Handling Oauth2 with Node.js and Angular.js – Passport to the rescue! | FlashICS](http://www.flashics.com/2013/11/24/handling-oauth2-with-node-js-and-angular-js-passport-to-the-rescue/)
+
+* [Simple Authentication for Angular.js App | Alexander Beletsky](http://beletsky.net/2013/11/simple-authentication-in-angular-dot-js-app.html)
 
 
 ### Mobile
@@ -869,6 +877,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS - Consumindo a API do GitHub](http://blog.erkobridee.com/2012/07/26/angularjs-consumindo-a-api-do-github/) | [Testar App](http://erkobridee.github.io/angularjs-github-info/) | [GitHub Code](https://github.com/erkobridee/angularjs-github-info)
 
+--
 
 * [MEAN Stack](http://mean.io/) - is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
 
@@ -878,6 +887,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[Speaker Deck] Developing MEAN applications](https://speakerdeck.com/voronianski/developing-mean-applications) - Simple overview of modules and other stuff that we've used while building http://likeastore.com using Mongodb, Express.js, Angular.js and Node.js stack.
   
+--
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
 
@@ -888,6 +898,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] DanWahlin / CustomerManagerStandard](https://github.com/DanWahlin/CustomerManagerStandard) - Customer Manager AngularJS/BreezeJS Application.
 
 * [[GitHub] gigablox / angular-art-gallery](https://github.com/gigablox/angular-art-gallery) - Art Gallery application using dynamic API data built with AngularJS
+
+* [[GitHub] konsumer / music_player](https://github.com/konsumer/music_player/) - A simple audio player example that uses Angular 
 
 
 ### Angular-Seed
