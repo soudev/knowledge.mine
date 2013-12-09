@@ -54,6 +54,10 @@
 
 ### Compatibilidade
 
+* [When JavaScript Feature Detection Fails | SitePoint](http://www.sitepoint.com/javascript-feature-detection-fails/)
+
+--
+
 * [Mobile HTML5 - compatibility](http://mobilehtml5.org/)
 
 * [Can I use...?](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
@@ -517,6 +521,8 @@
 #### Physics
 
 * [PhysicsJS](http://wellcaffeinated.net/PhysicsJS/) - A modular, extendable, and easy-to-use physics engine for javascript
+
+  * [Building a 2D Browser Game with PhysicsJS | Flippin' Awesome](http://flippinawesome.org/2013/12/02/building-a-2d-browser-game-with-physicsjs/)
 
 
 #### WebGL
