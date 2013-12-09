@@ -68,10 +68,6 @@
 
 --
 
-* [Entendendo o Event-loop do Node.js | iMasters](http://imasters.com.br/front-end/javascript/entendendo-o-event-loop-do-node-js/)
-
---
-
 * [Teach Yourself Node.JS in 10 Steps | Pony Foo](http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps)
 
 * [7 tips for a Node.js padawan | Tech Talk — Medium](https://medium.com/tech-talk/e7c0b0e5ce3c) - Node.js development is extremely fun and satisfying. There are over 35k modules to choose from, and overall node is very easy to develop a working application that can scale easily
@@ -81,6 +77,8 @@
 * [[SlideShare] Nodejs Explained with Examples](http://www.slideshare.net/gabriele.lana/nodejs-explained-with-examples)
 
 * [Understanding how to create a nodejs package.json | Nodejitsu](http://package.json.nodejitsu.com/) - Package.json: an interactive guide
+
+* [Entendendo o Event-loop do Node.js | iMasters](http://imasters.com.br/front-end/javascript/entendendo-o-event-loop-do-node-js/)
 
 * [Understanding the node.js event loop](http://blog.mixu.net/2011/02/01/understanding-the-node-js-event-loop/)
 
@@ -101,6 +99,8 @@
 * [5 Talks to Learn More About Node.js](http://blog.modulus.io/five-talks-learn-more-nodejs)
 
 * [[YouTube] Node.js Explained](https://www.youtube.com/watch?v=L0pjVcIsU6A)
+
+* [Using Node.s Event Module | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/using-nodes-event-module/)
 
 --
 
@@ -331,6 +331,8 @@
 * [Async - utilities for node and the browser](https://github.com/caolan/async)
 
   * [Node.js async in practice: When to use what? | Sebastian Seilund](http://www.sebastianseilund.com/nodejs-async-in-practice)
+
+  * [[GitHub] scottcorgan / series](https://github.com/scottcorgan/series) - Compose a series of chainable async methods
 
 * [Cyclop - Stupid simple control flow library](https://github.com/vesln/cyclop)
 
@@ -655,6 +657,10 @@
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
+
+--
+
+* [[GitHub] mcavage / node-ldapjs](https://github.com/mcavage/node-ldapjs) - LDAP Client and Server API for node.js
 
 
 ### Nuvem
