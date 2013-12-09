@@ -572,6 +572,10 @@
 
 * [How to create a private npm.js repository | Clock Blog](http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository)
 
+* [A private NPM cache | Yammer Engineering](http://eng.yammer.com/a-private-npm-cache/)
+
+* [[GitHub] mixu / npm_lazy](https://github.com/mixu/npm_lazy) - A lazy local cache for NPM to make your local deploys faster
+
 --
 
 * [[GitHub] deoxxa / npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
