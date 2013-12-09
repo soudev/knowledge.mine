@@ -271,6 +271,14 @@
 
 * [Filtering Arrays with Array#filter | Design Pepper](http://designpepper.com/blog/drips/filtering-arrays-with-array-filter)
 
+* [Fun with Native Arrays | Pony Foo](http://blog.ponyfoo.com/2013/11/19/fun-with-native-arrays)
+
+--
+
+* [A Spreadsheet in 295 bytes of JavaScript](http://aem1k.com/sheet/)
+
+* [[JSFiddle] Tiny Excel-like app in vanilla JS](http://jsfiddle.net/ondras/hYfN3/)
+
 --
 
 * [Using Underscore/Lo-Dash and stopping reinvent the wheel | 4waisenkinder](http://4waisenkinder.de/blog/2013/10/12/you-use-underscore-slash-lo-dash/) | [underscore](http://underscorejs.org/) / [lo-dash](http://lodash.com/)
@@ -453,6 +461,8 @@
 
   * [[Gist] When JSLint hurts your feelings, hug it out with Doug](https://gist.github.com/textarcana/1745829) 
 
+  * [[GitHub] sindresorhus / jshint-stylish](https://github.com/sindresorhus/jshint-stylish) - Stylish reporter for JSHint
+
 * [JSLint](http://www.jslint.com/)
 
 
@@ -600,6 +610,10 @@
 --
 
 * [[GitHub] lorenzoongithub / completely](https://github.com/lorenzoongithub/completely/) - A fresh take on autocompletion for a wonderful user experience
+
+--
+
+* [[GitHub] marcoscaceres / jsi18n](https://github.com/marcoscaceres/jsi18n) | [site](http://marcoscaceres.github.io/jsi18n/) - Using the JavaScript Internationalization API
 
 --
 
