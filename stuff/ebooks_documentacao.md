@@ -1,5 +1,9 @@
 # eBooks e Documentação 
 
+* [Free Mathematics Books](http://www.e-booksdirectory.com/mathematics.php) - list of freely available math textbooks, monographs, lecture notes, and other documents.
+
+--
+
 * [Code.org - Anybody can learn code](http://code.org)
   
   * [learn | Code.org](http://learn.code.org)
@@ -43,6 +47,8 @@
 * [bento](http://www.bentobox.io/) - Everything you need to know about web development. Neatly packaged.
 
 * [Being A Web Developer - Front end standards](http://www.yellowshoe.com.au/standards/) - This little book is to aid a shared understanding of front-end development best practice
+
+* [Mozilla Webmaker](https://webmaker.org/) - We're a global community dedicated to teaching digital skills and web literacy. We explore, tinker and create together to build a web that's open and made by everyone.
 
 --
 
