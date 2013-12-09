@@ -147,7 +147,9 @@
 
 * [JustGage](http://justgage.com/) is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges
 
-* [Criando gráficos Gauge com Javascript puro](http://jsfiddle.net/igorcosta/cwkbf/) - by [@IgorCosta](https://twitter.com/igorcosta)
+* [Criando gráficos do zero com Canvas e Javascript | Igor Costa](http://www.igorcosta.com/criando-graficos-zero-com-canvas-e-javascript/)
+
+  * [Criando gráficos Gauge com Javascript puro](http://jsfiddle.net/igorcosta/cwkbf/) - by [@IgorCosta](https://twitter.com/igorcosta)
 
 * [Flot - Attractive JavaScript plotting for jQuery](http://www.flotcharts.org) - exemplo de uso [ACME Dashboard - Admin Template](http://wrapbootstrap.com/preview/WB0JLR295)
 
