@@ -125,6 +125,8 @@
 
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
 
+* [Exploring canvas drawing techniques | Perfection kills](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
+
 * [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
 
 * [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
