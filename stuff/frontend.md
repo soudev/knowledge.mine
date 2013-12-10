@@ -130,9 +130,11 @@
 
 * [SVGeneration : create gorgeous SVG backgrounds](http://www.svgeneration.com/)
 
+* [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
+
 * [Animated line drawing in SVG | JakeArchibald.com](http://jakearchibald.com/2013/animated-line-drawing-svg/)
 
-* [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
+* [Animated SVGs: Custom easing and timing | oak.is](http://oak.is/thinking/animated-svgs/)
 
 * [Art-Directed Adaptive Images With SVG and JavaScript | demosthenes.info](http://demosthenes.info/blog/722/Art-Directed-Adaptive-Images-With-SVG-and-JavaScript)
 
