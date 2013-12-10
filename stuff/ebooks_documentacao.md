@@ -125,3 +125,24 @@
 
 * [Mapas, linhas do tempo e infográficos | iMasters](http://imasters.com.br/midia-e-marketing-digital/conteudo-digital/mapas-linhas-do-tempo-e-infograficos-5-ferramentas-para-ilustrar-suas-materias-com-visualizacoes-interativas/) - 5 ferramentas para ilustrar suas matérias com visualizações interativas
 
+
+## Criptografia
+
+* [The RSA public key cryptographic system](http://www.iusmentis.com/technology/encryption/rsa/)
+
+  * [Create a public/private key pair | Xero Developer](http://developer.xero.com/documentation/advanced-docs/public-private-keypair/)
+
+  * [how to generate RSA public/private key using openssl | aneeskA](http://aneeska.com/2009/07/30/how-to-generate-rsa-publicprivate-key-using-openssl/)
+
+--
+
+* [Encrypting files with Public Key Encryption in Java](http://www.macs.hw.ac.uk/~ml355/lore/pkencryption.htm)
+
+* [Setting up an end-to-end encrypted transcoding pipeline | Zencoder Cloud Encoding Blog](http://blog.zencoder.com/2013/11/01/setting-up-an-end-to-end-encrypted-transcoding-pipeline/)
+
+
+### OpenSSL
+
+* [Setting up OpenSSL to Create Certificates | Flat Mountain](http://www.flatmtn.com/article/setting-openssl-create-certificates)
+
+

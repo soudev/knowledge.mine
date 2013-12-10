@@ -679,6 +679,8 @@
 
 * [OpenPGP.js](http://openpgpjs.org/) - JavaScript implementation
 
+* [[GitHub] kjur / jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation, ASN.1, PKCS#1/5/8 private/public key, X.509 certificate and CRL in pure JavaScript.
+
 
 #### Steganography
 
