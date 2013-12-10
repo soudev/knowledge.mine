@@ -230,7 +230,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [CoffeeScript and AngularJS | Alexander Hill](http://alxhill.com/blog/articles/angular-coffeescript/)
 
 
-### ng-newsletter : AngularJS from beginner to expert in 7 steps series
+### ng-newsletter 
+
+* [25 days of AngularJS Calendar | 2013](http://www.ng-newsletter.com/advent2013) - The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
+
+#### AngularJS from beginner to expert in 7 steps series
 
 * [Part 1: How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
 
@@ -334,10 +338,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [AngularJS: Clearing a few confusion points | Next Big Thing](http://blog.nebithi.com/angularjs-clearing-a-few-confusion-points/)
-
---
-
-* [25 days of Angular - Day 5: Configuration in Angular | ng-newsletter](http://www.ng-newsletter.com/advent2013/#/day/5)
 
 --
 
