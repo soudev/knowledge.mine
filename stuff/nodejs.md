@@ -460,12 +460,6 @@
 
 --
 
-* [[GitHub] kenshiro-o / login-utils](https://github.com/kenshiro-o/login-utils) - Simple authentication library
-
-* [[GitHub] dilvie / credential](https://github.com/dilvie/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
-
---
-
 * [[GitHub] LearnBoost / kue](https://github.com/learnboost/kue) - Kue is a priority job queue backed by redis, built for node.js.
 
 * [[GitHub] eviltik / evilscan](https://github.com/eviltik/evilscan) - Massive ip/ports scanner (nodejs)
@@ -491,16 +485,6 @@
 * [[GitHub] Sendanor / nor-fs](https://github.com/Sendanor/nor-fs) - chainable asynchronous file system library for Node.js
 
 * [[GitHub] vesln / fine](https://github.com/vesln/fine) - Tiny, recursive and synchronous file finder utility
-
---
-
-* [Full HTTPS REST server in Node.js | Bogomil Shopov](http://talkweb.eu/full-https-rest-server-in-node-js/)
-
-* [[GitHub] imrefazekas / connect-rest](https://github.com/imrefazekas/connect-rest) - Exceptionally featureful Restful web services middleware for connect node.js
-
-* [[GitHub] mcavage / node-restify](https://github.com/mcavage/node-restify) - node.js REST framework specifically meant for web service APIs
-
-  * [Day 27: Restify - Build Correct REST Web Services in Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/day-27-restify-build-correct-rest-web-services-in-nodejs)
 
 --
 
@@ -541,6 +525,28 @@
   * [Using Node.js for Static Sites: Jade | StrongLoop](http://strongloop.com/strongblog/using-node-js-for-static-sites-jade/)
 
   * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
+
+
+### REST
+
+* [Full HTTPS REST server in Node.js | Bogomil Shopov](http://talkweb.eu/full-https-rest-server-in-node-js/)
+
+* [[GitHub] imrefazekas / connect-rest](https://github.com/imrefazekas/connect-rest) - Exceptionally featureful Restful web services middleware for connect node.js
+
+* [[GitHub] mcavage / node-restify](https://github.com/mcavage/node-restify) - node.js REST framework specifically meant for web service APIs
+
+  * [Day 27: Restify - Build Correct REST Web Services in Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/day-27-restify-build-correct-rest-web-services-in-nodejs)
+
+* [[GitHub] Mashape / unirest-nodejs](https://github.com/mashape/unirest-nodejs) - Node.js Unirest library built on-top of request and modeled after superagent.
+
+
+### Authentication
+
+* [[GitHub] kenshiro-o / login-utils](https://github.com/kenshiro-o/login-utils) - Simple authentication library
+
+* [[GitHub] dilvie / credential](https://github.com/dilvie/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
+
+* [[GitHub] Mashape / guardian](ape/guardian) - Authentication Proxy Server, instead of dealing with providers now you can authenticate against any service with a simple json data-structure and plugin architecture.
 
 
 ### modulo
@@ -603,6 +609,8 @@
 * [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
 
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
+
+  * [[Gist] using `npm run` to build and watch with less and browserify](https://gist.github.com/substack/7819530)
 
 --
 
@@ -692,6 +700,12 @@
 
 * [Node.js on Windows Azure](http://www.windowsazure.com/en-us/develop/nodejs/) - Get the tools, documentation, sample code and other resources you need to build powerful Node.js applications on Windows Azure.
 
+
+### Mobile
+
+#### iOS
+
+* [Node.app](http://nodeapp.org/) - Node.js for iOS
 
 
 ### Desktop
@@ -810,6 +824,9 @@
 
   * [Node.js support in Visual Studio? You bet your IDE | StrongLoop](http://strongloop.com/strongblog/node-js-support-in-visual-studio-you-bet-your-ide/)
 
+* Eclipse IDE
+
+  * [Nodelipse](http://www.nodeclipse.org/) | [Sourceforge](http://sourceforge.net/projects/nodeclipse/)
 
 * JetBrains
 
