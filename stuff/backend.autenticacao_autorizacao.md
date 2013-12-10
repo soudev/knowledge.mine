@@ -8,6 +8,8 @@
 
 * [JAX-RS: OAuth2 | Apache CXF](https://cxf.apache.org/docs/jax-rs-oauth2.html)
 
+* [The OAuth Bible](http://oauthbible.com)
+
 
 ## SAML
 
