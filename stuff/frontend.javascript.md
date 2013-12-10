@@ -551,6 +551,8 @@
 
 * [SpeakingURL](http://pid.github.io/speakingurl/) - Generate a SpeakingURL/slug for browser & server
 
+* [[GitHub] medialize / URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
+
 * [[GitHub] loadfive / Knwl.js](https://github.com/loadfive/knwl.js) - Scan through text for data that may be of interest
 
 --
