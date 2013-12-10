@@ -81,6 +81,11 @@
 * [tablecloth.js](http://tableclothjs.com/) - Making HTML Tables Suck Less
 
 
+### PDF Viewer
+
+* [[GitHub] mozilla / pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+
+
 ### JQuery
 
 * [JQuery UI site](http://jqueryui.com/)
@@ -202,6 +207,10 @@
 
 
 #### D3.js
+
+* [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
+
+---
 
 * [D3.js is a JavaScript library for manipulating documents based on data](http://d3js.org/) Para construção de representações gráficas
 
