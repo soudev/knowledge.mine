@@ -81,3 +81,6 @@
 
 * [Dimensions](https://chrome.google.com/webstore/detail/dimensions/hdmihohhdcbejdkidbfijmfehjbnmifk?utm_source=chrome-ntp-launcher) - (Google Chrome) Dimensions is a responsive web design testing tool. It is the easiest way to test responsive websites at different viewports. It works offline & is compatible with LiveReload. 
 
+### Teste
+
+* [Galen Framework](http://galenframework.com) - Automated Testing of Responsive Design
