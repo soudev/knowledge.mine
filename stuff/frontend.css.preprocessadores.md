@@ -47,6 +47,8 @@
 
 * [Getting Started with Stylus – CSS Pre-Processor](http://bootstrap.pk/tutorials/getting-started-with-stylus-css-pre-processor/)
 
+* [Getting Started with Stylus | Treehouse Blog](http://blog.teamtreehouse.com/getting-started-stylus)
+
 * [stylus: Expressive, robust, feature-rich CSS language built for Node.js](http://thechangelog.com/post/3036532096/stylus-expressive-robust-feature-rich-css-language)
 
 * [Stylus, the Revolutionary Successor to CSS](http://nylira.com/stylus-the-revolutionary-successor-to-css/)
