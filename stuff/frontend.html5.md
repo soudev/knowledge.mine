@@ -161,7 +161,11 @@
   
 * [[codepen.io] Spirograph in HTML 5](http://codepen.io/cwolves/pen/gykbc)
 
+--
+
 * [Introduction to WebSockets | Tech.Pro](http://tech.pro/tutorial/1167/introduction-to-websockets)
+
+* [Configuring & Optimizing WebSocket Compression | igvita.com](http://www.igvita.com/2013/11/27/configuring-and-optimizing-websocket-compression/)
 
 --
 
@@ -547,6 +551,14 @@
 * [EndGate](http://endgate.net/) - a game framework to build powerful HTML5 games
 
 * [Senshi | Zolmeister](http://www.zolmeister.com/2013/09/senshi-mmo-battle-royale-inspired-html5.html) - an open source MMO Battle-Royale inspired HTML5 game
+
+* [Goo](http://www.gootechnologies.com/)
+
+  * [[Vimeo] Creating a Goon in Goo Create](http://vimeo.com/77723187)
+
+  * [Goo Engine](http://www.gootechnologies.com/products/engine/)
+
+  * [Goo Create](http://www.gootechnologies.com/products/create/)
 
 
 ##### Game Engine
