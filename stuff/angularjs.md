@@ -367,6 +367,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [D3.js on AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/d3-on-angular.html) | [[GitHub] EpiphanyMachine / d3AngularIntegration](https://github.com/EpiphanyMachine/d3AngularIntegration) - A tutorial about the integration of d3 and Angular Directives
 
+* [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
+
 * [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example. (Require.js)
@@ -602,6 +604,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] calvinl / ng-phonegap](https://github.com/calvinl/ng-phonegap) - Grunt workflow for building AngularJS applications on PhoneGap
 
+* [[GitHub] dsimard / grunt-angular-phonegap](https://github.com/dsimard/grunt-angular-phonegap) - Combine yeoman/generator-angular and phonegap
+
 --
 
 * [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly.
@@ -802,6 +806,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] eu81273 / angular.treeview](https://github.com/eu81273/angular.treeview) - AngularJS based Treeview (no jQuery)
 
 * [[GitHub] marcorinck / angular-growl](https://github.com/marcorinck/angular-growl) - growl-like notifications for angularJS projects
+
+* [[GitHub] akoenig / angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS
 
 --
 
