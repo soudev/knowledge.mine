@@ -148,6 +148,8 @@
 
 * [[GitHub] vigetlabs / grunt-complexity](https://github.com/vigetlabs/grunt-complexity) - A JavaScript complexity analysis grunt task
 
+* [[GitHub] ActivearkJWT / grunt-size-report](https://github.com/ActivearkJWT/grunt-size-report) - Genrate size report of your project
+
 --
 
 * [[GitHub] astronaughts / grunt-play](https://github.com/astronaughts/grunt-play) - play sound with grunt
