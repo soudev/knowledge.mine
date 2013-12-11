@@ -70,3 +70,7 @@
 
 * [[GitHub] nemtsov / json-mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting specific parts of a JS object, hiding the rest
 
+--
+
+* [[GitHub] typicode / json-server](https://github.com/typicode/json-server) - API mocking based on plain JSON
+
