@@ -670,6 +670,10 @@
 
 --
 
+* [LevelDB and Node.js Sitting in a Tree](http://r.va.gg/presentations/node.ninjas)
+
+--
+
 * [[GitHub] mcavage / node-ldapjs](https://github.com/mcavage/node-ldapjs) - LDAP Client and Server API for node.js
 
 
