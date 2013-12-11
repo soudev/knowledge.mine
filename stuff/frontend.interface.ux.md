@@ -38,6 +38,8 @@
 
 --
 
+* [Designing Products That Scale | Medium](https://medium.com/p/c8f3001f709b)
+
 * [Creative UI Design Examples for Great UX](http://www.awwwards.com/creative-ui-design-examples-for-great-ux.html)
 
 * [Quando usar o scroll infinito?](http://blog.alexandremagno.net/2013/03/quando-usar-o-scroll-infinito/)
