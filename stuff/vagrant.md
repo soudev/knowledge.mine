@@ -34,6 +34,8 @@
 
 * [Usando Vagrant como ambiente de desenvolvimento Ruby | RubyConf Brasil 2013](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
 
+* [Building a Data Platform in 15 Minutes with ArangoDB and Foxx | thinking_on thinking](http://thinkingonthinking.com/A-Data-Platform-in-15-minutes/)
+
 --
 
 * GrokPodcast
