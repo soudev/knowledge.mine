@@ -883,6 +883,8 @@
 
 * [Contrasting Backbone and Angular | Victor Savkin on Software Architecture & Design](http://victorsavkin.com/post/65519559752/contrasting-backbone-and-angular)
 
+* [Contrasting Backbone and Angular | InfoQ](http://www.infoq.com/articles/backbone-vs-angular)
+
 --
 
 * [[GitHub] mattbaker / Reactive.js](https://github.com/mattbaker/Reactive.js) - A library for programming reactively in Javascript.
