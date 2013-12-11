@@ -38,6 +38,7 @@
 
     * [Web Tracing framework do Google ajuda você se livrar do código porco | Igor Costa](http://www.igorcosta.com/web-tracing-framework-do-google-codigo-porco/)
 
+
 ### Rendering
 
 * [Solving rendering performance puzzles | JakeArchibald](http://jakearchibald.com/2013/solving-rendering-perf-puzzles/)
@@ -54,6 +55,10 @@
 * [Cloudflare’s CDNJS vs. Google Hosted Libraries – SHOCKING Results](http://www.baldnerd.com/make-your-site-faster-cloudflares-cdnjs-vs-google-hosted-libraries-shocking-results/)
 
 * [Schemeless URLs](http://log4dev.com/2013/06/14/schemeless-urls/) - recurso utilizado por alguns CDNs como Google por exemplo.
+
+--
+
+* [Small things add up | Chris Hates Writing](http://chrishateswriting.com/post/68794699432/small-things-add-up) - How 4chan is saving 275GB each year and saving its users 46TB each *month* with one weird trick! (Well, two.) 
 
 
 #### Fallback
