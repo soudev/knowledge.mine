@@ -74,3 +74,5 @@
 
 * [[GitHub] typicode / json-server](https://github.com/typicode/json-server) - API mocking based on plain JSON
 
+* [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - A fake online REST API for testing and prototyping
+
