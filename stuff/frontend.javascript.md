@@ -171,6 +171,7 @@
 
 * [Scalable JavaScript Design Patterns](http://www.addyosmani.com/scalablejs/)
 
+* [Modularização em JavaScript | Tableless](http://tableless.com.br/modularizacao-em-javascript/) - Componentes e módulos nunca foram tão mencionados como ultimamente. Ambos são conceitos antigos que devemos entender e passar a adotar o quanto antes. Quem sabe você possa repensar o seu JavaScript hoje mesmo?
 
 --
 
