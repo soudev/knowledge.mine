@@ -190,6 +190,12 @@
 
 --
 
+* [NodeBB](https://nodebb.com/) - Forums, re-designed from the ground up to take advantage of the latest web technologies. Modern forums for the modern web.
+
+  * [In the Loop: NodeBB, Using Node.js to Become the Discussion Platform of the Future | StrongLoop](http://strongloop.com/strongblog/in-the-loop-nodebb-using-node-js-to-become-the-discussion-platform-of-the-future/)
+
+--
+
 * [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript. 
 
   * [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
