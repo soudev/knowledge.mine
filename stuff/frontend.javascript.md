@@ -265,6 +265,10 @@
 
 --
 
+* [Exploring the Abyss of Null and Undefined in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/12/09/exploring-the-abyss-of-null-and-undefined-in-javascript/)
+
+--
+
 * [Searching with Array.prototype.some](http://ariya.ofilabs.com/2013/08/searching-with-array-prototype-some.html) - ECMAScript 5.1
 
 * [How to remove an element from an array | Simone Web Design](http://simonewebdesign.it/blog/how-to-remove-element-from-array/)
@@ -302,10 +306,6 @@
 --
 
 * [Getting input from the keyboard using JavaScript | ANTONOFF](http://www.antonoffplus.com/getting-input-from-the-keyboard-using-javascript/)
-
---
-
-* [[JSFIDDLE] Tiny Excel-like app in less that 30 lines of JavaScript](http://jsfiddle.net/ondras/hYfN3/)
 
 
 ### Expressões Regulares
@@ -719,7 +719,13 @@
 
 * [[GitHub] paulirish / break-on-access](https://github.com/paulirish/break-on-access) - break on access to a property
 
+--
+
 * [Console e Command Line API | Loop Infinito](http://loopinfinito.com.br/2013/03/13/console-command-line-api/)
+
+* [Ways to Remove Those Pesky console.log Statements | Elijah Manor](http://www.elijahmanor.com/grunt-away-those-pesky-console-log-statements/)
+
+--
 
 * [Getting a Head Start with Front End Generators | Flippin' Awesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
 
