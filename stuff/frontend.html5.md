@@ -251,6 +251,10 @@
 
 --
 
+* [Criando um Game Loop em HTML5 | iMasters](http://imasters.com.br/front-end/javascript/criando-um-game-loop-em-html5/)
+
+--
+
 * [HTML5 Game Development | Eric Terpstra](http://slides.ericterpstra.com/html5games) - A presentation on getting started creating games on the web.
 
 * [Getting Started With HTML5 Game Development | Mozilla Hacks](https://hacks.mozilla.org/2013/09/getting-started-with-html5-game-development/)
