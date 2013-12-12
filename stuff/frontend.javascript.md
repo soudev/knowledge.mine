@@ -415,6 +415,11 @@
 * [Mantri](http://mantrijs.com/) - JavaScript Dependency System
 
 
+* [[GitHub] jspm / jspm-loader](https://github.com/jspm/jspm-loader) - AMD, CJS & ES6 spec-compliant module loader
+
+    * [jspm.io](http://jspm.io/) - Frictionless Browser Package Management
+
+
 * [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way | [site: browserify](http://browserify.org/)
 
     * [Introduction to Browserify | Blake Embrey](http://blakeembrey.com/articles/introduction-to-browserify/)
