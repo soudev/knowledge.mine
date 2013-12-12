@@ -11,6 +11,8 @@
 
 * [Postmon](http://postmon.com.br/) - Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita
 
+  * [Hackeando Códigos Postais | InfoQ BR](http://www.infoq.com/br/presentations/hackeando-codigos-postais)
+
 * [Busca CEP - API de Consulta](http://apps.widenet.com.br/busca-cep/api-de-consulta)
 
 --
