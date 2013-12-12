@@ -221,6 +221,8 @@
 
 * [Live editing WebGL shaders with Firefox Developer Tools | Mozilla Hacks](https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/)
 
+* [WebGL – working with GLSL source files | pheelicks.com](http://www.pheelicks.com/2013/12/webgl-working-with-glsl-source-files/)
+
 
 #### Game
 
