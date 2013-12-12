@@ -34,6 +34,8 @@
 
 * [Microjs](http://microjs.com/) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! | [[GiHub] madrobby / microjs.com](https://github.com/madrobby/microjs.com)
 
+* [JSter](http://jster.net/) - a catalog of JavaScript libraries and tools for web development
+
 --
 
 * [Apostila Desenvolvimento Web com HTML, CSS e JavaScript | Caelum](http://www.caelum.com.br/apostila-html-css-javascript/)
