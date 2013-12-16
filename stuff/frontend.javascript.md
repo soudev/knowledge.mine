@@ -637,6 +637,8 @@
 
 * [[GitHub] rschmukler / human-interval](https://github.com/rschmukler/human-interval) - Human readable time distances for javascript
 
+* [[GitHub] Nijikokun / file-size](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies for node.js & browsers.
+
 --
 
 * [[GitHub] jstayton / version.js](https://github.com/jstayton/version.js) - Test a different script version with the switch of a query string
