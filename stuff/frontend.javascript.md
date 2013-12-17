@@ -841,7 +841,7 @@
 
 * [[YouTube] Conheça o Bower](https://www.youtube.com/watch?v=0XffYRF7-G0)
 
-* [Gerenciando dependências client-side com Bower | Simples Ideias]()
+* [Gerenciando dependências client-side com Bower | Simples Ideias](http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bower)
 
 * [Client-Side Dependency Management With Bower | TysonJS](http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower)
 
