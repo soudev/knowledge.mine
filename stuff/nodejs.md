@@ -327,6 +327,10 @@
 * [[GitHub] pablodenadai / GameOn](https://github.com/pablodenadai/GameOn) - responsive front-end webapp built on NodeJS and Angular
 
   * [GameOn](http://gameon.jit.su/) - connects you with the players in your city and allows you to find, organize and share games effortlessly.
+
+--
+
+* [[GitHub] NetEase / pomelo](https://github.com/NetEase/pomelo) - A fast, scalable, distributed game server framework for Node.js
   
 
 ### Boilerplate
@@ -555,6 +559,8 @@
 
 
 ### Authentication
+
+* [Express.js Basic Authentication with Encryption | Nodewiz.biz](http://www.nodewiz.biz/expressjs-basic-authentication/)
 
 * [Easy Node Authentication: Setup and Local | Scotch](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local)
 
