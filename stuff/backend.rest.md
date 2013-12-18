@@ -68,6 +68,10 @@
 
 * [Designing REST + JSON APIs | Stormpath](https://www.stormpath.com/blog/designing-rest-json-apis)
 
+* [Cinco passos essenciais para uma API de sucesso | iMasters](http://imasters.com.br/apis/cinco-passos-essenciais-para-uma-api-de-sucesso/)
+
+--
+
 * [Introducing: Restful Objects](http://www.infoq.com/articles/Intro_Restful_Objects)
 
 * [Restful Objects Specification](http://restfulobjects.org/) [github](https://github.com/danhaywood/restfulobjects-spec)
