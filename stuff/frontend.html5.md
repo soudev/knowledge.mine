@@ -545,6 +545,8 @@
 
   * [The Beginner's Guide to three.js | Treehouse Blog](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
 
+  * [How to build a game with Three.js | Creative Bloq](http://www.creativebloq.com/3d/how-build-game-threejs-121310131)  
+
 * [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
 
 * [Voodoo](http://www.voodoojs.com/) - is a new Javascript framework that lets you easily mix 2D and 3D content together on the same page.
@@ -592,6 +594,8 @@
 * [[GitHub] beakable / isometric](https://github.com/beakable/isometric) - HTML5 Canvas Isometric Engine
 
 * [[GitHub] suffick / Clarity](https://github.com/suffick/Clarity) - A simple, customisable and scriptable platform game engine. [Demo](http://codepen.io/suffick/details/CqIxk)
+
+* [[GitHub] melonjs / melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
 
 
 ### Desenvolvimento de Aplicações
