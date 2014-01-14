@@ -341,6 +341,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: Clearing a few confusion points | Next Big Thing](http://blog.nebithi.com/angularjs-clearing-a-few-confusion-points/)
 
+* [4 Smooth AngularJS Application Tips | Nathan Leclaire](http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
+
 --
 
 * [Logging Client-Side Errors With AngularJS And Stacktrace.js | The Blog Of Ben Nadel](http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm) - Ben Nadel demonstrates how he logs errors in his AngularJS applications using Stacktrace.js, and how he posts the error data to his server
@@ -382,6 +384,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Form validation with AngularJS](http://www.ng-newsletter.com/posts/validations.html)
 
 * [[SlideShare] Forms in AngularJS](http://www.slideshare.net/EyalV/forms-in-angularjs)
+
+* [AngularJS Form Validation | Scotch](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 
 * [Random tricks when using AngularJS](http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/) 
 
@@ -575,6 +579,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Handling Oauth2 with Node.js and Angular.js – Passport to the rescue! | FlashICS](http://www.flashics.com/2013/11/24/handling-oauth2-with-node-js-and-angular-js-passport-to-the-rescue/)
 
 * [Simple Authentication for Angular.js App | Alexander Beletsky](http://beletsky.net/2013/11/simple-authentication-in-angular-dot-js-app.html)
+
+* [Authentication in Single Page Applications | VickeV.com](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs) - Authentication in Single Page Applications (Node.js, PassportJS, AngularJS)
 
 
 ### Mobile
