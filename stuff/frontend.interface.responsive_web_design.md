@@ -46,6 +46,8 @@
   
   * [[GitHub] webpro / responsive-web-apps](https://github.com/webpro/responsive-web-apps) - Building Responsive & Hybrid Web Applications
 
+* [How to create a resizing menu bar | Webdesigner Depot](http://www.webdesignerdepot.com/2013/03/how-to-create-a-resizing-menu-bar/)
+
 * [Responsive Retina-Ready Menu | Codrops](http://tympanus.net/codrops/2013/05/08/responsive-retina-ready-menu/)
 
 * [Blueprint: Responsive Icon Grid | Codrops](http://tympanus.net/codrops/2013/07/01/responsive-icon-grid/)
