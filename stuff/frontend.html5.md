@@ -769,6 +769,7 @@
 
 * [Create HTML5 Desktop Apps & Games - Developers | Pokki](https://developers.pokki.com/)
 
+* [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
 
 
 #### Desktop & Mobile
