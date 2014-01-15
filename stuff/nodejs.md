@@ -332,6 +332,8 @@
 
 * [[GitHub] NetEase / pomelo](https://github.com/NetEase/pomelo) - A fast, scalable, distributed game server framework for Node.js
   
+* [[GitHub] webpro / release-it](https://github.com/webpro/release-it) - Interactive release tool for Git repositories. Supports to build and release to a distribution/component repository. Publish to npm.
+
 
 ### Boilerplate
 
