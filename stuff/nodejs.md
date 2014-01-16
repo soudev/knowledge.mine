@@ -334,6 +334,8 @@
   
 * [[GitHub] webpro / release-it](https://github.com/webpro/release-it) - Interactive release tool for Git repositories. Supports to build and release to a distribution/component repository. Publish to npm.
 
+* [[GitHub] mdevils / node-jscs](https://github.com/mdevils/node-jscs) - JavaScript Code Style checker
+
 
 ### Boilerplate
 
@@ -418,11 +420,17 @@
 
 * [Scaling Node.js Applications](http://cjihrig.com/blog/scaling-node-js-applications/)
 
+--
+
 * [Production Node.js Secrets](http://dshaw.github.com/2012-05-jsday/)
 
 * Hardening Node.js for production [part 1](http://blog.argteam.com/coding/hardening-nodejs-production-process-supervisor/) | [part 2](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/) | [part 3](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
 
 * [Check out our new nodejs dev & production practices library for details on designing, deploying & debugging Node.js | Joyent](https://www.joyent.com/developers/node)
+
+* [Como configurar um servidor node.js para produção | morethings.io](http://morethings.io/javascript/node/como-configurar-um-servidor-nodejs-para-producao/)
+
+--
 
 * [Testing Tuesday #20: Continuous Deployment for node.js applications | CodeShip Blog](http://blog.codeship.io/2013/08/27/testing-tuesday-20-continuous-deployment-for-node-js-applications.html)
 
