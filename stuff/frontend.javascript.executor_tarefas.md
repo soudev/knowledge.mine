@@ -73,6 +73,8 @@
 
 --
 
+* [[GitHub] bazevedo / grunt-workflow](https://github.com/bazevedo/grunt-workflow) - dicas para um workflow com grunt
+
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
 
 * [Grunt.js takes your workflow to the next level | Adnane Belmadiaf](http://daker.me/2013/06/gruntjs-takes-your-workflow-to-the-next-level.html)
