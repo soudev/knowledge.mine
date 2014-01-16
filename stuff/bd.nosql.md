@@ -105,6 +105,9 @@
 
 * [Graph Databases, published by O'Reilly Media](http://graphdatabases.com/)
 
+* [GraphBD Series: Modelagem de grafos | iMasters](http://imasters.com.br/banco-de-dados/graphbd-series-modelagem-de-grafos/)
+
+
 ## Neo4j
 
 * [Neo4j](http://www.neo4j.org/) | [Aprender](http://www.neo4j.org/learn) | [Desenvolver](http://www.neo4j.org/develop)
