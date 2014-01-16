@@ -572,6 +572,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: Send auth token with every request](http://nils-blum-oeste.net/angularjs-send-auth-token-with-every--request/)
 
+* [Cookies vs Tokens. Getting auth right with Angular.JS | Auth0](http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
+
 * [Authentication in AngularJS (or similar) based application](http://www.espeo.pl/2012/02/26/authentication-in-angularjs-application)
 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
