@@ -75,6 +75,13 @@
 * [#19: Testing node.js applications with Jasmine](http://blog.codeship.io/2013/08/20/testing-tuesday-19-how-to-test-node-js-applications-with-jasmine.html)
 
 
+#### Protractor
+
+* [[GitHub] angular / protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
+
+* [Practical End-to-End Testing with Protractor | ng-newsletter](http://www.ng-newsletter.com/posts/practical-protractor.html)
+
+
 #### Karma
 
 * [Karma](http://karma-runner.github.com/0.8/index.html) - Spectacular Test Runner for JavaScript
