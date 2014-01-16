@@ -6,6 +6,8 @@
 
 * [Standard ECMA-404](http://www.ecma-international.org/publications/standards/Ecma-404.htm) - The JSON Data Interchange Format (October 2013)
 
+* [Understanding JSON Schema](http://spacetelescope.github.io/understanding-json-schema/index.html)
+
 * [JSON - De gambiarra a padrão | Loop Infinito](http://loopinfinito.com.br/2013/06/18/json-de-gambiarra-a-padrao/)
 
 * [JSON e JSONP - Parte 1 | iMasters](http://imasters.com.br/artigo/21303/javascript/json-e-jsonp-parte-1)
