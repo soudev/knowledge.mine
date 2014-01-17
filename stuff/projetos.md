@@ -72,6 +72,8 @@
 
 * [Por que a nuvem irá acabar com soluções "Enterprise"](http://www.infoq.com/br/presentations/nuvem-ira-acabar-solucoes-enterprise) - O surgimento do Cloud Computing está levando a profundas mudanças nas práticas de desenvolvimento e na arquitetura de aplicações. As soluções Enterprise tradicionais se tornam pouco efetivas nesse contexto. Como as soluções Enterprise estão desaparecendo e por quê? Qual o novo modelo para as arquiteturas agora e para o futuro? São essas e outras questões que vamos analisar nessa palestra.
 
+* [Escalando o pé de feijão: estratégias open source para automação na nuvem](http://www.infoq.com/br/presentations/estrategias-open-source-automacao-nuvem) - Explorando estratégias que aproveitam a versatilidade dos ambientes de cloud para automatizar atividades de alta complexidade. Partindo de ferramentas open source como Jenkins e Chef, veremos como automatizar atividades para reduzir a dependência de provedores de infra e plataformas, melhorar ambientes, e implementar processos de deployment e delivery contínuos cada vez mais sofisticados.
+
 -- 
 
 * [Fuja da Escravidão, antes que ela te alcance](http://www.infoq.com/br/presentations/devinrio-vinicius-teles) - Vinícius Teles nos fala a respeito da realidade de muitos trabalhadores que possuem vidas estáveis, porém repletas de frustrações advindas de suas rotinas e carreiras aparentemente seguras. Vinícius trata do empreendedorismo, com dicas para profissionais de tecnologia que buscam atingir não apenas a estabilidade financeira, mas também a plena satisfação profissional e pessoal.
