@@ -2,6 +2,8 @@
 
 * [Como perder peso (no browser)](http://browserdiet.com/pt/) - O guia definitivo de performance front-end
 
+* [[GitHub] veltman / principles](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
+
 --
 
 * [O que é desenvolvimento FrontEnd? | Tableless](http://tableless.com.br/iniciantes/) - Um guia para iniciantes na área
