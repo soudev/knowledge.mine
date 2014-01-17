@@ -52,6 +52,10 @@
 
 ## InfoQ Br
 
+* [Fuja da Escravidão, antes que ela te alcance](http://www.infoq.com/br/presentations/devinrio-vinicius-teles) - Vinícius Teles nos fala a respeito da realidade de muitos trabalhadores que possuem vidas estáveis, porém repletas de frustrações advindas de suas rotinas e carreiras aparentemente seguras. Vinícius trata do empreendedorismo, com dicas para profissionais de tecnologia que buscam atingir não apenas a estabilidade financeira, mas também a plena satisfação profissional e pessoal.
+
+--
+
 * [Modelagem de Domínio: os 7 maus cheiros de informação](http://www.infoq.com/br/articles/seven-modelling-smells) - A modelagem de domínio é uma poderosa técnica do arsenal dos profissionais de TI. Mas infelizmente algumas questões a tem feito cair em desuso nos últimos anos, especialmente nos círculos ágeis. Dois problemas reais são o tempo muito grande necessário e e propensão à "parálise na análise" . Aqui apresentamos uma abordagem para a modelagem de domínio que buscar tratar esses problemas.
 
 * [Refatorar! Porque ninguém gosta de código que cheira mal](http://www.infoq.com/br/presentations/refatorar-codigo) - Escrever código de qualidade não é fácil. Alterar código legado, é mais complicado ainda. Como enfrentar essas atividades tão recorrentes? Nessa palestra, vemos que assumir a responsabilidade pelo código de seu time, desenvolver de forma orientada a testes, saber identificar "bad smells" de código e conhecer as técnicas de refatoração são essenciais para produzir um código limpo e sustentável.
@@ -73,10 +77,6 @@
 * [Por que a nuvem irá acabar com soluções "Enterprise"](http://www.infoq.com/br/presentations/nuvem-ira-acabar-solucoes-enterprise) - O surgimento do Cloud Computing está levando a profundas mudanças nas práticas de desenvolvimento e na arquitetura de aplicações. As soluções Enterprise tradicionais se tornam pouco efetivas nesse contexto. Como as soluções Enterprise estão desaparecendo e por quê? Qual o novo modelo para as arquiteturas agora e para o futuro? São essas e outras questões que vamos analisar nessa palestra.
 
 * [Escalando o pé de feijão: estratégias open source para automação na nuvem](http://www.infoq.com/br/presentations/estrategias-open-source-automacao-nuvem) - Explorando estratégias que aproveitam a versatilidade dos ambientes de cloud para automatizar atividades de alta complexidade. Partindo de ferramentas open source como Jenkins e Chef, veremos como automatizar atividades para reduzir a dependência de provedores de infra e plataformas, melhorar ambientes, e implementar processos de deployment e delivery contínuos cada vez mais sofisticados.
-
--- 
-
-* [Fuja da Escravidão, antes que ela te alcance](http://www.infoq.com/br/presentations/devinrio-vinicius-teles) - Vinícius Teles nos fala a respeito da realidade de muitos trabalhadores que possuem vidas estáveis, porém repletas de frustrações advindas de suas rotinas e carreiras aparentemente seguras. Vinícius trata do empreendedorismo, com dicas para profissionais de tecnologia que buscam atingir não apenas a estabilidade financeira, mas também a plena satisfação profissional e pessoal.
 
 
 ## Integração Contínua
