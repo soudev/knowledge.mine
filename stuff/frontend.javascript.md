@@ -723,6 +723,8 @@
 
 ### Ferramentas
 
+* [[GitHub] ondras / my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
+
 * [50 Useful JavaScript Tools](http://coding.smashingmagazine.com/2009/02/08/50-extremely-useful-javascript-tools/)
 
 * [Super useful online tools to make JavaScript development easier](http://www.catswhocode.com/blog/super-useful-online-tools-to-make-javascript-development-easier)
