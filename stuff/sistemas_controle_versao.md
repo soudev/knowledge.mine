@@ -321,6 +321,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Syncing a Forked git Repository With a Master Repository´s Changes | Chris Case](https://chriscase.cc/2011/02/syncing-a-forked-git-repository-with-a-master-repositorys-changes/)
 
+* [Manter repositório do Github forkado sincronizado com o original | Da2k Blog](http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
+
 
 ### Colaboração
 
