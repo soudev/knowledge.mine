@@ -4,6 +4,8 @@
 
 * [Python Brasil](http://www.python.org.br/)
 
+* [Por que há tantos Pythons? | toptal](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
+
 
 ## Aprendizado
 
