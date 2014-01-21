@@ -85,6 +85,8 @@
 
 * [Adobe Flex 4.6 | Adobe Help](http://help.adobe.com/en_US/flex/using/index.html)
 
+* [Scalenine](http://www.scalenine.com/) - temas
+
 
 ### Aprendizado
 
@@ -105,7 +107,11 @@
 
 * [Fábio Vedovelli](http://blog.vedovelli.com.br/?cat=12)
 
+* [Igor Costa](http://www.igorcosta.com/tag/flex/)
+
 * [Igor Musardo](http://musardos.com.br/category/desenvolvimento-software/flex/)
 
 * [Stefan Horochovec](http://www.horochovec.com.br/blog/category/flex/)
+
+* [Vinícius Lourenço](http://blog.vilourenco.com.br/category/flex/)
 
