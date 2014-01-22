@@ -793,6 +793,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] roypeled / angular-class-extender](https://github.com/roypeled/angular-class-extender) - A lightweight angular module that adds support for multiple class inheritance and method abstraction
+
+--
+
 * [[GitHub] mgonto / restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
 
 * [[GitHub] jeffbcross / syncResource](https://github.com/jeffbcross/syncResource) - OmniBinder - One binder to bind AngularJS models to everything [Status: Experimental, In-Development : 17/09/2013] 
