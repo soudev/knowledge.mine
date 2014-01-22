@@ -555,6 +555,10 @@
 
 --
 
+* [Como imprimir com Javascript | nomadev](http://nomadev.com.br/como-imprimir-com-javascript/)
+
+--
+
 * [zip.js](http://gildas-lormeau.github.io/zip.js/) - A JavaScript library to zip and unzip files
 
 * [lz-string](http://pieroxy.net/blog/pages/lz-string/demo.html) - JavaScript compression, fast!
