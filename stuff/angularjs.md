@@ -24,6 +24,10 @@
 
 * [[YouTube] Angular.js](https://www.youtube.com/user/angularjs)
 
+* [Story About Angular, Passion and Community (ng-conf 2014)](http://igorminar.github.io/story-about-angular-passion-and-community/) 
+  
+  * [[GitHub] IgorMinar / story-about-angular-passion-and-community](https://github.com/IgorMinar/story-about-angular-passion-and-community)
+
 
 ### Estatísticas
 
