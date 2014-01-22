@@ -812,6 +812,8 @@
 
     * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
 
+* [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
+
 
 * [Geddy](http://geddyjs.org/) - A simple, structured web framework for Node
 
