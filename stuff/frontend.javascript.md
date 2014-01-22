@@ -871,6 +871,8 @@
 
 * [[GitHub] imrefazekas / leaper.js](https://github.com/imrefazekas/leaper.js) - is a simple javascript library to aid creation of single-page web-applications. It follows declarative way to define pages making the markings simpler and straightforward.
 
+* [Patterns For Large-Scale JavaScript Application Architecture | Addy Osmani](http://addyosmani.com/largescalejavascript/)
+
         
 ### Frameworks MVC
 
