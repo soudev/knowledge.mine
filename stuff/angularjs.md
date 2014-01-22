@@ -337,6 +337,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS | One Hungry MindOne Hungry Mind](http://onehungrymind.com/category/angularjs/) - A ton of great AngularJS content here
 
+* [Write Better, Flexible Code By Using Composition In Angular.js | I ♥ Angular.js](http://iheartangularjs.com/post/66604936242/composition-in-angularjs)
+
 --
 
 * [AngularJS: Clearing a few confusion points | Next Big Thing](http://blog.nebithi.com/angularjs-clearing-a-few-confusion-points/)
