@@ -95,6 +95,8 @@
 
 * [[GitHub] thinkpixellab / flatland](https://github.com/thinkpixellab/flatland) - Flatland is a simple theme and accompanying color scheme for Sublime Text 2
 
+* [Spacegray](http://kkga.github.io/spacegray/) - A Hyperminimal UI Theme for Sublime Text
+
 
 ## Packages / Plugins
 
