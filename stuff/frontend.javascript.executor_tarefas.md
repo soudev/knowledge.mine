@@ -137,13 +137,17 @@
 
 * [[GitHub] sindresorhus / time-grunt](https://github.com/sindresorhus/time-grunt) - Displays the elapsed execution time of grunt tasks - Node.js module
 
-* [[GitHub] karlgoldstein / grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
-
 * [[GitHub] terrykingcha / grunt-depconcat](https://github.com/terrykingcha/grunt-depconcat) - Concat depended files
 
 * [[GitHub] zonak / grunt-ftp-deploy](https://github.com/zonak/grunt-ftp-deploy) - Grunt task for code deployment over ftp
 
 * [[GitHub] btford / grunt-merge-conflict](https://github.com/btford/grunt-merge-conflict) - Grunt plugin for preventing you from accidentally comitting a merge conflict into your project
+
+--
+
+* [[GitHub] karlgoldstein / grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
+
+* [[GitHub] hariadi / grunt-wp2md](https://github.com/hariadi/grunt-wp2md) - Convert WordPress XML to static Markdown files
 
 --
 
