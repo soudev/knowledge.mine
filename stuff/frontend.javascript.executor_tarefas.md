@@ -16,18 +16,21 @@
 
 * [Brunch](http://brunch.io) - ultra-fast HTML5 build tool
 
---
-
-* [gulp.js](http://gulpjs.com) - the streaming build system
-
-  * [Gulp JS: como se tornar Expert em minutos | morethings.io](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
-  
-  * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
-
 
 #### Bundy
 
 * [Bundy](https://github.com/michaldudek/Bundy) - If you are working on a JavaScript library, plugin or a widget and  want to quickly "bundle" it (minify all JavaScript and CSS files, put  them in single files, copy other assets, eg. images and fonts, to  release directory), then Bundy is for you.
+
+
+#### Gulp
+
+* [gulp.js](http://gulpjs.com) - the streaming build system
+
+* [Gulp: O novo automatizador | Tableless](http://tableless.com.br/gulp-o-novo-automatizador/)
+
+* [Gulp JS: como se tornar Expert em minutos | morethings.io](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
+
+* [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
 
 
 #### Grunt
