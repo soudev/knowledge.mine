@@ -36,6 +36,13 @@
 
 ## Chave e Valor
 
+### LevelDB
+
+* [LevelDB](https://code.google.com/p/leveldb/) - is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+
+* [Brincando com LevelDB | Underground WebDev](http://udgwebdev.com/brincando-com-leveldb/)
+
+
 ### Memcached
 
 * [Memcached](http://memcached.org/) - Free & open source, high-performance, distributed memory object caching system.
