@@ -379,6 +379,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
 
+* [[YouTube] AngularJS & D3: Directives for Visualizations](http://www.youtube.com/watch?v=aqHBLS_6gF8)
+
 * [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
 
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example. (Require.js)
