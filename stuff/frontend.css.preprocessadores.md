@@ -39,6 +39,7 @@
 
 * [LESS Tips and Tricks](http://flippinawesome.org/2013/05/20/less-tips-and-tricks/)
 
+* [Working With LESS and the Chrome DevTools | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/working-with-less-and-the-chrome-devtools/)
 
 
 #### Stylus
