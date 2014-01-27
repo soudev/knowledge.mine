@@ -30,7 +30,11 @@
 
 * [Gulp JS: como se tornar Expert em minutos | morethings.io](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
 
+* [Getting started with gulp | Mark Goodyear](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
+
 * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
+
+* [[GitHub] ryanbenson / Front-End-Gulp-Boilerplate](https://github.com/ryanbenson/Front-End-Gulp-Boilerplate) - Front-end boilerplate for Gulp with everything you need to get started
 
 
 #### Grunt
