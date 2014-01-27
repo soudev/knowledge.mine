@@ -304,6 +304,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [AngularJS Tutorial: Learn to Rapidly Build Real-time Web Apps with Firebase | Thinkster](http://www.thinkster.io/pick/eHPCs7s87O/angularjs-tutorial-learn-to-rapidly-build-real-time-web-apps-with-firebase)
 
+* [Embedding AngularJS in the physical world | ng-newsletter](http://www.ng-newsletter.com/posts/embedded-angular.html)
+
 
 ## Dicas
 
