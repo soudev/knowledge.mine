@@ -676,6 +676,8 @@
 
 * [[GitHub] tehsis / webinstaller](https://github.com/tehsis/webinstaller) - Helper for installing Mozilla webapps
 
+* [[GitHub] robnyman / Firefox-OS-Boilerplate-App](https://github.com/robnyman/Firefox-OS-Boilerplate-App) - Creating Firefox OS apps
+
 
 ##### Apache Cordova & PhoneGap
 
