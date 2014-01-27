@@ -194,10 +194,6 @@
 
 ### Dicas
 
-* [promisejs.org](http://www.promisejs.org/) - Introducing the concept of Promises in JavaScript
-
---
-
 * [Medindo a complexidade do seu código JavaScript | Tableless](http://tableless.com.br/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/)
 
 * [Defensive JavaScript](http://www.defensivejs.com/)
@@ -243,6 +239,12 @@
 --
 
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
+
+* [promisejs.org](http://www.promisejs.org/) - Introducing the concept of Promises in JavaScript
+
+    * [AMD loader in 30 lines of code](http://curiosity-driven.org/amd-loader-with-promises)
+
+* [Callbacks, Promises, Signals and Events | Miller Medeiros](http://blog.millermedeiros.com/callbacks-promises-signals-and-events/)
 
 * [Handling concurrency and asynchronous JavaScript | Oliver.prototype.blog](http://oli.me.uk/2013/09/11/handling-concurrency-and-asynchronous-javascript/)
 
