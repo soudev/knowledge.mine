@@ -766,6 +766,8 @@
 
   * [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
 
+  * [[GitHub] Anonyfox / node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of
+
 * [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
 
 
