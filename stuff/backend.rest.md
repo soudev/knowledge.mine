@@ -72,6 +72,10 @@
 
 --
 
+* [API design for an event-driven world](http://shapeshed.com/api-design-for-an-event-driven-world/) - REST and HATEOS are designed around request response cycles. New thinking is needed for bidirectional, event-driven, realtime APIs.
+
+--
+
 * [Introducing: Restful Objects](http://www.infoq.com/articles/Intro_Restful_Objects)
 
 * [Restful Objects Specification](http://restfulobjects.org/) [github](https://github.com/danhaywood/restfulobjects-spec)
