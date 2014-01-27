@@ -49,6 +49,8 @@
 
 --
 
+* [The HTML 5 JavaScript API Index](http://html5index.org/)
+
 * [Ultimate HTML5 Cheatsheat [Infographic] | Tech King](http://www.testking.com/techking/infographics/ultimate-html5-cheatsheat/)
 
 
@@ -114,6 +116,8 @@
 * [The progress element | HTML5 Doctor](http://html5doctor.com/the-progress-element/)
 
 * [New HTML5 Form Input Types](http://cdn.sixrevisions.com/demos/0345-new_html5_form_input_types/new-html5-form-input-types.html)
+
+* [HTML5 Input Types Alternative | David Walsh Blog](http://davidwalsh.name/html5-input-types-alternative)
 
 * [What you need to know about HTML5 forms | TechRepublic](http://www.techrepublic.com/blog/web-designer/what-you-need-to-know-about-html5-forms/)
 
@@ -405,6 +409,10 @@
 --
 
 * [[GitHub] vagnervjs / frame-player](https://github.com/vagnervjs/frame-player) - A video player without video files, just JSON. Based on 'images frames' thought to mobile devices!
+
+--
+
+* [[GitHub] auduno / clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 
 --
 
