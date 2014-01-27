@@ -315,6 +315,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [What you need to know about Angular SEO | ng-newsletter](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
 
+* [AngularJS SEO | CoderWall - Jose Raya](https://coderwall.com/p/vqpfka)
+
 --
 
 * [[Android App] AngularJS Pocket Reference](https://play.google.com/store/apps/details?id=com.angularpocketreference.app&amp;amp;hl=en)
