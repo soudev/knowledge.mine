@@ -183,6 +183,8 @@
 
 * [maintainable grunt example](https://github.com/erkobridee/lab-nodejs/tree/master/javascript/grunt/maintainable-grunt) - on [GitHub] erkobridee / lab-nodejs
 
+* [Grunt.js: Custom Tasks | Quick Left](http://quickleft.com/blog/grunt-js-custom-tasks)
+
 --
 
 * [Grunt Boilerplate | Integralist](http://integralist.co.uk/Grunt-Boilerplate.html)
