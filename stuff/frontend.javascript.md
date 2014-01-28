@@ -551,6 +551,8 @@
 
 * [[GitHub] gkindel / CSV-JS](https://github.com/gkindel/CSV-JS) - A Comma-Separated Values parser for JavaScript. Standards-based, stand alone, and no regular expressions
 
+* [WebODF](http://webodf.org/) - a JavaScript library that makes it easy to add Open Document Format (ODF) support
+
 --
 
 * [React](http://facebook.github.io/react/) - A JavaScript library for building user interfaces
@@ -854,6 +856,8 @@
 * [[YouTube] Conheça o Bower](https://www.youtube.com/watch?v=0XffYRF7-G0)
 
 * [Gerenciando dependências client-side com Bower | Simples Ideias](http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bower)
+
+* [Bower na prática | Tableless](http://tableless.com.br/bower-na-pratica/)
 
 * [Client-Side Dependency Management With Bower | TysonJS](http://tysoncadenhead.com/blog/client-side-dependency-management-with-bower)
 
