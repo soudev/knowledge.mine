@@ -869,6 +869,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular Kendo](http://kendo-labs.github.com/angular-kendo/) - Angular-Kendo is a passthrough to the Kendo UI
 
+* [Angular Foundation](http://madmimi.github.io/angular-foundation/)
+
 
 ### ng animate
 
