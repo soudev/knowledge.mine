@@ -737,6 +737,10 @@
   
   * [[GitHub] mozilla / awsbox](https://github.com/mozilla/awsbox)
 
+--
+
+* [NodeJS Deploying Files to AWS S3](http://blog.katworksgames.com/2014/01/26/nodejs-deploying-files-to-aws-s3/)
+
 
 #### Windows Azure
 
