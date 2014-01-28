@@ -108,6 +108,10 @@
 
 ### OOP
 
+* [Prototypes Are Not Classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html)
+
+--
+
 * [Object-Oriented JavaScript - Presentation Slides](http://jordankasper.com/preso/oop-js)
 
 * [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
@@ -837,6 +841,14 @@
 * [Jam.js and Bower | Red Badger](http://red-badger.com/blog/2013/03/26/jam-js-and-bower/)
 
 * [jspm.io](http://jspm.io/) - is a browser module loader that will load any module format (ES6 / AMD / CJS) locally or even directly from NPM and Github utilising SPDY push.
+
+--
+
+* [Component.io](http://component.io/)
+
+    * [[GitHub] component / component](https://github.com/component/component) - client package management for building better web applications
+
+    * [Introduction to Component | Samll.js](http://smalljs.org/package-managers/component-part-1/)
 
 
 #### Bower
