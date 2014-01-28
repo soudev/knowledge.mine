@@ -57,6 +57,8 @@
 
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
 
+* [It's time to start using JavaScript strict mode | NCZOnline](http://www.nczonline.net/blog/2012/03/13/its-time-to-start-using-javascript-strict-mode/)
+
 * [Javascript's Slightly Stricter Mode | Glen Maddern](http://geelen.github.io/web-directions-talk)
 
 * [ECMAScript 5 Strict Mode, JSON, and More | John Resig](http://ejohn.org/blog/ecmascript-5-strict-mode-json-and-more/)
