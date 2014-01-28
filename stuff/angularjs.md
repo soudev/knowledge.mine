@@ -24,6 +24,10 @@
 
 * [[YouTube] Angular.js](https://www.youtube.com/user/angularjs)
 
+--
+
+* [[YouTube] ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
+
 * [Story About Angular, Passion and Community (ng-conf 2014)](http://igorminar.github.io/story-about-angular-passion-and-community/) 
   
   * [[GitHub] IgorMinar / story-about-angular-passion-and-community](https://github.com/IgorMinar/story-about-angular-passion-and-community)
@@ -910,6 +914,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] erkobridee / lab-angularjs](https://github.com/erkobridee/lab-angularjs)
 
 * [AngularJS - Consumindo a API do GitHub](http://blog.erkobridee.com/2012/07/26/angularjs-consumindo-a-api-do-github/) | [Testar App](http://erkobridee.github.io/angularjs-github-info/) | [GitHub Code](https://github.com/erkobridee/angularjs-github-info)
+
+--
+
+* [Creating Apps with Angular and Node using Yeoman | Tyler Henkel](http://tylerhenkel.com/creating-apps-with-angular-and-node-using-yeoman/)
 
 --
 
