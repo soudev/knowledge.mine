@@ -382,6 +382,8 @@
 
 --
 
+* [Setting up a JavaScript / Node.js development environment](http://learnjs.io/blog/2014/01/22/js-development-environment/)
+
 * [An Introduction To Full-Stack JavaScript | Smashing Coding](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript)
 
 --
@@ -740,6 +742,8 @@
 --
 
 * [NodeJS Deploying Files to AWS S3](http://blog.katworksgames.com/2014/01/26/nodejs-deploying-files-to-aws-s3/)
+
+* [[GitHub] devcollectief / express-upload](https://github.com/devcollectief/express-upload) - Streaming multiple large files to AWS S3 with Multipart API, Formidable & Jquery File Upload
 
 
 #### Windows Azure
