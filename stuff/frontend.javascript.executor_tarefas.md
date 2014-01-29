@@ -211,6 +211,8 @@
 
 * [Tools for image optimization | Addy Osmani](http://addyosmani.com/blog/image-optimization-tools/)
 
+* [Managing Bower Components with Grunt | Flippin Awesome](http://flippinawesome.org/2014/01/27/managing-bower-components-with-grunt/)
+
 
 ##### Testes
 
