@@ -746,6 +746,8 @@
   
   * [PhoneGap and PhoneGap Build in 5 Minutes](http://coenraets.org/blog/2012/12/phonegap-and-phonegap-build-in-5-minutes/)
 
+  * [Cordova (aka PhoneGap) 3.x Tutorial](http://coenraets.org/blog/cordova-phonegap-3-tutorial/)
+
   * [Architecting a PhoneGap Application: Video + Slides](http://coenraets.org/blog/2013/05/architecting-a-phonegap-application-video-slides/)
 
   * [Top 10 Performance Techniques for PhoneGap Applications](http://coenraets.org/blog/2013/05/top-10-performance-techniques-for-phonegap-applications/)
