@@ -680,6 +680,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Don't Fear Directives In Angular.js | Nathan LeClaire](http://nathanleclaire.com/blog/2013/12/07/dont-fear-directives-in-angular-dot-js/)
 
+* [Extending HTML with AngularJS Directives | CodeProject](http://www.codeproject.com/Articles/607873/Extending-HTML-with-AngularJS-Directives)
+
 --
 
 * [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
@@ -868,6 +870,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
 
   * [Diving deep into the AngularUI Router | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-router.html)
+
+  * [[GitHub] angular-ui / AngularJS-brackets](https://github.com/angular-ui/AngularJS-brackets) - AngularJS plugin for Brackets
+
+  * [[GitHub] angular-ui / AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package) - AngularJS code completion, snippets, go to definition, quick panel search, and more
 
 * [AngularStrap](http://mgcrea.github.com/angular-strap/) - Bootstrap directives for AngularJS
 
