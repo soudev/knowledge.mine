@@ -653,6 +653,10 @@
 
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
+* [[GitHub] MikeMcl / big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic
+
+* [[GitHub] iriscouch / bigdecimal.js](https://github.com/iriscouch/bigdecimal.js) - Arbitrary-precision Javascript BigInteger and BigDecimal real numbers
+
 * [[GitHub] HubSpot / humanize](https://github.com/HubSpot/humanize) - A simple utility library for making the web more humane.
 
 * [[GitHub] rschmukler / human-interval](https://github.com/rschmukler/human-interval) - Human readable time distances for javascript
