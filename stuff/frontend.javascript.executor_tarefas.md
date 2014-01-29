@@ -28,6 +28,8 @@
 
 * [Gulp: O novo automatizador | Tableless](http://tableless.com.br/gulp-o-novo-automatizador/)
 
+* [Bye bye Grunt.js, hello Gulp.js! | Caelum](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
+
 * [Gulp JS: como se tornar Expert em minutos | morethings.io](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
 
 * [Getting started with gulp | Mark Goodyear](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
