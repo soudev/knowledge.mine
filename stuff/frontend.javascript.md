@@ -254,6 +254,8 @@
 
 * [Handling concurrency and asynchronous JavaScript | Oliver.prototype.blog](http://oli.me.uk/2013/09/11/handling-concurrency-and-asynchronous-javascript/)
 
+* [Programação assíncrona com JavaScript | TDC2013 | Infoq BR](http://www.infoq.com/br/presentations/programacao-assincrona-javascript) - Essa palestra trata de de algumas técnicas de programação assíncrona com JavaScript, principalmente com Callbacks, Futures e Promisses, e Functional Reactive Programming
+
 --
 
 * [JS Packer](http://iwantaneff.in/packer/) - compress your Javascript to a tiny file-size
