@@ -843,6 +843,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Angular-Wizard](http://mgonto.github.io/angular-wizard/) - Easy to use Wizard library for AngularJS
+
+--
+
 * [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
 
 * [ngProgress](http://victorbjelkholm.github.io/ngProgress/) - Slim, site-wide progressbar for Angular
@@ -958,6 +962,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] pablodenadai / GameOn](https://github.com/pablodenadai/GameOn) - responsive front-end webapp built on NodeJS and Angular
 
   * [GameOn](http://gameon.jit.su/) - connects you with the players in your city and allows you to find, organize and share games effortlessly.
+
+--
+
+* [Radian](http://radian.io/) is a scalable AngularJS framework, perfect for multi developer projects
 
 
 ### Angular-Seed
