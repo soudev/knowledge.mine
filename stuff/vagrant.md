@@ -69,6 +69,10 @@
 
 --
 
+* [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
+
+--
+
 * [Learning About Docker | Composite Code](http://compositecode.com/2013/11/20/learning-about-docker/)
 
 * [[Gist] wsargent / docker_cheat.md](https://gist.github.com/wsargent/7049221) - Docker cheat sheet
@@ -92,6 +96,8 @@
 * [Notes about fiddling with docker and continuous deployment ideas | Roxee Tech](http://tech.roxee.tv/2013/10/01/notes-about-fiddling-with-docker-and-continuous-deployment-ideas/)
 
 * [Using Docker To Run Ruby Rspec CI In Jenkins | ActiveState](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins)
+
+* Continuous Integration and Deployment with Jenkins and Docker [Part I](http://inpursuit.ghost.io/continuous-integration-with-jenkins-and-docker/) | [Part II](http://inpursuit.ghost.io/continuous-integration-and-deployment-with-jenkins-and-docker-part-ii/)
 
 --
 
