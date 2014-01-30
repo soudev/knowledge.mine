@@ -1010,6 +1010,8 @@ Projeto de exemplo / estrutura inicial
 
 * [Getting started with AngularJS Unit Testing | Tech Pro](http://tech.pro/tutorial/1473/getting-started-with-angularjs-unit-testing)
 
+* [Getting started unit testing AngularJS | 25 days of AngularJS Calendar](http://www.ng-newsletter.com/advent2013/#!/day/19)
+
 * [How To Unit Test An Angular App | Alex Rothenberg](http://www.alexrothenberg.com/2013/08/06/how-to-unit-test-an-angular-app.html)
 
 * [Unit Testing Best Practices in AngularJS | Andy Shora](http://andyshora.com/unit-testing-best-practices-angularjs.html)
