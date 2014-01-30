@@ -90,6 +90,8 @@
 
 * [How to Use Exports in NodeJS | Liang Zan](http://blog.liangzan.net/blog/2012/06/04/how-to-use-exports-in-nodejs/)
 
+* [Export This: Interface Design Patterns for Node.js Modules | Bites from Good Eggs](http://bites.goodeggs.com/posts/export-this/)
+
 * [How I write Node.js modules](http://substack.net/how_I_write_modules)
 
 * [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/)
