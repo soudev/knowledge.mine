@@ -16,6 +16,8 @@
 
 * [Brunch](http://brunch.io) - ultra-fast HTML5 build tool
 
+* [Grunt vs Gulp - Beyond the Numbers | Jack Hsu](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
+
 
 #### Bundy
 
