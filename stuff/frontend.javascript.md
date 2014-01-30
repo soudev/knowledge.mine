@@ -141,6 +141,8 @@
 
 * [Smart JavaScript Techniques and Patterns](http://www.onextrapixel.com/2013/02/21/improve-your-code-with-smart-javascript-techniques-and-patterns/)
 
+* [The Essentials of Writing High Quality JavaScript | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/)
+
 --
 
 * [Design Patterns no JavaScript – Singleton | Simples Ideias](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
