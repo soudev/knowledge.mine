@@ -273,6 +273,8 @@
 
 * [Building a 3D MMO Using WebSocket | David Walsh Blog](http://davidwalsh.name/3d-websockets)
 
+* [Criando um MMO 3D utilizando WebSockets | iMasters](http://imasters.com.br/desenvolvimento/criando-um-mmo-3d-utilizando-websockets/)
+
 * [Building Multiplayer HTML5 Games with Cloak | Bocoup](http://weblog.bocoup.com/building-multiplayer-html5-games-with-cloak/)
 
 * [The Pond – building a multi-platform HTML5 game | Mozilla Hacks](https://hacks.mozilla.org/2013/11/the-pond-building-a-multi-platform-html5-game/)
@@ -336,6 +338,7 @@
 
 * [Resize an Image Using Canvas, Drag and Drop and the File API | David Walsh Blog](http://davidwalsh.name/resize-image-canvas)
 
+* [Creating a File Encryption App with JavaScript | Tutorialzine](http://tutorialzine.com/2013/11/javascript-file-encrypter/)
 
 
 ### Bibliotecas
