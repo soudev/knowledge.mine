@@ -65,6 +65,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Using Git | GitHub:Help](https://help.github.com/categories/19/articles)
 
+* [GitHub Guides](http://guides.github.com/)
+
+  * [[YouTube] GitHub Guides](https://www.youtube.com/githubguides)
+
 --
 
 * [Começando com Git | DPW](http://desenvolvimentoparaweb.com/indicacoes/comecando-com-git/)
@@ -543,6 +547,12 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [markdown.io](http://www.markdown.io/) - is a new technology that allows you to easily create websites, wikis and blogs without the need of HTML knowledge or any other complex web technologies. There is no need to own expensive webspace, and markdown.io itself is completely free to use. | [wiki](http://wiki.markdown.io/)
 
 * [Markdown Live Preview](http://markdownlivepreview.com/)
+
+--
+
+* [StackEdit](https://stackedit.io/)
+
+* [Dillinger](http://dillinger.io/) is a cloud-enabled HTML5 Markdown editor
 
 
 ## Ferramentas
