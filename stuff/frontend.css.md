@@ -78,6 +78,8 @@
 
 ### Ferramentas online
 
+* [colourcode](http://colourco.de) - find your colour scheme
+
 * [ColorZilla](http://www.colorzilla.com/gradient-editor/) - Ultimate CSS Gradient Generator
 
 * [CSS Border Radius Generator](http://border-radius.com/)
