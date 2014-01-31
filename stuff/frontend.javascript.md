@@ -13,6 +13,8 @@
 
 ### Aprendizado
 
+* [JS: The Right Way](http://jstherightway.org/)
+
 * [Happy 18th Birthday JavaScript! | Resin.io](http://resin.io/happy-18th-birthday-javascript/) -  A look at an unlikely past and bright future
 
 * [[YouTube] O fantástico mundo do JavaScript - Jean Carlo Emer](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
@@ -24,8 +26,6 @@
 --
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - documentação com recomendações e boas práticas de programação em JavaScript.
-
-* [JS: The Right Way](http://jstherightway.com/)
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A Modern Introduction to Programming, by Marijn Haverbeke
 
