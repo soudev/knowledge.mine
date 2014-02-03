@@ -379,6 +379,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Configuring Dependency Injection in AngularJS | @jhooks](http://joelhooks.com/blog/2013/08/18/configuring-dependency-injection-in-angularjs/)
 
+* [Demystifying AngularJS' dependency injection | bdadam.com](http://bdadam.com/blog/demistifying-angularjs-dependency-injection.html)
+
 --
 
 * [Angular backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
