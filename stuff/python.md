@@ -21,6 +21,9 @@
 
 * [Python Skill Tests | MetaBright](http://www.metabright.com/challenges/python)
 
+* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
+
+
 ## Dicas
 
 * [Exploring Python Code Objects | pyvideo.org](http://pyvideo.org/video/1372/exploring-python-code-objects)
@@ -41,6 +44,8 @@
 * [Effective Django — Effective Django](http://effectivedjango.com/)
 
 * [Melhores práticas para desenvolvimento com Python/Django | iMasters](http://imasters.com.br/framework/django/melhores-praticas-para-desenvolvimento-pythondjango/)
+
+* [Web Development with Python and Django (2014) | Speaker Deck](https://speakerdeck.com/mpirnat/web-development-with-python-and-django-2014) - The most complete tutorial step-by-step made for who want to learn python and django
 
 
 ### Flask
