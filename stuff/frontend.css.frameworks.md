@@ -75,7 +75,7 @@ for developing fast and powerful web interfaces.
 
 * [v2.3.2](http://getbootstrap.com/2.3.2/)
 
-* [v3.0.0](http://getbootstrap.com/) | [release infos](http://blog.getbootstrap.com/2013/08/19/bootstrap-3-released/)
+* [v3.1.0](http://getbootstrap.com/) | [release infos](http://blog.getbootstrap.com/2014/01/30/bootstrap-3-1-0-released/)
 
 --
 
