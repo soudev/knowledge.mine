@@ -48,3 +48,9 @@
 * [[Gist] millermedeiros / osx_setup.md](https://gist.github.com/millermedeiros/6615994) - Mac OS X Mountain Lion setup
 
 * [[Gist] zenorocha / osx-setup.md](https://gist.github.com/zenorocha/7159780) - Setup Mac OS X Mavericks (10.9)
+
+
+## Dicas
+
+* [Como usar o editor iMovie; veja os truques para Mac | Dicas e Tutoriais | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/02/como-usar-o-editor-imovie-veja-os-truques-para-mac.html)
+
