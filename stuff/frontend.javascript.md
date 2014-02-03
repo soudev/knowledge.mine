@@ -10,7 +10,6 @@
 * [[GitHub] maximecb / Higgs](https://github.com/maximecb/Higgs) - Higgs JavaScript Virtual Machine. An interpreter and JIT compiler for JavaScript targetting x86-64 platforms. (D Language)
 
 
-
 ### Aprendizado
 
 * [JS: The Right Way](http://jstherightway.org/)
@@ -142,6 +141,8 @@
 * [Smart JavaScript Techniques and Patterns](http://www.onextrapixel.com/2013/02/21/improve-your-code-with-smart-javascript-techniques-and-patterns/)
 
 * [The Essentials of Writing High Quality JavaScript | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-writing-high-quality-javascript/)
+
+* [Writing third-party Javascript | Frontend and beyond — Medium](https://medium.com/frontend-and-beyond/2808a8d85a0a)
 
 --
 
@@ -716,6 +717,8 @@
 
 
 #### Crypto
+
+* [Performance of Hashing in Javascript Crypto Libraries](http://dominictarr.github.io/crypto-bench/) - Dominic Tarr (Stackvm Mad Science University) 2014-01-26 (v1.0.4)
 
 * [Stanford Javascript Crypto Library](http://crypto.stanford.edu/sjcl/) - The Stanford Javascript Crypto Library is a project by the Stanford Computer Security Lab to build a secure, powerful, fast, small, easy-to-use, cross-browser library for cryptography in Javascript.
 
