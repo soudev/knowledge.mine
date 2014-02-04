@@ -80,3 +80,5 @@
 
   * [Deeper In the Brackets Editor | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/deeper-in-the-brackets-editor/)
   
+  * [Creating Brackets Extensions | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/creating-brackets-extensions/)
+
