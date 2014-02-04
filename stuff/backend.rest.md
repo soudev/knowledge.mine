@@ -49,6 +49,8 @@
 
 * [webshell.io: The API of APIs](http://webshell.io/) - The API Combinator - Combine APIs easily in Javascript and create REST/JSON API on the fly.
 
+* [Examples of the Marvel API | Raymond Camden](http://www.raymondcamden.com/index.cfm/2014/2/2/Examples-of-the-Marvel-API)
+
 
 ## Desgin
 
