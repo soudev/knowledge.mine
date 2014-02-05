@@ -255,6 +255,8 @@
 
     * [AMD loader in 30 lines of code](http://curiosity-driven.org/amd-loader-with-promises)
 
+* [JavaScript Promises: There and back again | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
+
 * [Callbacks, Promises, Signals and Events | Miller Medeiros](http://blog.millermedeiros.com/callbacks-promises-signals-and-events/)
 
 * [Handling concurrency and asynchronous JavaScript | Oliver.prototype.blog](http://oli.me.uk/2013/09/11/handling-concurrency-and-asynchronous-javascript/)
