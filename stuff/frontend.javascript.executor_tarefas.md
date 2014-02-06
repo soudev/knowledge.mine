@@ -36,6 +36,10 @@
 
 * [Getting started with gulp | Mark Goodyear](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
 
+* [My First Gulp Adventure | Pony Foo](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
+
+--
+
 * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
 
 * [[GitHub] ryanbenson / Front-End-Gulp-Boilerplate](https://github.com/ryanbenson/Front-End-Gulp-Boilerplate) - Front-end boilerplate for Gulp with everything you need to get started
