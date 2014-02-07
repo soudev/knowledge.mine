@@ -32,6 +32,8 @@
 
 * [BrowserSwarm](http://www.browserswarm.com/) - A tool that automates your testing of JavaScript across browsers. Spend less time testing and more time innovating.
 
+* [Headless testing with Jasmine, PhantomJS and Grunt | simonsmith.io](http://simonsmith.io/headless-testing-with-jasmine-phantomjs-and-grunt/)
+
 
 #### Plato
 
