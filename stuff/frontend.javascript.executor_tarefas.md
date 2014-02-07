@@ -238,6 +238,8 @@
 
 * [Grunt - Synchronised Testing Between Browsers/Devices4 | Matt Bailey](http://blog.mattbailey.co/post/50337824984/grunt-synchronised-testing-between-browsers-devices)
 
+* [Headless testing with Jasmine, PhantomJS and Grunt | simonsmith.io](http://simonsmith.io/headless-testing-with-jasmine-phantomjs-and-grunt/)
+
 
 ##### Exemplos de Uso
 
