@@ -62,6 +62,10 @@
 
 * [Multi-Level Push Menu | Codrops](http://tympanus.net/codrops/2013/08/13/multi-level-push-menu/)
 
+* [Fullscreen Overlay Effects | Codrops](http://tympanus.net/codrops/2014/02/06/fullscreen-overlay-effects/) - Some simple and creative overlay styles and effects. From sliding the overlay into the viewport to using SVG morphing shapes, we explore some effects for fullscreen overlays.
+
+--
+
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
 * [Modos de Mesclagem em CSS | Tableless](http://tableless.com.br/modos-de-mesclagem-em-css/) - Neste artigo entenda como funcionam os modos de mesclagem e saiba como utilizar cada um deles através de simples parâmetros de CSS.
