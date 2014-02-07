@@ -336,6 +336,8 @@
   
 * [[GitHub] webpro / release-it](https://github.com/webpro/release-it) - Interactive release tool for Git repositories. Supports to build and release to a distribution/component repository. Publish to npm.
 
+* [[GitHub] radubrehar / versiony](https://github.com/radubrehar/versiony) - Node.js module to increment version number for your code/module
+
 * [[GitHub] mdevils / node-jscs](https://github.com/mdevils/node-jscs) - JavaScript Code Style checker
 
 
@@ -543,6 +545,8 @@
 * [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
 
 * [Testing Private State and Mocking Dependencies | How To Node - NodeJS](http://howtonode.org/testing-private-state-and-mocking-deps)
+
+* [[GitHub] boo1ean / casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 
 --
 
@@ -840,6 +844,8 @@
 * [Geddy](http://geddyjs.org/) - A simple, structured web framework for Node
 
   * [In the Loop: Geddy – a Simple Node.js Web Framework | StrongLoop](http://blog.strongloop.com/in-the-loop-geddy/)
+
+* [total.js](http://www.totaljs.com/) - a Web framework for Node.js
 
 
 --
