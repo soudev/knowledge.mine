@@ -428,6 +428,10 @@
 
 * [Journey of Discovery - the Global 'window.performance' Object | 4waisenkinder](http://4waisenkinder.de/blog/2013/11/10/discovery-of-window-dot-performance-dot-timing/)
 
+* [Qual a dose certa de JavaScript | Tableless](http://tableless.com.br/qual-dose-certa-de-javascript/) - Um pouco de JavaScript não obstrusivo e quais as estratégias para garantir uma boa performance e acessibilidade em aplicações ricas.
+
+* [The seven rules of unobtrusive JavaScript | Dev.Opera](http://dev.opera.com/articles/view/the-seven-rules-of-unobtrusive-javascrip/)
+
 
 ### Sistema de Dependências e Módulos
 
