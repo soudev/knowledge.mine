@@ -14,6 +14,12 @@
 
 --
 
+* [Rove.io](http://rove.io/) - is a service that allows you to pregenerate typical Vagrant builds.
+
+* [Protobox](http://getprotobox.com/) - Online GUI for Vagrant. Build amazing web applications together Use protobox to build and share your vagrant virtual machines.
+
+--
+
 * [Vagrant e seus plugins | iMasters](http://imasters.com.br/tecnologia/redes-e-servidores/vagrant-e-seus-plugins/)
 
 --
