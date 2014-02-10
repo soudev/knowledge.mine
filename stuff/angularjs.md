@@ -310,6 +310,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Embedding AngularJS in the physical world | ng-newsletter](http://www.ng-newsletter.com/posts/embedded-angular.html)
 
+* [Remote Desktop Client with AngularJS and Yeoman](http://blog.mgechev.com/2014/02/08/remote-desktop-vnc-client-with-angularjs-and-yeoman/)
+
 
 ## Dicas
 
