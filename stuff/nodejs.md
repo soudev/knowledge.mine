@@ -662,6 +662,8 @@
 
 * [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
 
+* [Creating and publishing a node.js module | Quick Left Boulder Colorado](http://quickleft.com/blog/creating-and-publishing-a-node-js-module)
+
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
 
   * [[Gist] using `npm run` to build and watch with less and browserify](https://gist.github.com/substack/7819530)
