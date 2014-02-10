@@ -212,6 +212,8 @@
 
 ---
 
+* [Getting Started with D3.js - Drawing a graph](http://thinkingonthinking.com/Getting-Started-With-D3/)
+
 * [D3.js is a JavaScript library for manipulating documents based on data](http://d3js.org/) Para construção de representações gráficas
 
 * [D3.js for Mere Mortals](http://www.recursion.org/d3-for-mere-mortals/)
