@@ -105,6 +105,8 @@
 
 * Continuous Integration and Deployment with Jenkins and Docker [Part I](http://inpursuit.ghost.io/continuous-integration-with-jenkins-and-docker/) | [Part II](http://inpursuit.ghost.io/continuous-integration-and-deployment-with-jenkins-and-docker-part-ii/)
 
+* [Docking your services with Docker | Speaker Deck](https://speakerdeck.com/hagzag/docking-your-services-with-docker) - by Haggai Philip Zagury. A presentation showing how docker & LXC will (future tense) change our lives.
+
 --
 
 * [Docker all the things at Atlassian: automation and wiring | Atlassian Blogs](https://blogs.atlassian.com/2013/11/docker-all-the-things-at-atlassian-automation-and-wiring/)
