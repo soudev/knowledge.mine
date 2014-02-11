@@ -226,6 +226,8 @@
 
 * [[SlideShare] Building a Directed Graph with MongoDB](http://www.slideshare.net/fehguy/building-a-directed-graph-with-mongodb)
 
+* [[SlideShare] MongoDB: Queries and Aggregation Framework with NBA Game Data](http://www.slideshare.net/vkarpov15/mongodb-queries-and-aggregation-framework-with-nba-game-data)
+
 --
 
 * [A quick start with MongoDB Geospatial Queries](http://www.siletto.it/blog/alessandro/2013/03/19/quick-start-mongodb-geospatial-queries)
