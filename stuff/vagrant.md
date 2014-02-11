@@ -133,6 +133,8 @@
 
 * [Baidu using Docker for its PaaS | Docker Blog](http://blog.docker.io/2013/12/baidu-using-docker-for-its-paas/)
 
+* [[GitHub] drone / drone](https://github.com/drone/drone) - is a Continuous Integration platform built on Docker
+
 
 ### Red Hat
 
