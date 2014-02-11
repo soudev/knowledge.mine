@@ -558,6 +558,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Escopo e informações
 
+* [Scope in Angular | Nulogy Blog](http://engineering.nulogy.com/posts/scope-in-angular/)
+
 * [Global variable with AngularJS | Coding Insight](http://www.codinginsight.com/global-variable-with-angularjs/)
 
 * [AngularJS: 6 Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
