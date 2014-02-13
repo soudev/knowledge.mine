@@ -312,6 +312,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Remote Desktop Client with AngularJS and Yeoman](http://blog.mgechev.com/2014/02/08/remote-desktop-vnc-client-with-angularjs-and-yeoman/)
 
+* [[GitHub] mgcrea / angular-7min](https://github.com/mgcrea/angular-7min) - Angular Seven Minute Workout sample mobile app w/ Cordova
+
 
 ## Dicas
 
