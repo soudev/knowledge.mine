@@ -192,13 +192,17 @@
 
 * [WebRTC: Update and Workarounds | Mozilla Hacks](https://hacks.mozilla.org/2013/09/webrtc-update-and-workarounds/)
 
-  [[Speaker Deck] WebRTC Data Black Magic](https://speakerdeck.com/feross/webrtc-data-black-magic)
+* [[Speaker Deck] WebRTC Data Black Magic](https://speakerdeck.com/feross/webrtc-data-black-magic)
+
+* [[YouTube] Real-time communication with WebRTC: Google I/O 2013](https://www.youtube.com/watch?v=p2HzZkd2A40)
+
+* [WebRTC data channels: WebRTC data channels for high performance data exchange | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
+
+--
 
 * [Licode](http://lynckia.com/licode/) - Open Source Communication Provider
 
 * [Talky](https://talky.io/) - Group video chat and screen sharing
-
-* [[YouTube] Real-time communication with WebRTC: Google I/O 2013](https://www.youtube.com/watch?v=p2HzZkd2A40)
 
 
 #### WebGL
@@ -299,6 +303,8 @@
 * [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
 
 * [Storing Javascript objects in LocalStorage | DroidIT Blog](http://blog.droidit.eu/javascript-2/storing-javascript-objects-in-localstorage/)
+
+* [localForage: Offline Storage, Improved | Mozilla Hacks](https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/)
 
 * [HTML5 Web Storage - Teddy Garland | Coder Wall](https://coderwall.com/p/8awebg)
 
@@ -530,6 +536,10 @@
 * [LocalStorage with Amplify.js | TysonJS](http://tysonjs.com/blog/localstorage-with-amplify-js/)
 
 * [[GitHub] justindeguzman / locstor](https://github.com/justindeguzman/locstor) - JavaScript helper library for HTML5 localStorage
+
+* [[GitHub] mozilla / localForage](https://github.com/mozilla/localForage) - Offline storage, improved. 
+
+  * [localForage: Offline Storage, Improved | Mozilla Hacks](https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/)
 
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
 
