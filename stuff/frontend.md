@@ -112,6 +112,8 @@
 
 * [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line.
 
+* [Super semantic multicolor font icons in pure CSS | Pixelambacht](http://pixelambacht.nl/2014/multicolor-icons/)
+
 
 ### FavIcon
 
@@ -143,6 +145,8 @@
 * [Snap.svg](http://snapsvg.io/) - is designed for modern browsers and therefore supports the newest SVG features like masking, clipping, patterns, full gradients, groups, and more.
 
 * [Animated Checkboxes and Radio Buttons with SVG | Codrops](view-source:http://tympanus.net/codrops/2013/10/15/animated-checkboxes-and-radio-buttons-with-svg/)
+
+* [Ten reasons we switched from an icon font to SVG | Ian Feather](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 
 
 ## Source Map
