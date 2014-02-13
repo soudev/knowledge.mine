@@ -281,6 +281,8 @@
 
 * [morris.js](http://www.oesmith.co.uk/morris.js/index.html) - good-looking charts shouldn't be difficult | d3 based chart library
 
+* [[GitHub] adnan-wahab / pathgl](https://github.com/adnan-wahab/pathgl) - webgl renderer for d3
+
 
 #### Gantt
 
