@@ -24,6 +24,8 @@ XS_SHARING_ALLOWED_HEADERS = ['Content-Type', 'X-Requested-With']{code}
 
 * [JSONProxy](http://jsonp.jit.su/) - Enables cross-domain requests to any JSON API | [[GitHub] afeld / jsonp](https://github.com/afeld/jsonp) - A simple JSON proxy
 
+* [Dug.js — A JSONP to HTML Script | Rog.ie](http://rog.ie/blog/dugjs-a-jsonp-to-html-script)
+
 
 # Java
 
