@@ -696,6 +696,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Extending HTML with AngularJS Directives | CodeProject](http://www.codeproject.com/Articles/607873/Extending-HTML-with-AngularJS-Directives)
 
+* [Let's Make Full-Ass AngularJS Directives | @jhooks](http://www.joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives)
+
 --
 
 * [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
