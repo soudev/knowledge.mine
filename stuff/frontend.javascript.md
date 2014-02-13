@@ -317,6 +317,8 @@
 
     * [Stop writing For loops. Start using underscore | @jhooks](http://www.joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/)
 
+    * [Underscore.js: a Biblioteca JavaScript que Você Precisa Conhecer | JustCode](http://blog.glaucocustodio.com/2014/02/08/underscore-js-a-biblioteca-javascript-que-voce-precisa-conhecer/)
+
 --
 
 * [[Speaker Deck] Categorizing values: typeof, instanceof and beyond | Axel Rauschmayer](https://speakerdeck.com/rauschma/categorizing-values-typeof-instanceof-and-beyond) - You have probably heard of two common ways of categorizing values in JavaScript: typeof and instanceof. In this talk, we first review the basics of this kind of categorization and then move on to quirks and advanced topics: primitive values versus objects; typeof and instanceof (and their quirks); the internal property [[Class]]; the odd nature of the prototypes of built-in constructors; and more.
@@ -654,9 +656,13 @@
 
 * [spin.js](http://fgnass.github.io/spin.js/) - An animated CSS activity indicator with VML fallback [sample](http://www.javascriptoo.com/spin-js)
 
+--
+
 * [[GitHub] tildeio / kamino.js](https://github.com/tildeio/kamino.js) - Kamino.js is a library for passing data structures between sandboxed environments in the browser via 'postMessage'
 
 * [[GitHub] jpillora / xhook](https://github.com/jpillora/xhook) - Easily modify XHR requests and responses
+
+* [Dug.js — A JSONP to HTML Script | Rog.ie](http://rog.ie/blog/dugjs-a-jsonp-to-html-script)
 
 --
 
@@ -806,6 +812,8 @@
 * [Experimente o Yeoman em seu workflow de projetos front-end | Caelum](http://blog.caelum.com.br/experimente-o-yeoman-em-seu-workflow-de-projetos-front-end/)
 
 * [Building Apps With the Yeoman Workflow | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/)
+
+* [3 steps to fully automatized JavaScript environment with yeoman and require.js for lazy people | webdesignporto](http://www.webdesignporto.com/3-steps-to-fully-automatized-javascript-environment-with-yeoman-and-require-js-for-lazy-people/)
 
 --
 
