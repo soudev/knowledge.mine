@@ -149,6 +149,7 @@
 
   * [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
 
+--
 
 * [Tessel](http://technical.io/) - JavaScript right on the hardware 
 
@@ -525,6 +526,10 @@
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
 * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder 
+
+* [[GitHub] jlord / sheetdown](https://github.com/jlord/sheetdown) - Convert a Google Spreadsheet into a table in Markdown
+
+  * [Introducing Sheetdown | Source](https://source.opennews.org/en-US/articles/introducing-sheetdown/)
 
 --
 
