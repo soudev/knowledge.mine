@@ -44,6 +44,10 @@
 
 * Continuous Integration and Deployment with Jenkins and Docker [Part I](http://inpursuit.ghost.io/continuous-integration-with-jenkins-and-docker/) | [Part II](http://inpursuit.ghost.io/continuous-integration-and-deployment-with-jenkins-and-docker-part-ii/)
 
+* [Using Docker as a Jenkins Cloud Provider | Nuxeo Blogs](http://www.nuxeo.com/blog/development/2014/02/docker-jenkins-cloud-provider/)
+
+--
+
 * [Docking your services with Docker | Speaker Deck](https://speakerdeck.com/hagzag/docking-your-services-with-docker) - by Haggai Philip Zagury. A presentation showing how docker & LXC will (future tense) change our lives.
 
 --
