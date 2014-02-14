@@ -110,6 +110,8 @@
 
 * [conditioner.js](http://conditionerjs.com/) - A javascript library for loading and unloading behavior based on environment conditions.
 
+* [[GitHub] mercadolibre / lazy.js](https://github.com/mercadolibre/lazy.js) - A tiny and dependency-free JavaScript library for lazy loading resources.
+
 
 #### LABjs
   
