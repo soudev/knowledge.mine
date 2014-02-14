@@ -6,6 +6,10 @@
 
 --
 
+* [Atomic Design como funciona | Front End Brasil](http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)
+
+--
+
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
 
 * [Como Aprimorar sua Interface | Choco la Design](http://chocoladesign.com/aprimorar-interface)
