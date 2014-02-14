@@ -172,6 +172,10 @@
 
   * [Introducing Loupe | Spectacle Labs Blog](http://spectaclelabs.io/blog/2013/09/20/introducing-loupe/)
 
+* [[GitHub] trifacta / vega](https://github.com/trifacta/vega) - A visualization grammar
+
+  * [Vega](http://trifacta.github.io/vega/) - is a visualization grammar, a declarative format for creating, saving and sharing visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.
+
 
 #### Mapas
 
