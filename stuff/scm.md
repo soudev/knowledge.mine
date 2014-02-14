@@ -1,5 +1,7 @@
 # Sistemas de Controle de Versão 
 
+> SCM - Source Code Management
+
 Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/Primeiros-passos-Sobre-Controle-de-Vers%C3%A3o)
 
 * Sistemas de Controle de Versão Locais
