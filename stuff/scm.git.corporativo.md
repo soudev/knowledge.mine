@@ -1,4 +1,4 @@
-# git-scm
+# Sistemas de Controle de Versão : git-scm
 
 ## SCM Corporativo : pontos a serem considerados 
 
