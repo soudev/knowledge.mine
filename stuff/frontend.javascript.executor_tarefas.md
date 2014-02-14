@@ -88,6 +88,10 @@
 
 --
 
+* [Supercharging your Gruntfile: How to squeeze the most out of your build configuration | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
+
+--
+
 * [[GitHub] bazevedo / grunt-workflow](https://github.com/bazevedo/grunt-workflow) - dicas para um workflow com grunt
 
 * [Merrick Christensen - Grunt.js Workflow](http://merrickchristensen.com/articles/gruntjs-workflow.html)
