@@ -709,9 +709,27 @@
 
 * [altJS](http://altjs.org/) - Web coding beyond JavaScript. JavaScript is the only language browsers understand, but JS compilers and converters make it possible to code in a variety of languages and still deploy the result anywhere.
 
+--
+
 * [[GitHub] lkesteloot / turbopascal](lkesteloot / turbopascal) - Web-based Turbo Pascal compiler.
 
     * [Turbo Pascal Compiler](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/) | [try it here](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/demo/)
+
+* [Scala.js](http://www.scala-js.org/) - A Scala to JavaScript compiler
+
+    * [[GitHub] scala-js / scala-js](https://github.com/scala-js/scala-js) - Scala.js, a Scala to JavaScript compiler 
+
+* [CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript
+
+    * [[GitHub] jashkenas / coffee-script](https://github.com/jashkenas/coffee-script/) - Unfancy JavaScript
+
+    * [[CodeSchool] CoffeeScript](http://coffeescript.codeschool.com/)
+
+* [TypeScript](http://www.typescriptlang.org/) - is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+
+    * [[CodePlex] TypeScript](https://typescript.codeplex.com/)
+
+--
 
 * [[GitHub] kripken / lua.vm.js](https://github.com/kripken/lua.vm.js)
     
