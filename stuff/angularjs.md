@@ -178,6 +178,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [ASP.NET MVC and Angular JS with Scott Allen](http://tv.ssw.com/3061/asp-net-mvc-and-angular-js)
 
+* [[YouTube] March - AngularJS MTV Meetup Livestream: CRUD Apps with Angular and Breeze](https://www.youtube.com/watch?v=P2ErSQj3SN8)
+
 --
 
 * [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
