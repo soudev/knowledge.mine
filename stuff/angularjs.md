@@ -884,6 +884,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] urish / angular-moment](https://github.com/urish/angular-moment) - Angular.JS directives for [Moment.JS](http://momentjs.com/) (timeago alternative)
+
 * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses.
 
 
