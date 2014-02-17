@@ -62,4 +62,10 @@
 * [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
 
 
+## Editores de Audio
+
+* [Audacity: Free Audio Editor and Recorder](http://audacity.sourceforge.net/) - é um editor de audio de código aberto, e entre seus recursos estão a reprodução e gravação, importação e exportação de vários formatos de audio (MP3, Ogg, WAV, FLAC e AIFF). 
+
+* [Ardour](http://ardour.org/) - é um editor de código aberto utilizado normalmente por profissionais em audio digital. Para editar, o aplcativo possui recursos como arrastar, cortar, dividir e estender partes de uma trilha de audio. Também é possivel capturar sons e realizar mixagens. Além disso, permite a integração com o Jack OS X e a possibilidade de expostar arquivos TOC e CUE. Está disponível para Mac OS X e Linux.
+
 
