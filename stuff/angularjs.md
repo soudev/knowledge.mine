@@ -485,6 +485,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [A Developer Preview of an AWS SDK for JavaScript in the Browser | Amazon Web Services Blog](http://aws.typepad.com/aws/2013/10/developer-preview-aws-sdk-for-javascript.html)
 
+* [Demos using AWS with Node.JS and an AngularJS frontend | RecursiveRobot](http://www.recursiverobot.com/post/75281512146/demos-using-aws-with-node-js-and-an-angularjs-frontend)
+
 
 ### Decorator
 
@@ -526,6 +528,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [How to structure large angularJS applications | Entwicklertagebuch](http://entwicklertagebuch.com/blog/2013/10/how-to-structure-large-angularjs-applications/)
 
 * [Angular Structure: Refactoring for Growth | John Papa](http://www.johnpapa.net/angular-growth-structure/)
+
+* [[YouTube] Writing a Massive Angular App at Google NG Conf](https://www.youtube.com/watch?v=62RvRQuMVyg) - Discuss the main technical challenges and solutions for large AngularJS applications. Learn about the main code reuse patterns and when to use them, going beyond AngularJS' $resource service for custom server communication, authorization, conditional feature loading, and more.
 
 --
 
