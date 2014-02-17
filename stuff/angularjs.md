@@ -594,6 +594,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] philipsorst / angular-rest-springsecurity](https://github.com/philipsorst/angular-rest-springsecurity) - An example AngularJS Application that uses a Spring Security protected Jersey REST backend based on Hibernate/JPA
 
+* [[GitHub] Yeti-Media / angular-token-authentication](https://github.com/Yeti-Media/angular-token-authentication) - Angular token authentication are services for handling token-based authentication as a client-side session with automatic (optional) handling of REST resources in angular apps. It is divided in two modules.
+
 --
 
 * [Deal with users authentication in an AngularJS web app](http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
