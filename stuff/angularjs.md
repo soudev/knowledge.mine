@@ -323,6 +323,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] mgcrea / angular-7min](https://github.com/mgcrea/angular-7min) - Angular Seven Minute Workout sample mobile app w/ Cordova
 
+* [Adobe Open Source](http://adobe.github.io/)
+
+  * [[GitHub] adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
+
 
 ## Dicas
 
@@ -713,6 +717,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Let's Make Full-Ass AngularJS Directives | @jhooks](http://www.joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives)
 
+* [[Slid.es] Deep Dive into custom Directives](http://slid.es/djsmith/deep-dive-into-custom-directives) -  by djsmith
+
 --
 
 * [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
@@ -736,6 +742,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Angular Directive Examples | Tech Pro](http://tech.pro/tutorial/1603/angular-directive-examples)
 
 * [Refactoring to AngularJS Directive in 9 Steps | Suhair Hassan](http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
+
+--
+
+* [Understanding Transclusion in Angular | Nulogy Blog](http://engineering.nulogy.com/posts/transclusion-in-angular/)
+
+* [AngularJS: Multi-transclusion | Zach Snow](http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/)
 
 --
 
