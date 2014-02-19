@@ -88,6 +88,8 @@
 
 * [7 Useful Mobile HTML, CSS, and JavaScript Snippets | Tech Pro](http://tech.pro/blog/1557/7-useful-mobile-html-css-and-javascript-snippets)
 
+* [[GitHub] dhig / devlinks.co.uk](https://github.com/dhig/devlinks.co.uk) - A collection of links for getting things done
+
 --
 
 * [HTML URL Encoding Reference | w3schools](http://www.w3schools.com/tags/ref_urlencode.asp)
