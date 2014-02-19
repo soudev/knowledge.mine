@@ -72,6 +72,12 @@
 
 * [[Gist] osima / markdownToTextile.groovy](https://gist.github.com/osima/1133674) - Simple converter from markdown to textile.
 
+* [[GitHub] kesla / jsonmark](https://github.com/kesla/jsonmark) - Parse markdown to a very simple json-format that can then be stringified back to markdown
+
+* [[GitHub] chjj / marked](https://github.com/chjj/marked) - A markdown parser and compiler. Built for speed.
+
+* [[GitHub] gjtorikian / namp](https://github.com/gjtorikian/namp) - A fork of chjj's marked that adds some additional features
+
 * [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json) 
 
 * [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF. 
