@@ -920,6 +920,12 @@
 
 * [Bower components](http://sindresorhus.com/bower-components/) - Sistema de busca dos pacotes/componentes indexados pelo Bower
 
+--
+
+* [How to host a private bower registry | ParadigmShift](http://toranbillups.com/blog/archive/2013/08/04/How-to-host-a-private-bower-registry/)
+
+--
+
 * [[YouTube] Conheça o Bower](https://www.youtube.com/watch?v=0XffYRF7-G0)
 
 * [Gerenciando dependências client-side com Bower | Simples Ideias](http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bower)
@@ -934,9 +940,9 @@
 
 * [Package Management for the Browser with Bower | SitePoint](http://www.sitepoint.com/package-management-for-the-browser-with-bower/)
 
-* [How to host a private bower registry | ParadigmShift](http://toranbillups.com/blog/archive/2013/08/04/How-to-host-a-private-bower-registry/)
-
 * [Checking in front-end dependencies | Addy Osmani](http://addyosmani.com/blog/checking-in-front-end-dependencies/)
+
+* [Bower all the things | Roughdraft.io](http://anotheruiguy.roughdraft.io/8927018)
 
 
 #### JamJS
