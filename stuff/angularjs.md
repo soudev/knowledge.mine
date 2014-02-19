@@ -868,6 +868,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] sparkalow / angular-infinite-scroll](https://github.com/sparkalow/angular-infinite-scroll) - Angular directive for infinite scrolling.
 
+* [[GitHub] lorenzofox3 / lrInfiniteScroll](https://github.com/lorenzofox3/lrInfiniteScroll) - directive to register handler when an element is scrolled down near its end
+
 --
 
 * [AngularJS + Chosen Plugin = Awesome](http://onehungrymind.com/angularjs-chosen-plugin-awesome/)
