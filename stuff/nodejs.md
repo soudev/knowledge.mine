@@ -557,6 +557,8 @@
 
 * [[GitHub] boo1ean / casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 
+* [[GitHub] infrared5 / madmin](https://github.com/infrared5/madmin) - admin console for generating mock services with RESTful URIs
+
 --
 
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
