@@ -172,6 +172,10 @@
 
 * [[GitHub] hariadi / grunt-wp2md](https://github.com/hariadi/grunt-wp2md) - Convert WordPress XML to static Markdown files
 
+* [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json) 
+
+* [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF. 
+
 --
 
 * [[GitHub] rubenv / grunt-git](https://github.com/rubenv/grunt-git) - Git commands for grunt
