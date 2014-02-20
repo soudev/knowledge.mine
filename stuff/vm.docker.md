@@ -48,8 +48,6 @@
 
 * [From zero to fully working CI server in less than 10 minutes with Drone & Docker | Jean-Philippe Boily](http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker)
 
-* [[Vimeo] Node.JS and Docker with a side of Continuous Deployment](http://vimeo.com/85864661) - Presented by Niall O'Higgins at JSLA (js.la) on Thursday January 30th 2014. Docker is an incredible new tool to manage the deployment and lifecycle of Node.JS network services. This talk will cover using them together for much Continuous Deployment win.
-
 --
 
 * [Docking your services with Docker | Speaker Deck](https://speakerdeck.com/hagzag/docking-your-services-with-docker) - by Haggai Philip Zagury. A presentation showing how docker & LXC will (future tense) change our lives.
@@ -61,10 +59,6 @@
 * [Day 21: Docker - The Missing Tutorial | OpenShift by Red Hat](https://www.openshift.com/blogs/day-21-docker-the-missing-tutorial)
 
 * [Comparing Containers and Generating Dockerfiles with GuardRail | ScriptRock](https://www.scriptrock.com/blog/comparing-containers-generating-dockerfiles-guardrail/)
-
---
-
-* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
 
 --
 
@@ -80,7 +74,25 @@
 
 * [Baidu using Docker for its PaaS | Docker Blog](http://blog.docker.io/2013/12/baidu-using-docker-for-its-paas/)
 
+--
+
+* [[GitHub] progrium / dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
+
 * [[GitHub] drone / drone](https://github.com/drone/drone) - is a Continuous Integration platform built on Docker
+
+* [[GitHub] Strider-CD / strider](https://github.com/Strider-CD/strider) - is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
+
+
+
+### Node.js
+
+* [[Vimeo] Node.JS and Docker with a side of Continuous Deployment](http://vimeo.com/85864661) - Presented by Niall O'Higgins at JSLA (js.la) on Thursday January 30th 2014. Docker is an incredible new tool to manage the deployment and lifecycle of Node.JS network services. This talk will cover using them together for much Continuous Deployment win.
+
+--
+
+* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
+
+* [[GitHub] apocas / dockerode](https://github.com/apocas/dockerode) - Not just another Docker.io Remote API node.js module
 
 
 ### Red Hat
