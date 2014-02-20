@@ -235,6 +235,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [A Simple Visual Model for Promises | Flippin' Awesome](http://flippinawesome.org/2013/10/14/a-simple-visual-model-for-promises/)
 
+  * [Promises in AngularJS | Radu's blog](http://wooptoo.com/blog/promises-in-angularjs/)
+
 --
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
