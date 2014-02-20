@@ -8,13 +8,13 @@
 > 
 > As ferramentas de automatização/tarefas necessitam e executam sobre o Node.js
 
-* [Gulp, Grunt, Whatever | Pony Foo](http://blog.ponyfoo.com/2014/01/09/gulp-grunt-whatever)
-
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
 
 * [flour](http://ricardo.cc/cake-flour/) - A ferramenta brasileira Flour consiste em um conjunto de ferramentas para projetos javascript com foco na objetividade para rodar tarefas comuns, como: compilação, minificação, validação e concatenação de arquivos.
 
 * [Brunch](http://brunch.io) - ultra-fast HTML5 build tool
+
+* [Gulp, Grunt, Whatever | Pony Foo](http://blog.ponyfoo.com/2014/01/09/gulp-grunt-whatever)
 
 * [Grunt vs Gulp - Beyond the Numbers | Jack Hsu](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
 
