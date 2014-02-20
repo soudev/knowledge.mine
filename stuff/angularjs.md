@@ -966,6 +966,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] ng2 / ng2](https://github.com/ng2/ng2) - minimalistic modular angular.js app generator
 
+* [[GitHub] brunobatista / angularjs-in-action](https://github.com/brunobatista/angularjs-in-action) - Introduction course for AngularJS
+
+--
+
 * [[GitHub] erkobridee / angularjs-ee-boilerplate](https://github.com/erkobridee/angularjs-ee-boilerplate)
 
 * [[GitHub] erkobridee / lab-angularjs](https://github.com/erkobridee/lab-angularjs)
@@ -1005,6 +1009,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] gigablox / angular-art-gallery](https://github.com/gigablox/angular-art-gallery) - Art Gallery application using dynamic API data built with AngularJS
 
 * [[GitHub] konsumer / music_player](https://github.com/konsumer/music_player/) - A simple audio player example that uses Angular 
+
+* [[GitHub] pikock / bootstrap-magic](https://github.com/pikock/bootstrap-magic) - Bootstrap themes generator, featuring Bootstrap 3.1 and AngularJS. Update your variables, change it with a smooth colorpicker and get instantly the result.
 
 --
 
