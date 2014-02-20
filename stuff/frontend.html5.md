@@ -181,7 +181,11 @@
 
 * [Está perdido? Geolocalização! | Tableless](http://tableless.com.br/esta-perdido-geolocalizacao/) - Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
 
+--
+
 * [HTML5 Web Notification](http://jaydson.org/html5-web-notifications/)
+
+* [Criando notificações desktop com HTML5 | Andre Loureiro](http://andrel.me/criando-notificacoes-desktop-com-html5/)
 
 --
 
