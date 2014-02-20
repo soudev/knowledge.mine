@@ -24,7 +24,11 @@
 
 * [[YouTube] Angular.js](https://www.youtube.com/user/angularjs)
 
+* [ng-learn](http://ng-learn.org/)
+
 --
+
+* [AngularJS - ng-conf 2014 - Exclusive | ng-learn](http://ng-learn.org/2014/01/NG-CONF-2014/)
 
 * [[YouTube] ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
 
