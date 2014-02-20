@@ -48,6 +48,8 @@
 
 * [From zero to fully working CI server in less than 10 minutes with Drone & Docker | Jean-Philippe Boily](http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker)
 
+* [[Vimeo] Node.JS and Docker with a side of Continuous Deployment](http://vimeo.com/85864661)
+
 --
 
 * [Docking your services with Docker | Speaker Deck](https://speakerdeck.com/hagzag/docking-your-services-with-docker) - by Haggai Philip Zagury. A presentation showing how docker & LXC will (future tense) change our lives.
