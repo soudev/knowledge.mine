@@ -98,6 +98,8 @@
 
 * [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/) - A jQuery Plugin for Responsive Menus
 
+* [DataTables](http://datatables.net/) - is a plug-in for the jQuery. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.
+
 
 ### Template Engine
 
