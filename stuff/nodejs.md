@@ -327,10 +327,6 @@
 
 --
 
-* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
-
---
-
 * [[GitHub] pablodenadai / GameOn](https://github.com/pablodenadai/GameOn) - responsive front-end webapp built on NodeJS and Angular
 
   * [GameOn](http://gameon.jit.su/) - connects you with the players in your city and allows you to find, organize and share games effortlessly.
@@ -740,6 +736,15 @@
 --
 
 * [[GitHub] mcavage / node-ldapjs](https://github.com/mcavage/node-ldapjs) - LDAP Client and Server API for node.js
+
+
+### Virtualização
+
+#### Docker
+
+* [[Vimeo] Node.JS and Docker with a side of Continuous Deployment](http://vimeo.com/85864661)
+
+* [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
 
 
 ### Nuvem
