@@ -139,6 +139,8 @@
 
 --
 
+* [How to prefetch video/audio files for uninterrupted playback in HTML5 video/audio | Thundering Herd](http://blog.pearce.org.nz/2014/02/how-to-prefetch-videoaudio-files-for.html)
+
 * [Capturing Audio & Video in HTML5 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
 
 * [Making HTML5 audio actually work on mobile](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
