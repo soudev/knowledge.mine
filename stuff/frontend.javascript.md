@@ -148,7 +148,13 @@
 
 --
 
-* [Design Patterns no JavaScript – Singleton | Simples Ideias](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
+* Simples Ideias
+
+    * [Design Patterns no JavaScript – Singleton](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
+
+    * [Design Patterns no JavaScript – Factory](http://simplesideias.com.br/design-patterns-no-javascript-factory)
+
+    * [Design Patterns no JavaScript – Decorator](http://simplesideias.com.br/design-patterns-no-javascript-decorator)
 
 --
 
