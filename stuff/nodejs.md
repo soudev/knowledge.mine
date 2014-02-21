@@ -307,6 +307,8 @@
 
 * [[GitHub] broofa / node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 
+* [[GitHub] dilvie / cuid](https://github.com/dilvie/cuid) - Collision-resistant ids optimized for horizontal scaling and performance
+
 * [[GitHub] dylang / shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
 
   * [[GitHub] jetpks / shortness](https://github.com/jetpks/shortness) - A url shortening library written with node.js and sqlite3
