@@ -567,6 +567,10 @@
 
 * [How to Create a Resumable Video Uploader in Node.js | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-a-resumable-video-uploade-in-node-js/)
 
+* [Super simple file upload with node.js | Tanya Nam](http://tanyanam.com/everything/super-simple-file-upload-with-node-js)
+
+* [node.js HTML5 file uploader | DavidPirek](http://www.davidpirek.com/blog/nodejs-html5-file-uploader)
+
 --
 
 * [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
@@ -820,8 +824,6 @@
 
 * [NodeJS Deploying Files to AWS S3](http://blog.katworksgames.com/2014/01/26/nodejs-deploying-files-to-aws-s3/)
 
-* [[GitHub] devcollectief / express-upload](https://github.com/devcollectief/express-upload) - Streaming multiple large files to AWS S3 with Multipart API, Formidable & Jquery File Upload
-
 
 #### Windows Azure
 
@@ -911,6 +913,8 @@
 --
 
 * [[GitHub] felixge / node-formidable](https://github.com/felixge/node-formidable) - A node.js module for parsing form data, especially file uploads
+
+  * [[GitHub] devcollectief / express-upload](https://github.com/devcollectief/express-upload) - Streaming multiple large files to AWS S3 with Multipart API, Formidable & Jquery File Upload
 
 --
 
