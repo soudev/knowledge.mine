@@ -835,6 +835,8 @@
 
 * [Node.js on Windows Azure](http://www.windowsazure.com/en-us/develop/nodejs/) - Get the tools, documentation, sample code and other resources you need to build powerful Node.js applications on Windows Azure.
 
+* [How to Use the Blob Service from Node.js](http://www.windowsazure.com/en-us/documentation/articles/storage-nodejs-how-to-use-blob-storage/)
+
 
 ### Mobile
 
