@@ -886,8 +886,11 @@
 
     * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
 
-* [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
+--
 
+* [[GitHub] felixge / node-formidable](https://github.com/felixge/node-formidable) - A node.js module for parsing form data, especially file uploads
+
+--
 
 * [Geddy](http://geddyjs.org/) - A simple, structured web framework for Node
 
@@ -910,6 +913,8 @@
     * [Node.js para leigos - Explorando real-time | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-explorando-real-time/)
     * [Real-time com Socket.IO no Node.js | Underground WebDev](http://udgwebdev.com/real-time-com-socket-io-no-nodejs/)
     * [Express, Socket.IO e Sessions | Underground WebDev](http://udgwebdev.com/nodejs-express-socketio-e-sessions/)
+
+  * [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
 
 --
 
