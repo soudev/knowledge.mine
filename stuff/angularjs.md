@@ -603,6 +603,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[YouTube] Frontend Workflows with Grunt and Angular JS](https://www.youtube.com/watch?v=fSAgFxjFSqY)
 
 
+### Upload File(s)
+
+* [Multipart/form-data File Upload with AngularJS | Uncorked Studios](http://uncorkedstudios.com/blog/multipartformdata-file-upload-with-angularjs)
+
+* [A directive to manage file upload in an AngularJS application | Web Development blog](http://blog.brunoscopelliti.com/a-directive-to-manage-file-upload-in-an-angularjs-application)
+
+
 ### Autenticação
 
 * [[GitHub]  andreareginato / ng-oauth](https://github.com/andreareginato/ng-oauth) - AngularJS directive working with the OAuth2 Implicit Flow
@@ -816,6 +823,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Use Cases of AngularJS Directives | Web Development blog](http://blog.brunoscopelliti.com/use-cases-of-angularjs-directives)
 
 * [A directive to manage file upload in an AngularJS application | Web Development blog](http://blog.brunoscopelliti.com/a-directive-to-manage-file-upload-in-an-angularjs-application)
+
+* [[GitHub] danialfarid / angular-file-upload](https://github.com/danialfarid/angular-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
 
 * [AngularJS Directive to check that passwords match | Web Development blog](http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 
