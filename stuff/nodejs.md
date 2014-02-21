@@ -317,7 +317,9 @@
 
   * [[GitHub] jetpks / shortness](https://github.com/jetpks/shortness) - A url shortening library written with node.js and sqlite3
 
-* [[GitHub] edwardhotchkiss / short](https://github.com/edwardhotchkiss/short) - Promise-based Node.js URL Shortener backed by Mongoose.js
+* [[GitHub] UmbraEngineering / short-id](https://github.com/UmbraEngineering/short-id) - Short ID String Generation for Node.js
+
+* [[GitHub] edwardhotchkiss / short](https://github.com/edwardhotchkiss/short) - Promise-based Node.js URL Shortener (use short-id) backed by Mongoose.js
 
   * [[GitHub] thinkroth / shortUrl](https://github.com/thinkroth/shortUrl) - Another short url service in node.js
 
