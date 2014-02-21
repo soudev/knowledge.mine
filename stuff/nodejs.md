@@ -239,6 +239,10 @@
 
 --
 
+* [[GitHub] NarrativeScience / Log.io](https://github.com/NarrativeScience/Log.io)
+
+  * [log.io](http://logio.org/) - Real-time log monitoring in your browser
+
 * [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
 
 * [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
