@@ -617,6 +617,19 @@
 
 * [[GitHub] Mashape / guardian](ape/guardian) - Authentication Proxy Server, instead of dealing with providers now you can authenticate against any service with a simple json data-structure and plugin architecture.
 
+#### WebID
+
+* [WebID - Universal Login and Identity for the Web](http://webid.info/)
+
+  * [WebID - Universal Login for the Web | Digital Bazaar](http://digitalbazaar.com/2010/08/07/webid/)
+
+--
+
+* [[GitHub] magnetik / node-webid-demo](https://github.com/magnetik/node-webid-demo)
+
+  * [Node WebId Report](http://magnetik.github.io/node-webid-report/)
+
+
 
 ### modulo
 
