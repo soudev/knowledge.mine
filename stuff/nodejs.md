@@ -607,6 +607,10 @@
 
 * [[Slid.es] https & authentication in node.js](http://slid.es/jeroenmoors/https-authentication-in-nodejs) - by Jeroen Moors
 
+  * [[GitHub] jeroenmoors / nodettps](https://github.com/jeroenmoors/nodettps) - https experiments with node.js
+
+* [[GitHub] tgies / client-certificate-auth](https://github.com/tgies/client-certificate-auth) - middleware for Node.js implementing client SSL certificate authentication/authorization
+
 * [[GitHub] kenshiro-o / login-utils](https://github.com/kenshiro-o/login-utils) - Simple authentication library
 
 * [[GitHub] dilvie / credential](https://github.com/dilvie/credential) - Easy password hashing and verification in Node. Protects against brute force, rainbow tables, and timing attacks.
