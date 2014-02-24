@@ -303,7 +303,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 
 
-## Caso de Uso
+## Casos de Uso
 
 * [Aplicações construídas com Angular.js](http://builtwith.angularjs.org/)
 
