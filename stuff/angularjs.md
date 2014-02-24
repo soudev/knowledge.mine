@@ -615,6 +615,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [A directive to manage file upload in an AngularJS application | Web Development blog](http://blog.brunoscopelliti.com/a-directive-to-manage-file-upload-in-an-angularjs-application)
 
+* [Async upload using angular-file-upload directive and .net WebAPI service | Mono Service](http://www.mono-software.com/blog/post/Mono/233/Async-upload-using-angular-file-upload-directive-and-net-WebAPI-service/)
+
+* [AngularJS File Upload | Web Builder Zone](http://css.dzone.com/articles/angularjs-file-upload) - Recently I had some time to play around with AngularJS. More specifically I had to implement a jQuery based [file upload widget](http://blueimp.github.io/jQuery-File-Upload/). The widget’s demo site already contains an AngularJS demo, but I wanted a minimum setup, so I started from scratch and figured out the necessary parts to implement the file upload using ASP.NET MVC as the server-side platform.
+
 
 ### Autenticação
 
