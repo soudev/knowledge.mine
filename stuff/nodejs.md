@@ -205,6 +205,12 @@
 
 --
 
+* [KeystoneJS](http://keystonejs.com/) - Node.js content management system and web application platform built on express and mongo. 
+  
+  * [[GitHub] JedWatson / keystone](https://github.com/JedWatson/keystone) - node.js cms and web app framework
+
+--
+
 * [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript. 
 
   * [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
@@ -512,6 +518,8 @@
 * [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
 
 * [Build Custom Shells with Node Shotgun | Code Tunnel](http://codetunnel.com/blog/post/build-custom-shells-with-node-shotgun)
+
+* [[GitHub] pstadler / flightplan](https://github.com/pstadler/flightplan) - Node.js library for streamlining application deployment or systems administration tasks.
 
 --
 
