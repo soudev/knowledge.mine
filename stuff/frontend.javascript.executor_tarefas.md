@@ -269,3 +269,6 @@
 ##### Construído sobre o Grunt.js
 
 * [Lineman](http://www.linemanjs.com/) - Build awesome web apps, easily. Lineman got its name from finding that the word "grunt" was first used to describe unskilled railroad workers. Grunts that made the cut were promoted to linemen.
+
+  * [[GitHub] linemanjs / lineman-angular-template](https://github.com/linemanjs/lineman-angular-template) - A Lineman Application Template using AngularJS
+
