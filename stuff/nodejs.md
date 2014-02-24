@@ -104,6 +104,8 @@
 
 * [Using Node.s Event Module | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/using-nodes-event-module/)
 
+* [Understanding Exceptions and Domains in Node.js | How to JS](http://www.howtojs.org/understanding-exceptions-domains-in-nodejs/)
+
 --
 
 * [NodeBR](http://nodebr.com/)
