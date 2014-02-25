@@ -135,6 +135,8 @@
 
 * [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
 
+* [Using blend modes in HTML Canvas | Web Platform Team Blog](http://blogs.adobe.com/webplatform/2014/02/24/using-blend-modes-in-html-canvas/)
+
 * [Tiny Raytracer | Gabriel Gambetta](http://www.gabrielgambetta.com/tiny_raytracer.html)
 
 --
