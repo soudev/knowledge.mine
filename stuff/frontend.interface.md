@@ -57,6 +57,10 @@
 
 --
 
+* [Roll Your Own HTML5 Web Components with Vanilla JS | Gaslight](http://gaslight.co/blog/roll-your-own-html5-web-components-with-vanilla-js)
+
+--
+
 * [Polymer](http://www.polymer-project.org/)
 
   * [Polymer.js Cheat Sheet](http://www.cheatography.com/jonathanberi/cheat-sheets/polymer-js/) - by jonathanberi
