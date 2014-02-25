@@ -295,6 +295,8 @@
 
 * [Numbers and JavaScript's Dot Notation | Design Pepper](http://designpepper.com/blog/drips/numbers-and-javascripts-dot-notation)
 
+* [What Every JavaScript Developer Should Know About Floating Points | Flippin' Awesome](http://flippinawesome.org/2014/02/17/what-every-javascript-developer-should-know-about-floating-points/)
+
 * [Random Number Generation in JavaScript | Bocoup](http://weblog.bocoup.com/random-numbers/)
 
 * [Prime Numbers, Factorial, and Fibonacci Series with JavaScript Array](http://ariya.ofilabs.com/2013/07/prime-numbers-factorial-and-fibonacci-series-with-javascript-array.html)
