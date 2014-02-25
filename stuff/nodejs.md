@@ -706,6 +706,8 @@
 
 * [npmjs.eu - European npm mirror](http://npmjs.eu/)
 
+  * [Using the European npm mirror | Shape Shed](http://shapeshed.com/using-the-european-npm-mirror/)
+
 * [How to create a private npm.js repository | Clock Blog](http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository)
 
 * [A private NPM cache | Yammer Engineering](http://eng.yammer.com/a-private-npm-cache/)
