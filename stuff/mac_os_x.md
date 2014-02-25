@@ -57,6 +57,13 @@
 * [Como usar o editor iMovie; veja os truques para Mac | Dicas e Tutoriais | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/02/como-usar-o-editor-imovie-veja-os-truques-para-mac.html)
 
 
+## Fontes
+
+* [Web Font Generator for Mac OSX | FontPrep](http://fontprep.com/)
+
+  * [[GitHub] briangonzalez / fontprep](https://github.com/briangonzalez/fontprep) - The missing font generator for Mac OSX
+
+
 ## UNIX - shell
 
 * [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
