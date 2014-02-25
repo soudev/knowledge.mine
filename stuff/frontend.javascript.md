@@ -146,6 +146,8 @@
 
 * [Writing third-party Javascript | Frontend and beyond — Medium](https://medium.com/frontend-and-beyond/2808a8d85a0a)
 
+* [JavaScript API and its Design Principles | Speaker Deck](https://speakerdeck.com/ariya/javascript-api-and-its-design-principles)
+
 --
 
 * Simples Ideias
