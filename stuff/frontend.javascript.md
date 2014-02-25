@@ -451,6 +451,11 @@
 
 * [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
+* [[GitHub] umdjs / umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere
+
+    * [[GitHub] alexlawrence / grunt-umd](https://github.com/alexlawrence/grunt-umd) - Surrounds code with the universal module definition
+
+
 * [Mantri](http://mantrijs.com/) - JavaScript Dependency System
 
 
@@ -464,6 +469,8 @@
     * [Introduction to Browserify | Blake Embrey](http://blakeembrey.com/articles/introduction-to-browserify/)
 
     * [A collection of useful Browserify resources | learnjs.io](http://learnjs.io/blog/2013/11/24/browserify-resources/)
+
+    * [Browserify and the Universal Module Definition | dontkry.com](http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html)
 
 
 #### Require.js - Performance e Organização
