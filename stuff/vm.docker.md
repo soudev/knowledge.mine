@@ -84,6 +84,11 @@
 
 --
 
+* [Backup Docker to Amazon S3 | stefanXO](http://blog.stefanxo.com/2014/02/backup-docker-to-amazon-s3/)
+
+
+### Soluções
+
 * [[GitHub] progrium / dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
 
 * [[GitHub] drone / drone](https://github.com/drone/drone) - is a Continuous Integration platform built on Docker
