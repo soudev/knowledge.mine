@@ -12,6 +12,12 @@
 
 --
 
+* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) - by Erika Heidi [Leanpub PDF/iPad/Kindle]
+
+  * [Vagrant | Erika Heidi](http://www.erikaheidi.com/vagrant/)  
+
+--
+
 * [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
 --
