@@ -912,6 +912,8 @@
 
   * [DozerJS](http://dozerjs.com/) - is a system for rapidly developing services to support front-end applications
 
+    * [Simple Todo List App with DozerJS | fluidbyte](http://www.fluidbyte.net/simple-todo-list-app-with-dozerjs/)
+
   * [ExpressWorks | webapplog](http://webapplog.com/expressworks/) - is an automated Express.js/Node.js workshop
 
   * [Express.js Fundamentals | Flippin' Awesome](http://flippinawesome.org/2013/11/11/express-js-fundamentals/)
