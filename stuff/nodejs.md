@@ -259,6 +259,10 @@
 
 * [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
 
+* [dnc : a CLI tool to check domain names configuration and statistics](http://www.cambus.net/dnc-a-cli-tool-to-check-domain-names-configuration-and-statistics/)
+
+  * [[GitHub] fcambus / dnc](https://github.com/fcambus/dnc) - A CLI tool to check domain names configuration and statistics
+
 * [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
 
 * [[GitHub] gravityonmars / nodejs-starter](https://github.com/gravityonmars/nodejs-starter) - Simple project setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap
