@@ -123,6 +123,8 @@
 
 * [JS Sequence Diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 
+* [JointJS](http://www.jointjs.com/) - the HTML 5 JavaScript diagramming library
+
 
 ### Widget
 
