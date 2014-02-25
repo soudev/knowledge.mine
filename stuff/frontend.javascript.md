@@ -1025,5 +1025,9 @@
 
     * Store: A Sammy.js Tutorial [Part I](http://sammyjs.org/docs/tutorials/json_store_1) | [Part II](http://sammyjs.org/docs/tutorials/json_store_2) | [[GitHub] quirkey / the_json_store](https://github.com/quirkey/the_json_store)
 
---
+
+### ECMAScript 6
+
+* [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
+
 
