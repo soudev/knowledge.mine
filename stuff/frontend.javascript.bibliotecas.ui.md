@@ -242,6 +242,8 @@
 
 * [Rotate the World in D3.js](http://www.jasondavies.com/maps/rotate/)
 
+* [D3.js Geo fun | maori.geek](http://maori.geek.nz/post/d3_js_geo_fun)
+
 
 ##### bl.ocks.org
 
