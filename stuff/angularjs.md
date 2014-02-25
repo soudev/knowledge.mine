@@ -333,6 +333,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] mgcrea / angular-7min](https://github.com/mgcrea/angular-7min) - Angular Seven Minute Workout sample mobile app w/ Cordova
 
+* [[GitHub] CapMousse / AngularTracker](https://github.com/CapMousse/AngularTracker) - Small time tracker built with AngularJS | i18n support
+
 * [Adobe Open Source](http://adobe.github.io/)
 
   * [[GitHub] adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
