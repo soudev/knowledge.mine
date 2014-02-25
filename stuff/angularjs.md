@@ -364,6 +364,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Conjunto de materiais úteis](http://mattkruse.com/angular/) - PDFs
 
+* [Angular.js Demos, Examples, and Resources | TechSlides](http://techslides.com/angular-js-demos-examples-and-resources/)
+
 * [AngularJS Best Practices | Jaco Pretorius](http://www.jacopretorius.net/2013/07/angularjs-best-practices.html)
 
 * [8 Tips for Angular.js Beginners](http://vxtindia.com/blog/8-tips-for-angular-js-beginners/)
