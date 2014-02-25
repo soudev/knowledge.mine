@@ -352,6 +352,8 @@
 
 * [Regular Expressions Cheat Sheet by DaveChild](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
+* [JavaScript RegExp Object | w3schools.com](http://www.w3schools.com/jsref/jsref_obj_regexp.asp)
+
 * [Regular expressions in JavaScript - Dive Into JavaScript](http://www.diveintojavascript.com/articles/javascript-regular-expressions)
 
 * [JavaScript: an overview of the regular expression API | 2ality](http://www.2ality.com/2011/04/javascript-overview-of-regular.html)
