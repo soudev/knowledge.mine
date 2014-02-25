@@ -586,6 +586,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Easy global i18n angularJS language translations for your Angular app | ng-newsletter](http://www.ng-newsletter.com/posts/angular-translate.html)
 
+* [Angular JS localization with Require JS i18n module | Cloud Spinners Development Blog](http://dev-blog.cloud-spinners.com/2014/02/angular-js-localization-with-require-js.html)
+
 
 ### Escopo e informações
 
