@@ -911,6 +911,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] Pasvaz / bindonce](https://github.com/Pasvaz/bindonce) - Zero watches binding for AngularJs
 
+* [[GitHub] jtrussell / angular-selection-model](https://github.com/jtrussell/angular-selection-model) - The selection management companion for ngRepeat 
+
 * [[GitHub] 2fdevs / videogular](https://github.com/2fdevs/videogular) - An HTML5 video player for AngularJS
 
 * [[GitHub] eu81273 / angular.treeview](https://github.com/eu81273/angular.treeview) - AngularJS based Treeview (no jQuery)
