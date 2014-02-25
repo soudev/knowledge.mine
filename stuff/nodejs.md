@@ -211,6 +211,12 @@
 
 --
 
+* [bitcore](http://bitcore.io/) - A pure, powerful core for your bitcoin project. Bitcore is a complete, native interface to the Bitcoin network, and provides the core functionality needed to develop apps for bitcoin.
+
+  * [[GitHub] bitpay / bitcore](https://github.com/bitpay/bitcore)
+
+--
+
 * [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript. 
 
   * [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
@@ -897,6 +903,8 @@
 * [Express.js](http://expressjs.com/)
 
   * [Kraken.js](http://krakenjs.com/) - The kraken suite is a secure and scalable layer that extends express by providing structure and convention
+
+  * [DozerJS](http://dozerjs.com/) - is a system for rapidly developing services to support front-end applications
 
   * [ExpressWorks | webapplog](http://webapplog.com/expressworks/) - is an automated Express.js/Node.js workshop
 
