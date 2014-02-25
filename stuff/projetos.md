@@ -32,6 +32,8 @@
 
 * [ScrumBut - você usa e nem sabia | iMasters﻿](http://imasters.com.br/desenvolvimento/agile/scrumbut-voce-usa-e-nem-sabia/)
 
+* [Gerenciando projetos com Github e ZenHub | Elton Minetto](http://eltonminetto.net/blog/2014/01/02/gerenciando-projetos-com-github-e-zenhub/)
+
 
 ## Estimativa
 
