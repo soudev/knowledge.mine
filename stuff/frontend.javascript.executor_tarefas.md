@@ -42,6 +42,8 @@
 
 * [Managing Your Build Tasks With Gulp.js | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 
+* [Exploring A Generator For Gulp.js | Yeoman](http://yeoman.io/blog/gulp-explore.html)
+
 --
 
 * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
