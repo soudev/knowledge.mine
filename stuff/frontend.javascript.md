@@ -663,6 +663,8 @@
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
 
+* [PouchDB](http://pouchdb.com/) - the JavaScript Database that Syncs! PouchDB is an Open Source JavaScript Database inspired by Apache CouchDB that is designed to run well within the browser.
+
 --
 
 * [Squel.js](http://hiddentao.github.io/squel/) - lightweight Javascript library for building SQL query strings.
