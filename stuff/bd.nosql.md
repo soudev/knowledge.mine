@@ -208,6 +208,10 @@
 
 * [MongoDB Gotchas & How To Avoid Them](http://rsmith.co/2012/11/05/mongodb-gotchas-and-how-to-avoid-them/)
 
+* [Top 5 syntactic weirdnesses to be aware of in MongoDB | Slava Kim](http://devblog.me/wtf-mongo)
+
+--
+
 * [MongoDB Quick Start - Replica Sets and Sharding](http://alexyu.se/content/2012/04/mongodb-quick-start-replica-sets-and-sharding)
 
 * [MongoDB scalability and high availability with Replica-Set](http://vparihar01.github.io/talks/2013/10/27/MongoDB-Scalability-and-High-Availabiltity-with-Replica-Sets/)
