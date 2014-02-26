@@ -571,6 +571,8 @@
 
 * [[GitHub] caolan / highland](https://github.com/caolan/highland) - The high-level streams library for Node.js and the browser
 
+* [[GitHub] maxogden / eol-stream](https://github.com/maxogden/eol-stream) - detect which type of EOL (AKA line-ending, newline) characters are in a stream
+
 --
 
 * [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
