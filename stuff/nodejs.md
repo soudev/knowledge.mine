@@ -802,6 +802,8 @@
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
 
+* [PouchDB](http://pouchdb.com/) - the JavaScript Database that Syncs! PouchDB is an Open Source JavaScript Database inspired by Apache CouchDB that is designed to run well within the browser.
+
 --
 
 * [LevelDB and Node.js Sitting in a Tree](http://r.va.gg/presentations/node.ninjas)
@@ -825,6 +827,14 @@
 
 
 ### Nuvem
+
+### Privada / Pessoal
+
+* [Cozy](http://cozy.io/) - a personal Cloud you can host, hack and delete Your web apps and your data on your hardware
+
+  * [[GitHub] mycozycloud / cozy-setup](https://github.com/mycozycloud/cozy-setup)
+
+
 
 #### Amazon AWS
 
