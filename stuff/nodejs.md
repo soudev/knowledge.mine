@@ -565,6 +565,8 @@
 
 * [[GitHub] substack / stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 
+* [[GitHub] caolan / highland](https://github.com/caolan/highland) - The high-level streams library for Node.js and the browser
+
 --
 
 * [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
