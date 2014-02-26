@@ -14,6 +14,12 @@
 
 * [Brunch](http://brunch.io) - ultra-fast HTML5 build tool
 
+* [[GitHub] fez / fez](https://github.com/fez/fez) - File-based build tool for Javascript
+
+  * [Using Grunt? Consider Fez | Flippin' Awesome](http://flippinawesome.org/2014/02/24/using-grunt-consider-fez/)
+
+--
+
 * [Gulp, Grunt, Whatever | Pony Foo](http://blog.ponyfoo.com/2014/01/09/gulp-grunt-whatever)
 
 * [Grunt vs Gulp - Beyond the Numbers | Jack Hsu](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
