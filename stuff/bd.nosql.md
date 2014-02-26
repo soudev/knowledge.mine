@@ -139,7 +139,9 @@
 
 ### CouchDB
 
-* [CoucgDB | Apache](https://couchdb.apache.org/)
+* [CouchDB | Apache](https://couchdb.apache.org/)
+
+  * [CouchDB: The Definitive Guide](http://guide.couchdb.org/draft/) - draft
 
 * [CouchBase](http://www.couchbase.com/)
 
