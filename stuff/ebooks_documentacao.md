@@ -38,6 +38,8 @@
 
 --
 
+* [DevFuria](http://www.devfuria.com.br/) - Cursos, aulas, tutoriais, apostilas, matérias sobre programação web prá ninguém botar defeito! [ JavaScript, PHP, HTML & CSS, Lógica de Programação, MySQL & SQL, RegExp ]
+
 * [Apostila Desenvolvimento Web com HTML, CSS e JavaScript | Caelum](http://www.caelum.com.br/apostila-html-css-javascript/)
 
 * [45 Free eBooks for Developers and Designers | Speckyboy Design Magazine](http://speckyboy.com/2011/01/12/45-free-ebooks-for-developers-and-designers/)
