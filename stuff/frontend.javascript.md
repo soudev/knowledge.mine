@@ -932,6 +932,8 @@
 
     * [Introduction to Component | Samll.js](http://smalljs.org/package-managers/component-part-1/)
 
+    * [Introduction to the Component JavaScript Package Manager | Flippin Awesome](http://flippinawesome.org/2014/02/17/introduction-to-the-component-javascript-package-manager/)
+
 
 #### Bower
 
