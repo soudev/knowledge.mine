@@ -487,6 +487,10 @@
 
 * [Nodejs Deployment: Building and Configuring on Amazon Linux AMI | Asaf Shakarchi](http://asaf.github.io/blog/2013/07/10/nodejs-deployment-building-and-configuring-on-amazon-linux-ami/)
 
+* [Continuous Deployment With Github](http://codesquire.com/post/ContinuousDeployment) - github + nodejs (+ gith) + VPS
+
+* [[GitHub] danheberden / gith](https://github.com/danheberden/gith) - simple node server that responds to github post-receive events with meaningful data
+
 --
 
 * [Topic: Automatically restart your node.js server after code updates | StrongLoop](http://strongloop.com/node-republic-topics/automatically-restart-your-node-js-server-after-code-updates/)
