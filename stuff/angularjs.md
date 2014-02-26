@@ -990,6 +990,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Preparing for Animations in Angular 1.2.0 | John Papa](http://www.johnpapa.net/preparing-for-animations-in-angular-1-2-0/)
 
+* [Animating AngularJS Apps: ngView | Scotch](http://scotch.io/tutorials/javascript/animating-angularjs-apps-ngview)
+
 
 ## Projetos de Exemplo
 
