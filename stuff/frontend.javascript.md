@@ -317,6 +317,8 @@
 
 * [Fun with Native Arrays | Pony Foo](http://blog.ponyfoo.com/2013/11/19/fun-with-native-arrays)
 
+* [Ditch the [].forEach.call(NodeList) hack | toddmotto](http://toddmotto.com/ditch-the-array-foreach-call-nodelist-hack/)
+
 --
 
 * [A Spreadsheet in 295 bytes of JavaScript](http://aem1k.com/sheet/)
