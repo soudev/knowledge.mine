@@ -700,6 +700,8 @@
 
   * [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
 
+  * [Ionic – Mobile UI Framework for PhoneGap/Cordova Developers | Devgirl's Weblog](http://devgirl.org/2014/01/20/ionic-mobile-ui-framework-for-phonegapcordova-developers/)
+
 
 ##### Firefox OS
 
@@ -728,6 +730,8 @@
 * [Adobe PhoneGap 3.0 Released](http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/)
 
 * [Phonegap 3.0 mais rápido e muito mais adaptável | Igor Costa](http://www.igorcosta.com/phonegap-3-0-mais-rapido-e-muito-mais-adaptavel/)
+
+* [PhoneGap 3.0 - Stuff You Should Know | Devgirl's Weblog](http://devgirl.org/2013/09/05/phonegap-3-0-stuff-you-should-know/)
 
 * [CPBR6 slides da palestra Phonegap | Igor Costa](http://www.igorcosta.com/slides-phonegap/)
 
