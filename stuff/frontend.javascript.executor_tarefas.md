@@ -72,6 +72,8 @@
 
 * [Getting started with Grunt | Blog - Fronto](http://fronto.be/blog/detail/getting-started-with-grunt)
 
+* [GruntJS - Por onde começar? | Volts Digital](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
+
 * [Sample Gruntfile - Grunt: The JavaScript Task Runner](http://gruntjs.com/sample-gruntfile)
 
 * [[YouTube] Grunt - The Basics](https://www.youtube.com/watch?v=q3Sqljpr-Vc) | [[GitHub] CaryLandholt / Tutorial-Grunt-TheBasics](https://github.com/CaryLandholt/Tutorial-Grunt-TheBasics)
