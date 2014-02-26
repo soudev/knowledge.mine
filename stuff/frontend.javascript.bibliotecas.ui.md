@@ -68,6 +68,8 @@
 
 * [[GitHub] colintoh / skylo](https://github.com/colintoh/skylo) - Twitter Bootstrap Extension to add progress bar at the top of the page
 
+* [[GitHub] jacoborus / nanobar](https://github.com/jacoborus/nanobar) - Very very lighweight progress bars. No jQuery required
+
 * [AdminJS](http://adminjs.com/) - The Backend-Agnostic Administration Framework
 
 * [QuestionMark.js](http://impressivewebs.github.io/QuestionMark.js/) - modal window that displays shortcut keys for your app | [Demo Page](http://www.impressivewebs.com/demo-files/question-mark-js/)
