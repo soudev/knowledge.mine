@@ -396,11 +396,19 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Communication in Angular using the pubsub pattern | Per Ploug](http://scriptogr.am/pploug/post/communication-in-angular-using-the-pubsub-pattern)
 
+--
+
 * [[YouTube] AngularJS Factory vs. Service](https://www.youtube.com/watch?v=A6cJasNBkyI)
 
 * [Angular service or factory? | Iffy Can](http://iffycan.blogspot.com.br/2013/05/angular-service-or-factory.html)
 
 * [[Gist] Difference between Service, Factory and Provider in AngularJS](https://gist.github.com/Mithrandir0x/3639232)
+
+* [Service Providers in AngularJS and Logger Implementation | Web Development is Easy!](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
+
+  * [[GitHub] naorye / angular-ny-logger](https://github.com/naorye/angular-ny-logger) - AngularJS Logger service provider
+
+--
 
 * [When to use directives, controllers, or services in Angular JS | Kirk Bushell](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
 
