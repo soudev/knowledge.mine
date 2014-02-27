@@ -602,6 +602,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular JS localization with Require JS i18n module | Cloud Spinners Development Blog](http://dev-blog.cloud-spinners.com/2014/02/angular-js-localization-with-require-js.html)
 
+* [Localizing Your AngularJS Apps: Update | Coding Smackdown TV](http://codingsmackdown.tv/blog/2013/04/23/localizing-your-angularjs-apps-update/)
+
 * [[GitHub] rubenv / angular-gettext](https://github.com/rubenv/angular-gettext) - Gettext support for Angular.js
 
   * [AngularJS - Part 12, Multi language support | Gabriel Schenker's Blog]()
