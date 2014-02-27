@@ -1002,6 +1002,10 @@
 
 --
 
+* [[GitHub] martinandert / counterpart](https://github.com/martinandert/counterpart) - A translation and localization library for Node.js and the browser.
+
+--
+
 * [meteor](http://www.meteor.com/)
 
   * [Introdução sobre Meteor | Underground WebDev](http://udgwebdev.com/introducao-sobre-meteor/)

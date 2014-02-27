@@ -28,6 +28,10 @@
 
 --
 
+* [[GitHub] martinandert / counterpart](https://github.com/martinandert/counterpart) - A translation and localization library for Node.js and the browser.
+
+--
+
 * [ContextJS](http://lab.jakiestfu.com/contextjs/) - Sweet simple context menu with amazing support!
 
 * [flyLabel.js](http://athaeryn.github.io/flyLabel.js/) - flexible floating form labels to make your boring placeholders super fly
