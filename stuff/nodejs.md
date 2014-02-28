@@ -247,6 +247,12 @@
 
 --
 
+* [[GitHub] dynjs / dynjs](https://github.com/dynjs/dynjs) - (almost) 100% invokedynamic js impl. DynJS is an ECMAScript runtime for the JVM.
+
+* [[GitHub] projectodd / nodyn](https://github.com/projectodd/nodyn) - A node.js compatible framework, running on the JVM. Powered by Vert.x and the DynJS Javascript runtime.s
+
+--
+
 * [[GitHub] YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
 
 * [How to run Node.js on the JVM with Avatar.js and LoopBack | StrongLoop](http://strongloop.com/strongblog/how-to-run-node-js-on-the-jvm-with-avatar-js-and-loopback/)
