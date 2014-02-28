@@ -391,6 +391,9 @@
 
 * [[GitHub] mdevils / node-jscs](https://github.com/mdevils/node-jscs) - JavaScript Code Style checker
 
+* [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
+
+
 
 ### Boilerplate
 
