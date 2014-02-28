@@ -70,6 +70,7 @@
 
 * [130+ essential vim commands | CatsWhoCode](http://www.catswhocode.com/blog/130-essential-vim-commands)
 
+
 ### Brackets
 
 * [Brackets.io](http://brackets.io/)
@@ -81,4 +82,12 @@
   * [Deeper In the Brackets Editor | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/deeper-in-the-brackets-editor/)
   
   * [Creating Brackets Extensions | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/creating-brackets-extensions/)
+
+
+### Atom
+
+* [Atom](http://atom.io/)
+
+* [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
+
 
