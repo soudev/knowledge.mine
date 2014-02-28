@@ -1017,6 +1017,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [ng-boilerplate | Non-Trivial AngularJS Made Easy](http://joshdmiller.github.com/ng-boilerplate/) - Everything you need to kickstart AngularJS projects: a best-practice  directory structure, an intelligent build system, and the best web  design libraries around.
 
+* [[GitHub] kvindasAB / angular-enterprise-kickstart](https://github.com/kvindasAB/angular-enterprise-kickstart) - Angular Enterprise Kickstart - Kickstart your enterprise project. Based from ng-boilerplate
+
 * [[GitHub] CaryLandholt / AngularFun](https://github.com/CaryLandholt/AngularFun) - AngularJS Reference Architecture
 
 * [[GitHub] marcorinck / ngStart](https://github.com/marcorinck/ngStart) - skeleton project for new angular.js projects
