@@ -567,6 +567,8 @@
 
   * [Building a 2D Browser Game with PhysicsJS | Flippin' Awesome](http://flippinawesome.org/2013/12/02/building-a-2d-browser-game-with-physicsjs/)
 
+* [Matter.js](http://brm.io/matter-js/) - is 2D physics engine for the web
+
 
 #### WebGL
 
