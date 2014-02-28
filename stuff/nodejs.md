@@ -271,6 +271,8 @@
 
 * [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
 
+--
+
 * [[GitHub] gravityonmars / nodejs-starter](https://github.com/gravityonmars/nodejs-starter) - Simple project setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap
 
 --
@@ -312,6 +314,9 @@
 --
 
 * [[GitHub] simonewebdesign / real-time-web-chat](https://github.com/simonewebdesign/real-time-web-chat) - A chat built with NodeJS, ExpressJS and Socket.io | [Demo App on OpenShift](https://github.com/simonewebdesign/real-time-web-chat)
+
+
+* [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
 
 --
 
