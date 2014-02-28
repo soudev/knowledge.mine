@@ -65,6 +65,8 @@
 
 * [jasmine tactics screencast](http://searls.testdouble.com/posts/2013-03-21-jasmine-tactics-screencast.html)
 
+* [Testando JavaScript com Jasmine + Karma | Eric Douglas](http://ericdouglas.github.io/2014/02/25/06-testando-javascript-com-jasmine-e-karma/)
+
 
 ##### The Codeship Blog : Testing Tuesday
 
