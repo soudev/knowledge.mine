@@ -1055,3 +1055,7 @@
 
   * [WebStorm :: Node.js](http://www.jetbrains.com/webstorm/features/index.html#node.js)
 
+
+### Testes
+
+* [Testing and Code Coverage With Node.js Apps | Greg Jopa](http://www.gregjopa.com/2014/02/testing-and-code-coverage-with-node-js-apps/)
