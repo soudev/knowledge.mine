@@ -86,7 +86,7 @@
 
 ### Atom
 
-* [Atom](http://atom.io/)
+* [Atom](http://atom.io/) - A hackable text editor for the 21st Century. By GitHub.
 
 * [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
 
