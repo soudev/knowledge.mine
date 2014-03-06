@@ -96,6 +96,8 @@
 
 * [Tutorial: Context or the "This" Keyword in JavaScript](https://thenewcircle.com/s/post/1564/context_or_the_this_keyword_in_javascript_tutorial) - 4 Screencasts Digging into JavaScript's “this”
 
+* [Javascript without the "this" | Programming - O'Reilly Media](http://programming.oreilly.com/2014/03/javascript-without-the-this.html)
+
 * [Understanding Scope and Context in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/)
 
 * [Closures: Front to Back | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/closures-front-to-back/)
