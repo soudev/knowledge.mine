@@ -58,6 +58,10 @@
 
 * [Recordit](http://recordit.co/) - Record screencasts fast & free! with GIF Support!
 
+--
+
+* [[Apple Store] Dash (Docs & Snippets)](https://itunes.apple.com/br/app/dash-docs-snippets/id458034879?l=en&mt=12)
+
 
 ## Fontes
 
