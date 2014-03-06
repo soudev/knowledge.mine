@@ -90,6 +90,8 @@
 
 * [7 Useful Mobile HTML, CSS, and JavaScript Snippets | Tech Pro](http://tech.pro/blog/1557/7-useful-mobile-html-css-and-javascript-snippets)
 
+* [[GitHub] mdo / code-guide](https://github.com/mdo/code-guide) - Standards for flexible, durable, and sustainable HTML and CSS
+
 * [[GitHub] dhig / devlinks.co.uk](https://github.com/dhig/devlinks.co.uk) - A collection of links for getting things done
 
 --
