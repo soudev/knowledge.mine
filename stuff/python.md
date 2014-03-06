@@ -17,6 +17,8 @@
 
 * [Online Python Tutor - Learn programming by visualizing code execution](http://www.pythontutor.com/)
 
+* [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+
 --
 
 * [Python Skill Tests | MetaBright](http://www.metabright.com/challenges/python)
