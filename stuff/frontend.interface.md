@@ -50,6 +50,8 @@
 
 * [A Guide to Web Components | CSS-Tricks](http://css-tricks.com/modular-future-web-components/)
 
+* [A Detailed Introduction To Custom Elements | Smashing Coding](http://coding.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/)
+
 --
 
 * [WebComponents.org](http://webcomponents.github.io/) - The web platform specs that will change the way you build apps
@@ -84,6 +86,8 @@
 * [Brick](http://mozilla.github.io/brick/) - UI Components for Modern Web Apps
 
   * [Introducing Brick: Minimal-markup Web Components for Faster App Development | Mozilla Hacks](https://hacks.mozilla.org/2013/08/introducing-brick-minimal-markup-web-components-for-faster-app-development/)
+
+  * [Custom Elements for Custom Applications - Web Components with Mozilla&'s Brick and X-Tag | Mozilla Hacks](https://hacks.mozilla.org/2014/03/custom-elements-for-custom-applications-web-components-with-mozillas-brick-and-x-tag/)
 
   * [Brick: Uma biblioteca para Componentes Web da Mozilla | InfoQ Br](http://www.infoq.com/br/news/2013/09/mozilla-brick-componentes-web)
 
