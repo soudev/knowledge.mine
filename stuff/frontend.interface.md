@@ -28,11 +28,16 @@
 
 * [Taking Ems Even Further | Webdesigntuts+](http://webdesign.tutsplus.com/articles/typography-articles/taking-ems-even-further/)
 
+* [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
+
+
+### Fonts
+
 * [On Web Typography | Jason Santa Maria](http://www.besquare.me/session/on-web-typography/) - Awesome presentation on web typography 
 
 * [[GitHub] nodebox / opentype.js](https://github.com/nodebox/opentype.js) - A JavaScript parser for TrueType and OpenType fonts. 
 
-* [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
+* [Glyphr](http://glyphrstudio.com/) - the free HTML5 based font editor
 
 
 ### Web Components
