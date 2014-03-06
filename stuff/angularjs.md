@@ -598,6 +598,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [angular translate](http://pascalprecht.github.io/angular-translate/) - i18n for your Angular apps, made easy
 
+  * [[YouTube] Pascal Precht - i18n with angular-translate - Dutch AngularJS Meetup](https://www.youtube.com/watch?v=9CWifOK_Wi8) - An introduction talk about how to use angular-translate to bring i18n to you Angular apps at the Dutch AngularJS Meetup.
+
 * [[Gist] i18n Helper function for Javascript](https://gist.github.com/3353635)
 
 * [Easy global i18n angularJS language translations for your Angular app | ng-newsletter](http://www.ng-newsletter.com/posts/angular-translate.html)
