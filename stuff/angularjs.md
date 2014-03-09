@@ -153,6 +153,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS – Presentation | Camilo Lopes](http://blog.camilolopes.com.br/angularjs-presentation/)
 
+* [[SlideShare] Beginner workshop to angularjs presentation at Google](http://www.slideshare.net/therealauser/beginner-workshop-to-angularjs-presentation-at-google)
+
 --
 
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
@@ -1163,6 +1165,8 @@ Projeto de exemplo / estrutura inicial
   * [Directives](http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
 
 -- 
+
+* [Creating an Eclipse UI to run AngularJS e2e tests using Karma | Dinis Cruz Blog](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html)
 
 * [[GitHub] michaelgruczel / angularJs-Jasmine-Example](https://github.com/michaelgruczel/angularJs-Jasmine-Example) - This is an extremely simple example for angular js and jasmine
 
