@@ -552,6 +552,8 @@
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
+
+* [[GitHub] jensarps / IDBWrapper](https://github.com/jensarps/IDBWrapper) - A cross-browser wrapper for IndexedDB
   
 
 #### Animations
