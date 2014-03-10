@@ -360,6 +360,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ### Curiosidades
 
+* [The Open Source Report Card](http://osrc.dfm.io/) - Enter a GitHub username to see a dynamically generated progress report for their open source contributions 
+
 * [StarWars + Git logs = StarLogs](http://starlogs.net/)
 
 * [GitHub & BitBucket HTML Preview](http://htmlpreview.github.io/)
