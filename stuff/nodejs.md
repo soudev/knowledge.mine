@@ -742,6 +742,8 @@
 
 * [[GitHub] deoxxa / npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
 
+* [[GitHub] floatdrop / chnpm](https://github.com/floatdrop/chnpm) - npm configuration switcher
+
 --
 
 * [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
