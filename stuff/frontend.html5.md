@@ -557,7 +557,8 @@
 
 * [[GitHub] aaronpowell / db.js](https://github.com/aaronpowell/db.js) - is a wrapper for IndexedDB to make it easier to work against 
 
-  
+* [[GitHub] keithwhor / FSO.js](https://github.com/keithwhor/FSO.js/) - JavaScript FileSystemObject library for temporary and permanent client-side file storage
+
 
 #### Animations
 
