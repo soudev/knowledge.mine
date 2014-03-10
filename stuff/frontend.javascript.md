@@ -781,6 +781,8 @@
 
 * [[GitHub] brianreavis / sifter.js](https://github.com/brianreavis/sifter.js) - A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
 
+* [[GitHub] krisk / Fuse](https://github.com/krisk/fuse) - Lightweight fuzzy-search, in JavaScript
+
 
 #### Hash
 
