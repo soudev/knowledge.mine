@@ -480,6 +480,8 @@
 
     * [Browserify and the Universal Module Definition | dontkry.com](http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html)
 
+    * [Untangle Your JavaScript with Browserify | Lincoln Loop](http://lincolnloop.com/blog/untangle-your-javascript-browserify/)
+
 
 #### Require.js - Performance e Organização
 
