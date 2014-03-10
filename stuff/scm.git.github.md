@@ -29,6 +29,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [[YouTube] Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
+
 * [Começando com Git | DPW](http://desenvolvimentoparaweb.com/indicacoes/comecando-com-git/)
 
 * [Comandos básicos do Git | GustavoHenrique.net](http://blog.gustavohenrique.net/2011/03/comandos-basicos-do-git/)
