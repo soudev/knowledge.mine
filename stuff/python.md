@@ -32,6 +32,8 @@
 
 * [7 Python Libraries you should know about](http://doda.co/7-python-libraries-you-should-know-about)
 
+* [30 Python Language Features and Tricks You May Not Know About | Sahand Saba](http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html) - A list of Python tips and tricks. See how many of them you already know. Coding, mathematics, and problem solving
+
 * [Python Development Environment on Mac OS X Mavericks 10.9 | Hacker Codex](http://hackercodex.com/guide/python-development-environment-on-mac-osx/)
 
 
