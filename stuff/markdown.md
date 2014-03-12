@@ -10,6 +10,8 @@
 
 * [Markdown Cheatsheet - adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+* [Markdown | Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+
 * [Markdown: The Ins and Outs | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/)
 
 * [Creating an Angular Markdown Preview | Will Anderson](http://www.itsananderson.com/2013/10/creating-angular-markdown-preview/)
@@ -17,6 +19,8 @@
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
 
   * [[YouTube] Markdown Live Preview using Grunt](https://www.youtube.com/watch?v=fc45xgh45dM)
+
+* [Editing Markdown for GitHub | Modus Create](http://moduscreate.com/editing-markdown-for-github/)
 
 
 ## Markdown editor
@@ -83,6 +87,10 @@
 * [[GitHub] gjtorikian / namp](https://github.com/gjtorikian/namp) - A fork of chjj's marked that adds some additional features
 
 * [[GitHub] bredele / marc](https://github.com/bredele/marc) - Markdown as a dynamic template engine
+
+* [[GitHub] zeke / markdown-index](https://github.com/zeke/markdown-index) - Build a markdown table of contents for all the markdown files in a given directory tree.
+
+* [[GitHub] jonschlinkert / marked-toc](https://github.com/jonschlinkert/marked-toc) - Generate a TOC (table of contents) for markdown files.
 
 --
 
