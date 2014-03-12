@@ -1,5 +1,46 @@
 # Front-End
 
+<!-- toc -->
+* [JavaScript](#javascript)
+  * [Máquina virtual para JavaScript](#máquina-virtual-para-javascript)
+  * [Aprendizado](#aprendizado)
+  * [OOP](#oop)
+  * [Padrões](#padrões)
+  * [Dicas](#dicas)
+  * [Expressões Regulares](#expressões-regulares)
+    * [Expressões Regulares - Ferramentas online](#expressões-regulares-ferramentas-online)
+  * [Performance](#performance)
+  * [Sistema de Dependências e Módulos](#sistema-de-dependências-e-módulos)
+    * [Require.js - Performance e Organização](#requirejs-performance-e-organização)
+      * [Backbone.js](#backbonejs)
+      * [Angular.js](#angularjs)
+  * [Qualidade de Código](#qualidade-de-código)
+  * [Integração Contínua](#integração-contínua)
+  * [Útil](#útil)
+  * [Bibliotecas](#bibliotecas)
+    * [Emulator](#emulator)
+    * [Compiler / VM](#compiler-vm)
+    * [Text Search](#text-search)
+    * [Hash](#hash)
+    * [Crypto](#crypto)
+    * [Steganography](#steganography)
+    * [Gesture](#gesture)
+  * [Design API & Biblioteca](#design-api-biblioteca)
+  * [Ferramentas](#ferramentas)
+    * [Yeoman](#yeoman)
+    * [DevTools](#devtools)
+      * [Firefox](#firefox)
+      * [Google Chrome](#google-chrome)
+  * [Gerenciador de Pacotes](#gerenciador-de-pacotes)
+    * [Bower](#bower)
+    * [JamJS](#jamjs)
+  * [Single Page Application](#single-page-application)
+  * [Frameworks MVC](#frameworks-mvc)
+  * [ECMAScript 6](#ecmascript-6)
+
+<!-- toc stop -->
+
+
 ## JavaScript
 
 * [Superhero.js](http://superherojs.com/) -  Creating, testing and maintaining a large JavaScript code base is not easy - especially since great resources on how to do this are hard to  find. This page is a collection of the best articles, videos and  presentations we've found on the topic.
