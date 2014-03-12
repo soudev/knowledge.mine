@@ -82,6 +82,10 @@
 
 * [[GitHub] gjtorikian / namp](https://github.com/gjtorikian/namp) - A fork of chjj's marked that adds some additional features
 
+* [[GitHub] bredele / marc](https://github.com/bredele/marc) - Markdown as a dynamic template engine
+
+--
+
 * [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json) 
 
 * [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF. 
