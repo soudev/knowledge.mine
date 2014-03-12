@@ -195,6 +195,10 @@
 
 --
 
+* [[GitHub] popcorn-time / popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
+
+--
+
 * [[GitHub] skynetim / skynet](https://github.com/skynetim/skynet) - Machine-to-machine instant messaging platform for the internet of things
 
 --
