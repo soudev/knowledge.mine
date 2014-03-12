@@ -311,6 +311,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Aplicações construídas com Angular.js](http://builtwith.angularjs.org/)
 
+* [Likeastore](https://likeastore.com/) - Social bookmarking for geeks with storage to collect and organize all your favorites. | [[GitHub] likeastore](https://github.com/likeastore)
+
 * [Using AngularJS at Localytics](http://www.localytics.com/blog/2013/angularjs-at-localytics/) - This is the story of how we rewrote our Backbone-powered web  application in AngularJS, using nearly half the number of lines of code.  (It is a love story.)
 
 * [How to build a large Angular.js application | GoCardless](https://gocardless.com/blog/building-a-large-angular-application/)
@@ -326,6 +328,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Plunker](http://plnkr.co/) - is an online community for creating, collaborating on and sharing your web development ideas.
   
 * [[GitHub] matthiasn / BirdWatch](https://github.com/matthiasn/BirdWatch) - Tweet stream analysis and visualization using AngularJS, Bootstrap, D3.js, ElasticSearch and Play Framework | [Blog post](http://matthiasnehlsen.com/blog/2013/08/13/birdwatch-angularjs-elasticsearch-play/)
+
+--
 
 * [AngularFire](http://angularfire.com/) - A real-time backend for AngularJS from [Firebase](https://www.firebase.com/)
 
@@ -948,6 +952,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] marcorinck / angular-growl](https://github.com/marcorinck/angular-growl) - growl-like notifications for angularJS projects
 
 * [[GitHub] akoenig / angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS
+
+* [[GitHub] likeastore / ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
 
 --
 
