@@ -8,10 +8,9 @@ Mina de Conhecimento - referências de apoio para os desenvolvedores
 
 > Utilizado para gerar a tabela de conteúdo (índice), nos arquivos markdown, para isso nesses arquivos onde será gerado o índice, deve-se adicionar as tags:
 
-<pre><code>
-<!-- toc -->
-<!-- toc stop -->
-</code></pre>
+`<!-- toc -->`
+
+`<!-- toc stop -->`
 
 
 ## TODO: 
