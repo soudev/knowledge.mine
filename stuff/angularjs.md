@@ -1,5 +1,61 @@
 # Angular.js
 
+
+<!-- toc -->
+* [Visão Geral](#visão-geral)
+  * [Estatísticas](#estatísticas)
+  * [Por que utilizar o AngularJS?](#por-que-utilizar-o-angularjs)
+  * [5 Características impressionantes](#5-características-impressionantes)
+    * [Two Way Data-Binding](#two-way-data-binding)
+    * [Templates](#templates)
+    * [MVC](#mvc)
+      * [- Model](#-model)
+      * [- ViewModel](#-viewmodel)
+      * [- Controller](#-controller)
+      * [- View](#-view)
+    * [Injeção de Dependências](#injeção-de-dependências)
+    * [Diretivas (Componentes)](#diretivas-componentes)
+    * [Bonus: Suporte para Testes](#bonus-suporte-para-testes)
+* [Aprendizado](#aprendizado)
+  * [CoffeeScript](#coffeescript)
+  * [ng-newsletter](#ng-newsletter)
+    * [AngularJS from beginner to expert in 7 steps series](#angularjs-from-beginner-to-expert-in-7-steps-series)
+  * [Dailyjs.com : Angular.js](#dailyjscom-angularjs)
+  * [Tero Parviainen : Make Your Own AngularJS](#tero-parviainen-make-your-own-angularjs)
+* [Casos de Uso](#casos-de-uso)
+* [Dicas](#dicas)
+  * [Amazon AWS](#amazon-aws)
+  * [Decorator](#decorator)
+  * [Dynamic / Lazy Load](#dynamic-lazy-load)
+  * [Building Apps](#building-apps)
+  * [Google](#google)
+    * [Analytics](#analytics)
+  * [Internacionalização](#internacionalização)
+  * [Escopo e informações](#escopo-e-informações)
+  * [Yeoman, Grunt e Bower](#yeoman-grunt-e-bower)
+  * [Upload File(s)](#upload-files)
+  * [Autenticação](#autenticação)
+  * [Mobile](#mobile)
+    * [PhoneGap](#phonegap)
+  * [AngularJS Sticky Notes | One Hungry MindOne Hungry Mind](#angularjs-sticky-notes-one-hungry-mindone-hungry-mind)
+  * [AngularJS: Melhores Práticas | Ciro Nunes](#angularjs-melhores-práticas-ciro-nunes)
+  * [Ferramentas](#ferramentas)
+* [Directive (componentes)](#directive-componentes)
+  * [Filters](#filters)
+  * [Componentes](#componentes)
+* [Módulos](#módulos)
+  * [Módulos de Gráficos](#módulos-de-gráficos)
+  * [Módulos de UI](#módulos-de-ui)
+  * [ng animate](#ng-animate)
+* [Projetos de Exemplo](#projetos-de-exemplo)
+  * [Angular-Seed](#angular-seed)
+* [Teste](#teste)
+  * [Mock](#mock)
+  * [CI](#ci)
+
+<!-- toc stop -->
+
+
 ## Visão Geral
 
 > **Motivação**
