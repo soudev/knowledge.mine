@@ -38,7 +38,7 @@
         * [PhoneGap](#phonegap)
         * [BlackBerry](#blackberry)
     * [Desktop](#desktop)
-    * [Desktop & Mobile](#desktop-mobile)
+    * [Desktop and Mobile](#desktop-and-mobile)
 
 <!-- toc stop -->
 
@@ -864,11 +864,13 @@
 * [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
 
 
-#### Desktop & Mobile
+#### Desktop and Mobile
 
 * [Appcelerator Titanium](http://www.appcelerator.com/platform/titanium-platform/)
 
-  * [Wunderlist 2](https://www.wunderlist.com/) | [Code - GitHub](https://github.com/6wunderkinder/wunderlist)
+  * [Wunderlist 2](https://www.wunderlist.com/) | [Code - GitHub](https://github.com/erkobridee/wunderlist)
+
+    * [[GitHub] Wunderlist](https://github.com/wunderlist)
   
 
 * [@zaedysayao](https://twitter.com/zaedysayao) : [Rio.js](http://www.riojs.org/) - [**[SlideShare]** Construindo aplicações Desktop com HTML, CSS e JS - Rio.JS Conference 2013](http://www.slideshare.net/javamanrj/construindo-aplicaes-desktop-com-html-css-e-js-riojs-conference) | [**[Github]** Fontes mostrados durante o primeiro RioJS Conference](https://github.com/javamanrj/riojs-conference)
