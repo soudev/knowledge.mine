@@ -6,7 +6,7 @@
 * [Aprendizado](#aprendizado)
 * [Casos de Uso](#casos-de-uso)
   * [IBM developerWorks](#ibm-developerworks)
-* [Projetos interessantes](#projetos-interessantes)
+* [Projetos Interessantes](#projetos-interessantes)
   * [Boilerplate](#boilerplate)
   * [Async / flow control](#async-flow-control)
 * [Dicas](#dicas)
@@ -180,7 +180,7 @@
 * [Developing mobile apps with Node.js and MongoDB, Part 2: Hints and tips](http://www.ibm.com/developerworks/mobile/library/mo-nodejs-2/index.html)
 
 
-## Projetos interessantes
+## Projetos Interessantes
 
 * dotFiles - Mac OS X config
 
@@ -231,6 +231,10 @@
 --
 
 * [[GitHub] popcorn-time / popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
+
+* [[GitHub] mafintosh / peerflix](https://github.com/mafintosh/peerflix) - a streaming torrent client
+
+  * [[GitHub] mafintosh / peerflix-engine](https://github.com/mafintosh/peerflix-engine) - The low level streaming torrent engine that peerflix will use
 
 --
 
