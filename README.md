@@ -17,4 +17,7 @@ Mina de Conhecimento - referências de apoio para os desenvolvedores
 
 - definir e otimizar um modelo para acesso do conhecimento disponibilizado (knowledge)
 
-> **Observar:** repositório da página do [karma-runner](http://karma-runner.github.io/) que gera o website [[GitHub] karma-runner / karma-runner.github.com](https://github.com/karma-runner/karma-runner.github.com)
+> **Observar:** 
+>
+> * repositório da página do [karma-runner](http://karma-runner.github.io/) que gera o website [[GitHub] karma-runner / karma-runner.github.com](https://github.com/karma-runner/karma-runner.github.com)
+> * [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
