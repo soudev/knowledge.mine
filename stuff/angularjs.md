@@ -742,6 +742,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Authentication in Single Page Applications | VickeV.com](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs) - Authentication in Single Page Applications (Node.js, PassportJS, AngularJS)
 
+* [Techniques for authentication in AngularJS applications | Opinionated AngularJS — Medium](https://medium.com/opinionated-angularjs/7bbf0346acec)
+
 
 ### Mobile
 
