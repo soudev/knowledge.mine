@@ -7,6 +7,7 @@
 * [Casos de Uso](#casos-de-uso)
   * [IBM developerWorks](#ibm-developerworks)
 * [Projetos Interessantes](#projetos-interessantes)
+  * [Abstract Syntax Tree](#abstract-syntax-tree)
   * [Boilerplate](#boilerplate)
   * [Async / flow control](#async-flow-control)
 * [Dicas](#dicas)
@@ -448,6 +449,21 @@
 * [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
 
 
+### Abstract Syntax Tree
+
+* [Abstract Syntax Tree | wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
+
+* [[GitHub] ajaxorg / treehugger](https://github.com/ajaxorg/treehugger) - JavaScript AST (Abstract Syntax Tree) transformation tools
+
+* [[GitHub] ariya / esprima](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis | [esprima.org](http://esprima.org)
+
+  * [Esprima Tutorial | Harmless Programmer](http://sevinf.github.io/blog/2012/09/29/esprima-tutorial/)
+
+* [[GitHub] benjamn / ast-types](https://github.com/benjamn/ast-types) - Esprima-compatible implementation of the Mozilla JS Parser API
+
+* [[GitHub] dresende / node-ast-transformer](https://github.com/dresende/node-ast-transformer) - Node UglifyJS AST Transformer
+
+
 
 ### Boilerplate
 
@@ -641,6 +657,8 @@
 --
 
 * [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
+
+* [Parse data files using Node.js streams | Nicolas Hery](http://nicolashery.com/parse-data-files-using-nodejs-streams/)
 
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
