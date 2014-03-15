@@ -459,10 +459,20 @@
 
   * [Esprima Tutorial | Harmless Programmer](http://sevinf.github.io/blog/2012/09/29/esprima-tutorial/)
 
+  * [Fun with Esprima and Static Analysis | Toby Ho](http://tobyho.com/2013/12/02/fun-with-esprima/)
+
+  * [[GitHub] substack / node-falafel](https://github.com/substack/node-falafel) - transform the ast on a recursive walk
+
+  * [[GitHub] millermedeiros / rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform EcmaScript AST
+
+
+* [[GitHub] Constellation / escodegen](https://github.com/Constellation/escodegen) - ECMAScript code generator
+
+* [[GitHub] substack / node-burrito](https://github.com/substack/node-burrito) - Walk and transform the javascript AST with rice and beans on the side
+
 * [[GitHub] benjamn / ast-types](https://github.com/benjamn/ast-types) - Esprima-compatible implementation of the Mozilla JS Parser API
 
 * [[GitHub] dresende / node-ast-transformer](https://github.com/dresende/node-ast-transformer) - Node UglifyJS AST Transformer
-
 
 
 ### Boilerplate
