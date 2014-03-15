@@ -56,6 +56,12 @@
 
 --
 
+* [JSONSelect](http://jsonselect.org/) - CSS-like selectors for JSON
+
+  * [[GitHub] lloyd / JSONSelect](https://github.com/lloyd/JSONSelect)
+
+--
+
 * [JSON Prettifier](https://chrome.google.com/webstore/detail/json-prettifier/kccpfgilgmgbipamhohknpokhibinhhj) - Google Chrome
 
 * [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) - Google Chrome
