@@ -444,6 +444,8 @@
 
 * [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - an image quantization library
 
+* [CamanJS - JavaScript Image Manipulation](http://camanjs.com/)
+
 --
 
 * [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - a simple canvas based drawing app that you can integrate easily on your website.
