@@ -11,6 +11,7 @@
     * [Expressões Regulares - Ferramentas online](#expressões-regulares-ferramentas-online)
   * [Performance](#performance)
   * [Sistema de Dependências e Módulos](#sistema-de-dependências-e-módulos)
+    * [Browserify](#browserify)
     * [Require.js - Performance e Organização](#requirejs-performance-e-organização)
       * [Backbone.js](#backbonejs)
       * [Angular.js](#angularjs)
@@ -513,15 +514,22 @@
     * [jspm.io](http://jspm.io/) - Frictionless Browser Package Management
 
 
-* [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way | [site: browserify](http://browserify.org/)
+#### Browserify
 
-    * [Introduction to Browserify | Blake Embrey](http://blakeembrey.com/articles/introduction-to-browserify/)
+* [Browserify](http://browserify.org/)
 
-    * [A collection of useful Browserify resources | learnjs.io](http://learnjs.io/blog/2013/11/24/browserify-resources/)
+* [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
 
-    * [Browserify and the Universal Module Definition | dontkry.com](http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html)
+* [Introduction to Browserify | Blake Embrey](http://blakeembrey.com/articles/introduction-to-browserify/)
 
-    * [Untangle Your JavaScript with Browserify | Lincoln Loop](http://lincolnloop.com/blog/untangle-your-javascript-browserify/)
+* [A collection of useful Browserify resources | learnjs.io](http://learnjs.io/blog/2013/11/24/browserify-resources/)
+
+* [Browserify and the Universal Module Definition | dontkry.com](http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html)
+
+* [Untangle Your JavaScript with Browserify | Lincoln Loop](http://lincolnloop.com/blog/untangle-your-javascript-browserify/)
+
+* [Browserify - Unix in the browser | thinking_on thinking](http://thinkingonthinking.com/unix-in-the-browser/)
+
 
 
 #### Require.js - Performance e Organização
