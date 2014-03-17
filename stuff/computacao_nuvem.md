@@ -4,6 +4,8 @@
 
 * [O que é computação na nuvem? | Conta Azul : Blog](http://contaazul.com/blog/2013/07/o-que-e-computacao-na-nuvem/)
 
+* [It's Time to Redefine "Backend as a Service" | DreamFactory Blog](http://blog.dreamfactory.com/its-time-to-redefine-backend-as-a-service)
+
 
 ## Conceitos - Cloud Stack
 
