@@ -463,6 +463,10 @@
 
   * [[GitHub] substack / node-falafel](https://github.com/substack/node-falafel) - transform the ast on a recursive walk
 
+    * [Falafel, Source Rewriting, and a Magicial Assert | Toby Ho](http://tobyho.com/2013/12/20/falafel-source-rewriting-magicial-assert/)
+
+      * [[GitHub] airportyh / falafel_fun](https://github.com/airportyh/falafel_fun) - Example programs using falafel for source code rewriting
+
   * [[GitHub] millermedeiros / rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform EcmaScript AST
 
 
