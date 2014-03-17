@@ -4,7 +4,24 @@
 
 * [Sublime Text 2](http://www.sublimetext.com/2)
 
---
+
+<!-- toc -->
+* [Configuração](#configuração)
+* [Guia](#guia)
+* [Atalhos](#atalhos)
+* [Dicas](#dicas)
+  * [Setup](#setup)
+  * [Build](#build)
+  * [Path](#path)
+  * [Open Terminal](#open-terminal)
+* [Temas](#temas)
+* [Packages e Plugins](#packages-e-plugins)
+  * [EditorConfig](#editorconfig)
+
+<!-- toc stop -->
+
+
+## Configuração
 
 * [Configuring Sublime Text 2](http://www.mutuallyhuman.com/blog/2012/10/18/configuring-sublime-text-2/)
 
@@ -12,7 +29,7 @@
 
 * [Syncing packages and settings across multiple machines in Sublime Text](https://sublime.wbond.net/docs/syncing)
 
---
+## Guia
 
 * [Nice Sublime Text (2) setup guide for web developers | Drew Barontini](http://drewbarontini.com/setup/sublime-text/)
 
@@ -22,7 +39,8 @@
 
 * [5 things you didn't know Sublime Text 2 could do | .net magazine](http://www.netmagazine.com/features/5-things-you-didnt-know-sublime-text-2-could-do)
 
---
+
+## Atalhos
 
 * [[Gist] Sublime Text 2 - Useful Shortcuts](https://gist.github.com/1207002)
 
@@ -30,11 +48,9 @@
 
 * [10 keyboard shortcuts to become a true Sublime Text ninja | Marcel Kalveram](http://www.marcelkalveram.com/2013/11/10-shortcuts-to-become-a-true-sublime-text-ninja/)
 
---
+* [Sublime Text 2 Tips and Shortcuts | Robson Dodson](http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/)
 
 * [Perfect Workflow in Sublime Text: Free Course! | Nettuts+](http://net.tutsplus.com/articles/news/perfect-workflow-in-sublime-text-free-course/)
-
-* [Sublime Text 2 Tips and Shortcuts | Robson Dodson](http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/)
 
 
 ## Dicas
@@ -55,6 +71,7 @@
 --
 
 * [[GitHub] fedecarg / sublime-projects](https://github.com/fedecarg/sublime-projects) - Open a Sublime Text project from the command line by automatically passing the .sublime-project file as an argument to the Sublime Text executable
+
 
 ### Build
 
@@ -97,8 +114,10 @@
 
 * [Spacegray](http://kkga.github.io/spacegray/) - A Hyperminimal UI Theme for Sublime Text
 
+* [[GitHub] kenwheeler / brogrammer-theme](https://github.com/kenwheeler/brogrammer-theme) - Brogrammer is a flat sexy Sublime Text theme. Pushups not included.
 
-## Packages / Plugins
+
+## Packages e Plugins
 
 * [Criando plugins para Sublime Text | Rodrigo Amaral](http://rodrigoamaral.net/2012/07/01/criando-plugins-para-sublime-text/)
 
