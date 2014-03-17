@@ -845,7 +845,13 @@
 
 * [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
 
+--
+
 * [Creating and publishing a node.js module | Quick Left Boulder Colorado](http://quickleft.com/blog/creating-and-publishing-a-node-js-module)
+
+* [Publishing a simple package to npm | Evan Hahn](http://evanhahn.com/make-an-npm-baby/)
+
+--
 
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
 
