@@ -231,7 +231,7 @@
 
 --
 
-* [[GitHub] popcorn-time / popcorn-app](https://github.com/popcorn-time/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
+* [[GitHub] popcorn-team / popcorn-app](https://github.com/popcorn-team/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
 
 * [[GitHub] mafintosh / peerflix](https://github.com/mafintosh/peerflix) - a streaming torrent client
 
