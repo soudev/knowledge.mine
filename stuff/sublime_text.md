@@ -4,6 +4,7 @@
 
 * [Sublime Text 2](http://www.sublimetext.com/2)
 
+--
 
 <!-- toc -->
 * [Configuração](#configuração)
