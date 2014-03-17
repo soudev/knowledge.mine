@@ -454,19 +454,23 @@
 
 --
 
-* [[Speaker Deck] Efficient JavaScript](https://speakerdeck.com/volkan/efficient-javascript)
-
-* [How to Give Your Web Apps a Real Speed Boost | TNW Network](http://thenextweb.com/apps/2013/10/20/give-web-apps-real-speed-boost/)
+* [Panzer Dragoon 1k - JS1K size optimizations tricks](http://greweb.me/2014/03/panzer-dragoon-1k/) - Panzer Dragoon 1k is a 2D remake of Panzer Dragoon in 1k of JavaScript I made for JS1K 2014
 
 * [Building High-Performing JavaScript for Modern Engines | Build 2012 | Channel 9](http://channel9.msdn.com/Events/Build/2012/4-000)
 
 * [jsPerf: JavaScript performance playground](http://jsperf.com/)
 
-* [[SlideShare] 5 Tips for Better JavaScript](http://www.slideshare.net/toddanglin/5-tips-for-better-javascript)
-
 * [JavaScript Performance Tips & Tricks | Modus Create](https://moduscreate.com/javascript-performance-tips-tricks/)
 
 * [Effectively Managing Memory at Gmail scale | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
+
+--
+
+* [[Speaker Deck] Efficient JavaScript](https://speakerdeck.com/volkan/efficient-javascript)
+
+* [How to Give Your Web Apps a Real Speed Boost | TNW Network](http://thenextweb.com/apps/2013/10/20/give-web-apps-real-speed-boost/)
+
+* [[SlideShare] 5 Tips for Better JavaScript](http://www.slideshare.net/toddanglin/5-tips-for-better-javascript)
 
 * [3 reasons why you should let Google host jQuery for you - Encosia](http://encosia.com/3-reasons-why-you-should-let-google-host-jquery-for-you/)
 
