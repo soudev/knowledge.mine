@@ -708,6 +708,8 @@
 
 * [[GitHub] bustardcelly / caddis](https://github.com/bustardcelly/caddis) - On-The-Fly Mock JSON Server
 
+* [[GitHub] basicallydan / interfake](https://github.com/basicallydan/interfake) - Quickly create fake APIs for use in client-only tests or prototypes
+
 --
 
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
