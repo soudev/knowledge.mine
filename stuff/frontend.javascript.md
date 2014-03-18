@@ -1067,9 +1067,13 @@
 
 * [Rich JavaScript Applications – the Seven Frameworks (Throne of JS, 2012)](http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/)
 
+* [The Big Glossary of Open Source JavaScript and Web Frameworks with Cool Names](http://www.hanselman.com/blog/TheBigGlossaryOfOpenSourceJavaScriptAndWebFrameworksWithCoolNames.aspx)
+
+--
+
 * [The Top 10 Javascript MVC Frameworks Reviewed](http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/)
 
-* [The Big Glossary of Open Source JavaScript and Web Frameworks with Cool Names](http://www.hanselman.com/blog/TheBigGlossaryOfOpenSourceJavaScriptAndWebFrameworksWithCoolNames.aspx)
+* [Top JavaScript MVC Frameworks | InfoQ](http://www.infoq.com/research/top-javascript-mvc-frameworks)
 
 --
 
