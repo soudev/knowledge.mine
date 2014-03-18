@@ -95,15 +95,20 @@
 
 ### Estatísticas
 
-* [[Google Trends] Angular.js x Backbone.js x Ext.js x Ember.js x Knockout.js](https://www.google.com/trends/explore?q=AngularJS%2C+Backbone%2C+ExtJS#q=AngularJS%20%2B%20%22angular.js%22%20%2B%20%22angular%20js%22%2C%20Backbone.JS%20%2B%20%22backbonejs%22%20%2B%20backbone%20js%22%2C%20%22ExtJS%22%20%2B%20%22extjs%22%20%2B%20%22ext.js%22%2C%20EmberJS%20%2B%20%22ember.js%22%20%2B%20%22ember%20js%22%2C%20KnockoutJS%20%2B%20%22knockout.js%22%20%2B%20%22knockout%20js%22&cmpt=q)
-
-* [Usage statistics and market share of AngularJS for websites | W3Techs](http://w3techs.com/technologies/details/js-angularjs/all/all)
-
-* [Angular JS Usage Statistics | Build With](http://trends.builtwith.com/javascript/Angular-JS) - Websites using Angular JS
+* [AngularJS | StackOverflow](http://stackoverflow.com/questions/tagged/angularjs) - mais de 25 mil tópicos
 
 * [AngularJS Developer Statistics | LinkedIn](http://www.linkedin.com/groups?groupDashboard=&gid=4896676)
 
-* [AngularJS | StackOverflow](http://stackoverflow.com/questions/tagged/angularjs) - mais de 25 mil tópicos
+* [Angularjs Jobs | Bullhorn Reach](http://www.bullhornreach.com/jobs/?q=angular)
+
+* [Usage statistics and market share of AngularJS for websites | W3Techs](http://w3techs.com/technologies/details/js-angularjs/all/all)
+
+* [[Google Trends] Angular.js x Backbone.js x Ext.js x Ember.js x Knockout.js](https://www.google.com/trends/explore?q=AngularJS%2C+Backbone%2C+ExtJS#q=AngularJS%20%2B%20%22angular.js%22%20%2B%20%22angular%20js%22%2C%20Backbone.JS%20%2B%20%22backbonejs%22%20%2B%20backbone%20js%22%2C%20%22ExtJS%22%20%2B%20%22extjs%22%20%2B%20%22ext.js%22%2C%20EmberJS%20%2B%20%22ember.js%22%20%2B%20%22ember%20js%22%2C%20KnockoutJS%20%2B%20%22knockout.js%22%20%2B%20%22knockout%20js%22&cmpt=q)
+
+* [Angular JS Usage Statistics | Build With](http://trends.builtwith.com/javascript/Angular-JS) - Websites using Angular JS
+
+* [Top JavaScript MVC Frameworks | InfoQ](http://www.infoq.com/research/top-javascript-mvc-frameworks)
+
 
 
 ### Por que utilizar o AngularJS?
