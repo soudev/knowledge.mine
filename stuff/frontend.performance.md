@@ -1,5 +1,19 @@
 # Front-End
 
+
+<!-- toc -->
+* [Performance](#performance)
+  * [Rendering](#rendering)
+  * [CDN](#cdn)
+    * [Fallback](#fallback)
+    * [CDNs](#cdns)
+  * [Dynamic (Script) Loading](#dynamic-script-loading)
+    * [LABjs](#labjs)
+    * [YepNope](#yepnope)
+
+<!-- toc stop -->
+
+
 ## Performance
 
 * [Como perder peso (no browser)](http://browserdiet.com/pt/) - O guia definitivo de performance para o desenvolvedor front-end
