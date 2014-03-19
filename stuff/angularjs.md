@@ -64,11 +64,15 @@
 >
 
 
-* o [Angular.js](http://angularjs.org/) é mantido pela Google
+* O [Angular.js](http://angularjs.org/) é um projeto OpenSource, disponível no [GitHub](https://github.com/angular/angular.js), onde seu desenvolvimento e evolução conta com a participação da comunidade, enviando sugestões (código), para evolução, melhorias e correções de eventuais bugs e uma equipe dedicada patrocinada pela Google, onde esta equipe tem por responsabilidade cuidar do roadmap, evolução do Angular.js, orquestrar a colaboração da comunidade e disponibilizar/publicar novas versões do Angular.js.
 
-* o código e desenvolvimento é realizado no [repositório do GitHub](https://github.com/angular/angular.js)
+  * [Story About Angular, Passion and Community (ng-conf 2014)](http://igorminar.github.io/story-about-angular-passion-and-community/) 
+    
+    * [[GitHub] IgorMinar / story-about-angular-passion-and-community](https://github.com/IgorMinar/story-about-angular-passion-and-community)
 
-* o criador do Angular.js era desenvolvedor Adobe Flex - [Miško Hevery](http://misko.hevery.com/about/)
+
+* **Curiosidade:** o criador do Angular.js era desenvolvedor Adobe Flex - [Miško Hevery](http://misko.hevery.com/about/)
+
 
 * O projeto utiliza o Jenkins CI para efetuar os builds [ci.angularjs.org](http://ci.angularjs.org/) | [configurações](https://github.com/angular/ci.angularjs.org)
 
@@ -87,10 +91,6 @@
 * [AngularJS - ng-conf 2014 - Exclusive | ng-learn](http://ng-learn.org/2014/01/NG-CONF-2014/)
 
 * [[YouTube] ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
-
-* [Story About Angular, Passion and Community (ng-conf 2014)](http://igorminar.github.io/story-about-angular-passion-and-community/) 
-  
-  * [[GitHub] IgorMinar / story-about-angular-passion-and-community](https://github.com/IgorMinar/story-about-angular-passion-and-community)
 
 
 ### Estatísticas
@@ -1133,6 +1133,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [[SlideShare] The MEAN Stack: MongoDB, ExpressJS, AngularJS and Node.js](http://pt.slideshare.net/mongodb/mongodb2-21677032) - by MongoDB
 
   * [Full-Stack JavaScript With MEAN And Yeoman | AddyOsmani.com](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
+
+  * [[GitHub] pilwon / ultimate-seed](https://github.com/pilwon/ultimate-seed) - MEAN Stack on Steroids
 
   * [[GitHub] rafaelalmeidaerthalhermano / mean-stack](https://github.com/rafaelalmeidaerthalhermano/mean-stack) - Esse módulo implementa um boilerplate e um gerador de aplicações em MEAN.
 
