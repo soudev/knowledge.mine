@@ -1118,6 +1118,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Creating Apps with Angular and Node using Yeoman | Tyler Henkel](http://tylerhenkel.com/creating-apps-with-angular-and-node-using-yeoman/)
 
+* [[GitHub] yeoman / generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
+
 --
 
 * [MEAN Stack](http://mean.io/) - is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
@@ -1133,6 +1135,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [Full-Stack JavaScript With MEAN And Yeoman | AddyOsmani.com](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
 
   * [[GitHub] rafaelalmeidaerthalhermano / mean-stack](https://github.com/rafaelalmeidaerthalhermano/mean-stack) - Esse módulo implementa um boilerplate e um gerador de aplicações em MEAN.
+
+  * [[GitHub] wlepinski / generator-meanstack](https://github.com/wlepinski/generator-meanstack) - The MEAN stack generator for Yeoman
 
 --
 
