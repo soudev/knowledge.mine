@@ -2,6 +2,8 @@
 
 * [Free Mathematics Books](http://www.e-booksdirectory.com/mathematics.php) - list of freely available math textbooks, monographs, lecture notes, and other documents.
 
+* [[GitHub] papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss
+
 --
 
 * [Code.org - Anybody can learn code](http://code.org)
