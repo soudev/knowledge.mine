@@ -15,20 +15,22 @@
   * [Authentication](#authentication)
     * [WebID](#webid)
   * [modulo](#modulo)
-  * [url rewrite / proxy](#url-rewrite-proxy)
+  * [url rewrite proxy](#url-rewrite-proxy)
   * [NPM](#npm)
   * [CORS](#cors)
   * [Armazenamento](#armazenamento)
   * [Virtualização](#virtualização)
     * [Docker](#docker)
   * [Nuvem](#nuvem)
-  * [Privada / Pessoal](#privada-pessoal)
+  * [Pessoal](#pessoal)
     * [Amazon AWS](#amazon-aws)
+      * [Amazon S3](#amazon-s3)
     * [Windows Azure](#windows-azure)
   * [Mobile](#mobile)
     * [iOS](#ios)
   * [Desktop](#desktop)
-  * [Modulos / Frameworks](#modulos-frameworks)
+  * [Modulos e Frameworks](#modulos-e-frameworks)
+    * [Meteor](#meteor)
   * [Ferramentas](#ferramentas)
   * [Testes](#testes)
 
@@ -805,7 +807,7 @@
 * [NPM Node Package Manager | Underground WebDev](http://udgwebdev.com/npm-node-package-manager/)
 
 
-### url rewrite / proxy
+### url rewrite proxy
 
 * [[GitHub] tinganho / connect-modrewrite](https://github.com/tinganho/connect-modrewrite) - Adds modrewrite functionality to your connect/express server
 
@@ -956,7 +958,7 @@
 * [Onde hospedar aplicações Node.js | Underground WebDev](http://udgwebdev.com/onde-hospedar-aplicacoes-node-js/)
 
 
-### Privada / Pessoal
+### Pessoal
 
 * [Cozy](http://cozy.io/) - a personal Cloud you can host, hack and delete Your web apps and your data on your hardware
 
@@ -984,9 +986,14 @@
   
   * [[GitHub] mozilla / awsbox](https://github.com/mozilla/awsbox)
 
---
+
+##### Amazon S3
 
 * [NodeJS Deploying Files to AWS S3](http://blog.katworksgames.com/2014/01/26/nodejs-deploying-files-to-aws-s3/)
+
+* [Upload Static Files in AWS S3 with Node.js and Grunt.js | Toontuts](http://www.toontuts.com/upload-static-files-in-aws-s3-with-node-js-and-grunt-js/)
+
+* [[GitHub] giuliandrimba / s3-pusher](https://github.com/giuliandrimba/s3-pusher) - Publish assets to Amazon's S3 service via CLI
 
 
 #### Windows Azure
@@ -1033,7 +1040,7 @@
 * [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
 
 
-### Modulos / Frameworks
+### Modulos e Frameworks
 
 * [A collection of web frameworks for Node.js | Node Web Modules](http://nodewebmodules.com/)
 
@@ -1122,24 +1129,26 @@
 
 * [[GitHub] martinandert / counterpart](https://github.com/martinandert/counterpart) - A translation and localization library for Node.js and the browser.
 
---
-
-* [meteor](http://www.meteor.com/)
-
-  * [Introdução sobre Meteor | Underground WebDev](http://udgwebdev.com/introducao-sobre-meteor/)
-  
-  * [Primeiros passos com Meteor | Underground WebDev](http://udgwebdev.com/primeiros-passos-com-meteor)
-
-  * [Organizando um projeto Meteor | Underground WebDev](http://udgwebdev.com/organizando-um-projeto-meteor)
-
-  * [Quer aprender Meteor? | Underground WebDev](http://udgwebdev.com/quer-aprender-meteor)
---
 
 * [Sails.js](http://www.sailsjs.org/) - Realtime MVC Framework for Node.js
 
   * [sailsCasts](http://irlnathan.github.io/sailscasts/) - Learning about sails.js one screencast at a time
 
+
 * [Nombo](http://nombo.io/) - Node.js Realtime App Framework 
+
+
+#### Meteor
+
+* [meteor](http://www.meteor.com/)
+
+* [Introdução sobre Meteor | Underground WebDev](http://udgwebdev.com/introducao-sobre-meteor/)
+
+* [Primeiros passos com Meteor | Underground WebDev](http://udgwebdev.com/primeiros-passos-com-meteor)
+
+* [Organizando um projeto Meteor | Underground WebDev](http://udgwebdev.com/organizando-um-projeto-meteor)
+
+* [Quer aprender Meteor? | Underground WebDev](http://udgwebdev.com/quer-aprender-meteor)
 
 
 ### Ferramentas
