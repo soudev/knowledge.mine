@@ -64,7 +64,7 @@
 >
 
 
-* O [Angular.js](http://angularjs.org/) é um projeto OpenSource, disponível no [GitHub](https://github.com/angular/angular.js), onde seu desenvolvimento e evolução conta com a participação da comunidade, enviando sugestões (código), para evolução, melhorias e correções de eventuais bugs e uma equipe dedicada patrocinada pela Google, onde esta equipe tem por responsabilidade cuidar do roadmap, evolução do Angular.js, orquestrar a colaboração da comunidade e disponibilizar/publicar novas versões do Angular.js.
+* O [Angular.js](http://angularjs.org/) é um projeto OpenSource, disponível no [GitHub](https://github.com/angular/angular.js), onde seu desenvolvimento e evolução conta com a participação da comunidade, enviando sugestões (código), para evolução, melhorias e correções de eventuais bugs. Conta com equipe dedicada patrocinada pela Google, onde esta tem por responsabilidade cuidar do roadmap, evolução, orquestração da colaboração vinda da comunidade (pull request's no GitHub) e disponibilizar/publicar novas versões do Angular.js.
 
   * [Story About Angular, Passion and Community (ng-conf 2014)](http://igorminar.github.io/story-about-angular-passion-and-community/) 
     
