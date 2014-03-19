@@ -55,7 +55,11 @@
 
 * [A Case-by-Case Introduction to Node.js | Toptal](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 
+--
+
 * [[GitHub] erkobridee / lab-nodejs](https://github.com/erkobridee/lab-nodejs) - Laboratório de testes com o Node.js
+
+* [[GitHub] simonholmes / knowing-node](https://github.com/simonholmes/knowing-node/) - Holds the code files from my Knowing Node tutorials
 
 
 
