@@ -615,6 +615,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Building a Web App From Scratch in AngularJS | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/building-a-web-app-from-scratch-in-angularjs/)
 
+* [[SlideShare] Building Better Web Apps with Angular.js (SXSW 2014)](http://www.slideshare.net/kbekessy/angular-js-sxsw2014)
+
 --
 
 * [Code Organization in AngularJS | Nulogy Blog](http://engineering.nulogy.com/posts/code-organization-in-angular/)
