@@ -158,6 +158,10 @@
 
 --
 
+* [[GitHub] bevacqua / grunt-grunt](https://github.com/bevacqua/grunt-grunt) - Spawn Grunt tasks in other Gruntfiles easily from a Grunt task
+
+--
+
 * [[GitHub] tschaub / grunt-newer](https://github.com/tschaub/grunt-newer) - Configure Grunt tasks to run with newer files only
 
 * [grunt-build-gh-pages](https://github.com/pajtai/grunt-build-gh-pages) - Grunt task to take build directory from current task and move it to another branch | examplo: [exploratory-javascript-tests](https://github.com/pajtai/exploratory-javascript-tests)
