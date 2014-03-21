@@ -18,10 +18,12 @@
     * [Bonus: Suporte para Testes](#bonus-suporte-para-testes)
 * [Aprendizado](#aprendizado)
   * [CoffeeScript](#coffeescript)
-  * [ng-newsletter](#ng-newsletter)
-    * [AngularJS from beginner to expert in 7 steps series](#angularjs-from-beginner-to-expert-in-7-steps-series)
-  * [Dailyjs.com : Angular.js](#dailyjscom-angularjs)
-  * [Tero Parviainen : Make Your Own AngularJS](#tero-parviainen-make-your-own-angularjs)
+* [Tutoriais](#tutoriais)
+  * [AngularJS from beginner to expert in 7 steps series | ng-newsletter](#angularjs-from-beginner-to-expert-in-7-steps-series-ng-newsletter)
+  * [Angular.js | Dailyjs.com](#angularjs-dailyjscom)
+  * [Make Your Own AngularJS | Tero Parviainen](#make-your-own-angularjs-tero-parviainen)
+  * [AngularJS Sticky Notes | One Hungry MindOne Hungry Mind](#angularjs-sticky-notes-one-hungry-mindone-hungry-mind)
+  * [AngularJS: Melhores Práticas | Ciro Nunes](#angularjs-melhores-práticas-ciro-nunes)
 * [Casos de Uso](#casos-de-uso)
 * [Dicas](#dicas)
   * [Amazon AWS](#amazon-aws)
@@ -37,8 +39,6 @@
   * [Autenticação](#autenticação)
   * [Mobile](#mobile)
     * [PhoneGap](#phonegap)
-  * [AngularJS Sticky Notes | One Hungry MindOne Hungry Mind](#angularjs-sticky-notes-one-hungry-mindone-hungry-mind)
-  * [AngularJS: Melhores Práticas | Ciro Nunes](#angularjs-melhores-práticas-ciro-nunes)
   * [Ferramentas](#ferramentas)
 * [Directive (componentes)](#directive-componentes)
   * [Filters](#filters)
@@ -48,6 +48,7 @@
   * [Módulos de UI](#módulos-de-ui)
   * [ng animate](#ng-animate)
 * [Projetos de Exemplo](#projetos-de-exemplo)
+  * [MEAN Stack](#mean-stack)
   * [Angular-Seed](#angular-seed)
 * [Teste](#teste)
   * [Mock](#mock)
@@ -332,11 +333,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [CoffeeScript and AngularJS | Alexander Hill](http://alxhill.com/blog/articles/angular-coffeescript/)
 
 
-### ng-newsletter 
+## Tutoriais
 
 * [25 days of AngularJS Calendar | 2013](http://www.ng-newsletter.com/advent2013) - The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
 
-#### AngularJS from beginner to expert in 7 steps series
+### AngularJS from beginner to expert in 7 steps series | ng-newsletter
 
 * [Part 1: How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
 
@@ -351,7 +352,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 7: Next steps](http://www.ng-newsletter.com/posts/beginner2expert-config.html)
 
 
-### Dailyjs.com : Angular.js
+### Angular.js | Dailyjs.com
 
 * [Part 1: Google, Twitter, and AngularJS](http://dailyjs.com/2013/04/11/angularjs-1/)
 
@@ -370,10 +371,21 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 8: Iterators and Data](http://dailyjs.com/2013/06/13/angularjs-8/)
 
 
-### Tero Parviainen : Make Your Own AngularJS
+### Make Your Own AngularJS | Tero Parviainen
 
 * [Part 1: Scopes And Digest](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
 
+
+### AngularJS Sticky Notes | One Hungry MindOne Hungry Mind
+
+* [Pt 1 - Architecture](http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/)
+
+* [Pt 2 - Isolated Scope](http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/)
+
+
+### AngularJS: Melhores Práticas | Ciro Nunes
+
+* [Parte I: Iniciando Um Projeto](http://cironunes.github.com/angularjs-melhores-praticas-parte-I-bootstrap/)
 
 
 ## Casos de Uso
@@ -800,18 +812,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly.
 
 
-### AngularJS Sticky Notes | One Hungry MindOne Hungry Mind
-
-* [Pt 1 - Architecture](http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/)
-
-* [Pt 2 - Isolated Scope](http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/)
-
-
-### AngularJS: Melhores Práticas | Ciro Nunes
-
-* [Parte I: Iniciando Um Projeto](http://cironunes.github.com/angularjs-melhores-praticas-parte-I-bootstrap/)
-
-
 ### Ferramentas
 
 * [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
@@ -1132,26 +1132,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [MEAN Stack](http://mean.io/) - is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
-
-  * [What is the MEAN stack? | You are IT!](http://tamaspiros.co.uk/2013/09/19/what-is-the-mean-stack/)
-
-  * [[YouTube] Getting MEAN | Google Developers](http://www.youtube.com/watch?v=XwSFg8nqBFA&t=1m39s)
-
-  * [[Speaker Deck] Developing MEAN applications](https://speakerdeck.com/voronianski/developing-mean-applications) - Simple overview of modules and other stuff that we've used while building http://likeastore.com using Mongodb, Express.js, Angular.js and Node.js stack.
-  
-  * [[SlideShare] The MEAN Stack: MongoDB, ExpressJS, AngularJS and Node.js](http://pt.slideshare.net/mongodb/mongodb2-21677032) - by MongoDB
-
-  * [Full-Stack JavaScript With MEAN And Yeoman | AddyOsmani.com](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
-
-  * [[GitHub] pilwon / ultimate-seed](https://github.com/pilwon/ultimate-seed) - MEAN Stack on Steroids
-
-  * [[GitHub] rafaelalmeidaerthalhermano / mean-stack](https://github.com/rafaelalmeidaerthalhermano/mean-stack) - Esse módulo implementa um boilerplate e um gerador de aplicações em MEAN.
-
-  * [[GitHub] wlepinski / generator-meanstack](https://github.com/wlepinski/generator-meanstack) - The MEAN stack generator for Yeoman
-
---
-
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
 
 * [[GitHub] thiagofelix / hackynote](https://github.com/thiagofelix/hackynote) - A presentation editor and preview based on markdown. Made for hackers
@@ -1175,6 +1155,27 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Radian](http://radian.io/) is a scalable AngularJS framework, perfect for multi developer projects
+
+
+### MEAN Stack
+
+* [MEAN Stack](http://mean.io/) - is a boilerplate that provides a nice starting point for MongoDB, Node.js, Express, and AngularJS based applications.
+
+* [What is the MEAN stack? | You are IT!](http://tamaspiros.co.uk/2013/09/19/what-is-the-mean-stack/)
+
+* [[YouTube] Getting MEAN | Google Developers](http://www.youtube.com/watch?v=XwSFg8nqBFA&t=1m39s)
+
+* [[Speaker Deck] Developing MEAN applications](https://speakerdeck.com/voronianski/developing-mean-applications) - Simple overview of modules and other stuff that we've used while building http://likeastore.com using Mongodb, Express.js, Angular.js and Node.js stack.
+
+* [[SlideShare] The MEAN Stack: MongoDB, ExpressJS, AngularJS and Node.js](http://pt.slideshare.net/mongodb/mongodb2-21677032) - by MongoDB
+
+* [Full-Stack JavaScript With MEAN And Yeoman | AddyOsmani.com](http://addyosmani.com/blog/full-stack-javascript-with-mean-and-yeoman/)
+
+* [[GitHub] pilwon / ultimate-seed](https://github.com/pilwon/ultimate-seed) - MEAN Stack on Steroids
+
+* [[GitHub] rafaelalmeidaerthalhermano / mean-stack](https://github.com/rafaelalmeidaerthalhermano/mean-stack) - Esse módulo implementa um boilerplate e um gerador de aplicações em MEAN.
+
+* [[GitHub] wlepinski / generator-meanstack](https://github.com/wlepinski/generator-meanstack) - The MEAN stack generator for Yeoman
 
 
 ### Angular-Seed
