@@ -4,17 +4,18 @@
 * [Visão Geral](#visão-geral)
 * [Sites Oficiais](#sites-oficiais)
 * [Aprendizado](#aprendizado)
+* [Comunidades e Grupos](#comunidades-e-grupos)
 * [Casos de Uso](#casos-de-uso)
   * [IBM developerWorks](#ibm-developerworks)
 * [Projetos Interessantes](#projetos-interessantes)
   * [Abstract Syntax Tree](#abstract-syntax-tree)
   * [Boilerplate](#boilerplate)
-  * [Async / flow control](#async-flow-control)
+  * [Flow Control](#flow-control)
 * [Dicas](#dicas)
   * [REST](#rest)
   * [Authentication](#authentication)
     * [WebID](#webid)
-  * [modulo](#modulo)
+  * [Módulo](#módulo)
   * [url rewrite proxy](#url-rewrite-proxy)
   * [NPM](#npm)
   * [CORS](#cors)
@@ -88,6 +89,8 @@
 
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 
+* [[GitHub] rockbot / node-for-beginners](https://github.com/rockbot/node-for-beginners) - A list of resources for Node.js Newbies!
+
 * [An Absolute Beginner's Guide to Node.js | Modulus Blog](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 
 * [[GitHub] maxogden / art-of-node](https://github.com/maxogden/art-of-node) - The Art of Node.js : a short introduction to node.js
@@ -148,20 +151,26 @@
 
 * [Understanding Exceptions and Domains in Node.js | How to JS](http://www.howtojs.org/understanding-exceptions-domains-in-nodejs/)
 
---
 
-* [NodeBR](http://nodebr.com/)
+## Comunidades e Grupos
 
-* [Node.js processando em paralelo | iMasters](http://imasters.com.br/desenvolvimento/node-js-processando-em-paralelo/) 
+* [NodeBR](http://nodebr.com/) - é o repositório de artigos da comunidade brasileira de node.js
 
---
+* [Node.js Brasil](http://nodejsbrasil.com.br/) - Blog comunitário da comunidade de Node.js brasileira
 
-* [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
+  * [Grupo no Facebook](https://www.facebook.com/groups/nodejsbrasil/)
+
+  * [Grupo no Google+](https://plus.google.com/u/0/communities/114677724833864547063)
 
 
 ## Casos de Uso
 
+* [Projects, Applications, and Companies Using Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node) - GitHub wiki : joyent / node
+
+* [Industry | Nodejs.org](http://nodejs.org/industry/)
+
 * [Can You Count on Node? - Blog - Joyent](http://joyent.com/blog/can-you-count-on-node)
+
 
 * [Geekli.st](https://geekli.st/erkobridee/invite/196DA487FB) - rede social construída com Node.js | [Sobre a Geekli.st e tecnologias utilizadas](https://geekli.st/about)
 
@@ -178,6 +187,8 @@
 * [Node.js at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 
   * [How PayPal is Being Revolutionized by Node.js and Lean UX | nearForm](http://www.nearform.com/nodecrunch/release-the-kracken-how-paypal-is-being-revolutionized-by-node-js-and-lean-ux)
+
+* [Why Node.js is becoming the go-to technology in the Enterprise | Node Crunch](http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise)
 
 
 ### IBM developerWorks
@@ -494,7 +505,7 @@
 * [[GitHub] eunjae-lee / node-express-grunt-boilerplate](https://github.com/eunjae-lee/node-express-grunt-boilerplate) - A boilerplate to start a new express project based on CoffeeScript, Grunt build system, forever runner, Jade Template Engine and bootstrap
 
 
-### Async / flow control
+### Flow Control
 
 * [Async - utilities for node and the browser](https://github.com/caolan/async)
 
@@ -535,6 +546,14 @@
 * [Setting up a JavaScript / Node.js development environment](http://learnjs.io/blog/2014/01/22/js-development-environment/)
 
 * [An Introduction To Full-Stack JavaScript | Smashing Coding](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript)
+
+--
+
+* [Node.js processando em paralelo | iMasters](http://imasters.com.br/desenvolvimento/node-js-processando-em-paralelo/) 
+
+--
+
+* [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 
 --
 
@@ -782,6 +801,7 @@
 
 * [[GitHub] Mashape / guardian](ape/guardian) - Authentication Proxy Server, instead of dealing with providers now you can authenticate against any service with a simple json data-structure and plugin architecture.
 
+
 #### WebID
 
 * [WebID - Universal Login and Identity for the Web](http://webid.info/)
@@ -796,7 +816,7 @@
 
 
 
-### modulo
+### Módulo
 
 * [How to Make Simple Node.js Modules Work in the Browser | Richard Rodger](http://www.richardrodger.com/2013/09/27/how-to-make-simple-node-js-modules-work-in-the-browser/)
 
