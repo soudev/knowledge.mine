@@ -1,5 +1,51 @@
 # Sistemas de Controle de Versão : git-scm
 
+
+<!-- toc -->
+* [SCM Corporativo : pontos a serem considerados](#scm-corporativo-pontos-a-serem-considerados)
+* [Para que serve?](#para-que-serve)
+* [O que é?](#o-que-é)
+* [Qual o custo?](#qual-o-custo)
+* [Por que foi criado?](#por-que-foi-criado)
+  * [Referências](#referências)
+* [Objetivos do git-scm](#objetivos-do-git-scm)
+* [Principais características](#principais-características)
+* [Exemplos de Workflows](#exemplos-de-workflows)
+  * [Colaboração](#colaboração)
+* [Integração com ferramentas](#integração-com-ferramentas)
+  * [Java](#java)
+    * [IDE](#ide)
+    * [Build e Integração Contínua](#build-e-integração-contínua)
+  * [Microsoft .Net](#microsoft-net)
+  * [Apple](#apple)
+  * [Clientes](#clientes)
+    * [Windows](#windows)
+    * [Mac OS X](#mac-os-x)
+    * [Windows, Linux e Mac OS X](#windows-linux-e-mac-os-x)
+  * [Gestão de git-scm gratuítos e OpenSource](#gestão-de-git-scm-gratuítos-e-opensource)
+* [Suporte comercial / empresarial](#suporte-comercial-empresarial)
+  * [RedHat](#redhat)
+  * [Microsoft](#microsoft)
+  * [Atlassian](#atlassian)
+  * [Github](#github)
+  * [CollabNet](#collabnet)
+  * [Gitorious](#gitorious)
+* [Job trends](#job-trends)
+* [Git em empresas](#git-em-empresas)
+* [Quem usa?](#quem-usa)
+  * [Listados no : git-scm](#listados-no-git-scm)
+    * [Empresas](#empresas)
+    * [Projetos](#projetos)
+  * [Não listados no : git-scm](#não-listados-no-git-scm)
+    * [Empresas](#empresas)
+    * [Projetos](#projetos)
+    * [Governo : Brasil](#governo-brasil)
+    * [Governo : Estados Unidos](#governo-estados-unidos)
+* [Posso confiar em uma solução OpenSource?](#posso-confiar-em-uma-solução-opensource)
+
+<!-- toc stop -->
+
+
 ## SCM Corporativo : pontos a serem considerados 
 
 * Colaboração
