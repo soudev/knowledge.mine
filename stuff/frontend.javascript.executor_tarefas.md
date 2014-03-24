@@ -1,5 +1,23 @@
 # Front-End
 
+
+<!-- toc -->
+* [JavaScript](#javascript)
+  * [Executor de Tarefas](#executor-de-tarefas)
+    * [Bundy](#bundy)
+    * [Gulp](#gulp)
+    * [Grunt](#grunt)
+      * [Aprendizado](#aprendizado)
+      * [Ferramentas](#ferramentas)
+      * [Plugins](#plugins)
+      * [Dicas](#dicas)
+      * [Testes](#testes)
+      * [Exemplos de Uso](#exemplos-de-uso)
+      * [Construído sobre o Grunt.js](#construído-sobre-o-gruntjs)
+
+<!-- toc stop -->
+
+
 ## JavaScript
 
 ### Executor de Tarefas
@@ -158,7 +176,7 @@
 
 --
 
-* [[GitHub] bevacqua / grunt-grunt](https://github.com/bevacqua/grunt-grunt) - Spawn Grunt tasks in other Gruntfiles easily from a Grunt task
+* [[GitHub] shakyShane / grunt-browser-sync](https://github.com/shakyShane/grunt-browser-sync) - Grunt Task for keeping multiple browsers & devices in sync when building websites.
 
 --
 
