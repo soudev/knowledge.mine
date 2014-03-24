@@ -76,6 +76,8 @@
 
 * [Schemeless URLs](http://log4dev.com/2013/06/14/schemeless-urls/) - recurso utilizado por alguns CDNs como Google por exemplo.
 
+* [jsDelivr - The advanced open source public CDN | Mozilla Hacks](https://hacks.mozilla.org/2014/03/jsdelivr-the-advanced-open-source-public-cdn/)
+
 --
 
 * [Small things add up | Chris Hates Writing](http://chrishateswriting.com/post/68794699432/small-things-add-up) - How 4chan is saving 275GB each year and saving its users 46TB each *month* with one weird trick! (Well, two.) 
