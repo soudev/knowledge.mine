@@ -561,6 +561,8 @@
 
 * [[GitHub] EightMedia / hammer.js](https://github.com/EightMedia/hammer.js/) - A javascript library for multi-touch gestures
 
+* [[GitHub] soyjavi / QuoJS](https://github.com/soyjavi/quojs) - Micro JavaScript Library for Mobile Devices
+
 
 #### Storage
 
