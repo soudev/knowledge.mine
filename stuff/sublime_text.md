@@ -18,8 +18,10 @@
 * [Temas](#temas)
 * [Packages e Plugins](#packages-e-plugins)
   * [EditorConfig](#editorconfig)
+  * [Snippets](#snippets)
 
 <!-- toc stop -->
+
 
 
 ## Configuração
@@ -29,6 +31,7 @@
 * [Configurando o Sublime Text 2 | Simples Ideias](http://simplesideias.com.br/configurando-o-sublime-text-2)
 
 * [Syncing packages and settings across multiple machines in Sublime Text](https://sublime.wbond.net/docs/syncing)
+
 
 ## Guia
 
@@ -156,18 +159,6 @@
 
 --
 
-* [[GitHub] zenorocha / sublime-snippets-js](https://github.com/zenorocha/sublime-snippets-js) - JavaScript & NodeJS Snippets for Sublime Text 2/3
-
-* [[GitHub] caiogondim / js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets) - JavaScript Patterns snippets for Sublime Text
-
-* [[GitHub] angular-ui / AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package) - AngularJS code completion, snippets, go to definition, quick panel search, and more
-
-* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Sublime Text 2 / 3 Snippets and Completions for Angular.js
-
-* [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/)
-
---
-
 * [[GitHub] tvooo / sublime-grunt](https://github.com/tvooo/sublime-grunt) - A Grunt plugin for Sublime Text
 
 
@@ -178,4 +169,19 @@
 * [[GitHub] sindresorhus / editorconfig-sublime](https://github.com/sindresorhus/editorconfig-sublime) - Sublime Text plugin for EditorConfig
 
 * [EditorConfig | Tableless](http://tableless.com.br/editorconfig/) - um plugin que salva a vida de equipes inteiras
+
+
+### Snippets
+
+* [[GitHub] zenorocha / sublime-snippets-js](https://github.com/zenorocha/sublime-snippets-js) - JavaScript & NodeJS Snippets for Sublime Text 2/3
+
+* [[GitHub] caiogondim / js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets) - JavaScript Patterns snippets for Sublime Text
+
+* [[GitHub] angular-ui / AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package) - AngularJS code completion, snippets, go to definition, quick panel search, and more
+
+* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Sublime Text 2 / 3 Snippets and Completions for Angular.js
+
+* [[GitHub] caiogondim / jasmine-sublime-snippets](https://github.com/caiogondim/jasmine-sublime-snippets) - Snippets for Jasmine, the BDD framework for testing JavaScript, in Sublime Text
+
+* [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/)
 
