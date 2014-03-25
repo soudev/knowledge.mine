@@ -904,6 +904,10 @@
 
 * [Getting a Head Start with Front End Generators | Flippin' Awesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
 
+--
+
+* [[GitHub] klei / slush](https://github.com/klei/slush) - The streaming scaffolding system - Gulp as a replacement for Yeoman
+
 
 #### Yeoman
 
