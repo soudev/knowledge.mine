@@ -8,9 +8,35 @@
 * [Casos de Uso](#casos-de-uso)
   * [IBM developerWorks](#ibm-developerworks)
 * [Projetos Interessantes](#projetos-interessantes)
-  * [Abstract Syntax Tree](#abstract-syntax-tree)
-  * [Boilerplate](#boilerplate)
-  * [Flow Control](#flow-control)
+  * [Desenvolvimento](#desenvolvimento)
+    * [Configuração do Ambiente](#configuração-do-ambiente)
+      * [dotFiles - Mac OS X config](#dotfiles-mac-os-x-config)
+    * [Exemplos](#exemplos)
+      * [Boilerplate](#boilerplate)
+  * [Análise de Código](#análise-de-código)
+  * [Monitoramento e Logs](#monitoramento-e-logs)
+  * [Versionamento](#versionamento)
+  * [Identificadores](#identificadores)
+  * [Encurtador de URLs](#encurtador-de-urls)
+  * [Controle de Fluxo de Execução](#controle-de-fluxo-de-execução)
+  * [Git e GitHub](#git-e-github)
+  * [Integração com Java](#integração-com-java)
+  * [BitCoins](#bitcoins)
+  * [Photoshop CC](#photoshop-cc)
+  * [Torrent](#torrent)
+  * [Node.js no Servidor](#nodejs-no-servidor)
+    * [Fórum](#fórum)
+    * [Gerenciador de Conteúdo](#gerenciador-de-conteúdo)
+    * [Jogos](#jogos)
+  * [Site Estático](#site-estático)
+  * [Hardware](#hardware)
+    * [Node Copter](#node-copter)
+    * [Lego Mindstorms](#lego-mindstorms)
+    * [Tessel](#tessel)
+    * [Espruino](#espruino)
+    * [Arduino](#arduino)
+    * [RaspberryPi](#raspberrypi)
+* [Abstract Syntax Tree](#abstract-syntax-tree)
 * [Dicas](#dicas)
   * [REST](#rest)
   * [Authentication](#authentication)
@@ -23,16 +49,22 @@
   * [Virtualização](#virtualização)
     * [Docker](#docker)
   * [Nuvem](#nuvem)
-  * [Pessoal](#pessoal)
+    * [Pessoal](#pessoal)
     * [Amazon AWS](#amazon-aws)
       * [Amazon S3](#amazon-s3)
     * [Windows Azure](#windows-azure)
   * [Mobile](#mobile)
     * [iOS](#ios)
   * [Desktop](#desktop)
+    * [Node Webkit](#node-webkit)
   * [Modulos e Frameworks](#modulos-e-frameworks)
+    * [Socket.io](#socketio)
+    * [Express.js](#expressjs)
     * [Meteor](#meteor)
   * [Ferramentas](#ferramentas)
+    * [Visual Studio](#visual-studio)
+    * [Eclipse IDE](#eclipse-ide)
+    * [JetBrains](#jetbrains)
   * [Testes](#testes)
 
 <!-- toc stop -->
@@ -200,95 +232,26 @@
 
 ## Projetos Interessantes
 
-* dotFiles - Mac OS X config
+* [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
 
-  * [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
-
---
-
-* [Tessel](http://technical.io/) - JavaScript right on the hardware 
-
-  * [Tessel - Dragon Innovation](http://www.dragoninnovation.com/projects/22-tessel) - Technical Machine - hardware module that speak javascript - totally amazing
-
-  * [[YouTube] Tessel Preview: Pushing code, servos, and UDP](https://www.youtube.com/watch?v=XCwKzipBIaA)
-
-  * [[SlideShare] Tessel: The End of Web Development (as we know it)](http://www.slideshare.net/TechnicalMachine/tessel-the-end-of-web-development-as-we-know-it)
-
---
-
-* [Espruino](http://www.espruino.com/) - A JavaScript interpreter for Microcontrollers
-
-  * [Espruino quer usar Javascript para controlar sua casa | Info](http://info.abril.com.br/noticias/blogs/zonalivre/hardware/espruino-quer-usar-javascript-para-controlar-sua-casa/)
-
---
-
-* [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
-
-* Lego Mindstorms
-
-  * [Hacking Lego Mindstorms EV3 with JavaScript](http://andrew.ghost.io/hacking-lego-mindstorms-ev3-with-javascript/)
-
-
-* Arduino
-
-  * [NodeBots](http://nodebots.io/) - The Rise of JS Robotics
-
-  * [[GitHub] ecto / duino](https://github.com/ecto/duino) - Arduino framework for node.js
-
-  * [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
-
-
-* RaspberryPi
-
-  * [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
-
-  * [Home Automation with AngularJS and node.js on a Raspberry Pi | codecentric Blogcodecentric Blog](https://blog.codecentric.de/en/2013/03/home-automation-with-angularjs-and-node-js-on-a-raspberry-pi/)
-
-  * [heimcontrol.js](http://ni-c.github.io/heimcontrol.js/) - Awesome home automation with Raspberry PI and Arduino using Node.js, MongoDB, HTML5 and Websockets
-
---
-
-* [[GitHub] popcorn-team / popcorn-app](https://github.com/popcorn-team/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
-
-* [[GitHub] mafintosh / peerflix](https://github.com/mafintosh/peerflix) - a streaming torrent client
-
-  * [[GitHub] mafintosh / peerflix-engine](https://github.com/mafintosh/peerflix-engine) - The low level streaming torrent engine that peerflix will use
+* [VNC client on 200 lines of JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
 
 --
 
 * [[GitHub] skynetim / skynet](https://github.com/skynetim/skynet) - Machine-to-machine instant messaging platform for the internet of things
 
---
+* [[GitHub] fent / node-ytdl](https://github.com/fent/node-ytdl) - Pure Javascript youtube video downloader
 
-* [NodeBB](https://nodebb.com/) - Forums, re-designed from the ground up to take advantage of the latest web technologies. Modern forums for the modern web.
+* [[GitHub] leetreveil / node-musicmetadata](https://github.com/leetreveil/node-musicmetadata) - Streaming music metadata parser for node, written in pure Javascript
 
-  * [In the Loop: NodeBB, Using Node.js to Become the Discussion Platform of the Future | StrongLoop](http://strongloop.com/strongblog/in-the-loop-nodebb-using-node-js-to-become-the-discussion-platform-of-the-future/)
+* [[GitHub] ConradIrwin / unicode-dragon](https://github.com/ConradIrwin/unicode-dragon) - eats invalid unicode for breakfast
 
---
+* [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
 
-* [KeystoneJS](http://keystonejs.com/) - Node.js content management system and web application platform built on express and mongo. 
-  
-  * [[GitHub] JedWatson / keystone](https://github.com/JedWatson/keystone) - node.js cms and web app framework
 
---
+### Desenvolvimento
 
-* [bitcore](http://bitcore.io/) - A pure, powerful core for your bitcoin project. Bitcore is a complete, native interface to the Bitcoin network, and provides the core functionality needed to develop apps for bitcoin.
-
-  * [[GitHub] bitpay / bitcore](https://github.com/bitpay/bitcore)
-
---
-
-* [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript. 
-
-  * [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
-
-  * [Introduction to Photoshop Generator | Lee Brimelow](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
-
---
-
-* [[GitHub] MatthewMueller / coderunner](https://github.com/matthewmueller/coderunner) - Run server-side code quickly and securely in the browser
-
---
+* [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
 
 * [[GitHub] idflood / ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) - This is an attempt to make something like "vvvv" in javascript, html and webgl.
 
@@ -296,83 +259,7 @@
 
 * [Node Console](http://www.node-console.com/script/code) - test node.js apps online
 
---
-
-* [Node GH](http://nodegh.io/) = NodeJS + GitHub - GitHub command line tools
-
-* ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - The easiest way to use git. On any platform. Anywhere.
-
-* [[GitHub] creationix / js-git](https://github.com/creationix/js-git) - JS-Git an open source project implementing git client and server in pure JavaScript
-
-* [[GitHub] nodegit / nodegit](https://github.com/nodegit/nodegit) - Native asynchronous bindings to libgit2 for Node.js
-
---
-
-* [[GitHub] dynjs / dynjs](https://github.com/dynjs/dynjs) - (almost) 100% invokedynamic js impl. DynJS is an ECMAScript runtime for the JVM.
-
-* [[GitHub] projectodd / nodyn](https://github.com/projectodd/nodyn) - A node.js compatible framework, running on the JVM. Powered by Vert.x and the DynJS Javascript runtime.s
-
---
-
-* [[GitHub] YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
-
-* [How to run Node.js on the JVM with Avatar.js and LoopBack | StrongLoop](http://strongloop.com/strongblog/how-to-run-node-js-on-the-jvm-with-avatar-js-and-loopback/)
-
---
-
-* [[GitHub] NarrativeScience / Log.io](https://github.com/NarrativeScience/Log.io)
-
-  * [log.io](http://logio.org/) - Real-time log monitoring in your browser
-
-* [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
-
-* [dnc : a CLI tool to check domain names configuration and statistics](http://www.cambus.net/dnc-a-cli-tool-to-check-domain-names-configuration-and-statistics/)
-
-  * [[GitHub] fcambus / dnc](https://github.com/fcambus/dnc) - A CLI tool to check domain names configuration and statistics
-
-* [NoFlo | Flow-Based Programming for JavaScript](http://noflojs.org/)
-
---
-
-* [[GitHub] gravityonmars / nodejs-starter](https://github.com/gravityonmars/nodejs-starter) - Simple project setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap
-
---
-
-* [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
-
-* [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
-
-  * [Introduction to the Harp Web Server | Introductory Screencast - Harp](http://harpjs.com/blog/introductory-screencast)
-
-* [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command 
-
-* [[GitHub] dharmafly / noodle](https://github.com/dharmafly/noodle) - A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST
-
-* [Hapi : server framework for Node.js](http://spumko.github.io/)
-
-  * [Node.js and Hapi - Creating a REST API | Modulus Blog](http://blog.modulus.io/nodejs-and-hapi-create-rest-api)
-
-* [[GitHub] dai-shi / social-cms-backend](https://github.com/dai-shi/social-cms-backend) - Express middleware to provide schema-less REST APIs for creating a social networking website primarily using angular.js. It comes with built-in authentication, authorization and notification features.
-
---
-
-* [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
-
-* [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
-
-* [[GitHub] ktsashes / FruitJS](https://github.com/ktsashes/FruitJS) - A Node.js script for turning your markdown documentation into a fully functional site
-
-  * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
-
---
-
-* [DynoSRC](http://dinosrc.it/) - Eliminate HTTP requests for JavaScript files and serve differential updates to your users on the fly. No, really. Like, seriously.
-
-* [[GitHub] williamwicks / litesocket](https://github.com/williamwicks/litesocket) - Realtime server events for Node.JS, using Server Sent Events (SSE)
-
---
-
-* [[GitHub] topcloud / cachemere](https://github.com/topcloud/cachemere) - A nice, smooth, cushiony layer of cache
+* [[GitHub] MatthewMueller / coderunner](https://github.com/matthewmueller/coderunner) - Run server-side code quickly and securely in the browser
 
 --
 
@@ -380,20 +267,11 @@
 
 --
 
-* [[GitHub] simonewebdesign / real-time-web-chat](https://github.com/simonewebdesign/real-time-web-chat) - A chat built with NodeJS, ExpressJS and Socket.io | [Demo App on OpenShift](https://github.com/simonewebdesign/real-time-web-chat)
+* [[GitHub] shakyShane / browser-sync](https://github.com/shakyShane/browser-sync) - Keep multiple browsers & devices in sync when building websites.
 
-
-* [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
-
---
-
-* [mongo-express](http://andzdroid.github.io/mongo-express/) - Web-based MongoDB admin interface written with Node.js and express
+* [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
 
 --
-
-* [[GitHub] chilts / flake](https://github.com/chilts/flake) - Generate practically unique (approximately sortable) IDs in a distributed environment
-
-* [[GitHub] fent / node-ytdl](https://github.com/fent/node-ytdl) - Pure Javascript youtube video downloader
 
 * [[GitHub] MatthewMueller / cheerio](https://github.com/MatthewMueller/cheerio)
 
@@ -401,13 +279,67 @@
 
   * [Mineração de dados e as funções map, reduce e filter | NodeBR - NodeJS Brasil](http://nodebr.com/mineracao-de-dados-e-as-funcoes-map-reduce-filter/)
 
---
+
+#### Configuração do Ambiente
+
+* [[GitHub] feross / hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
+
+##### dotFiles - Mac OS X config
+
+* [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
+
+
+#### Exemplos
+
+* [[GitHub] gravityonmars / nodejs-starter](https://github.com/gravityonmars/nodejs-starter) - Simple project setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap
+
+##### Boilerplate
+
+* [[GitHub] bryanro / nodejs-boilerplate](https://github.com/bryanro/nodejs-boilerplate) - Template for nodejs RESTful web services and optional front-end
+
+  * [Node.js Boilerplate: Express, Mongo, Cross-Origin, and More | bryankrosenbaum.com](http://bryankrosenbaum.com/2013/10/17/node-js-boilerplate/)
+
+* [[GitHub] eunjae-lee / node-express-grunt-boilerplate](https://github.com/eunjae-lee/node-express-grunt-boilerplate) - A boilerplate to start a new express project based on CoffeeScript, Grunt build system, forever runner, Jade Template Engine and bootstrap
+
+
+### Análise de Código
+
+* [[GitHub] mdevils / node-jscs](https://github.com/mdevils/node-jscs) - JavaScript Code Style checker
+
+* [[GitHub] t32k / stylestats](https://github.com/t32k/stylestats) - StyleStats is Node.js library to collect CSS statistics!
+
+
+### Monitoramento e Logs
+
+* [[GitHub] niallo / node-httpcheck](https://github.com/niallo/node-httpcheck) - Simple HTTP status checker with timeout
+
+* [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
+
+* [dnc : a CLI tool to check domain names configuration and statistics](http://www.cambus.net/dnc-a-cli-tool-to-check-domain-names-configuration-and-statistics/)
+
+  * [[GitHub] fcambus / dnc](https://github.com/fcambus/dnc) - A CLI tool to check domain names configuration and statistics
+
+* [[GitHub] NarrativeScience / Log.io](https://github.com/NarrativeScience/Log.io)
+
+  * [log.io](http://logio.org/) - Real-time log monitoring in your browser
+
+
+### Versionamento
+
+* [[GitHub] webpro / release-it](https://github.com/webpro/release-it) - Interactive release tool for Git repositories. Supports to build and release to a distribution/component repository. Publish to npm.
+
+* [[GitHub] radubrehar / versiony](https://github.com/radubrehar/versiony) - Node.js module to increment version number for your code/module
+
+
+### Identificadores 
 
 * [uuid | node.js modules](https://nodejsmodules.org/tags/uuid)
 
 * [[GitHub] broofa / node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
 
 * [[GitHub] dilvie / cuid](https://github.com/dilvie/cuid) - Collision-resistant ids optimized for horizontal scaling and performance
+
+* [[GitHub] chilts / flake](https://github.com/chilts/flake) - Generate practically unique (approximately sortable) IDs in a distributed environment
 
 * [[GitHub] substack / node-hat](https://github.com/substack/node-hat) - Generate random IDs and avoid collisions | 
 
@@ -419,54 +351,203 @@
 
 * [[GitHub] UmbraEngineering / short-id](https://github.com/UmbraEngineering/short-id) - Short ID String Generation for Node.js
 
+
+### Encurtador de URLs
+
 * [[GitHub] edwardhotchkiss / short](https://github.com/edwardhotchkiss/short) - Promise-based Node.js URL Shortener (use short-id) backed by Mongoose.js
 
-  * [[GitHub] thinkroth / shortUrl](https://github.com/thinkroth/shortUrl) - Another short url service in node.js
+* [[GitHub] thinkroth / shortUrl](https://github.com/thinkroth/shortUrl) - Another short url service in node.js
+
+
+### Controle de Fluxo de Execução
+
+* [Async - utilities for node and the browser](https://github.com/caolan/async)
+
+  * [Node.js async in practice: When to use what? | Sebastian Seilund](http://www.sebastianseilund.com/nodejs-async-in-practice)
+
+  * [[GitHub] scottcorgan / series](https://github.com/scottcorgan/series) - Compose a series of chainable async methods
+
+* [Cyclop - Stupid simple control flow library](https://github.com/vesln/cyclop)
+
+* [[GitHub] luciotato / waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell
+
+* [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
+
+* [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
+
+* [[GitHub] Sahadar / pubsub.js](https://github.com/Sahadar/pubsub.js) - JavaScript pubsub implementation with wildcards, inheritance and multisubscribtions
 
 --
 
-* [[GitHub] leetreveil / node-musicmetadata](https://github.com/leetreveil/node-musicmetadata) - Streaming music metadata parser for node, written in pure Javascript
+* [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
+
+* [Evitando callback hell no Node.js | Underground WebDev](http://udgwebdev.com/evitando-callback-hell-no-node-js/)
+
+
+### Git e GitHub
+
+* [Node GH](http://nodegh.io/) = NodeJS + GitHub - GitHub command line tools
+
+* ungit : [[GitHub] FredrikNoren / ungit](https://github.com/FredrikNoren/ungit) | [npm](https://npmjs.org/package/ungit) | [[Youtube] Introduction](https://www.youtube.com/watch?v=hkBVAi3oKvo) - The easiest way to use git. On any platform. Anywhere.
+
+* [[GitHub] creationix / js-git](https://github.com/creationix/js-git) - JS-Git an open source project implementing git client and server in pure JavaScript
+
+* [[GitHub] nodegit / nodegit](https://github.com/nodegit/nodegit) - Native asynchronous bindings to libgit2 for Node.js
+
+
+### Integração com Java
+
+* [[GitHub] dynjs / dynjs](https://github.com/dynjs/dynjs) - (almost) 100% invokedynamic js impl. DynJS is an ECMAScript runtime for the JVM.
+
+* [[GitHub] projectodd / nodyn](https://github.com/projectodd/nodyn) - A node.js compatible framework, running on the JVM. Powered by Vert.x and the DynJS Javascript runtime.s
 
 --
 
-* [VNC client on 200 lines of JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
+* [[GitHub] YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
 
-* [[GitHub] ConradIrwin / unicode-dragon](https://github.com/ConradIrwin/unicode-dragon) - eats invalid unicode for breakfast
+* [How to run Node.js on the JVM with Avatar.js and LoopBack | StrongLoop](http://strongloop.com/strongblog/how-to-run-node-js-on-the-jvm-with-avatar-js-and-loopback/)
 
-* [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
+
+### BitCoins
+
+* [[GitHub] bitpay / bitcore](https://github.com/bitpay/bitcore)
+
+* [Bitcore](http://bitcore.io/) - A pure, powerful core for your bitcoin project. Bitcore is a complete, native interface to the Bitcoin network, and provides the core functionality needed to develop apps for bitcoin.
+
+
+### Photoshop CC
+
+* [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript. 
+
+* [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
+
+* [Introduction to Photoshop Generator | Lee Brimelow](http://www.leebrimelow.com/introduction-to-photoshop-generator/)
+
+
+### Torrent
+
+* [[GitHub] mafintosh / peerflix](https://github.com/mafintosh/peerflix) - a streaming torrent client
+
+* [[GitHub] mafintosh / peerflix-engine](https://github.com/mafintosh/peerflix-engine) - The low level streaming torrent engine that peerflix will use
+
+
+### Node.js no Servidor
+
+* [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
+
+* [DynoSRC](http://dinosrc.it/) - Eliminate HTTP requests for JavaScript files and serve differential updates to your users on the fly. No, really. Like, seriously.
+
+* [[GitHub] williamwicks / litesocket](https://github.com/williamwicks/litesocket) - Realtime server events for Node.JS, using Server Sent Events (SSE)
 
 --
 
-* [[GitHub] shakyShane / browser-sync](https://github.com/shakyShane/browser-sync) - Keep multiple browsers & devices in sync when building websites.
+* [[GitHub] topcloud / cachemere](https://github.com/topcloud/cachemere) - A nice, smooth, cushiony layer of cache
 
 --
 
-* [[GitHub] feross / hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
+* [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command 
+
+* [[GitHub] dharmafly / noodle](https://github.com/dharmafly/noodle) - A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST
 
 --
+
+* [mongo-express](http://andzdroid.github.io/mongo-express/) - Web-based MongoDB admin interface written with Node.js and express
+
+--
+
+* [[GitHub] simonewebdesign / real-time-web-chat](https://github.com/simonewebdesign/real-time-web-chat) - A chat built with NodeJS, ExpressJS and Socket.io | [Demo App on OpenShift](https://github.com/simonewebdesign/real-time-web-chat)
+
+--
+
+* [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
+
+  * [Introduction to the Harp Web Server | Introductory Screencast - Harp](http://harpjs.com/blog/introductory-screencast)
+
+* [Hapi : server framework for Node.js](http://spumko.github.io/)
+
+  * [Node.js and Hapi - Creating a REST API | Modulus Blog](http://blog.modulus.io/nodejs-and-hapi-create-rest-api)
+
+
+#### Fórum
+
+* [NodeBB](https://nodebb.com/) - Forums, re-designed from the ground up to take advantage of the latest web technologies. Modern forums for the modern web.
+
+  * [In the Loop: NodeBB, Using Node.js to Become the Discussion Platform of the Future | StrongLoop](http://strongloop.com/strongblog/in-the-loop-nodebb-using-node-js-to-become-the-discussion-platform-of-the-future/)
+
+
+#### Gerenciador de Conteúdo
+
+* [[GitHub] dai-shi / social-cms-backend](https://github.com/dai-shi/social-cms-backend) - Express middleware to provide schema-less REST APIs for creating a social networking website primarily using angular.js. It comes with built-in authentication, authorization and notification features.
+
+* [KeystoneJS](http://keystonejs.com/) - Node.js content management system and web application platform built on express and mongo. 
+  
+  * [[GitHub] JedWatson / keystone](https://github.com/JedWatson/keystone) - node.js cms and web app framework
+
+
+#### Jogos
+
+* [[GitHub] NetEase / pomelo](https://github.com/NetEase/pomelo) - A fast, scalable, distributed game server framework for Node.js
 
 * [[GitHub] pablodenadai / GameOn](https://github.com/pablodenadai/GameOn) - responsive front-end webapp built on NodeJS and Angular
 
   * [GameOn](http://gameon.jit.su/) - connects you with the players in your city and allows you to find, organize and share games effortlessly.
 
---
 
-* [[GitHub] niallo / node-httpcheck](https://github.com/niallo/node-httpcheck) - Simple HTTP status checker with timeout
+### Site Estático
 
---
+* [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
 
-* [[GitHub] NetEase / pomelo](https://github.com/NetEase/pomelo) - A fast, scalable, distributed game server framework for Node.js
-  
-* [[GitHub] webpro / release-it](https://github.com/webpro/release-it) - Interactive release tool for Git repositories. Supports to build and release to a distribution/component repository. Publish to npm.
+* [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
 
-* [[GitHub] radubrehar / versiony](https://github.com/radubrehar/versiony) - Node.js module to increment version number for your code/module
+* [[GitHub] ktsashes / FruitJS](https://github.com/ktsashes/FruitJS) - A Node.js script for turning your markdown documentation into a fully functional site
 
-* [[GitHub] mdevils / node-jscs](https://github.com/mdevils/node-jscs) - JavaScript Code Style checker
-
-* [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
+  * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
 
 
-### Abstract Syntax Tree
+### Hardware
+
+#### Node Copter
+
+* [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
+
+#### Lego Mindstorms
+
+* [Hacking Lego Mindstorms EV3 with JavaScript](http://andrew.ghost.io/hacking-lego-mindstorms-ev3-with-javascript/)
+
+#### Tessel
+
+* [Tessel](http://technical.io/) - JavaScript right on the hardware 
+
+* [Tessel - Dragon Innovation](http://www.dragoninnovation.com/projects/22-tessel) - Technical Machine - hardware module that speak javascript - totally amazing
+
+* [[YouTube] Tessel Preview: Pushing code, servos, and UDP](https://www.youtube.com/watch?v=XCwKzipBIaA)
+
+* [[SlideShare] Tessel: The End of Web Development (as we know it)](http://www.slideshare.net/TechnicalMachine/tessel-the-end-of-web-development-as-we-know-it)
+
+#### Espruino
+
+* [Espruino](http://www.espruino.com/) - A JavaScript interpreter for Microcontrollers
+
+* [Espruino quer usar Javascript para controlar sua casa | Info](http://info.abril.com.br/noticias/blogs/zonalivre/hardware/espruino-quer-usar-javascript-para-controlar-sua-casa/)
+
+#### Arduino
+
+* [NodeBots](http://nodebots.io/) - The Rise of JS Robotics
+
+* [[GitHub] ecto / duino](https://github.com/ecto/duino) - Arduino framework for node.js
+
+* [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
+
+#### RaspberryPi
+
+* [Build your own Google TV Using RaspberryPi, NodeJS and Socket.io | Donald's Blog](http://blog.donaldderek.com/2013/06/build-your-own-google-tv-using-raspberrypi-nodejs-and-socket-io/)
+
+* [Home Automation with AngularJS and node.js on a Raspberry Pi | codecentric Blogcodecentric Blog](https://blog.codecentric.de/en/2013/03/home-automation-with-angularjs-and-node-js-on-a-raspberry-pi/)
+
+* [heimcontrol.js](http://ni-c.github.io/heimcontrol.js/) - Awesome home automation with Raspberry PI and Arduino using Node.js, MongoDB, HTML5 and Websockets
+
+
+## Abstract Syntax Tree
 
 * [Abstract Syntax Tree | wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
@@ -494,41 +575,6 @@
 * [[GitHub] benjamn / ast-types](https://github.com/benjamn/ast-types) - Esprima-compatible implementation of the Mozilla JS Parser API
 
 * [[GitHub] dresende / node-ast-transformer](https://github.com/dresende/node-ast-transformer) - Node UglifyJS AST Transformer
-
-
-### Boilerplate
-
-* [Node.js Boilerplate: Express, Mongo, Cross-Origin, and More | bryankrosenbaum.com](http://bryankrosenbaum.com/2013/10/17/node-js-boilerplate/)
-
-  * [[GitHub] bryanro / nodejs-boilerplate](https://github.com/bryanro/nodejs-boilerplate) - Template for nodejs RESTful web services and optional front-end
-
-* [[GitHub] eunjae-lee / node-express-grunt-boilerplate](https://github.com/eunjae-lee/node-express-grunt-boilerplate) - A boilerplate to start a new express project based on CoffeeScript, Grunt build system, forever runner, Jade Template Engine and bootstrap
-
-
-### Flow Control
-
-* [Async - utilities for node and the browser](https://github.com/caolan/async)
-
-  * [Node.js async in practice: When to use what? | Sebastian Seilund](http://www.sebastianseilund.com/nodejs-async-in-practice)
-
-  * [[GitHub] scottcorgan / series](https://github.com/scottcorgan/series) - Compose a series of chainable async methods
-
-* [Cyclop - Stupid simple control flow library](https://github.com/vesln/cyclop)
-
-* [[GitHub] luciotato / waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell
-
-* [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
-
-* [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
-
-* [[GitHub] Sahadar / pubsub.js](https://github.com/Sahadar/pubsub.js) - JavaScript pubsub implementation with wildcards, inheritance and multisubscribtions
-
---
-
-* [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
-
-* [Evitando callback hell no Node.js | Underground WebDev](http://udgwebdev.com/evitando-callback-hell-no-node-js/)
-
 
 
 ## Dicas
@@ -978,7 +1024,7 @@
 * [Onde hospedar aplicações Node.js | Underground WebDev](http://udgwebdev.com/onde-hospedar-aplicacoes-node-js/)
 
 
-### Pessoal
+#### Pessoal
 
 * [Cozy](http://cozy.io/) - a personal Cloud you can host, hack and delete Your web apps and your data on your hardware
 
@@ -1040,24 +1086,28 @@
 
 * [[GitHub] arturadib / node-qt](https://github.com/arturadib/node-qt) - Qt bindings for Node.js
 
+* [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
+
+
+#### Node Webkit
+
 * [[GitHub] rogerwang / node-webkit](https://github.com/rogerwang/node-webkit) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
 
-  * [[Speaker Deck] node-webkit: app runtime based on Chromium and node.js](https://speakerdeck.com/zcbenz/node-webkit-app-runtime-based-on-chromium-and-node-dot-js)
+* [[Speaker Deck] node-webkit: app runtime based on Chromium and node.js](https://speakerdeck.com/zcbenz/node-webkit-app-runtime-based-on-chromium-and-node-dot-js)
 
-  * [[GitHub] zcbenz / nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
+* [[GitHub] zcbenz / nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
 
-  * [[GitHub] wookiecooking / nwfaketop](https://github.com/wookiecooking/nwfaketop) - A GruntJS Compiler for Node-webkit Applications (OSX Based)
+* [[GitHub] wookiecooking / nwfaketop](https://github.com/wookiecooking/nwfaketop) - A GruntJS Compiler for Node-webkit Applications (OSX Based)
 
-  * [Creating Desktop Applications With node-webkit | StrongLoop](http://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
+* [Creating Desktop Applications With node-webkit | StrongLoop](http://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 
-  * [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
+* [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
 
-  * [[GitHub] Anonyfox / node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of
+* [[GitHub] Anonyfox / node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of
 
-  * [[GitHub] FWeinb / screenshot-service](https://github.com/FWeinb/screenshot-service) - A simple screenshot web service powered by Express and node-webkit.
+* [[GitHub] FWeinb / screenshot-service](https://github.com/FWeinb/screenshot-service) - A simple screenshot web service powered by Express and node-webkit.
 
-
-* [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
+* [[GitHub] popcorn-team / popcorn-app](https://github.com/popcorn-team/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 
 
 ### Modulos e Frameworks
@@ -1070,49 +1120,6 @@
 
 * [Bone.io](http://bone.io/) is a lightweight framework for building high performance Realtime Single Page HTML5 Apps
 
-
-* [Express.js](http://expressjs.com/)
-
-  * [Kraken.js](http://krakenjs.com/) - The kraken suite is a secure and scalable layer that extends express by providing structure and convention
-
-  * [DozerJS](http://dozerjs.com/) - is a system for rapidly developing services to support front-end applications
-
-    * [Simple Todo List App with DozerJS | fluidbyte](http://www.fluidbyte.net/simple-todo-list-app-with-dozerjs/)
-
-  * [ExpressWorks | webapplog](http://webapplog.com/expressworks/) - is an automated Express.js/Node.js workshop
-
-  * [Express.js Fundamentals | Flippin' Awesome](http://flippinawesome.org/2013/11/11/express-js-fundamentals/)
-
-  * [Node.js com Express.js nos negócios | iMasters](http://imasters.com.br/front-end/javascript/node-js-com-express-js-nos-negocios/)
-
-  * [Build a Complete MVC Website With ExpressJS | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/)
-  
-  * [Super simple file upload with node.js | Tanya Nam](http://tanyanam.com/everything/super-simple-file-upload-with-node-js)
-
-  * [Building a simple blog with NodeJS and Express | KOPIS.DE](http://blog.kopis.de/2012/01/30/building-a-simple-blog-with-nodejs-and-express/) | [[GitHub] MoriTanosuke / blode](https://github.com/MoriTanosuke/blode) - Simple blog framework with NodeJS (post write in markdown)
-
-  * [ExpressJS and MySQL Sample Application and Tutorial | gist.pages](http://gistpages.com/2013/11/1/expressjs_and_mysql_sample_application_and_tutorial)
-
-  * [Using the Directory-serving middleware in Express | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/11/Using-the-Directoryserving-middleware-in-Express)
-
-  * [Using Express.js for APIs | StrongLoop](http://blog.strongloop.com/using-express-js-for-apis)
-  
-  * [Node.js para leigos - Framework Express parte 1 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-1/) 
-
-  * [Node.js para leigos - Framework Express parte 2 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-2/)  
-  
-  * [Todo App with Express.js/Node.js and MongoDB | webapplog](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
-
-  * [Passport.js](http://passportjs.org/) - Simple, unobtrusive authentication for Node.js.
-
-    * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
-
---
-
-* [[GitHub] felixge / node-formidable](https://github.com/felixge/node-formidable) - A node.js module for parsing form data, especially file uploads
-
-  * [[GitHub] devcollectief / express-upload](https://github.com/devcollectief/express-upload) - Streaming multiple large files to AWS S3 with Multipart API, Formidable & Jquery File Upload
-
 --
 
 * [Geddy](http://geddyjs.org/) - A simple, structured web framework for Node
@@ -1120,24 +1127,6 @@
   * [In the Loop: Geddy – a Simple Node.js Web Framework | StrongLoop](http://blog.strongloop.com/in-the-loop-geddy/)
 
 * [total.js](http://www.totaljs.com/) - a Web framework for Node.js
-
-
---
-
-* [Socket.IO](http://socket.io/) - aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms. It's care-free realtime 100% in JavaScript.
-
-  * [[GitHub] LearnBoost / socket.io](https://github.com/learnboost/socket.io) - Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support
-
-  * [Getting Started With Socket.io | TysonJS](http://tysoncadenhead.com/blog/getting-started-with-socket-io)
-
-  * [[GitHub] LearnBoost / engine.io](https://github.com/learnboost/engine.io) - is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
-
-    * [The Realtime Engine | Devthought](http://www.devthought.com/2012/07/07/the-realtime-engine/)
-    * [Node.js para leigos - Explorando real-time | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-explorando-real-time/)
-    * [Real-time com Socket.IO no Node.js | Underground WebDev](http://udgwebdev.com/real-time-com-socket-io-no-nodejs/)
-    * [Express, Socket.IO e Sessions | Underground WebDev](http://udgwebdev.com/nodejs-express-socketio-e-sessions/)
-
-  * [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
 
 --
 
@@ -1154,8 +1143,70 @@
 
   * [sailsCasts](http://irlnathan.github.io/sailscasts/) - Learning about sails.js one screencast at a time
 
-
 * [Nombo](http://nombo.io/) - Node.js Realtime App Framework 
+
+
+#### Socket.io
+
+* [Socket.IO](http://socket.io/) - aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms. It's care-free realtime 100% in JavaScript.
+
+* [[GitHub] LearnBoost / socket.io](https://github.com/learnboost/socket.io) - Realtime application framework for Node.JS, with HTML5 WebSockets and cross-browser fallbacks support
+
+* [Getting Started With Socket.io | TysonJS](http://tysoncadenhead.com/blog/getting-started-with-socket-io)
+
+* [[GitHub] LearnBoost / engine.io](https://github.com/learnboost/engine.io) - is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
+
+  * [The Realtime Engine | Devthought](http://www.devthought.com/2012/07/07/the-realtime-engine/)
+  * [Node.js para leigos - Explorando real-time | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-explorando-real-time/)
+  * [Real-time com Socket.IO no Node.js | Underground WebDev](http://udgwebdev.com/real-time-com-socket-io-no-nodejs/)
+  * [Express, Socket.IO e Sessions | Underground WebDev](http://udgwebdev.com/nodejs-express-socketio-e-sessions/)
+
+* [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
+
+
+#### Express.js
+
+* [Express.js](http://expressjs.com/)
+
+* [Kraken.js](http://krakenjs.com/) - The kraken suite is a secure and scalable layer that extends express by providing structure and convention
+
+* [DozerJS](http://dozerjs.com/) - is a system for rapidly developing services to support front-end applications
+
+  * [Simple Todo List App with DozerJS | fluidbyte](http://www.fluidbyte.net/simple-todo-list-app-with-dozerjs/)
+
+* [ExpressWorks | webapplog](http://webapplog.com/expressworks/) - is an automated Express.js/Node.js workshop
+
+* [Express.js Fundamentals | Flippin' Awesome](http://flippinawesome.org/2013/11/11/express-js-fundamentals/)
+
+* [Node.js com Express.js nos negócios | iMasters](http://imasters.com.br/front-end/javascript/node-js-com-express-js-nos-negocios/)
+
+* [Build a Complete MVC Website With ExpressJS | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/build-a-complete-mvc-web-site-with-expressjs/)
+
+* [Super simple file upload with node.js | Tanya Nam](http://tanyanam.com/everything/super-simple-file-upload-with-node-js)
+
+* [Building a simple blog with NodeJS and Express | KOPIS.DE](http://blog.kopis.de/2012/01/30/building-a-simple-blog-with-nodejs-and-express/) | [[GitHub] MoriTanosuke / blode](https://github.com/MoriTanosuke/blode) - Simple blog framework with NodeJS (post write in markdown)
+
+* [ExpressJS and MySQL Sample Application and Tutorial | gist.pages](http://gistpages.com/2013/11/1/expressjs_and_mysql_sample_application_and_tutorial)
+
+* [Using the Directory-serving middleware in Express | Raymond Camden](http://www.raymondcamden.com/index.cfm/2013/8/11/Using-the-Directoryserving-middleware-in-Express)
+
+* [Using Express.js for APIs | StrongLoop](http://blog.strongloop.com/using-express-js-for-apis)
+
+* [Node.js para leigos - Framework Express parte 1 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-1/) 
+
+* [Node.js para leigos - Framework Express parte 2 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-2/)  
+
+* [Todo App with Express.js/Node.js and MongoDB | webapplog](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
+
+* [Passport.js](http://passportjs.org/) - Simple, unobtrusive authentication for Node.js.
+
+  * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
+
+--
+
+* [[GitHub] felixge / node-formidable](https://github.com/felixge/node-formidable) - A node.js module for parsing form data, especially file uploads
+
+  * [[GitHub] devcollectief / express-upload](https://github.com/devcollectief/express-upload) - Streaming multiple large files to AWS S3 with Multipart API, Formidable & Jquery File Upload
 
 
 #### Meteor
@@ -1173,25 +1224,25 @@
 
 ### Ferramentas
 
-* Visual Studio
+#### Visual Studio
 
-  * [Node.js for Visual Studio | CodePlex](https://nodejstools.codeplex.com/)
+* [Node.js for Visual Studio | CodePlex](https://nodejstools.codeplex.com/)
 
-  * [Introducing node.js Tools for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx)
+* [Introducing node.js Tools for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx)
 
-  * [Node.js support in Visual Studio? You bet your IDE | StrongLoop](http://strongloop.com/strongblog/node-js-support-in-visual-studio-you-bet-your-ide/)
+* [Node.js support in Visual Studio? You bet your IDE | StrongLoop](http://strongloop.com/strongblog/node-js-support-in-visual-studio-you-bet-your-ide/)
 
-  * [Dive into Node.js development with this Visual Studio plugin | TechRepublic](http://www.techrepublic.com/article/dive-into-node-js-development-with-this-visual-studio-plugin/)
+* [Dive into Node.js development with this Visual Studio plugin | TechRepublic](http://www.techrepublic.com/article/dive-into-node-js-development-with-this-visual-studio-plugin/)
 
-* Eclipse IDE
+#### Eclipse IDE
 
-  * [Nodelipse](http://www.nodeclipse.org/) | [Sourceforge](http://sourceforge.net/projects/nodeclipse/)
+* [Nodelipse](http://www.nodeclipse.org/) | [Sourceforge](http://sourceforge.net/projects/nodeclipse/)
 
-* JetBrains
+#### JetBrains
 
-  * [IntelliJ IDEA :: Node.js](http://www.jetbrains.com/idea/features/nodejs.html)
+* [IntelliJ IDEA :: Node.js](http://www.jetbrains.com/idea/features/nodejs.html)
 
-  * [WebStorm :: Node.js](http://www.jetbrains.com/webstorm/features/index.html#node.js)
+* [WebStorm :: Node.js](http://www.jetbrains.com/webstorm/features/index.html#node.js)
 
 
 ### Testes
