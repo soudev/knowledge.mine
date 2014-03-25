@@ -497,11 +497,19 @@
 
 * [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
 
-* [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
+  * [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
 
 * [[GitHub] ktsashes / FruitJS](https://github.com/ktsashes/FruitJS) - A Node.js script for turning your markdown documentation into a fully functional site
 
   * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
+
+* [Hexo - Node.js blog framework](http://zespia.tw/hexo/) - A fast, simple & powerful blog framework, powered by Node.js
+
+* [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
+
+  * [DocPad - Streamlined Web Development](http://docpad.org/) - build on top of node.js - Empower your website frontends with layouts, meta-data, pre-processors (markdown, jade, coffeescript, etc.), partials, skeletons, file watching, querying, and an amazing plugin system. Use it either standalone, as a build script, or even as a module in a bigger system. Either way, DocPad will streamline your web development process allowing you to craft full-featured websites quicker than ever before.
+
+  * [Primeiros passos com o Docpad | Luiz Felipe Tartarotti Fialho](http://www.felipefialho.com/blog/2013/primeiros-passos-com-o-docpad/)
 
 
 ### Hardware
