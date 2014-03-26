@@ -181,6 +181,8 @@
 
 * [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Sublime Text 2 / 3 Snippets and Completions for Angular.js
 
+* [[GitHub] erkobridee / sublime-angularjs-ee-snippets](https://github.com/erkobridee/sublime-angularjs-ee-snippets) - Sublime Text 2 / 3 Snippets and Completions for Angular.js and Require.js (focused to the angularjs-ee-boilerplate code)
+
 * [[GitHub] caiogondim / jasmine-sublime-snippets](https://github.com/caiogondim/jasmine-sublime-snippets) - Snippets for Jasmine, the BDD framework for testing JavaScript, in Sublime Text
 
 * [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/)
