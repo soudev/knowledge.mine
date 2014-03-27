@@ -57,8 +57,8 @@
     * [iOS](#ios)
   * [Desktop](#desktop)
     * [Node Webkit](#node-webkit)
-      * [node-webkit : exemplos](#node-webkit-exemplos)
-      * [node-webkit : Aplicações e Empresas que utilizam](#node-webkit-aplicações-e-empresas-que-utilizam)
+      * [node-webkit: exemplos](#node-webkit-exemplos)
+      * [node-webkit: Aplicações e Empresas que utilizam](#node-webkit-aplicações-e-empresas-que-utilizam)
   * [Modulos e Frameworks](#modulos-e-frameworks)
     * [Socket.io](#socketio)
     * [Express.js](#expressjs)
@@ -1118,14 +1118,14 @@
 * [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
 
 
-##### node-webkit : exemplos
+##### node-webkit: exemplos
 
 * [[GitHub] Anonyfox / node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of
 
 * [[GitHub] zcbenz / nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
 
 
-##### node-webkit : Aplicações e Empresas que utilizam
+##### node-webkit: Aplicações e Empresas que utilizam
 
 * [List of apps and companies using node webkit | rogerwang / node-webkit - GitHub Wiki](https://github.com/rogerwang/node-webkit/wiki/List-of-apps-and-companies-using-node-webkit)
 
