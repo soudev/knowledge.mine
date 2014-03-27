@@ -261,6 +261,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Aprenda AngularJS com estes 5 Exemplos Práticos | Javascript Brasil](http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/)
 
+* [Getting started with AngularJS | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
+
 --
 
 * [AngularJS for .NET Developers | henriquat.re](http://henriquat.re/) - a continuously deployed ebook
