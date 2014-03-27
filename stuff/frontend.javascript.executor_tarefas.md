@@ -182,14 +182,6 @@
 
 * [[GitHub] tschaub / grunt-newer](https://github.com/tschaub/grunt-newer) - Configure Grunt tasks to run with newer files only
 
-* [grunt-build-gh-pages](https://github.com/pajtai/grunt-build-gh-pages) - Grunt task to take build directory from current task and move it to another branch | examplo: [exploratory-javascript-tests](https://github.com/pajtai/exploratory-javascript-tests)
-
---
-
-* [[GitHub] dylang / grunt-prompt](https://github.com/dylang/grunt-prompt) - Add interactive UI to your Gruntfile on the command line
-
-* [[GitHub] dylang / grunt-notify](https://github.com/dylang/grunt-notify) - Automatic Notifications when Grunt tasks fail
-
 --
 
 * [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
@@ -197,10 +189,6 @@
 * [[GitHub] sindresorhus / time-grunt](https://github.com/sindresorhus/time-grunt) - Displays the elapsed execution time of grunt tasks - Node.js module
 
 * [[GitHub] terrykingcha / grunt-depconcat](https://github.com/terrykingcha/grunt-depconcat) - Concat depended files
-
-* [[GitHub] zonak / grunt-ftp-deploy](https://github.com/zonak/grunt-ftp-deploy) - Grunt task for code deployment over ftp
-
-* [[GitHub] btford / grunt-merge-conflict](https://github.com/btford/grunt-merge-conflict) - Grunt plugin for preventing you from accidentally comitting a merge conflict into your project
 
 --
 
@@ -214,9 +202,27 @@
 
 --
 
+* [[GitHub] dylang / grunt-notify](https://github.com/dylang/grunt-notify) - Automatic Notifications when Grunt tasks fail
+
+* [[GitHub] dylang / grunt-prompt](https://github.com/dylang/grunt-prompt) - Add interactive UI to your Gruntfile on the command line
+
+--
+
+* [[GitHub] Grunt-generate / grunt-generate](https://github.com/grunt-generate/grunt-generate) - Grunt task that generates files from user-defined templates
+
+--
+
 * [[GitHub] rubenv / grunt-git](https://github.com/rubenv/grunt-git) - Git commands for grunt
 
+* [[GitHub] btford / grunt-merge-conflict](https://github.com/btford/grunt-merge-conflict) - Grunt plugin for preventing you from accidentally comitting a merge conflict into your project
+
 * [[GitHub] thanpolas / grunt-github-pages](https://github.com/thanpolas/grunt-github-pages) - Push to gh-pages no problem
+
+* [grunt-build-gh-pages](https://github.com/pajtai/grunt-build-gh-pages) - Grunt task to take build directory from current task and move it to another branch | examplo: [exploratory-javascript-tests](https://github.com/pajtai/exploratory-javascript-tests)
+
+--
+
+* [[GitHub] zonak / grunt-ftp-deploy](https://github.com/zonak/grunt-ftp-deploy) - Grunt task for code deployment over ftp
 
 --
 
