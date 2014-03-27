@@ -57,6 +57,8 @@
     * [iOS](#ios)
   * [Desktop](#desktop)
     * [Node Webkit](#node-webkit)
+      * [node-webkit : exemplos](#node-webkit-exemplos)
+      * [node-webkit : Aplicações e Empresas que utilizam](#node-webkit-aplicações-e-empresas-que-utilizam)
   * [Modulos e Frameworks](#modulos-e-frameworks)
     * [Socket.io](#socketio)
     * [Express.js](#expressjs)
@@ -503,6 +505,8 @@
 
   * [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
 
+  * [Wintersmith: Aprendendo outro gerador de conteúdo estático | Tableless](http://tableless.com.br/wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/)
+
 * [[GitHub] ktsashes / FruitJS](https://github.com/ktsashes/FruitJS) - A Node.js script for turning your markdown documentation into a fully functional site
 
   * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
@@ -623,7 +627,7 @@
 
 * [Write your shell scripts in JavaScript, via Node.js | 2 ality](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
 
-* [[GitHbb] arturadib / shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands for Node.js
+* [[GitHub] arturadib / shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands for Node.js
 
 * [[GitHub] typicode / shoutjs](https://github.com/typicode/shoutjs) - Make your ShellJS commands explicit and get a beautiful output
 
@@ -634,6 +638,8 @@
 * [Windows and Node: Writing Portable Code | DailyJS](http://dailyjs.com/2012/05/24/windows-and-node-4/)
 
 * [How to Write Portable Node.js Code | Node on Azure](http://nodeblog.azurewebsites.net/how-to-write-portable-nodejs-code)
+
+* [Writing cross-platform Node.js | Shape Shed](http://shapeshed.com/writing-cross-platform-node/) - a major strength of Node.js is great cross-platform support. With a little effort you can make sure your code will run on Windows, Linux and OSX.
 
 --
 
@@ -1107,15 +1113,25 @@
 
 * [[Speaker Deck] node-webkit: app runtime based on Chromium and node.js](https://speakerdeck.com/zcbenz/node-webkit-app-runtime-based-on-chromium-and-node-dot-js)
 
-* [[GitHub] zcbenz / nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
-
-* [[GitHub] wookiecooking / nwfaketop](https://github.com/wookiecooking/nwfaketop) - A GruntJS Compiler for Node-webkit Applications (OSX Based)
-
 * [Creating Desktop Applications With node-webkit | StrongLoop](http://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 
 * [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
 
+
+##### node-webkit : exemplos
+
 * [[GitHub] Anonyfox / node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of
+
+* [[GitHub] zcbenz / nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
+
+
+##### node-webkit : Aplicações e Empresas que utilizam
+
+* [List of apps and companies using node webkit | rogerwang / node-webkit - GitHub Wiki](https://github.com/rogerwang/node-webkit/wiki/List-of-apps-and-companies-using-node-webkit)
+
+--
+
+* [[GitHub] wookiecooking / nwfaketop](https://github.com/wookiecooking/nwfaketop) - A GruntJS Compiler for Node-webkit Applications (OSX Based)
 
 * [[GitHub] FWeinb / screenshot-service](https://github.com/FWeinb/screenshot-service) - A simple screenshot web service powered by Express and node-webkit.
 
