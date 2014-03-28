@@ -112,4 +112,4 @@ A idéia dessa proposta de URL é ter um recurso flexível para disponibilizar f
 
 ## Desnormalização
 
-Além das definições de URLs recomendando acima, não é impeditivo definir outras URLs para atender a necessidades específicas do seu projeto.
+Além das definições de URLs recomendandas acima, não é impeditivo definir outras URLs para atender necessidades específicas do seu projeto.
