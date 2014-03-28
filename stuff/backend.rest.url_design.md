@@ -1,5 +1,20 @@
 # REST URL design
 
+
+<!-- toc -->
+* [Informações Gerais](#informações-gerais)
+* [GET, UPDATE, DELETE](#get-update-delete)
+* [GET, POST](#get-post)
+* [GET](#get)
+  * [Paginação](#paginação)
+  * [Consulta e paginação](#consulta-e-paginação)
+  * [Utilidades](#utilidades)
+
+<!-- toc stop -->
+
+
+## Informações Gerais
+
 > proposta de URLs para aplicações RESTful
 
 **:app-name** - nome da aplicação
