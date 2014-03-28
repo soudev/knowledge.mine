@@ -1,5 +1,17 @@
 # Virtual Machine / Máquina Virtual
 
+
+<!-- toc -->
+* [Docker](#docker)
+  * [Ambiente de desenvolvimento](#ambiente-de-desenvolvimento)
+  * [Soluções](#soluções)
+  * [Node.js](#nodejs)
+  * [Red Hat](#red-hat)
+  * [Amazon AMI](#amazon-ami)
+
+<!-- toc stop -->
+
+
 ## Docker
 
 * [docker.io](http://www.docker.io/)
@@ -126,3 +138,8 @@
 * [Red Hat Launches Latest Version of Red Hat Enterprise Linux 6](http://www.redhat.com/about/news/press-archive/2013/11/red-hat-launches-latest-version-of-red-hat-enterprise-linux-6) - RedHat just launched RHEL v6.5 featuring Docker, support for up to 4TB RAM and more! (see: Evolving Ease-of-Use, Storage, and More)
 
 * [Red Hat and Docker](http://www.redhat.com/about/news/press-archive/2013/9/red-hat-and-dotcloud-collaborate-on-docker-to-bring-next-generation-linux-container-enhancements-to-openshift) - Red Hat and dotCloud Collaborate on Docker to Bring Next Generation Linux Container Enhancements to OpenShift Platform-as-a-Service
+
+
+### Amazon AMI
+
+* [Amazon Linux AMI 2014.03 | Amazon Web Services Blog](http://aws.typepad.com/aws/2014/03/amazon-linux-ami-201403-is-now-available.html) - which includes Linux kernel 3.10.34, Docker, Ruby 2.0 & other features
