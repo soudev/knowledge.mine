@@ -82,3 +82,7 @@
 * [Ardour](http://ardour.org/) - é um editor de código aberto utilizado normalmente por profissionais em audio digital. Para editar, o aplcativo possui recursos como arrastar, cortar, dividir e estender partes de uma trilha de audio. Também é possivel capturar sons e realizar mixagens. Além disso, permite a integração com o Jack OS X e a possibilidade de expostar arquivos TOC e CUE. Está disponível para Mac OS X e Linux.
 
 
+## Games
+
+* [OpenTTD](http://www.openttd.org/) - is an open source simulation game based upon Transport Tycoon Deluxe
+
