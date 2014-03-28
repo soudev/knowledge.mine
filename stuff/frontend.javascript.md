@@ -2,17 +2,16 @@
 
 <!-- toc -->
 * [JavaScript](#javascript)
-  * [Máquina virtual para JavaScript](#máquina-virtual-para-javascript)
   * [Aprendizado](#aprendizado)
   * [OOP](#oop)
   * [Padrões](#padrões)
   * [Dicas](#dicas)
   * [Expressões Regulares](#expressões-regulares)
-    * [Expressões Regulares - Ferramentas online](#expressões-regulares-ferramentas-online)
+    * [Expressões Regulares: Ferramentas online](#expressões-regulares-ferramentas-online)
   * [Performance](#performance)
   * [Sistema de Dependências e Módulos](#sistema-de-dependências-e-módulos)
     * [Browserify](#browserify)
-    * [Require.js - Performance e Organização](#requirejs-performance-e-organização)
+    * [Require.js](#requirejs)
       * [Backbone.js](#backbonejs)
       * [Angular.js](#angularjs)
   * [Qualidade de Código](#qualidade-de-código)
@@ -20,7 +19,7 @@
   * [Útil](#útil)
   * [Bibliotecas](#bibliotecas)
     * [Emulator](#emulator)
-    * [Compiler / VM](#compiler-vm)
+    * [Compiladores e Máquinas Virtuais](#compiladores-e-máquinas-virtuais)
     * [Text Search](#text-search)
     * [Hash](#hash)
     * [Crypto](#crypto)
@@ -45,11 +44,6 @@
 ## JavaScript
 
 * [Superhero.js](http://superherojs.com/) -  Creating, testing and maintaining a large JavaScript code base is not easy - especially since great resources on how to do this are hard to  find. This page is a collection of the best articles, videos and  presentations we've found on the topic.
-
-
-### Máquina virtual para JavaScript
-
-* [[GitHub] maximecb / Higgs](https://github.com/maximecb/Higgs) - Higgs JavaScript Virtual Machine. An interpreter and JIT compiler for JavaScript targetting x86-64 platforms. (D Language)
 
 
 ### Aprendizado
@@ -429,7 +423,7 @@
 * [[GitHub] jehna / VerbalExpressions](https://github.com/jehna/VerbalExpressions) - JavaScript Regular expressions made easy
 
 
-#### Expressões Regulares - Ferramentas online
+#### Expressões Regulares: Ferramentas online
 
 * [RegExr](http://regexr.com/) - Create & Test Regular Expressions
 
@@ -542,7 +536,9 @@
 
 
 
-#### Require.js - Performance e Organização
+#### Require.js
+
+> Performance e Organização
 
 * [RequireJS](http://requirejs.org)
 
@@ -797,7 +793,7 @@
 * [JsDOSBox - JavaScript PC DOS Emulator](http://sourceforge.net/p/jsdosbox/home/Home/)
 
 
-#### Compiler / VM
+#### Compiladores e Máquinas Virtuais
 
 * [altJS](http://altjs.org/) - Web coding beyond JavaScript. JavaScript is the only language browsers understand, but JS compilers and converters make it possible to code in a variety of languages and still deploy the result anywhere.
 
@@ -830,6 +826,8 @@
     * [Learning Lua/From JS](http://phrogz.net/lua/LearningLua_FromJS.html)
 
 * [[GitHub] copy / v86](https://github.com/copy/v86) - x86 virtualization in JavaScript, running in your browser and NodeJS
+
+* [[GitHub] maximecb / Higgs](https://github.com/maximecb/Higgs) - Higgs JavaScript Virtual Machine. An interpreter and JIT compiler for JavaScript targetting x86-64 platforms. (D Language)
 
 
 #### Text Search
