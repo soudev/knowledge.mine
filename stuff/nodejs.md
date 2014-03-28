@@ -413,6 +413,8 @@
 
 * [How to run Node.js on the JVM with Avatar.js and LoopBack | StrongLoop](http://strongloop.com/strongblog/how-to-run-node-js-on-the-jvm-with-avatar-js-and-loopback/)
 
+* [Running Node.js applications on the JVM with Nashorn and Java 8 | CLOSED-LOOP](http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html)
+
 
 ### BitCoins
 
