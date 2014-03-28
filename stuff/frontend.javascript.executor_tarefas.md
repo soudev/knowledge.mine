@@ -178,6 +178,8 @@
 
 * [[GitHub] shakyShane / grunt-browser-sync](https://github.com/shakyShane/grunt-browser-sync) - Grunt Task for keeping multiple browsers & devices in sync when building websites.
 
+  * [BrowserSync + Yeoman Webapp Generator | QuickCast](http://quick.as/q0rsnr8)
+
 --
 
 * [[GitHub] tschaub / grunt-newer](https://github.com/tschaub/grunt-newer) - Configure Grunt tasks to run with newer files only
