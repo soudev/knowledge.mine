@@ -1,5 +1,22 @@
 # Front-End
 
+
+<!-- toc -->
+* [Visão Geral](#visão-geral)
+* [Emmet](#emmet)
+* [HTML Codes / Unicode](#html-codes-unicode)
+* [Imagens](#imagens)
+  * [Icon](#icon)
+  * [FavIcon](#favicon)
+  * [SVG](#svg)
+* [Source Map](#source-map)
+* [HTML Email](#html-email)
+
+<!-- toc stop -->
+
+
+## Visão Geral
+
 * [Como perder peso (no browser)](http://browserdiet.com/pt/) - O guia definitivo de performance front-end
 
 * [[GitHub] veltman / principles](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
