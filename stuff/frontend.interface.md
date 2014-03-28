@@ -88,9 +88,11 @@
 
   * [Getting started with web components and polymer.js | 4waisenkinder](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/)
 
+  * [Building Web Apps With Yeoman And Polymer: Scaffold your webapps with modern tooling | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+
   * [[GitHub] robdodson / mark-down](https://github.com/robdodson/mark-down) - A Custom Element for rendering Markdown built with Polymer
 
-  * [Building Web Apps With Yeoman And Polymer: Scaffold your webapps with modern tooling | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+  * [[GitHub] felquis / x-2048](https://github.com/felquis/x-2048/) - Web Component wrapper for 2048 game
 
 
 * [Brick](http://mozilla.github.io/brick/) - UI Components for Modern Web Apps
