@@ -167,6 +167,8 @@
 
 * [Object Playground : The Definitive Guide to Object-Oriented JavaScript](http://www.objectplayground.com/)
 
+* [Understanding JavaScript Inheritance | Alex Sexton](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
+
 --
 
 * [Topiarist: A JavaScript OO library featuring mixins, interfaces & multiple inheritance | BladeRunnerJS](http://bladerunnerjs.org/blog/topiarist/)
