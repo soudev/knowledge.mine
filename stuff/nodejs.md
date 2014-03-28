@@ -1270,6 +1270,9 @@
 
 * [Dive into Node.js development with this Visual Studio plugin | TechRepublic](http://www.techrepublic.com/article/dive-into-node-js-development-with-this-visual-studio-plugin/)
 
+* [Stand-up: Developing a node.js application using Monaco (Part 1) | Visual Studio Online "Monaco"](http://blogs.msdn.com/b/monaco/archive/2014/03/27/stand-up-developing-a-node-js-application-using-monaco-part-1.aspx)
+
+
 #### Eclipse IDE
 
 * [Nodelipse](http://www.nodeclipse.org/) | [Sourceforge](http://sourceforge.net/projects/nodeclipse/)
