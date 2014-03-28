@@ -641,6 +641,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Building Huuuuuge Apps with AngularJS | Brian Ford](http://briantford.com/blog/huuuuuge-angular-apps.html)
 
+* [13 Steps to AngularJS Modularization | Safari Books Online's Official Blog](http://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/)
+
 * Jason Dobry
 
   * [Building large apps with Angular.js | Tech Pro](http://tech.pro/tutorial/1699/building-large-apps-with-angularjs)
