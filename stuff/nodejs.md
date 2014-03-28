@@ -605,6 +605,10 @@
 
 --
 
+* [Atualizando o NodeJS no Linux | Igor Costa](http://www.igorcosta.com/atualizando-o-nodejs-linux/)
+
+--
+
 * [Setting up a JavaScript / Node.js development environment](http://learnjs.io/blog/2014/01/22/js-development-environment/)
 
 * [An Introduction To Full-Stack JavaScript | Smashing Coding](http://coding.smashingmagazine.com/2013/11/21/introduction-to-full-stack-javascript)
@@ -956,6 +960,8 @@
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
 
   * [[Gist] using `npm run` to build and watch with less and browserify](https://gist.github.com/substack/7819530)
+
+* [Running Scripts with npm | The Tapir's Tale](http://anders.janmyr.com/2014/03/running-scripts-with-npm.html)
 
 --
 
