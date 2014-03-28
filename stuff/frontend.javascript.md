@@ -19,7 +19,8 @@
   * [Útil](#útil)
   * [Bibliotecas](#bibliotecas)
     * [Emulator](#emulator)
-    * [Compiladores e Máquinas Virtuais](#compiladores-e-máquinas-virtuais)
+    * [Compiladores](#compiladores)
+    * [Máquinas Virtuais](#máquinas-virtuais)
     * [Text Search](#text-search)
     * [Hash](#hash)
     * [Crypto](#crypto)
@@ -793,7 +794,7 @@
 * [JsDOSBox - JavaScript PC DOS Emulator](http://sourceforge.net/p/jsdosbox/home/Home/)
 
 
-#### Compiladores e Máquinas Virtuais
+#### Compiladores
 
 * [altJS](http://altjs.org/) - Web coding beyond JavaScript. JavaScript is the only language browsers understand, but JS compilers and converters make it possible to code in a variety of languages and still deploy the result anywhere.
 
@@ -817,7 +818,8 @@
 
     * [[CodePlex] TypeScript](https://typescript.codeplex.com/)
 
---
+
+#### Máquinas Virtuais
 
 * [[GitHub] kripken / lua.vm.js](https://github.com/kripken/lua.vm.js)
     
