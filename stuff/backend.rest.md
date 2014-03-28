@@ -99,6 +99,8 @@
 
 * [Cinco passos essenciais para uma API de sucesso | iMasters](http://imasters.com.br/apis/cinco-passos-essenciais-para-uma-api-de-sucesso/)
 
+* [[Speaker Deck] REST: Definições e Boas Práticas](https://speakerdeck.com/alextercete/rest-definicoes-e-boas-praticas) - by Alex Tercete. Apresentação realizada como parte da iniciativa VTEX Tech Talks. 
+
 --
 
 * [API design for an event-driven world](http://shapeshed.com/api-design-for-an-event-driven-world/) - REST and HATEOS are designed around request response cycles. New thinking is needed for bidirectional, event-driven, realtime APIs.
