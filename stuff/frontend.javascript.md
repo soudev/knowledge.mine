@@ -962,6 +962,10 @@
 
 ##### Google Chrome
 
+* [Discover DevTools | Code School](http://www.codeschool.com/courses/discover-devtools) - Sharpen your dev process with Chrome DevTools
+
+--
+
 * [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
 
 * [DevTools Extensions Gallery](https://developers.google.com/chrome-developer-tools/docs/extensions-gallery)
@@ -970,13 +974,7 @@
 
 * [Chrome Dev Tools: JavaScript and Performance | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/chrome-dev-tools-javascript-and-performance/)
 
-* [[GitHub] mauricecruz / chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome DevTools
-
 * [DevTools Extensions For Web App Developers | AddyOsmani.com](http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/)
-
-* [Grunt Task Runner Extension for Chrome Developer Tools](https://github.com/vladikoff/grunt-devtools) - tests
-
-* [Discover DevTools | Code School](http://www.codeschool.com/courses/discover-devtools) - Sharpen your dev process with Chrome DevTools
 
 * [Breakpoint Actions in JavaScript | RandomThink.net](http://www.randomthink.net/blog/2012/11/breakpoint-actions-in-javascript/)
 
@@ -984,7 +982,19 @@
 
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
 
+--
+
 * [DevTools Snippets](http://bgrins.github.io/devtools-snippets/) - A collection of helpful snippets to use inside of browser devtools
+
+* [JSHint for Chrome Dev Tools](http://mrpotes.github.io/jshint-extension/)
+
+--
+
+* [[GitHub] mauricecruz / chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome DevTools
+
+--
+
+* [Grunt Task Runner Extension for Chrome Developer Tools](https://github.com/vladikoff/grunt-devtools) - tests
 
 
 ### Gerenciador de Pacotes
