@@ -503,17 +503,23 @@
 
 ### Site Estático
 
+* [Boilerplate for static site generation | bdadam](http://bdadam.com/blog/static-site-generation-boilerplate.html) - boilerplate code for generating static websites with node.js, GruntJS and Assembe | [[GitHub] bdadam / static-site-boilerplate](https://github.com/bdadam/static-site-boilerplate)
+
+
 * [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
 
   * [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
 
   * [Wintersmith: Aprendendo outro gerador de conteúdo estático | Tableless](http://tableless.com.br/wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/)
 
+
 * [[GitHub] ktsashes / FruitJS](https://github.com/ktsashes/FruitJS) - A Node.js script for turning your markdown documentation into a fully functional site
 
   * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
 
+
 * [Hexo - Node.js blog framework](http://zespia.tw/hexo/) - A fast, simple & powerful blog framework, powered by Node.js
+
 
 * [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
 
