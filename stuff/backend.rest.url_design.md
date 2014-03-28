@@ -9,6 +9,7 @@
   * [Paginação](#paginação)
   * [Consulta e paginação](#consulta-e-paginação)
   * [Utilidades](#utilidades)
+* [Desnormalização](#desnormalização)
 
 <!-- toc stop -->
 
@@ -19,7 +20,7 @@
 
 **:app-name** - nome da aplicação
 
-**:version** - versionamento (é recomendado o uso, porém, não é obrigatório o uso)
+**:version** - versionamento (uso recomendado, porém não é obrigatório)
 
 **:resource** - nome do recurso exposto (*entidade*), sendo este nome no plural
 
@@ -107,3 +108,8 @@ A idéia dessa proposta de URL é ter um recurso flexível para disponibilizar f
 * **count** - retorna a quantidade/contagem de recursos disponíveis. Esta funcionalidade/informação irá ser útil para implementação de paginação
 
 * **template** - retorna o recurso associado a URL com os parâmetros vazios, serve para conhecer a estrutura do recurso
+
+
+## Desnormalização
+
+Além das definições de URLs recomendando acima, não é impeditivo definir outras URLs para atender a necessidades específicas do seu projeto.
