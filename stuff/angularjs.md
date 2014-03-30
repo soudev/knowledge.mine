@@ -9,10 +9,10 @@
     * [Two Way Data-Binding](#two-way-data-binding)
     * [Templates](#templates)
     * [MVC](#mvc)
-      * [- Model](#-model)
-      * [- ViewModel](#-viewmodel)
-      * [- Controller](#-controller)
-      * [- View](#-view)
+      * [Model](#model)
+      * [ViewModel](#viewmodel)
+      * [Controller](#controller)
+      * [View](#view)
     * [Injeção de Dependências](#injeção-de-dependências)
     * [Diretivas (Componentes)](#diretivas-componentes)
     * [Bonus: Suporte para Testes](#bonus-suporte-para-testes)
@@ -168,25 +168,25 @@ No AngularJS, um template é nada mais que um pedaço de código HTML.  Este có
 O AngularJS incorpora os princípios básicos do padrão MVC de como  implementar o client-side de aplicações web, entretanto não implementa o  modelo tradicional do MVC, e sim um padrão próximo ao MVVM  (Model-View-ViewModel).
 
 
-##### - Model
+##### Model
 
 O modelo são os dados da aplicação. O modelo nada mais são que  objetos JavaScript. Não há a necessidade de implementar nenhuma classe  específica do framework.
 
 
-##### - ViewModel
+##### ViewModel
 
 O ViewModel é um objeto que prove dados e métodos específicos para uma determinada View.
 
 No AngularJS o ViewModel é representado pelo objeto `$scope`. O `$scope`  é um objeto JavaScript com um conjunto pequeno de funcionalidades para  monitorar e refletir as alterações nos dados entre a View e o  Controller.
 
 
-##### - Controller
+##### Controller
 
 O Controller é responsável por determinar o estado inicial do `$scope` com os métodos e dados utilizados pela View.
 Vale  a pena notar que não é responsábilidade do Controller manter o estado  da aplicação, nem interagir(controlar as requisições/respostas) com os  serviços remotos.
 
 
-##### - View
+##### View
 
 A View é o HTML resultante do pós processamento do AngularJS do HTML que inclui as extensões de interação com o modelo.
 
@@ -592,6 +592,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Preventing duplicated requests in Angular.js | Codebrag](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
+
+* [AngularJS – Cross Domin Get data by $resource | Share Coding](http://sharecoding.wordpress.com/2013/09/02/angularjs-cross-domin-get-data-by-resource/)
 
 * [[Gist] AngularJS Lesson Learned #1: Getting Invalid Session State | Mário Junior](https://gist.github.com/mariojunior/6175736)
 
