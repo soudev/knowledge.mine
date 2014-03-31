@@ -721,6 +721,10 @@
 
 --
 
+* [[GitHub] kripken / sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
+
+--
+
 * [TaffyDB](http://www.taffydb.com/) - The JavaScript Database
 
 * [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
