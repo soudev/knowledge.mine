@@ -195,7 +195,7 @@
 
 * [easy pie chart](https://github.com/rendro/easy-pie-chart) - exemplo de uso [AdminFlare](http://wrapbootstrap.com/preview/WB0246423)
 
-* [Two.js](http://jonobr1.github.io/two.js/) - is a  two-dimensional drawing api geared towards modern web browsers. It is  renderer agnostic enabling the same api to draw in multiple contexts:  svg, canvas, and webgl.
+* [Two.js](http://jonobr1.github.io/two.js/) - is a  two-dimensional drawing api geared towards modern web browsers. It is  renderer agnostic enabling the same api to draw in multiple contexts: svg, canvas, and webgl.
 
 * [JavaScript InfoVis Toolkit](http://philogb.github.io/jit/) - Create Interactive Data Visualizations for the Web
 
@@ -249,7 +249,7 @@
 
 * [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
 
----
+--
 
 * [Getting Started with D3.js - Drawing a graph](http://thinkingonthinking.com/Getting-Started-With-D3/)
 
@@ -307,6 +307,8 @@
 
 
 ##### Bibliotecas e funcionalidades contruídas com D3.js
+
+* [reD3](http://bugzu.github.io/reD3/) - is a collection of reusable charts and components built with D3.js framework. It includes Line, Pie, Bar, Area, StackedArea, Bubble, Treemap and Heatmap charts which can be easily customized, extended and reused.
 
 * [NVD3 Re-usable charts for D3.js](http://nvd3.org/)
 
