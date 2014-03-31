@@ -96,6 +96,8 @@
 
 * [Ultimate HTML5 Cheatsheat [Infographic] | Tech King](http://www.testking.com/techking/infographics/ultimate-html5-cheatsheat/)
 
+* [HTML5 Security Cheatsheet](https://html5sec.org/)
+
 
 ### Compatibilidade
 
