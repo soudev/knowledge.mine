@@ -251,6 +251,8 @@
 
 * [WebRTC data channels: WebRTC data channels for high performance data exchange | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
 
+* [WebRTC: Not Quite Magic | Alex Freska](http://alexfreska.com/webrtc-not-quite-magic)
+
 --
 
 * [Licode](http://lynckia.com/licode/) - Open Source Communication Provider
