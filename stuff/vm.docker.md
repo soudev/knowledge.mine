@@ -109,6 +109,8 @@
 
   * [Part 1, Development](http://continuousdelivery.uglyduckling.nl/continuous-delivery/rapid-prototyping-a-python-web-application-with-vagrant-and-docker-part-1-development/)
 
+* [Easily Deploy Redis Backed Web Apps With Docker | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/easily-deploy-redis-backed-web-apps-with-docker--cms-20405)
+
 
 ### Soluções
 
