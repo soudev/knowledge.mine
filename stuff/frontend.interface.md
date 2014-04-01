@@ -43,6 +43,8 @@
 
 ### Fonts
 
+* [Font Awesome, the iconic font designed for Bootstrap](http://fortawesome.github.io/Font-Awesome/)
+
 * [On Web Typography | Jason Santa Maria](http://www.besquare.me/session/on-web-typography/) - Awesome presentation on web typography 
 
 * [[GitHub] nodebox / opentype.js](https://github.com/nodebox/opentype.js) - A JavaScript parser for TrueType and OpenType fonts. 
