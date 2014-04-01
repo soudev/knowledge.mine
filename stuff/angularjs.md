@@ -745,6 +745,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub]  andreareginato / ng-oauth](https://github.com/andreareginato/ng-oauth) - AngularJS directive working with the OAuth2 Implicit Flow
 
+* [[GitHub] witoldsz / angular-http-auth](https://github.com/witoldsz/angular-http-auth) - HTTP Auth Interceptor Module
+
 * [[GitHub] philipsorst / angular-rest-springsecurity](https://github.com/philipsorst/angular-rest-springsecurity) - An example AngularJS Application that uses a Spring Security protected Jersey REST backend based on Hibernate/JPA
 
 * [[GitHub] Yeti-Media / angular-token-authentication](https://github.com/Yeti-Media/angular-token-authentication) - Angular token authentication are services for handling token-based authentication as a client-side session with automatic (optional) handling of REST resources in angular apps. It is divided in two modules.
@@ -776,6 +778,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Authentication in Single Page Applications | VickeV.com](https://vickev.com/#!/article/authentication-in-single-page-applications-node-js-passportjs-angularjs) - Authentication in Single Page Applications (Node.js, PassportJS, AngularJS)
 
 * [Techniques for authentication in AngularJS applications | Opinionated AngularJS — Medium](https://medium.com/opinionated-angularjs/7bbf0346acec)
+
+* [Authentication with Ionic and Angular.js in a Cordova/Phonegap mobile web application | KD Moore Consulting](http://www.kdmooreconsulting.com/blogs/authentication-with-ionic-and-angular-js-in-a-cordovaphonegap-mobile-web-application/)
 
 
 ### Mobile
