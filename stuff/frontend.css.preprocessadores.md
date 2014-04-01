@@ -1,5 +1,18 @@
 # Front-End
 
+
+<!-- toc -->
+* [CSS](#css)
+  * [Preprocessadores](#preprocessadores)
+    * [Less](#less)
+    * [Stylus](#stylus)
+    * [Sass](#sass)
+    * [Comparações](#comparações)
+    * [Ferramentas](#ferramentas)
+
+<!-- toc stop -->
+
+
 ## CSS
 
 ### Preprocessadores
@@ -11,7 +24,7 @@
 
 #### Less
 
-> Utilizado no Twitter Bootstrap para implementar as definições, pode ser visto a interface web de definição das variáveis nesse link: [Customize](http://twitter.github.com/bootstrap/customize.html)
+> Utilizado no Twitter Bootstrap para implementar as definições, pode ser visto a interface web de definição das variáveis nesse link: [Customize](http://getbootstrap.com/customize/)
 
 * [Less](http://lesscss.org/) - generates css output | [documentação em português](http://lesscss.loopinfinito.com.br/)
 
@@ -78,7 +91,9 @@
 * [[GitHub] davidtheclark / scut](https://github.com/davidtheclark/scut/) - Sass utilities for the frontend laborer
 
 
-#### vs.
+#### Comparações
+
+* [[Git] Sass / Less Comparison](https://gist.github.com/chriseppstein/674726)
 
 * [Sass vs. LESS vs. Stylus: Preprocessor Shootout](http://net.tutsplus.com/tutorials/html-css-techniques/sass-vs-less-vs-stylus-a-preprocessor-shootout/)
 
