@@ -8,6 +8,7 @@
   * [Node.js](#nodejs)
   * [Red Hat](#red-hat)
   * [Amazon AMI](#amazon-ami)
+  * [Google Cloud](#google-cloud)
 
 <!-- toc stop -->
 
@@ -147,3 +148,9 @@
 ### Amazon AMI
 
 * [Amazon Linux AMI 2014.03 | Amazon Web Services Blog](http://aws.typepad.com/aws/2014/03/amazon-linux-ami-201403-is-now-available.html) - which includes Linux kernel 3.10.34, Docker, Ruby 2.0 & other features
+
+
+### Google Cloud
+
+* [[Docker Index] google/cloud-sdk](https://index.docker.io/u/google/cloud-sdk/) - Google Cloud SDK bundle with all components and dependencies
+
