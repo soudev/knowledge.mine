@@ -20,11 +20,19 @@
 
   * [[Speaker Deck] Como Perder Peso (no browser)](https://speakerdeck.com/zenorocha/como-perder-peso-no-browser/) - Apresentação do Zeno Rocha no Rio.js
 
+--
+
+* [Website Performance Optimization Checklist](http://lab.abhinayrathore.com/website-performance-optimization-checklist/) - Website Performance Optimization Checklist for building high performace websites.
+
+--
+
 * [9 ways to optimize your front end performance | Tech.Pro](http://tech.pro/tutorial/1254/9-ways-to-optimize-your-front-end-performance)
 
 * [9 More Ways to Optimize Your Front End Performance | Tech.Pro](http://tech.pro/tutorial/1261/9-more-ways-to-optimize-your-front-end-performance)
 
 * [Another 9 Ways to Optimize Your Front End Performance | Tech.Pro](http://tech.pro/tutorial/1400/another-9-ways-to-optimize-your-front-end-performance)
+
+--
 
 * [Otimização de imagens com media queries | iMasters](http://imasters.com.br/front-end/css/otimizacao-de-imagens-com-media-queries/)
 
