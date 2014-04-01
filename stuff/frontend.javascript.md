@@ -152,6 +152,8 @@
 
 * [Prototypes Are Not Classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html)
 
+* [Class Hierarchies? Don't Do That! | raganwald.com](http://raganwald.com/2014/03/31/class-hierarchies-dont-do-that.html)
+
 --
 
 * [Object-Oriented JavaScript - Presentation Slides](http://jordankasper.com/preso/oop-js)
