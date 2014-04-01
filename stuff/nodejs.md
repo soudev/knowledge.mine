@@ -476,6 +476,13 @@
   * [Node.js and Hapi - Creating a REST API | Modulus Blog](http://blog.modulus.io/nodejs-and-hapi-create-rest-api)
 
 
+#### OAuth
+
+* [[GitHub] thomseddon / node-oauth2-server](https://github.com/thomseddon/node-oauth2-server/) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
+
+  * [Building a Node OAuth2 server | Papers: The footnotes](http://blog.papersapp.com/oauth-server-in-node-js/)
+
+
 #### Fórum
 
 * [NodeBB](https://nodebb.com/) - Forums, re-designed from the ground up to take advantage of the latest web technologies. Modern forums for the modern web.
@@ -1051,6 +1058,10 @@
 #### Docker
 
 * [[Vimeo] Node.JS and Docker with a side of Continuous Deployment](http://vimeo.com/85864661) - Presented by Niall O'Higgins at JSLA (js.la) on Thursday January 30th 2014. Docker is an incredible new tool to manage the deployment and lifecycle of Node.JS network services. This talk will cover using them together for much Continuous Deployment win.
+
+--
+
+* [How to create a Docker + Node.js + MongoDB + Varnish environment | Luis Elizondo](http://luiselizondo.net/blogs/luis-elizondo/how-create-docker-nodejs-mongodb-varnish-environment)
 
 --
 
