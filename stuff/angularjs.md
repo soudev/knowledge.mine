@@ -19,11 +19,11 @@
 * [Aprendizado](#aprendizado)
   * [CoffeeScript](#coffeescript)
 * [Tutoriais](#tutoriais)
-  * [AngularJS from beginner to expert in 7 steps series | ng-newsletter](#angularjs-from-beginner-to-expert-in-7-steps-series-ng-newsletter)
-  * [Angular.js | Dailyjs.com](#angularjs-dailyjscom)
-  * [Make Your Own AngularJS | Tero Parviainen](#make-your-own-angularjs-tero-parviainen)
-  * [AngularJS Sticky Notes | One Hungry MindOne Hungry Mind](#angularjs-sticky-notes-one-hungry-mindone-hungry-mind)
-  * [AngularJS: Melhores Práticas | Ciro Nunes](#angularjs-melhores-práticas-ciro-nunes)
+  * [ng-newsletter: AngularJS from beginner to expert in 7 steps series](#ng-newsletter-angularjs-from-beginner-to-expert-in-7-steps-series)
+  * [Dailyjs.com: Angular.js](#dailyjscom-angularjs)
+  * [Tero Parviainen: Make Your Own AngularJS](#tero-parviainen-make-your-own-angularjs)
+  * [One Hungry MindOne Hungry Mind: AngularJS Sticky Notes](#one-hungry-mindone-hungry-mind-angularjs-sticky-notes)
+  * [Ciro Nunes: AngularJS Melhores Práticas](#ciro-nunes-angularjs-melhores-práticas)
 * [Casos de Uso](#casos-de-uso)
 * [Dicas](#dicas)
   * [Amazon AWS](#amazon-aws)
@@ -339,7 +339,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [25 days of AngularJS Calendar | 2013](http://www.ng-newsletter.com/advent2013) - The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
 
-### AngularJS from beginner to expert in 7 steps series | ng-newsletter
+### ng-newsletter: AngularJS from beginner to expert in 7 steps series 
 
 * [Part 1: How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
 
@@ -354,7 +354,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 7: Next steps](http://www.ng-newsletter.com/posts/beginner2expert-config.html)
 
 
-### Angular.js | Dailyjs.com
+### Dailyjs.com: Angular.js
 
 * [Part 1: Google, Twitter, and AngularJS](http://dailyjs.com/2013/04/11/angularjs-1/)
 
@@ -373,19 +373,19 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Part 8: Iterators and Data](http://dailyjs.com/2013/06/13/angularjs-8/)
 
 
-### Make Your Own AngularJS | Tero Parviainen
+### Tero Parviainen: Make Your Own AngularJS
 
 * [Part 1: Scopes And Digest](http://teropa.info/blog/2013/11/03/make-your-own-angular-part-1-scopes-and-digest.html)
 
 
-### AngularJS Sticky Notes | One Hungry MindOne Hungry Mind
+### One Hungry MindOne Hungry Mind: AngularJS Sticky Notes
 
 * [Pt 1 - Architecture](http://onehungrymind.com/angularjs-sticky-notes-pt-1-architecture/)
 
 * [Pt 2 - Isolated Scope](http://onehungrymind.com/angularjs-sticky-notes-pt-2-isolated-scope/)
 
 
-### AngularJS: Melhores Práticas | Ciro Nunes
+### Ciro Nunes: AngularJS Melhores Práticas
 
 * [Parte I: Iniciando Um Projeto](http://cironunes.github.com/angularjs-melhores-praticas-parte-I-bootstrap/)
 
@@ -715,6 +715,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Global variable with AngularJS | Coding Insight](http://www.codinginsight.com/global-variable-with-angularjs/)
 
 * [AngularJS: 6 Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
+
+* [5 Guidelines For Avoiding Scope Soup in Angular | Techno Fattie](http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html)
+
+--
 
 * [Angular JS : Sharing data between Controllers](http://ramandv.com/blog/angular-js-sharing-data/)
 
