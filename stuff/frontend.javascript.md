@@ -440,6 +440,12 @@
 
 * [Build RegEx](http://buildregex.com/)
 
+* [regex101](http://regex101.com/#javascript)
+
+* [RegExr](http://regexr.com/)
+
+  * [[GitHub] gskinner / regexr](https://github.com/gskinner/regexr) - is a HTML/JS based tool for creating, testing, and learning about Regular Expressions
+
 
 ### Performance
 
