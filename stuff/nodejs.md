@@ -25,6 +25,7 @@
   * [Photoshop CC](#photoshop-cc)
   * [Torrent](#torrent)
   * [Node.js no Servidor](#nodejs-no-servidor)
+    * [OAuth](#oauth)
     * [Fórum](#fórum)
     * [Gerenciador de Conteúdo](#gerenciador-de-conteúdo)
     * [Jogos](#jogos)
@@ -61,6 +62,7 @@
       * [node-webkit: Aplicações e Empresas que utilizam](#node-webkit-aplicações-e-empresas-que-utilizam)
   * [Modulos e Frameworks](#modulos-e-frameworks)
     * [Socket.io](#socketio)
+    * [Connect](#connect)
     * [Express.js](#expressjs)
     * [Meteor](#meteor)
   * [Ferramentas](#ferramentas)
@@ -1223,6 +1225,13 @@
   * [Express, Socket.IO e Sessions | Underground WebDev](http://udgwebdev.com/nodejs-express-socketio-e-sessions/)
 
 * [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
+
+
+#### Connect
+
+* [Connect](http://www.senchalabs.org/connect/) - High quality middleware for node.js
+
+* [A short guide to Connect Middleware](http://stephensugden.com/middleware_guide/)
 
 
 #### Express.js
