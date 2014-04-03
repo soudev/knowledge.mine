@@ -221,6 +221,10 @@
 
 --
 
+* [MongoDB Cheat Sheet - Quick Reference | MongoDB Spain](http://www.mongodbspain.com/2014/03/23/mongodb-cheat-sheet-quick-reference/)
+
+--
+
 * [[SlideShare] MongoDB Schema Design](http://www.slideshare.net/kbanker/mongodb-schema-design)
 
 * [[Speaker Deck] MongoDB DC 2012: Schema Design by Example](https://speakerdeck.com/mongodb/mongodb-dc-2012-schema-design-by-example)
