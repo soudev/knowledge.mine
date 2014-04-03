@@ -1,13 +1,27 @@
 # Python
 
+
+<!-- toc -->
+* [Sites](#sites)
+* [Aprendizado](#aprendizado)
+* [Dicas](#dicas)
+* [Frameworks](#frameworks)
+  * [Django](#django)
+  * [Flask](#flask)
+
+<!-- toc stop -->
+
+
+## Sites 
+
 * [Python](http://www.python.org/)
 
 * [Python Brasil](http://www.python.org.br/)
 
-* [Por que há tantos Pythons? | toptal](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
-
 
 ## Aprendizado
+
+* [Por que há tantos Pythons? | toptal](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
 
 * [[Speaker Deck] Aprendendo Python de forma produtiva gratuitamente](https://speakerdeck.com/erichideki/aprendendo-python-de-forma-produtiva-gratuitamente) - by Eric Hideki
 
@@ -18,6 +32,10 @@
 * [Online Python Tutor - Learn programming by visualizing code execution](http://www.pythontutor.com/)
 
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+
+--
+
+* [10 Resources to Learn Python Programming Language | CodeCondo](http://codecondo.com/10-ways-to-learn-python/)
 
 --
 
