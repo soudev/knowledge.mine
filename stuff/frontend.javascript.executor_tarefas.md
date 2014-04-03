@@ -186,6 +186,10 @@
 
 --
 
+* [[GitHub] yeoman / grunt-filerev](https://github.com/yeoman/grunt-filerev) - Static asset revisioning through file content hash
+
+--
+
 * [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
 
 * [[GitHub] sindresorhus / time-grunt](https://github.com/sindresorhus/time-grunt) - Displays the elapsed execution time of grunt tasks - Node.js module
@@ -231,6 +235,12 @@
 * [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy)
 
   * [Using grunt-connect-proxy | frontend technology talk](http://www.fettblog.eu/blog/2013/09/20/using-grunt-connect-proxy/)
+
+--
+
+* [[GitHub] ddprrt / connect-php](https://github.com/ddprrt/connect-php)
+
+  * [The magic of grunt-contrib-connect, and how to run PHP with it | front-end technology talk](http://fettblog.eu/blog/2013/11/17/the-magic-of-grunt-contrib-connect-and-how-to-run-php-with-it/)
 
 --
 
