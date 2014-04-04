@@ -602,6 +602,8 @@
 
   * [localForage: Offline Storage, Improved | Mozilla Hacks](https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/)
 
+  * [Armazenamento Offline com o LocalForage | iMasters](http://www.infoq.com/br/news/2014/04/localforage-offline-data-web)
+
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
