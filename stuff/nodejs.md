@@ -581,6 +581,8 @@
 
 * [[GitHub] googlecreativelab / coder](https://github.com/googlecreativelab/coder) - A simple way to make web stuff on Raspberry Pi
 
+  * [Coder Projects](http://googlecreativelab.github.io/coder-projects/)
+
   * [Running Google Coder On Your Existing Raspberry Pi Or Desktop PC | Gadgetoid](http://pi.gadgetoid.com/article/running-google-coder-on-your-existing-raspberry-pi-or-desktop-pc)
 
   * [Coder: seu mini-servidor web pessoal | iMasters](http://imasters.com.br/gerencia-de-ti/tendencias/coder-seu-mini-servidor-web-pessoal/)
