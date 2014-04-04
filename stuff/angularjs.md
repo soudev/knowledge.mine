@@ -1274,6 +1274,9 @@ Projeto de exemplo / estrutura inicial
 
 * [Advanced Testing and Debugging in AngularJS | Year of moo](http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html)
 
+* [Writing Tests and Stomping Bugs in AngularJS | Safari Books Online's Official Blog
+](http://blog.safaribooksonline.com/2014/04/01/writing-tests-stomping-bugs-angularjs/)
+
 --
 
 * [How To Test An AngularJS Directive | Newtriks LTD](http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
