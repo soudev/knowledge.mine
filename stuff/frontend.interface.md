@@ -3,6 +3,7 @@
 
 <!-- toc -->
 * [Interface](#interface)
+  * [Design](#design)
   * [Fonts](#fonts)
   * [Web Components](#web-components)
   * [D3.js for HTML](#d3js-for-html)
@@ -39,6 +40,11 @@
 * [Taking Ems Even Further | Webdesigntuts+](http://webdesign.tutsplus.com/articles/typography-articles/taking-ems-even-further/)
 
 * [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
+
+
+### Design
+
+* [Velositey - Website Layout Builder for Photoshop](http://dandkagency.com/velositey/)
 
 
 ### Fonts
