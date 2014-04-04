@@ -1170,7 +1170,7 @@
 
 * [[GitHub] FWeinb / screenshot-service](https://github.com/FWeinb/screenshot-service) - A simple screenshot web service powered by Express and node-webkit.
 
-* [[GitHub] popcorn-team / popcorn-app](https://github.com/popcorn-team/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
+* [[GitHub] popcorn-org / popcorn-app](https://github.com/popcorn-org/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 
 
 ### Modulos e Frameworks
