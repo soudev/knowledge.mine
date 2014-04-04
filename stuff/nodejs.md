@@ -402,6 +402,10 @@
 
 * [[GitHub] nodegit / nodegit](https://github.com/nodegit/nodegit) - Native asynchronous bindings to libgit2 for Node.js
 
+--
+
+* [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) -  is a command line tool (and Node.js library) for building beautiful programming books and exercises using GitHub/Git and Markdown. You can see an example: [Learn Javascript](http://gitbookio.github.io/javascript/)
+
 
 ### Integração com Java
 
