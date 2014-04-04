@@ -25,6 +25,10 @@
 
 --
 
+* [75 Essential Cheat Sheets for Designers and Programmers | DesignZum](http://designzum.com/2014/04/03/best-cheat-sheets-for-designers-and-programmers/)
+
+--
+
 * [Visualizando algoritmos | iMasters](http://imasters.com.br/linguagens/visualizando-algoritmos/)
 
 --
