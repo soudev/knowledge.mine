@@ -1099,6 +1099,7 @@
 
   * [[GitHub] mycozycloud / cozy-setup](https://github.com/mycozycloud/cozy-setup)
 
+  * [Turn the server into the new personal device with Node.js, Cozy and CouchDB | Cozy.io](http://blog.cozycloud.cc/technic/2014/04/02/cozy-and-couchdb/)
 
 
 #### Amazon AWS
