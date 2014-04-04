@@ -1144,6 +1144,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] wlepinski / gulp-angularjs-starter-project](https://github.com/wlepinski/gulp-angularjs-starter-project) - A started project using AngularJS and Compass.
+
+--
+
 * [Creating Apps with Angular and Node using Yeoman | Tyler Henkel](http://tylerhenkel.com/creating-apps-with-angular-and-node-using-yeoman/)
 
 * [[GitHub] yeoman / generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
