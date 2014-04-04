@@ -26,6 +26,7 @@
   * [Ciro Nunes: AngularJS Melhores Práticas](#ciro-nunes-angularjs-melhores-práticas)
 * [Casos de Uso](#casos-de-uso)
 * [Dicas](#dicas)
+  * [HTML5 offline](#html5-offline)
   * [Amazon AWS](#amazon-aws)
   * [Decorator](#decorator)
   * [Dynamic / Lazy Load](#dynamic-lazy-load)
@@ -44,6 +45,7 @@
   * [Filters](#filters)
   * [Componentes](#componentes)
 * [Módulos](#módulos)
+  * [Módulos de Armazenamento](#módulos-de-armazenamento)
   * [Módulos de Gráficos](#módulos-de-gráficos)
   * [Módulos de UI](#módulos-de-ui)
   * [ng animate](#ng-animate)
@@ -600,6 +602,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[Gist] AngularJS Lesson Learned #2: Enabling HTTP Credentials | Mário Junior](https://gist.github.com/mariojunior/6175849)
 
 
+### HTML5 offline
+
+* [AngularJS IndexedDB Demo | HTML5 Zone](http://java.dzone.com/articles/angularjs-indexeddb-demo)
+
+
 ### Amazon AWS
 
 * [AWS JS SDK - The Canonical Angular Guide | ng-newsletter](http://www.ng-newsletter.com/posts/aws-js-sdk.html)
@@ -996,14 +1003,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Simple AngularJS localStorage module (with two-way $scope bind into storage)](https://github.com/agrublev/Angular-localStorage)
-
-* [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
-
-* [[GitHub] jmdobry / angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for Angular's [$cacheFactory](http://docs.angularjs.org/api/ng.$cacheFactory)
-
---
-
 * [[GitHub] roypeled / angular-class-extender](https://github.com/roypeled/angular-class-extender) - A lightweight angular module that adds support for multiple class inheritance and method abstraction
 
 --
@@ -1067,6 +1066,27 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] urish / angular-moment](https://github.com/urish/angular-moment) - Angular.JS directives for [Moment.JS](http://momentjs.com/) (timeago alternative)
 
 * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses.
+
+
+### Módulos de Armazenamento
+
+* [[GitHub] jmdobry / angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for Angular's [$cacheFactory](http://docs.angularjs.org/api/ng.$cacheFactory)
+
+--
+
+* [[GitHub] agrublev / Angular-localStorage](https://github.com/agrublev/Angular-localStorage) - Simple AngularJS localStorage module (with two-way $scope bind into storage)
+
+* [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
+
+--
+
+* [[GitHub] ocombe / angular-localForage](https://github.com/ocombe/angular-localForage) - Angular service & directive for [[GitHub] mozilla / localForage](https://github.com/mozilla/localForage) (Offline storage, improved.)
+
+* [[GitHub] webcss / angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An angularjs serviceprovider to utilize indexedDB with angular
+
+--
+
+* [[GitHub] firebase / angularFire](https://github.com/firebase/angularFire) - AngularJS bindings for [Firebase](https://www.firebase.com/quickstart/angularjs.html).
 
 
 ### Módulos de Gráficos
