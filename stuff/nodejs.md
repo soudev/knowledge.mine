@@ -579,6 +579,12 @@
 
 * [heimcontrol.js](http://ni-c.github.io/heimcontrol.js/) - Awesome home automation with Raspberry PI and Arduino using Node.js, MongoDB, HTML5 and Websockets
 
+* [[GitHub] googlecreativelab / coder](https://github.com/googlecreativelab/coder) - A simple way to make web stuff on Raspberry Pi
+
+  * [Running Google Coder On Your Existing Raspberry Pi Or Desktop PC | Gadgetoid](http://pi.gadgetoid.com/article/running-google-coder-on-your-existing-raspberry-pi-or-desktop-pc)
+
+  * [Coder: seu mini-servidor web pessoal | iMasters](http://imasters.com.br/gerencia-de-ti/tendencias/coder-seu-mini-servidor-web-pessoal/)
+
 
 ## Abstract Syntax Tree
 
