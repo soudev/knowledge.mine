@@ -176,6 +176,10 @@
 
 --
 
+* [Data Visualization | Showcases | GitHub](https://github.com/showcases/data-visualization)
+
+--
+
 * [Google Charts : Visualization: Organizational Chart](https://developers.google.com/chart/interactive/docs/gallery/orgchart)
 
 --
