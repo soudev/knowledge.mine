@@ -168,6 +168,8 @@
 
 --
 
+* [6 JS Libraries for Building Visualized Charts & Graphs | CodeCondo](http://codecondo.com/6-js-libraries-building-visualized-charts-graphs/)
+
 * [15 Awesome Free JavaScript Charts](http://www.splashnology.com/article/15-awesome-free-javascript-charts/325/)
 
 * [Visualize Your Data: 25 Javascript Visualization Libraries](http://www.ma-no.org/en/content/index_visualize-your-data-25-javascript-visualization-libraries_1796.php)
@@ -181,7 +183,6 @@
 * [[GitHub] gllona / lib-gg-orgchart](https://github.com/gllona/lib-gg-orgchart) - Javascript Organizational Chart Drawing Library
 
 --
-
 
 * [Raphaël -JavaScript Library](http://raphaeljs.com/)
 
@@ -210,6 +211,8 @@
 * [[GitHub] trifacta / vega](https://github.com/trifacta/vega) - A visualization grammar
 
   * [Vega](http://trifacta.github.io/vega/) - is a visualization grammar, a declarative format for creating, saving and sharing visualization designs. With Vega you can describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.
+
+* [[GitHub] HumbleSoftware / Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript
 
 
 #### Mapas
@@ -311,6 +314,8 @@
 * [reD3](http://bugzu.github.io/reD3/) - is a collection of reusable charts and components built with D3.js framework. It includes Line, Pie, Bar, Area, StackedArea, Bubble, Treemap and Heatmap charts which can be easily customized, extended and reused.
 
 * [NVD3 Re-usable charts for D3.js](http://nvd3.org/)
+
+* [[GitHub] tenXer / xcharts](https://github.com/tenXer/xcharts) - A D3-based library for building custom charts and graphs
 
 * [Rickshaw|](http://code.shutterstock.com/rickshaw/) - is a JavaScript toolkit for creating interactive time series graphs
 
