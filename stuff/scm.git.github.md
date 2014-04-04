@@ -13,7 +13,8 @@
 * [Dicas](#dicas)
   * [SVN para GIT](#svn-para-git)
     * [Problema conhecido](#problema-conhecido)
-  * [Branch](#branch)
+  * [git submodule](#git-submodule)
+  * [git branch](#git-branch)
   * [Fork de um repositório](#fork-de-um-repositório)
   * [Colaboração](#colaboração)
     * [pull request](#pull-request)
@@ -238,10 +239,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Simple Git workflow is simple | Atlassian Blogs](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/)
 
-* [Git Submodules: Core Concept, Workflows And Tips | Atlassian Blogs](https://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
-
-* [Git Submodules Cheat Sheet | blog.jacius.info](http://blog.jacius.info/git-submodule-cheat-sheet/)
-
 * [cheatsheet do git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) - O git-flow é um conjunto de extensões para o git que provê operações de alto-nível para repositórios usando o modelo de branches do Vincent Driessen.
 
 * [Quatro workflows para trabalhar com Git | iMasters﻿](http://imasters.com.br/desenvolvimento/qatro-workflows-para-trabalhar-com-git/)
@@ -299,8 +296,24 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 > Este erro ocorre em revisões do SVN, as quais possuem muitos arquivos associados, onde o servidor do SVN não consegue responder todas as informações.
 
 
+### git submodule
 
-### Branch
+* [git submodule Manual Page | git-scm](http://git-scm.com/docs/git-submodule)
+
+* [6.6 Git Tools - Submodules | Pro Git | git-scm](http://git-scm.com/book/en/Git-Tools-Submodules)
+
+* [Git Submodules Cheat Sheet | blog.jacius.info](http://blog.jacius.info/git-submodule-cheat-sheet/)
+
+* [Git Submodules: Core Concept, Workflows And Tips | Atlassian Blogs](https://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
+
+* [[GitHub] NebuPookins / git-submodule-tutorial](https://github.com/NebuPookins/git-submodule-tutorial) - A tutorial on how to use git submodule to share a model across multiple applications
+
+--
+
+* [Generate GitHub pages in a submodule](http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html)
+
+
+### git branch
 
 > Encontrando branch's localmente que ainda não foram mesclados
 >
@@ -454,8 +467,6 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Easy Syncing of GitHub Pages](http://ryanfitzer.org/2011/11/easy-syncing-of-github-pages/)
 
 * [Github as a CMS to end CMSes](http://paulhammant.com/blog/github-as-a-cms-to-end-cmses.html/)
-
-* [Generate GitHub pages in a submodule](http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html)
 
 * [Designing Custom Github Demo Pages](http://speckyboy.com/2013/03/04/designing-custom-github-demo-pages/)
 
