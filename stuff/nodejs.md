@@ -932,6 +932,10 @@
 
 ### NPM
 
+* [Meet The Face Behind NPM | Modulus Blog](http://blog.modulus.io/isaac-interview)
+
+--
+
 * [Keeping The npm Registry Awesome | Nodejs Blog](http://blog.nodejs.org/2013/11/26/npm-post-mortem/) - 26/11/2013
 
 --
