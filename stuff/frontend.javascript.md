@@ -900,6 +900,10 @@
 
 ### Ferramentas
 
+* [A List of Foundational JavaScript Tools](https://www.codefellows.org/blogs/complete-list-of-javascript-tools)
+
+--
+
 * [[GitHub] ondras / my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
 
 * [50 Useful JavaScript Tools](http://coding.smashingmagazine.com/2009/02/08/50-extremely-useful-javascript-tools/)
@@ -1151,6 +1155,12 @@
 
 
 ### ECMAScript 6
+
+* [[GitHub] nzakas / understandinges6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6"
+
+  * [Announcing Understanding ECMAScript 6 | NCZOnline](http://www.nczonline.net/blog/2014/03/26/announcing-understanding-ecmascript-6/)
+
+--
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
 
