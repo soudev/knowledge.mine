@@ -841,6 +841,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Hacking Core Directives in AngularJS | Brian Ford](http://briantford.com/blog/angular-hacking-core.html)
+
+--
+
 * [Defer DOM Tree Binding In AngularJS With Delayed Transclusion | Ben Nadel](http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
 
 * [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
