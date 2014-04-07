@@ -518,6 +518,8 @@
 
 --
 
+* [seen.js](http://seenjs.io/) - Render 3D scenes into SVG or HTML5 Canvas
+
 * [heatmap.js | Create HTML5 Heatmaps with Canvas and JavaScript](http://www.patrick-wied.at/static/heatmapjs/) | [Sample](http://www.heatmapjs.com/)
 
   * [High Performance JS heatmaps | Codeflow](http://codeflow.org/entries/2013/feb/04/high-performance-js-heatmaps/)
