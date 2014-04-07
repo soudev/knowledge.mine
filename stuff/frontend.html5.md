@@ -739,6 +739,8 @@
 
 * [Screensiz.es](http://screensiz.es/phone) is a nifty little database of screen specifications for the most popular devices on the market.
 
+* [List of displays by pixel density | Wikipedia](https://en.wikipedia.org/wiki/List_of_displays_by_pixel_density)
+
 * [Tools to Package Your HTML5 App for Mobile Devices](http://jster.net/blog/tools-to-package-your-html5-app-for-mobile-devices)
 
 * [Response JS: mobile-first responsive design in HTML5](http://responsejs.com/)
