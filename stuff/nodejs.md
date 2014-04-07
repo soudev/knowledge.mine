@@ -1255,6 +1255,8 @@
 
 * [Express.js](http://expressjs.com/)
 
+* [[GitHub] likeastore / maintenance](https://github.com/likeastore/maintenance) - middleware for easy switching the app to maintenance mode
+
 * [Kraken.js](http://krakenjs.com/) - The kraken suite is a secure and scalable layer that extends express by providing structure and convention
 
 * [DozerJS](http://dozerjs.com/) - is a system for rapidly developing services to support front-end applications
