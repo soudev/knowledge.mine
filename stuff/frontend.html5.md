@@ -514,6 +514,8 @@
 
 * [Pedalboard.js](http://dashersw.github.io/pedalboard.js/) - Open-source JavaScript framework for developing audio effects with Web Audio API
 
+* [[GitHub] kylestetz / lissajous](https://github.com/kylestetz/lissajous) - A tool for programmatic audio performance in the browser using Javascript
+
 --
 
 * [heatmap.js | Create HTML5 Heatmaps with Canvas and JavaScript](http://www.patrick-wied.at/static/heatmapjs/) | [Sample](http://www.heatmapjs.com/)
