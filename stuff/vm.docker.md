@@ -5,6 +5,7 @@
 * [Docker](#docker)
   * [Ambiente de desenvolvimento](#ambiente-de-desenvolvimento)
   * [Soluções](#soluções)
+  * [Caso de Uso](#caso-de-uso)
   * [Node.js](#nodejs)
   * [Red Hat](#red-hat)
   * [Amazon AMI](#amazon-ami)
@@ -125,6 +126,10 @@
 
 * [[GitHub] Strider-CD / strider](https://github.com/Strider-CD/strider) - is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 
+
+### Caso de Uso
+
+* [Docker in education: From VMs to Containers | Docker Blog](http://blog.docker.io/2014/04/docker-in-education-interview/)
 
 
 ### Node.js
