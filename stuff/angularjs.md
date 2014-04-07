@@ -1053,6 +1053,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularHotkeys.js](http://chieffancypants.github.io/angular-hotkeys/) - Keyboard shortcuts for your angular apps
+
+--
+
 * [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
 
 * [ngProgress](http://victorbjelkholm.github.io/ngProgress/) - Slim, site-wide progressbar for Angular
