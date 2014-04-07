@@ -449,8 +449,12 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Top Github Languages for 2013 (so far) | Adam Bard](http://adambard.com/blog/top-github-languages-for-2013-so-far/)
 
+* [[GitHub] rgrove / rawgithub](https://github.com/rgrove/rawgithub) - rawgithub.com serves files from raw.github.com, but with the correct content types
+
 
 #### gh-pages
+
+* [GitHub Pages](https://pages.github.com/)
 
 * [Publicando páginas HTML+JS+CSS diretamente no GitHub - gist:833223](https://gist.github.com/chrisjacob/833223)
 
