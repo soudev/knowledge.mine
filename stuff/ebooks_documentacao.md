@@ -117,8 +117,6 @@
 
 ## Documentação
 
-* [Oracle Tahiti](http://tahiti.oracle.com/) - Search engine for the official Oracle documentation
-
 * [OverAPI.com | Collecting all the cheatsheets](http://overapi.com/)
 
 * [DevDocs](http://devdocs.io/) — API Documentation Reader (html5, css3, jquery)
@@ -127,7 +125,13 @@
 
 * [Browse Tutorials](http://browse-tutorials.com/) - Find computer related tutorials and snippets you need.
 
+--
+
+* [Oracle Tahiti](http://tahiti.oracle.com/) - Search engine for the official Oracle documentation
+
 * [NGINX and NGINX Plus Admin Guide | NGINX](http://nginx.com/admin-guide/)
+
+* [[GitHub] zeMirco / nodejs-pdf-docs](https://github.com/zeMirco/nodejs-pdf-docs) - Node.js Manual & Documentation (.pdf, .mobi, .epub)
 
 
 ## Eventos

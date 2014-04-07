@@ -96,6 +96,10 @@
 
 --
 
+* [[GitHub] zeMirco / nodejs-pdf-docs](https://github.com/zeMirco/nodejs-pdf-docs) - Node.js Manual & Documentation (.pdf, .mobi, .epub)
+
+--
+
 * [[GitHub] erkobridee / lab-nodejs](https://github.com/erkobridee/lab-nodejs) - Laboratório de testes com o Node.js
 
 * [[GitHub] simonholmes / knowing-node](https://github.com/simonholmes/knowing-node/) - Holds the code files from my Knowing Node tutorials
