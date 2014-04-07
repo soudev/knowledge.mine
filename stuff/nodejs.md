@@ -612,8 +612,11 @@
 
   * [[GitHub] millermedeiros / rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform EcmaScript AST
 
+  * [[GitHub] btford / eshighlight](https://github.com/btford/eshighlight) - highlight javascript code based on an esprima AST
 
 * [[GitHub] Constellation / escodegen](https://github.com/Constellation/escodegen) - ECMAScript code generator
+
+* [[GitHub] SBoudrias / AST-query](https://github.com/SBoudrias/AST-query) - Tentative to a simple JavaScript AST modification library
 
 * [[GitHub] substack / node-burrito](https://github.com/substack/node-burrito) - Walk and transform the javascript AST with rice and beans on the side
 
