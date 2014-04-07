@@ -61,6 +61,10 @@
 
 --
 
+* [Resources for Learning Javascript | @jendmann](http://jennifermann.ghost.io/resources-for-learning-javascript/)
+
+--
+
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - documentação com recomendações e boas práticas de programação em JavaScript.
 
 * [Eloquent JavaScript](http://eloquentjavascript.net/) - A Modern Introduction to Programming, by Marijn Haverbeke
@@ -816,21 +820,23 @@
 
 * [[GitHub] lkesteloot / turbopascal](lkesteloot / turbopascal) - Web-based Turbo Pascal compiler.
 
-    * [Turbo Pascal Compiler](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/) | [try it here](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/demo/)
+  * [Turbo Pascal Compiler](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/) | [try it here](http://www.teamten.com/lawrence/projects/turbo_pascal_compiler/demo/)
 
 * [Scala.js](http://www.scala-js.org/) - A Scala to JavaScript compiler
 
-    * [[GitHub] scala-js / scala-js](https://github.com/scala-js/scala-js) - Scala.js, a Scala to JavaScript compiler 
+  * [[GitHub] scala-js / scala-js](https://github.com/scala-js/scala-js) - Scala.js, a Scala to JavaScript compiler 
+
+  * [[GitHub] lihaoyi / workbench-example-app : ScalaJSExample.scala](https://github.com/lihaoyi/workbench-example-app/blob/ray-tracer/src/main/scala/example/ScalaJSExample.scala) - Scala.js Ray Tracer
 
 * [CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript
 
-    * [[GitHub] jashkenas / coffee-script](https://github.com/jashkenas/coffee-script/) - Unfancy JavaScript
+  * [[GitHub] jashkenas / coffee-script](https://github.com/jashkenas/coffee-script/) - Unfancy JavaScript
 
-    * [[CodeSchool] CoffeeScript](http://coffeescript.codeschool.com/)
+  * [[CodeSchool] CoffeeScript](http://coffeescript.codeschool.com/)
 
 * [TypeScript](http://www.typescriptlang.org/) - is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
-    * [[CodePlex] TypeScript](https://typescript.codeplex.com/)
+  * [[CodePlex] TypeScript](https://typescript.codeplex.com/)
 
 
 #### Máquinas Virtuais
