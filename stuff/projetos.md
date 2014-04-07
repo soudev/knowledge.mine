@@ -16,6 +16,10 @@
 
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
 
+--
+
+* [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
+
 
 ## ALM
 
