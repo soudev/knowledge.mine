@@ -1,5 +1,23 @@
 # Projetos 
 
+
+<!-- toc -->
+* [Geral](#geral)
+* [ALM](#alm)
+  * [IBM](#ibm)
+* [Scrum](#scrum)
+* [Estimativa](#estimativa)
+* [Ted Talks](#ted-talks)
+* [QCon](#qcon)
+* [InfoQ Br](#infoq-br)
+* [Integração Contínua](#integração-contínua)
+  * [iMasters](#imasters)
+
+<!-- toc stop -->
+
+
+## Geral
+
 * [[YouTube] Paradigma dos Macacos](https://www.youtube.com/watch?v=g5G0qE7Lf0A)
 
 --
@@ -98,6 +116,12 @@
   * [[YouTube] Mac Mini and Jenkins as a Phonegap Build Server](https://www.youtube.com/watch?&v=tcRXB3n-5qE)
 
   * [[GitHub] Medic - Continuous integration setup for Apache Cordova](https://github.com/filmaj/medic)
+
+--
+
+* [Drone.io](https://drone.io/)
+
+  * [Docs | Drone.io](http://docs.drone.io/)
 
 --
 
