@@ -64,6 +64,8 @@
 
 * [My First Gulp Adventure | Pony Foo](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
 
+* [Writing Tasks in Gulp.js | pixeldonor](http://www.pixeldonor.com/2014/feb/20/writing-tasks-gulpjs/)
+
 * [Managing Your Build Tasks With Gulp.js | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 
 * [Usando Gulp com WordPress para automatizar tarefas | claudiosmweb.com](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
