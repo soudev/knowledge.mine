@@ -985,7 +985,6 @@
 ##### Google Chrome
 
 * [Discover DevTools | Code School](http://www.codeschool.com/courses/discover-devtools) - Sharpen your dev process with Chrome DevTools
-
 --
 
 * [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
@@ -1003,6 +1002,10 @@
 * [CSS Prettifier Bookmarklet](https://github.com/addyosmani/cssprettifier-bookmarklet) - Um bookmarklet para unminify seu CSS no navegador
 
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
+
+--
+
+* [Pesticide](http://pesticide.io/) - Kill Your Css Layout Bugs
 
 --
 
