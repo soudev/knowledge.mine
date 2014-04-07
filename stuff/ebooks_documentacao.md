@@ -127,6 +127,8 @@
 
 * [Browse Tutorials](http://browse-tutorials.com/) - Find computer related tutorials and snippets you need.
 
+* [NGINX and NGINX Plus Admin Guide | NGINX](http://nginx.com/admin-guide/)
+
 
 ## Eventos
 
