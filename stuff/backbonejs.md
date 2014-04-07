@@ -26,6 +26,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) - A ranty, opinionated series of easily digestible tidbits
 
+* [Intro To Backbone.js | Daniel Norman](http://2color.github.io/2014/04/04/intro-to-backbone/)
+
 
 ## Dicas
 
