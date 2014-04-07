@@ -6,6 +6,8 @@
   * [Design](#design)
   * [Fonts](#fonts)
   * [Web Components](#web-components)
+    * [Polymer](#polymer)
+    * [Brick](#brick)
   * [D3.js for HTML](#d3js-for-html)
 
 <!-- toc stop -->
@@ -88,6 +90,10 @@
 
 --
 
+* [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
+
+#### Polymer 
+
 * [Polymer](http://www.polymer-project.org/)
 
   * [Polymer.js Cheat Sheet](http://www.cheatography.com/jonathanberi/cheat-sheets/polymer-js/) - by jonathanberi
@@ -103,6 +109,8 @@
   * [[GitHub] felquis / x-2048](https://github.com/felquis/x-2048/) - Web Component wrapper for 2048 game
 
 
+#### Brick
+
 * [Brick](http://mozilla.github.io/brick/) - UI Components for Modern Web Apps
 
   * [Introducing Brick: Minimal-markup Web Components for Faster App Development | Mozilla Hacks](https://hacks.mozilla.org/2013/08/introducing-brick-minimal-markup-web-components-for-faster-app-development/)
@@ -110,10 +118,6 @@
   * [Custom Elements for Custom Applications - Web Components with Mozilla&'s Brick and X-Tag | Mozilla Hacks](https://hacks.mozilla.org/2014/03/custom-elements-for-custom-applications-web-components-with-mozillas-brick-and-x-tag/)
 
   * [Brick: Uma biblioteca para Componentes Web da Mozilla | InfoQ Br](http://www.infoq.com/br/news/2013/09/mozilla-brick-componentes-web)
-
-
-* [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
-
 
 
 ### D3.js for HTML
