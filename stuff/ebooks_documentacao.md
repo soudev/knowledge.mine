@@ -133,6 +133,10 @@
 
 * [[GitHub] zeMirco / nodejs-pdf-docs](https://github.com/zeMirco/nodejs-pdf-docs) - Node.js Manual & Documentation (.pdf, .mobi, .epub)
 
+* [Ubunchu, Ubuntu Manga in English](http://divajutta.com/doctormo/ubunchu/)
+
+  * [Conheça o "Ubunchu!", a comédia romântica escolar japonesa do Ubuntu!](http://www.mundoubuntu.com.br/sobre/curiosidades-do-ubuntu/115-conheca-o-ubunchu-o-manga-do-ubuntu)
+
 
 ## Eventos
 
