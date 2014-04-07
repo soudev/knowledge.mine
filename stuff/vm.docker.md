@@ -26,13 +26,15 @@
 
 --
 
-* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) - by Erika Heidi [Leanpub PDF/iPad/Kindle]
-
-  * [Vagrant | Erika Heidi](http://www.erikaheidi.com/vagrant/)  
+* [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
 --
 
-* [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
+* Dockerfile Best Practices | Michael Crosby : [1](http://crosbymichael.com/dockerfile-best-practices.html) | [2](http://crosbymichael.com/dockerfile-best-practices-take-2.html)
+
+* [Dockerfile deep dive | Michael Crosby](http://crosbymichael.com/dockerfile-deep-dive.html)
+
+* [Advanced Docker Volumes | Michael Crosby](http://crosbymichael.com/advanced-docker-volumes.html)
 
 --
 
