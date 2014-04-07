@@ -3,6 +3,7 @@
 
 <!-- toc -->
 * [Visão Geral](#visão-geral)
+* [Browsers antigos](#browsers-antigos)
 * [Emmet](#emmet)
 * [HTML Codes / Unicode](#html-codes-unicode)
 * [Imagens](#imagens)
@@ -62,6 +63,21 @@
 * [UIBox - Curated HTML, CSS, JS UI Component Library](http://www.uibox.in/)
 
 * [30 Days to Learn HTML & CSS | Tuts+](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
+
+
+## Browsers antigos
+
+* [Salve a Web](http://salveaweb.com/)
+  
+  * [[GitHub] globocom / sawpf](https://github.com/globocom/sawpf)
+
+* Happy Browser [en](http://browsehappy.com/) | [pt-Br](http://browsehappy.com/?locale=pt)
+
+```html
+<!--[if lt IE 8]>
+    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+```
 
 
 ## Emmet
