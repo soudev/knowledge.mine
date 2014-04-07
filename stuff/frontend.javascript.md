@@ -87,6 +87,10 @@
 
 --
 
+* [10 Mistakes That JavaScript Beginners Often Make | Tutorialzine](http://tutorialzine.com/2014/04/10-mistakes-javascript-beginners-make/)
+
+--
+
 * [Code Academy - JavaScript](http://www.codecademy.com/pt/tracks/javascript-combined)
 
 * [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge.
@@ -549,6 +553,7 @@
 
 * [Browserify - Unix in the browser | thinking_on thinking](http://thinkingonthinking.com/unix-in-the-browser/)
 
+* [Quick Tip: Write Modular JavaScript With Browserify | Tutorialzine](http://tutorialzine.com/2014/02/writing-modular-javascript-browserify/)
 
 
 #### Require.js
