@@ -236,6 +236,8 @@
 
 --
 
+* [12 Awesome CSS3 Features That You Can Finally Start Using | Tutorialzine](http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/)
+
 * [[GitHub] pmneila / jsexp](https://github.com/pmneila/jsexp) - Some simulation experiments in JavaScript
 
 
@@ -352,6 +354,8 @@
 #### dicas: Armazenamento
 
 * [HTML5 Browser Storage: the Past, Present and Future | SitePoint](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
+
+* [A Quick Guide to Web Storage | Tutorialzine](http://tutorialzine.com/2013/11/a-quick-guide-to-web-storage/)
 
 * [Web SQL DB vs. IndexedDB | JavassCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
 
@@ -647,11 +651,13 @@
 
 * [three.js](http://mrdoob.github.io/three.js/) - JavaScript 3D library
 
-  * [Shader Particle Engine](http://squarefeet.github.io/ShaderParticleEngine/) - A GLSL-heavy particle engine for THREE.js. Based on Stemkoski's great particle engine 
-
   * [The Beginner's Guide to three.js | Treehouse Blog](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
 
   * [How to build a game with Three.js | Creative Bloq](http://www.creativebloq.com/3d/how-build-game-threejs-121310131)
+
+  * [20 Impressive Examples for Learning WebGL with Three.js | Tutorialzine](http://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-three-js/)
+
+  * [Shader Particle Engine](http://squarefeet.github.io/ShaderParticleEngine/) - A GLSL-heavy particle engine for THREE.js. Based on Stemkoski's great particle engine 
 
   * [Building 3D in the browser with Three.js | Webdesigner Depot](http://www.webdesignerdepot.com/2014/04/building-3d-in-the-browser-with-three-js/)
 
