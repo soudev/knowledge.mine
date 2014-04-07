@@ -8,15 +8,15 @@
   * [Ferramentas](#ferramentas)
   * [Caso de Uso](#caso-de-uso)
   * [Dicas](#dicas)
-    * [WebRTC](#webrtc)
-    * [WebGL](#webgl)
-    * [Game](#game)
-    * [Game Development](#game-development)
-    * [Storage](#storage)
-    * [Performance](#performance)
-    * [Server Sent Events](#server-sent-events)
-    * [Full Screen API](#full-screen-api)
-    * [File System/API](#file-systemapi)
+    * [dicas: WebRTC](#dicas-webrtc)
+    * [dicas: WebGL](#dicas-webgl)
+    * [dicas: Game](#dicas-game)
+    * [dicas: Desenvolvimento de Jogos](#dicas-desenvolvimento-de-jogos)
+    * [dicas: Armazenamento](#dicas-armazenamento)
+    * [dicas: Performance](#dicas-performance)
+    * [dicas: Server Sent Events](#dicas-server-sent-events)
+    * [dicas: Full Screen API](#dicas-full-screen-api)
+    * [dicas: File System/API](#dicas-file-systemapi)
   * [Bibliotecas](#bibliotecas)
     * [WebRTC](#webrtc)
     * [Text Search](#text-search)
@@ -239,7 +239,7 @@
 * [[GitHub] pmneila / jsexp](https://github.com/pmneila/jsexp) - Some simulation experiments in JavaScript
 
 
-#### WebRTC
+#### dicas: WebRTC
 
 * [WebRTC.org](http://www.webrtc.org/)
 
@@ -260,11 +260,13 @@
 * [Talky](https://talky.io/) - Group video chat and screen sharing
 
 
-#### WebGL
+#### dicas: WebGL
 
 * [WebGL Fundamentals | HTML5 ROCKS](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
 * [This is a list of all the WebGL related activities happening on the web](http://www.khronos.org/webgl/wiki/User_Contributions) 
+
+--
 
 * [How to write portable WebGL | CodeFlow](http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/)
 
@@ -286,8 +288,14 @@
 
 * [WebGL – working with GLSL source files | pheelicks.com](http://www.pheelicks.com/2013/12/webgl-working-with-glsl-source-files/)
 
+--
 
-#### Game
+* [The Era of WebGL | Medium](https://medium.com/p/abf669857722)
+
+* [Non-Intrusive WebGL | Medium](https://medium.com/p/cebd176c281d)
+
+
+#### dicas: Game
 
 * [HTML5 Gamepad Tester](http://html5gamepad.com/)
 
@@ -308,7 +316,7 @@
 * [The JavaScript Warrior](http://jswarrior.fusioncharts.com/) - Welcome to the JSWarrior Game. Unlike traditional games, you can't control your character through a keyboard or joystick. The only way you can control your character is through JavaScript.
 
 
-#### Game Development
+#### dicas: Desenvolvimento de Jogos
 
 * [Screen size management in mobile HTML5 games | HTML5 Hub](http://html5hub.com/screen-size-management-in-mobile-html5-games/)
 
@@ -341,7 +349,7 @@
 * [The Pond – building a multi-platform HTML5 game | Mozilla Hacks](https://hacks.mozilla.org/2013/11/the-pond-building-a-multi-platform-html5-game/)
 
 
-#### Storage
+#### dicas: Armazenamento
 
 * [HTML5 Browser Storage: the Past, Present and Future | SitePoint](http://www.sitepoint.com/html5-browser-storage-past-present-future/)
 
@@ -370,28 +378,28 @@
   * [[GitHub] GoogleCloudPlatform / storage-getting-started-javascript](https://github.com/GoogleCloudPlatform/storage-getting-started-javascript/) - This is a simple web-based example of calling the Google Cloud Storage API in JavaScript
 
 
-#### Performance
+#### dicas: Performance
 
 * [Five things you can do to make HTML5 perform better](http://christianheilmann.com/2013/01/25/five-things-you-can-do-to-make-html5-perform-better/)
 
 * [Native Speed on the Web: JavaScript and asm.js | Alon Zakai](http://kripken.github.io/mloc_emscripten_talk/sloop.html)
 
 
-#### Server Sent Events
+#### dicas: Server Sent Events
 
 * [HTML5 e SSE (Server Sent Events) - Igor Costa](http://www.igorcosta.com/html5-e-sse-eventsource/) 
 
 * [Push Notifications to the Browser With Server Sent Events](http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/)
 
 
-#### Full Screen API
+#### dicas: Full Screen API
 
 * [Fullscreen API Specification](https://dvcs.w3.org/hg/fullscreen/raw-file/tip/Overview.html#api)
 
 * [Using fullscreen mode | MDN](https://developer.mozilla.org/en-US/docs/Web/Guide/DOM/Using_full_screen_mode)
 
 
-#### File System/API
+#### dicas: File System/API
 
 * [Exploring the FileSystem APIs | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/file/filesystem/) / [Ler arquivos em JavaScript usando as APIs do arquivo | HTML5 Rocks](http://www.html5rocks.com/pt/tutorials/file/dndfiles/)
 
