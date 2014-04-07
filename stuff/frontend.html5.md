@@ -651,7 +651,9 @@
 
   * [The Beginner's Guide to three.js | Treehouse Blog](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
 
-  * [How to build a game with Three.js | Creative Bloq](http://www.creativebloq.com/3d/how-build-game-threejs-121310131)  
+  * [How to build a game with Three.js | Creative Bloq](http://www.creativebloq.com/3d/how-build-game-threejs-121310131)
+
+  * [Building 3D in the browser with Three.js | Webdesigner Depot](http://www.webdesignerdepot.com/2014/04/building-3d-in-the-browser-with-three-js/)
 
 * [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
 
