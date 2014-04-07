@@ -16,6 +16,12 @@
 
 --
 
+* [Vagrant CookBook](https://leanpub.com/vagrantcookbook) - by Erika Heidi [Leanpub PDF/iPad/Kindle]
+
+  * [Vagrant | Erika Heidi](http://www.erikaheidi.com/vagrant/)
+
+--
+
 * [Rove.io](http://rove.io/) - is a service that allows you to pregenerate typical Vagrant builds.
 
 * [Protobox](http://getprotobox.com/) - Online GUI for Vagrant. Build amazing web applications together Use protobox to build and share your vagrant virtual machines.
