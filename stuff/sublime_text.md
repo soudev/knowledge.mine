@@ -32,6 +32,8 @@
 
 * [Syncing packages and settings across multiple machines in Sublime Text](https://sublime.wbond.net/docs/syncing)
 
+* [Simple Visual Enhancements for Better Coding in Sublime Text | Tuts+ Web Design Article](http://webdesign.tutsplus.com/articles/simple-visual-enhancements-for-better-coding-in-sublime-text--webdesign-18052)
+
 
 ## Guia
 
@@ -138,6 +140,8 @@
 * [[GitHub] - titoBouzout / SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter) - s a plugin that supports "lint" programs (known as "linters").  SublimeLinter highlights lines of code the linter deems to contain  (potential) errors. It also supports highlighting special annotations  (for example: TODO) so that they can be quickly located.
+
+* [[GitHub] facelessuser / BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter for Sublime Text
 
 --
 
