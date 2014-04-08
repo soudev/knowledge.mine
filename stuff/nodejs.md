@@ -127,6 +127,8 @@
 
 * [How to Node](http://howtonode.org/)
 
+* [5 Free Beginner Friendly Books for Learning Node.js | CodeCondo](http://codecondo.com/5-free-beginner-friendly-books-learning-node-js/)
+
 * [The Node Beginner Book](http://www.nodebeginner.org/)
 
 * [[GitHub] rockbot / node-for-beginners](https://github.com/rockbot/node-for-beginners) - A list of resources for Node.js Newbies!
