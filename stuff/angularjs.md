@@ -41,6 +41,10 @@
   * [Mobile](#mobile)
     * [PhoneGap](#phonegap)
   * [Ferramentas](#ferramentas)
+    * [Sublime Text](#sublime-text)
+    * [Eclipse IDE](#eclipse-ide)
+    * [JetBrains](#jetbrains)
+    * [Visual Studio](#visual-studio)
 * [Directive (componentes)](#directive-componentes)
   * [Filters](#filters)
   * [Componentes](#componentes)
@@ -272,6 +276,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [AngularJS in 60-ish Minutes – The eBook | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/07/30/angularjs-in-60-ish-minutes-the-ebook.aspx)
+
+* [Practical AngularJS | Leanpub](https://leanpub.com/Practical_AngularJS) - by Dinis Cruz. Real-world examples of using AngularJS in multiple scenarios and platforms (KarmaJS, Firebase, Eclipse, WebStorm, O2 Platform)
+
+  * [Read online : Practical AngularJS | Leanpub](https://leanpub.com/Practical_AngularJS/read)
 
 --
 
@@ -845,7 +853,36 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
 
+
+#### Sublime Text
+
 * [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Angular.js Snippets for Sublime Text 2
+
+* [[GitHub] erkobridee / sublime-angularjs-ee-snippets](https://github.com/erkobridee/sublime-angularjs-ee-snippets) - Sublime Text 2 / 3 Snippets and Completions for Angular.js and Require.js (focused to the angularjs-ee-boilerplate code)
+
+* [[GitHub] angular-ui / AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package) - AngularJS code completion, snippets, go to definition, quick panel search, and more
+
+
+#### Eclipse IDE
+
+* [[GitHub] angelozerr / angularjs-eclipse](https://github.com/angelozerr/angularjs-eclipse) - AngularJS Eclipse IDE Plugin
+
+
+#### JetBrains
+
+* [WebStorm — The smartest JavaScript IDE](http://www.jetbrains.com/webstorm/)
+
+  * [WebStorm + AngularJS | JetBrains TV](http://tv.jetbrains.net/channel/webstorm/angularjs)
+
+* [IntelliJ IDEA Plugins](http://plugins.jetbrains.com/plugin/6971?pr=idea)
+
+* [[GitHub] johnlindquist / angularjs-plugin](https://github.com/johnlindquist/angularjs-plugin) - AngularJS features for the Intellij Platform (WebStorm, RubyMine, Intellij, etc)
+
+
+#### Visual Studio
+
+* [AngularJS Intellisense in Visual Studio 2012 | Mads Kristensen](http://madskristensen.net/post/angularjs-intellisense-in-visual-studio-2012)
+
 
 
 ## Directive (componentes)
@@ -1117,8 +1154,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [Diving deep into the AngularUI Router | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-router.html)
 
   * [[GitHub] angular-ui / AngularJS-brackets](https://github.com/angular-ui/AngularJS-brackets) - AngularJS plugin for Brackets
-
-  * [[GitHub] angular-ui / AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package) - AngularJS code completion, snippets, go to definition, quick panel search, and more
 
 * [AngularStrap](http://mgcrea.github.com/angular-strap/) - Bootstrap directives for AngularJS
 
