@@ -999,6 +999,8 @@
 
 * [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
 
+* [Npm Tips | fiveisprime](http://fiveisprime.com/2014/04/06/npm-tips/)
+
 --
 
 * [Introduction to npm | SmallJS](http://smalljs.org/package-managers/npm/)
