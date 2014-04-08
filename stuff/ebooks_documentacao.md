@@ -116,6 +116,10 @@
 
 --
 
+* [5 Books for Learning Laravel 4+ | CodeCondo](http://codecondo.com/5-books-learning-laravel-4/) - php
+
+--
+
 * [PeepCode Git Internals PDF](https://github.com/pluralsight/git-internals-pdf/releases) - A PDF by Scott Chacon about how the Git source code control system stores files and revisions.
 
 
