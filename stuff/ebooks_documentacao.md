@@ -3,6 +3,7 @@
 
 <!-- toc -->
 * [Geral](#geral)
+* [Cheat Sheets](#cheat-sheets)
 * [eBooks](#ebooks)
 * [Documentação](#documentação)
 * [Eventos](#eventos)
@@ -22,10 +23,6 @@
 ## Geral
 
 * [Semantic Versioning](http://semver.org/) - Every wonder how to version your software? There's a whole methodology behind X.Y.Z
-
---
-
-* [75 Essential Cheat Sheets for Designers and Programmers | DesignZum](http://designzum.com/2014/04/03/best-cheat-sheets-for-designers-and-programmers/)
 
 --
 
@@ -86,6 +83,13 @@
 --
 
 * [Continuous Integration | Martin Fowler](http://martinfowler.com/articles/continuousIntegration.html) - 06/05/2006
+
+
+## Cheat Sheets
+
+* [75 Essential Cheat Sheets for Designers and Programmers | DesignZum](http://designzum.com/2014/04/03/best-cheat-sheets-for-designers-and-programmers/)
+
+* [Laravel Cheat Sheet | PHP](http://cheats.laravel.com/)
 
 
 ## eBooks
