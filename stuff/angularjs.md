@@ -897,11 +897,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Defer DOM Tree Binding In AngularJS With Delayed Transclusion | Ben Nadel](http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
-
-* [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
-
---
+* [Angle Brackets, Synergistic Directives | Pony Foo](http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
 
 * [Little-known directives of Angular.js | CODETUNES](http://codetunes.com/2013/little-known-angular-directives/)
 
@@ -918,6 +914,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Let's Make Full-Ass AngularJS Directives | @jhooks](http://www.joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives)
 
 * [[Slid.es] Deep Dive into custom Directives](http://slid.es/djsmith/deep-dive-into-custom-directives) -  by djsmith
+
+--
+
+* [Defer DOM Tree Binding In AngularJS With Delayed Transclusion | Ben Nadel](http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
+
+* [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
 
 --
 
