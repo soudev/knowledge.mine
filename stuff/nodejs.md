@@ -309,6 +309,8 @@
 
 * [[GitHub] eunjae-lee / node-express-grunt-boilerplate](https://github.com/eunjae-lee/node-express-grunt-boilerplate) - A boilerplate to start a new express project based on CoffeeScript, Grunt build system, forever runner, Jade Template Engine and bootstrap
 
+* [[GitHub] erictherobot / kano](https://github.com/erictherobot/kano) - Boilerplate for NodeJS + ExpressJS + MongoDB + Jade + Bootstrap 3 + Mocha + API's
+
 
 ### Análise de Código
 
