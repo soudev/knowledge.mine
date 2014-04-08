@@ -508,6 +508,8 @@
 
 * [[GitHub] EvandroLG / audioJS](https://github.com/EvandroLG/audioJS) - AudioJS is a agnostic lib cross-browser to work easily with the AudioContext API of HTML5.
 
+* [[GitHub] egonelbre / jsfx](https://github.com/egonelbre/jsfx) - Javascript Sound Effect Generator
+
 * [[GitHub] meenie / 8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds
 
 * [[GitHub]  meenie / band.js](https://github.com/meenie/band.js) - Music composer interface for the Web Audio API.
