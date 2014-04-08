@@ -34,6 +34,10 @@
 
 --
 
+* [Need for Speed – How to Improve your Website Performance | Dev Bridge](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
+
+--
+
 * [Otimização de imagens com media queries | iMasters](http://imasters.com.br/front-end/css/otimizacao-de-imagens-com-media-queries/)
 
 * [Qual é a velocidade de carregamento do seu site? | Caelum](http://blog.caelum.com.br/teste-a-velocidade-de-carregamento-do-seu-site/) - Seu site pode até carregar rápido no seu computador. Mas como ele fica numa conexão 3G? E em uma edge? e em uma 256kbps? Conheça algumas ferramentas que possibilitam enxergar como seu site fica numa conexão lenta.
