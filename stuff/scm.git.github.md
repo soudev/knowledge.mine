@@ -64,6 +64,14 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [GitHub](https://github.com/)
 
+  * [Education | GitHub](https://education.github.com/)
+
+  * [List of guides and tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github) for learning how to use them
+
+  * [Open source training materials](http://training.github.com/kit/) to you can use/customize for your classes
+
+  * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
 
 ## Aprendizado
 
