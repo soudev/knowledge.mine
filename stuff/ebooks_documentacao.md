@@ -116,6 +116,8 @@
 
 --
 
+* [3 Free Programming Books to Learn CoffeeScript | CodeCondo](http://codecondo.com/learn-coffeescript-free-from-books/)
+
 * [5 Books for Learning Laravel 4+ | CodeCondo](http://codecondo.com/5-books-learning-laravel-4/) - php
 
 --
