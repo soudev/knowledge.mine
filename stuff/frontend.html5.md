@@ -208,6 +208,8 @@
 
 * [Frequency Modulation (FM) with Web Audio API | @GreWeb](http://greweb.me/2013/08/FM-audio-api/) | [jsfiddle](http://jsfiddle.net/greweb/s2MMR/19/)
 
+* [Creating Sound with the Web Audio API and Oscillators | Flippin' Awesome](http://flippinawesome.org/2014/03/31/creating-sound-with-the-web-audio-api-and-oscillators/)
+
 --
 
 * [JavaScript Dubstep Generator](http://www.mazbox.com/synths/dubstep/) - Uma lib que gera efeitos no canvas com ondas sonoras de uma música
