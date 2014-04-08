@@ -76,6 +76,8 @@
 
 * [WebComponents.org](http://webcomponents.github.io/) - The web platform specs that will change the way you build apps
 
+  * [Web Components Best Practices | WebComponents.org](http://webcomponents.github.io/articles/web-components-best-practices/)
+
 * [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
 
 * [[Gist] ebidel / Web Components Resources.md](https://gist.github.com/ebidel/6314025) - List of resources related to Web Components
@@ -91,6 +93,7 @@
 --
 
 * [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
+
 
 #### Polymer 
 
