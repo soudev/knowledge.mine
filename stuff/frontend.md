@@ -173,6 +173,8 @@
 
 * [Animated SVGs: Custom easing and timing | oak.is](http://oak.is/thinking/animated-svgs/)
 
+* [SVG Drawing Animation | Codrops](http://tympanus.net/codrops/2013/12/30/svg-drawing-animation/)
+
 * [Art-Directed Adaptive Images With SVG and JavaScript | demosthenes.info](http://demosthenes.info/blog/722/Art-Directed-Adaptive-Images-With-SVG-and-JavaScript)
 
 * [Snap.svg](http://snapsvg.io/) - is designed for modern browsers and therefore supports the newest SVG features like masking, clipping, patterns, full gradients, groups, and more.
