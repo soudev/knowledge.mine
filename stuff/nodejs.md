@@ -377,6 +377,8 @@
 
 ### Controle de Fluxo de Execução
 
+* [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
+
 * [Async - utilities for node and the browser](https://github.com/caolan/async)
 
   * [Node.js async in practice: When to use what? | Sebastian Seilund](http://www.sebastianseilund.com/nodejs-async-in-practice)

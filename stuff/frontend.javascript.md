@@ -312,6 +312,8 @@
 
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
 
+* [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
+
 * [promisejs.org](http://www.promisejs.org/) - Introducing the concept of Promises in JavaScript
 
     * [AMD loader in 30 lines of code](http://curiosity-driven.org/amd-loader-with-promises)
