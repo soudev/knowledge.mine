@@ -322,5 +322,9 @@
 
 * [Admin UIs](http://docs.mongodb.org/ecosystem/tools/administration-interfaces/)
 
+* [Genghis](http://genghisapp.com/) - The single-file MongoDB admin app
+
+  * [[GitHub] bobthecow / genghis](https://github.com/bobthecow/genghis)
+
 * [Robomongo](http://www.robomongo.org/) - Shell-centric cross-platform MongoDB management tool
 
