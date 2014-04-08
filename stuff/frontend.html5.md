@@ -92,6 +92,10 @@
 
 --
 
+* [Accessibility Features of HTML5](http://www.w3.org/Talks/2014/0317-HTML5-A11Y/) - With Mark Sadecki, W3C / Web Accessibility Initiative
+
+--
+
 * [The HTML 5 JavaScript API Index](http://html5index.org/)
 
 * [Ultimate HTML5 Cheatsheat [Infographic] | Tech King](http://www.testking.com/techking/infographics/ultimate-html5-cheatsheat/)
