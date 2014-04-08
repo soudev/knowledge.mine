@@ -355,7 +355,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Tutoriais
 
-* [25 days of AngularJS Calendar | 2013](http://www.ng-newsletter.com/advent2013) - The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
+* [25 days of AngularJS Calendar - 2013 | ng-newsletter](http://www.ng-newsletter.com/advent2013) - The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
+
+* [Building the 2048 game in AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html)
+
 
 ### ng-newsletter: AngularJS from beginner to expert in 7 steps series 
 
@@ -1246,6 +1249,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Radian](http://radian.io/) is a scalable AngularJS framework, perfect for multi developer projects
+
+--
+
+* [CleverStack](http://cleverstack.io/) - A modular way to create your Angular & Node web apps
+
+  * [[GitHub] CleverStack / cleverstack-cli](https://github.com/CleverStack/cleverstack-cli) - CLI for CleverStack
 
 
 ### MEAN Stack
