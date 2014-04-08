@@ -239,6 +239,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Recipes with Angular.js](http://fdietz.github.io/recipes-with-angular-js/) - A community project dedicated to collecting resources for the Angular.js framework. You find here easy to follow cookbook style recipes for issues you are likely to face when working with Angular.js.
+
+--
+
 * [[GitHub] mgechev / angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 
 * [[GitHub] nicholasess / angularjsbrasil / iniciantes.md](https://github.com/nicholasess/angularjsbrasil/blob/master/iniciantes.md)
@@ -264,6 +268,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Aprenda AngularJS com estes 5 Exemplos Práticos | Javascript Brasil](http://javascriptbrasil.com/2013/10/23/aprenda-angularjs-com-estes-5-exemplos-praticos/)
 
 * [Getting started with AngularJS | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
+
+--
+
+* [AngularJS in 60-ish Minutes – The eBook | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/07/30/angularjs-in-60-ish-minutes-the-ebook.aspx)
 
 --
 
