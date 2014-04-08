@@ -35,6 +35,8 @@
 
 ## Guia
 
+* [Sublime Text Dicas](http://sublimetextdicas.com.br/)
+
 * [Nice Sublime Text (2) setup guide for web developers | Drew Barontini](http://drewbarontini.com/setup/sublime-text/)
 
 * [Dicas e truques de Sublime Text | Tableless](http://tableless.com.br/dicas-truques-sublime-text/)
@@ -185,5 +187,9 @@
 
 * [[GitHub] caiogondim / jasmine-sublime-snippets](https://github.com/caiogondim/jasmine-sublime-snippets) - Snippets for Jasmine, the BDD framework for testing JavaScript, in Sublime Text
 
-* [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/)
+* [Emmet](http://emmet.io/)
+
+  * [cheat sheet | emmet docs](http://docs.emmet.io/cheat-sheet/)
+
+  * [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/) 
 
