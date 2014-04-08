@@ -48,6 +48,10 @@
 
 --
 
+* [The guide to CSS animations for the web | @ihatetomatoes](http://ihatetomatoes.net/the-guide-to-css-animations-for-the-web)
+
+--
+
 * [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
 
 --
