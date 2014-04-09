@@ -30,6 +30,8 @@
 
 * [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
 
+* [O que é DevOps afinal? | gutocarvalho.net](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
+
 --
 
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
@@ -97,6 +99,8 @@
 * [Utilizando ferramentas open source para reorganizar seus dados em informações concretas](http://www.infoq.com/br/presentations/ferramentas-opensource) - Muito se fala do papel que os dados podem assumir no dia-a-dia de empresas, mas pouco se mostra como podem ser eficazes no auxílio das tomadas de decisões. Veja como seguir um caminho prático pelos emaranhados de termos e técnicas surgindo a cada dia neste campo que floresce como nova onda. Mostramos como transformar conjuntos de dados em informação – e por consequência em lucros.
 
 --
+
+* [DevOps: Presente, Futuro e Adoção](http://www.infoq.com/br/interviews/devops-presente-adocao-futuro) - entrevista sobre DevOps
 
 * [Por que a nuvem irá acabar com soluções "Enterprise"](http://www.infoq.com/br/presentations/nuvem-ira-acabar-solucoes-enterprise) - O surgimento do Cloud Computing está levando a profundas mudanças nas práticas de desenvolvimento e na arquitetura de aplicações. As soluções Enterprise tradicionais se tornam pouco efetivas nesse contexto. Como as soluções Enterprise estão desaparecendo e por quê? Qual o novo modelo para as arquiteturas agora e para o futuro? São essas e outras questões que vamos analisar nessa palestra.
 
