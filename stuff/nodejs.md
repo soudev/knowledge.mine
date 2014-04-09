@@ -557,6 +557,13 @@
   * [Primeiros passos com o Docpad | Luiz Felipe Tartarotti Fialho](http://www.felipefialho.com/blog/2013/primeiros-passos-com-o-docpad/)
 
 
+* [Techy](http://krasimir.github.io/techy/)
+
+  * [Look Ma, no CMS! | David Walsh Blog](http://davidwalsh.name/techy)
+
+  * [[GitHub] krasimir / techy](https://github.com/krasimir/techy/) - A flat file CMS based on Gulp and AbsurdJS
+
+
 ### Hardware
 
 #### Node Copter
