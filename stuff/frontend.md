@@ -179,6 +179,8 @@
 
 * [Snap.svg](http://snapsvg.io/) - is designed for modern browsers and therefore supports the newest SVG features like masking, clipping, patterns, full gradients, groups, and more.
 
+  * [Adobe's Snap.svg: Animations With HTML 5, Without Flash | noupe](http://www.noupe.com/design/adobes-snap-svg-animations-with-html-5-without-flash-81855.html)
+
 * [Animated Checkboxes and Radio Buttons with SVG | Codrops](view-source:http://tympanus.net/codrops/2013/10/15/animated-checkboxes-and-radio-buttons-with-svg/)
 
 * [Ten reasons we switched from an icon font to SVG | Ian Feather](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
