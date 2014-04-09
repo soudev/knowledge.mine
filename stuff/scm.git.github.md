@@ -129,6 +129,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git)
 
+* [[YouTube] Curso básico de Git](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
+
 
 ### Cursos online interativos
 
