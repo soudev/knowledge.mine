@@ -70,6 +70,8 @@
 
 * [Usando Gulp com WordPress para automatizar tarefas | claudiosmweb.com](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
 
+* [Gulp + Browserify: The Everything Post | Viget](http://viget.com/extend/gulp-browserify-starter-faq)
+
 --
 
 * [Exploring A Generator For Gulp.js | Yeoman](http://yeoman.io/blog/gulp-explore.html)
