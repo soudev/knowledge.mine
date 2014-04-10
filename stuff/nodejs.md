@@ -125,6 +125,8 @@
 
 ## Aprendizado
 
+* [Enter the World of Node.js | SitePoint](http://www.sitepoint.com/enter-world-node-js/)
+
 * [How to Node](http://howtonode.org/)
 
 * [5 Free Beginner Friendly Books for Learning Node.js | CodeCondo](http://codecondo.com/5-free-beginner-friendly-books-learning-node-js/)
