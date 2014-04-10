@@ -263,6 +263,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Egghead - AngularJS](http://egghead.io/) - curso online
 
+* [Hands-on Angular | Tuts+](https://tutsplus.com/course/hands-on-angular/) - curso online
+
 * [Learn AngularJS this Weekend | @jhooks](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
 
 * [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
@@ -510,6 +512,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [understanding service types | Angular Tips](http://angular-tips.com/blog/2013/08/understanding-service-types/)
+
+* [Entendendo os tipos de Serviços do AngularJS | pedronauck.com](http://pedronauck.com/angularjs/entendendo-os-tipos-de-servico-do-angularjs)
+
 * [[YouTube] AngularJS Factory vs. Service](https://www.youtube.com/watch?v=A6cJasNBkyI)
 
 * [Angular service or factory? | Iffy Can](http://iffycan.blogspot.com.br/2013/05/angular-service-or-factory.html)
@@ -715,6 +721,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Internacionalização
 
+* [AngularJS Localization | DailyJS](http://dailyjs.com/2014/04/08/angular-localize/)
+
 * [[GitHub] tyson-benson / Internationalization with AngularJS](https://github.com/tyson-benson/Internationalization-with-AngularJS) - i18n
 
 * [angular translate](http://pascalprecht.github.io/angular-translate/) - i18n for your Angular apps, made easy
@@ -899,6 +907,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Hacking Core Directives in AngularJS | Brian Ford](http://briantford.com/blog/angular-hacking-core.html)
 
   * [[GitHub] damienklinnert / angular-decorate](https://github.com/damienklinnert/angular-decorate) - Use AngularJS' decorate function with ease
+
+* [How To Extend Angular's Script Directive | Techno Fattie](http://www.technofattie.com/2014/03/25/how-to-extend-angular-script-directive.html)
 
 --
 
@@ -1098,6 +1108,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] akoenig / angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS
 
 * [[GitHub] likeastore / ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
+
+* [[GitHub] nimbly / angular-formly](https://github.com/nimbly/angular-formly) - AngularJS directive which takes JSON representing a form and renders to HTML
 
 --
 
@@ -1317,6 +1329,8 @@ Projeto de exemplo / estrutura inicial
   * [[GitHub] davemo / lineman-angular-template](https://github.com/davemo/lineman-angular-template) - A Lineman Application Template using AngularJS
 
 * [[YouTube] An Introduction to AngularJS End to End Testing with Protractor](https://www.youtube.com/watch?v=idb6hOxlyb8)
+
+* [Protractor for AngularJS: writing end-to-end test has never been so fun](http://ramonvictor.github.io/protractor/slides/#/) - A step-by-step presentaion on Protractor End-to-End Testing for AngularJS
 
 --
 
