@@ -169,6 +169,8 @@
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
+* [SVG Icons FTW | Codrops](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/) - Despite the growing popularity of SVG, its time around and excellent browser support, we have a lack of good vector icon approaches. It's time to fill this gap and use SVG as icons in our web projects.
+
 * [Animated line drawing in SVG | JakeArchibald.com](http://jakearchibald.com/2013/animated-line-drawing-svg/)
 
 * [Animated SVGs: Custom easing and timing | oak.is](http://oak.is/thinking/animated-svgs/)
