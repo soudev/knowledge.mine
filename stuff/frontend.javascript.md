@@ -255,6 +255,10 @@
 
 --
 
+* [Implementing Private and Protected Members in JavaScript | Philip Walton](http://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/)
+
+--
+
 * [A meta style guide for JavaScript | 2ality](http://www.2ality.com/2013/07/meta-style-guide.html)
 
 * [Google JavaScript Style Guide](https://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
