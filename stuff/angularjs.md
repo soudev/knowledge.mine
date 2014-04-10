@@ -435,6 +435,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   
 * [[GitHub] matthiasn / BirdWatch](https://github.com/matthiasn/BirdWatch) - Tweet stream analysis and visualization using AngularJS, Bootstrap, D3.js, ElasticSearch and Play Framework | [Blog post](http://matthiasnehlsen.com/blog/2013/08/13/birdwatch-angularjs-elasticsearch-play/)
 
+* [uFun](http://ufun.coderockr.com/) - é a maneira mais divertida de você encontrar e compartilhar seus sound memes favoritos
+
 --
 
 * [AngularFire](http://angularfire.com/) - A real-time backend for AngularJS from [Firebase](https://www.firebase.com/)
