@@ -155,6 +155,10 @@
 
 * [JSDares](http://www.jsdares.com/) - Experimental educational programming environment. Learn Javascript and create your own dares!
 
+--
+
+* [[GitHub] AlexNisnevich / untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game. Won first place at the Berkeley CSUA Spring 2013 Hackathon.
+
 
 ### OOP
 
