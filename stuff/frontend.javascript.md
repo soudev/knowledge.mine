@@ -423,6 +423,10 @@
 
 * [Getting input from the keyboard using JavaScript | ANTONOFF](http://www.antonoffplus.com/getting-input-from-the-keyboard-using-javascript/)
 
+--
+
+* [Convert XML to JSON with JavaScript | David Walsh](http://davidwalsh.name/convert-xml-json)
+
 
 ### Expressões Regulares
 
