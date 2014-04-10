@@ -1145,6 +1145,10 @@
 
 --
 
+* [[GitHub] Famous / famous](https://github.com/Famous/famous) -  provides a powerful JavaScript framework and developer tools designed to build rich, fast web applications.
+
+--
+
 * [[GitHub] mattbaker / Reactive.js](https://github.com/mattbaker/Reactive.js) - A library for programming reactively in Javascript.
 
   * [Ractive.js Expressions and the New Wave of Reactive Programming | Flippin' Awesome](http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/)
