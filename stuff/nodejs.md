@@ -39,6 +39,11 @@
     * [RaspberryPi](#raspberrypi)
 * [Abstract Syntax Tree](#abstract-syntax-tree)
 * [Dicas](#dicas)
+  * [portable code](#portable-code)
+  * [fake data](#fake-data)
+  * [command and shell](#command-and-shell)
+  * [process manager](#process-manager)
+  * [Produção](#produção)
   * [REST](#rest)
   * [Authentication](#authentication)
     * [WebID](#webid)
@@ -660,6 +665,8 @@
 
 * [[GitHub] keremc / nodevers](https://github.com/keremc/nodevers) - a Node.js version manager
 
+* [[GitHub] flesler / config-node](https://github.com/flesler/config-node) - Flexible lightweight configuration loader for Node
+
 --
 
 * [Atualizando o NodeJS no Linux | Igor Costa](http://www.igorcosta.com/atualizando-o-nodejs-linux/)
@@ -684,26 +691,6 @@
 
 --
 
-* [Node.js as a build script | Blog - Miller Medeiros](http://blog.millermedeiros.com/node-js-as-a-build-script/)
-
-* [Write your shell scripts in JavaScript, via Node.js | 2 ality](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
-
-* [[GitHub] arturadib / shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands for Node.js
-
-* [[GitHub] typicode / shoutjs](https://github.com/typicode/shoutjs) - Make your ShellJS commands explicit and get a beautiful output
-
---
-
-* [[Gist] Tips for Writing Portable Node.js Code](https://gist.github.com/domenic/2790533)
-
-* [Windows and Node: Writing Portable Code | DailyJS](http://dailyjs.com/2012/05/24/windows-and-node-4/)
-
-* [How to Write Portable Node.js Code | Node on Azure](http://nodeblog.azurewebsites.net/how-to-write-portable-nodejs-code)
-
-* [Writing cross-platform Node.js | Shape Shed](http://shapeshed.com/writing-cross-platform-node/) - a major strength of Node.js is great cross-platform support. With a little effort you can make sure your code will run on Windows, Linux and OSX.
-
---
-
 * [Real-time Engines in Node.js | StrongLoop](http://strongloop.com/strongblog/real-time-engines-in-node-js/)
 
 --
@@ -718,16 +705,6 @@
 
 --
 
-* [Production Node.js Secrets](http://dshaw.github.com/2012-05-jsday/)
-
-* Hardening Node.js for production [part 1](http://blog.argteam.com/coding/hardening-nodejs-production-process-supervisor/) | [part 2](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/) | [part 3](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
-
-* [Check out our new nodejs dev & production practices library for details on designing, deploying & debugging Node.js | Joyent](https://www.joyent.com/developers/node)
-
-* [Como configurar um servidor node.js para produção | morethings.io](http://morethings.io/javascript/node/como-configurar-um-servidor-nodejs-para-producao/)
-
---
-
 * [Testing Tuesday #20: Continuous Deployment for node.js applications | CodeShip Blog](http://blog.codeship.io/2013/08/27/testing-tuesday-20-continuous-deployment-for-node-js-applications.html)
 
 * [Nodejs Deployment: Building and Configuring on Amazon Linux AMI | Asaf Shakarchi](http://asaf.github.io/blog/2013/07/10/nodejs-deployment-building-and-configuring-on-amazon-linux-ami/)
@@ -738,21 +715,13 @@
 
 --
 
-* [Topic: Automatically restart your node.js server after code updates | StrongLoop](http://strongloop.com/node-republic-topics/automatically-restart-your-node-js-server-after-code-updates/)
-
-* [Comparison: Tools to Automate Restarting Node.js Server After Code Changes | StrongLoop](http://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/)
-
-* [[GitHub] mafintosh / respawn](https://github.com/mafintosh/respawn) - Spawn a process and restart it if it crashes
+* [[GitHub] yyx990803 / pod](https://github.com/yyx990803/pod) - Git push deploy for Node.js
 
 --
 
 * [[GitHub] mikefrey / node-pac](https://github.com/mikefrey/node-pac) - pack your node_modules as *.tgz files for version control and easy deploys (not tested on Windows yeat)
 
   * [Deploying Node.js apps without npm using pac | Coding in the Crease](http://www.codinginthecrease.com/news_article/show/307636)
-
---
-
-* [[GitHub] yyx990803 / pod](https://github.com/yyx990803/pod) - Git push deploy for Node.js
 
 --
 
@@ -768,29 +737,11 @@
 
 --
 
-* [[GitHub] Cron for NodeJS](https://github.com/ncb000gt/node-cron)
-
-* [[GitHub] shell-jobs: Cron replacement in NodeJS, made for humans](https://github.com/azer/shell-jobs)
-
-* [How to Write a Command Line Application in Node.js | Liang Zan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/)
-
-* [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
-
-* [Build Custom Shells with Node Shotgun | Code Tunnel](http://codetunnel.com/blog/post/build-custom-shells-with-node-shotgun)
-
-* [[GitHub] pstadler / flightplan](https://github.com/pstadler/flightplan) - Node.js library for streamlining application deployment or systems administration tasks.
-
---
-
 * [[GitHub] c9 / architect](https://github.com/c9/architect) - A simple yet powerful plugin system for large-scale node applications
 
 * [[GitHub] fth-ship / code-problems](https://github.com/fth-ship/code-problems) - Common code problems solved using JavaScript - add your own problems and solutions!
 
 --
-
-* [[GitHub] Unitech / pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
-
-  * [PM2 – mantendo o node.js no ar | iMasters](http://imasters.com.br/front-end/javascript/pm2-mantendo-o-node-js-no-ar/)
 
 * [[GitHub] coreybutler / node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.JS scripts (daemons, eventlog, UAC, etc)
 
@@ -856,20 +807,6 @@
 
 --
 
-* [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
-
-* [Testing Private State and Mocking Dependencies | How To Node - NodeJS](http://howtonode.org/testing-private-state-and-mocking-deps)
-
-* [[GitHub] boo1ean / casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
-
-* [[GitHub] infrared5 / madmin](https://github.com/infrared5/madmin) - admin console for generating mock services with RESTful URIs
-
-* [[GitHub] bustardcelly / caddis](https://github.com/bustardcelly/caddis) - On-The-Fly Mock JSON Server
-
-* [[GitHub] basicallydan / interfake](https://github.com/basicallydan/interfake) - Quickly create fake APIs for use in client-only tests or prototypes
-
---
-
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
 
 * [Nginx servindo Node.js | Underground WebDev](http://udgwebdev.com/nginx-servindo-nodejs)
@@ -893,6 +830,83 @@
   * [Using Node.js for Static Sites: Jade | StrongLoop](http://strongloop.com/strongblog/using-node-js-for-static-sites-jade/)
 
   * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
+
+
+### portable code
+
+* [[Gist] Tips for Writing Portable Node.js Code](https://gist.github.com/domenic/2790533)
+
+* [Windows and Node: Writing Portable Code | DailyJS](http://dailyjs.com/2012/05/24/windows-and-node-4/)
+
+* [How to Write Portable Node.js Code | Node on Azure](http://nodeblog.azurewebsites.net/how-to-write-portable-nodejs-code)
+
+* [Writing cross-platform Node.js | Shape Shed](http://shapeshed.com/writing-cross-platform-node/) - a major strength of Node.js is great cross-platform support. With a little effort you can make sure your code will run on Windows, Linux and OSX.
+
+
+### fake data
+
+* [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
+
+* [Testing Private State and Mocking Dependencies | How To Node - NodeJS](http://howtonode.org/testing-private-state-and-mocking-deps)
+
+* [[GitHub] boo1ean / casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
+
+* [[GitHub] infrared5 / madmin](https://github.com/infrared5/madmin) - admin console for generating mock services with RESTful URIs
+
+* [[GitHub] bustardcelly / caddis](https://github.com/bustardcelly/caddis) - On-The-Fly Mock JSON Server
+
+* [[GitHub] basicallydan / interfake](https://github.com/basicallydan/interfake) - Quickly create fake APIs for use in client-only tests or prototypes
+
+
+### command and shell
+
+* [Node.js as a build script | Blog - Miller Medeiros](http://blog.millermedeiros.com/node-js-as-a-build-script/)
+
+* [Write your shell scripts in JavaScript, via Node.js | 2 ality](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
+
+* [[GitHub] arturadib / shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands for Node.js
+
+* [[GitHub] typicode / shoutjs](https://github.com/typicode/shoutjs) - Make your ShellJS commands explicit and get a beautiful output
+
+--
+
+* [[GitHub] Cron for NodeJS](https://github.com/ncb000gt/node-cron)
+
+* [[GitHub] shell-jobs: Cron replacement in NodeJS, made for humans](https://github.com/azer/shell-jobs)
+
+* [How to Write a Command Line Application in Node.js | Liang Zan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/)
+
+* [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
+
+* [Build Custom Shells with Node Shotgun | Code Tunnel](http://codetunnel.com/blog/post/build-custom-shells-with-node-shotgun)
+
+* [[GitHub] pstadler / flightplan](https://github.com/pstadler/flightplan) - Node.js library for streamlining application deployment or systems administration tasks.
+
+
+### process manager
+
+* [Topic: Automatically restart your node.js server after code updates | StrongLoop](http://strongloop.com/node-republic-topics/automatically-restart-your-node-js-server-after-code-updates/)
+
+* [Comparison: Tools to Automate Restarting Node.js Server After Code Changes | StrongLoop](http://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/)
+
+* [[GitHub] mafintosh / respawn](https://github.com/mafintosh/respawn) - Spawn a process and restart it if it crashes
+
+* [[GitHub] oOthkOo / supervizer](https://github.com/oOthkOo/supervizer) - NodeJS fancy process manager
+
+* [[GitHub] Unitech / pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
+
+  * [PM2 – mantendo o node.js no ar | iMasters](http://imasters.com.br/front-end/javascript/pm2-mantendo-o-node-js-no-ar/)
+
+
+### Produção
+
+* [Production Node.js Secrets](http://dshaw.github.com/2012-05-jsday/)
+
+* Hardening Node.js for production [part 1](http://blog.argteam.com/coding/hardening-nodejs-production-process-supervisor/) | [part 2](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/) | [part 3](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
+
+* [Check out our new nodejs dev & production practices library for details on designing, deploying & debugging Node.js | Joyent](https://www.joyent.com/developers/node)
+
+* [Como configurar um servidor node.js para produção | morethings.io](http://morethings.io/javascript/node/como-configurar-um-servidor-nodejs-para-producao/)
 
 
 ### REST
