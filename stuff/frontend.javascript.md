@@ -316,11 +316,7 @@
 
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
 
-* [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
-
-* [promisejs.org](http://www.promisejs.org/) - Introducing the concept of Promises in JavaScript
-
-    * [AMD loader in 30 lines of code](http://curiosity-driven.org/amd-loader-with-promises)
+* [Asynchronous JavaScript Interfaces (Events, Generators, Promises, Streams)](http://medikoo.com/asynchronous-javascript-interfaces/?notes)
 
 * [JavaScript Promises: There and back again | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
@@ -329,6 +325,15 @@
 * [Handling concurrency and asynchronous JavaScript | Oliver.prototype.blog](http://oli.me.uk/2013/09/11/handling-concurrency-and-asynchronous-javascript/)
 
 * [Programação assíncrona com JavaScript | TDC2013 | InfoQ BR](http://www.infoq.com/br/presentations/programacao-assincrona-javascript) - Essa palestra trata de de algumas técnicas de programação assíncrona com JavaScript, principalmente com Callbacks, Futures e Promisses, e Functional Reactive Programming
+
+--
+
+* [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
+
+* [promisejs.org](http://www.promisejs.org/) - Introducing the concept of Promises in JavaScript
+
+  * [AMD loader in 30 lines of code](http://curiosity-driven.org/amd-loader-with-promises)
+
 
 --
 
@@ -560,6 +565,8 @@
 * [Browserify - Unix in the browser | thinking_on thinking](http://thinkingonthinking.com/unix-in-the-browser/)
 
 * [Quick Tip: Write Modular JavaScript With Browserify | Tutorialzine](http://tutorialzine.com/2014/02/writing-modular-javascript-browserify/)
+
+* [Speedy Browserifying with Multiple Bundles | Lincoln Loop](http://lincolnloop.com/blog/speedy-browserifying-multiple-bundles/)
 
 
 #### Require.js
@@ -896,6 +903,8 @@
 
 * [steganography.js](http://www.peter-eigenschink.at/projects/steganographyjs/) - Information Hiding done with JavaScript
 
+* [JavaScript Steganography : encoding secret messages in tweets or any text](http://holloway.co.nz/steg/)
+
 
 #### Gesture
 
@@ -963,6 +972,8 @@
 * [Yeoman](http://yeoman.io/) - is a  robust and opinionated set of tools, libraries, and a workflow that can  help developers quickly build beautiful, compelling web apps.
 
   * [Yeoman 1.0](http://yeoman.io/blog/hello-1.0.html)
+
+  * [Yeoman Codelab](http://yeoman.io/codelab.html) - tutorial
 
 * [Yeoman - Iniciando com Sr. Bigodes](http://www.randalmaia.com/post/49118899296/yeoman-iniciando-com-sr-bigodes)
 
