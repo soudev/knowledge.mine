@@ -26,7 +26,11 @@
 > 
 > As ferramentas de automatização/tarefas necessitam e executam sobre o Node.js
 
+* [[GitHub] vitorbritto / makefy](https://github.com/vitorbritto/makefy) - An easy way to automate build tasks with Makefile
+
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
+
+--
 
 * [flour](http://ricardo.cc/cake-flour/) - A ferramenta brasileira Flour consiste em um conjunto de ferramentas para projetos javascript com foco na objetividade para rodar tarefas comuns, como: compilação, minificação, validação e concatenação de arquivos.
 
@@ -53,6 +57,10 @@
 #### Gulp
 
 * [gulp.js](http://gulpjs.com) - the streaming build system
+
+* [gulp - The vision, history, and future of the project | Medium](https://medium.com/p/3828e8126466)
+
+--
 
 * [Gulp: O novo automatizador | Tableless](http://tableless.com.br/gulp-o-novo-automatizador/)
 
