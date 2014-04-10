@@ -1117,7 +1117,7 @@
 
 * [TodoMVC](http://addyosmani.github.com/todomvc/) - Helping you select an MV* framework
 
-    * [How Complex are TodoMVC Implementations | CoderStats Blog](http://blog.coderstats.net/todomvc-complexity/)
+  * [How Complex are TodoMVC Implementations | CoderStats Blog](http://blog.coderstats.net/todomvc-complexity/)
 
 * [Journey Through The JavaScript MVC Jungle | Smashing Coding](http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
 
@@ -1149,29 +1149,31 @@
 
 * [[GitHub] moot / riotjs](https://github.com/moot/riotjs/)
 
-    * [Riot.js — The 1kb client-side MVP framework](https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html)
+  * [Riot.js — The 1kb client-side MVP framework](https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html)
 
 --
 
 * [Ember.js](http://emberjs.com/)
 
-    * [An Ember.js beginners tutorial | WilliamHart.info](http://www.williamhart.info/an-emberjs-beginners-tutorial.html)
+  * [An Ember.js beginners tutorial | WilliamHart.info](http://www.williamhart.info/an-emberjs-beginners-tutorial.html)
 
-    * [An In-Depth Introduction To Ember.js | Smashing Coding](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+  * [An In-Depth Introduction To Ember.js | Smashing Coding](http://coding.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+
+  * [Querying for data in a full Javascript stack | 100PercentJS](http://www.100percentjs.com/querying-data-full-javascript-stack-2/)
 
 --
 
 * [Knockout.js](http://knockoutjs.com/)
 
-    * [KnockoutJS Tips and Tricks | Tech Pro](http://tech.pro/tutorial/1559/knockoutjs-tips-and-tricks)
+  * [KnockoutJS Tips and Tricks | Tech Pro](http://tech.pro/tutorial/1559/knockoutjs-tips-and-tricks)
 
-    * [Knockout.js Lesson 1 - Introduction | Tech Pro](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
+  * [Knockout.js Lesson 1 - Introduction | Tech Pro](http://tech.pro/tutorial/1562/knockoutjs-lesson-1-introduction)
 
 --
 
 * [Sammy.js](http://sammyjs.org/) - A Small Web Framework with Class / RESTFul Evented JavaScript
 
-    * Store: A Sammy.js Tutorial [Part I](http://sammyjs.org/docs/tutorials/json_store_1) | [Part II](http://sammyjs.org/docs/tutorials/json_store_2) | [[GitHub] quirkey / the_json_store](https://github.com/quirkey/the_json_store)
+  * Store: A Sammy.js Tutorial [Part I](http://sammyjs.org/docs/tutorials/json_store_1) | [Part II](http://sammyjs.org/docs/tutorials/json_store_2) | [[GitHub] quirkey / the_json_store](https://github.com/quirkey/the_json_store)
 
 
 ### ECMAScript 6
