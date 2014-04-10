@@ -74,6 +74,8 @@
 
 * [[GitHub] dhig / devlinks.co.uk](https://github.com/dhig/devlinks.co.uk) - A collection of links for getting things done
 
+* [[GitHub] ericdouglas / traduz-ai](https://github.com/ericdouglas/traduz-ai) - Lista de artigos traduzidos para língua portuguesa (br), facilitando a disseminação do conhecimento
+
 --
 
 * [HTML URL Encoding Reference | w3schools](http://www.w3schools.com/tags/ref_urlencode.asp)
