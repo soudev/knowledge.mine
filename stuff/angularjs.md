@@ -898,6 +898,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Hacking Core Directives in AngularJS | Brian Ford](http://briantford.com/blog/angular-hacking-core.html)
 
+  * [[GitHub] damienklinnert / angular-decorate](https://github.com/damienklinnert/angular-decorate) - Use AngularJS' decorate function with ease
+
 --
 
 * [Angle Brackets, Synergistic Directives | Pony Foo](http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
