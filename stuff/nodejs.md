@@ -1002,6 +1002,10 @@
 
 * [npm cheatsheet | Nodejitsu](https://blog.nodejitsu.com/npm-cheatsheet)
 
+* [[Gist] AvnerCohen / npm-cheat-sheet.md](https://gist.github.com/AvnerCohen/4051934) - Node.js - npm Cheat Sheet
+
+--
+
 * [10 Cool Things You Probably Didn't Realize npm Could Do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do)
 
 * [9 Quick Tips About npm | Pony Foo](http://blog.ponyfoo.com/2013/12/14/9-quick-tips-about-npm)
