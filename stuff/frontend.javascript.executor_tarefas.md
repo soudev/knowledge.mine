@@ -250,6 +250,10 @@
 
 --
 
+* [[GitHub] tjgq / grunt-throttle](https://github.com/tjgq/grunt-throttle) - Grunt task for simulating slow connections
+
+--
+
 * [[GitHub] ddprrt / connect-php](https://github.com/ddprrt/connect-php)
 
   * [The magic of grunt-contrib-connect, and how to run PHP with it | front-end technology talk](http://fettblog.eu/blog/2013/11/17/the-magic-of-grunt-contrib-connect-and-how-to-run-php-with-it/)
