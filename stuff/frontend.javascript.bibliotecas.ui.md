@@ -287,9 +287,13 @@
 
 ##### bl.ocks.org
 
+* [bl.ocksplorer.org](http://bl.ocksplorer.org/) - a tool created for browsing D3.js blocks
+
 * [D3 Based Force Directed Radial Graph](http://bl.ocks.org/Guerino1/2879486)
 
 * [Animated Line Graphs / Sparklines using SVG Path and D3.js](http://bl.ocks.org/benjchristensen/1148374)
+
+* [Fourier series visualisation with d3.js](http://bl.ocks.org/jinroh/7524988)
 
 
 ##### D3.js Wiki
