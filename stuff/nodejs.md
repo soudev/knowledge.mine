@@ -472,6 +472,13 @@
 
 --
 
+* [Nodemailer](http://www.nodemailer.com/) - is an easy to use module to send e-mails with Node.JS (using SMTP or sendmail or Amazon SES or even your own method) and is unicode friendly - You can use any characters you like
+
+  * [[GitHub] andris9 / Nodemailer](https://github.com/andris9/Nodemailer) - Send e-mails with Node.JS - easy as cake!
+
+
+--
+
 * [[GitHub] topcloud / cachemere](https://github.com/topcloud/cachemere) - A nice, smooth, cushiony layer of cache
 
 --
@@ -973,6 +980,8 @@
 
 * [NPM Node Package Manager | Underground WebDev](http://udgwebdev.com/npm-node-package-manager/)
 
+* [[Vimeo] Eric Elliott - Modular JavaScript With npm and Node Modules](http://vimeo.com/89258863) - An introductory look at programming with Node style modules
+
 
 ### url rewrite proxy
 
@@ -1153,6 +1162,11 @@
 
 #### Pessoal
 
+* [BipIO](https://bip.io/) - gives you the power to rapidly create workflows with the cloud components you already love, no programming required.
+
+  * [[GitHub] bipio-server / bipio](https://github.com/bipio-server/bipio) - The BipIO API Server
+
+
 * [Cozy](http://cozy.io/) - a personal Cloud you can host, hack and delete Your web apps and your data on your hardware
 
   * [[GitHub] mycozycloud / cozy-setup](https://github.com/mycozycloud/cozy-setup)
@@ -1242,6 +1256,8 @@
 --
 
 * [[GitHub] wookiecooking / nwfaketop](https://github.com/wookiecooking/nwfaketop) - A GruntJS Compiler for Node-webkit Applications (OSX Based)
+
+* [[GitHub] slate / slate](https://github.com/slate/slate) - modern IRC client built with web technologies and Node.js
 
 * [[GitHub] FWeinb / screenshot-service](https://github.com/FWeinb/screenshot-service) - A simple screenshot web service powered by Express and node-webkit.
 
