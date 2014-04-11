@@ -554,7 +554,9 @@
   * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
 
 
-* [Hexo - Node.js blog framework](http://zespia.tw/hexo/) - A fast, simple & powerful blog framework, powered by Node.js
+* [[GitHub] tommy351 / hexo](https://github.com/tommy351/hexo)
+
+  * [Hexo - Node.js blog framework](http://hexo.io/) - A fast, simple & powerful blog framework, powered by Node.js
 
 
 * [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
@@ -902,11 +904,17 @@
 
 * [Production Node.js Secrets](http://dshaw.github.com/2012-05-jsday/)
 
+* [Running Node.js apps in production | Frederic Hemberger](http://fhemberger.github.io/talks/nodejs-in-production/)
+
+  * [Resources: Running Node.js apps in production](https://github.com/fhemberger/talks/tree/master/nodejs-in-production)
+
 * Hardening Node.js for production [part 1](http://blog.argteam.com/coding/hardening-nodejs-production-process-supervisor/) | [part 2](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/) | [part 3](http://blog.argteam.com/coding/hardening-node-js-for-production-part-3-zero-downtime-deployments-with-nginx/)
 
 * [Check out our new nodejs dev & production practices library for details on designing, deploying & debugging Node.js | Joyent](https://www.joyent.com/developers/node)
 
 * [Como configurar um servidor node.js para produção | morethings.io](http://morethings.io/javascript/node/como-configurar-um-servidor-nodejs-para-producao/)
+
+* [Scaling Node.js Applications | Colin J. Ihrig's Blog](http://cjihrig.com/blog/scaling-node-js-applications/)
 
 
 ### REST
@@ -1003,6 +1011,8 @@
 * [[GitHub] floatdrop / chnpm](https://github.com/floatdrop/chnpm) - npm configuration switcher
 
 --
+
+* [Relato](http://bripkens.github.io/relato/) - NPM Project Statistics
 
 * [npm Visualization | YASIV](http://www.yasiv.com/npm) | Sample: [Grunt npm dep](http://www.yasiv.com/npm#view/grunt)
 
