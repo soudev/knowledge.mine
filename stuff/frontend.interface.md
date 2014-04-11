@@ -21,9 +21,13 @@
 
 * [target='_blank' vs. target='_new'](http://www.russellheimlich.com/blog/target_blank-vs-target_new/)
 
-* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/) - Passo-a-passo para aprender como funciona de verdade o esquema de layouts de CSS, especialmente útil para quem está começando.
+* [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/) - Passo-a-passo para aprender como funciona de verdade o esquema de layouts de CSS, especialmente útil para quem está começando
 
 * [[GitHub] gdipgh / html-and-css-for-beginners](https://github.com/gdipgh/html-and-css-for-beginners) - Course materials for the HTML & CSS for Beginners class
+
+* [WTF, HTML and CSS?](http://mdo.github.io/wtf-html-css/) - Reasons HTML and CSS might make you say what the fuck. A curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas.
+
+* [Code Guide](http://codeguide.co/) | [pt-Br](http://diegoeis.github.io/code-guide/) - Standards for developing flexible, durable, and sustainable HTML and CSS
 
 * [Dicas de sobrevivência em uma era pós o IE6 | Tableless](http://tableless.com.br/dicas-de-sobrevivencia-ie6/)
 
