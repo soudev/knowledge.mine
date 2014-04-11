@@ -91,6 +91,8 @@
 
 * [Redis Clients](http://redis.io/clients)
 
+* [Redis Desktop Manager](http://redisdesktop.com/) - Open source GUI management tool for Redis
+
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/)
 
 * [Redis Weekly](https://redsmin.com/redisweekly/) - A free, once–weekly e-mail round-up of Redis news, articles, tools and libraries
