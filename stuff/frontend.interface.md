@@ -76,6 +76,8 @@
 
 * [A Detailed Introduction To Custom Elements | Smashing Coding](http://coding.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/)
 
+* [Getting Started with Web Components | Tech.Pro](http://tech.pro/blog/1940/getting-started-with-web-components)
+
 --
 
 * [WebComponents.org](http://webcomponents.github.io/) - The web platform specs that will change the way you build apps
