@@ -249,6 +249,8 @@
 
 * [Top 5 syntactic weirdnesses to be aware of in MongoDB | Slava Kim](http://devblog.me/wtf-mongo)
 
+* [[reddit] Find MongoDB Articles and News on the MongoDB Subreddit](http://www.reddit.com/r/mongodb/)
+
 --
 
 * [MongoDB Quick Start - Replica Sets and Sharding](http://alexyu.se/content/2012/04/mongodb-quick-start-replica-sets-and-sharding)
