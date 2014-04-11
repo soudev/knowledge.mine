@@ -190,6 +190,12 @@
 
 --
 
+* [MicIO](http://colinbookman.com/2014/03/23/micio/) – HTML5 to MicroController Communication through a headphone jack
+
+  * [[GitHub] cobookman / HTML5.MicIO](https://github.com/cobookman/HTML5.MicIO)
+
+--
+
 * [How to prefetch video/audio files for uninterrupted playback in HTML5 video/audio | Thundering Herd](http://blog.pearce.org.nz/2014/02/how-to-prefetch-videoaudio-files-for.html)
 
 * [Capturing Audio & Video in HTML5 - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
