@@ -543,9 +543,10 @@
 
 * [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
+
 * [[GitHub] umdjs / umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere
 
-    * [[GitHub] alexlawrence / grunt-umd](https://github.com/alexlawrence/grunt-umd) - Surrounds code with the universal module definition
+  * [[GitHub] alexlawrence / grunt-umd](https://github.com/alexlawrence/grunt-umd) - Surrounds code with the universal module definition
 
 
 * [Mantri](http://mantrijs.com/) - JavaScript Dependency System
@@ -553,7 +554,9 @@
 
 * [[GitHub] jspm / jspm-loader](https://github.com/jspm/jspm-loader) - AMD, CJS & ES6 spec-compliant module loader
 
-    * [jspm.io](http://jspm.io/) - Frictionless Browser Package Management
+  * [jspm.io](http://jspm.io/) - Frictionless Browser Package Management
+
+* [BoxJS](http://boxjs.com/) - A simple package management service
 
 
 #### Browserify
