@@ -28,6 +28,8 @@
 
 --
 
+* [Projetando Aplicativos como se Projetam Prédios | UX.BLOG](http://www.uxdesign.blog.br/user-experience/review-da-palestra-projetando-aplicativos-como-se-projetam-predios/)
+
 * [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
 
 * [O que é DevOps afinal? | gutocarvalho.net](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
