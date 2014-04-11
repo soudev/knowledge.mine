@@ -788,6 +788,8 @@
 
 * [Squel.js](http://hiddentao.github.io/squel/) - lightweight Javascript library for building SQL query strings.
 
+* [[GitHub] goodybag / mongo-sql](https://github.com/goodybag/mongo-sql) - An extensible SQL generation library for JavaScript with a focus on introspectibility
+
 * [Formbuilder.js | dobtco](http://dobtco.github.io/formbuilder/)
 
 --
