@@ -11,15 +11,25 @@
 
 * [JSFiddle](http://jsfiddle.net/) - online editor for snippets build from HTML, CSS and JavaScript. [JsFiddle docs](http://doc.jsfiddle.net/) | [JsFiddle Tips And Tricks](http://a.shinynew.me/post/15183119139/jsfiddle-tips-and-tricks) | [JsFiddle GitHub Projects](https://github.com/jsfiddle)
 
-* [bl.ocks.org](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on [GitHub Gist](https://gist.github.com/). Code up an example using Gist, and then point people here to view the example and the source code, live!
-
 * [RequireBin](http://requirebin.com/) - Shareable JavaScript programs using modules from NPM
 
 * [Plunker](http://plnkr.co/) - is an online community for creating, collaborating on and sharing your web development ideas.
 
+* [Liveweave](http://liveweave.com/) - little online JavaScript editor, supports HTML5 & CSS3 at the same time, like most of these editors! :) It’s similar to JSFiddle, probably boasts a little bit less libraries, but has a little bit more broad GUI, and also a button that can enable and disable live editing
+
+--
+
+* [bl.ocks.org](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on [GitHub Gist](https://gist.github.com/). Code up an example using Gist, and then point people here to view the example and the source code, live!
+
+--
+
 * [Nitrous.io](https://www.nitrous.io/) - cloud IDE supporting Ruby, Python, Go, NodeJS
 
 * [Codio](https://codio.com/) - is a powerful cloud and browser based IDE that covers the complete web development cycle; from prototype to deployment
+
+--
+
+* [Code Beautify](http://www.codebeautify.org/) - It’s not a direct JavaScript editor, but it does serve a great purpose, and combined with any of the tools mentioned in the list, it can also be quite powerful. It’s a code beautifier, which will take your piece of code and allow you to minify it, beautify, make it a tree view, etc,. etc,. It’s different for each type.
 
 
 ### Eclipse Orion
