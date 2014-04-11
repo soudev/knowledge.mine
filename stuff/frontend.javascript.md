@@ -685,7 +685,7 @@
 
 * [[GitHub] baconjs / bacon.js](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for Javascript
 
-    * [Functional Reactive Programming in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/)
+  * [Functional Reactive Programming in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/09/30/functional-reactive-programming-in-javascript/)
 
 --
 
@@ -734,6 +734,10 @@
 * [[GitHub] medialize / URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 
 * [[GitHub] loadfive / Knwl.js](https://github.com/loadfive/knwl.js) - Scan through text for data that may be of interest
+
+--
+
+* [[GitHub] flesler / hashmap](https://github.com/flesler/hashmap) - HashMap JavaScript class for NodeJS and the browser. The keys can be anything and won't be stringified
 
 --
 
