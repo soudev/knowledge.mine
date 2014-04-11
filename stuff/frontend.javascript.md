@@ -1058,6 +1058,10 @@
 
 --
 
+* [Chrome Dev Tools Theming with Zero Base Themes | Simon Owen](http://simonowendesign.co.uk/blog/2014/03/12/chrome-dev-tools-theming-with-zero-base-themes/)
+
+--
+
 * [DevTools Snippets](http://bgrins.github.io/devtools-snippets/) - A collection of helpful snippets to use inside of browser devtools
 
 * [JSHint for Chrome Dev Tools](http://mrpotes.github.io/jshint-extension/)
@@ -1177,6 +1181,10 @@
 
 --
 
+* [BladeRunnerJS](http://bladerunnerjs.org/) - (BRJS) is an open source development toolkit and framework for modular construction of large single-page HTML5 apps. It consists of a set of conventions, supporting tools and micro-libraries that make it easy to develop, test, deploy and maintain complex JavaScript apps.
+
+--
+
 * [[GitHub] mattbaker / Reactive.js](https://github.com/mattbaker/Reactive.js) - A library for programming reactively in Javascript.
 
   * [Ractive.js Expressions and the New Wave of Reactive Programming | Flippin' Awesome](http://flippinawesome.org/2013/08/19/ractive-js-expressions-and-the-new-wave-of-reactive-programming/)
@@ -1190,6 +1198,8 @@
 --
 
 * [Ember.js](http://emberjs.com/)
+
+  * [Ember Inspector | Google Chrome Developer Tool](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
 
   * [An Ember.js beginners tutorial | WilliamHart.info](http://www.williamhart.info/an-emberjs-beginners-tutorial.html)
 
