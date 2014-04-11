@@ -319,6 +319,8 @@
 
   * [[GitHub] Diogenesthecynic / FullScreenMario](https://github.com/Diogenesthecynic/FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
 
+* [[GitHub] infusion / HTML5-Tetris](https://github.com/infusion/HTML5-Tetris) - A HTML5 Tetris Implementation
+
 * [[GitHub] ellisonleao / clumsy-bird](https://github.com/ellisonleao/clumsy-bird) - A MelonJS port of the famous Flappy Bird Game
 
 * [The JavaScript Warrior](http://jswarrior.fusioncharts.com/) - Welcome to the JSWarrior Game. Unlike traditional games, you can't control your character through a keyboard or joystick. The only way you can control your character is through JavaScript.
