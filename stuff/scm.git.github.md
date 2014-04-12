@@ -72,6 +72,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
   * [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 
+  * [Projects that power GitHub](https://github.com/showcases/projects-that-power-github)
 
 ## Aprendizado
 
