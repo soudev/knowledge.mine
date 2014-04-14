@@ -36,6 +36,8 @@
 
   * [MySQL Workbench](https://www.mysql.com/products/workbench/)
 
+  * [[GitHub] calvinlough / sqlbuddy](https://github.com/calvinlough/sqlbuddy) - is a phpMyAdmin alternative with a focus on usability
+
   * [MySQL Joins | Browse Tutorials](http://browse-tutorials.com/tutorial/mysql-joins) - Full guide for MySQL joins
 
 * [Oracle Berkeley DB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.htm)
