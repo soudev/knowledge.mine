@@ -220,6 +220,7 @@
 
 * [Can You Count on Node? - Blog - Joyent](http://joyent.com/blog/can-you-count-on-node)
 
+--
 
 * [Geekli.st](https://geekli.st/erkobridee/invite/196DA487FB) - rede social construída com Node.js | [Sobre a Geekli.st e tecnologias utilizadas](https://geekli.st/about)
 
@@ -232,6 +233,8 @@
 * [Getting Physical: Networked Hardware with Node.js | InfoQ](http://www.infoq.com/presentations/Hardware-Nodejs-WiFi-XBee) - Ted Hayes discusses WiFi, XBee and their associated network topologies, and demoes controlling a networked pong game with a physical joystick using Node.js.
 
 * [Utilizando Node.js para automação de build e deploy no dell.com | BrazilJS 2013](http://bitbonsai.com/braziljs2013/)
+
+* [[YouTube] The Business Case for Node](https://www.youtube.com/watch?v=bqLXjNbMZpY)
 
 * [Node.js at PayPal | PayPal Engineering Blog](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 
