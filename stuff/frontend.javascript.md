@@ -330,6 +330,8 @@
 
 * [Programação assíncrona com JavaScript | TDC2013 | InfoQ BR](http://www.infoq.com/br/presentations/programacao-assincrona-javascript) - Essa palestra trata de de algumas técnicas de programação assíncrona com JavaScript, principalmente com Callbacks, Futures e Promisses, e Functional Reactive Programming
 
+* [Write Better JavaScript with Promises | David Walsh](http://davidwalsh.name/write-javascript-promises)
+
 --
 
 * [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
