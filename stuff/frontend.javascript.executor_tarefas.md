@@ -70,6 +70,8 @@
 
 * [Getting started with gulp | Mark Goodyear](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
 
+* [Quick intro to Gulp.js | Code Fellows](http://www.codefellows.org/blogs/quick-intro-to-gulp-js)
+
 * [My First Gulp Adventure | Pony Foo](http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure)
 
 * [Writing Tasks in Gulp.js | pixeldonor](http://www.pixeldonor.com/2014/feb/20/writing-tasks-gulpjs/)
