@@ -8,6 +8,8 @@
 
 * [Atomic Design como funciona | Front End Brasil](http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)
 
+* [[SlideShare] Atomic design](http://www.slideshare.net/bradfrostweb/atomic-design)
+
 --
 
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
