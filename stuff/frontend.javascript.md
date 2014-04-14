@@ -9,6 +9,7 @@
   * [Expressões Regulares](#expressões-regulares)
     * [Expressões Regulares: Ferramentas online](#expressões-regulares-ferramentas-online)
   * [Performance](#performance)
+    * [Ordenação](#ordenação)
   * [Sistema de Dependências e Módulos](#sistema-de-dependências-e-módulos)
     * [Browserify](#browserify)
     * [Require.js](#requirejs)
@@ -486,6 +487,8 @@
 
 * [Native Speed on the Web: JavaScript and asm.js | Alon Zakai](http://kripken.github.io/mloc_emscripten_talk/sloop.html)
 
+* [Fast C++ on the Web using Emscripten and asm.js | Alon Zakai](http://kripken.github.io/mloc_emscripten_talk/gindex.html)
+
 --
 
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
@@ -539,6 +542,11 @@
 * [Qual a dose certa de JavaScript | Tableless](http://tableless.com.br/qual-dose-certa-de-javascript/) - Um pouco de JavaScript não obstrusivo e quais as estratégias para garantir uma boa performance e acessibilidade em aplicações ricas.
 
 * [The seven rules of unobtrusive JavaScript | Dev.Opera](http://dev.opera.com/articles/view/the-seven-rules-of-unobtrusive-javascrip/)
+
+
+#### Ordenação
+
+* [Sorting Algorithm Visualization | Thinking in Crowd](http://www.thinkingincrowd.me/algorithm/)
 
 
 ### Sistema de Dependências e Módulos
@@ -727,6 +735,8 @@
 * [Como imprimir com Javascript | nomadev](http://nomadev.com.br/como-imprimir-com-javascript/)
 
 --
+
+* [[GitHub] jDataView / jBinary](https://github.com/jDataView/jBinary) - High-level I/O for binary data. jBinary makes it easy to work with binary files in JavaScript as with native objects via declarative syntax.
 
 * [zip.js](http://gildas-lormeau.github.io/zip.js/) - A JavaScript library to zip and unzip files
 
@@ -1036,6 +1046,7 @@
 ##### Google Chrome
 
 * [Discover DevTools | Code School](http://www.codeschool.com/courses/discover-devtools) - Sharpen your dev process with Chrome DevTools
+
 --
 
 * [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
