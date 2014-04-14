@@ -743,6 +743,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [AngularJS - Part 12, Multi language support | Gabriel Schenker's Blog]()
 
+* [[YouTube] Kod.io 2014 - AngularJS and i18n by Pascal Precht](https://www.youtube.com/watch?v=C7xqaExvaQ4)
+
 
 ### Escopo e informações
 
@@ -1074,6 +1076,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] mgonto / restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
 
 * [[GitHub] jeffbcross / syncResource](https://github.com/jeffbcross/syncResource) - OmniBinder - One binder to bind AngularJS models to everything [Status: Experimental, In-Development : 17/09/2013] 
+
+* [[GitHub] chinmaymk / angular-cog](https://github.com/chinmaymk/angular-cog) - declarative ajax requests for angularjs
 
 --
 
