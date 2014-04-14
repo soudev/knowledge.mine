@@ -436,6 +436,8 @@
 
 * [How to run Node.js on the JVM with Avatar.js and LoopBack | StrongLoop](http://strongloop.com/strongblog/how-to-run-node-js-on-the-jvm-with-avatar-js-and-loopback/)
 
+* [Nashorn: The New Rhino on the Block](http://ariya.ofilabs.com/2014/03/nashorn-the-new-rhino-on-the-block.html)
+
 * [Running Node.js applications on the JVM with Nashorn and Java 8 | CLOSED-LOOP](http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html)
 
 
@@ -586,9 +588,11 @@
 
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
 
+
 #### Lego Mindstorms
 
 * [Hacking Lego Mindstorms EV3 with JavaScript](http://andrew.ghost.io/hacking-lego-mindstorms-ev3-with-javascript/)
+
 
 #### Tessel
 
@@ -600,11 +604,13 @@
 
 * [[SlideShare] Tessel: The End of Web Development (as we know it)](http://www.slideshare.net/TechnicalMachine/tessel-the-end-of-web-development-as-we-know-it)
 
+
 #### Espruino
 
 * [Espruino](http://www.espruino.com/) - A JavaScript interpreter for Microcontrollers
 
 * [Espruino quer usar Javascript para controlar sua casa | Info](http://info.abril.com.br/noticias/blogs/zonalivre/hardware/espruino-quer-usar-javascript-para-controlar-sua-casa/)
+
 
 #### Arduino
 
@@ -613,6 +619,9 @@
 * [[GitHub] ecto / duino](https://github.com/ecto/duino) - Arduino framework for node.js
 
 * [Noduino](http://semu.github.io/noduino/) - Control Arduino with Node.js, WebSockets and HTML5
+
+* [Arduino and NodeJS Communication With Serial Ports | Danial Khosravi's Blog](http://danialk.github.io/blog/2014/04/12/arduino-and-nodejs-communication-with-serial-ports/)
+
 
 #### RaspberryPi
 
@@ -1131,6 +1140,18 @@
 
 --
 
+* CouchDB
+
+  * [Node.js CouchDB Tutorial: Using Nano, Express Modules, Examples, CRUD Operations | TutorialIndustry.com](http://www.tutorialindustry.com/node-js-couchdb-tutorial-for-beginners)
+
+  * [A Simple Blog with CouchDB, Bogart, and Node.js | How To Node](http://howtonode.org/bogart-couchdb)
+
+  * [Thoughts on development using CouchDB with Node.js | Tim Branyen](http://tbranyen.com/post/thoughts-on-development-using-couchdb-with-nodejs)
+
+  * [[GitHub] chris-l / mock-couch](https://github.com/chris-l/mock-couch) - A node.js module designed to mock a couchdb database, mostly for unit testing purposes
+
+--
+
 * [LevelDB and Node.js Sitting in a Tree](http://r.va.gg/presentations/node.ninjas)
 
 --
@@ -1147,6 +1168,8 @@
 --
 
 * [How to create a Docker + Node.js + MongoDB + Varnish environment | Luis Elizondo](http://luiselizondo.net/blogs/luis-elizondo/how-create-docker-nodejs-mongodb-varnish-environment)
+
+* [Getting Started with Docker for the Node.js | CouchDB Programmer - Medium](https://medium.com/code-adventures/35c45ce2a814)
 
 --
 
