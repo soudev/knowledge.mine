@@ -106,6 +106,8 @@
 
 ### Fundos de Investimento
 
+* [Fundos Imobiliários | BM&F BOVESPA](http://www.bmfbovespa.com.br/fundos-listados/fundoslistados.aspx?Idioma=pt-br&tipoFundo=imobiliario)
+
 * [[YouTube] Conheça melhor os Fundos de Investimento](https://www.youtube.com/watch?v=Q_DBkSGbbEM)
 
 * [[YouTube] Fundo Imobiliário](https://www.youtube.com/watch?v=sSn5q6FlkXk)
@@ -122,3 +124,5 @@
 ## Shopping Financeiro
 
 * [XP Investimentos](http://www.xpi.com.br/) | [Canal no YouTube](https://www.youtube.com/user/canalXPTV?feature=watch)
+
+  * [Custos Operacionais](http://www.xpi.com.br/opere/custos-operacionais.aspx)
