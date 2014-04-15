@@ -36,8 +36,12 @@
 
 * [[YouTube] Linha D'água](https://www.youtube.com/watch?v=L3TBuvsnyHs) - o que é CDI e SELIC? 
 
+* [[YouTube] XP Investimentos: O Poder dos Juros Nos Seus Investimentos](https://www.youtube.com/watch?v=HgebtNs9gVk)
+
 
 ### Ações
+
+* [[YouTube] XP Investimentos: Quanto devo investir em ações?](https://www.youtube.com/watch?v=BkzLS-v3eSs)
 
 * [[YouTube] Porque Investir em Ações!](https://www.youtube.com/watch?v=73le2DEWPO0)
 
@@ -81,6 +85,8 @@
 * [[YouTube] Fundo Imobiliário](https://www.youtube.com/watch?v=sSn5q6FlkXk)
 
 * [[YouTube] Investir em imóveis com pouco dinheiro? Fundos Imobiliários!](https://www.youtube.com/watch?v=xNmFmuekg6U)
+
+* [[YouTube] XP Investimentos: Fundos Imobiliarios](https://www.youtube.com/watch?v=x_ucoMtb9ys)
 
 * [[YouTube] Aprenda a investir em Fundos Imobiliários](https://www.youtube.com/watch?v=4SLHC1FPJ0o)
 
