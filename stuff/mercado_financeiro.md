@@ -6,6 +6,7 @@
 * [Informações gerais](#informações-gerais)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Ações](#ações)
+    * [Dividendos](#dividendos)
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
   * [Fundos de Investimento](#fundos-de-investimento)
@@ -62,6 +63,11 @@
 * [[YouTube] A Matemática do Mercado de Ações](https://www.youtube.com/watch?v=ronNCoyFr-Q) - procurar limitar as perdas, saber a hora de parar e saír 
  
 * [[YouTube] Custódia remunerada](https://www.youtube.com/watch?v=KeJOr7bs3-4#at=29)
+
+
+#### Dividendos
+
+* [[YouTube] Desmistificando os Dividendos](https://www.youtube.com/watch?v=7-xpfEKjCak)
 
 * [[YouTube] XP Investimentos: Carteira de Dividendos](https://www.youtube.com/watch?v=exMZsSPeU44)
 
