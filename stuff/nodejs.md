@@ -10,7 +10,7 @@
 * [Projetos Interessantes](#projetos-interessantes)
   * [Desenvolvimento](#desenvolvimento)
     * [Configuração do Ambiente](#configuração-do-ambiente)
-      * [dotFiles - Mac OS X config](#dotfiles-mac-os-x-config)
+      * [dotFiles: Mac OS X config](#dotfiles-mac-os-x-config)
     * [Exemplos](#exemplos)
       * [Boilerplate](#boilerplate)
   * [Análise de Código](#análise-de-código)
@@ -304,7 +304,7 @@
 
 * [[GitHub] feross / hostile](https://github.com/feross/hostile) - Simple, programmatic `/etc/hosts` manipulation (in node.js)
 
-##### dotFiles - Mac OS X config
+##### dotFiles: Mac OS X config
 
 * [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
 
