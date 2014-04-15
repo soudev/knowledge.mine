@@ -125,8 +125,22 @@
 
 * [Docker and MongoDB Sharded Cluster | Sebastian Voss](http://sebastianvoss.com/docker-mongodb-sharded-cluster.html)
 
+* Mac OS X
+
+  * [How To Install Docker On Mac OS X | docker](http://docs.docker.io/en/latest/installation/mac/)
+
+  * [Lightweight Docker experience on OSX | zaiste.net](http://zaiste.net/2014/02/lightweight_docker_experience_on_osx/)
+
+  * [Upgrade docker and boot2docker on OSX | Java Bien!](http://blog.javabien.net/2014/03/17/upgrade-docker-and-boot2docker-on-osx/)
+
 
 ### Soluções
+
+* [[GitHub] boot2docker / boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
+
+  * [[Vagrant Cloud] yungsang / boot2docker](https://vagrantcloud.com/yungsang/boot2docker)
+
+* [Project Atomic](http://www.projectatomic.io/) - Sponsored by Red Hat, Inc. Deploy and Manage Your Docker Containers.
 
 * [[GitHub] progrium / dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
 
