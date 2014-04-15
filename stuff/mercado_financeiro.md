@@ -67,11 +67,17 @@
 
 #### Dividendos
 
+* [[YouTube] O que são dividendos?](https://www.youtube.com/watch?v=LDkHLE2ZnCg)
+
+* [[YouTube] Direito do acionista, o que são dividendos e muito mais!](https://www.youtube.com/watch?v=SuPThG72PtQ)
+
 * [[YouTube] Desmistificando os Dividendos](https://www.youtube.com/watch?v=7-xpfEKjCak)
+
+* [[YouTube] O que são dividendos? Que empresas pagam bons dividendos? - TV Dinheirama](https://www.youtube.com/watch?v=RDgRRdryNZ0)
 
 * [[YouTube] XP Investimentos: Carteira de Dividendos](https://www.youtube.com/watch?v=exMZsSPeU44)
 
-* [[YouTube] O que são dividendos? Que empresas pagam bons dividendos? - TV Dinheirama](https://www.youtube.com/watch?v=RDgRRdryNZ0)
+* [[YouTube] Sua aposentadoria em ações: monte sua carteira de dividendos](https://www.youtube.com/watch?v=GYhFh4I9Q5c)
 
 
 ### Renda Fixa
