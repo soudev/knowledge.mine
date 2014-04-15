@@ -34,6 +34,8 @@
 
 * [[YouTube] Você quer ser um Milionário?](https://www.youtube.com/watch?v=FTVA0u0MZzU) - Não existe milágre, o segredo é guardar dinheiro e o tempo que se guarda o dinheiro. Seguir a regra dos 3Gs - [Ganho / Guardo (sempre antes de gastar) / Gasto] e pensar se um gasto agora é realmente importante.
 
+* [[YouTube] Eu Quero Ser Rico](https://www.youtube.com/watch?v=IpknUNK3jqw) - Riqueza = (Ganhos - Gastos) * Juros [compostos] :: procurar poupar no mínimo 20% do que se ganha e investir
+
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
 
 * ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
