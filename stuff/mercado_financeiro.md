@@ -15,13 +15,17 @@
 
 ## Informações gerais
 
+* [[YouTube] XP Investimentos: Como Montar o Orçamento Doméstico?](https://www.youtube.com/watch?v=itqLOX3hQlA)
+
 * [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
+
+* [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
+
+--
 
 * [[YouTube] Pai Rico Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
 
 * [[YouTube] Resumo: O Homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
-
-* [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
 
 * [[YouTube] Você quer ser um Milionário?](https://www.youtube.com/watch?v=FTVA0u0MZzU) - Não existe milágre, o segredo é guardar dinheiro e o tempo que se guarda o dinheiro. Seguir a regra dos 3Gs - [Ganho / Guardo (sempre antes de gastar) / Gasto] e pensar se um gasto agora é realmente importante.
 
