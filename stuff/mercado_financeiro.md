@@ -2,6 +2,7 @@
 
 
 <!-- toc -->
+* [Educação Financeira](#educação-financeira)
 * [Informações gerais](#informações-gerais)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Ações](#ações)
@@ -13,15 +14,18 @@
 <!-- toc stop -->
 
 
-## Informações gerais
+## Educação Financeira
 
 * [[YouTube] XP Investimentos: Como Montar o Orçamento Doméstico?](https://www.youtube.com/watch?v=itqLOX3hQlA)
 
+* [[YouTube] XP Investimentos: Como se Planejar Financeiramente?](https://www.youtube.com/watch?v=3Sucd6VrbtU)
+
+* [[YouTube] XP Investimentos: Aprenda a Investir seu Dinheiro](https://www.youtube.com/watch?v=0R9IWnQnn0Q)
+
 * [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
 
-* [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
 
---
+## Informações gerais
 
 * [[YouTube] Pai Rico Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
 
@@ -35,6 +39,8 @@
 
 
 ## Informações úteis sobre investimentos
+
+* [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
 
 * [[YouTube] Como investir seu dinheiro (REGRA DOS 100)](https://www.youtube.com/watch?v=nuz_1q2gD2Q)
 
@@ -58,6 +64,8 @@
 * [[YouTube] Custódia remunerada](https://www.youtube.com/watch?v=KeJOr7bs3-4#at=29)
 
 * [[YouTube] XP Investimentos: Carteira de Dividendos](https://www.youtube.com/watch?v=exMZsSPeU44)
+
+* [[YouTube] O que são dividendos? Que empresas pagam bons dividendos? - TV Dinheirama](https://www.youtube.com/watch?v=RDgRRdryNZ0)
 
 
 ### Renda Fixa
