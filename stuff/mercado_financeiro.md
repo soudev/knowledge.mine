@@ -49,6 +49,8 @@
  
 * [[YouTube] Custódia remunerada](https://www.youtube.com/watch?v=KeJOr7bs3-4#at=29)
 
+* [[YouTube] XP Investimentos: Carteira de Dividendos](https://www.youtube.com/watch?v=exMZsSPeU44)
+
 
 ### Renda Fixa
 
