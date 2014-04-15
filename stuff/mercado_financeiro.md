@@ -60,6 +60,8 @@
 
 * [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
 
+* [[YouTube] Bastter: Poupando e Investindo Valores Pequenos](https://www.youtube.com/watch?v=4AXJd_V3JdU)
+
 * [[YouTube] Como investir seu dinheiro (REGRA DOS 100)](https://www.youtube.com/watch?v=nuz_1q2gD2Q)
 
 * [[YouTube] Linha D'água](https://www.youtube.com/watch?v=L3TBuvsnyHs) - o que é CDI e SELIC? 
