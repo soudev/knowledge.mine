@@ -39,7 +39,7 @@
 >  * Seguir a regra dos 3Gs - [Ganho / Guardo (sempre antes de gastar) / Gasto] e pensar se um gasto agora é realmente importante
 >
 
-* [[YouTube] Eu Quero Ser Rico](https://www.youtube.com/watch?v=IpknUNK3jqw) 
+* [[YouTube] Bastter: Eu Quero Ser Rico](https://www.youtube.com/watch?v=IpknUNK3jqw) 
 >
 >  * procurar poupar no mínimo 20% do que se ganha e investir 
 >
@@ -48,6 +48,8 @@
 >  * Riqueza = (Ganhos - Gastos) * Juros [compostos]
 >
 >  * A riqueza vem do acumulo de capital. O giro (venda) produz riqueza dos intermediários (do governo e da contra-parte)
+
+  * [Bastter](http://www.bastter.com/) - o melhor amigo do investidor
 
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
 
