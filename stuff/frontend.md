@@ -187,6 +187,10 @@
 
 * [Ten reasons we switched from an icon font to SVG | Ian Feather](http://ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)
 
+* [[GitHub] indus / VLEX](https://github.com/indus/VLEX) - Vector Layout Expressions
+
+  * [Responsive SVG with VLEX | DailyJS](http://dailyjs.com/2014/04/15/vlex/)
+
 
 ## Source Map
 
