@@ -188,6 +188,8 @@
 
     * [Couchbase Announces First NoSQL Database For Mobile Devices | Tools Journal](http://www.toolsjournal.com/mobile-articles/item/2242-couchbase-announces-first-nosql-database-for-mobile-devices)
 
+* [[GitHub] damienklinnert / couchviews](https://github.com/damienklinnert/couchviews) - Store and load CouchDB views to / from your file system for easier setup of new databases
+
 
 ### MongoDB
 
