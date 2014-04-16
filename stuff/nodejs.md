@@ -560,6 +560,7 @@
 
   * [Wintersmith: Aprendendo outro gerador de conteúdo estático | Tableless](http://tableless.com.br/wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/)
 
+  * [Metalsmith Part 1: Setting Up the Forge | Robin Thrift](http://www.robinthrift.com/posts/metalsmith-part-1-setting-up-the-forge/)
 
 * [[GitHub] ktsashes / FruitJS](https://github.com/ktsashes/FruitJS) - A Node.js script for turning your markdown documentation into a fully functional site
 
