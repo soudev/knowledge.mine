@@ -58,6 +58,8 @@
 
 ## Informações úteis sobre investimentos
 
+* [[YouTube] Poupança não é Investimento!!!](https://www.youtube.com/watch?v=ROJxDm_P4BU) - o que é investimento?
+
 * [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
 
 * [[YouTube] Bastter: Poupando e Investindo Valores Pequenos](https://www.youtube.com/watch?v=4AXJd_V3JdU)
