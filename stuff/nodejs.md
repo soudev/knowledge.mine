@@ -1123,6 +1123,8 @@
 
 * [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica) 
 
+* [Mongoose Connection best practice | The Holmes Office](http://theholmesoffice.com/mongoose-connection-best-practice/)
+
 --
 
 * [[GitHub] maritz / nohm](https://github.com/maritz/nohm) - node.js implementation of a redis object relations mapper (orm). High speed queries with this ODM for Redis
