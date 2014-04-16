@@ -321,6 +321,8 @@
 
 ##### Bibliotecas e funcionalidades contruídas com D3.js
 
+* [[GitHub] masayuki0812 / c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
+
 * [reD3](http://bugzu.github.io/reD3/) - is a collection of reusable charts and components built with D3.js framework. It includes Line, Pie, Bar, Area, StackedArea, Bubble, Treemap and Heatmap charts which can be easily customized, extended and reused.
 
 * [NVD3 Re-usable charts for D3.js](http://nvd3.org/)
@@ -340,6 +342,8 @@
 * [morris.js](http://www.oesmith.co.uk/morris.js/index.html) - good-looking charts shouldn't be difficult | d3 based chart library
 
 * [[GitHub] adnan-wahab / pathgl](https://github.com/adnan-wahab/pathgl) - webgl renderer for d3
+
+* [[GitHub] misoproject / d3.chart](https://github.com/misoproject/d3.chart) - d3.chart is a framework for building reusable charts with d3.js
 
 
 #### Gantt
