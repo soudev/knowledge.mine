@@ -254,6 +254,8 @@
 
 #### D3.js
 
+* [Introduction to d3.js](http://ireneros.com/conf/nicar/introduction-to-d3.html)
+
 * [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
 
 --
