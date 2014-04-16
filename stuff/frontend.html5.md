@@ -825,6 +825,8 @@
 
 * [Cordova + Web Best Practices | Gaunt Face - Matthew Gaunt](http://www.gauntface.co.uk/blog/2013/07/18/cordova-web-best-practices/) - Getting PhoneGap / Cordova up and running with Yeoman
 
+* [Apache Cordova, removendo os 300ms de delay entre o toque e o click | Igor Costa](http://www.igorcosta.com/apache-cordova-removendo-os-300ms-de-delay-entre-o-toque-e-o-click/)
+
 
 ###### PhoneGap
 
