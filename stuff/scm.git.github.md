@@ -74,6 +74,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
   * [Projects that power GitHub](https://github.com/showcases/projects-that-power-github)
 
+
 ## Aprendizado
 
 * [git-scm: Pro Git book](http://git-scm.com/book/pt-br/) - livro online completo sobre git, em português
@@ -129,6 +130,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Git Immersion](http://gitimmersion.com/) - is a guided tour that walks through the fundamentals of Git, inspired by the premise that to know a thing is to do it.
 
 * [Git Tutorials and Training | Atlassian](https://www.atlassian.com/git)
+
+* [Learn Git - Learn Version Control with Git | Git Tower](http://www.git-tower.com/learn/) - A step-by-step course for the complete beginner
 
 * [[YouTube] Curso básico de Git](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 
