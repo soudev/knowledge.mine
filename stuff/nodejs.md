@@ -13,7 +13,9 @@
       * [dotFiles: Mac OS X config](#dotfiles-mac-os-x-config)
     * [Exemplos](#exemplos)
       * [Boilerplate](#boilerplate)
-  * [Análise de Código](#análise-de-código)
+  * [Código](#código)
+    * [Performance, Proteção e Otimização](#performance-proteção-e-otimização)
+    * [Análise](#análise)
   * [Monitoramento e Logs](#monitoramento-e-logs)
   * [Versionamento](#versionamento)
   * [Identificadores](#identificadores)
@@ -324,7 +326,19 @@
 * [[GitHub] erictherobot / kano](https://github.com/erictherobot/kano) - Boilerplate for NodeJS + ExpressJS + MongoDB + Jade + Bootstrap 3 + Mocha + API's
 
 
-### Análise de Código
+### Código
+
+* [Contractual - Design by contract for JavaScript](https://codemix.github.io/contractual/)
+
+
+#### Performance, Proteção e Otimização
+
+* [JXCore](http://jxcore.com/)
+
+* [Code Protection and Packaging for Node.js Projects with JXCore | Flippin' Awesome](http://flippinawesome.org/2014/04/21/code-protection-and-packaging-for-node-js-projects-with-jxcore/)
+
+
+#### Análise
 
 * [[GitHub] t32k / stylestats](https://github.com/t32k/stylestats) - StyleStats is Node.js library to collect CSS statistics!
 
