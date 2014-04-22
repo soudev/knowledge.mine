@@ -37,6 +37,10 @@
 
 * [Kendo UI](http://www.kendoui.com/)
 
+* [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
+
+  * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
+
 * [Foundation: Rapid Prototyping and Building Framework from ZURB](http://foundation.zurb.com/)
 
 * [fragment.js](http://danielrapp.github.com/fragment.js/) - A tiny (625 bytes gzipped) tool for easily loading html fragments and templates.
