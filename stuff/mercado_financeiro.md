@@ -12,12 +12,16 @@
     * [Dividendos](#dividendos)
     * [Análise Técnica](#análise-técnica)
     * [Queda](#queda)
-* [Shopping Financeiro](#shopping-financeiro)
+* [Shopping Financeiro e Corretoras](#shopping-financeiro-e-corretoras)
 
 <!-- toc stop -->
 
 
 ## Educação Financeira
+
+* [Trade ao Vivo](http://www.tradeaovivo.com.br/)
+
+--
 
 * [[YouTube] XP Investimentos: Como Montar o Orçamento Doméstico?](https://www.youtube.com/watch?v=itqLOX3hQlA)
 
@@ -178,8 +182,11 @@
 * [[YouTube] Estratégias para Ganhar com o Mercado em Queda](https://www.youtube.com/watch?v=4neAWsHV4QI)
 
 
-## Shopping Financeiro
+## Shopping Financeiro e Corretoras
 
 * [XP Investimentos](http://www.xpi.com.br/) | [Canal no YouTube](https://www.youtube.com/user/canalXPTV?feature=watch)
 
   * [Custos Operacionais](http://www.xpi.com.br/opere/custos-operacionais.aspx)
+
+* [Rico com vc](http://www.rico.com.vc/)
+
