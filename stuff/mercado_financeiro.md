@@ -5,13 +5,13 @@
 * [Educação Financeira](#educação-financeira)
 * [Informações gerais](#informações-gerais)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
+  * [Renda Fixa](#renda-fixa)
+  * [Títulos do Governo](#títulos-do-governo)
+  * [Fundos de Investimento](#fundos-de-investimento)
   * [Ações](#ações)
     * [Dividendos](#dividendos)
     * [Análise Técnica](#análise-técnica)
     * [Queda](#queda)
-  * [Renda Fixa](#renda-fixa)
-  * [Títulos do Governo](#títulos-do-governo)
-  * [Fundos de Investimento](#fundos-de-investimento)
 * [Shopping Financeiro](#shopping-financeiro)
 
 <!-- toc stop -->
@@ -71,6 +71,45 @@
 * [[YouTube] Linha D'água](https://www.youtube.com/watch?v=L3TBuvsnyHs) - o que é CDI e SELIC? 
 
 * [[YouTube] XP Investimentos: O Poder dos Juros Nos Seus Investimentos](https://www.youtube.com/watch?v=HgebtNs9gVk)
+
+
+### Renda Fixa
+
+* [[YouTube] XP Investimentos: Introdução à Renda Fixa](https://www.youtube.com/watch?v=Xb6vI9xZJOk)
+
+  * [Renda Fixa | XP Investimentos](http://www.xpi.com.br/produtos/renda-fixa.aspx)
+
+* [[YouTube] Debênture](https://www.youtube.com/watch?v=-hzoIw-yAkI&ei=ainUUYuTGqH30)
+
+* [[YouTube] CDB](https://www.youtube.com/watch?v=WOy4rcePA5k)
+
+* [[YouTube] CDB x Poupança - Tudo Sobre Renda Fixa](https://www.youtube.com/watch?v=0eXYDsYPYgI)
+
+
+### Títulos do Governo
+
+* [[YouTube] Títulos do Governo](https://www.youtube.com/watch?v=i1ics1_um0A)
+
+* [[YouTube] Tesouro Direto - Investimentos muito além da Poupança](https://www.youtube.com/watch?v=wTW0donQv_k)
+
+* [[YouTube] Tesouro Direto 2 - Investimentos Muito Além da Poupança](https://www.youtube.com/watch?v=h4sg9rTC1VI)
+
+
+### Fundos de Investimento
+
+* [Fundos Imobiliários | BM&F BOVESPA](http://www.bmfbovespa.com.br/fundos-listados/fundoslistados.aspx?Idioma=pt-br&tipoFundo=imobiliario)
+
+* [[YouTube] Conheça melhor os Fundos de Investimento](https://www.youtube.com/watch?v=Q_DBkSGbbEM)
+
+* [[YouTube] Fundo Imobiliário](https://www.youtube.com/watch?v=sSn5q6FlkXk)
+
+* [[YouTube] Investir em imóveis com pouco dinheiro? Fundos Imobiliários!](https://www.youtube.com/watch?v=xNmFmuekg6U)
+
+* [[YouTube] XP Investimentos: Fundos Imobiliarios](https://www.youtube.com/watch?v=x_ucoMtb9ys)
+
+* [[YouTube] Aprenda a investir em Fundos Imobiliários](https://www.youtube.com/watch?v=4SLHC1FPJ0o)
+
+* [Fundos imobiliários são uma boa opção de investimento? | Minhas Economias](http://www.minhaseconomias.com.br/blog/investimentos/fundos-imobiliarios-sao-uma-boa-opcao-de-investimento) - 24/09/2013
 
 
 ### Ações
@@ -137,45 +176,6 @@
 > Também existem oportunidades para ganhos quando as ações estão em queda
 
 * [[YouTube] Estratégias para Ganhar com o Mercado em Queda](https://www.youtube.com/watch?v=4neAWsHV4QI)
-
-
-### Renda Fixa
-
-* [[YouTube] XP Investimentos: Introdução à Renda Fixa](https://www.youtube.com/watch?v=Xb6vI9xZJOk)
-
-  * [Renda Fixa | XP Investimentos](http://www.xpi.com.br/produtos/renda-fixa.aspx)
-
-* [[YouTube] Debênture](https://www.youtube.com/watch?v=-hzoIw-yAkI&ei=ainUUYuTGqH30)
-
-* [[YouTube] CDB](https://www.youtube.com/watch?v=WOy4rcePA5k)
-
-* [[YouTube] CDB x Poupança - Tudo Sobre Renda Fixa](https://www.youtube.com/watch?v=0eXYDsYPYgI)
-
-
-### Títulos do Governo
-
-* [[YouTube] Títulos do Governo](https://www.youtube.com/watch?v=i1ics1_um0A)
-
-* [[YouTube] Tesouro Direto - Investimentos muito além da Poupança](https://www.youtube.com/watch?v=wTW0donQv_k)
-
-* [[YouTube] Tesouro Direto 2 - Investimentos Muito Além da Poupança](https://www.youtube.com/watch?v=h4sg9rTC1VI)
-
-
-### Fundos de Investimento
-
-* [Fundos Imobiliários | BM&F BOVESPA](http://www.bmfbovespa.com.br/fundos-listados/fundoslistados.aspx?Idioma=pt-br&tipoFundo=imobiliario)
-
-* [[YouTube] Conheça melhor os Fundos de Investimento](https://www.youtube.com/watch?v=Q_DBkSGbbEM)
-
-* [[YouTube] Fundo Imobiliário](https://www.youtube.com/watch?v=sSn5q6FlkXk)
-
-* [[YouTube] Investir em imóveis com pouco dinheiro? Fundos Imobiliários!](https://www.youtube.com/watch?v=xNmFmuekg6U)
-
-* [[YouTube] XP Investimentos: Fundos Imobiliarios](https://www.youtube.com/watch?v=x_ucoMtb9ys)
-
-* [[YouTube] Aprenda a investir em Fundos Imobiliários](https://www.youtube.com/watch?v=4SLHC1FPJ0o)
-
-* [Fundos imobiliários são uma boa opção de investimento? | Minhas Economias](http://www.minhaseconomias.com.br/blog/investimentos/fundos-imobiliarios-sao-uma-boa-opcao-de-investimento) - 24/09/2013
 
 
 ## Shopping Financeiro
