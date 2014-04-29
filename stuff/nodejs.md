@@ -843,6 +843,8 @@
 
 * [node.js HTML5 file uploader | DavidPirek](http://www.davidpirek.com/blog/nodejs-html5-file-uploader)
 
+* [Node.js: upload de arquivos | Kaique Silva on Svbtle](http://sigmundxox.svbtle.com/nodejs-upload-de-arquivos)
+
 --
 
 * [Installing and Running node.js applications within IIS on Windows - Are you mad? | Scott Hanselman](http://www.hanselman.com/blog/InstallingAndRunningNodejsApplicationsWithinIISOnWindowsAreYouMad.aspx)
