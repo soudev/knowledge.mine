@@ -7,6 +7,8 @@
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Ações](#ações)
     * [Dividendos](#dividendos)
+    * [Análise Técnica](#análise-técnica)
+    * [Queda](#queda)
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
   * [Fundos de Investimento](#fundos-de-investimento)
@@ -99,6 +101,42 @@
 * [[YouTube] XP Investimentos: Carteira de Dividendos](https://www.youtube.com/watch?v=exMZsSPeU44)
 
 * [[YouTube] Sua aposentadoria em ações: monte sua carteira de dividendos](https://www.youtube.com/watch?v=GYhFh4I9Q5c)
+
+
+#### Análise Técnica
+
+> Como analisar e acompanhar o comportamento das ações e gerenciar riscos
+
+* [[YouTube] Curso Básico de Análise Técnica - Parte I](https://www.youtube.com/watch?v=63A9-XurwBU)
+
+  * [[YouTube] O que é Análise Técnica?](https://www.youtube.com/watch?v=yOg_QR20ssw)
+
+  * [[YouTube] Teoria de Dow](https://www.youtube.com/watch?v=mFrIBaSPkcU)
+
+  * [[YouTube] Gráfico de Barras](https://www.youtube.com/watch?v=AXNZj3SgP5Y)
+
+  * [[YouTube] Gráfico de Candlestick](https://www.youtube.com/watch?v=4Iqgusw6s00)
+
+* [[YouTube] Curso Básico de Análise Técnica - Parte II](https://www.youtube.com/watch?v=C47cjqdj4EM)
+
+  * [[YouTube] Padrões de Candlestick](https://www.youtube.com/watch?v=m7ExguZ_auk)
+
+  * [[YouTube] Números de Força](https://www.youtube.com/watch?v=MMegvqR47bg)
+
+  * [[YouTube] Suporte e Resistência](https://www.youtube.com/watch?v=i-wWsQHZkxU)
+
+  * [[YouTube] Linhas de Tendência](https://www.youtube.com/watch?v=m2AIN64iJWc)
+
+--
+
+* [[YouTube] Se Afastando da Manada](https://www.youtube.com/watch?v=xvBQ3Sgm7a4&list=PLw0wwQUldr2J23MUnNAT9sKDvdhRLxE01) - Gerenciando Tempos Gráficos para Operações no Mercado de Ações (lista de palestras)
+
+
+#### Queda
+
+> Também existem oportunidades para ganhos quando as ações estão em queda
+
+* [[YouTube] Estratégias para Ganhar com o Mercado em Queda](https://www.youtube.com/watch?v=4neAWsHV4QI)
 
 
 ### Renda Fixa
