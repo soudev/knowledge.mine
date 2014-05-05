@@ -213,6 +213,8 @@
 
   * [Grupo no Google+](https://plus.google.com/u/0/communities/114677724833864547063)
 
+* [npm awesome](http://npmawesome.com/)
+
 
 ## Casos de Uso
 
@@ -255,6 +257,12 @@
 ## Projetos Interessantes
 
 * [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
+
+* [[GitHub] thisandagain / sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js
+
+  * [Sentiment analysis in Node.js | Nodejitsu](https://blog.nodejitsu.com/npmawesome-sentiment/)
+
+--
 
 * [VNC client on 200 lines of JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
 
