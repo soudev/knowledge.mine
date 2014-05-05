@@ -130,8 +130,12 @@
  
 * [[YouTube] Custódia remunerada](https://www.youtube.com/watch?v=KeJOr7bs3-4#at=29)
 
+* [Tipos de Ações | Como Investir](http://www.comoinvestir.com.br/acoes/guia-de-acoes/tipos-de-acoes/paginas/default.aspx)
+
 
 #### Dividendos
+
+> Ações PN - preferência de dividendos
 
 * [[YouTube] O que são dividendos?](https://www.youtube.com/watch?v=LDkHLE2ZnCg)
 
