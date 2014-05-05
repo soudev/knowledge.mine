@@ -425,6 +425,8 @@
 
 * [Ler arquivos locais em JavaScript | HTML5 Rocks](http://www.html5rocks.com/pt/tutorials/file/dndfiles/)
 
+* [File System and JavaScript. Processing Files in Browser | XB Software](http://xbsoftware.com/blog/file-system-javascript-processing-files-browser/)
+
 * [Resize an Image Using Canvas, Drag and Drop and the File API | David Walsh Blog](http://davidwalsh.name/resize-image-canvas)
 
 * [Creating a File Encryption App with JavaScript | Tutorialzine](http://tutorialzine.com/2013/11/javascript-file-encrypter/)
