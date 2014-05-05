@@ -122,6 +122,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Why Git is Better than X](http://thkoch2001.github.io/whygitisbetter/)
 
+* [[GitHub] tiimgreen / github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+
 
 ### Curso online
 
