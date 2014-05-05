@@ -1180,6 +1180,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Módulos de UI
 
+* [Angular-Autolayout.js](https://thenikso.github.io/angular-autolayout/) - Constraint based layout for your AngularJS apps
+
 * [Angular UI](http://angular-ui.github.com/) - Componentes de UI
 
   * [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
