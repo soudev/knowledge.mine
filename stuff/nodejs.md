@@ -278,6 +278,12 @@
 
 * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
 
+--
+
+* [[GitHub] ltk / kurtz-kloud](https://github.com/ltk/kurtz-kloud) - A Node app for sharing screen shots
+
+  * [My Quest for the Perfect Screenshot App | Viget](http://viget.com/flourish/my-qwest-for-the-perfect-screenshot-app)
+
 
 ### Desenvolvimento
 
