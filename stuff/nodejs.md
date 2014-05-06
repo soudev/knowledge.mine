@@ -20,6 +20,7 @@
   * [Versionamento](#versionamento)
   * [Identificadores](#identificadores)
   * [Encurtador de URLs](#encurtador-de-urls)
+  * [Desencurtador de URLs](#desencurtador-de-urls)
   * [Controle de Fluxo de Execução](#controle-de-fluxo-de-execução)
   * [Git e GitHub](#git-e-github)
   * [Integração com Java](#integração-com-java)
@@ -413,6 +414,11 @@
 * [[GitHub] thinkroth / shortUrl](https://github.com/thinkroth/shortUrl) - Another short url service in node.js
 
 
+### Desencurtador de URLs
+
+* [[GitHub] scottksmith95 / url-expand](https://github.com/scottksmith95/url-expand) - Simple and efficient URL expander
+
+
 ### Controle de Fluxo de Execução
 
 * [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
@@ -420,6 +426,8 @@
 * [Async - utilities for node and the browser](https://github.com/caolan/async)
 
   * [Node.js async in practice: When to use what? | Sebastian Seilund](http://www.sebastianseilund.com/nodejs-async-in-practice)
+
+  * [Different uses of node-async library | Abhiroop Patel](http://abhiroop.com/different-uses-node-async-library/)
 
   * [[GitHub] scottcorgan / series](https://github.com/scottcorgan/series) - Compose a series of chainable async methods
 
@@ -541,6 +549,8 @@
 * [[GitHub] strongloop / loopback](https://github.com/strongloop/loopback) - is an open source API framework built on top of Express optimized for mobile and web. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
 
 * [Introduction to the MEAN Stack | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
+
+* [MEAN Stack – A Quick Start Guide | Flippin' Awesome](http://flippinawesome.org/2014/04/21/mean-stack-a-quick-start-guide/) - This article is intended to serve as a quick guide to help you get started developing with the MEAN stack. We won’t go into great detail about what each of the technologies are, instead sticking to how to set up a typical MEAN stack.
 
 * [Creating an RSS Feed Reader With the MEAN Stack | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563)
 
