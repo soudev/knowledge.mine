@@ -36,6 +36,10 @@
 
 --
 
+* [BDD: Think Like an Actor | Site Point](http://www.sitepoint.com/bdd-think-like-actor/)
+
+--
+
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
 
 --
