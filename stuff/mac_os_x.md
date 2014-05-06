@@ -4,6 +4,11 @@
 
 * [Configurando o Terminal no Mac OS X | Simples Ideias](http://simplesideias.com.br/configurando-o-terminal-no-mac-os-x)
 
+* [Homebrew](http://brew.sh/) - is a package manager for OS X | [github](https://github.com/Homebrew/homebrew)
+
+  * [Cakebrew - The Mac App for Homebrew](https://www.cakebrew.com/) | [github](https://github.com/brunophilipe/Cakebrew)
+
+
 ## Mavericks
 
 * [Everything You Need to Know About OS X Mavericks | Mac.AppStorm](http://mac.appstorm.net/reviews/os-x-reviews/everything-you-need-to-know-about-os-x-mavericks/)
