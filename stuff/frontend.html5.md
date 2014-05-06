@@ -180,6 +180,8 @@
 
 * [Exploring canvas drawing techniques | Perfection kills](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
 
+* [Quick one: using download attribute on links to save Canvas as PNG | Christian Heilmann](http://christianheilmann.com/2014/04/22/quick-one-using-download-attribute-on-links-to-save-canvas-as-png/)
+
 * [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
 
 * [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
@@ -245,6 +247,8 @@
 * [HTML5 Web Notification](http://jaydson.org/html5-web-notifications/)
 
 * [Criando notificações desktop com HTML5 | Andre Loureiro](http://andrel.me/criando-notificacoes-desktop-com-html5/)
+
+* [An Introduction to the Web Notifications API | Site Point](http://www.sitepoint.com/introduction-web-notifications-api/)
 
 --
 
