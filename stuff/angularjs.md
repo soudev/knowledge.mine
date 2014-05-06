@@ -1207,6 +1207,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Animations](http://www.nganimate.org/)
 
+* [[GitHub] Hendrixer / ng-Fx](https://github.com/Hendrixer/ng-Fx) - Simple, Beautiful animation library for Angular 
+
 * [Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html) - AngularJS now provides full support for animations direct from it's core
 
 * [Enhanced Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/05/enhanced-animations-in-angularjs.html)
