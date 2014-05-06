@@ -88,6 +88,10 @@
 
 --
 
+* [Gulpfiction](http://gulpfiction.divshot.io/#/cdf3b0ac-4591-4b70-8c54-cd5eb838856c) - Visual web editor to get started with Gulp
+
+--
+
 * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
 
 * [[GitHub] ryanbenson / Front-End-Gulp-Boilerplate](https://github.com/ryanbenson/Front-End-Gulp-Boilerplate) - Front-end boilerplate for Gulp with everything you need to get started
