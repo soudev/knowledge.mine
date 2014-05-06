@@ -1245,6 +1245,8 @@
 
   * [Announcing Understanding ECMAScript 6 | NCZOnline](http://www.nczonline.net/blog/2014/03/26/announcing-understanding-ecmascript-6/)
 
+  * [Understanding ECMAScript 6 | Leanpub](https://leanpub.com/understandinges6)
+
 --
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
