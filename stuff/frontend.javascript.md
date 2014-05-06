@@ -88,6 +88,8 @@
 
 --
 
+* [Seven JavaScript Quirks I Wish I’d Known About | Telerik Developer Network](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/)
+
 * [10 Mistakes That JavaScript Beginners Often Make | Tutorialzine](http://tutorialzine.com/2014/04/10-mistakes-javascript-beginners-make/)
 
 --
