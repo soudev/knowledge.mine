@@ -224,6 +224,8 @@
 
 * [HTML5 Video and Background Images](http://www.iandevlin.com/blog/2013/03/html5/html5-video-and-background-images)
 
+* [html5 video streaming from google drive](http://sourcey.com/html5-video-streaming-from-google-drive/)
+
 * [[Speaker Deck] Augmented Reality in JavaScript](https://speakerdeck.com/zenorocha/augmented-reality-in-javascript) - by Zeno Rocha
 
   * [Realidade Aumentada com HTML5 | InfoQ BR](http://www.infoq.com/br/presentations/realidade-aumentada-html5)
