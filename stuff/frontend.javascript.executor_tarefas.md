@@ -116,6 +116,8 @@
 
 * [Grunt: Getting started](https://github.com/gruntjs/grunt/wiki/Getting-started)
 
+* [[GitHub] gruntbrasil / grunt-docs](https://github.com/gruntbrasil/grunt-docs) - Documentacão do Grunt
+
 * [Getting started with Grunt | Blog - Fronto](http://fronto.be/blog/detail/getting-started-with-grunt)
 
 * [GruntJS - Por onde começar? | Volts Digital](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
