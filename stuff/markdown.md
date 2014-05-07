@@ -27,6 +27,10 @@
 
 * [Markdown: The Ins and Outs | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/)
 
+* [Adicionando Markdown ao seu kit de sobrevivência na web | iMasters](http://imasters.com.br/desenvolvimento/adicionando-markdown-ao-seu-kit-de-sobrevivencia-na-web/)
+
+* [Learn Markdown | GitBook](https://gitbookio.github.io/markdown/)
+
 * [Creating an Angular Markdown Preview | Will Anderson](http://www.itsananderson.com/2013/10/creating-angular-markdown-preview/)
 
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
