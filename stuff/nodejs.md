@@ -320,6 +320,12 @@
 
   * [Mineração de dados e as funções map, reduce e filter | NodeBR - NodeJS Brasil](http://nodebr.com/mineracao-de-dados-e-as-funcoes-map-reduce-filter/)
 
+--
+
+* [Running and debugging Node.js application | JetBrains WebStorm Blog](http://blog.jetbrains.com/webstorm/2014/02/running-and-debugging-node-js-application/)
+
+* [How to debug Node.js? What is the best way to debug Node.js? | { 100PercentJS }](http://www.100percentjs.com/best-way-debug-node-js/)
+
 
 #### Configuração do Ambiente
 
