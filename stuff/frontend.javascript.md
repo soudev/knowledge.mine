@@ -196,6 +196,8 @@
 
 ### Padrões
 
+* [Popular Coding Convention on Github - JavaScript](http://sideeffect.kr/popularconvention#javascript)
+
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
 * [JavaScript Best Practices | CodeProject](http://www.codeproject.com/Articles/580165/JavaScript-Best-Practices)
@@ -720,6 +722,8 @@
 
 --
 
+* [[GitHub] sutoiku / formula.js](https://github.com/sutoiku/formula.js) - JavaScript implementation of most Microsoft Excel formula functions
+
 * [[GitHub] stephen-hardy / xlsx.js](https://github.com/stephen-hardy/xlsx.js) - is a JavaScript library for converting the data in base64 XLSX files into JavaScript objects - and back! 
 
     * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder 
@@ -1138,6 +1142,8 @@
 --
 
 * [How to host a private bower registry | ParadigmShift](http://toranbillups.com/blog/archive/2013/08/04/How-to-host-a-private-bower-registry/)
+
+* [[GitHub] Hacklone / private-bower](https://github.com/Hacklone/private-bower) - A simple private bower registry
 
 --
 
