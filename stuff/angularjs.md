@@ -592,6 +592,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
+* [Integrating Components with D3 and AngularJS | egghead.io](https://egghead.io/lessons/integrating-components-with-d3-and-angularjs) - Since React is only interested in the V (view) of MVC, it plays well with other toolkits and frameworks. This includes AngularJS and D3.
+
 --
 
 * [Integrating Parse Data with ng-model in AngularJS | Jonathan Broquist](http://blog.jonathanbroquist.com/integrating-parse-data-with-ng-model-in-angularjs/)
