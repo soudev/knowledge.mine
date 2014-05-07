@@ -79,6 +79,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [git-scm: Pro Git book](http://git-scm.com/book/pt-br/) - livro online completo sobre git, em português
 
+  * [Learn Git](https://gitbookio.github.io/git/en/) - This is a GitBook version of the Scott Chacon's book: Pro Git.
+
 * [Using Git | GitHub:Help](https://help.github.com/categories/19/articles)
 
 * [GitHub Guides](http://guides.github.com/)
