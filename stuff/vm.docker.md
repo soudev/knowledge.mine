@@ -30,6 +30,8 @@
 
 --
 
+* [Dockerfiles in a jiffy | The Disco Blog](http://thediscoblog.com/blog/2014/05/05/dockerfiles-in-a-jiffy/)
+
 * Dockerfile Best Practices | Michael Crosby : [1](http://crosbymichael.com/dockerfile-best-practices.html) | [2](http://crosbymichael.com/dockerfile-best-practices-take-2.html)
 
 * [Dockerfile deep dive | Michael Crosby](http://crosbymichael.com/dockerfile-deep-dive.html)
