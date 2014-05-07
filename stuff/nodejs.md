@@ -635,6 +635,8 @@
 
   * [[GitHub] krasimir / techy](https://github.com/krasimir/techy/) - A flat file CMS based on Gulp and AbsurdJS
 
+  * [Simple Content Management with Node.js and Markdown | Flippin' Awesome](http://flippinawesome.org/2014/05/05/simple-content-management-with-node-js-and-markdown/)
+
 
 ### Hardware
 
