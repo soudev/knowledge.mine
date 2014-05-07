@@ -465,9 +465,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Daily](http://www.angularjsdaily.com/) - Get more out of AngularJS
 
+--
+
 * [What you need to know about Angular SEO | ng-newsletter](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
 
 * [AngularJS SEO | CoderWall - Jose Raya](https://coderwall.com/p/vqpfka)
+
+* [DIY AngularJS SEO with PhantomJS (the easy way!)](http://lawsonry.com/2014/05/diy-angularjs-seo-with-phantomjs-the-easy-way/)
 
 --
 
@@ -512,6 +516,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Communication in Angular using the pubsub pattern | Per Ploug](http://scriptogr.am/pploug/post/communication-in-angular-using-the-pubsub-pattern)
+
+--
+
+* [An angular.js event bus with postal.js | Jonathan Creamer](http://jonathancreamer.com/an-angular-event-bus-with-postal-js/)
 
 --
 
@@ -629,7 +637,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Preventing default action for an element in AngularJS](http://blog.falafel.com/Blogs/venkata-koppaka/2014/04/28/preventing-default-action-for-an-element-in-angularjs)
+
+--
+
 * [Preventing duplicated requests in Angular.js | Codebrag](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
+
+* [Aborting AJAX Requests Using $http And AngularJS | Ben Nadel](http://www.bennadel.com/blog/2616-aborting-ajax-requests-using-http-and-angularjs.htm)
 
 * [AngularJS – Cross Domin Get data by $resource | Share Coding](http://sharecoding.wordpress.com/2013/09/02/angularjs-cross-domin-get-data-by-resource/)
 
@@ -968,6 +982,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Triggering $digest Phases In Related Directives In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2625-triggering-digest-phases-in-related-directives-in-angularjs.htm)
+
 * [AngularJS - $compile: How it works, How to use it | Try, Catch, Fail](http://www.benlesh.com/2013/08/angular-compile-how-it-works-how-to-use.html)
 
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
@@ -992,7 +1008,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] wmluke / angular-blocks](https://github.com/wmluke/angular-blocks) - Template inheritance for Angular JS
 
-    * [Template inheritance for AngularJS | The Bunsel Blog](http://www.bunselmeyer.net/#!/thoughts/angular-blocks) - I really enjoy using block-style template inheritance in Jade and Handlebars. From my understanding, this pattern was popularized by Django.
+  * [Template inheritance for AngularJS | The Bunsel Blog](http://www.bunselmeyer.net/#!/thoughts/angular-blocks) - I really enjoy using block-style template inheritance in Jade and Handlebars. From my understanding, this pattern was popularized by Django.
 
 --
 
@@ -1155,7 +1171,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] urish / angular-moment](https://github.com/urish/angular-moment) - Angular.JS directives for [Moment.JS](http://momentjs.com/) (timeago alternative)
 
+* [[GitHub] OutlawAndy / relativeDate](https://github.com/outlawandy/relativeDate) - Angular.js service providing auto-updating, relative time labels like "about 1 minute ago"
+
 * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses.
+
 
 
 ### Módulos de Armazenamento
