@@ -86,6 +86,8 @@
 
 * [Exploring A Generator For Gulp.js | Yeoman](http://yeoman.io/blog/gulp-explore.html)
 
+* [Getting gulpy | Medium](https://medium.com/p/a2010c13d3d5) - Advanced tips for using gulp.js
+
 --
 
 * [Gulpfiction](http://gulpfiction.divshot.io/#/cdf3b0ac-4591-4b70-8c54-cd5eb838856c) - Visual web editor to get started with Gulp
