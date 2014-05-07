@@ -43,6 +43,7 @@
   * [Ferramentas](#ferramentas)
     * [Sublime Text](#sublime-text)
     * [Eclipse IDE](#eclipse-ide)
+    * [Netbeans IDE](#netbeans-ide)
     * [JetBrains](#jetbrains)
     * [Visual Studio](#visual-studio)
 * [Directive (componentes)](#directive-componentes)
@@ -891,6 +892,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 #### Eclipse IDE
 
 * [[GitHub] angelozerr / angularjs-eclipse](https://github.com/angelozerr/angularjs-eclipse) - AngularJS Eclipse IDE Plugin
+
+
+#### Netbeans IDE
+
+* [Integrated AngularJS Development | Geertjan's Blog](https://blogs.oracle.com/geertjan/entry/integrated_angularjs_development)
 
 
 #### JetBrains
