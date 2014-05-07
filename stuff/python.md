@@ -35,6 +35,12 @@
 
 --
 
+* [[YouTube] Python: A "Toy" Language](https://www.youtube.com/watch?v=BWyDA5y6TIg)
+
+* [[YouTube] A hands-on introduction to Python for beginning programmers](https://www.youtube.com/watch?v=rkx5_MRAV3A)
+
+--
+
 * [10 Resources to Learn Python Programming Language | CodeCondo](http://codecondo.com/10-ways-to-learn-python/)
 
 --
