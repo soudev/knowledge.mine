@@ -343,6 +343,8 @@
 
 * [Write Better JavaScript with Promises | David Walsh](http://davidwalsh.name/write-javascript-promises)
 
+  * [Escreva códigos JavaScript melhores com Promises | iMasters](http://imasters.com.br/front-end/javascript/escreva-codigos-javascript-melhores-com-promises/)
+
 --
 
 * [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
@@ -890,6 +892,8 @@
   * [[GitHub] jashkenas / coffee-script](https://github.com/jashkenas/coffee-script/) - Unfancy JavaScript
 
   * [[CodeSchool] CoffeeScript](http://coffeescript.codeschool.com/)
+
+  * [Hard Rock CoffeeScript](https://alchapone.github.io/hard-rock-coffeescript/)
 
 * [TypeScript](http://www.typescriptlang.org/) - is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
