@@ -76,6 +76,8 @@
 
 * [[YouTube] Google Tech Talks 2009 : JavaScript - The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)
 
+* [[YouTube] Dos and Don'ts in JavaScript: A few best practices for when you're learning the language](https://www.youtube.com/watch?v=zILmbcIYnfw)
+
 * [Estou iniciando em javascript, por onde começo? | JavaScript Brasil](http://javascriptbrasil.com/artigos/estou-iniciando-em-javascript-por-onde-comeco)
 
 * [Basic JavaScript for the impatient programmer | 2ality](http://www.2ality.com/2013/06/basic-javascript.html)
@@ -133,6 +135,8 @@
 * [Tips for using window in JavaScript | 2ality](http://www.2ality.com/2013/09/window.html)
 
 --
+
+* [[YouTube] Learn The Basics of JavaScript Scope](https://www.youtube.com/watch?v=ZoFlcv2ByBo)
 
 * [Guide to JavaScript Prototypes, Scopes, and Performance | Toptal](http://www.toptal.com/javascript/javascript-prototypes-scopes-and-performance-what-you-need-to-know)
 
