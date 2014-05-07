@@ -387,6 +387,8 @@
 
 * [indexeddb file system | mode·switch](http://blog.modeswitch.org/indexeddb-file-system.html)
 
+* [Indexed: Query IndexedDB Like Mongo | fluidbyte](http://fluidbyte.net/indexed-query-inexeddb-like-mongo/)
+
 * [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
 
 * [Storing Javascript objects in LocalStorage | DroidIT Blog](http://blog.droidit.eu/javascript-2/storing-javascript-objects-in-localstorage/)
