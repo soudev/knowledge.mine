@@ -176,6 +176,8 @@
 
 * [Baterry API | Loop Infinito](http://loopinfinito.com.br/2013/03/21/battery-api/)
 
+* [Using Device Orientation in HTML5 | Site Point](http://www.sitepoint.com/using-device-orientation-html5/)
+
 --
 
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
