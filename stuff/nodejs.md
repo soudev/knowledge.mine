@@ -145,6 +145,8 @@
 
 * [An Absolute Beginner's Guide to Node.js | Modulus Blog](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 
+* [The Absolute Beginner’s Guide to Node.js | Codeship](http://blog.codeship.io/2014/05/07/nodejs-beginners-guide.html)
+
 * [[GitHub] maxogden / art-of-node](https://github.com/maxogden/art-of-node) - The Art of Node.js : a short introduction to node.js
 
 * [[GitHub] rvagg / learnyounode](https://github.com/rvagg/learnyounode) - Learn You The Node.js For Much Win! An intro to Node.js via a set of self-guided workshops.
