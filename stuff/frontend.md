@@ -165,6 +165,8 @@
 
 ### SVG
 
+* [Leaving Pixels Behind: A VECTOR WORKFLOW FOR DESIGNERS | ARTIFACT Conference](https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/preview?sle=true#slide=id.p)
+
 * [SVGeneration : create gorgeous SVG backgrounds](http://www.svgeneration.com/)
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
