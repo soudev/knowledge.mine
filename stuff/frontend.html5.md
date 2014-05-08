@@ -135,6 +135,8 @@
   
   * [Up and Running with Modernizr | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/up-and-running-with-modernizr.html)
 
+* [Internet Explorer Web Platform Status and Roadmap | status.modern.IE](http://status.modern.ie/)
+
 
 ### Ferramentas
 
