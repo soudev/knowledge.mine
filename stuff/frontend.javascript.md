@@ -412,9 +412,11 @@
 
 * [Using Underscore/Lo-Dash and stopping reinvent the wheel | 4waisenkinder](http://4waisenkinder.de/blog/2013/10/12/you-use-underscore-slash-lo-dash/) | [underscore](http://underscorejs.org/) / [lo-dash](http://lodash.com/)
 
-    * [Stop writing For loops. Start using underscore | @jhooks](http://www.joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/)
+  * [Stop writing For loops. Start using underscore | @jhooks](http://www.joelhooks.com/blog/2014/02/06/stop-writing-for-loops-start-using-underscorejs/)
 
-    * [Underscore.js: a Biblioteca JavaScript que Você Precisa Conhecer | JustCode](http://blog.glaucocustodio.com/2014/02/08/underscore-js-a-biblioteca-javascript-que-voce-precisa-conhecer/)
+  * [Underscore.js: a Biblioteca JavaScript que Você Precisa Conhecer | JustCode](http://blog.glaucocustodio.com/2014/02/08/underscore-js-a-biblioteca-javascript-que-voce-precisa-conhecer/)
+
+* [[GitHub] elclanrs / essential.js](https://github.com/elclanrs/essential.js) - Functional JavaScript "the right way"
 
 * [Object Equality in JavaScript | Design Pepper](http://designpepper.com/blog/drips/object-equality-in-javascript.html)
 
