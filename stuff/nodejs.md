@@ -1464,6 +1464,8 @@
 
   * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
 
+* [List All REST Endpoints built using Express or Restify | The Jackal of Javascript](http://thejackalofjavascript.com/list-all-rest-endpoints/)
+
 --
 
 * [[GitHub] felixge / node-formidable](https://github.com/felixge/node-formidable) - A node.js module for parsing form data, especially file uploads
