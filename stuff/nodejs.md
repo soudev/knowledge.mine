@@ -843,6 +843,8 @@
 
 --
 
+* [[YouTube] Nodebp April 2014: The History of Node.js Streams](https://www.youtube.com/watch?v=g5ewQEuXjsQ)
+
 * [Practical Examples of the New Node.js Streams API | StrongLoop](http://blog.strongloop.com/practical-examples-of-the-new-node-js-streams-api/)
 
 * [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
