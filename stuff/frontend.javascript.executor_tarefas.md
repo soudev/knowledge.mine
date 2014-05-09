@@ -182,6 +182,8 @@
 
 * [Easy JavaScript Documentation with YUIDocs and Grunt.js | Tech.Pro](http://tech.pro/tutorial/1729/easy-javascript-documentation-with-yuidocs-and-gruntjs)
 
+* [[GitHub] vitorbritto / gruntify](https://github.com/vitorbritto/gruntify) - A Sweet way to use Grunt
+
 
 ##### Ferramentas
 
