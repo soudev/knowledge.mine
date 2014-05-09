@@ -118,6 +118,8 @@
 
 ### Ações
 
+* [[YouTube] Rico com vc: Como investir em ações?](https://www.youtube.com/watch?v=qJlvR8BgHLs)
+
 * [[YouTube] XP Investimentos: Quanto devo investir em ações?](https://www.youtube.com/watch?v=BkzLS-v3eSs)
 
 * [[YouTube] Porque Investir em Ações!](https://www.youtube.com/watch?v=73le2DEWPO0)
