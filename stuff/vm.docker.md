@@ -26,6 +26,8 @@
 
 --
 
+* [[Speaker Deck] Docker, Get used to it !](https://speakerdeck.com/julienvey/docker-get-used-to-it)
+
 * [Docker - Getting Started](https://www.docker.io/gettingstarted/)
 
 * [Getting Started with Docker | Servers for Hackers](http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/)
