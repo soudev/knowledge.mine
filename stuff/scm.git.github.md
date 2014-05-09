@@ -54,6 +54,8 @@
 
 * [Git | Wikipedia PT](https://pt.wikipedia.org/wiki/Git)
 
+* [[YouTube] Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+
 * [Uma Breve História do Git](http://git-scm.com/book/pt-br/Primeiros-passos-Uma-Breve-Hist%C3%B3ria-do-Git)
 
 * [Sistemas de Controle de Versão Distribuídos](http://git-scm.com/book/pt-br/Primeiros-passos-Sobre-Controle-de-Vers%C3%A3o#Sistemas-de-Controle-de-Vers%C3%A3o-Distribu%C3%ADdos)
