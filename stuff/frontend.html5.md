@@ -757,9 +757,17 @@
 
 * [Can I use offline web applications?](http://caniuse.com/offline-apps) - Compatibility table for support of offline web applications in desktop and mobile browsers.
 
+* [[SlideShare] HTML5 Offline & Storage](http://www.slideshare.net/gabrielso/html5-offline-storage)
+
 * [Apostilas da Caelum offline com Application Cache do HTML 5](http://blog.caelum.com.br/apostilas-da-caelum-offline-com-application-cache-do-html-5/)
 
 * [Palestra : HTML5 offline e Application Cache | Sérgio Lopes](http://sergiolopes.org/palestra-appcache-html5-offline/)
+
+* [Building Offline Experiences with HTML5 AppCache and IndexedDB | IEBlog](http://blogs.msdn.com/b/ie/archive/2011/09/27/building-offline-experiences-with-html5-appcache-and-indexeddb.aspx)
+
+* [Criação de experiências offline com AppCache e IndexedDB | MSDN Br](http://msdn.microsoft.com/pt-br/library/jj983447.aspx)
+
+* [Managing HTML5 Offline Storage | Google Developers](https://developers.google.com/chrome/whitepapers/storage)
 
 * [Load Your Game Faster with AppCache | Learning Three.js](http://learningthreejs.com/blog/2013/03/22/load-your-game-faster-with-appcache/)
 
