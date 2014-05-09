@@ -291,6 +291,8 @@
 
 * [[GitHub] jh3y / sike](https://github.com/jh3y/sike) - a cli tool that reminds you to get up and move around
 
+* [[GitHub] rschmukler / agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling for node
+
 
 ### Desenvolvimento
 
