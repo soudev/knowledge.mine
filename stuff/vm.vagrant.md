@@ -16,6 +16,10 @@
 
 --
 
+* [Vagrant 1.6 Feature Preview: Docker-Based Development Environments | Vagrant](https://www.vagrantup.com/blog/feature-preview-vagrant-1-6-docker-dev-environments.html)
+
+--
+
 * [Vagrant CookBook](https://leanpub.com/vagrantcookbook) - by Erika Heidi [Leanpub PDF/iPad/Kindle]
 
   * [Vagrant | Erika Heidi](http://www.erikaheidi.com/vagrant/)
@@ -48,7 +52,11 @@
 
 * [Usando Vagrant como ambiente de desenvolvimento Ruby | RubyConf Brasil 2013](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
 
+--
+
 * [Building a Data Platform in 15 Minutes with ArangoDB and Foxx | thinking_on thinking](http://thinkingonthinking.com/A-Data-Platform-in-15-minutes/)
+
+* [Instant Java provisioning with Vagrant and Puppet: Stash one click install | Atlassian Blogs](https://blogs.atlassian.com/2013/03/instant-java-provisioning-with-vagrant-and-puppet-stash-one-click-install/)
 
 --
 

@@ -16,7 +16,9 @@
 
 ## Docker
 
-* [docker.io](http://www.docker.io/)
+> Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more. 
+
+* [docker.io](http://www.docker.io/) - an open source project to pack, ship and run any application as a lightweight container
 
 * [Docker Image Index](https://index.docker.io/)
 
@@ -24,11 +26,15 @@
 
 * [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
 
+* [[SlideShare] Why Docker](http://www.slideshare.net/dotCloud/why-docker)
+
 --
 
 * [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
 --
+
+* [Docker - Dockerfile tutorial](https://www.docker.io/learn/dockerfile/)
 
 * [Dockerfiles in a jiffy | The Disco Blog](http://thediscoblog.com/blog/2014/05/05/dockerfiles-in-a-jiffy/)
 
@@ -37,6 +43,10 @@
 * [Dockerfile deep dive | Michael Crosby](http://crosbymichael.com/dockerfile-deep-dive.html)
 
 * [Advanced Docker Volumes | Michael Crosby](http://crosbymichael.com/advanced-docker-volumes.html)
+
+--
+
+* [Docker: Using Linux Containers to Support Portable Application Deployment | InfoQ](http://www.infoq.com/articles/docker-containers)
 
 --
 
@@ -115,6 +125,8 @@
 
 * [Developing with WildFly, JBoss Developer Studio and Docker | Marek Goldmann](http://goldmann.pl/blog/2013/11/20/developing-with-wildfly-jboss-developer-studio-and-docker/)
 
+* [Deploy Java Apps With Docker = Awesome | Atlassian Blogs](https://blogs.atlassian.com/2013/06/deploy-java-apps-with-docker-awesome/)
+
 * Rapid Prototyping a Python web application with Vagrant and Docker | Continuous Delivery Services
 
   * [Part 1, Development](http://continuousdelivery.uglyduckling.nl/continuous-delivery/rapid-prototyping-a-python-web-application-with-vagrant-and-docker-part-1-development/)
@@ -126,6 +138,8 @@
 * [Getting Started with Docker for the Node.js | CouchDB Programmer - Medium](https://medium.com/code-adventures/35c45ce2a814)
 
 * [Docker and MongoDB Sharded Cluster | Sebastian Voss](http://sebastianvoss.com/docker-mongodb-sharded-cluster.html)
+
+* [Vagrant 1.6 Feature Preview: Docker-Based Development Environments | Vagrant](https://www.vagrantup.com/blog/feature-preview-vagrant-1-6-docker-dev-environments.html)
 
 * Mac OS X
 
@@ -156,6 +170,8 @@
 ### Caso de Uso
 
 * [Docker in education: From VMs to Containers | Docker Blog](http://blog.docker.io/2014/04/docker-in-education-interview/)
+
+* [What people have already built using Docker | Docker](https://www.docker.io/community/#What-people-have-already-built-using-Docker)
 
 
 ### Node.js
