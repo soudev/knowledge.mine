@@ -676,6 +676,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Experiment: decorating directives | Angular Tips](http://angular-tips.com/blog/2013/09/experiment-decorating-directives/)
 
+* [Modifying the behavior of AngularJS’ core services | CLI nerd](http://www.cli-nerd.com/blog/2014/05/08/%24provide-dot-decorator/) - $provide.decorator()
+
 
 ### Dynamic / Lazy Load
 
