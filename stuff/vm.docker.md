@@ -22,15 +22,21 @@
 
 * [Docker Image Index](https://index.docker.io/)
 
+* [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
+
+--
+
 * [Docker - Getting Started](https://www.docker.io/gettingstarted/)
+
+* [Getting Started with Docker | Servers for Hackers](http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/)
+
+* [Docker in Practice | Food Fight](http://foodfightshow.org/2013/11/docker-in-practice.html)
+
+--
 
 * [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
 
 * [[SlideShare] Why Docker](http://www.slideshare.net/dotCloud/why-docker)
-
---
-
-* [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
 --
 
@@ -48,6 +54,8 @@
 
 * [Docker: Using Linux Containers to Support Portable Application Deployment | InfoQ](http://www.infoq.com/articles/docker-containers)
 
+* [What is Docker?](https://medium.com/devops-programming/7f5fd023158f) - The buzzword that is taking the DevOps world by storm
+
 --
 
 * [Learning About Docker | Composite Code](http://compositecode.com/2013/11/20/learning-about-docker/)
@@ -59,6 +67,12 @@
 * [The Revolution will be Containerized | Joshua Barratt](https://rawgithub.com/jbarratt/dockertalk/master/talk/index.html) - The Past, Present and Future of Containers for Applications
 
 * [[SlideShare] Scale Big With Docker — Moboom 2014](http://www.slideshare.net/jpetazzo/scale-big-with-docker-moboom-2014)
+
+--
+
+* [Docker : The good parts | Shrikrishna Holla](http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/)
+
+* [Docker: what I learned from working out what's in it for me | Brownsofa](http://brownsofa.org/blog/2014/03/14/docker-what-i-learned-from-whats-in-it-for-me/)
 
 --
 
@@ -117,6 +131,8 @@
 
 ### Ambiente de desenvolvimento
 
+* [Docker for Isolated and Reproducible Development Environments | Ana Nelson's Blog](http://blog.ananelson.com/2014/03/docker-isolated-and-reproducible/)
+
 * [Useful Docker Bash functions and aliases | Kartar.Net](http://www.kartar.net/2014/03/some-useful-docker-bash-functions-and-aliases/)
 
 * [Building a Development Environment with Docker | Terse Systems](http://tersesystems.com/2013/11/20/building-a-development-environment-with-docker/)
@@ -166,12 +182,16 @@
 
 * [[GitHub] Strider-CD / strider](https://github.com/Strider-CD/strider) - is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 
+* [Create, manage and run clusters of Docker containers using Node.js | decking.io](http://decking.io/)
+
 
 ### Caso de Uso
 
+* [What people have already built using Docker | Docker](https://www.docker.io/community/#What-people-have-already-built-using-Docker)
+
 * [Docker in education: From VMs to Containers | Docker Blog](http://blog.docker.io/2014/04/docker-in-education-interview/)
 
-* [What people have already built using Docker | Docker](https://www.docker.io/community/#What-people-have-already-built-using-Docker)
+* [How Docker Helped Us Achieve the (Near) Impossible | Iron.io Blog](http://blog.iron.io/2014/04/how-docker-helped-us-achieve-near.html)
 
 
 ### Node.js
