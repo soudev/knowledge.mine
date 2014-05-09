@@ -160,6 +160,8 @@ for developing fast and powerful web interfaces.
 
 * [Using Bootstrap 3 as a Web Development Workflow Tool | Flippin Awesome](http://flippinawesome.org/2013/11/04/using-bootstrap-3-as-a-web-development-workflow-tool/)
 
+* [Bootstrap 3 Tips and Tricks You Might Not Know | Scotch](http://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know)
+
 --
 
 * [Ladda UI for Bootstrap 3](http://msurguy.github.io/ladda-bootstrap/)
