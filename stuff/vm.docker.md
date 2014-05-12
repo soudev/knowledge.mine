@@ -82,7 +82,11 @@
 
 * [Building a Multi-Purpose Docker Image | Docker News — Medium](https://medium.com/docker-news/7762378ebc2e)
 
+--
+
 * [Docker Explained: How To Containerize and Use Nginx as a Proxy | DigitalOcean](https://www.digitalocean.com/community/articles/docker-explained-how-to-containerize-and-use-nginx-as-a-proxy)
+
+* [Hosting static sites with Docker and Nginx | Kyle Mathews](http://bricolage.io/hosting-static-sites-with-docker-and-nginx/)
 
 --
 
