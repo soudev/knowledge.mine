@@ -128,6 +128,16 @@
 
 --
 
+* Functional JavaScript | Tech Pro
+
+  * [Part 1: Introduction](http://tech.pro/tutorial/1953/functional-javascript-part-1-introduction)
+
+  * [Part 2: What makes a language "functional"?](http://tech.pro/tutorial/2009/functional-javascript-part-2-what-makes-a-language-functional)
+
+  * [Part 3: .apply(), .call(), and the arguments object](http://tech.pro/tutorial/2010/functional-javascript-part-3-apply-call-and-the-arguments-object)
+
+--
+
 * [JavaScript: arguments explained | Victor Quinn](http://blog.victorquinn.com/javascript-arguments-explained)
 
 --
@@ -346,6 +356,8 @@
 * [Write Better JavaScript with Promises | David Walsh](http://davidwalsh.name/write-javascript-promises)
 
   * [Escreva códigos JavaScript melhores com Promises | iMasters](http://imasters.com.br/front-end/javascript/escreva-codigos-javascript-melhores-com-promises/)
+
+* [Patterns for Asynchronous Programming with Promises | Joe Zim's JavaScript Blog](http://www.joezimjs.com/javascript/patterns-asynchronous-programming-promises/)
 
 --
 
