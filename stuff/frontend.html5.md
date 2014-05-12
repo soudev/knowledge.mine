@@ -364,6 +364,8 @@
 
 * [[GitHub] idflood / ThreeNodes.js](https://github.com/idflood/ThreeNodes.js) - This is an attempt to make something like "vvvv" in javascript, html and webgl.
 
+* [VVVV.js](http://www.vvvvjs.com/) - the visual programming language VVVV brought to your web browser
+
 * [How to Learn Three.js for Game Development | Gamedevtuts+](http://gamedev.tutsplus.com/articles/how-to-learn/how-to-learn-three-js-for-game-development/)
 
 * [Building a 3D MMO Using WebSocket | David Walsh Blog](http://davidwalsh.name/3d-websockets)
