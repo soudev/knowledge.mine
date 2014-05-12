@@ -52,6 +52,8 @@
 
 * [Usando Vagrant como ambiente de desenvolvimento Ruby | RubyConf Brasil 2013](https://www.eventials.com/pt-br/locaweb/usando-vagrant-como-ambiente-de-desenvolvimento-ruby/)
 
+* [[YouTube] Usando o Vagrant como ambiente de desenvolvimento Ruby](https://www.youtube.com/watch?v=zg4EMgcb6H8) - Nando Vieira - Rupy 2012, Uma das grandes dificuldades em qualquer plataforma de desenvolvimento é manter um ambiente conciso, principalmente quando o seu time possui muitos desenvolvedores. Junte isso à diferença entre o sistema operacional do desenvolvedor com arquiteturas diferentes, bibliotecas utilizadas com extensões nativas e a probabilidade de dar algo errado em produção aumenta muito! Veja como o Vagrant pode resolver todos esses problemas e ainda servir como uma plataforma de testes para scripts de configuração de servidores usando máquinas virtuais.
+
 --
 
 * [Building a Data Platform in 15 Minutes with ArangoDB and Foxx | thinking_on thinking](http://thinkingonthinking.com/A-Data-Platform-in-15-minutes/)
