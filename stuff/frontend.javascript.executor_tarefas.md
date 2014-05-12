@@ -78,6 +78,8 @@
 
 * [Managing Your Build Tasks With Gulp.js | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 
+* [How to build an Asset Pipeline with Gulpjs for any webapp | FrontEnd Journal](http://www.frontendjournal.com/how-to-build-an-asset-pipeline-with-gulpjs-for-any-webapp/)
+
 * [Usando Gulp com WordPress para automatizar tarefas | claudiosmweb.com](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
 
 * [Gulp + Browserify: The Everything Post | Viget](http://viget.com/extend/gulp-browserify-starter-faq)
@@ -290,6 +292,8 @@
 * [maintainable grunt example](https://github.com/erkobridee/lab-nodejs/tree/master/javascript/grunt/maintainable-grunt) - on [GitHub] erkobridee / lab-nodejs
 
 * [Grunt.js: Custom Tasks | Quick Left](http://quickleft.com/blog/grunt-js-custom-tasks)
+
+* [Running Grunt tasks without grunt-cli](http://www.andrewduthie.com/post/running-grunt-tasks-without-grunt-cli/)
 
 --
 
