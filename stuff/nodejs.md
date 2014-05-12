@@ -574,6 +574,8 @@
 
 * [Creating an RSS Feed Reader With the MEAN Stack | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563)
 
+* [Synth](http://www.synthjs.com/) - The back-end web framework designed to make (Angular|Ember|Backbone)JS web apps easy to create and manage.
+
 
 #### OAuth
 
