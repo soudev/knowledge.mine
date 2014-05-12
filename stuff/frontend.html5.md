@@ -759,6 +759,8 @@
 
 * [[SlideShare] HTML5 Offline & Storage](http://www.slideshare.net/gabrielso/html5-offline-storage)
 
+* [offline and storage - tutorials | WebPlatform.org](http://docs.webplatform.org/wiki/tutorials/offline_and_storage)
+
 * [Apostilas da Caelum offline com Application Cache do HTML 5](http://blog.caelum.com.br/apostilas-da-caelum-offline-com-application-cache-do-html-5/)
 
 * [Palestra : HTML5 offline e Application Cache | Sérgio Lopes](http://sergiolopes.org/palestra-appcache-html5-offline/)
