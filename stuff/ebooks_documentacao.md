@@ -209,6 +209,10 @@
 
 ### Idiomas
 
+* [[YouTube] How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0) - Chris Lonsdale at TEDxLingnanUniversity
+
+--
+
 * [engVid](http://www.engvid.com/) - free english video lessons
 
   * [JamesESL](https://www.youtube.com/user/JamesESL) - English Lessons (engVid)
