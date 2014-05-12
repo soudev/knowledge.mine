@@ -748,6 +748,8 @@
 
   * [Intro to the React Framework | Development – Tuts+](http://dev.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 
+  * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
+
 --
 
 * [Como imprimir com Javascript | nomadev](http://nomadev.com.br/como-imprimir-com-javascript/)
