@@ -652,6 +652,9 @@
 
 ### Hardware
 
+* [[GitHub] sandeepmistry / bleno](https://github.com/sandeepmistry/bleno) - A node.js module for implementing BLE (Bluetooth low energy) peripherals
+
+
 #### Node Copter
 
 * [The NodeCopter](http://nodecopter.com/) - Programming flying robots with node.js
@@ -1153,6 +1156,8 @@
 * [Running Scripts with npm | The Tapir's Tale](http://anders.janmyr.com/2014/03/running-scripts-with-npm.html)
 
 --
+
+* [[GitHub] cmtt / depwalk](https://github.com/cmtt/depwalk) - Walk through and verify your bower and npm dependencies
 
 * [Stay up-to-date with Node.js packages using npm-onupdate service | Piotr Walczyszyn's Blog](http://outof.me/stay-up-to-date-with-node-js-packages-using-npm-onupdate-service/)
 
