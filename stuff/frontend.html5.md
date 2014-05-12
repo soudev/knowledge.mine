@@ -74,6 +74,8 @@
 
 * [HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/)
 
+* [Canvas Tutorial](http://billmill.org/static/canvastutorial/)
+
 * [Learn HTML5, CSS3, Javascript and more](http://thecodeplayer.com/)
 
 * [Adobe & HTML](http://html.adobe.com/)
