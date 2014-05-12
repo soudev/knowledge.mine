@@ -1183,6 +1183,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses.
 
+* [[GitHub] gil / ng-cpf-cnpj](https://github.com/gil/ng-cpf-cnpj) - AngularJS directive to validate CPF/CNPJ numbers
+
 
 
 ### Módulos de Armazenamento
@@ -1308,6 +1310,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] konsumer / music_player](https://github.com/konsumer/music_player/) - A simple audio player example that uses Angular 
 
 * [[GitHub] pikock / bootstrap-magic](https://github.com/pikock/bootstrap-magic) - Bootstrap themes generator, featuring Bootstrap 3.1 and AngularJS. Update your variables, change it with a smooth colorpicker and get instantly the result.
+
+--
+
+* [SSE (Server-Sent Events) Sample with AngularJS in Play Java | TypeSafe](https://typesafe.com/activator/template/sse-chat-template-java)
+
+  * [[GitHub] markusjura / sse-chat-java](https://github.com/markusjura/sse-chat-java)
 
 --
 
