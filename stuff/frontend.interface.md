@@ -84,6 +84,12 @@
 
   * [Web Components Best Practices | WebComponents.org](http://webcomponents.github.io/articles/web-components-best-practices/)
 
+  * [[GitHub] webcomponents / polymer-boilerplate](https://github.com/webcomponents/polymer-boilerplate) - Web Component using Polymer
+
+  * [[GitHub] webcomponents/x-tag-boilerplate](https://github.com/webcomponents/x-tag-boilerplate) - Web Component using X-Tag
+
+  * [[GitHub] webcomponents/element-boilerplate](https://github.com/webcomponents/element-boilerplate) - Web Component using VanillaJS
+
 * [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
 
 * [[Gist] ebidel / Web Components Resources.md](https://gist.github.com/ebidel/6314025) - List of resources related to Web Components
