@@ -26,6 +26,8 @@
 
 --
 
+* [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
+
 * [[Speaker Deck] Docker, Get used to it !](https://speakerdeck.com/julienvey/docker-get-used-to-it)
 
 * [Docker - Getting Started](https://www.docker.io/gettingstarted/)
@@ -163,6 +165,7 @@
 
 * [Vagrant 1.6 Feature Preview: Docker-Based Development Environments | Vagrant](https://www.vagrantup.com/blog/feature-preview-vagrant-1-6-docker-dev-environments.html)
 
+
 * Mac OS X
 
   * [How To Install Docker On Mac OS X | docker](http://docs.docker.io/en/latest/installation/mac/)
@@ -170,6 +173,16 @@
   * [Lightweight Docker experience on OSX | zaiste.net](http://zaiste.net/2014/02/lightweight_docker_experience_on_osx/)
 
   * [Upgrade docker and boot2docker on OSX | Java Bien!](http://blog.javabien.net/2014/03/17/upgrade-docker-and-boot2docker-on-osx/)
+
+  * [Using Docker transparently on OSX | Shane Sveller](http://shanesveller.com/blog/2014/02/04/using-docker-transparently-on-osx/)
+
+  * [Cooking with Docker and CoreOS on OS X | Siliconfidential](http://www.siliconfidential.com/articles/docker-coreos-osx/)
+
+  * [Unsuck your vagrant: Developing in one VM with Vagrant and Docker | Tony HB](http://tonyhb.com/unsuck-your-vagrant-developing-in-one-vm-with-vagrant-and-docker)
+
+  * [Run Docker in VirtualBox with Vagrant on Mac OS X | Chris LaRose, Software Developer](http://cjlarose.com/2014/03/08/run-docker-with-vagrant.html)
+
+  * [A OSX + Vagrant + Docker + Ruby on Rails Setup | Medium](https://medium.com/docker-news/117daf4ef0a5)
 
 
 ### Soluções
