@@ -150,6 +150,8 @@
 
 * [Guide to JavaScript Prototypes, Scopes, and Performance | Toptal](http://www.toptal.com/javascript/javascript-prototypes-scopes-and-performance-what-you-need-to-know)
 
+* [JavaScript: What the hell is this!? | VG Tech](http://tech.vg.no/2014/04/16/javascript-what-the-hell-is-this/)
+
 --
 
 * [Understanding JavaScript Inheritance | Alex Sexton](http://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
@@ -362,6 +364,8 @@
 * [Patterns for Asynchronous Programming with Promises | Joe Zim's JavaScript Blog](http://www.joezimjs.com/javascript/patterns-asynchronous-programming-promises/)
 
 --
+
+* [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
 
 * [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
 
