@@ -39,9 +39,15 @@
 
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
 
+  * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
+
+  * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
+
   * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
 * [Foundation: Rapid Prototyping and Building Framework from ZURB](http://foundation.zurb.com/)
+
+--
 
 * [fragment.js](http://danielrapp.github.com/fragment.js/) - A tiny (625 bytes gzipped) tool for easily loading html fragments and templates.
 
@@ -103,15 +109,13 @@
 
 * [[GitHub] jacoborus / nanobar](https://github.com/jacoborus/nanobar) - Very very lighweight progress bars. No jQuery required
 
+* [[GitHub] roshiro / TitleNotifier.js](https://github.com/roshiro/TitleNotifier.js) - Lightweight (< 3kb), dependency-free javascript library to dynamically show the number of unread notifications in your webpage title
+
 * [AdminJS](http://adminjs.com/) - The Backend-Agnostic Administration Framework
 
 * [QuestionMark.js](http://impressivewebs.github.io/QuestionMark.js/) - modal window that displays shortcut keys for your app | [Demo Page](http://www.impressivewebs.com/demo-files/question-mark-js/)
 
 * [Formbuilder.js | dobtco](http://dobtco.github.io/formbuilder/)
-
-* [React](http://facebook.github.io/react/) - A JavaScript library for building user interfaces
-
-    * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
 
 * [tablecloth.js](http://tableclothjs.com/) - Making HTML Tables Suck Less
 
