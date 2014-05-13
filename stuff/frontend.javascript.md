@@ -1277,6 +1277,8 @@
 
 ### ECMAScript 6
 
+* [[GitHub] ericdouglas / ES6-Learning](https://github.com/ericdouglas/ES6-Learning) - List of resources to learn ECMAScript 6
+
 * [[GitHub] nzakas / understandinges6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6"
 
   * [Announcing Understanding ECMAScript 6 | NCZOnline](http://www.nczonline.net/blog/2014/03/26/announcing-understanding-ecmascript-6/)
