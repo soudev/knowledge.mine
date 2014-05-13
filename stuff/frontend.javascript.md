@@ -172,6 +172,8 @@
 
 * [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
 
+* [Rethinking DOM Traversal | Flippin' Awesome](http://flippinawesome.org/2014/05/12/rethinking-dom-traversal/)
+
 --
 
 * [JSDares](http://www.jsdares.com/) - Experimental educational programming environment. Learn Javascript and create your own dares!
