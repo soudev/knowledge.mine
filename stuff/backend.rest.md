@@ -210,6 +210,7 @@
 
 * [RESTful Web services Tutorials | How to do in JAVA](http://howtodoinjava.com/restful-web-service/)
 
+* [Adicionando flexibilidade à sua implementação REST com Yoga | InfoQ Br](http://www.infoq.com/br/articles/json-yoga)
 
 * Jersey Spring
 
