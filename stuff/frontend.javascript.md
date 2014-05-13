@@ -913,9 +913,12 @@
 
   * [[GitHub] jashkenas / coffee-script](https://github.com/jashkenas/coffee-script/) - Unfancy JavaScript
 
+  * [Resources for Learning Coffeescript | Jennifer Mann](http://jennifermann.ghost.io/resources-for-learning-coffeescript/)
+
   * [[CodeSchool] CoffeeScript](http://coffeescript.codeschool.com/)
 
   * [Hard Rock CoffeeScript](https://alchapone.github.io/hard-rock-coffeescript/)
+
 
 * [TypeScript](http://www.typescriptlang.org/) - is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
