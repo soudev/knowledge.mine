@@ -863,6 +863,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
 
+  * [Building Mobile Apps with AngularJS and Ionic | The Official Ionic Blog](http://ionicframework.com/blog/angular-mobile-dev/)
+
 * [Mobile Angular UI](http://mobileangularui.com/) - Angular JS Mobile UI framework with Bootstrap 3 Css
 
 * [The Answer to PhoneGap UI Development | Onsen UI](http://onsenui.io/)
