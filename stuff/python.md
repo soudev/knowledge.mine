@@ -84,3 +84,5 @@
 
 * [Developing RESTful Web APIs with Python, Flask and MongoDB | Speaker Deck](https://speakerdeck.com/nicola/developing-restful-web-apis-with-python-flask-and-mongodb)
 
+* [Flask Book](http://flaskbook.com/)
+
