@@ -26,6 +26,8 @@
 
 --
 
+* [[YouTube] Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) - Twitter University (02/10/2013).
+
 * [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
 
 * [[Speaker Deck] Docker, Get used to it !](https://speakerdeck.com/julienvey/docker-get-used-to-it)
