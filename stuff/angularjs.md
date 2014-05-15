@@ -1231,7 +1231,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] angular-ui / AngularJS-brackets](https://github.com/angular-ui/AngularJS-brackets) - AngularJS plugin for Brackets
 
-* [AngularStrap](http://mgcrea.github.com/angular-strap/) - Bootstrap directives for AngularJS
+* [AngularStrap](https://mgcrea.github.io/angular-strap/) - Bootstrap directives for AngularJS
 
 * [Angular Kendo](http://kendo-labs.github.com/angular-kendo/) - Angular-Kendo is a passthrough to the Kendo UI
 
