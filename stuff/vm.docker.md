@@ -3,11 +3,16 @@
 
 <!-- toc -->
 * [Docker](#docker)
+  * [Aprendizado](#aprendizado)
+  * [Dockerfile](#dockerfile)
+  * [Dicas](#dicas)
   * [Ambiente de desenvolvimento](#ambiente-de-desenvolvimento)
     * [Mac OS X](#mac-os-x)
     * [Windows](#windows)
-  * [Soluções](#soluções)
+  * [Continuous Integration](#continuous-integration)
+  * [Raspberry Pi](#raspberry-pi)
   * [Caso de Uso](#caso-de-uso)
+  * [Soluções](#soluções)
   * [Node.js](#nodejs)
   * [Red Hat](#red-hat)
   * [Amazon AMI](#amazon-ami)
@@ -26,7 +31,8 @@
 
 * [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
---
+
+### Aprendizado
 
 * [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
 
@@ -34,37 +40,17 @@
 
 * [[YouTube] Why we built Docker](https://www.youtube.com/watch?v=3N3n9FzebAA) - dotScale 2013 - Solomon Hykes (01/08/2013)
 
+* [Docker - Getting Started](https://www.docker.io/gettingstarted/)
+
 * [[Speaker Deck] Docker, Get used to it !](https://speakerdeck.com/julienvey/docker-get-used-to-it)
 
-* [Docker - Getting Started](https://www.docker.io/gettingstarted/)
+* [What is Docker?](https://medium.com/devops-programming/7f5fd023158f) - The buzzword that is taking the DevOps world by storm
 
 * [Getting Started with Docker | Servers for Hackers](http://serversforhackers.com/articles/2014/03/20/getting-started-with-docker/)
 
 * [Docker in Practice | Food Fight](http://foodfightshow.org/2013/11/docker-in-practice.html)
 
---
-
-* [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
-
 * [[SlideShare] Why Docker](http://www.slideshare.net/dotCloud/why-docker)
-
---
-
-* [Docker - Dockerfile tutorial](https://www.docker.io/learn/dockerfile/)
-
-* [Dockerfiles in a jiffy | The Disco Blog](http://thediscoblog.com/blog/2014/05/05/dockerfiles-in-a-jiffy/)
-
-* Dockerfile Best Practices | Michael Crosby : [1](http://crosbymichael.com/dockerfile-best-practices.html) | [2](http://crosbymichael.com/dockerfile-best-practices-take-2.html)
-
-* [Dockerfile deep dive | Michael Crosby](http://crosbymichael.com/dockerfile-deep-dive.html)
-
-* [Advanced Docker Volumes | Michael Crosby](http://crosbymichael.com/advanced-docker-volumes.html)
-
---
-
-* [Docker: Using Linux Containers to Support Portable Application Deployment | InfoQ](http://www.infoq.com/articles/docker-containers)
-
-* [What is Docker?](https://medium.com/devops-programming/7f5fd023158f) - The buzzword that is taking the DevOps world by storm
 
 --
 
@@ -80,7 +66,19 @@
 
 * [[SlideShare] Scale Big With Docker — Moboom 2014](http://www.slideshare.net/jpetazzo/scale-big-with-docker-moboom-2014)
 
---
+
+### Dockerfile
+
+* [Docker - Dockerfile tutorial](https://www.docker.io/learn/dockerfile/)
+
+* [Dockerfiles in a jiffy | The Disco Blog](http://thediscoblog.com/blog/2014/05/05/dockerfiles-in-a-jiffy/)
+
+* Dockerfile Best Practices | Michael Crosby : [1](http://crosbymichael.com/dockerfile-best-practices.html) | [2](http://crosbymichael.com/dockerfile-best-practices-take-2.html)
+
+* [Dockerfile deep dive | Michael Crosby](http://crosbymichael.com/dockerfile-deep-dive.html)
+
+
+### Dicas
 
 * [[YouTube] 15 Docker Tips in 15 Minutes](https://www.youtube.com/watch?v=BJT9bA64Hcc) - Twitter University (19/12/2013).
 
@@ -88,35 +86,15 @@
 
 * [Docker: what I learned from working out what's in it for me | Brownsofa](http://brownsofa.org/blog/2014/03/14/docker-what-i-learned-from-whats-in-it-for-me/)
 
+* [Advanced Docker Volumes | Michael Crosby](http://crosbymichael.com/advanced-docker-volumes.html)
+
 --
 
 * [My Other Virtual Machine is a Container | Innovation Insights](http://insights.wired.com/profiles/blogs/my-other-virtual-machine-is-a-container)
 
 * [Building a Multi-Purpose Docker Image | Docker News — Medium](https://medium.com/docker-news/7762378ebc2e)
 
---
-
-* [Docker Explained: How To Containerize and Use Nginx as a Proxy | DigitalOcean](https://www.digitalocean.com/community/articles/docker-explained-how-to-containerize-and-use-nginx-as-a-proxy)
-
-* [Hosting static sites with Docker and Nginx | Kyle Mathews](http://bricolage.io/hosting-static-sites-with-docker-and-nginx/)
-
---
-
-* [Notes about fiddling with docker and continuous deployment ideas | Roxee Tech](http://tech.roxee.tv/2013/10/01/notes-about-fiddling-with-docker-and-continuous-deployment-ideas/)
-
-* [Using Docker To Run Ruby Rspec CI In Jenkins | ActiveState](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins)
-
-* Continuous Integration and Deployment with Jenkins and Docker [Part I](http://inpursuit.ghost.io/continuous-integration-with-jenkins-and-docker/) | [Part II](http://inpursuit.ghost.io/continuous-integration-and-deployment-with-jenkins-and-docker-part-ii/)
-
-* [Using Docker as a Jenkins Cloud Provider | Nuxeo Blogs](http://www.nuxeo.com/blog/development/2014/02/docker-jenkins-cloud-provider/)
-
-* [Continuous Integration Using Docker, Maven and Jenkins | Wouter Danes](http://www.wouterdanes.net/2014/04/11/continuous-integration-using-docker-maven-and-jenkins.html)
-
-* [From zero to fully working CI server in less than 10 minutes with Drone & Docker | Jean-Philippe Boily](http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker)
-
---
-
-* [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
+* [Backup Docker to Amazon S3 | stefanXO](http://blog.stefanxo.com/2014/02/backup-docker-to-amazon-s3/)
 
 --
 
@@ -132,19 +110,21 @@
 
 --
 
-* [Docker on Raspberry Pi | Resin.io](http://resin.io/docker-on-raspberry-pi/)
+* [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
 
-* [Why port Docker to the Raspberry Pi? | Resin.io](http://resin.io/why-port-docker-to-the-raspberry-pi/)
+* [Docker: Using Linux Containers to Support Portable Application Deployment | InfoQ](http://www.infoq.com/articles/docker-containers)
 
---
-
-* [[SlideShare] Running Netflix OSS on Docker with Nirmata](http://www.slideshare.net/patelrit/nirmata-docker)
-
-* [Baidu using Docker for its PaaS | Docker Blog](http://blog.docker.io/2013/12/baidu-using-docker-for-its-paas/)
+* [Docker: Git for deployment](http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment)
 
 --
 
-* [Backup Docker to Amazon S3 | stefanXO](http://blog.stefanxo.com/2014/02/backup-docker-to-amazon-s3/)
+* [Docker Explained: How To Containerize and Use Nginx as a Proxy | DigitalOcean](https://www.digitalocean.com/community/articles/docker-explained-how-to-containerize-and-use-nginx-as-a-proxy)
+
+* [Hosting static sites with Docker and Nginx | Kyle Mathews](http://bricolage.io/hosting-static-sites-with-docker-and-nginx/)
+
+--
+
+* [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
 
 
 ### Ambiente de desenvolvimento
@@ -214,6 +194,43 @@
 * [Running .NET apps on Docker | Randoom](http://friism.com/running-net-apps-on-docker)
 
 
+### Continuous Integration
+
+* [Notes about fiddling with docker and continuous deployment ideas | Roxee Tech](http://tech.roxee.tv/2013/10/01/notes-about-fiddling-with-docker-and-continuous-deployment-ideas/)
+
+* [Using Docker To Run Ruby Rspec CI In Jenkins | ActiveState](http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins)
+
+* Continuous Integration and Deployment with Jenkins and Docker [Part I](http://inpursuit.ghost.io/continuous-integration-with-jenkins-and-docker/) | [Part II](http://inpursuit.ghost.io/continuous-integration-and-deployment-with-jenkins-and-docker-part-ii/)
+
+* [Using Docker as a Jenkins Cloud Provider | Nuxeo Blogs](http://www.nuxeo.com/blog/development/2014/02/docker-jenkins-cloud-provider/)
+
+* [Continuous Integration Using Docker, Maven and Jenkins | Wouter Danes](http://www.wouterdanes.net/2014/04/11/continuous-integration-using-docker-maven-and-jenkins.html)
+
+* [From zero to fully working CI server in less than 10 minutes with Drone & Docker | Jean-Philippe Boily](http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker)
+
+
+### Raspberry Pi
+
+* [Docker on Raspberry Pi | Resin.io](http://resin.io/docker-on-raspberry-pi/)
+
+* [Why port Docker to the Raspberry Pi? | Resin.io](http://resin.io/why-port-docker-to-the-raspberry-pi/)
+
+
+### Caso de Uso
+
+* [What people have already built using Docker | Docker](https://www.docker.io/community/#What-people-have-already-built-using-Docker)
+
+* [Docker in education: From VMs to Containers | Docker Blog](http://blog.docker.io/2014/04/docker-in-education-interview/)
+
+* [How Docker Helped Us Achieve the (Near) Impossible | Iron.io Blog](http://blog.iron.io/2014/04/how-docker-helped-us-achieve-near.html)
+
+* [[YouTube] Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU) - Twitter University (11/12/2013)
+
+* [[SlideShare] Running Netflix OSS on Docker with Nirmata](http://www.slideshare.net/patelrit/nirmata-docker)
+
+* [Baidu using Docker for its PaaS | Docker Blog](http://blog.docker.io/2013/12/baidu-using-docker-for-its-paas/)
+
+
 ### Soluções
 
 * [[GitHub] boot2docker / boot2docker](https://github.com/boot2docker/boot2docker) - Lightweight Linux for Docker
@@ -233,17 +250,6 @@
 * [Create, manage and run clusters of Docker containers using Node.js | decking.io](http://decking.io/)
 
 * [[GitHub] rogaha / docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
-
-
-### Caso de Uso
-
-* [What people have already built using Docker | Docker](https://www.docker.io/community/#What-people-have-already-built-using-Docker)
-
-* [Docker in education: From VMs to Containers | Docker Blog](http://blog.docker.io/2014/04/docker-in-education-interview/)
-
-* [How Docker Helped Us Achieve the (Near) Impossible | Iron.io Blog](http://blog.iron.io/2014/04/how-docker-helped-us-achieve-near.html)
-
-* [[YouTube] Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU) - Twitter University (11/12/2013)
 
 
 ### Node.js
