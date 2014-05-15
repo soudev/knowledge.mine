@@ -29,6 +29,7 @@
     * [Gesture](#gesture)
   * [Design API & Biblioteca](#design-api-biblioteca)
   * [Ferramentas](#ferramentas)
+    * [Slush](#slush)
     * [Yeoman](#yeoman)
     * [DevTools](#devtools)
       * [Firefox](#firefox)
@@ -1028,9 +1029,12 @@
 
 * [Getting a Head Start with Front End Generators | Flippin' Awesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
 
---
+
+#### Slush
 
 * [[GitHub] klei / slush](https://github.com/klei/slush) - The streaming scaffolding system - Gulp as a replacement for Yeoman
+
+* [Slush, o novo Yeoman | Diogo Moretti](http://diogo.nu/slush-o-novo-yeoman/)
 
 
 #### Yeoman
