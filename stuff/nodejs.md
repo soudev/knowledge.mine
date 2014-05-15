@@ -1463,9 +1463,11 @@
 
 * [Using Express.js for APIs | StrongLoop](http://blog.strongloop.com/using-express-js-for-apis)
 
-* [Node.js para leigos - Framework Express parte 1 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-1/) 
+* [Node.js para leigos - Framework Express parte 1 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-1/)
 
-* [Node.js para leigos - Framework Express parte 2 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-2/)  
+* [Node.js para leigos - Framework Express parte 2 | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-framework-express-parte-2/)
+
+* [Primeiros passos com Express 4 | Underground WebDev](http://udgwebdev.com/primeiros-passos-com-express-4/)
 
 * [Todo App with Express.js/Node.js and MongoDB | webapplog](http://webapplog.com/todo-app-with-express-jsnode-js-and-mongodb/)
 
