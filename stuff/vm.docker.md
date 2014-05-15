@@ -66,6 +66,8 @@
 
 * [[SlideShare] Scale Big With Docker — Moboom 2014](http://www.slideshare.net/jpetazzo/scale-big-with-docker-moboom-2014)
 
+* [A Practical Introduction to Docker Containers | Red Hat Developer Blog](https://developerblog.redhat.com/2014/05/15/practical-introduction-to-docker-containers/)
+
 
 ### Dockerfile
 
