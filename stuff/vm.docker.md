@@ -4,6 +4,8 @@
 <!-- toc -->
 * [Docker](#docker)
   * [Ambiente de desenvolvimento](#ambiente-de-desenvolvimento)
+    * [Mac OS X](#mac-os-x)
+    * [Windows](#windows)
   * [Soluções](#soluções)
   * [Caso de Uso](#caso-de-uso)
   * [Node.js](#nodejs)
@@ -26,9 +28,11 @@
 
 --
 
+* [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
+
 * [[YouTube] Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) - Twitter University (02/10/2013).
 
-* [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
+* [[YouTube] Why we built Docker](https://www.youtube.com/watch?v=3N3n9FzebAA) - dotScale 2013 - Solomon Hykes (01/08/2013)
 
 * [[Speaker Deck] Docker, Get used to it !](https://speakerdeck.com/julienvey/docker-get-used-to-it)
 
@@ -72,9 +76,13 @@
 
 * [The Revolution will be Containerized | Joshua Barratt](https://rawgithub.com/jbarratt/dockertalk/master/talk/index.html) - The Past, Present and Future of Containers for Applications
 
+  * [[YouTube] The Revolution Will Be Containerized: (Docker)](https://www.youtube.com/watch?v=LNAzzHS1Rho)
+
 * [[SlideShare] Scale Big With Docker — Moboom 2014](http://www.slideshare.net/jpetazzo/scale-big-with-docker-moboom-2014)
 
 --
+
+* [[YouTube] 15 Docker Tips in 15 Minutes](https://www.youtube.com/watch?v=BJT9bA64Hcc) - Twitter University (19/12/2013).
 
 * [Docker : The good parts | Shrikrishna Holla](http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/)
 
@@ -168,23 +176,42 @@
 * [Vagrant 1.6 Feature Preview: Docker-Based Development Environments | Vagrant](https://www.vagrantup.com/blog/feature-preview-vagrant-1-6-docker-dev-environments.html)
 
 
-* Mac OS X
+#### Mac OS X
 
-  * [How To Install Docker On Mac OS X | docker](http://docs.docker.io/en/latest/installation/mac/)
+* [Installing Docker on Mac OS X | Docker](http://docs.docker.io/installation/mac/)
 
-  * [Lightweight Docker experience on OSX | zaiste.net](http://zaiste.net/2014/02/lightweight_docker_experience_on_osx/)
+--
 
-  * [Upgrade docker and boot2docker on OSX | Java Bien!](http://blog.javabien.net/2014/03/17/upgrade-docker-and-boot2docker-on-osx/)
+* [Lightweight Docker experience on OSX | zaiste.net](http://zaiste.net/2014/02/lightweight_docker_experience_on_osx/)
 
-  * [Using Docker transparently on OSX | Shane Sveller](http://shanesveller.com/blog/2014/02/04/using-docker-transparently-on-osx/)
+* [Upgrade docker and boot2docker on OSX | Java Bien!](http://blog.javabien.net/2014/03/17/upgrade-docker-and-boot2docker-on-osx/)
 
-  * [Cooking with Docker and CoreOS on OS X | Siliconfidential](http://www.siliconfidential.com/articles/docker-coreos-osx/)
+* [Using Docker transparently on OSX | Shane Sveller](http://shanesveller.com/blog/2014/02/04/using-docker-transparently-on-osx/)
 
-  * [Unsuck your vagrant: Developing in one VM with Vagrant and Docker | Tony HB](http://tonyhb.com/unsuck-your-vagrant-developing-in-one-vm-with-vagrant-and-docker)
+* [Cooking with Docker and CoreOS on OS X | Siliconfidential](http://www.siliconfidential.com/articles/docker-coreos-osx/)
 
-  * [Run Docker in VirtualBox with Vagrant on Mac OS X | Chris LaRose, Software Developer](http://cjlarose.com/2014/03/08/run-docker-with-vagrant.html)
+* [Unsuck your vagrant: Developing in one VM with Vagrant and Docker | Tony HB](http://tonyhb.com/unsuck-your-vagrant-developing-in-one-vm-with-vagrant-and-docker)
 
-  * [A OSX + Vagrant + Docker + Ruby on Rails Setup | Medium](https://medium.com/docker-news/117daf4ef0a5)
+* [Run Docker in VirtualBox with Vagrant on Mac OS X | Chris LaRose, Software Developer](http://cjlarose.com/2014/03/08/run-docker-with-vagrant.html)
+
+* [A OSX + Vagrant + Docker + Ruby on Rails Setup | Medium](https://medium.com/docker-news/117daf4ef0a5)
+
+
+#### Windows
+
+* [Installing Docker on Windows | Docker](http://docs.docker.io/installation/windows/)
+
+--
+
+* [[SlideShare] Run Docker On Windows Using Vagrant](http://www.slideshare.net/julienbarbier42/run-docker-on-windows-using-vagrant)
+
+* [Docker on Windows with VMware Workstation and Vagrant | vByron.com](http://vbyron.com/blog/docker-windows-vmware-workstation-vagrant/)
+
+* [The tale of Docker on Windows (or: I wish I had a Mac)](http://scalableapps.com/the-tale-of-docker-on-windows-or-i-wish-i-had-a-mac/)
+
+--
+
+* [Running .NET apps on Docker | Randoom](http://friism.com/running-net-apps-on-docker)
 
 
 ### Soluções
@@ -205,6 +232,8 @@
 
 * [Create, manage and run clusters of Docker containers using Node.js | decking.io](http://decking.io/)
 
+* [[GitHub] rogaha / docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
+
 
 ### Caso de Uso
 
@@ -213,6 +242,8 @@
 * [Docker in education: From VMs to Containers | Docker Blog](http://blog.docker.io/2014/04/docker-in-education-interview/)
 
 * [How Docker Helped Us Achieve the (Near) Impossible | Iron.io Blog](http://blog.iron.io/2014/04/how-docker-helped-us-achieve-near.html)
+
+* [[YouTube] Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU) - Twitter University (11/12/2013)
 
 
 ### Node.js
