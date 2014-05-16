@@ -1363,6 +1363,10 @@
 
 * [[GitHub] FWeinb / screenshot-service](https://github.com/FWeinb/screenshot-service) - A simple screenshot web service powered by Express and node-webkit.
 
+* [Fenix](http://fenixwebserver.com/) - Finally, a simple static desktop web server
+
+  * [[GitHub] coreybutler / fenix](https://github.com/coreybutler/fenix) - A software app that manages development web servers and webhooks
+
 * popcorn time
 
   * [[twitter] popcorntimetv](https://twitter.com/popcorntimetv) - infos
