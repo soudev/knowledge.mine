@@ -228,6 +228,8 @@
 
 * [[YouTube] Docker at Spotify](https://www.youtube.com/watch?v=pts6F00GFuU) - Twitter University (11/12/2013)
 
+* [[YouTube] Docker ♥ Mesos](https://www.youtube.com/watch?v=2MmnggSmTJo) - Twitter University (25/11/2013). OpenTable's Aish Fenton explains why Docker loves [Mesos](https://mesos.apache.org/), and how OpenTable uses the powerful combination.
+
 * [[SlideShare] Running Netflix OSS on Docker with Nirmata](http://www.slideshare.net/patelrit/nirmata-docker)
 
 * [Baidu using Docker for its PaaS | Docker Blog](http://blog.docker.io/2013/12/baidu-using-docker-for-its-paas/)
