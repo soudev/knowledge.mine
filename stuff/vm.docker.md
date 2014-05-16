@@ -30,6 +30,8 @@
 
 * [Docker Image Index](https://index.docker.io/)
 
+* [The whole story - Docker: the Linux container engine](https://www.docker.io/the_whole_story/)
+
 * [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
 
@@ -257,6 +259,8 @@
 
 
 ### Caso de Uso
+
+* [Use Cases | Docker Inc](http://www.docker.com/about_docker/usecases/)
 
 * [What people have already built using Docker | Docker](https://www.docker.io/community/#What-people-have-already-built-using-Docker)
 
