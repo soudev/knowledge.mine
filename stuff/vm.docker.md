@@ -6,6 +6,7 @@
   * [Aprendizado](#aprendizado)
   * [Dockerfile](#dockerfile)
   * [Dicas](#dicas)
+  * [Private Registry](#private-registry)
   * [Ambiente de desenvolvimento](#ambiente-de-desenvolvimento)
     * [Mac OS X](#mac-os-x)
     * [Windows](#windows)
@@ -54,9 +55,15 @@
 
 --
 
+* [[Gist] wsargent / docker_cheat.md](https://gist.github.com/wsargent/7049221) - Docker cheat sheet
+
+--
+
 * [Learning About Docker | Composite Code](http://compositecode.com/2013/11/20/learning-about-docker/)
 
-* [[Gist] wsargent / docker_cheat.md](https://gist.github.com/wsargent/7049221) - Docker cheat sheet
+* [The Docker Guidebook | KenCochrane.net](http://kencochrane.net/blog/2013/08/the-docker-guidebook/)
+
+--
 
 * [Adventures in Dockerland | Open Source Community](http://community.redhat.com/adventures-in-dockerland/)
 
@@ -127,6 +134,19 @@
 --
 
 * [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
+
+
+### Private Registry
+
+* [[YouTube] Docker: How to Use Your Own Private Registry](https://www.youtube.com/watch?v=CAewZCBT4PI) - Twitter University (12/11/2013)
+
+* [Working with a Docker Repository | Docker Docs](http://docs.docker.io/use/workingwithrepository/)
+
+* [How to use your own Registry | Docker Blog](http://blog.docker.io/2013/07/how-to-use-your-own-registry/)
+
+* [Docker Registry or How to Run your own Private Docker Image Repository | codecentric Blogcodecentric Blog](https://blog.codecentric.de/en/2014/02/docker-registry-run-private-docker-image-repository/)
+
+* [Deploying your own Private Docker Registry | ActiveState](http://www.activestate.com/blog/2014/01/deploying-your-own-private-docker-registry)
 
 
 ### Ambiente de desenvolvimento
@@ -254,6 +274,10 @@
 * [Create, manage and run clusters of Docker containers using Node.js | decking.io](http://decking.io/)
 
 * [[GitHub] rogaha / docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
+
+--
+
+* [Gandalf.io](https://gandalf.io/) -  Affordable Docker Private Registries
 
 
 ### Node.js
