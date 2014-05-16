@@ -32,6 +32,8 @@
 
 --
 
+* [[YouTube] Introduction to Vagrant](https://www.youtube.com/watch?v=FSxS6iPJMFw) - Joe Maddalone (18/09/2013). Vagrant is a package manager for development environments. Seriously...the entire environment.
+
 * [Vagrant e seus plugins | iMasters](http://imasters.com.br/tecnologia/redes-e-servidores/vagrant-e-seus-plugins/)
 
 --
