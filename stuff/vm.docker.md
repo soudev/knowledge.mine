@@ -279,19 +279,31 @@
 
   * [[Vagrant Cloud] yungsang / boot2docker](https://vagrantcloud.com/yungsang/boot2docker)
 
+--
+
 * [Project Atomic](http://www.projectatomic.io/) - Sponsored by Red Hat, Inc. Deploy and Manage Your Docker Containers.
 
 * [[GitHub] progrium / dokku](https://github.com/progrium/dokku) - Docker powered mini-Heroku in around 100 lines of Bash
 
   * [How to Use the DigitalOcean Dokku Application | DigitalOcean](https://www.digitalocean.com/community/articles/how-to-use-the-digitalocean-dokku-application)
 
+--
+
 * [[GitHub] drone / drone](https://github.com/drone/drone) - is a Continuous Integration platform built on Docker
 
 * [[GitHub] Strider-CD / strider](https://github.com/Strider-CD/strider) - is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.JS / JavaScript and uses MongoDB as a backing store. It is published under the BSD license.
 
+--
+
 * [Create, manage and run clusters of Docker containers using Node.js | decking.io](http://decking.io/)
 
+--
+
 * [[GitHub] rogaha / docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
+
+--
+
+* [[GitHub] shipyard / shipyard](https://github.com/shipyard/shipyard) - Docker Management
 
 --
 
