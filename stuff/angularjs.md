@@ -1113,6 +1113,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] davej / angular-classy](https://github.com/davej/angular-classy) - Cleaner class-based controllers with Angular
+
 * [[GitHub] roypeled / angular-class-extender](https://github.com/roypeled/angular-class-extender) - A lightweight angular module that adds support for multiple class inheritance and method abstraction
 
 --
