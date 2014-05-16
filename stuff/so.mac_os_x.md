@@ -1,5 +1,23 @@
 # Mac OS X
 
+
+<!-- toc -->
+* [Dicas](#dicas)
+* [Mavericks](#mavericks)
+* [Colors](#colors)
+* [dotFiles](#dotfiles)
+* [Setup](#setup)
+* [Dicas](#dicas)
+* [Fontes](#fontes)
+* [UNIX - shell](#unix-shell)
+* [Editores de Audio](#editores-de-audio)
+* [Games](#games)
+
+<!-- toc stop -->
+
+
+## Dicas
+
 * [16 apps gratuitos para Mac que você não pode deixar de conhecer | BR-Mac.org](http://br-mac.org/2014/01/16-apps-gratuitos-para-mac-que-voce-nao-pode-deixar-de-conhecer.html)
 
 * [Configurando o Terminal no Mac OS X | Simples Ideias](http://simplesideias.com.br/configurando-o-terminal-no-mac-os-x)
