@@ -924,6 +924,8 @@
 
   * [Hard Rock CoffeeScript](https://alchapone.github.io/hard-rock-coffeescript/)
 
+  * [Functional CoffeeScript for the impatient | Blog of Cedric Ruiz](http://cedricruiz.me/blog/functional-coffeescript-for-the-impatient/)
+
 
 * [TypeScript](http://www.typescriptlang.org/) - is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
@@ -1210,7 +1212,9 @@
 
 * [Patterns For Large-Scale JavaScript Application Architecture | Addy Osmani](http://addyosmani.com/largescalejavascript/)
 
-        
+* [reInteractive: Lessons learnt by building Single Page Applications | Sydney, Australia Ruby on Rails Developers](http://www.reinteractive.net/posts/186-lessons-learnt-by-building-single-page-applications)
+
+
 ### Frameworks MVC
 
 * [MVC Architecture](http://developer.chrome.com/trunk/apps/app_frameworks.html)
