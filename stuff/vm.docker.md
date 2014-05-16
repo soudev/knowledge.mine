@@ -151,27 +151,39 @@
 
 ### Ambiente de desenvolvimento
 
-* [Docker for Isolated and Reproducible Development Environments | Ana Nelson's Blog](http://blog.ananelson.com/2014/03/docker-isolated-and-reproducible/)
-
 * [Useful Docker Bash functions and aliases | Kartar.Net](http://www.kartar.net/2014/03/some-useful-docker-bash-functions-and-aliases/)
 
 * [Building a Development Environment with Docker | Terse Systems](http://tersesystems.com/2013/11/20/building-a-development-environment-with-docker/)
 
+* [Docker for Isolated and Reproducible Development Environments | Ana Nelson's Blog](http://blog.ananelson.com/2014/03/docker-isolated-and-reproducible/)
+
 * [[SlideShare] Docker and Containers for Development and Deployment — SCALE12X](http://www.slideshare.net/jpetazzo/docker-and-containers-for-development-and-deployment-scale12x) - Docker is an Open Source engine to build, run, and manage containers. We'll explain what are Linux Containers, what powers them (under the hood), and what extra value Docker brings to the table. Then we'll see what the typical Docker workflow looks like from a developer point of view. We'll also give an Ops perspective, including deployment options. 
+
+--
 
 * [Developing with WildFly, JBoss Developer Studio and Docker | Marek Goldmann](http://goldmann.pl/blog/2013/11/20/developing-with-wildfly-jboss-developer-studio-and-docker/)
 
 * [Deploy Java Apps With Docker = Awesome | Atlassian Blogs](https://blogs.atlassian.com/2013/06/deploy-java-apps-with-docker-awesome/)
 
+--
+
+* [A Docker primer – from zero to a running Django app](https://ochronus.com/docker-primer-django/)
+
 * Rapid Prototyping a Python web application with Vagrant and Docker | Continuous Delivery Services
 
   * [Part 1, Development](http://continuousdelivery.uglyduckling.nl/continuous-delivery/rapid-prototyping-a-python-web-application-with-vagrant-and-docker-part-1-development/)
 
+--
+
 * [Easily Deploy Redis Backed Web Apps With Docker | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/easily-deploy-redis-backed-web-apps-with-docker--cms-20405)
+
+--
 
 * [How to create a Docker + Node.js + MongoDB + Varnish environment | Luis Elizondo](http://luiselizondo.net/blogs/luis-elizondo/how-create-docker-nodejs-mongodb-varnish-environment)
 
 * [Getting Started with Docker for the Node.js | CouchDB Programmer - Medium](https://medium.com/code-adventures/35c45ce2a814)
+
+--
 
 * [Docker and MongoDB Sharded Cluster | Sebastian Voss](http://sebastianvoss.com/docker-mongodb-sharded-cluster.html)
 
