@@ -262,6 +262,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS - Where To Start?](http://blog.whydoifollow.com/post/angularjs-where-to-start)
 
+* [Shaping up with Angular.js : Free CodeSchool Course](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+
 * [Egghead - AngularJS](http://egghead.io/) - curso online
 
 * [Hands-on Angular | Tuts+](https://tutsplus.com/course/hands-on-angular/) - curso online
