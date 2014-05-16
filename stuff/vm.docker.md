@@ -105,7 +105,13 @@
 
 * [Building a Multi-Purpose Docker Image | Docker News — Medium](https://medium.com/docker-news/7762378ebc2e)
 
+--
+
 * [Backup Docker to Amazon S3 | stefanXO](http://blog.stefanxo.com/2014/02/backup-docker-to-amazon-s3/)
+
+* [Difference between save and export in Docker | Thomas Uhrig](http://tuhrig.de/difference-between-save-and-export-in-docker/)
+
+* [Layering of Docker images | Thomas Uhrig](http://tuhrig.de/layering-of-docker-images/)
 
 --
 
