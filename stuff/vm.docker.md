@@ -153,6 +153,12 @@
 
 * [Useful Docker Bash functions and aliases | Kartar.Net](http://www.kartar.net/2014/03/some-useful-docker-bash-functions-and-aliases/)
 
+--
+
+* A Docker Dev Environment in 24 Hours! | RelateIQ Blog - [Part 1](http://blog.relateiq.com/a-docker-dev-environment-in-24-hours-part-1-of-2/) | [Part 2](http://blog.relateiq.com/a-docker-dev-environment-in-24-hours-part-2-of-2/)
+
+  * [[GitHub] relateiq / docker_public](https://github.com/relateiq/docker_public) - Instant RelateIQ Development Environment
+
 * [Building a Development Environment with Docker | Terse Systems](http://tersesystems.com/2013/11/20/building-a-development-environment-with-docker/)
 
 * [Docker for Isolated and Reproducible Development Environments | Ana Nelson's Blog](http://blog.ananelson.com/2014/03/docker-isolated-and-reproducible/)
