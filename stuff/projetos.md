@@ -32,6 +32,8 @@
 
 * [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
 
+* [[YouTube] What is DevOps? - In Simple English](https://www.youtube.com/watch?v=_I94-tJlovg) - Rackspace (12/12/2013)
+
 * [O que é DevOps afinal? | gutocarvalho.net](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
 
 --
