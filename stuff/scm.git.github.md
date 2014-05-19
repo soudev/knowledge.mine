@@ -8,7 +8,7 @@
   * [Referência](#referência)
   * [Curso online](#curso-online)
   * [Cursos online interativos](#cursos-online-interativos)
-  * [GitHub](#github)
+  * [Aprendizado: GitHub](#aprendizado-github)
 * [Git em empresas](#git-em-empresas)
 * [Dicas](#dicas)
   * [SVN para GIT](#svn-para-git)
@@ -20,7 +20,7 @@
     * [pull request](#pull-request)
     * [patch](#patch)
   * [Curiosidades](#curiosidades)
-  * [GitHub](#github)
+  * [Dicas: GitHub](#dicas-github)
     * [gh-pages](#gh-pages)
     * [Wiki](#wiki)
   * [Sistemas de Blog e Sites Estáticos](#sistemas-de-blog-e-sites-estáticos)
@@ -151,7 +151,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/index.html)
 
 
-### GitHub
+### Aprendizado: GitHub
 
 * [Learn Git | GitHub Learn](http://learn.github.com/)
 
@@ -463,13 +463,15 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 * [Using GitHub as a personal maven repository](http://coffeecoders.de/2011/09/using-github-as-a-personal-maven-repository/)
 
 
-### GitHub
+### Dicas: GitHub
 
 * [Embed Github Repos | insert.ly](http://www.insert.ly/) - New way to Embed Github Repos to your Blog & Web Sites!
 
 * [Top Github Languages for 2013 (so far) | Adam Bard](http://adambard.com/blog/top-github-languages-for-2013-so-far/)
 
 * [[GitHub] rgrove / rawgithub](https://github.com/rgrove/rawgithub) - rawgithub.com serves files from raw.github.com, but with the correct content types
+
+* [Octotree | Google Chrome Extension](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc/) - Useful for developers who frequently read source in GitHub
 
 
 #### gh-pages
