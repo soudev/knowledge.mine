@@ -28,6 +28,8 @@
 
 * [docker.io](http://www.docker.io/) - an open source project to pack, ship and run any application as a lightweight container
 
+* [[GitHub] dotcloud / docker](https://github.com/dotcloud/docker/) - the open-source application container engine
+
 * [Docker Image Index](https://index.docker.io/)
 
 * [The whole story - Docker: the Linux container engine](https://www.docker.io/the_whole_story/)
