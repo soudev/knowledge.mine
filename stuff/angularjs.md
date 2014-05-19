@@ -601,6 +601,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Breaking the Ice with AngularUI Utils | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-utils.html) - creditcard parsing, custom events, maps, and an easter egg
 
+* [Understanding Angular's Magic: Don't Bind to Primitives | The Code Dump](http://www.codelord.net/2014/05/10/understanding-angulars-magic-dont-bind-to-primitives/)
+
 --
 
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
