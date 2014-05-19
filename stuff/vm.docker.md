@@ -209,7 +209,7 @@
 
 * [Docker and MongoDB Sharded Cluster | Sebastian Voss](http://sebastianvoss.com/docker-mongodb-sharded-cluster.html)
 
-* [Vagrant 1.6 Feature Preview: Docker-Based Development Environments | Vagrant](https://www.vagrantup.com/blog/feature-preview-vagrant-1-6-docker-dev-environments.html)
+* [Vagrant 1.6 Feature Preview: Docker-Based Development Environments | Vagrant](http://www.vagrantup.com/blog/feature-preview-vagrant-1-6-docker-dev-environments.html)
 
 
 #### Mac OS X
