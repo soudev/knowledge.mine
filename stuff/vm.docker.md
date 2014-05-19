@@ -177,6 +177,12 @@
 
 --
 
+* [From Vagrant To Docker | ScaleIt!](http://dahlgren.so/software/2014/05/11/From-Vagrant-To-Docker/) - Speeding up the development cycle
+
+* [From Vagrant To Docker Continued | ScaleIt!](http://dahlgren.so/software/2014/05/17/From-Vagrant-To-Docker-Continued/) - A slightly more complex example
+
+--
+
 * [Developing with WildFly, JBoss Developer Studio and Docker | Marek Goldmann](http://goldmann.pl/blog/2013/11/20/developing-with-wildfly-jboss-developer-studio-and-docker/)
 
 * [Deploy Java Apps With Docker = Awesome | Atlassian Blogs](https://blogs.atlassian.com/2013/06/deploy-java-apps-with-docker-awesome/)
