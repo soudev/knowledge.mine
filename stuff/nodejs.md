@@ -373,6 +373,8 @@
 
 * [[GitHub] mdevils / node-jscs](https://github.com/mdevils/node-jscs) - JavaScript Code Style checker
 
+* [[GitHub] mozilla / scanjs](https://github.com/mozilla/scanjs) - Static analysis tool for javascript code based. Scanjs uses Acorn to convert sources to AST, then walks AST looking for patterns
+
 * [[GitHub] es-analysis / plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 
   * [JavaScript Code Complexity Visualization | Ariya Hidayat](http://ariya.ofilabs.com/2013/01/javascript-code-complexity-visualization.html)
@@ -1368,6 +1370,8 @@
 * [Fenix](http://fenixwebserver.com/) - Finally, a simple static desktop web server
 
   * [[GitHub] coreybutler / fenix](https://github.com/coreybutler/fenix) - A software app that manages development web servers and webhooks
+
+* [[GitHub] yamalight / HumblePlayer](https://github.com/yamalight/HumblePlayer) - music player for your HumbleBundle soundtracks (made with node-webkit and Angular)
 
 * popcorn time
 
