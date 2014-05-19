@@ -425,6 +425,10 @@
 
 --
 
+* [[GitHub] joewalnes / filtrex](https://github.com/joewalnes/filtrex) - A simple, safe, JavaScript Filter Expression compiler for end-users
+
+--
+
 * [A Spreadsheet in 295 bytes of JavaScript](http://aem1k.com/sheet/)
 
 * [[JSFiddle] Tiny Excel-like app in vanilla JS](http://jsfiddle.net/ondras/hYfN3/)
