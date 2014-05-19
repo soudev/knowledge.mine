@@ -15,6 +15,7 @@
 * [Plataformas de Estudo](#plataformas-de-estudo)
   * [Conhecimentos gerais](#conhecimentos-gerais)
   * [Idiomas](#idiomas)
+    * [Idiomas: Dicas](#idiomas-dicas)
   * [Codificação](#codificação)
 
 <!-- toc stop -->
@@ -209,15 +210,18 @@
 
 ### Idiomas
 
-* [[YouTube] How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0) - Chris Lonsdale at TEDxLingnanUniversity
-
---
-
 * [engVid](http://www.engvid.com/) - free english video lessons
 
   * [JamesESL](https://www.youtube.com/user/JamesESL) - English Lessons (engVid)
 
 * [Duolingo](https://www.duolingo.com/) - serviço online e gratuíto para aprendizado de idiomas. Possui interface com suporte ao português. As aulas vão do básico ao avançado no aprendizado de um idioma.
+
+
+#### Idiomas: Dicas
+
+* [[YouTube] How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0) - Chris Lonsdale at TEDxLingnanUniversity
+
+* [Como melhorar o listening? A dica que você nunca ouviu... | Tecla SAP :: Dicas de Inglês](http://www.teclasap.com.br/como-melhorar-o-listening-a-dica-que-voce-nunca-ouviu/) - Defina expectativas reais antes de tentar melhorar o listening. Lembre-se de que o inglês é idioma falado em muitos países e com muitos sotaques diferentes
 
 
 ### Codificação
