@@ -196,6 +196,8 @@
 
 * [Tiny Raytracer | Gabriel Gambetta](http://www.gabrielgambetta.com/tiny_raytracer.html)
 
+* [Realistic terrain in 130 lines | PlayfulJS](http://www.playfuljs.com/realistic-terrain-in-130-lines/)
+
 --
 
 * [MicIO](http://colinbookman.com/2014/03/23/micio/) – HTML5 to MicroController Communication through a headphone jack
