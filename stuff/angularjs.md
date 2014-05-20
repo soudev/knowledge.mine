@@ -1229,6 +1229,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular-Autolayout.js](https://thenikso.github.io/angular-autolayout/) - Constraint based layout for your AngularJS apps
 
+* [Use Famous in your Angular projects with Famous-Angular](http://famo.us/integrations/angular/)
+
 * [Angular UI](http://angular-ui.github.com/) - Componentes de UI
 
   * [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
