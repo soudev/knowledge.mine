@@ -58,6 +58,8 @@
 
 * [Controlling CSS Animations and Transitions with JavaScript | CSS-Tricks](http://css-tricks.com/controlling-css-animations-transitions-javascript/)
 
+* [Parallax Done Right | Medium](https://medium.com/@dhg/82ced812e61c) - Getting great performance with parallax is tough. Here’s how to make it happen
+
 --
 
 * [Star Wars 3D Scrolling Text in CSS3 | Site Point](http://www.sitepoint.com/css3-starwars-scrolling-text/)
