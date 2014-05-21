@@ -850,6 +850,8 @@
 
 * [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos) - Criando apps com HTML5 para o Firefox OS (eBook)
 
+* [[GitHub] buildingfirefoxos / bfxos-brackets](https://github.com/buildingfirefoxos/bfxos-brackets) - Building Firefox OS with Adobe Brackets extension
+
 * [[GitHub] tehsis / webinstaller](https://github.com/tehsis/webinstaller) - Helper for installing Mozilla webapps
 
 * [[GitHub] robnyman / Firefox-OS-Boilerplate-App](https://github.com/robnyman/Firefox-OS-Boilerplate-App) - Creating Firefox OS apps
