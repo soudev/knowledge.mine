@@ -72,6 +72,8 @@
 
 * [[GitHub] ThrivingKings / animo.js](https://github.com/ThrivingKings/animo.js) - A powerful little tool for managing CSS animations
 
+* [[GitHub] lukehaas / css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+
 * [[GitHub] HubSpot / odometer](https://github.com/HubSpot/odometer) - Beautiful CSS3 Number Transitions #hubspot-open-source
 
 
