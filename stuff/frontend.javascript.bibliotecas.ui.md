@@ -75,6 +75,10 @@
 
 * [Spin.js](http://fgnass.github.com/spin.js/) - An animated CSS activity indicator with VML fallback.
 
+* [[GitHub] lukehaas / css-loaders](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+
+--
+
 * [Turn.js](http://www.turnjs.com/) - Uma biblioteca excelente para criar o efeito pageflip com HTML, CSS e JS.
 
     * [Como criar um pageflip em HTML5/CSS3 com Turn.js](http://javascript.techinsider.com.br/2012/06/27/como-criar-um-pageflip-em-html5css3-com-turn-js/)
@@ -110,6 +114,8 @@
 * [[GitHub] jacoborus / nanobar](https://github.com/jacoborus/nanobar) - Very very lighweight progress bars. No jQuery required
 
 * [[GitHub] roshiro / TitleNotifier.js](https://github.com/roshiro/TitleNotifier.js) - Lightweight (< 3kb), dependency-free javascript library to dynamically show the number of unread notifications in your webpage title
+
+* [[GitHub] nicolasbize / magicsuggest](https://github.com/nicolasbize/magicsuggest) - Multiple Selection Combo Box using Bootstrap 3
 
 * [AdminJS](http://adminjs.com/) - The Backend-Agnostic Administration Framework
 
