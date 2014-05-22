@@ -296,6 +296,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Atomic Design Behavior com AngularJS | Nomadev](http://nomadev.com.br/atomic-design-com-angularjs/)
+
+--
+
 * [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
 
 * [A small introduction to AngularJS : data-binding, IoC/DI, directives](http://derkoe.github.io/presentations/angularjs-intro/)
