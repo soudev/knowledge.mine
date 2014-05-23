@@ -199,6 +199,8 @@
 
 ### Conhecimentos gerais
 
+* [YouTube Educação](https://www.youtube.com/educacao)
+
 * [Khan Academy](https://www.khanacademy.org/) | [versão em português](http://www.fundacaolemann.org.br/khanportugues/) - conhecimentos gerais (Matemática, Ciência, Economia e finanças, Humanas e Testes preparatórios)
 
 * [Coursera](https://www.coursera.org/) - os melhores cursos de universidades, online e gratuítos (cursos em inglês)
@@ -226,7 +228,7 @@
 
 ### Codificação
 
-* [Code Academy](http://www.codecademy.com/)
+* [Code Academy](http://www.codecademy.com/) | [pt-Br](http://www.codecademy.com/pt-BR)
 
 * [Code.org - Anybody can learn code](http://code.org)
   
