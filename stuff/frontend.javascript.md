@@ -69,7 +69,7 @@
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - documentação com recomendações e boas práticas de programação em JavaScript.
 
-* [Eloquent JavaScript](http://eloquentjavascript.net/) - A Modern Introduction to Programming, by Marijn Haverbeke
+* [Eloquent JavaScript](http://eloquentjavascript.net/) - A Modern Introduction to Programming, by Marijn Haverbeke | [second edition](http://eloquentjavascript.net/2nd_edition/)
 
 * [Learn JavaScript | Mozilla Developer Network](https://developer.mozilla.org/en-US/learn/javascript)
 
