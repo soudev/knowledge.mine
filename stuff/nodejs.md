@@ -283,6 +283,10 @@
 
 --
 
+* [[GitHub] indus / ncc](https://github.com/indus/ncc) - node-chrome-canvas : a simple to use and performant HTML5 canvas for Node.js
+
+--
+
 * [[GitHub] ltk / kurtz-kloud](https://github.com/ltk/kurtz-kloud) - A Node app for sharing screen shots
 
   * [My Quest for the Perfect Screenshot App | Viget](http://viget.com/flourish/my-qwest-for-the-perfect-screenshot-app)
@@ -778,6 +782,10 @@
 
 --
 
+* [Node.js: managing child processes | Tech Pro](http://tech.pro/tutorial/2074/nodejs-managing-child-processes)
+
+--
+
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
 
 --
@@ -853,6 +861,8 @@
 * [[GitHub] netroy / image-size](https://github.com/netroy/image-size) - NodeJS module for detecting image dimensions
 
 * [Loading PDFs In PhantomJS Using PDF.JS | Gary Sieling](http://www.garysieling.com/blog/integrating-phantomjs-and-pdf-js-inter-process-communication)
+
+* [Como adicionar marca d'água com Node.js e ffmpeg | Nomadev](http://nomadev.com.br/como-adicionar-marca-d%C3%A1gua-com-node-js-e-ffmpeg/)
 
 --
 
