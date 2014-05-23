@@ -538,13 +538,17 @@
 
 --
 
+* [jsPerf: JavaScript performance playground](http://jsperf.com/)
+
 * [Panzer Dragoon 1k - JS1K size optimizations tricks](http://greweb.me/2014/03/panzer-dragoon-1k/) - Panzer Dragoon 1k is a 2D remake of Panzer Dragoon in 1k of JavaScript I made for JS1K 2014
+
+* [JavaScript Performance Tips & Tricks | Modus Create](https://moduscreate.com/javascript-performance-tips-tricks/)
 
 * [Building High-Performing JavaScript for Modern Engines | Build 2012 | Channel 9](http://channel9.msdn.com/Events/Build/2012/4-000)
 
-* [jsPerf: JavaScript performance playground](http://jsperf.com/)
+* [Pimp my JS: +200% of performance | Pics.io](http://blog.pics.io/sneak-peeks/pimp-my-js-200-of-performance/)
 
-* [JavaScript Performance Tips & Tricks | Modus Create](https://moduscreate.com/javascript-performance-tips-tricks/)
+--
 
 * [Effectively Managing Memory at Gmail scale | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
 
