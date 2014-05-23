@@ -674,6 +674,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS IndexedDB Demo | HTML5 Zone](http://java.dzone.com/articles/angularjs-indexeddb-demo)
 
+  * [AngularJS IndexedDB Demo | Raymond Camden](http://www.raymondcamden.com/index.cfm/2014/2/7/AngularJS-IndexedDB-Demo)
+
 
 ### Amazon AWS
 
