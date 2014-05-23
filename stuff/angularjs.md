@@ -651,6 +651,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Creating Asynchronous Alerts, Prompts, And Confirms In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm)
+
+--
+
 * [Preventing default action for an element in AngularJS](http://blog.falafel.com/Blogs/venkata-koppaka/2014/04/28/preventing-default-action-for-an-element-in-angularjs)
 
 --
