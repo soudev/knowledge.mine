@@ -70,6 +70,8 @@
 
 * [[Speaker Deck] Um futuro chamado Web Components | Zeno Rocha](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
 
+* [Web Components: Introdução | Tableless](http://tableless.com.br/web-components-introducao/)
+
 * [Web Components: Why You're Already An Expert | Mark Dalgleish](http://markdalgleish.com/2013/11/web-components-why-youre-already-an-expert/)
 
 * [A Guide to Web Components | CSS-Tricks](http://css-tricks.com/modular-future-web-components/)
