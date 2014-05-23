@@ -3,6 +3,7 @@
 
 <!-- toc -->
 * [Bibliotecas de UI](#bibliotecas-de-ui)
+  * [React.js](#reactjs)
   * [PDF Viewer](#pdf-viewer)
   * [JQuery](#jquery)
   * [Template Engine](#template-engine)
@@ -36,14 +37,6 @@
 * [YUI Library](http://yuilibrary.com/)
 
 * [Kendo UI](http://www.kendoui.com/)
-
-* [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
-
-  * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
-
-  * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
-
-  * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
 * [Foundation: Rapid Prototyping and Building Framework from ZURB](http://foundation.zurb.com/)
 
@@ -130,6 +123,21 @@
 * [[GitHub] guardian / scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform
 
 * [[GitHub] quilljs / quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
+
+
+### React.js
+
+* [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
+
+  * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
+
+  * [Intro to the React Framework | Development – Tuts+](http://dev.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
+
+  * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
+
+  * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
+
+  * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 
 ### PDF Viewer
