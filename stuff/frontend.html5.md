@@ -395,7 +395,9 @@
 
 * [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
 
-* [Working With IndexedDB | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/working-with-indexeddb/)
+* [Working With IndexedDB | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/working-with-indexeddb--net-34673)
+
+* [Working With IndexedDB - Part 2 | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/working-with-indexeddb-part-2--net-35355)
 
 * [Using IndexedDB to Manage 3D WebGL Assets | SitePoint](http://www.sitepoint.com/using-indexeddb-manage-3d-webgl-assets/)
 
