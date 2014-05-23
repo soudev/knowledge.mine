@@ -613,6 +613,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
+* [Why I stopped using ng-grid and rolled my own with ReactJS | Jose Garcia](http://jose.ghost.io/why-i-stopped-using-ng-grid-and-rolled-my-own-with-reactjs/)
+
 * [React PhoneCat: Rewriting the AngularJS Tutorial App in React | Jonas Gebhardt's Notes](https://jgebhardt.github.io/blog/react-phonecat/)
 
 * [Integrating Components with D3 and AngularJS | egghead.io](https://egghead.io/lessons/integrating-components-with-d3-and-angularjs) - Since React is only interested in the V (view) of MVC, it plays well with other toolkits and frameworks. This includes AngularJS and D3.
