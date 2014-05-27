@@ -246,6 +246,20 @@
 
 * [Configuring & Optimizing WebSocket Compression | igvita.com](http://www.igvita.com/2013/11/27/configuring-and-optimizing-websocket-compression/)
 
+* [Simple WebSockets example to stream real-time events | Kim Rudolph](http://kimrudolph.de/blog/spring-4-websockets-tutorial/)
+
+* [Tutorial: Pushing browser updates using WebSockets in Glassfish | jaxenter.com](http://jaxenter.com/tutorial-pushing-browser-updates-using-websockets-in-glassfish-46817.html)
+
+* [Building a Real-time SMS Voting App with Socket.io and Highcharts.js | Twilio](https://www.twilio.com/blog/2012/12/building-a-real-time-sms-voting-app-part-2-socket-io-and-highcharts-js.html)
+
+* [Writing an AngularJS App with Socket.IO | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
+
+* [Real Time Web Analytics with Node.js and Socket.IO | Christophe Coenraets](http://coenraets.org/blog/2012/10/real-time-web-analytics-with-node-js-and-socket-io/)
+
+* [Near-Realtime Analytics with MongoDB, Node.js & SmoothieCharts | codecentric](https://blog.codecentric.de/en/2014/01/realtime-analytics-mongodb-nodejs-smoothiecharts/)
+
+* [[SlideShare] Oracle Coherence & WebLogic 12c Web Sockets: Delivering Real Time Push at Scale](http://www.slideshare.net/C2B2/oracle-coherence-and-weblogic-12c-web-sockets-delivering-real-time-push-at-scale)
+
 --
 
 * [HTML5 Geolocation API - Specification and Usages | ST Solutions](http://stsbd.com/html5-geolocation-api-specifications-usages/)
