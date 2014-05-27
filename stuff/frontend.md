@@ -193,6 +193,10 @@
 
   * [Responsive SVG with VLEX | DailyJS](http://dailyjs.com/2014/04/15/vlex/)
 
+--
+
+* [Love Generating SVG With JavaScript? Move It To The Server! | Smashing Magazine](http://www.smashingmagazine.com/2014/05/26/love-generating-svg-javascript-move-to-server/)
+
 
 ## Source Map
 
