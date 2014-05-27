@@ -779,9 +779,13 @@
 
 #### Offline
 
-* [MDN - Application Cache API](https://developer.mozilla.org/en-US/docs/HTML/Using_the_application_cache)
-
 * [Can I use offline web applications?](http://caniuse.com/offline-apps) - Compatibility table for support of offline web applications in desktop and mobile browsers.
+
+--
+
+* [Offline | Dive into HTML5](http://diveintohtml5.info/offline.html)
+
+* [MDN - Application Cache API](https://developer.mozilla.org/en-US/docs/HTML/Using_the_application_cache)
 
 * [[SlideShare] HTML5 Offline & Storage](http://www.slideshare.net/gabrielso/html5-offline-storage)
 
