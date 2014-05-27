@@ -324,6 +324,8 @@
 
 * [Managing Bower Components with Grunt | Flippin Awesome](http://flippinawesome.org/2014/01/27/managing-bower-components-with-grunt/)
 
+* [[GitHub] bevacqua / buildfirst / ch04 / 07_aws-deployments](https://github.com/bevacqua/buildfirst/tree/master/ch04/07_aws-deployments) - Walkthrough: Deploying to Amazon EC2 with Grunt 
+
 
 ##### Testes
 
