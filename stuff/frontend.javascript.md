@@ -312,6 +312,8 @@
 
 * [Unicode and JavaScript | 2 ality](http://www.2ality.com/2013/09/javascript-unicode.html)
 
+* [Checking whether a value is an integer in JavaScript | 2 ality](http://www.2ality.com/2014/05/is-integer.html)
+
 --
 
 * [Super useful JavaScript functions | RevillWeb](http://www.revillweb.com/tutorials/super-useful-javascript-functions/)
@@ -616,6 +618,9 @@
   * [jspm.io](http://jspm.io/) - Frictionless Browser Package Management
 
 * [BoxJS](http://boxjs.com/) - A simple package management service
+
+
+* [[GitHub] webpack / webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.
 
 
 #### Browserify
