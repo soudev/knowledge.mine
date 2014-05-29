@@ -21,6 +21,8 @@
 
 * [Intro to jQuery: Learn jQuery with Street Fighter and Hadoukens](http://www.thinkful.com/learn/intro-to-jquery)
 
+* [JavaScript Challenge: Make Me Blue! | Tutorialzine](http://tutorialzine.com/2014/05/javascript-challenge-make-me-blue/)
+
 
 ### Dicas
 
