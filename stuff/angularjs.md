@@ -1253,6 +1253,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Use Famous in your Angular projects with Famous-Angular](http://famo.us/integrations/angular/)
 
+* [Angular Foundation](http://madmimi.github.io/angular-foundation/)
+
+* [Angular Kendo](http://kendo-labs.github.com/angular-kendo/) - Angular-Kendo is a passthrough to the Kendo UI
+
 * [Angular UI](http://angular-ui.github.com/) - Componentes de UI
 
   * [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
@@ -1265,9 +1269,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularStrap](https://mgcrea.github.io/angular-strap/) - Bootstrap directives for AngularJS
 
-* [Angular Kendo](http://kendo-labs.github.com/angular-kendo/) - Angular-Kendo is a passthrough to the Kendo UI
-
-* [Angular Foundation](http://madmimi.github.io/angular-foundation/)
+* [[GitHub] willmendesneto / keepr](https://github.com/willmendesneto/keepr/) - A simple list of Angular components
 
 
 ### ng animate
