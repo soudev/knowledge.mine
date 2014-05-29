@@ -271,11 +271,7 @@
 
 * [[GitHub] tjgq / grunt-throttle](https://github.com/tjgq/grunt-throttle) - Grunt task for simulating slow connections
 
---
-
-* [[GitHub] ddprrt / connect-php](https://github.com/ddprrt/connect-php)
-
-  * [The magic of grunt-contrib-connect, and how to run PHP with it | front-end technology talk](http://fettblog.eu/blog/2013/11/17/the-magic-of-grunt-contrib-connect-and-how-to-run-php-with-it/)
+* [[GitHub] gmetais / grunt-devperf](https://github.com/gmetais/grunt-devperf/) - Helps front-end developers to maintain a good quality, based on phantomas and grunt-phantomas
 
 --
 
@@ -290,6 +286,13 @@
 * [[GitHub] astronaughts / grunt-play](https://github.com/astronaughts/grunt-play) - play sound with grunt
 
   * [[GitHub] wlepinski / grunt-peao](https://github.com/wlepinski/grunt-peao)
+
+--
+
+* [[GitHub] ddprrt / connect-php](https://github.com/ddprrt/connect-php)
+
+  * [The magic of grunt-contrib-connect, and how to run PHP with it | front-end technology talk](http://fettblog.eu/blog/2013/11/17/the-magic-of-grunt-contrib-connect-and-how-to-run-php-with-it/)
+
 
 
 ##### Dicas
