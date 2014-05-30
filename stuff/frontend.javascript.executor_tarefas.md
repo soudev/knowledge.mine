@@ -267,26 +267,6 @@
 
 --
 
-* [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy)
-
-  * [Using grunt-connect-proxy | frontend technology talk](http://www.fettblog.eu/blog/2013/09/20/using-grunt-connect-proxy/)
-
---
-
-* [[GitHub] tjgq / grunt-throttle](https://github.com/tjgq/grunt-throttle) - Grunt task for simulating slow connections
-
-* [[GitHub] gmetais / grunt-devperf](https://github.com/gmetais/grunt-devperf/) - Helps front-end developers to maintain a good quality, based on phantomas and grunt-phantomas
-
---
-
-* [[GitHub] rhiokim / grunt-sloc](https://github.com/rhiokim/grunt-sloc) - Source line of codes plugin for Grunt.js
-
-* [[GitHub] vigetlabs / grunt-complexity](https://github.com/vigetlabs/grunt-complexity) - A JavaScript complexity analysis grunt task
-
-* [[GitHub] ActivearkJWT / grunt-size-report](https://github.com/ActivearkJWT/grunt-size-report) - Genrate size report of your project
-
---
-
 * [[GitHub] astronaughts / grunt-play](https://github.com/astronaughts/grunt-play) - play sound with grunt
 
   * [[GitHub] wlepinski / grunt-peao](https://github.com/wlepinski/grunt-peao)
@@ -297,6 +277,27 @@
 
   * [The magic of grunt-contrib-connect, and how to run PHP with it | front-end technology talk](http://fettblog.eu/blog/2013/11/17/the-magic-of-grunt-contrib-connect-and-how-to-run-php-with-it/)
 
+##### grunt plugins: proxy
+
+* [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy)
+
+  * [Using grunt-connect-proxy | frontend technology talk](http://www.fettblog.eu/blog/2013/09/20/using-grunt-connect-proxy/)
+
+##### grunt plugins: performance
+
+* [[GitHub] tjgq / grunt-throttle](https://github.com/tjgq/grunt-throttle) - Grunt task for simulating slow connections
+
+* [[GitHub] gmetais / grunt-devperf](https://github.com/gmetais/grunt-devperf/) - Helps front-end developers to maintain a good quality, based on phantomas and grunt-phantomas
+
+##### grunt plugins: code analysis
+
+* [[GitHub] rhiokim / grunt-sloc](https://github.com/rhiokim/grunt-sloc) - Source line of codes plugin for Grunt.js
+
+* [[GitHub] vigetlabs / grunt-complexity](https://github.com/vigetlabs/grunt-complexity) - A JavaScript complexity analysis grunt task
+
+* [[GitHub] ActivearkJWT / grunt-size-report](https://github.com/ActivearkJWT/grunt-size-report) - Genrate size report of your project
+
+* [[GitHub] jsoverson / grunt-plato](https://github.com/jsoverson/grunt-plato) - Generate static analysis reports with plato through grunt
 
 
 ##### Dicas
@@ -332,6 +333,10 @@
 * [Managing Bower Components with Grunt | Flippin Awesome](http://flippinawesome.org/2014/01/27/managing-bower-components-with-grunt/)
 
 * [[GitHub] bevacqua / buildfirst / ch04 / 07_aws-deployments](https://github.com/bevacqua/buildfirst/tree/master/ch04/07_aws-deployments) - Walkthrough: Deploying to Amazon EC2 with Grunt 
+
+* [Setup Grunt on Jenkins | sideroad](http://sideroad.secret.jp/articles/grunt-on-jenkins/) - Grunt is suitable for building JavaScript project as concat, minify, jshint and unit test. Jenkins is suitable for CI as using SCM polling, scheduler. I think these tools makes our development faster. This is sample of front-end javascript project and building with Grunt on Jenkins.
+
+  * [[GitHub] sideroad / sample-jenkins-grunt](https://github.com/sideroad/sample-jenkins-grunt) - Sample project of build with Grunt on Jenkins
 
 
 ##### Testes
