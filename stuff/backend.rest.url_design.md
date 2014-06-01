@@ -16,9 +16,11 @@
 
 ## Informações Gerais
 
-> proposta de URLs para aplicações RESTful
+> Proposta de URLs para aplicações RESTful
 
 **:app-name** - nome da aplicação
+
+**:rest** - contexto, parte da URL que identifica a comunicação em REST
 
 **:version** - versionamento (uso recomendado, porém não é obrigatório)
 
@@ -28,7 +30,7 @@
 ## GET, UPDATE, DELETE
 
 ```
-http://:app-name/rest/:version/:resource/:id
+http://:app-name/:rest/:version/:resource/:id
 ```
 
 **:id** - identificador do recurso
@@ -43,7 +45,7 @@ http://:app-name/rest/:version/:resource/:id
 ## GET, POST
 
 ```
-http://:app-name/rest/:version/:resource
+http://:app-name/:rest/:version/:resource
 ```
 
 * **GET** - recupera uma listagem dos recursos
@@ -52,12 +54,12 @@ http://:app-name/rest/:version/:resource
 
 ## GET
 
-Respectivos parâmetros que podem ser enviados 
+Respectivos parâmetros que podem ser enviados.
 
 ### Paginação
 
 ```
-http://:app-name/rest/:version/:resource?page=1&size=10
+http://:app-name/:rest/:version/:resource?page=1&size=10
 ```
 
 * **page** - identifica o índice inicial para listagem [ *valor padrão sugerido: 1* ]
@@ -81,14 +83,15 @@ _**quantidade de itens selecionados**_ = size
 }
 ```
 
-* **_Observação:_** é recomendado uma implementação default assumindo um valor padrão, mesmo se estes parâmetros não sejam informados na URL. Estes parâmetros irão possibilidar a implementação de paginação.
+* **Atenção:_** é altamente recomendável definir valores iniciais, caso uma requisição de paginação venha sem parâmetros, isto previne de recuperar todos os itens do banco de dados (mantenha em mente, provavelmente sua base irá crescer além de 100, 1000, ... registros).
+
 
 ### Consulta e paginação
 
 ```
-http://:app-name/rest/:version/:resource?q=:query
+http://:app-name/:rest/:version/:resource?q=:query
 
-http://:app-name/rest/:version/:resource?q=:query&page=1&size=10
+http://:app-name/:rest/:version/:resource?q=:query&page=1&size=10
 ```
 
 **:query** - parâmetro de consulta ou expressão de consulta
@@ -98,18 +101,16 @@ _**Observação:**_ necessário uma implementação no servidor para tratar o pr
 ### Utilidades
 
 ```
-http://:app-name/rest/:version/:resource?action=:option
+http://:app-name/:rest/:version/:resource?action=:option
 ```
 
 A idéia dessa proposta de URL é ter um recurso flexível para disponibilizar funcionalidades
 
 **:option** - opção de ação solicitada. Implementações sugeridas:
 
-* **count** - retorna a quantidade/contagem de recursos disponíveis. Esta funcionalidade/informação irá ser útil para implementação de paginação
-
-* **template** - retorna o recurso associado a URL com os parâmetros vazios, serve para conhecer a estrutura do recurso
+* **template** - retorna uma amostra do recurso com seus respectivos atributos (é interessante também informar os tipos dos atributos)
 
 
 ## Desnormalização
 
-Além das definições de URLs recomendandas acima, não é impeditivo definir outras URLs para atender necessidades específicas do seu projeto.
+Além das URLs acima, outras URLs podem ser implementadas para adicionar mais funcionalidades.
