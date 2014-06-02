@@ -9,6 +9,7 @@
   * [Expressões Regulares](#expressões-regulares)
     * [Expressões Regulares: Ferramentas online](#expressões-regulares-ferramentas-online)
   * [Performance](#performance)
+    * [Compressão](#compressão)
     * [Ordenação](#ordenação)
   * [Sistema de Dependências e Módulos](#sistema-de-dependências-e-módulos)
     * [Browserify](#browserify)
@@ -593,6 +594,13 @@
 * [Qual a dose certa de JavaScript | Tableless](http://tableless.com.br/qual-dose-certa-de-javascript/) - Um pouco de JavaScript não obstrusivo e quais as estratégias para garantir uma boa performance e acessibilidade em aplicações ricas.
 
 * [The seven rules of unobtrusive JavaScript | Dev.Opera](http://dev.opera.com/articles/view/the-seven-rules-of-unobtrusive-javascrip/)
+
+
+#### Compressão
+
+* [UglifyJS](http://lisperator.net/uglifyjs/)
+
+  * [Better Compression with UglifyJS | David Walsh Blog](http://davidwalsh.name/compress-uglify)
 
 
 #### Ordenação
