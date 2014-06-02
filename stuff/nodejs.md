@@ -609,6 +609,10 @@
   
   * [[GitHub] JedWatson / keystone](https://github.com/JedWatson/keystone) - node.js cms and web app framework
 
+* [Raneto](http://raneto.com/) - is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase
+
+  * [[GitHub] gilbitron / Raneto](https://github.com/gilbitron/Raneto) - Markdown powered Knowledgebase for Nodejs
+
 
 #### Jogos
 
