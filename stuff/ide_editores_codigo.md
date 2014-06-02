@@ -1,5 +1,19 @@
 # IDE e Editores de Código
 
+<!-- toc -->
+* [Online](#online)
+  * [Eclipse Orion](#eclipse-orion)
+* [iPad](#ipad)
+* [Desktop](#desktop)
+  * [Eclipse IDE](#eclipse-ide)
+  * [IntelliJ - JetBrains](#intellij-jetbrains)
+  * [Light Table](#light-table)
+  * [Vim](#vim)
+  * [Brackets](#brackets)
+  * [Atom](#atom)
+
+<!-- toc stop -->
+
 
 ## Online
 
@@ -100,4 +114,5 @@
 
 * [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
 
+* [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
 
