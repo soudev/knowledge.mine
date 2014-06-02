@@ -151,6 +151,8 @@
 
   * [[GitHub] bevacqua / unbox](https://github.com/bevacqua/unbox) - Unbox a node application with a well-designed build-oriented approach in minutes
 
+* [Building Your First Grunt Plugin | Flippin' Awesome](http://flippinawesome.org/2014/05/29/building-your-first-grunt-plugin/)
+
 --
 
 * [Supercharging your Gruntfile: How to squeeze the most out of your build configuration | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/)
