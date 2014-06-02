@@ -258,7 +258,11 @@
 
 * [Near-Realtime Analytics with MongoDB, Node.js & SmoothieCharts | codecentric](https://blog.codecentric.de/en/2014/01/realtime-analytics-mongodb-nodejs-smoothiecharts/)
 
-* [[SlideShare] Oracle Coherence & WebLogic 12c Web Sockets: Delivering Real Time Push at Scale](http://www.slideshare.net/C2B2/oracle-coherence-and-weblogic-12c-web-sockets-delivering-real-time-push-at-scale)
+* WebLogic
+
+  * [REST, SSE or WebSockets on WebLogic 10.3.6 | Java / Oracle SOA blog](http://biemond.blogspot.com.br/2014/01/rest-sse-or-websockets-on-weblogic-1036.html)
+
+  * [[SlideShare] Oracle Coherence & WebLogic 12c Web Sockets: Delivering Real Time Push at Scale](http://www.slideshare.net/C2B2/oracle-coherence-and-weblogic-12c-web-sockets-delivering-real-time-push-at-scale)
 
 --
 
