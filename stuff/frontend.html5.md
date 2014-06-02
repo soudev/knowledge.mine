@@ -686,6 +686,8 @@
 
   * [Armazenamento Offline com o LocalForage | iMasters](http://www.infoq.com/br/news/2014/04/localforage-offline-data-web)
 
+  * [[GitHub] ask11 / storage](https://github.com/ask11/storage) - Storage is a functional wrapper around localForage. That means it's an asynchronous browser storage with multiple back-ends (IndexedDB, WebSQL, localStorage), which is built for a better offline experience.
+
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
