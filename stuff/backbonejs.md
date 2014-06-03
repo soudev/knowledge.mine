@@ -61,6 +61,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [Rendering A Filtered Backbone.Collection | Tech Pro](http://tech.pro/tutorial/1519/rendering-a-filtered-backbonecollection)
 
+* [EndDash](http://www.enddash.com/) - is a two-way binding javascript templating framework built on top of semantic HTML
+
 
 ## UI
 
