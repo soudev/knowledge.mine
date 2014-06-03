@@ -205,6 +205,8 @@
 
 * [Understanding JavaScript Inheritance | Alex Sexton](https://alexsexton.com/blog/2013/04/understanding-javascript-inheritance/)
 
+* [Reaproveitando código com JavaScript: herança e protótipos | Caelum](http://blog.caelum.com.br/reaproveitando-codigo-com-javascript-heranca-e-prototipos/)
+
 --
 
 * [Topiarist: A JavaScript OO library featuring mixins, interfaces & multiple inheritance | BladeRunnerJS](http://bladerunnerjs.org/blog/topiarist/)
