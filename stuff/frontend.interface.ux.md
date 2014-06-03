@@ -44,6 +44,10 @@
 
 --
 
+* [[SlideShare] Entenda porque seu aplicativo de Android não deve ser igual ao de iPhone](http://www.slideshare.net/hperticarati/contexto-e-familiaridade-porque-apps-de-android-no-devem-ser-iguais-aos-de-iphone) - by Henrique Perticarati, Information Architect and Interface Designer at Taqtile. Usuários de Android interagem com seu smartphone de outra forma. Ok, é parecido, mas não é nem de longe igual.
+
+--
+
 * [Designing Products That Scale | Medium](https://medium.com/p/c8f3001f709b)
 
 * [Creative UI Design Examples for Great UX](http://www.awwwards.com/creative-ui-design-examples-for-great-ux.html)
