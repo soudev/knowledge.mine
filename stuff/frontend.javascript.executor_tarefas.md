@@ -131,6 +131,8 @@
 
 * [GruntJS - Por onde começar? | Volts Digital](http://www.voltsdigital.com.br/labs/gruntjs-por-onde-comecar/)
 
+* [Stop being the Grunt - use Grunt.js | Josh Bavari](https://jbavari.github.io/Dont-Be-a-Grunt-Use-Grunt-Slides/) - A presentation telling what Grunt.js is and Why to use it
+
 * [Sample Gruntfile - Grunt: The JavaScript Task Runner](http://gruntjs.com/sample-gruntfile)
 
 * [[YouTube] Grunt - The Basics](https://www.youtube.com/watch?v=q3Sqljpr-Vc) | [[GitHub] CaryLandholt / Tutorial-Grunt-TheBasics](https://github.com/CaryLandholt/Tutorial-Grunt-TheBasics)
