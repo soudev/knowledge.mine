@@ -353,6 +353,8 @@
 
 * [The Dangers of Stopping Event Propagation | CSS-Tricks](http://css-tricks.com/dangers-stopping-event-propagation/)
 
+* [JavaScript Events: Save the Bubbles! | David Walsh Blog](http://davidwalsh.name/javascript-events)
+
 --
 
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
@@ -686,6 +688,8 @@
 ##### Backbone.js
 
 * [A RequireJS, Backbone, and Bower Starter Template | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/a-requirejs-backbone-and-bower-starter-template/)
+
+* [EndDash](http://www.enddash.com/) - is a two-way binding javascript templating framework built on top of semantic HTML
 
 
 ##### Angular.js
