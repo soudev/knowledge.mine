@@ -212,6 +212,10 @@
 
 * [Adicionando flexibilidade à sua implementação REST com Yoga | InfoQ Br](http://www.infoq.com/br/articles/json-yoga)
 
+* [Build HATEOAS API in Java with Spring MVC, Jersey (JAX-RS) and VRaptor | ZeroTurnaround](http://zeroturnaround.com/rebellabs/beyond-rest-how-to-build-a-hateoas-api-in-java-with-spring-mvc-jersey-jax-rs-and-vraptor/)
+
+  * [[GitHub] jrdalpra / addresses](https://github.com/jrdalpra/addresses) - Comparing HATEOAS implementations with Jersey, Spring and VRaptor
+
 * Jersey Spring
 
   * [[GitHub] jersey / examples / helloworld-spring-webapp](https://github.com/jersey/jersey/tree/2.4.1/examples/helloworld-spring-webapp) - tag: 2.4.1
