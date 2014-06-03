@@ -250,11 +250,15 @@
 
 * [Tutorial: Pushing browser updates using WebSockets in Glassfish | jaxenter.com](http://jaxenter.com/tutorial-pushing-browser-updates-using-websockets-in-glassfish-46817.html)
 
-* [Building a Real-time SMS Voting App with Socket.io and Highcharts.js | Twilio](https://www.twilio.com/blog/2012/12/building-a-real-time-sms-voting-app-part-2-socket-io-and-highcharts-js.html)
+* [Socket.io](http://socket.io/)
 
-* [Writing an AngularJS App with Socket.IO | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
+  * [Introducing Socket.IO 1.0 | Socket.io](http://socket.io/blog/introducing-socket-io-1-0/)
 
-* [Real Time Web Analytics with Node.js and Socket.IO | Christophe Coenraets](http://coenraets.org/blog/2012/10/real-time-web-analytics-with-node-js-and-socket-io/)
+  * [Building a Real-time SMS Voting App with Socket.io and Highcharts.js | Twilio](https://www.twilio.com/blog/2012/12/building-a-real-time-sms-voting-app-part-2-socket-io-and-highcharts-js.html)
+
+  * [Writing an AngularJS App with Socket.IO | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
+
+  * [Real Time Web Analytics with Node.js and Socket.IO | Christophe Coenraets](http://coenraets.org/blog/2012/10/real-time-web-analytics-with-node-js-and-socket-io/)
 
 * [Near-Realtime Analytics with MongoDB, Node.js & SmoothieCharts | codecentric](https://blog.codecentric.de/en/2014/01/realtime-analytics-mongodb-nodejs-smoothiecharts/)
 
