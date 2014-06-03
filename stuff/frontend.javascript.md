@@ -1195,6 +1195,8 @@
 
 --
 
+* [Setting up a private Bower registry. | Fumbles' Tech Blog](http://fumblesandfriends.com/blog/setting-up-a-private-bower-registry/)
+
 * [How to host a private bower registry | ParadigmShift](http://toranbillups.com/blog/archive/2013/08/04/How-to-host-a-private-bower-registry/)
 
 * [[GitHub] Hacklone / private-bower](https://github.com/Hacklone/private-bower) - A simple private bower registry
