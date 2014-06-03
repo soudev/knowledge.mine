@@ -1107,15 +1107,21 @@
 
 --
 
-* [npmjs.eu - European npm mirror](http://npmjs.eu/)
-
-  * [Using the European npm mirror | Shape Shed](http://shapeshed.com/using-the-european-npm-mirror/)
-
 * [How to create a private npm.js repository | Clock Blog](http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository)
 
 * [A private NPM cache | Yammer Engineering](http://eng.yammer.com/a-private-npm-cache/)
 
+* [Setting up NPM registries | Medium](https://medium.com/javascript-and-the-server/setting-up-npm-registries-2d6b45eb12ed)
+
+* [npmjs.eu - European npm mirror](http://npmjs.eu/)
+
+  * [Using the European npm mirror | Shape Shed](http://shapeshed.com/using-the-european-npm-mirror/)
+
 * [[GitHub] mixu / npm_lazy](https://github.com/mixu/npm_lazy) - A lazy local cache for NPM to make your local deploys faster
+
+* [[GitHub] cnpm / cnpmjs.org](https://github.com/cnpm/cnpmjs.org) - Private npm registry and web for Enterprise, base on MySQL and Simple Store Service
+
+  * [[GitHub] cnpm / cnpm](https://github.com/cnpm/cnpm) - cnpm: npm client for cnpmjs.org
 
 --
 
@@ -1134,6 +1140,8 @@
 * [The Node Toolbox - Node.js happiness](http://nodetoolbox.com/) - is a catalogue of Node.js packages, tools and resources with popularity ratings based on Github watchers and forks
 
 * [Node Modules](http://node-modules.com/) - Better search for Node.js modules
+
+* [Browse npm](http://browsenpm.org/)
 
 * [David, a dependency management tool for Node.js projects](https://david-dm.org)
 
