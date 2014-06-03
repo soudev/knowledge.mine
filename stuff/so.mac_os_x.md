@@ -9,9 +9,10 @@
 * [Setup](#setup)
 * [Dicas](#dicas)
 * [Fontes](#fontes)
-* [UNIX - shell](#unix-shell)
 * [Editores de Audio](#editores-de-audio)
 * [Games](#games)
+* [UNIX - shell](#unix-shell)
+* [Desenvolvimento](#desenvolvimento)
 
 <!-- toc stop -->
 
@@ -93,11 +94,6 @@
   * [[GitHub] briangonzalez / fontprep](https://github.com/briangonzalez/fontprep) - The missing font generator for Mac OSX
 
 
-## UNIX - shell
-
-* [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
-
-
 ## Editores de Audio
 
 * [Audacity: Free Audio Editor and Recorder](http://audacity.sourceforge.net/) - é um editor de audio de código aberto, e entre seus recursos estão a reprodução e gravação, importação e exportação de vários formatos de audio (MP3, Ogg, WAV, FLAC e AIFF). 
@@ -108,4 +104,20 @@
 ## Games
 
 * [OpenTTD](http://www.openttd.org/) - is an open source simulation game based upon Transport Tycoon Deluxe
+
+
+## UNIX - shell
+
+* [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
+
+
+## Desenvolvimento
+
+* Swift
+
+  * [The Swift Programming Language - Book | iTunes](https://itunes.apple.com/br/book/swift-programming-language/id881256329)
+
+  * [Swift Cheat Sheet and Quick Reference | Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
+
+  * [[GitHub] fullstackio / FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at [fullstackedu.com](https://www.fullstackedu.com/)
 
