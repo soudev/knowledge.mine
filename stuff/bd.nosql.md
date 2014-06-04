@@ -233,6 +233,8 @@
 
 * [[YouTuve] Hangout - Iniciando com MongoDB | DevCast](https://www.youtube.com/watch?v=Ff4_DNKKPeo)
 
+* [An introduction to MongoDB | IBM developerWorks](http://www.ibm.com/developerworks/offers/lp/demos/summary/j-jmongodb.html)
+
 
 #### Dicas
 
