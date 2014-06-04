@@ -511,6 +511,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS: Decisions, Decisions & My Preferred Choices | The Code Dump](http://www.codelord.net/2014/05/26/angularjs-decisions-decisions-and-my-choices/)
+
 * [AngularJS: Clearing a few confusion points | Next Big Thing](http://blog.nebithi.com/angularjs-clearing-a-few-confusion-points/)
 
 * [4 Smooth AngularJS Application Tips | Nathan Leclaire](http://nathanleclaire.com/blog/2014/01/04/5-smooth-angularjs-application-tips/)
