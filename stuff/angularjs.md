@@ -891,6 +891,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Building Mobile Apps with AngularJS and Ionic | The Official Ionic Blog](http://ionicframework.com/blog/angular-mobile-dev/)
 
+  * [ngCordova](http://ngcordova.com/) - is a set of AngularJS extensions on top of the Cordova API to make it easier to build, test, and deploy Cordova apps with AngularJS
+
 * [Mobile Angular UI](http://mobileangularui.com/) - Angular JS Mobile UI framework with Bootstrap 3 Css
 
 * [The Answer to PhoneGap UI Development | Onsen UI](http://onsenui.io/)
