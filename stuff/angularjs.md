@@ -505,6 +505,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Como mudar os {{ }} do AngularJs para usar em um template que já use a mesma marcação? | Nomadev](http://nomadev.com.br/como-mudar-os-%7B%7B-%7D%7D-do-angularjs-para-usar-em-um-template-que-j%C3%A1-use-a-mesma-marca%C3%A7%C3%A3o/)
+
+--
+
 * [AngularJS | One Hungry MindOne Hungry Mind](http://onehungrymind.com/category/angularjs/) - A ton of great AngularJS content here
 
 * [Write Better, Flexible Code By Using Composition In Angular.js | I ♥ Angular.js](http://iheartangularjs.com/post/66604936242/composition-in-angularjs)
@@ -1393,6 +1397,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Introduction to the MEAN Stack | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918)
 
 * [Creating an RSS Feed Reader With the MEAN Stack | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563)
+
+* [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB | IBM developerWorks](http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/)
 
 --
 
