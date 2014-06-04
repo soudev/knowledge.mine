@@ -921,7 +921,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Ferramentas
 
-* [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
+* [Angular Batarang | Google Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - browser extension
+
+  * [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
+
+* [ng-inspector](http://ng-inspector.org/) -  is a browser extension for Chrome and Safari that adds an inspector pane to help you develop, debug and understand your AngularJS applications.
 
 
 #### Sublime Text
