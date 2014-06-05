@@ -3,6 +3,9 @@
 
 <!-- toc -->
 * [Geral](#geral)
+* [Conceitos](#conceitos)
+  * [Atomic Design](#atomic-design)
+  * [DevOps](#devops)
 * [ALM](#alm)
   * [IBM](#ibm)
 * [Scrum](#scrum)
@@ -28,33 +31,40 @@
 
 --
 
-* [Projetando Aplicativos como se Projetam Prédios | UX.BLOG](http://www.uxdesign.blog.br/user-experience/review-da-palestra-projetando-aplicativos-como-se-projetam-predios/)
-
-* [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
-
-* [[YouTube] What is DevOps? - In Simple English](https://www.youtube.com/watch?v=_I94-tJlovg) - Rackspace (12/12/2013)
-
-* [O que é DevOps afinal? | gutocarvalho.net](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
-
---
-
-* [BDD: Think Like an Actor | Site Point](http://www.sitepoint.com/bdd-think-like-actor/)
-
---
-
-* Atomic Design
-  
-  * [Atomic Design | Brad Frost Web](http://bradfrostweb.com/blog/post/atomic-web-design/)
-
-  * [Atomic Design - Por que usar? | Nomadev](http://nomadev.com.br/atomic-design-por-que-usar/)
-
---
-
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
 
 --
 
 * [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
+
+
+## Conceitos
+
+* [Projetando Aplicativos como se Projetam Prédios | UX.BLOG](http://www.uxdesign.blog.br/user-experience/review-da-palestra-projetando-aplicativos-como-se-projetam-predios/)
+
+* [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
+
+--
+
+* [BDD: Think Like an Actor | Site Point](http://www.sitepoint.com/bdd-think-like-actor/)
+
+
+### Atomic Design
+  
+* [Atomic Design | Brad Frost Web](http://bradfrostweb.com/blog/post/atomic-web-design/)
+
+* [Atomic Design - Por que usar? | Nomadev](http://nomadev.com.br/atomic-design-por-que-usar/)
+
+
+### DevOps
+
+* [[YouTube] What is DevOps? - In Simple English](https://www.youtube.com/watch?v=_I94-tJlovg) - Rackspace (12/12/2013)
+
+* [O que é DevOps afinal? | gutocarvalho.net](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
+
+* [Why DevOps Matters To Developers | Contino](http://contino.co.uk/why-devops-matters-to-developers/)
+
+* [DevOps Is Great for The Enterprise, More So Than Startups! | Contino](http://contino.co.uk/devops-great-for-enterprise/)
 
 
 ## ALM
