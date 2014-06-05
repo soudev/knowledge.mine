@@ -303,6 +303,10 @@
 
 ### Dicas
 
+* [JS Nice](http://jsnice.org/) - statistical renaming, type inference and deobfuscation
+
+--
+
 * [Medindo a complexidade do seu código JavaScript | Tableless](http://tableless.com.br/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/)
 
 * [Defensive JavaScript](http://www.defensivejs.com/)
@@ -436,6 +440,10 @@
 
 --
 
+* [Understanding recursion in functional JavaScript programming | Integralist BBC News Engineer](http://www.integralist.co.uk/posts/understanding-recursion-in-functional-javascript-programming/)
+
+--
+
 * [[GitHub] joewalnes / filtrex](https://github.com/joewalnes/filtrex) - A simple, safe, JavaScript Filter Expression compiler for end-users
 
 --
@@ -457,6 +465,8 @@
 * [Object Equality in JavaScript | Design Pepper](http://designpepper.com/blog/drips/object-equality-in-javascript.html)
 
 * [Equality in JavaScript | JS Comparison Table](http://dorey.github.io/JavaScript-Equality-Table/unified/)
+
+* [Understanding JavaScript types and reliable type checking | Todd Motto](http://toddmotto.com/understanding-javascript-types-and-reliable-type-checking/)
 
 --
 
@@ -893,6 +903,8 @@
 --
 
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
+
+* [[GitHub] adamwdraper / Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers
 
 * [[GitHub] MikeMcl / big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic
 
