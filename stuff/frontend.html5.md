@@ -783,6 +783,10 @@
 
 * [[GitHub] melonjs / melonJS](https://github.com/melonjs/melonJS) - a fresh & lightweight javascript game engine
 
+* [PlayCanvas Engine](https://playcanvas.com/) -  is the world’s easiest to use WebGL Game Engine
+
+  * [PlayCanvas Goes Open Source | Mozilla Hacks](https://hacks.mozilla.org/2014/06/playcanvas-goes-open-source/)
+
 
 ### Desenvolvimento de Aplicações
 
