@@ -734,6 +734,7 @@
 
 * [Automatically download & use FrontEnd JS dependencies with Bower + Grunt boilerplate free](http://www.blogeek.com.ar/2013/04/25/automatically-download-use-frontend-js-dependencies-with-bower-grunt-boilerplate-free/)
 
+* [[GitHub] andrewbredow / Library-Detector-for-Chrome](https://github.com/andrewbredow/Library-Detector-for-Chrome) - Google Chrome Extension that detects which Javascript library is running on a page
 
 
 ### Bibliotecas
