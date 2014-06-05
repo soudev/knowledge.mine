@@ -294,6 +294,8 @@
 
 * [Baidu using Docker for its PaaS | Docker Blog](http://blog.docker.io/2013/12/baidu-using-docker-for-its-paas/)
 
+* [How We Use Docker To Continuously Deliver Microservices - Part 1 | Contino](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
+
 
 ### Soluções
 
