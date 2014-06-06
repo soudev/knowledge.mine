@@ -1399,6 +1399,8 @@
 
 --
 
+* [[GitHub] pbojinov / nodeifications](https://github.com/pbojinov/nodeifications) - Simple cross platform desktop notifications for node-webkit
+
 * [[GitHub] wookiecooking / nwfaketop](https://github.com/wookiecooking/nwfaketop) - A GruntJS Compiler for Node-webkit Applications (OSX Based)
 
 * [[GitHub] slate / slate](https://github.com/slate/slate) - modern IRC client built with web technologies and Node.js
