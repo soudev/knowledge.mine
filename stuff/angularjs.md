@@ -593,6 +593,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] kelp404 / angular-validator](https://github.com/kelp404/angular-validator) - AngularJS form validation
 
+* [AngularJS Multi-Step Form Using UI Router | Scotch](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
+
 * [Random tricks when using AngularJS](http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/) 
 
 * [input radio | Angular Docs](http://docs-angularjs-org-dev.appspot.com/api/ng.directive:input.radio)
