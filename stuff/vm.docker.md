@@ -79,6 +79,8 @@
 
 * [A Practical Introduction to Docker Containers | Red Hat Developer Blog](https://developerblog.redhat.com/2014/05/15/practical-introduction-to-docker-containers/)
 
+* [Using Docker & Ansible by John Minnihan @Gluecon 2014 | DevOps.com](http://devops.com/blogs/using-docker-ansible/)
+
 
 ### Dockerfile
 
