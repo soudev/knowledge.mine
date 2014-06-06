@@ -63,6 +63,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [EndDash](http://www.enddash.com/) - is a two-way binding javascript templating framework built on top of semantic HTML
 
+* [[Speaker Deck] Repensando aplicações WordPress com Backbone](https://speakerdeck.com/jcemer/repensando-aplicacoes-wordpress-com-backbone) - by Jean Carlo Emer
+
 
 ## UI
 
