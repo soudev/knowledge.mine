@@ -381,6 +381,8 @@
 
 #### Análise
 
+* [Automating Web Performance Measurement | HTML5Rocks](http://updates.html5rocks.com/2014/06/Automating-Web-Performance-Measurement)
+
 * [[GitHub] t32k / stylestats](https://github.com/t32k/stylestats) - StyleStats is Node.js library to collect CSS statistics!
 
 * [[GitHub] mdevils / node-jscs](https://github.com/mdevils/node-jscs) - JavaScript Code Style checker
@@ -390,6 +392,8 @@
 * [[GitHub] es-analysis / plato](https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 
   * [JavaScript Code Complexity Visualization | Ariya Hidayat](http://ariya.ofilabs.com/2013/01/javascript-code-complexity-visualization.html)
+
+* [[GitHub] gmetais / grunt-devperf](https://github.com/gmetais/grunt-devperf/) - Helps front-end developers to maintain a good quality, based on phantomas and grunt-phantomas
 
 
 ### Monitoramento e Logs
