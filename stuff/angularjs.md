@@ -1187,6 +1187,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] eu81273 / angular.treeview](https://github.com/eu81273/angular.treeview) - AngularJS based Treeview (no jQuery)
 
+* [[GitHub] esvit / ng-table](https://github.com/esvit/ng-table/) - Simple table with sorting and filtering on AngularJS
+
 * [[GitHub] josebalius / ngReactGrid](https://github.com/josebalius/ngReactGrid) - A really fast Angular grid using the power of React to render. Based on ng-grid and jQuery DataTables
 
 * [[GitHub] marcorinck / angular-growl](https://github.com/marcorinck/angular-growl) - growl-like notifications for angularJS projects
@@ -1297,6 +1299,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS Animations](http://www.nganimate.org/)
 
 * [[GitHub] Hendrixer / ng-Fx](https://github.com/Hendrixer/ng-Fx) - Simple, Beautiful animation library for Angular 
+
+* [[GitHub] mgcrea / angular-motion](https://github.com/mgcrea/angular-motion) - Fancy CSS3 animations for AngularJS 1.2+
 
 * [Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html) - AngularJS now provides full support for animations direct from it's core
 
