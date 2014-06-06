@@ -1389,6 +1389,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] CleverStack / cleverstack-cli](https://github.com/CleverStack/cleverstack-cli) - CLI for CleverStack
 
+--
+
+* [Create a TV Show Tracker using AngularJS, Node.js and MongoDB | Sahat Yalkabov](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
+
+  * [[GitHub] sahat / tvshow-tracker](https://github.com/sahat/tvshow-tracker/) - AngularJS + Node + Gulp + Mongoose + Passport Authentication + TVDB API
+
 
 ### MEAN Stack
 
