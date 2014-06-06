@@ -253,6 +253,8 @@
 
 * [Why Node.js is becoming the go-to technology in the Enterprise | Node Crunch](http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise)
 
+* [[YouTube] Sean McCullough: Transitioning Groupon to Node.js](https://www.youtube.com/watch?v=TWVblTpUlxM)
+
 
 ### IBM developerWorks
 
