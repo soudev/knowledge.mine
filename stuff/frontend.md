@@ -34,6 +34,12 @@
 
 --
 
+* [Frontend Ops](https://rupl.github.io/frontend-ops/) - Automate your frontend workflow: dev, debug, test, deploy
+
+  * [[GitHub] rupl / frontend-ops](https://github.com/rupl/frontend-ops)
+
+--
+
 * [[Speaker Deck] Protocolos de comunicação e o desenvolvimento front-end ](https://speakerdeck.com/jcemer/protocolos-de-comunicacao) - by Jean Carlo Emer
 
 * [Client-Side Security Best Practices | Nettuts+](http://net.tutsplus.com/tutorials/client-side-security-best-practices/)
