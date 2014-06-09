@@ -1018,6 +1018,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
 
+* [Looking At How scope.$evalAsync() Affects Performance In AngularJS Directives | Ben Nadel](http://www.bennadel.com/blog/2635-looking-at-how-scope-evalasync-affects-performance-in-angularjs-directives.htm)
+
 --
 
 * [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
