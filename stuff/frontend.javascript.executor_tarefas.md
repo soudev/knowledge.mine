@@ -48,6 +48,10 @@
 
 * [Build Wars: Gulp vs Grunt](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)
 
+--
+
+* [Grunt And Gulp Tasks For Performance Optimization | Yeoman Blog](http://yeoman.io/blog/performance-optimization.html)
+
 
 #### Bundy
 
@@ -292,6 +296,13 @@
 * [[GitHub] tjgq / grunt-throttle](https://github.com/tjgq/grunt-throttle) - Grunt task for simulating slow connections
 
 * [[GitHub] gmetais / grunt-devperf](https://github.com/gmetais/grunt-devperf/) - Helps front-end developers to maintain a good quality, based on phantomas and grunt-phantomas
+
+* [[GitHub] andyshora / grunt-yslow](https://github.com/andyshora/grunt-yslow) - Test web page performance using the YSlow library invoked by a grunt task
+
+  * [Grunt YSlow, a Grunt Task to Measure and Grade Web Page Performance | Andy Shora](http://andyshora.com/grunt-yslow.html)
+
+* [[GitHub] jrcryer / grunt-pagespeed](https://github.com/jrcryer/grunt-pagespeed) - Grunt plugin to run Google PageSpeed Insights as part of CI
+
 
 ##### grunt plugins: code analysis
 
