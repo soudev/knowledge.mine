@@ -246,6 +246,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Recipes with Angular.js](http://fdietz.github.io/recipes-with-angular-js/) - A community project dedicated to collecting resources for the Angular.js framework. You find here easy to follow cookbook style recipes for issues you are likely to face when working with Angular.js.
 
+* [[GitHub] timjacobi / angular-education](https://github.com/timjacobi/angular-education) - A collection of useful resources to learn and improve your AngularJS skills
+
 --
 
 * [[GitHub] mgechev / angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
@@ -803,6 +805,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [AngularJS - Part 12, Multi language support | Gabriel Schenker's Blog]()
 
 * [[YouTube] Kod.io 2014 - AngularJS and i18n by Pascal Precht](https://www.youtube.com/watch?v=C7xqaExvaQ4)
+
+* [Internationalization with AngularJS | Trifork Blog](http://blog.trifork.com/2014/04/10/internationalization-with-angularjs/)
 
 
 ### Escopo e informações
