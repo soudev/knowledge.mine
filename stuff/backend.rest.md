@@ -12,8 +12,9 @@
       * [Monitoramento](#monitoramento)
       * [Testes](#testes)
       * [Segurança](#segurança)
-      * [Python](#python)
-      * [Node.js](#nodejs)
+    * [Python](#python)
+    * [PHP](#php)
+    * [Node.js](#nodejs)
   * [Ferramentas](#ferramentas)
     * [Mock](#mock)
     * [Google Chrome](#google-chrome)
@@ -262,12 +263,19 @@
 * [Spring - Implementing REST Authentication](http://www.objectpartners.com/2011/06/16/implementing-rest-authentication/) | [GitHub : Code](https://github.com/jurberg/rest-security)
 
 
-#### Python
+### Python
 
 * [Developing RESTful Web APIs with Python, Flask and MongoDB](https://speakerdeck.com/u/nicola/p/developing-restful-web-apis-with-python-flask-and-mongodb)
 
 
-#### Node.js
+### PHP
+
+* [Laravel 4: A Start at a RESTful API | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785)
+
+* [Laravel 4: Começando com API RESTful | Tuts+ Code Tutorial](http://code.tutsplus.com/pt/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785)
+
+
+### Node.js
 
 * [Creating a REST API using Node.js, Express, and MongoDB](http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/)
 
