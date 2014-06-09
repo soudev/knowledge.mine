@@ -29,6 +29,8 @@
 
 * [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star | Software Quality Matters Blog](http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/)
 
+* [Secrets you should have learned before your first programming job | New Relic blog](http://blog.newrelic.com/2014/06/03/10-secrets-learned-software-engineering-degree-probably-didnt/) - From debugging to version control, programming in the real world requires a set of skills they just don’t teach in school
+
 --
 
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
