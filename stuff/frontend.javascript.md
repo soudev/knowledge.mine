@@ -80,6 +80,8 @@
 
 * [[YouTube] Dos and Don'ts in JavaScript: A few best practices for when you're learning the language](https://www.youtube.com/watch?v=zILmbcIYnfw)
 
+* [Summary of Maintainable JavaScript Talk by Nicholas C. Zakas | Alex Kras](http://www.alexkras.com/summary-of-maintainable-javascript/)
+
 * [Estou iniciando em javascript, por onde começo? | JavaScript Brasil](http://javascriptbrasil.com/artigos/estou-iniciando-em-javascript-por-onde-comeco)
 
 * [Basic JavaScript for the impatient programmer | 2ality](http://www.2ality.com/2013/06/basic-javascript.html)
