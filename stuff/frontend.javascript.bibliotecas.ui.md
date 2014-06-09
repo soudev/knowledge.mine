@@ -302,6 +302,8 @@
 
 * [D3.js Path Transitions](http://bost.ocks.org/mike/path/)
 
+* [Using basic and tween transitions in d3.js | 4waisenkinder](http://4waisenkinder.de/blog/2014/05/11/d3-dot-js-tween-in-detail/)
+
 * [Having fun with D3.js](http://blog.michelemattioni.me/2012/09/27/having-fun-with-d3js/)
 
 * [Creating Animations and Transitions With D3 | Visual.ly Blog](http://blog.visual.ly/creating-animations-and-transitions-with-d3-js/)
