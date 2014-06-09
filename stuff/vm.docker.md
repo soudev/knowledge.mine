@@ -26,11 +26,11 @@
 
 > Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more. 
 
-* [docker.io](http://www.docker.io/) - an open source project to pack, ship and run any application as a lightweight container
+* [Docker](http://www.docker.com/) - an open source project to pack, ship and run any application as a lightweight container
 
 * [[GitHub] dotcloud / docker](https://github.com/dotcloud/docker/) - the open-source application container engine
 
-* [Docker Image Index](https://index.docker.io/)
+* [Docker Hub Registry](https://registry.hub.docker.com/) - Repositories of Docker Images
 
 * [The whole story - Docker: the Linux container engine](https://www.docker.io/the_whole_story/)
 
@@ -280,7 +280,7 @@
 
 ### Caso de Uso
 
-* [Use Cases | Docker Inc](http://www.docker.com/about_docker/usecases/)
+* [Use Cases | Docker Inc](http://www.docker.com/resources/usecases/)
 
 * [What people have already built using Docker | Docker](https://www.docker.io/community/#What-people-have-already-built-using-Docker)
 
