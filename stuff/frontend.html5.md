@@ -570,6 +570,8 @@
 
 * [[GitHub] meenie / 8bit.js](https://github.com/meenie/8bit.js) - 8Bit.js Audio Library - Write music using 8bit oscillation sounds
 
+* [[GitHub] watilde / beeplay](https://github.com/watilde/beeplay) - Write A Song In JavaScript
+
 * [[GitHub]  meenie / band.js](https://github.com/meenie/band.js) - Music composer interface for the Web Audio API.
 
   * [Retro Game Music using Web Audio and Band.js  | Flippin' Awesome](http://flippinawesome.org/2013/09/09/retro-game-music-using-web-audio-and-band-js/)
