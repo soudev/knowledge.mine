@@ -373,6 +373,8 @@
 
 * [[GitHub] misoproject / d3.chart](https://github.com/misoproject/d3.chart) - d3.chart is a framework for building reusable charts with d3.js
 
+* [[GitHub] dc-js / dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
+
 
 #### Gantt
 
