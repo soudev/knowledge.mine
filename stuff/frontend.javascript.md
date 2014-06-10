@@ -494,6 +494,10 @@
 
 * [Convert XML to JSON with JavaScript | David Walsh](http://davidwalsh.name/convert-xml-json)
 
+--
+
+* [[GitHub] gmarty / DVD.js](https://github.com/gmarty/DVD.js) - Playing DVD in JavaScript for the sake of interoperability
+
 
 ### Expressões Regulares
 
