@@ -260,6 +260,8 @@
 
   * [Real Time Web Analytics with Node.js and Socket.IO | Christophe Coenraets](http://coenraets.org/blog/2012/10/real-time-web-analytics-with-node-js-and-socket-io/)
 
+  * [Real-Time Chat With Node.js' Readline & Socket.io - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-readline-socketio--cms-20953)
+
 * [Near-Realtime Analytics with MongoDB, Node.js & SmoothieCharts | codecentric](https://blog.codecentric.de/en/2014/01/realtime-analytics-mongodb-nodejs-smoothiecharts/)
 
 * WebLogic
