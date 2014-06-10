@@ -1105,6 +1105,8 @@
 
 --
 
+* [Build Your Own Yeoman Generator | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/build-your-own-yeoman-generator--cms-20040)
+
 * [Static Site Generators for Yeoman | DailyJS](http://dailyjs.com/2013/09/12/yeoman-static-site-generators/)
 
 * [Cordova + Web Best Practices | Gaunt Face - Matthew Gaunt](http://www.gauntface.co.uk/blog/2013/07/18/cordova-web-best-practices/) - Getting PhoneGap / Cordova up and running with Yeoman
