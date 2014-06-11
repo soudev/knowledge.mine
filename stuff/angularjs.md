@@ -613,6 +613,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Removing the unneeded watches | Angular Tips](http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 
+* [Deep-Watching Circular Data Structures in Angular | Small Improvements](http://tech.small-improvements.com/2014/06/11/deep-watching-circular-data-structures-in-angular/)
+
 * [Group and Display Data with Underscore and AngularJS | OdeToCode](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)
 
 * [Displaying json array data with AngularJS and ng-grid | Genlinux.rb](http://www.genlinux.org/2013/08/displaying-json-array-data-with-angular.html)
