@@ -128,6 +128,8 @@
 
 * [An Introduction to IIFEs - Immediately Invoked Function Expressions | Design Pepper](http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions)
 
+* [What (function (window, document, undefined) {})(window, document); really means | Todd Motto](http://toddmotto.com/what-function-window-document-undefined-iife-really-means/)
+
 * [Applicative Programming In JavaScript With lodash.js | Tech.Pro](http://tech.pro/tutorial/1611/functional-javascript)
 
 --
