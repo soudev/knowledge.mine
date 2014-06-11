@@ -112,6 +112,8 @@
 
 * [Desenvolvimento em Java 2.0: Redis para o mundo real | IBM developerWorks](http://www.ibm.com/developerworks/br/library/j-javadev2-22/)
 
+* [[GitHub] xetorthio / johm](https://github.com/xetorthio/johm) - is a Object-hash mapping library for Java for storing objects in Redis
+
 
 ###### doNet
 
