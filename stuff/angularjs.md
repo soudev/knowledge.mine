@@ -852,7 +852,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Autenticação
 
-* [[GitHub]  andreareginato / ng-oauth](https://github.com/andreareginato/ng-oauth) - AngularJS directive working with the OAuth2 Implicit Flow
+* [[GitHub] auth0 / auth0-angular](https://github.com/auth0/auth0-angular) - This AngularJS module will help you implement client-side and server-side (API) authentication. You can use it together with [Auth0](https://auth0.com/) to add username/password authentication, support for enterprise identity like Active Directory or SAML and also for social identities like Google, Facebook or Salesforce among others to your web, API and mobile native apps.
+
+* [[GitHub] andreareginato / ng-oauth](https://github.com/andreareginato/ng-oauth) - AngularJS directive working with the OAuth2 Implicit Flow
 
 * [[GitHub] witoldsz / angular-http-auth](https://github.com/witoldsz/angular-http-auth) - HTTP Auth Interceptor Module
 
