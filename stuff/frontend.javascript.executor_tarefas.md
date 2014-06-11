@@ -235,9 +235,13 @@
 
 * [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
 
+* [[GitHub] terrykingcha / grunt-depconcat](https://github.com/terrykingcha/grunt-depconcat) - Concat depended files
+
+--
+
 * [[GitHub] sindresorhus / time-grunt](https://github.com/sindresorhus/time-grunt) - Displays the elapsed execution time of grunt tasks - Node.js module
 
-* [[GitHub] terrykingcha / grunt-depconcat](https://github.com/terrykingcha/grunt-depconcat) - Concat depended files
+* [[GitHub] shootaroo / jit-grunt](https://github.com/shootaroo/jit-grunt) - JIT(Just In Time) plugin loader for Grunt
 
 --
 
@@ -248,6 +252,10 @@
 * [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json) 
 
 * [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF. 
+
+* [[GitHub] gruntjs / grunt-contrib-jade](https://github.com/gruntjs/grunt-contrib-jade) - Compile Jade templates
+
+  * [Grunt compiling Jade files | StackOverflow](https://stackoverflow.com/questions/17798358/grunt-compiling-jade-files)
 
 --
 
