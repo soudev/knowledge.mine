@@ -974,9 +974,9 @@
 
 ### fake data
 
-* [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
-
 * [Testing Private State and Mocking Dependencies | How To Node - NodeJS](http://howtonode.org/testing-private-state-and-mocking-deps)
+
+* [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
 
 * [[GitHub] boo1ean / casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 
@@ -985,6 +985,8 @@
 * [[GitHub] bustardcelly / caddis](https://github.com/bustardcelly/caddis) - On-The-Fly Mock JSON Server
 
 * [[GitHub] basicallydan / interfake](https://github.com/basicallydan/interfake) - Quickly create fake APIs for use in client-only tests or prototypes
+
+* [[GitHub] dreyacosta / JSONServer](https://github.com/dreyacosta/JSONServer) - Small JSON file server for REST API mock
 
 
 ### command and shell
