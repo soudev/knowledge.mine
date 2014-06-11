@@ -788,6 +788,8 @@
 
 * [[GitHub] flesler / config-node](https://github.com/flesler/config-node) - Flexible lightweight configuration loader for Node
 
+* [[GitHub] dpup / node-flags](https://github.com/dpup/node-flags) - Flag handling library for node.js
+
 --
 
 * [Atualizando o NodeJS no Linux | Igor Costa](http://www.igorcosta.com/atualizando-o-nodejs-linux/)
@@ -901,6 +903,8 @@
 * [[GitHub] maxogden / eol-stream](https://github.com/maxogden/eol-stream) - detect which type of EOL (AKA line-ending, newline) characters are in a stream
 
 * [[GitHub] Obvious / sculpt](https://github.com/Obvious/sculpt) - Manipulate streams
+
+* [[GitHub] Medium / pipette](https://github.com/Medium/pipette) - Stream and pipe utilities for Node
 
 --
 
