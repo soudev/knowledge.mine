@@ -242,35 +242,49 @@
 
 * Simples Ideias
 
-    * [Design Patterns no JavaScript – Singleton](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
+  * [Design Patterns no JavaScript – Singleton](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
 
-    * [Design Patterns no JavaScript – Factory](http://simplesideias.com.br/design-patterns-no-javascript-factory)
+  * [Design Patterns no JavaScript – Factory](http://simplesideias.com.br/design-patterns-no-javascript-factory)
 
-    * [Design Patterns no JavaScript – Decorator](http://simplesideias.com.br/design-patterns-no-javascript-decorator)
+  * [Design Patterns no JavaScript – Decorator](http://simplesideias.com.br/design-patterns-no-javascript-decorator)
 
 --
 
 * [JavaScript Design Patterns | Carl Danley](http://carldanley.com/javascript-design-patterns/)
 
-    * [The Module Pattern](http://carldanley.com/js-module-pattern/)
-    
-    * [The Revealing Module Pattern](http://carldanley.com/js-revealing-module-pattern/)
-    
-    * [The Singleton Pattern](http://carldanley.com/js-singleton-pattern/)
-    
-    * [The Observer Pattern](http://carldanley.com/js-observer-pattern/)
-    
-    * [The Mediator Pattern](http://carldanley.com/js-mediator-pattern/)
-    
-    * [The Prototype Pattern](http://carldanley.com/js-prototype-pattern/)
-    
-    * [The Facade Pattern](http://carldanley.com/js-facade-pattern/)
-    
-    * [The Factory Pattern](http://carldanley.com/js-factory-pattern/)
-    
-    * The Mixin Pattern
-    
-    * The Decorator Pattern
+  * [The Module Pattern](http://carldanley.com/js-module-pattern/)
+  
+  * [The Revealing Module Pattern](http://carldanley.com/js-revealing-module-pattern/)
+  
+  * [The Singleton Pattern](http://carldanley.com/js-singleton-pattern/)
+  
+  * [The Observer Pattern](http://carldanley.com/js-observer-pattern/)
+  
+  * [The Mediator Pattern](http://carldanley.com/js-mediator-pattern/)
+  
+  * [The Prototype Pattern](http://carldanley.com/js-prototype-pattern/)
+  
+  * [The Facade Pattern](http://carldanley.com/js-facade-pattern/)
+  
+  * [The Factory Pattern](http://carldanley.com/js-factory-pattern/)
+
+--
+
+* 7 Patterns to Refactor JavaScript Applications | Crush & Lovely
+
+  * [Value Objects](http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value)
+
+  * [Service Objects](http://journal.crushlovely.com/post/88286835473/7-patterns-to-refactor-javascript-applications-service)
+
+  * Form Objects
+
+  * Query Objects
+  
+  * View Objects
+  
+  * Policy Objects
+  
+  * Decorators
 
 --
 
