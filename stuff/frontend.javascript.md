@@ -88,6 +88,8 @@
 
 * [Preparando-se para o desenvolvimento JavaScript moderno | iMasters](http://imasters.com.br/linguagens/javascript/preparando-se-para-o-desenvolvimento-javascript-moderno/)
 
+* [[SlideShare] Metaprogramming JavaScript](http://pt.slideshare.net/danwrong/metaprogramming-javascript)
+
 * [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
 
 * [21 JavaScript Parts I Struggle To Remember | Tech.Pro](http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-)
