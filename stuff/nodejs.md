@@ -287,6 +287,8 @@
 
 * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
 
+* [[GitHub] gjtorikian / namp](https://github.com/gjtorikian/namp) - A fork of chjj's marked that adds some additional features (markdown)
+
 --
 
 * [[GitHub] indus / ncc](https://github.com/indus/ncc) - node-chrome-canvas : a simple to use and performant HTML5 canvas for Node.js
