@@ -86,6 +86,10 @@
 
 * [[Apple Store] Dash (Docs & Snippets)](https://itunes.apple.com/br/app/dash-docs-snippets/id458034879?l=en&mt=12)
 
+--
+
+* [Como saber a condição da bateria do MacBook e aumentar sua vida útil | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/06/como-saber-condicao-da-bateria-do-macbook-e-aumentar-sua-vida-util.html)
+
 
 ## Fontes
 
