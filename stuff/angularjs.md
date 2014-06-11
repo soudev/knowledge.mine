@@ -1133,6 +1133,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS filters in Depth | Suhair Hassan](http://suhairhassan.com/2013/07/25/angularjs-in-depth-part-2.html)
 
+* [Everything about custom filters in AngularJS | Todd Motto](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
+
 
 ### Componentes
 
