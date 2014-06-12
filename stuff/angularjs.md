@@ -148,6 +148,8 @@ O AngularJS é um conjunto de ferramentas, para construir um framework mais adeq
 
 * [5 reasons to use AngularJS in the corporate app world | Digital Caveman](http://oscarvillarreal.com/2013/05/07/5-reasons-to-use-angularjs-in-the-corporate-app-world/)
 
+* [5 Reasons to Use (and Love) Angular JS | Jfox015](http://www.jfox015.com/angular-5-reasons-to-use-love/)
+
 * [10 Reasons Why You Should Use AngularJS | SitePoint](http://www.sitepoint.com/10-reasons-use-angularjs/)
 
 * [10 Reasons Web Developers Should Learn AngularJS | Wintellect](http://wintellect.com/blogs/jlikness/10-reasons-web-developers-should-learn-angularjs) - 19/09/2013
