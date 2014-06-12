@@ -88,9 +88,9 @@
 
   * [[GitHub] webcomponents / polymer-boilerplate](https://github.com/webcomponents/polymer-boilerplate) - Web Component using Polymer
 
-  * [[GitHub] webcomponents/x-tag-boilerplate](https://github.com/webcomponents/x-tag-boilerplate) - Web Component using X-Tag
+  * [[GitHub] webcomponents / x-tag-boilerplate](https://github.com/webcomponents/x-tag-boilerplate) - Web Component using X-Tag
 
-  * [[GitHub] webcomponents/element-boilerplate](https://github.com/webcomponents/element-boilerplate) - Web Component using VanillaJS
+  * [[GitHub] webcomponents / element-boilerplate](https://github.com/webcomponents/element-boilerplate) - Web Component using VanillaJS
 
 * [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
 
@@ -107,6 +107,10 @@
 --
 
 * [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
+
+--
+
+* [[GitHub] pazguille / github-card](https://github.com/pazguille/github-card) - A web component to show a card for your GitHub profile
 
 
 #### Polymer 
