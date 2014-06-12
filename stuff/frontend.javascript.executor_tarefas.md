@@ -80,6 +80,8 @@
 
 * [Writing Tasks in Gulp.js | pixeldonor](http://www.pixeldonor.com/2014/feb/20/writing-tasks-gulpjs/)
 
+* [Building With Gulp | Smashing Magazine](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+
 * [Managing Your Build Tasks With Gulp.js | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 
 * [How to build an Asset Pipeline with Gulpjs for any webapp | FrontEnd Journal](http://www.frontendjournal.com/how-to-build-an-asset-pipeline-with-gulpjs-for-any-webapp/)
