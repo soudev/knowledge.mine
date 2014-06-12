@@ -402,6 +402,8 @@
 
 ### Monitoramento e Logs
 
+* [[GitHub] MrRio / vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top. Written in node.js
+
 * [[GitHub] niallo / node-httpcheck](https://github.com/niallo/node-httpcheck) - Simple HTTP status checker with timeout
 
 * [GitHub : Status Dashboard](https://github.com/obazoud/statusdashboard) - Status Dashboard is status page for your configured services or applications.
