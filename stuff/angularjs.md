@@ -138,6 +138,8 @@ O AngularJS é um conjunto de ferramentas, para construir um framework mais adeq
 
 --
 
+* [[YouTube] Por quê o AngularJS é tão sensacional](https://www.youtube.com/watch?v=CbBfemKmtAA)
+
 * [Why AngularJS Will Be Huge | The Official Ionic Blog](http://ionicframework.com/blog/angularjs-will-be-huge/)
 
 * [An Overview of AngularJS for Managers | FIFOd](http://fifod.com/an-overview-of-anagularjs-for-managers/)
