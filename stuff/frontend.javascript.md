@@ -673,8 +673,6 @@
 
 * [Browserify](http://browserify.org/)
 
-* [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
-
 * [Introduction to Browserify | Blake Embrey](http://blakeembrey.com/articles/introduction-to-browserify/)
 
 * [Getting Started with Browserify | SitePoint](http://www.sitepoint.com/getting-started-browserify/) - This article introduces the Browserify tool. It also shows how Browserify can be integrated with Grunt and Gulp
@@ -690,6 +688,12 @@
 * [Quick Tip: Write Modular JavaScript With Browserify | Tutorialzine](http://tutorialzine.com/2014/02/writing-modular-javascript-browserify/)
 
 * [Speedy Browserifying with Multiple Bundles | Lincoln Loop](http://lincolnloop.com/blog/speedy-browserifying-multiple-bundles/)
+
+--
+
+* [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
+
+* [[GitHub] substack / browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
 
 
 #### Require.js
