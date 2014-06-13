@@ -46,6 +46,8 @@
 
 * [Pra não dizer que não falei de Vagrant | iMasters](http://imasters.com.br/desenvolvimento/pra-nao-dizer-que-nao-falei-de-vagrant/)
 
+* [Vagrant e Provisionadores - um guia básico | php-pb](http://php-pb.net/2014/06/04/vagrant-e-provisionadores/)
+
 * [Puppet e Vagrant: Como provisionar máquinas para seu projeto | ThoughtWorks](http://www.thoughtworks.com/insights/blog/puppet-e-vagrant-como-provisionar-maquinas-para-seu-projeto)
 
 --
