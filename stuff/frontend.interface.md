@@ -137,6 +137,8 @@
 
 --
 
+* [[GitHub] Google Web Components](https://github.com/GoogleWebComponents) - Official web components for Google's APIs and services
+
 * [[GitHub] robdodson / mark-down](https://github.com/robdodson/mark-down) - A Custom Element for rendering Markdown built with Polymer
 
 * [[GitHub] felquis / x-2048](https://github.com/felquis/x-2048/) - Web Component wrapper for 2048 game
