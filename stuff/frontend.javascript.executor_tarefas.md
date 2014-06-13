@@ -313,6 +313,8 @@
 
 * [[GitHub] jrcryer / grunt-pagespeed](https://github.com/jrcryer/grunt-pagespeed) - Grunt plugin to run Google PageSpeed Insights as part of CI
 
+  * [Grunt PageSpeed with ngrok for local testing | James Cryer](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/)
+
 
 ##### grunt plugins: code analysis
 
