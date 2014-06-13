@@ -305,6 +305,8 @@
 
 * [[GitHub] rschmukler / agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling for node
 
+* [[GitHub] redwire / aIRChat](https://github.com/redwire/aIRChat) - A beautiful, modernized, browser-based IRC client
+
 
 ### Desenvolvimento
 
