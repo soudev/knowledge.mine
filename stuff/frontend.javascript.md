@@ -967,6 +967,8 @@
 
 * [JsDOSBox - JavaScript PC DOS Emulator](http://sourceforge.net/p/jsdosbox/home/Home/)
 
+* [JsPspEmu - JavaScript PSP emulator](http://jspspemu.com/)
+
 
 #### Compiladores
 
