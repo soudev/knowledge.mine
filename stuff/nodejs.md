@@ -24,6 +24,7 @@
   * [Controle de Fluxo de Execução](#controle-de-fluxo-de-execução)
   * [Git e GitHub](#git-e-github)
   * [Integração com Java](#integração-com-java)
+  * [Crypto](#crypto)
   * [BitCoins](#bitcoins)
   * [Photoshop CC](#photoshop-cc)
   * [Torrent](#torrent)
@@ -524,6 +525,11 @@
 * [Nashorn: The New Rhino on the Block](http://ariya.ofilabs.com/2014/03/nashorn-the-new-rhino-on-the-block.html)
 
 * [Running Node.js applications on the JVM with Nashorn and Java 8 | CLOSED-LOOP](http://blog.jonasbandi.net/2014/03/running-nodejs-applications-on-jvm-with.html)
+
+
+### Crypto
+
+* [[GitHub] chrisenytc / bloom](https://github.com/chrisenytc/bloom) - A module wrapper to encrypt and decrypt files with aes-256-cbc
 
 
 ### BitCoins
