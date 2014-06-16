@@ -563,9 +563,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Rethinking AngularJS Controllers | Todd Motto](http://toddmotto.com/rethinking-angular-js-controllers/)
+
 * [When to use directives, controllers, or services in Angular JS | Kirk Bushell](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
 
 * [Understanding Angular.js services the easy way | Jonathan Creamer](http://jonathancreamer.com/understanding-angular-js-services-the-easy-way/)
+
+* [Primer on AngularJS Services | Michael Herman](http://mherman.org/blog/2014/06/12/primer-on-angularjs-service-types/)
 
 * [How to create (singleton) AngularJS services in 4 different ways | JDriven BlogJDriven Blog](http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
@@ -1374,6 +1378,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
+
+* [[GitHub] mjhea0 / thinkful-angular](https://github.com/mjhea0/thinkful-angular) - AngularJS by Example - Building a Bitcoin Investment Calculator
 
 * [[GitHub] thiagofelix / hackynote](https://github.com/thiagofelix/hackynote) - A presentation editor and preview based on markdown. Made for hackers
 
