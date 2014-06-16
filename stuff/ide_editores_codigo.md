@@ -112,6 +112,8 @@
 
 * [Atom](http://atom.io/) - A hackable text editor for the 21st Century. By GitHub.
 
+  * [[GitHub] atom](https://github.com/atom)
+
 * [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
 
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
