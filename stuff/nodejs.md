@@ -294,6 +294,8 @@
 
 * [[GitHub] indus / ncc](https://github.com/indus/ncc) - node-chrome-canvas : a simple to use and performant HTML5 canvas for Node.js
 
+* [[GitHub] madbence / node-drawille](https://github.com/madbence/node-drawille) - Drawing in terminal with unicode braille characters
+
 --
 
 * [[GitHub] ltk / kurtz-kloud](https://github.com/ltk/kurtz-kloud) - A Node app for sharing screen shots
@@ -1051,6 +1053,8 @@
 * [[GitHub] Unitech / pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
 
   * [PM2 – mantendo o node.js no ar | iMasters](http://imasters.com.br/front-end/javascript/pm2-mantendo-o-node-js-no-ar/)
+
+  * [Goodbye node-forever, hello PM2 | devo.ps](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
 
 
 ### Produção
