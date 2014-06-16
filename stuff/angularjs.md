@@ -1225,6 +1225,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] pablojim / highcharts-ng](https://github.com/pablojim/highcharts-ng) - AngularJS directive for Highcharts
 
+* [[GitHub] bielversallini / ng-highcharts](https://github.com/bielversallini/ng-highcharts) - Angular Directive for Highcharts
+
 * [[GitHub] nimbly / angular-formly](https://github.com/nimbly/angular-formly) - AngularJS directive which takes JSON representing a form and renders to HTML
 
 * [[GitHub] mchapman / forms-angular](https://github.com/mchapman/forms-angular) - Probably the most opinionated framework in the world
