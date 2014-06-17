@@ -70,6 +70,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 
 * [The KendoUI - BackboneJS integration project and repository](http://www.kendoui.com/blogs/teamblog/posts/13-04-11/the-kendoui-backbone-integration-project-and-repository.aspx)
 
+* [[GitHub] jhudson8 / react-backbone](https://github.com/jhudson8/react-backbone) - backbone-aware mixins for react
+
 
 ## Contruído com
 
