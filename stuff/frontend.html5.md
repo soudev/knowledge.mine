@@ -920,6 +920,11 @@
 
 * [PhoneGap Build - Package mobile apps in the cloud.](https://build.phonegap.com/) - Simply upload your HTML5, CSS, and JavaScript assets to the Adobe® PhoneGap™ Build cloud service and we do the work of compiling for you.
 
+* [[SlideShare] Write once, run "everywhere"](http://www.slideshare.net/horochovec/write-once-run-everywhere)
+
+  * [[GitHub] phonegap-showcase / phonegap-ngcordova](https://github.com/phonegap-showcase/phonegap-ngcordova)
+
+--
 
 * [[SlideShare] Automating PhoneGap Build](http://www.slideshare.net/coldfumonkeh/automating-phonegap-build)
 
@@ -929,6 +934,7 @@
   
 * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
 
+--
 
 * **Angular.js**
 
