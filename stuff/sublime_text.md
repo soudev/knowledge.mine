@@ -89,6 +89,8 @@
 
 * [Adding a JS build-system to Sublime | Logic Mason](http://logicmason.com/2013/adding-a-js-build-system-to-sublime/)
 
+* [Run JavaScript in Sublime Text Using Node | UIBuzz.com](http://www.uibuzz.com/2014/javascript/run-javascript-sublime-text-using-node/)
+
 
 ### Path
 
