@@ -859,6 +859,8 @@
 
 * [[GitHub] flesler / hashmap](https://github.com/flesler/hashmap) - HashMap JavaScript class for NodeJS and the browser. The keys can be anything and won't be stringified
 
+* [[GitHub] montagejs / collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces
+
 --
 
 * [[GitHub] philbooth / check-types.js](https://github.com/philbooth/check-types.js) - A tiny JavaScript library for checking arguments and throwing exceptions.
