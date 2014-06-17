@@ -92,6 +92,8 @@
 
 * [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). 
 
+* [[GitHub] jakiestfu / Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
+
 * [[GitHub] olivier-m / minislate](https://github.com/olivier-m/minislate/) - A wysiwyg experiment
 
 * [[GitHub] madebymany / sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
