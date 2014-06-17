@@ -3,9 +3,9 @@
 
 <!-- toc -->
 * [Bibliotecas de UI](#bibliotecas-de-ui)
-  * [React.js](#reactjs)
   * [PDF Viewer](#pdf-viewer)
   * [JQuery](#jquery)
+  * [React.js](#reactjs)
   * [Template Engine](#template-engine)
     * [Handlebars.js](#handlebarsjs)
   * [Diagramas](#diagramas)
@@ -125,6 +125,26 @@
 * [[GitHub] quilljs / quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
 
 
+### PDF Viewer
+
+* [[GitHub] mozilla / pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
+
+
+### JQuery
+
+* [JQuery UI site](http://jqueryui.com/)
+
+* [An Introduction to the jQuery UI Library: Getting Started](http://www.htmlgoodies.com/beyond/javascript/an-introduction-to-the-jquery-ui-library-getting-started.html)
+
+* [JQuery UI tools](http://jquerytools.org/)
+
+* [TouchSwipe: a jQuery plugin for touch and gesture-based interaction | Awwwards](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html)
+
+* [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/) - A jQuery Plugin for Responsive Menus
+
+* [DataTables](http://datatables.net/) - is a plug-in for the jQuery. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.
+
+
 ### React.js
 
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
@@ -146,31 +166,13 @@
 * [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React
 
 
-### PDF Viewer
-
-* [[GitHub] mozilla / pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-
-
-### JQuery
-
-* [JQuery UI site](http://jqueryui.com/)
-
-* [An Introduction to the jQuery UI Library: Getting Started](http://www.htmlgoodies.com/beyond/javascript/an-introduction-to-the-jquery-ui-library-getting-started.html)
-
-* [JQuery UI tools](http://jquerytools.org/)
-
-* [TouchSwipe: a jQuery plugin for touch and gesture-based interaction | Awwwards](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html)
-
-* [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/) - A jQuery Plugin for Responsive Menus
-
-* [DataTables](http://datatables.net/) - is a plug-in for the jQuery. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.
-
-
 ### Template Engine
 
 * [Template Engine Chooser](http://garann.github.io/template-chooser/)
 
 * [Nunjucks](http://jlongster.github.io/nunjucks/) - A rich and powerful templating language for JavaScript
+
+* [Hamlet](http://hamlet.coffee/) - Simple and powerful reactive templating
 
 
 #### Handlebars.js
