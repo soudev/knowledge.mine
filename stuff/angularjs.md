@@ -695,6 +695,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[Gist] AngularJS Lesson Learned #2: Enabling HTTP Credentials | Mário Junior](https://gist.github.com/mariojunior/6175849)
 
+* [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
+
 
 ### HTML5 offline
 
