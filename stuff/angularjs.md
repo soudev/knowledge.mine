@@ -1322,7 +1322,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[SlideShare] AngularJS Animations](http://www.slideshare.net/EyalV/angularjs-animations-21435788)
 
-* [[Slid.es] Animation in AngularJS by Gias Kay Lee](http://slid.es/gsklee/animation-in-angularjs)
+* [[Slid.es] Animation in AngularJS by Gias Kay Lee](http://slides.com/gsklee/animation-in-angularjs)
 
 * [AngularJS Animations](http://www.nganimate.org/)
 
