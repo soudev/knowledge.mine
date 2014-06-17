@@ -50,6 +50,8 @@
 
 * [BDD: Think Like an Actor | Site Point](http://www.sitepoint.com/bdd-think-like-actor/)
 
+* [Design sem Designer | UX Blog](http://www.uxdesign.blog.br/design-livre/design-sem-designer/) - A discussão sobre um possível Design sem Designer apresenta caminhos alternativos para a explicação da atividade projetual nas mais diversas áreas
+
 
 ### Atomic Design
   
