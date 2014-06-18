@@ -376,6 +376,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Building the 2048 game in AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/building-2048-in-angularjs.html)
 
+* [Build a Single Page Application with Angular, Node & Mongo – Part I | Kevin Delemme](http://www.kdelemme.com/2014/06/16/build-single-page-app-with-angular-node-mongo-i/)
+
 
 ### ng-newsletter: AngularJS from beginner to expert in 7 steps series 
 
