@@ -157,6 +157,10 @@
 
 * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 
+* [React Components for Cat Videos | David and Suzi](http://davidandsuzi.com/react-components-for-cat-videos/)
+
+--
+
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
 * [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
