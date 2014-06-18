@@ -843,6 +843,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [A Tale of Frankenstein and Binding to Service Values in Angular.js | stsc3000's blog](http://stsc3000.github.io/blog/2013/10/26/a-tale-of-frankenstein-and-binding-to-service-values-in-angular-dot-js/)
 
+--
+
+* [Frictionless data preloading in AngularJS | Garble me softly](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
+
 
 ### Yeoman, Grunt e Bower
 
