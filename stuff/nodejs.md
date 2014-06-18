@@ -567,6 +567,12 @@
 
 --
 
+* [Down.YT](http://down.yt/) - Direct Downloads From YouTube
+
+  * [[GitHub] matheusgimenez / down.yt](https://github.com/matheusgimenez/down.yt) - youtube downloader
+
+--
+
 * [Nodemailer](http://www.nodemailer.com/) - is an easy to use module to send e-mails with Node.JS (using SMTP or sendmail or Amazon SES or even your own method) and is unicode friendly - You can use any characters you like
 
   * [[GitHub] andris9 / Nodemailer](https://github.com/andris9/Nodemailer) - Send e-mails with Node.JS - easy as cake!
