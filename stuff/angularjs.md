@@ -915,6 +915,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
 
+  * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
+
   * [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
 
   * [Building Mobile Apps with AngularJS and Ionic | The Official Ionic Blog](http://ionicframework.com/blog/angular-mobile-dev/)

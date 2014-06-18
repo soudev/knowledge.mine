@@ -877,6 +877,8 @@
 
 * [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
 
+  * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
+
   * [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
 
   * [Ionic – Mobile UI Framework for PhoneGap/Cordova Developers | Devgirl's Weblog](http://devgirl.org/2014/01/20/ionic-mobile-ui-framework-for-phonegapcordova-developers/)
