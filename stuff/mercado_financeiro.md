@@ -217,6 +217,8 @@
 
 ## Cotações Online
 
+* [Pregão Online | BM&FBovespa](http://pregao-online.bmfbovespa.com.br/)
+
 * [Google Finance](https://www.google.com/finance)
 
 * [Yahoo Finance](http://finance.yahoo.com/)
