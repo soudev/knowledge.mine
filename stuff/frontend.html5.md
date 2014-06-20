@@ -794,6 +794,8 @@
 
 ### Desenvolvimento de Aplicações
 
+* [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
+
 * [[GitHub] google / web-starter-kit](https://github.com/google/web-starter-kit)
 
   * [Web Starter Kit | Google Developer](https://developers.google.com/web/starter-kit/) - Boilerplate & Tooling for Multi-Device Development

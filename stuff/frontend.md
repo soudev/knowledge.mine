@@ -32,7 +32,13 @@
 
 * [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 
-* [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/)
+--
+
+* [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
+
+* [[GitHub] google / web-starter-kit](https://github.com/google/web-starter-kit)
+
+  * [Web Starter Kit | Google Developer](https://developers.google.com/web/starter-kit/) - Boilerplate & Tooling for Multi-Device Development
 
 --
 
