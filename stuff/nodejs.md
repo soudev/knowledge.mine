@@ -1348,6 +1348,8 @@
 
 * [Getting Started with Docker for the Node.js | CouchDB Programmer - Medium](https://medium.com/code-adventures/35c45ce2a814)
 
+* [Develop a NodeJS app with Docker | sqldump](http://blog.abhinav.ca/blog/2014/06/17/develop-a-nodejs-app-with-docker/)
+
 --
 
 * [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
