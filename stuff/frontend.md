@@ -32,6 +32,8 @@
 
 * [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 
+* [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/)
+
 --
 
 * [Frontend Ops](https://rupl.github.io/frontend-ops/) - Automate your frontend workflow: dev, debug, test, deploy
