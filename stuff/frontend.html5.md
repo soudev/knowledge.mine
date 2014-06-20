@@ -417,6 +417,8 @@
 
 * [An Introduction to IndexedDB | Dev.Opera](http://dev.opera.com/articles/introduction-to-indexeddb/)
 
+* [Breaking the Borders of IndexedDB | Mozilla Hacks](https://hacks.mozilla.org/2014/06/breaking-the-borders-of-indexeddb/)
+
 * [IndexedDB and Date Example](http://www.raymondcamden.com/index.cfm/2013/6/6/IndexedDB-and-Date-Example)
 
 * [Working With IndexedDB | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/working-with-indexeddb--net-34673)
