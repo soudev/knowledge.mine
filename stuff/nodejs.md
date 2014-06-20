@@ -351,6 +351,12 @@
 
 * [[GitHub] moll / node-mitm](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing. Intercepts and gives you a Net.Socket, Http.IncomingMessage and Http.ServerResponse to test and respond with. Super useful when testing code that hits remote servers
 
+--
+
+* [[GitHub] google / web-starter-kit](https://github.com/google/web-starter-kit)
+
+  * [Web Starter Kit | Google Developer](https://developers.google.com/web/starter-kit/) - Boilerplate & Tooling for Multi-Device Development
+
 
 #### Configuração do Ambiente
 
