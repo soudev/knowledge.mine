@@ -1387,6 +1387,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] yeoman / generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 
+* [[GitHub] cgross / generator-cg-angular](https://github.com/cgross/generator-cg-angular) - Yeoman generator for Enterprise Angular projects
+
 --
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
