@@ -13,6 +13,12 @@
     * [Análise Técnica](#análise-técnica)
     * [Queda](#queda)
 * [Shopping Financeiro e Corretoras](#shopping-financeiro-e-corretoras)
+* [Simuladores](#simuladores)
+* [Ferramentas](#ferramentas)
+* [Cotações Online](#cotações-online)
+* [APIs](#apis)
+  * [Yahoo Finance](#yahoo-finance)
+* [Códigos](#códigos)
 
 <!-- toc stop -->
 
@@ -196,3 +202,49 @@
 
 * [Rico com vc](http://www.rico.com.vc/)
 
+
+## Simuladores
+
+* [Simuladores da Bolsa | BM&FBOVESPA](http://www.bmfbovespa.com.br/pt-br/educacional/simuladores/simuladores.aspx)
+
+* [Simulador FolhaInvest | Folha de S.Paulo](http://folhainvest.folha.com.br/)
+
+
+## Ferramentas
+
+* [Eclipse Trader](http://www.eclipsetrader.org/)
+
+
+## Cotações Online
+
+* [Google Finance](https://www.google.com/finance)
+
+* [Yahoo Finance](http://finance.yahoo.com/)
+
+
+## APIs
+
+### Yahoo Finance
+
+* [Exchanges, markets, and indices covered on Yahoo Finance](https://help.yahoo.com/kb/finance/SLN2310.html) - Data delays and providers
+
+* [Yahoo! Finance APIs | Google Code](https://code.google.com/p/yahoo-finance-managed/wiki/YahooFinanceAPIs)
+
+* [Get Yahoo Finance API Data via YQL | Jarloo](http://www.jarloo.com/get-yahoo-finance-api-data-via-yql/)
+
+* [JSON Chart Example with Yahoo YQL | ipublia](https://www.ipublia.com/json-chart-example-with-yahoo-yq/)
+
+
+## Códigos
+
+* [[GitHub] eduardocl / jstock](https://github.com/eduardocl/jstock) - Litte page to get stock information from yahoo finance. Only for Bovespa (Brazilian stock market)
+
+* [[GitHub] pilwon / node-yahoo-finance](https://github.com/pilwon/node-yahoo-finance) - Yahoo Finance historical quotes and snapshot data downloader written in Node.js
+
+* [[GitHub] scheb / yahoo-finance-api](https://github.com/scheb/yahoo-finance-api) - PHP client for Yahoo Finance API
+
+--
+
+* [[GitHub] dgtostes / cpp_study / py_codes / finance](https://github.com/dgtostes/cpp_study/tree/master/py_codes/finance) - python
+
+* [[Bitbuckets] ghost_br / bmfstock](https://bitbucket.org/ghost_br/bmfstock/) - python
