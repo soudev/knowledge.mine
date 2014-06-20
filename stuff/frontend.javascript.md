@@ -110,6 +110,14 @@
 
 --
 
+* [Learn Javascript](http://gitbookio.github.io/javascript/)
+
+* [Javascript Challenges](https://tcorral.github.io/javascript-challenges-book/) - This book will challenge you to learn and understand the most obscure and tricky parts of Javascript
+
+* [Survive JavaScript - a Web Developer's Guide](http://survivejs.com/)
+
+--
+
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
 
 * [It's time to start using JavaScript strict mode | NCZOnline](http://www.nczonline.net/blog/2012/03/13/its-time-to-start-using-javascript-strict-mode/)

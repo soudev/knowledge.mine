@@ -515,11 +515,15 @@
 
 * [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) -  is a command line tool (and Node.js library) for building beautiful programming books and exercises using GitHub/Git and Markdown. 
 
+  * [gitbook.io](http://www.gitbook.io/)
+
   * [Learn Javascript](http://gitbookio.github.io/javascript/)
 
-  * [Survive JavaScript - a Web Developer's Guide](http://survivejs.com/)
+  * [Javascript Challenges](https://tcorral.github.io/javascript-challenges-book/) - This book will challenge you to learn and understand the most obscure and tricky parts of Javascript
 
-  * [gitbook.io](http://www.gitbook.io/)
+    * [[GitHub] tcorral / javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself to learn and understand the most obscure and tricky parts of Javascript
+
+  * [Survive JavaScript - a Web Developer's Guide](http://survivejs.com/)
 
 
 ### Integração com Java
