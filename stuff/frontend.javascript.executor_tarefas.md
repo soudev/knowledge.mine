@@ -285,6 +285,10 @@
 
 --
 
+* [[GitHub] pifantastic / grunt-s3](https://github.com/pifantastic/grunt-s3) - A grunt task to automate moving files to/from Amazon S3
+
+--
+
 * [[GitHub] astronaughts / grunt-play](https://github.com/astronaughts/grunt-play) - play sound with grunt
 
   * [[GitHub] wlepinski / grunt-peao](https://github.com/wlepinski/grunt-peao)
