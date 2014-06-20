@@ -794,6 +794,10 @@
 
 ### Desenvolvimento de Aplicações
 
+* [[GitHub] google / web-starter-kit](https://github.com/google/web-starter-kit)
+
+  * [Web Starter Kit | Google Developer](https://developers.google.com/web/starter-kit/) - Boilerplate & Tooling for Multi-Device Development
+
 
 #### Offline
 
