@@ -157,6 +157,8 @@
 
 * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 
+* [One Mixin to rule them all | Front-end Development — Medium](https://medium.com/front-end-development-2/3885aadb3c1a)
+
 * [React Components for Cat Videos | David and Suzi](http://davidandsuzi.com/react-components-for-cat-videos/)
 
 --
