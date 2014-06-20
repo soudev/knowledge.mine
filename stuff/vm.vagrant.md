@@ -60,6 +60,12 @@
 
 --
 
+* [[GitHub] fideloper / Vaprobash](https://github.com/fideloper/Vaprobash) - Vagrant Provisioning Bash Scripts
+
+  * [Vaprobash | Fideloper](https://fideloper.github.io/Vaprobash/index.html) - Vagrant Provisioning Bash Scripts
+
+--
+
 * [Building a Data Platform in 15 Minutes with ArangoDB and Foxx | thinking_on thinking](http://thinkingonthinking.com/A-Data-Platform-in-15-minutes/)
 
 * [Instant Java provisioning with Vagrant and Puppet: Stash one click install | Atlassian Blogs](https://blogs.atlassian.com/2013/03/instant-java-provisioning-with-vagrant-and-puppet-stash-one-click-install/)
