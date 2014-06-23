@@ -134,6 +134,8 @@
 
 ## Aprendizado
 
+* [Node : Complete CheatSheet | Gentlenode Studio - Journal](http://journal.gentlenode.com/node-2-node-js-cheatsheet/)
+
 * [Enter the World of Node.js | SitePoint](http://www.sitepoint.com/enter-world-node-js/)
 
 * [How to Node](http://howtonode.org/)
@@ -1216,6 +1218,8 @@
 * [npm cheatsheet | Nodejitsu](https://blog.nodejitsu.com/npm-cheatsheet)
 
 * [[Gist] AvnerCohen / npm-cheat-sheet.md](https://gist.github.com/AvnerCohen/4051934) - Node.js - npm Cheat Sheet
+
+* [Node : NPM CheatSheet | Gentlenode Studio - Journal](http://journal.gentlenode.com/node-1-npm-cheatsheet/)
 
 --
 
