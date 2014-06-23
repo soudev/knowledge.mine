@@ -18,6 +18,7 @@
     * [dicas: Full Screen API](#dicas-full-screen-api)
     * [dicas: File System/API](#dicas-file-systemapi)
   * [Bibliotecas](#bibliotecas)
+    * [Presentation System](#presentation-system)
     * [WebRTC](#webrtc)
     * [Text Search](#text-search)
     * [Gesture](#gesture)
@@ -484,46 +485,6 @@
 
 ### Bibliotecas
 
-* [5 of the Best Free HTML5 Presentation Systems](http://www.sitepoint.com/5-free-html5-presentation-systems/)
-
-* [SlideCaptain - Modern online presentation tool](https://www.slidecaptain.com/) - Made with JavaScript, HTML5, CSS3, Bootstrap, MongoDB, Node.js and AngularJS.
-
---
-
-* [[GitHub] hakimel / reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework
-
-  * [Example Presentations | reveal.js github wiki](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
-
-  * [reveal.js is available on npm](https://npmjs.org/package/reveal.js)
-
-  * [Reveal.js: criando apresentações no navegador | Tableless](http://tableless.com.br/reveal-js-criando-apresentacoes-no-navegador/)
-
-  * [slid.es](http://slid.es/) - The easiest way to create and share beautiful presentations. Online presentation tool based on reveal.js
-
-  * [[GitHub] piatra / kreator.js](https://github.com/piatra/kreator.js) - slide tool interface for reveal.js
-
-      * [kreator](http://piatra.jit.su/)
-
-      * [javascript nodejs kreator reveal.js | ROSEdu Summer of Code Blog](http://soc.rosedu.org/blog/?tag=javascript-nodejs-kreator-reveal-js)
-
---
-
-* [deck.js](http://imakewebthings.com/deck.js/) - presentation engine
-
-  * [[GitHub] imakewebthings / deck.js](https://github.com/imakewebthings/deck.js)
-
-  * [[GitHub] thiagofelix / hackynote](https://github.com/thiagofelix/hackynote) - A presentation editor and preview based on markdown. Made for hackers
-
-  * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
-
---
-
-* [bespoke.js](http://markdalgleish.com/projects/bespoke.js/) - DYI presentation micro-framework
-
-  * [Bespoke.js: The Road to 1KB (Slides)](http://markdalgleish.github.io/presentation-bespoke.js-the-road-to-1kb/)
-
---
-
 * [RgbQuant.js](https://github.com/leeoniya/RgbQuant.js) - an image quantization library
 
 * [CamanJS - JavaScript Image Manipulation](http://camanjs.com/)
@@ -631,6 +592,47 @@
 * [[GitHub] sindresorhus / screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
 * [[GitHub] maxogden / psd.js](https://github.com/maxogden/psd.js) - PSD Parser in JavaScript | [site](http://maxogden.github.io/psd.js/)
+
+
+#### Presentation System
+
+* [5 of the Best Free HTML5 Presentation Systems](http://www.sitepoint.com/5-free-html5-presentation-systems/)
+
+* [SlideCaptain - Modern online presentation tool](https://www.slidecaptain.com/) - Made with JavaScript, HTML5, CSS3, Bootstrap, MongoDB, Node.js and AngularJS.
+
+--
+
+* [[GitHub] hakimel / reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework
+
+  * [Example Presentations | reveal.js github wiki](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+
+  * [reveal.js is available on npm](https://npmjs.org/package/reveal.js)
+
+  * [Reveal.js: criando apresentações no navegador | Tableless](http://tableless.com.br/reveal-js-criando-apresentacoes-no-navegador/)
+
+  * [slid.es](http://slid.es/) - The easiest way to create and share beautiful presentations. Online presentation tool based on reveal.js
+
+  * [[GitHub] piatra / kreator.js](https://github.com/piatra/kreator.js) - slide tool interface for reveal.js
+
+      * [kreator](http://piatra.jit.su/)
+
+      * [javascript nodejs kreator reveal.js | ROSEdu Summer of Code Blog](http://soc.rosedu.org/blog/?tag=javascript-nodejs-kreator-reveal-js)
+
+--
+
+* [deck.js](http://imakewebthings.com/deck.js/) - presentation engine
+
+  * [[GitHub] imakewebthings / deck.js](https://github.com/imakewebthings/deck.js)
+
+  * [[GitHub] thiagofelix / hackynote](https://github.com/thiagofelix/hackynote) - A presentation editor and preview based on markdown. Made for hackers
+
+  * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
+
+--
+
+* [bespoke.js](http://markdalgleish.com/projects/bespoke.js/) - DYI presentation micro-framework
+
+  * [Bespoke.js: The Road to 1KB (Slides)](http://markdalgleish.github.io/presentation-bespoke.js-the-road-to-1kb/)
 
 
 #### WebRTC
