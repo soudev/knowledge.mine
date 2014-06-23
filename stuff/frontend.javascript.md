@@ -531,6 +531,10 @@
 
 * [Regular Expressions Cheat Sheet by DaveChild](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 
+* [Regex #1: CheatSheet for JavaScript | Gentlenode Studio - Journal](http://journal.gentlenode.com/regex-1-cheatsheet-for-javascript/)
+
+--
+
 * [JavaScript RegExp Object | w3schools.com](http://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 
 * [Regular expressions in JavaScript - Dive Into JavaScript](http://www.diveintojavascript.com/articles/javascript-regular-expressions)
