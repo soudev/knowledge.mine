@@ -1,5 +1,8 @@
 # Autenticação & Autorização 
 
+* [Authentication for Single Page Apps | madhatted.com](http://madhatted.com/2014/6/17/authentication-for-single-page-apps)
+
+
 ## OAuth
 
 * [[SlideShare] OAuth with Restful Web Services](http://www.slideshare.net/vinayhulgar/oauth-with-restful-web-services)
