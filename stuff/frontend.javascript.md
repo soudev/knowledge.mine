@@ -20,6 +20,7 @@
   * [Integração Contínua](#integração-contínua)
   * [Útil](#útil)
   * [Bibliotecas](#bibliotecas)
+    * [Upload](#upload)
     * [Emulator](#emulator)
     * [Compiladores](#compiladores)
     * [Máquinas Virtuais](#máquinas-virtuais)
@@ -969,10 +970,14 @@
 
 * [[GitHub] jstayton / version.js](https://github.com/jstayton/version.js) - Test a different script version with the switch of a query string
 
-
 --
 
 * [[GitHub] benvan / lsys](https://github.com/benvan/lsys) - interactive l-system generator (CoffeeScript) | [wiki: L-system](https://en.wikipedia.org/wiki/L-system)
+
+
+#### Upload
+
+* [[GitHub] TTLabs / EvaporateJS](https://github.com/TTLabs/EvaporateJS) - Javascript library for browser to S3 multipart resumable uploads
 
 
 #### Emulator
