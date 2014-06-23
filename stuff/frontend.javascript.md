@@ -80,6 +80,8 @@
 
 * [[YouTube] Dos and Don'ts in JavaScript: A few best practices for when you're learning the language](https://www.youtube.com/watch?v=zILmbcIYnfw)
 
+* [A Bit of Advice for the JavaScript Semicolon Haters | Ben Alman](http://benalman.com/news/2013/01/advice-javascript-semicolon-haters/)
+
 * [Summary of Maintainable JavaScript Talk by Nicholas C. Zakas | Alex Kras](http://www.alexkras.com/summary-of-maintainable-javascript/)
 
 * [Estou iniciando em javascript, por onde começo? | JavaScript Brasil](http://javascriptbrasil.com/artigos/estou-iniciando-em-javascript-por-onde-comeco)
