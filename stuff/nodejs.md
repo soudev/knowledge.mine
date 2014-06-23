@@ -1434,6 +1434,8 @@
 
 * [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
 
+* [[Vimeo] Native Node.js Apps](http://vimeo.com/97881078) - Native NodeJS apps are a relatively new breed of apps coming out of the NodeJS community that combine NodeJS and Webkit
+
 
 #### Node Webkit
 
@@ -1444,8 +1446,6 @@
 * [Creating Desktop Applications With node-webkit | StrongLoop](http://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/)
 
 * [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
-
-* [[Vimeo] Native Node.js Apps](http://vimeo.com/97881078) - Native NodeJS apps are a relatively new breed of apps coming out of the NodeJS community that combine NodeJS and Webkit
 
 
 ##### node-webkit: exemplos
