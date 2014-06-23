@@ -1445,6 +1445,8 @@
 
 * [Introduction to HTML5 Desktop Apps With Node-Webkit | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-html5-desktop-apps-with-node-webkit/)
 
+* [[Vimeo] Native Node.js Apps](http://vimeo.com/97881078) - Native NodeJS apps are a relatively new breed of apps coming out of the NodeJS community that combine NodeJS and Webkit
+
 
 ##### node-webkit: exemplos
 
