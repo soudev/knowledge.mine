@@ -1,5 +1,17 @@
 # Backbone.js
 
+<!-- toc -->
+* [Visão Geral](#visão-geral)
+* [Aprendizado](#aprendizado)
+* [Dicas](#dicas)
+* [UI](#ui)
+* [Contruído com](#contruído-com)
+
+<!-- toc stop -->
+
+
+## Visão Geral
+
 O Backbone.js é uma biblioteca javascript popular(apesar de muitos o considerarem como um framework, devido suas funcionalidades), utilizada para a construção de aplicações web, conhecidas como Single Page. 
 
 O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento aplicações web, provendo modelos chave-valor binding(interligáveis), eventos customizáveis e coleções de dados, através de uma API com um conjunto de functions(funções/funcionalidades), views com o tratamento de eventos declarativos e um suporte para interligar com o backend através de uma interface RESTful JSON.
@@ -27,6 +39,8 @@ O Backbone.js disponibiliza uma estrutura de código para o desenvolvimento apli
 * [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) - A ranty, opinionated series of easily digestible tidbits
 
 * [Intro To Backbone.js | Daniel Norman](http://2color.github.io/2014/04/04/intro-to-backbone/)
+
+* [Single Page ToDo Application With Backbone.js | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417)
 
 
 ## Dicas
