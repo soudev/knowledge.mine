@@ -924,32 +924,6 @@
 
 --
 
-* [[YouTube] Nodebp April 2014: The History of Node.js Streams](https://www.youtube.com/watch?v=g5ewQEuXjsQ)
-
-* [Practical Examples of the New Node.js Streams API | StrongLoop](http://blog.strongloop.com/practical-examples-of-the-new-node-js-streams-api/)
-
-* [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
-
-* [Node.js Stream Playground | John Resig](http://ejohn.org/blog/node-js-stream-playground/)
-
-* [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
-
-* [Parse data files using Node.js streams | Nicolas Hery](http://nicolashery.com/parse-data-files-using-nodejs-streams/)
-
-* [[GitHub] substack / stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
-
-* [[GitHub] substack / stream-adventure](https://github.com/substack/stream-adventure) - go on an educational stream adventure!
-
-* [[GitHub] caolan / highland](https://github.com/caolan/highland) - The high-level streams library for Node.js and the browser
-
-* [[GitHub] maxogden / eol-stream](https://github.com/maxogden/eol-stream) - detect which type of EOL (AKA line-ending, newline) characters are in a stream
-
-* [[GitHub] Obvious / sculpt](https://github.com/Obvious/sculpt) - Manipulate streams
-
-* [[GitHub] Medium / pipette](https://github.com/Medium/pipette) - Stream and pipe utilities for Node
-
---
-
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
 * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder 
@@ -1003,6 +977,33 @@
   * [Using Node.js for Static Sites: Jade | StrongLoop](http://strongloop.com/strongblog/using-node-js-for-static-sites-jade/)
 
   * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
+
+
+### Streams
+
+* [[YouTube] Nodebp April 2014: The History of Node.js Streams](https://www.youtube.com/watch?v=g5ewQEuXjsQ)
+
+* [Practical Examples of the New Node.js Streams API | StrongLoop](http://blog.strongloop.com/practical-examples-of-the-new-node-js-streams-api/)
+
+* [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
+
+* [Node.js Stream Playground | John Resig](http://ejohn.org/blog/node-js-stream-playground/)
+
+* [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
+
+* [Parse data files using Node.js streams | Nicolas Hery](http://nicolashery.com/parse-data-files-using-nodejs-streams/)
+
+* [[GitHub] substack / stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
+
+* [[GitHub] substack / stream-adventure](https://github.com/substack/stream-adventure) - go on an educational stream adventure!
+
+* [[GitHub] caolan / highland](https://github.com/caolan/highland) - The high-level streams library for Node.js and the browser
+
+* [[GitHub] maxogden / eol-stream](https://github.com/maxogden/eol-stream) - detect which type of EOL (AKA line-ending, newline) characters are in a stream
+
+* [[GitHub] Obvious / sculpt](https://github.com/Obvious/sculpt) - Manipulate streams
+
+* [[GitHub] Medium / pipette](https://github.com/Medium/pipette) - Stream and pipe utilities for Node
 
 
 ### portable code
