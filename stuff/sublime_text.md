@@ -47,6 +47,8 @@
 
 * [5 things you didn't know Sublime Text 2 could do | .net magazine](http://www.netmagazine.com/features/5-things-you-didnt-know-sublime-text-2-could-do)
 
+* [12 Most-Wanted Sublime Text Tips and Tricks | hongkiat.com](http://www.hongkiat.com/blog/sublime-text-tips/)
+
 
 ## Atalhos
 
