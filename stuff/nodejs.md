@@ -1071,6 +1071,8 @@
 
 * [[GitHub] SBoudrias / Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
 
+* [[GitHub] f / omelette](https://github.com/f/omelette) - Omelette.js Simple Autocompletion Helper for Node
+
 
 ### process manager
 
