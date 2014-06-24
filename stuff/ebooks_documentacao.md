@@ -199,15 +199,19 @@
 
 ### Conhecimentos gerais
 
-* [YouTube Educação](https://www.youtube.com/educacao)
-
 * [Khan Academy](https://www.khanacademy.org/) | [versão em português](http://www.fundacaolemann.org.br/khanportugues/) - conhecimentos gerais (Matemática, Ciência, Economia e finanças, Humanas e Testes preparatórios)
 
 * [Coursera](https://www.coursera.org/) - os melhores cursos de universidades, online e gratuítos (cursos em inglês)
 
 * [Veduca](http://www.veduca.com.br/) - assim como o Coursera, cursos online e alguns inclusive com emissão de [certificados](http://www.veduca.com.br/browse/certified)
 
+--
+
+* [YouTube Educação](https://www.youtube.com/educacao)
+
 * [Crash Course](https://www.youtube.com/user/crashcourse/videos) - canal educacional no YouTube. Crash Course é uma gíria que significa mais ou menos "resumão". seria um cursinho bem rápido que te dá todos os conceitos fundamentais de um assunto. E é isso que o Hank faz no seu canal, com aulinhas super interessantes e detalhadas sobre história, psicologia, química, economia, e outros.
+
+* [TED Ed Lessons Worth Sharing](http://ed.ted.com/)
 
 
 ### Idiomas
