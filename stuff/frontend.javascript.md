@@ -348,6 +348,10 @@
 
 --
 
+* [label - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label)
+
+--
+
 * [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 
 * [Unicode and JavaScript | 2 ality](http://www.2ality.com/2013/09/javascript-unicode.html)
