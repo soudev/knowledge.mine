@@ -319,6 +319,8 @@
 
 * [Implementing Private and Protected Members in JavaScript | Philip Walton](http://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/)
 
+* [Structs and ImmutableStructs | raganwald.com](http://raganwald.com/2014/06/15/immutable-structs.html)
+
 --
 
 * [A meta style guide for JavaScript | 2ality](http://www.2ality.com/2013/07/meta-style-guide.html)
