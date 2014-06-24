@@ -985,6 +985,10 @@
 
 * [Practical Examples of the New Node.js Streams API | StrongLoop](http://blog.strongloop.com/practical-examples-of-the-new-node-js-streams-api/)
 
+* [Introduction to Node.js Streams | SitePoint](http://www.sitepoint.com/introduction-to-streams/)
+
+* [Basic use of Node.js streams | CodeWinds](http://codewinds.com/blog/2013-08-02-streams-basics.html)
+
 * [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
 
 * [Node.js Stream Playground | John Resig](http://ejohn.org/blog/node-js-stream-playground/)
