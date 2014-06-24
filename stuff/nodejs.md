@@ -930,7 +930,15 @@
 
 * [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
 
+* [Node.js Stream Playground | John Resig](http://ejohn.org/blog/node-js-stream-playground/)
+
+* [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
+
+* [Parse data files using Node.js streams | Nicolas Hery](http://nicolashery.com/parse-data-files-using-nodejs-streams/)
+
 * [[GitHub] substack / stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
+
+* [[GitHub] substack / stream-adventure](https://github.com/substack/stream-adventure) - go on an educational stream adventure!
 
 * [[GitHub] caolan / highland](https://github.com/caolan/highland) - The high-level streams library for Node.js and the browser
 
@@ -941,10 +949,6 @@
 * [[GitHub] Medium / pipette](https://github.com/Medium/pipette) - Stream and pipe utilities for Node
 
 --
-
-* [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
-
-* [Parse data files using Node.js streams | Nicolas Hery](http://nicolashery.com/parse-data-files-using-nodejs-streams/)
 
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
