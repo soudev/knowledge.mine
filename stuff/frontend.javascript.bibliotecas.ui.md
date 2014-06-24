@@ -122,6 +122,10 @@
 
 --
 
+* [[GitHub] krasimir / gifffer](https://github.com/krasimir/gifffer) - A tiny JavaScript library that prevents the autoplaying of the animated Gifs
+
+--
+
 * [[GitHub] guardian / scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform
 
 * [[GitHub] quilljs / quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
