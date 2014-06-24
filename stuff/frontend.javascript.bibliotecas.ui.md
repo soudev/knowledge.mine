@@ -169,6 +169,10 @@
 
 --
 
+* [[YouTube] The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4) - A talk from FutureJS by Pete Hunt of Facebook
+
+--
+
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
 * [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
