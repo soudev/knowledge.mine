@@ -275,6 +275,10 @@
 
 --
 
+* [[GitHub] mikefowler / smallworld.js](https://github.com/mikefowler/smallworld.js) - It's a (small utility for generating a) small world
+
+--
+
 * [API do Google Maps](https://developers.google.com/maps/?hl=pt-br)
 
   * [Getting Started With the Google Maps API | Chris Holtz](http://chrisholtz.com/blog/getting-started-with-the-google-maps-api/)
