@@ -36,6 +36,10 @@
 
 * [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
+--
+
+* [DockerCon | Docker Blog](http://blog.docker.com/category/dockercon-2/)
+
 
 ### Aprendizado
 
