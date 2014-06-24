@@ -235,6 +235,8 @@
 
 * [html5 video streaming from google drive](http://sourcey.com/html5-video-streaming-from-google-drive/)
 
+* [Adding captions and subtitles to HTML5 video | MDN](https://developer.mozilla.org/en-US/Apps/Build/Manipulating_media/Adding_captions_and_subtitles_to_HTML5_video)
+
 * [[Speaker Deck] Augmented Reality in JavaScript](https://speakerdeck.com/zenorocha/augmented-reality-in-javascript) - by Zeno Rocha
 
   * [Realidade Aumentada com HTML5 | InfoQ BR](http://www.infoq.com/br/presentations/realidade-aumentada-html5)
