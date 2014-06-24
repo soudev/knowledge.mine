@@ -23,6 +23,8 @@
 
 * [JS Bin](http://jsbin.com/) - Collaborative JavaScript Debugging
 
+  * [Why I Love JS Bin | Jimmy Lauzau](http://www.jimmylauzau.com/blog/2014/05/28/why-i-love-js-bin/)
+
 * [JSFiddle](http://jsfiddle.net/) - online editor for snippets build from HTML, CSS and JavaScript. [JsFiddle docs](http://doc.jsfiddle.net/) | [JsFiddle Tips And Tricks](http://a.shinynew.me/post/15183119139/jsfiddle-tips-and-tricks) | [JsFiddle GitHub Projects](https://github.com/jsfiddle)
 
 * [RequireBin](http://requirebin.com/) - Shareable JavaScript programs using modules from NPM
