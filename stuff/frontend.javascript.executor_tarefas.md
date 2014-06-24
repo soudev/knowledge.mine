@@ -295,9 +295,14 @@
 
 --
 
+* [[GitHub] mllrsohn / grunt-node-webkit-builder](https://github.com/mllrsohn/grunt-node-webkit-builder) - Let you build your node-webkit apps for mac, win and linux with grunt. It will download the prebuilt binaries for a specify version, unpacks it, creates a release folder, create the app.nw file for a specified directory and copys the app.nw file where it belongs.
+
+--
+
 * [[GitHub] ddprrt / connect-php](https://github.com/ddprrt/connect-php)
 
   * [The magic of grunt-contrib-connect, and how to run PHP with it | front-end technology talk](http://fettblog.eu/blog/2013/11/17/the-magic-of-grunt-contrib-connect-and-how-to-run-php-with-it/)
+
 
 ##### grunt plugins: proxy
 
