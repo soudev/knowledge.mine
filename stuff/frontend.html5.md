@@ -666,6 +666,14 @@
 
 #### Storage
 
+* [FireBase](https://www.firebase.com/) - a powerful API to store and sync data in realtime
+
+  * [[GitHub] firebase / geofire](https://github.com/firebase/geofire/) - Realtime location queries with Firebase
+
+  * [GeoFire 2.0](https://www.firebase.com/blog/2014-06-23-geofire-two-point-oh.html) - is an open-source JavaScript library that allows you to store and query a set of items based on their geographic location
+
+--
+
 * [TaffyDB](http://www.taffydb.com/) - The JavaScript Database
 
 * [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
