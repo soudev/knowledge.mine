@@ -300,6 +300,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[YouTube] March - AngularJS MTV Meetup Livestream: CRUD Apps with Angular and Breeze](https://www.youtube.com/watch?v=P2ErSQj3SN8)
 
+* [Building a Single Page Application with ASP.NET and AngularJS | Build 2014 - Channel 9](http://channel9.msdn.com/Events/Build/2014/3-644)
+
 --
 
 * [Atomic Design Behavior com AngularJS | Nomadev](http://nomadev.com.br/atomic-design-com-angularjs/)
