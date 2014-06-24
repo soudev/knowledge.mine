@@ -1313,6 +1313,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular Kendo](http://kendo-labs.github.com/angular-kendo/) - Angular-Kendo is a passthrough to the Kendo UI
 
+  * [Customizable Dashboards With Angular Kendo UI and Bootstrap | Telerik Developer Network](http://developer.telerik.com/featured/customizable-dashboards-angular-kendo-ui-bootstrap/)
+
 * [Angular UI](http://angular-ui.github.com/) - Componentes de UI
 
   * [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
