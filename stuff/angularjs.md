@@ -583,6 +583,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Demystifying AngularJS' dependency injection | bdadam.com](http://bdadam.com/blog/demistifying-angularjs-dependency-injection.html)
 
+* [AngularJS Best Practices #001: Constants | Two Fucking Developers](http://twofuckingdevelopers.com/2014/06/angularjs-best-practices-001-constants/)
+
 --
 
 * [Angular backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
