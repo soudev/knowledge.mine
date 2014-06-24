@@ -541,6 +541,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Logging Client-Side Errors With AngularJS And Stacktrace.js | The Blog Of Ben Nadel](http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm) - Ben Nadel demonstrates how he logs errors in his AngularJS applications using Stacktrace.js, and how he posts the error data to his server
 
+* [Better Error Handling In AngularJS | Ode To Code](http://odetocode.com/blogs/scott/archive/2014/04/21/better-error-handling-in-angularjs.aspx)
+
 --
 
 * [Communication in Angular using the pubsub pattern | Per Ploug](http://scriptogr.am/pploug/post/communication-in-angular-using-the-pubsub-pattern)
