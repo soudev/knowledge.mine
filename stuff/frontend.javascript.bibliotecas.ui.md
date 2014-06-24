@@ -124,6 +124,8 @@
 
 * [[GitHub] krasimir / gifffer](https://github.com/krasimir/gifffer) - A tiny JavaScript library that prevents the autoplaying of the animated Gifs
 
+* [[GitHub] 6eDesign / apptPicker](https://github.com/6eDesign/apptPicker) - Appointment Picker for selecting time ranges within a single day
+
 --
 
 * [[GitHub] guardian / scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform
