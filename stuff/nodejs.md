@@ -1093,6 +1093,10 @@
 
 * [Como configurar um servidor node.js para produção | morethings.io](http://morethings.io/javascript/node/como-configurar-um-servidor-nodejs-para-producao/)
 
+* [Using Node.js in Production | Flippin' Awesome](http://flippinawesome.org/2014/06/23/using-node-js-in-production/)
+
+--
+
 * [Scaling Node.js Applications | Colin J. Ihrig's Blog](http://cjihrig.com/blog/scaling-node-js-applications/)
 
 
