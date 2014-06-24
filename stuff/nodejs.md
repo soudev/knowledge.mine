@@ -1078,6 +1078,8 @@
 
   * [Goodbye node-forever, hello PM2 | devo.ps](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
 
+  * [Node.js: production management with PM2 | nicolasramz](http://www.warpdesign.fr/node-js-production-management-with-pm2/)
+
 
 ### Produção
 
