@@ -855,6 +855,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Understanding Angular’s $scope and $rootScope event system $emit, $broadcast and $on | Todd Motto](http://toddmotto.com/all-about-angulars-emit-broadcast-on-publish-subscribing/)
+
+--
+
 * [Frictionless data preloading in AngularJS | Garble me softly](http://www.garbl.es/angularjs/preload/2014/06/07/frictionless-data-preloading-in-angularjs/)
 
 
