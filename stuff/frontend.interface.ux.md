@@ -14,6 +14,8 @@
 
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
 
+* [Google Design](http://www.google.com/design/)
+
 * [Como Aprimorar sua Interface | Choco la Design](http://chocoladesign.com/aprimorar-interface)
 
 * [Branding: Google Visual Assets Guidelines | Abduzeedo Design Inspiration](http://abduzeedo.com/branding-google-visual-assets-guidelines)
