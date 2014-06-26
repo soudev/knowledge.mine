@@ -854,6 +854,8 @@
 
 * [[GitHub] gkindel / CSV-JS](https://github.com/gkindel/CSV-JS) - A Comma-Separated Values parser for JavaScript. Standards-based, stand alone, and no regular expressions
 
+* [[GitHub] knrz / CSV.js](https://github.com/knrz/CSV.js) - A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance
+
 * [WebODF](http://webodf.org/) - a JavaScript library that makes it easy to add Open Document Format (ODF) support
 
 --
