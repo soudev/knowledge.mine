@@ -29,6 +29,10 @@
 
 --
 
+* [Educação Financeira | Minhas Economias](http://www.minhaseconomias.com.br/educacao-financeira)
+
+--
+
 * [[YouTube] XP Investimentos: Como Montar o Orçamento Doméstico?](https://www.youtube.com/watch?v=itqLOX3hQlA)
 
 * [[YouTube] XP Investimentos: Como se Planejar Financeiramente?](https://www.youtube.com/watch?v=3Sucd6VrbtU)
@@ -39,6 +43,10 @@
 
 
 ## Informações gerais
+
+* [Indicadores Financeiros | Minhas Economias](http://www.minhaseconomias.com.br/indicadores)
+
+--
 
 * [[YouTube] Pai Rico Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
 
