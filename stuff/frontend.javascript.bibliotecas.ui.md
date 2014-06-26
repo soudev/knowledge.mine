@@ -242,7 +242,17 @@
 
 --
 
-* [Raphaël -JavaScript Library](http://raphaeljs.com/)
+* [[GitHub] dhotson / springy](https://github.com/dhotson/springy/) - A force directed graph layout algorithm in JavaScript
+
+--
+
+* [Highcharts](http://www.highcharts.com/) - Interactive JavaScript charts for your webpage
+
+  * [[GitHub] highslide-software / highcharts.com](https://github.com/highslide-software/highcharts.com/) - Highcharts JS, the JavaScript charting framework
+
+--
+
+* [Raphaël](http://raphaeljs.com/) - JavaScript Library
 
 * [JustGage](http://justgage.com/) is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges
 
