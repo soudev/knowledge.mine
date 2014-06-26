@@ -169,6 +169,8 @@
 
 * [React Components for Cat Videos | David and Suzi](http://davidandsuzi.com/react-components-for-cat-videos/)
 
+* [React Tutorial: Two way data binding | Void Canvas](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
+
 --
 
 * [[YouTube] The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4) - A talk from FutureJS by Pete Hunt of Facebook
