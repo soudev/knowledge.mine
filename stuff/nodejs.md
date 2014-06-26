@@ -810,6 +810,8 @@
 
 * [[GitHub] dresende / node-ast-transformer](https://github.com/dresende/node-ast-transformer) - Node UglifyJS AST Transformer
 
+* [[GitHub] RReverser / estemplate](https://github.com/RReverser/estemplate) - Proper (AST-based) JavaScript code templating with source maps support
+
 
 ## Dicas
 
