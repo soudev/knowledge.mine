@@ -39,6 +39,7 @@
   * [Upload File(s)](#upload-files)
   * [Autenticação](#autenticação)
   * [Mobile](#mobile)
+    * [Ionic](#ionic)
     * [PhoneGap](#phonegap)
   * [Ferramentas](#ferramentas)
     * [Sublime Text](#sublime-text)
@@ -927,19 +928,47 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [The Definitive Guide to Angular on Mobile | ng-newsletter](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
 
-* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
-
-  * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
-
-  * [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
-
-  * [Building Mobile Apps with AngularJS and Ionic | The Official Ionic Blog](http://ionicframework.com/blog/angular-mobile-dev/)
-
-  * [ngCordova](http://ngcordova.com/) - is a set of AngularJS extensions on top of the Cordova API to make it easier to build, test, and deploy Cordova apps with AngularJS
-
 * [Mobile Angular UI](http://mobileangularui.com/) - Angular JS Mobile UI framework with Bootstrap 3 Css
 
 * [The Answer to PhoneGap UI Development | Onsen UI](http://onsenui.io/)
+
+#### Ionic
+
+* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
+
+* [ngCordova](http://ngcordova.com/) - is a set of AngularJS extensions on top of the Cordova API to make it easier to build, test, and deploy Cordova apps with AngularJS
+
+--
+
+* [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
+
+* [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
+
+* [Building Mobile Apps with AngularJS and Ionic | The Official Ionic Blog](http://ionicframework.com/blog/angular-mobile-dev/)
+
+--
+
+* The dynamic programmer 
+
+  > Code for this series is available on [[Github] hgarcia / dynamic-sports](https://github.com/hgarcia/dynamic-sports)
+
+  * Part 1 - [Building an iOS app with PhoneGap, Angular.js and the ionic framework](http://blog.dynamicprogrammer.com/2014/02/26/building-ios-apps-with-phonegap-angular-and-ionic-framework.html)
+
+  * Part 2 - [Building a basic iOS UI using Angular and Ionic](http://blog.dynamicprogrammer.com/2014/02/28/building-a-basic-UI-angular-ionic-part-2.html)
+
+  * Part 3 - [Recording Geo location data with PhoneGap and Angular](http://blog.dynamicprogrammer.com/2014/05/05/recording-geolocation-data-PhoneGap-part-3.html)
+
+  * Part 4 - [Refactoring the js code structure PhoneGap and Angular](http://blog.dynamicprogrammer.com/2014/05/06/refactoring-the-js-code-structure-part-4.html)
+
+  * Part 5 - [Uploading files with PhoneGap and Angular](http://blog.dynamicprogrammer.com/2014/05/09/uploading-files-with-PhoneGap-Angular-part-5.html)
+
+  * Part 6 - [A few different ways to improve user feedback in our Ionic application](http://blog.dynamicprogrammer.com/2014/05/16/user-feedback-on-PhoneGap-with-Ionic-part-6.html)
+
+  * Part 7 - [Displaying current and max speed with PhoneGap and Ionic](http://blog.dynamicprogrammer.com/2014/05/21/displaying-speed-and-duration-PhoneGap-with-Ionic-part-7.html)
+
+  * Part 8 - [Deleting files with PhoneGap](http://blog.dynamicprogrammer.com/2014/05/22/deleting-files-with-PhoneGap-part-8.html)
+
+  * Part 9 - [Calculating distance and speed with the GeoLocation API - PhoneGap](http://blog.dynamicprogrammer.com/2014/05/23/calculate-distance-with-geolocation-and-PhoneGap-part-9.html)
 
 
 #### PhoneGap
