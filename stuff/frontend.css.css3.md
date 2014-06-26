@@ -24,6 +24,8 @@
 
 * [Creative Loading Effects | Codrops](http://tympanus.net/codrops/2013/09/18/creative-loading-effects/)
 
+* [CSS3: Seu desenho vai virar código, e agora? | UX.BLOG](http://www.uxdesign.blog.br/padroes-web/css3/oficina-seu-desenho-vai-virar-codigo-e-agora/)
+
 
 ### Dicas
 
