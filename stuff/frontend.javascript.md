@@ -1145,6 +1145,8 @@
 
 * [Slush, o novo Yeoman | Diogo Moretti](http://diogo.nu/slush-o-novo-yeoman/)
 
+* [Slush - A Better Web App Scaffolding Tool | Flippin' Awesome](http://flippinawesome.org/2014/05/05/slush-a-better-web-app-scaffolding-tool/)
+
 
 #### Yeoman
 
