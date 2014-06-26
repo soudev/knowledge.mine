@@ -1550,6 +1550,8 @@ Projeto de exemplo / estrutura inicial
 
 * [Protractor for AngularJS: writing end-to-end test has never been so fun](http://ramonvictor.github.io/protractor/slides/#/) - A step-by-step presentaion on Protractor End-to-End Testing for AngularJS
 
+* [Getting Started with Protractor and Page Objects for AngularJS E2E Testing | Gaslight](http://teamgaslight.com/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
+
 --
 
 * [[GitHub] daniellmb / angular-test-patterns](https://github.com/daniellmb/angular-test-patterns) - High Quality Guide for Testing AngularJS
