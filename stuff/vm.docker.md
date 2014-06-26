@@ -276,6 +276,8 @@
 
 * [Continuous Integration Using Docker, Maven and Jenkins | Wouter Danes](http://www.wouterdanes.net/2014/04/11/continuous-integration-using-docker-maven-and-jenkins.html)
 
+  * [[GitHub] wouterd / docker-maven-plugin](https://github.com/wouterd/docker-maven-plugin) - A maven plugin to manage docker containers and images for integration tests
+
 * [From zero to fully working CI server in less than 10 minutes with Drone & Docker | Jean-Philippe Boily](http://jipiboily.com/2014/from-zero-to-fully-working-ci-server-in-less-than-10-minutes-with-drone-docker)
 
 * [Move fast and don’t break things! Testing with Jenkins, Ansible and Docker | Rackspace Developer Center](http://developer.rackspace.com/blog/move-fast-and-dont-break-things-testing-with-jenkins-ansible-and-docker.html)
