@@ -315,6 +315,8 @@
 
 * [Raspberry Pi MongoDB Installation - The working guide! | Raspberry Pi | 512MB of Awesome](http://c-mobberley.com/wordpress/index.php/2013/10/14/raspberry-pi-mongodb-installation-the-working-guide/)
 
+* [[GitHub] olebedev / cdn](https://github.com/olebedev/cdn) - Content Delivery Network over MongoDb GridFs
+
 * [Log 4 Mongo](http://log4mongo.org/)
 
   * [Usando MongoDB para armazenar log de aplicações | iMasters](http://imasters.com.br/banco-de-dados/mongodb/usando-mongodb-para-armazenar-log-de-aplicacoes/)
