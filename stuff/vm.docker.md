@@ -101,6 +101,10 @@
 
 * [[YouTube] 15 Docker Tips in 15 Minutes](https://www.youtube.com/watch?v=BJT9bA64Hcc) - Twitter University (19/12/2013).
 
+* [Some Docker Tips and Tricks | Wouter Danes](http://www.wouterdanes.net/2014/04/16/some-docker-tips-and-tricks.html)
+
+--
+
 * [Docker : The good parts | Shrikrishna Holla](http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/)
 
 * [Docker: what I learned from working out what's in it for me | Brownsofa](http://brownsofa.org/blog/2014/03/14/docker-what-i-learned-from-whats-in-it-for-me/)
