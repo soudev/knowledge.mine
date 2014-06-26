@@ -1241,13 +1241,15 @@
 
 --
 
+* [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
+
+* [Npm Tips | fiveisprime](http://fiveisprime.com/2014/04/06/npm-tips/)
+
 * [10 Cool Things You Probably Didn't Realize npm Could Do](http://blog.izs.me/post/1675072029/10-cool-things-you-probably-didnt-realize-npm-could-do)
 
 * [9 Quick Tips About npm | Pony Foo](http://blog.ponyfoo.com/2013/12/14/9-quick-tips-about-npm)
 
-* [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
-
-* [Npm Tips | fiveisprime](http://fiveisprime.com/2014/04/06/npm-tips/)
+* [8 NPM tips for better Node development | Scott Smith](http://scottksmith.com/blog/2014/06/25/8-npm-tips-for-better-node-development/)
 
 --
 
