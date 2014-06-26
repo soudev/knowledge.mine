@@ -680,6 +680,8 @@
 
 * [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
 
+* [[GitHub] TremayneChrist / Based](https://github.com/TremayneChrist/Based) - Client-side JavaScript database
+
 * [[GitHub] chambs / minidb](https://github.com/chambs/minidb) - a simple wraper for local/session storage DOM API management
 
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
@@ -717,6 +719,8 @@
 * [[GitHub] jensarps / IDBWrapper](https://github.com/jensarps/IDBWrapper) - A cross-browser wrapper for IndexedDB
 
 * [[GitHub] aaronpowell / db.js](https://github.com/aaronpowell/db.js) - is a wrapper for IndexedDB to make it easier to work against 
+
+--
 
 * [[GitHub] keithwhor / FSO.js](https://github.com/keithwhor/FSO.js/) - JavaScript FileSystemObject library for temporary and permanent client-side file storage
 
