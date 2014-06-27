@@ -541,6 +541,10 @@
 
 * [[GitHub] gmarty / DVD.js](https://github.com/gmarty/DVD.js) - Playing DVD in JavaScript for the sake of interoperability
 
+--
+
+* [[GitHub] felipernb / algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
+
 
 ### Expressões Regulares
 
