@@ -375,3 +375,7 @@
 
 * [[Docker Index] google/cloud-sdk](https://index.docker.io/u/google/cloud-sdk/) - Google Cloud SDK bundle with all components and dependencies
 
+* [[YouTube] Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw)
+
+
+
