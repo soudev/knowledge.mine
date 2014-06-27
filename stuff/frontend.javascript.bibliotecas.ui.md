@@ -232,6 +232,8 @@
 
 * [Visualize Your Data: 25 Javascript Visualization Libraries](http://www.ma-no.org/en/content/index_visualize-your-data-25-javascript-visualization-libraries_1796.php)
 
+* [12 JavaScript Libraries for Data Visualization | Site Point](http://www.sitepoint.com/twelve-javascript-libraries-data-visualization/)
+
 --
 
 * [Data Visualization | Showcases | GitHub](https://github.com/showcases/data-visualization)
