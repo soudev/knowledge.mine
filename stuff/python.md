@@ -33,6 +33,8 @@
 
 * [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 
+* [Improve Your Python: Python Classes and Object Oriented Programming | Jeff Knupp](http://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
+
 --
 
 * [[YouTube] Python: A "Toy" Language](https://www.youtube.com/watch?v=BWyDA5y6TIg)
