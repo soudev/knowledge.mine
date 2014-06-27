@@ -423,6 +423,10 @@
 
 * [[GitHub] dc-js / dc.js](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
 
+* [Epoch](https://fastly.github.io/epoch/) - A general purpose real-time charting library for building beautiful, smooth, and high performance visualizations
+
+  * [[GitHub] fastly / epoch](https://github.com/fastly/epoch) - A general purpose, real-time visualization library
+
 
 #### Gantt
 
