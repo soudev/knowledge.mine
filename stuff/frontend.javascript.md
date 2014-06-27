@@ -1417,4 +1417,5 @@
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
 
+* [Get ready for ECMAScript 6 | K33G_ORG's Blog](https://k33g.github.io/2014/06/26/ES6-READY.html)
 
