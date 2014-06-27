@@ -516,6 +516,10 @@
 
 --
 
+* [[GitHub] typicode / husky](https://github.com/typicode/husky) - Prevents bad commit or push (git hooks, pre-commit, pre-push and all that stuff...)
+
+--
+
 * [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) -  is a command line tool (and Node.js library) for building beautiful programming books and exercises using GitHub/Git and Markdown. 
 
   * [gitbook.io](http://www.gitbook.io/)
