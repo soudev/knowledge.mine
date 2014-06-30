@@ -68,6 +68,8 @@
 
 * [Web Components' spec](http://www.w3.org/TR/2013/WD-components-intro-20130606/)
 
+* [Web Components - building blocks of the future web | Infinum](https://www.infinum.co/the-capsized-eight/articles/web-components-building-blocks-of-the-future-web)
+
 * [[Speaker Deck] Um futuro chamado Web Components | Zeno Rocha](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
 
 * [Web Components: Introdução | Tableless](http://tableless.com.br/web-components-introducao/)
