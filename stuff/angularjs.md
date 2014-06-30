@@ -47,9 +47,10 @@
     * [Netbeans IDE](#netbeans-ide)
     * [JetBrains](#jetbrains)
     * [Visual Studio](#visual-studio)
-* [Directive (componentes)](#directive-componentes)
-  * [Filters](#filters)
-  * [Componentes](#componentes)
+* [Componentes](#componentes)
+  * [Diretivas](#diretivas)
+  * [Web Components](#web-components)
+* [Filters](#filters)
 * [Módulos](#módulos)
   * [Módulos de Armazenamento](#módulos-de-armazenamento)
   * [Módulos de Gráficos](#módulos-de-gráficos)
@@ -1046,8 +1047,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS Intellisense in Visual Studio 2012 | Mads Kristensen](http://madskristensen.net/post/angularjs-intellisense-in-visual-studio-2012)
 
 
+## Componentes
 
-## Directive (componentes)
+* [Writing Reusable AngularJS Components with Bower | Brian Ford](http://briantford.com/blog/angular-bower.html)
+
+* [Sharing AngularJS modules with component.js | Jayway](http://www.jayway.com/2013/06/04/sharing-angularjs-modules-with-component-js/)
+
+
+### Diretivas
 
 * [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
 
@@ -1092,16 +1099,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
 
 * [Looking At How scope.$evalAsync() Affects Performance In AngularJS Directives | Ben Nadel](http://www.bennadel.com/blog/2635-looking-at-how-scope-evalasync-affects-performance-in-angularjs-directives.htm)
-
---
-
-* [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
-
-* [Combining AngularJS with existing Components | henriquat.re](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
-
-* [[YouTube] Using Angular with Polymer elements](https://www.youtube.com/watch?v=p1NpZ-0Op0w)
-
-* [Angular and Polymer Data Binding, Together! | Seth Ladd's Blog](http://blog.sethladd.com/2014/02/angular-and-polymer-data-binding.html)
 
 --
 
@@ -1204,18 +1201,24 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [[plunkr] ng-chartjs-directive example](http://embed.plnkr.co/QE2TLfiS9zabrTRKM0Vr/preview)
 
 
-### Filters
+### Web Components
+
+* [Building Pluggable Components in AngularJS | codef0rmer](http://amitgharat.wordpress.com/2013/10/20/building-pluggable-components-in-angularjs/)
+
+* [Combining AngularJS with existing Components | henriquat.re](http://henriquat.re/directives/advanced-directives-combining-angular-with-existing-components-and-jquery/angularAndJquery.html)
+
+* [Here's the difference between Polymer and Angular | Binpress](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) - 26/06/2014
+
+* [[YouTube] Using Angular with Polymer elements](https://www.youtube.com/watch?v=p1NpZ-0Op0w)
+
+* [Angular and Polymer Data Binding, Together! | Seth Ladd's Blog](http://blog.sethladd.com/2014/02/angular-and-polymer-data-binding.html)
+
+
+## Filters
 
 * [AngularJS filters in Depth | Suhair Hassan](http://suhairhassan.com/2013/07/25/angularjs-in-depth-part-2.html)
 
 * [Everything about custom filters in AngularJS | Todd Motto](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
-
-
-### Componentes
-
-* [Writing Reusable AngularJS Components with Bower | Brian Ford](http://briantford.com/blog/angular-bower.html)
-
-* [Sharing AngularJS modules with component.js | Jayway](http://www.jayway.com/2013/06/04/sharing-angularjs-modules-with-component-js/)
 
 
 ## Módulos
