@@ -147,6 +147,10 @@
 
 --
 
+* [Web Components, PhoneGap Build and WordPress – A Hybrid App for your Blog | The Jackal of Javascript](http://thejackalofjavascript.com/a-hybrid-app-for-your-blog/)
+
+--
+
 * [[GitHub] Google Web Components](https://github.com/GoogleWebComponents) - Official web components for Google's APIs and services
 
 * [[GitHub] robdodson / mark-down](https://github.com/robdodson/mark-down) - A Custom Element for rendering Markdown built with Polymer
