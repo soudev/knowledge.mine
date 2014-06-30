@@ -127,6 +127,10 @@
 
 --
 
+* [Material design with Polymer](http://www.polymer-project.org/docs/elements/material.html)
+
+--
+
 * [Polymer Design Tools](http://www.polymer-project.org/tools/designer/)
 
   * [[YouTube] Introducing the Polymer Designer tool](https://www.youtube.com/watch?v=djQh8XKRzRg)
