@@ -3,6 +3,7 @@
 
 <!-- toc -->
 * [Visão Geral](#visão-geral)
+  * [Angular.js 2.0](#angularjs-20)
   * [Estatísticas](#estatísticas)
   * [Por que utilizar o AngularJS?](#por-que-utilizar-o-angularjs)
   * [5 Características impressionantes](#5-características-impressionantes)
@@ -101,6 +102,11 @@
 * [AngularJS - ng-conf 2014 - Exclusive | ng-learn](http://ng-learn.org/2014/01/NG-CONF-2014/)
 
 * [[YouTube] ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
+
+
+### Angular.js 2.0
+
+* [AngularJS 2.0 Status and Preview | ng-learn](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
 
 
 ### Estatísticas
