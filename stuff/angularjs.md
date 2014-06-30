@@ -1438,6 +1438,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] yeoman / generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 
+* [[GitHub] cironunes / generator-angular-next](https://github.com/cironunes/generator-angular-next)
+
 * [[GitHub] cgross / generator-cg-angular](https://github.com/cgross/generator-cg-angular) - Yeoman generator for Enterprise Angular projects
 
 --
