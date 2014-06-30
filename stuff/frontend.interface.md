@@ -72,6 +72,10 @@
 
 * [[Speaker Deck] Um futuro chamado Web Components | Zeno Rocha](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
 
+* [Componentize The Web!: Back to the browser at LXJS 2014 (Lisbon Javascript) | Lanyrd](http://lanyrd.com/2014/lxjs/sdbwtd/)
+
+--
+
 * [Web Components: Introdução | Tableless](http://tableless.com.br/web-components-introducao/)
 
 * [Web Components: Why You're Already An Expert | Mark Dalgleish](http://markdalgleish.com/2013/11/web-components-why-youre-already-an-expert/)
