@@ -422,8 +422,6 @@
 
 * [Patterns for Asynchronous Programming with Promises | Joe Zim's JavaScript Blog](http://www.joezimjs.com/javascript/patterns-asynchronous-programming-promises/)
 
-* [[YouTube] Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
-
 --
 
 * [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
@@ -434,6 +432,11 @@
 
   * [AMD loader in 30 lines of code](http://curiosity-driven.org/amd-loader-with-promises)
 
+--
+
+* [[YouTube] Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
+
+* [[Gist]  staltz / introrx.md](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing
 
 --
 
