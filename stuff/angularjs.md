@@ -27,6 +27,7 @@
   * [Ciro Nunes: AngularJS Melhores Práticas](#ciro-nunes-angularjs-melhores-práticas)
 * [Casos de Uso](#casos-de-uso)
 * [Dicas](#dicas)
+  * [SEO](#seo)
   * [HTML5 offline](#html5-offline)
   * [Amazon AWS](#amazon-aws)
   * [Decorator](#decorator)
@@ -497,14 +498,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [What you need to know about Angular SEO | ng-newsletter](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
-
-* [AngularJS SEO | CoderWall - Jose Raya](https://coderwall.com/p/vqpfka)
-
-* [DIY AngularJS SEO with PhantomJS (the easy way!)](http://lawsonry.com/2014/05/diy-angularjs-seo-with-phantomjs-the-easy-way/)
-
---
-
 * [[Android App] AngularJS Pocket Reference](https://play.google.com/store/apps/details?id=com.angularpocketreference.app&amp;amp;hl=en)
 
 --
@@ -716,6 +709,17 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[Gist] AngularJS Lesson Learned #2: Enabling HTTP Credentials | Mário Junior](https://gist.github.com/mariojunior/6175849)
 
 * [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
+
+
+### SEO
+
+* [What you need to know about Angular SEO | ng-newsletter](http://www.ng-newsletter.com/posts/serious-angular-seo.html)
+
+* [AngularJS SEO | CoderWall - Jose Raya](https://coderwall.com/p/vqpfka)
+
+* [DIY AngularJS SEO with PhantomJS (the easy way!)](http://lawsonry.com/2014/05/diy-angularjs-seo-with-phantomjs-the-easy-way/)
+
+* [AngularJS & SEO - finally a piece of cake | weluse GmbH](https://weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html)
 
 
 ### HTML5 offline
