@@ -704,6 +704,8 @@
 
 * [[GitHub] justindeguzman / locstor](https://github.com/justindeguzman/locstor) - JavaScript helper library for HTML5 localStorage
 
+* [[GitHub] tsironis / lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
+
 * [[GitHub] mozilla / localForage](https://github.com/mozilla/localForage) - Offline storage, improved. 
 
   * [localForage: Offline Storage, Improved | Mozilla Hacks](https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/)
