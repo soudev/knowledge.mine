@@ -62,6 +62,8 @@
 
 * [gulp.js](http://gulpjs.com) - the streaming build system
 
+* [[GitHub] osscafe / gulp-cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
+
 * [gulp - The vision, history, and future of the project | Medium](https://medium.com/p/3828e8126466)
 
 --
