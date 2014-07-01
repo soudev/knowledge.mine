@@ -78,6 +78,10 @@
 
 ### CDN
 
+* [CDNperf](http://www.cdnperf.com/) - JavaScript CDN Performance in Numbers
+
+--
+
 * [A importância de uma CDN | iMasters](http://imasters.com.br/desenvolvimento/a-importancia-de-uma-cdn/) - definição: [CDN (Content Delivery Network)](http://pt.wikipedia.org/wiki/Content_delivery_network)
 
 * [3 reasons why you should let Google host jQuery for you | Encosia](http://encosia.com/3-reasons-why-you-should-let-google-host-jquery-for-you/)
