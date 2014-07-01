@@ -22,6 +22,8 @@
 
 * [[GitHub] veltman / principles](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
 
+* [[GitHub] dypsilon / frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+
 --
 
 * [O que é desenvolvimento FrontEnd? | Tableless](http://tableless.com.br/iniciantes/) - Um guia para iniciantes na área
