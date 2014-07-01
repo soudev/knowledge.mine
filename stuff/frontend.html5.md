@@ -604,6 +604,10 @@
 
 --
 
+* [[GitHub] pete-otaqui / deckard](https://github.com/pete-otaqui/deckard) - A Web Animations API driven slide deck library
+
+--
+
 * [[GitHub] hakimel / reveal.js](https://github.com/hakimel/reveal.js/) - The HTML Presentation Framework
 
   * [Example Presentations | reveal.js github wiki](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
