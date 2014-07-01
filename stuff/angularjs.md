@@ -941,6 +941,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [The Definitive Guide to Angular on Mobile | ng-newsletter](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
 
+* [[YouTube] Angular on the go: Using Angular to power Mobile Apps | AngularJS](https://www.youtube.com/watch?v=xOAG7Ab_Oz0) - (15/12/2013)
+
+--
+
 * [Mobile Angular UI](http://mobileangularui.com/) - Angular JS Mobile UI framework with Bootstrap 3 Css
 
 * [The Answer to PhoneGap UI Development | Onsen UI](http://onsenui.io/)
