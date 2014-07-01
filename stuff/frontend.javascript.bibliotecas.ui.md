@@ -429,6 +429,10 @@
 
   * [[GitHub] fastly / epoch](https://github.com/fastly/epoch) - A general purpose, real-time visualization library
 
+* [dimple](http://dimplejs.org/) - A simple charting API for d3 data visualisations 
+
+    * [[GitHub] PMSI-AlignAlytics / dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
+
 
 #### Gantt
 
