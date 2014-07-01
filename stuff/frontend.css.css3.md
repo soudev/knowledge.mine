@@ -26,6 +26,12 @@
 
 * [CSS3: Seu desenho vai virar código, e agora? | UX.BLOG](http://www.uxdesign.blog.br/padroes-web/css3/oficina-seu-desenho-vai-virar-codigo-e-agora/)
 
+--
+
+* [Agile css3 engine](https://a-jie.github.io/Agile/) - Using javascript generated pure CSS3
+
+  * [[GitHub] a-jie / Agile](https://github.com/a-jie/Agile)
+
 
 ### Dicas
 
