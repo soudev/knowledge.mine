@@ -344,6 +344,8 @@
 
   * [Mineração de dados e as funções map, reduce e filter | NodeBR - NodeJS Brasil](http://nodebr.com/mineracao-de-dados-e-as-funcoes-map-reduce-filter/)
 
+  * [Using Cheerio and MongoDB to scrape a large website | Qawelesizwe Mlilo](http://blog.ragingflame.co.za/2014/6/27/using-cheerio-and-mongodb-to-scrap-a-large-website) - (27/06/2014) Scrapping websites using node.js
+
 * [[GitHub] addyosmani / oust](https://github.com/addyosmani/oust) - Extract URLs to stylesheets, scripts, links, images or HTML imports from HTML
 
 --
