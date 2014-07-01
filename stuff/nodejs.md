@@ -919,6 +919,10 @@
 
 * [[GitHub] LearnBoost / kue](https://github.com/learnboost/kue) - Kue is a priority job queue backed by redis, built for node.js.
 
+* [[GitHub] pgte / simple-redis-safe-work-queue](https://github.com/pgte/simple-redis-safe-work-queue) - Node.js Redis-based simple and safe work queue
+
+--
+
 * [[GitHub] eviltik / evilscan](https://github.com/eviltik/evilscan) - Massive ip/ports scanner (nodejs)
 
 * [[GitHub] caio-ribeiro-pereira / gzipme](https://github.com/caio-ribeiro-pereira/gzipme) - A simple way to gzip your files with Node.js
