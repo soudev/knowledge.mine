@@ -18,6 +18,7 @@
   * [Red Hat](#red-hat)
   * [Amazon AMI](#amazon-ami)
   * [Google Cloud](#google-cloud)
+  * [Windows Azure](#windows-azure)
 
 <!-- toc stop -->
 
@@ -378,4 +379,7 @@
 * [[YouTube] Google I/O 2014 - Containerizing the Cloud with Docker on Google Cloud Platform](https://www.youtube.com/watch?v=tsk0pWf4ipw)
 
 
+### Windows Azure
+
+* [Docker on Azure](http://1drv.ms/1kfrLev)
 
