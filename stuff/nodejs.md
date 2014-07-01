@@ -623,6 +623,8 @@
 
 * [[GitHub] originalmachine / apogee](https://github.com/originalmachine/apogee) - Build powerful (but simple!) versioned APIs with Connect
 
+* [[GitHub] evilpacket / helmet](https://github.com/evilpacket/helmet) - Collection of middleware to implement various security headers for Express / Connect
+
 --
 
 * [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
