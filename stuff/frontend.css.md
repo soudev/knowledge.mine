@@ -42,6 +42,8 @@
 
 * [Dynamically removing and replacing an external JavaScript or CSS file](http://www.javascriptkit.com/javatutors/loadjavascriptcss2.shtml)
 
+* [[Gist] hdragomir / sm-annotated.html](https://gist.github.com/hdragomir/8f00ce2581795fd7b1b7) - The deferred font loading logic for [Smashing Magazine](http://www.smashingmagazine.com/)
+
 --
 
 * [Detecting CSS Style Support | Ryan Morr](http://ryanmorr.com/detecting-css-style-support/)
