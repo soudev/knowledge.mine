@@ -722,6 +722,8 @@
 
 --
 
+* [[GitHub] addyosmani / basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage
+
 * [[GitHub] keithwhor / FSO.js](https://github.com/keithwhor/FSO.js/) - JavaScript FileSystemObject library for temporary and permanent client-side file storage
 
 
