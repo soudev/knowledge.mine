@@ -399,6 +399,10 @@
 
 ##### Bibliotecas e funcionalidades contruídas com D3.js
 
+* [D3plus](http://d3plus.org/) - data visualization made easy
+
+  * [[GitHub] alexandersimoes / d3plus](https://github.com/alexandersimoes/d3plus/) - A javascript library that extends D3.js to enable fast and beautiful visualizations
+
 * [[GitHub] masayuki0812 / c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library
 
 * [reD3](http://bugzu.github.io/reD3/) - is a collection of reusable charts and components built with D3.js framework. It includes Line, Pie, Bar, Area, StackedArea, Bubble, Treemap and Heatmap charts which can be easily customized, extended and reused.
