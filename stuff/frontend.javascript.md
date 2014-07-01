@@ -370,6 +370,8 @@
 
 * [Of how to implement transient in JavaScript | Paul Masurel](http://fulmicoton.com/posts/transient/) - Java programmers are probably familiar with the concept of transient as it is a keyword in this language. By marking an object property as transient, you tell Java that this property should be skipped in serialization.
 
+* [JavaScript Once Function | David Walsh](http://davidwalsh.name/javascript-once) - Learn how to ensure your function fires only once with JavaScript!
+
 --
 
 * [The JavaScript console API | 2 ality](http://www.2ality.com/2013/10/console-api.html)
