@@ -1236,6 +1236,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Everything about custom filters in AngularJS | Todd Motto](http://toddmotto.com/everything-about-custom-filters-in-angular-js/)
 
+* [AngularJS e filtros Brasileiros | Igor Costa](http://www.igorcosta.com/angularjs-e-filtros-brasileiros/)
+
+  * [[GitHub] igorcosta / ng-filters-br](https://github.com/igorcosta/ng-filters-br) - Filtros dos padrões Brasileiros para quem usa o Angular e seus filtros
+
 
 ## Módulos
 
