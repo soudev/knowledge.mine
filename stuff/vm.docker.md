@@ -16,7 +16,7 @@
   * [Soluções](#soluções)
   * [Node.js](#nodejs)
   * [Red Hat](#red-hat)
-  * [Amazon AMI](#amazon-ami)
+  * [Amazon Cloud](#amazon-cloud)
   * [Google Cloud](#google-cloud)
   * [Windows Azure](#windows-azure)
 
@@ -367,9 +367,11 @@
 * [Red Hat and Docker](http://www.redhat.com/about/news/press-archive/2013/9/red-hat-and-dotcloud-collaborate-on-docker-to-bring-next-generation-linux-container-enhancements-to-openshift) - Red Hat and dotCloud Collaborate on Docker to Bring Next Generation Linux Container Enhancements to OpenShift Platform-as-a-Service
 
 
-### Amazon AMI
+### Amazon Cloud
 
 * [Amazon Linux AMI 2014.03 | Amazon Web Services Blog](http://aws.typepad.com/aws/2014/03/amazon-linux-ami-201403-is-now-available.html) - which includes Linux kernel 3.10.34, Docker, Ruby 2.0 & other features
+
+* [DockerCon Video: Running Docker on AWS | Docker Blog](http://blog.docker.com/2014/06/dockercon-video-running-docker-on-aws/)
 
 
 ### Google Cloud
