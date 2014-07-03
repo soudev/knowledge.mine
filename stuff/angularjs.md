@@ -648,6 +648,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
+* [Using React for Faster Renders and Isomosphism in Angular | David and Suzi](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
+
 * [Why I stopped using ng-grid and rolled my own with ReactJS | Jose Garcia](http://www.josebalius.com/why-i-stopped-using-ng-grid-and-rolled-my-own-with-reactjs/)
 
 * [ngReactGrid - An AngularJS grid using ReactJS to render | Jose Garcia](http://www.josebalius.com/ngreactgrid-an-angularjs-grid-using-reactjs-to-render/)
