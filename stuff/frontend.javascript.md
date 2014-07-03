@@ -424,6 +424,8 @@
 
 * [Patterns for Asynchronous Programming with Promises | Joe Zim's JavaScript Blog](http://www.joezimjs.com/javascript/patterns-asynchronous-programming-promises/)
 
+* [Promises and Error Handling | Making Change.org](http://making.change.org/post/69613524472/promises-and-error-handling)
+
 --
 
 * [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
