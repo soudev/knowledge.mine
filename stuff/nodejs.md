@@ -1110,6 +1110,8 @@
 
   * [Goodbye node-forever, hello PM2 | devo.ps](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
 
+  * [Manage processes programmatically with PM2 | Keymetrics APM](http://getkeymetrics.com/2014/07/02/manage-processes-programmatically-with-pm2/)
+
   * [Node.js: production management with PM2 | nicolasramz](http://www.warpdesign.fr/node-js-production-management-with-pm2/)
 
 
