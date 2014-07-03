@@ -68,11 +68,15 @@
 
 * [Web Components' spec](http://www.w3.org/TR/2013/WD-components-intro-20130606/)
 
+--
+
 * [Web Components - building blocks of the future web | Infinum](https://www.infinum.co/the-capsized-eight/articles/web-components-building-blocks-of-the-future-web)
 
 * [[Speaker Deck] Um futuro chamado Web Components | Zeno Rocha](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
 
 * [Componentize The Web!: Back to the browser at LXJS 2014 (Lisbon Javascript) | Lanyrd](http://lanyrd.com/2014/lxjs/sdbwtd/)
+
+* [Web Components and concepts, ShadowDOM, imports, templates, custom elements | Todd Motto](http://toddmotto.com/web-components-concepts-shadow-dom-imports-templates-custom-elements/)
 
 --
 
