@@ -313,6 +313,10 @@
 
 --
 
+* [How to start MongoDB automatically when starting your Mac OS X | alicoding](https://alicoding.com/how-to-start-mongodb-automatically-when-starting-your-mac-os-x/)
+
+--
+
 * [Raspberry Pi MongoDB Installation - The working guide! | Raspberry Pi | 512MB of Awesome](http://c-mobberley.com/wordpress/index.php/2013/10/14/raspberry-pi-mongodb-installation-the-working-guide/)
 
 * [[GitHub] olebedev / cdn](https://github.com/olebedev/cdn) - Content Delivery Network over MongoDb GridFs
