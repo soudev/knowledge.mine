@@ -289,11 +289,11 @@
 
   * [Service Objects](http://journal.crushlovely.com/post/88286835473/7-patterns-to-refactor-javascript-applications-service)
 
-  * Form Objects
+  * [Form Objects](http://journal.crushlovely.com/post/89270334848/7-patterns-to-refactor-javascript-applications-form)
 
-  * Query Objects
+  * [Query Objects](http://journal.crushlovely.com/post/89978453593/7-patterns-to-refactor-javascript-applications-query)
   
-  * View Objects
+  * [View Objects](http://journal.crushlovely.com/post/90568548968/7-patterns-to-refactor-javascript-applications-view)
   
   * Policy Objects
   
