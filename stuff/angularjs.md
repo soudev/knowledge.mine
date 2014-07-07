@@ -757,6 +757,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[SlideShare] Angularjs - lazy loading techniques](http://www.slideshare.net/nirkaufman/angularjs-lazy-loading-techniques)
 
+  * [[GitHub] nirkaufman / lazyLoadingDemo](https://github.com/nirkaufman/lazyLoadingDemo) - Demo project
+
+  * [[GitHub] ocombe / ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Load modules on demand (lazy load) in AngularJS
+
 * [[GitHub] marcoslin / angularAMD](https://github.com/marcoslin/angularAMD) - Facilitate use of RequireJS in AngularJS
 
 * [Dynamically Loading Controllers and Views with AngularJS and RequireJS | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
