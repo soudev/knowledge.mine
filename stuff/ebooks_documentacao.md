@@ -89,6 +89,10 @@
 
 * [Continuous Integration | Martin Fowler](http://martinfowler.com/articles/continuousIntegration.html) - 06/05/2006
 
+--
+
+* [[GitHub] avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
 
 ## Cheat Sheets
 
