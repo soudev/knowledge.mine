@@ -700,6 +700,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Generic HTTP Error Handling in AngularJS | The Code Dump](http://www.codelord.net/2014/06/25/generic-error-handling-in-angularjs/)
+
 * [Preventing duplicated requests in Angular.js | Codebrag](http://blog.codebrag.com/post/57412530001/preventing-duplicated-requests-in-angularjs)
 
 * [Aborting AJAX Requests Using $http And AngularJS | Ben Nadel](http://www.bennadel.com/blog/2616-aborting-ajax-requests-using-http-and-angularjs.htm)
@@ -709,6 +711,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[Gist] AngularJS Lesson Learned #1: Getting Invalid Session State | Mário Junior](https://gist.github.com/mariojunior/6175736)
 
 * [[Gist] AngularJS Lesson Learned #2: Enabling HTTP Credentials | Mário Junior](https://gist.github.com/mariojunior/6175849)
+
+--
 
 * [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
 
