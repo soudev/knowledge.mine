@@ -1249,10 +1249,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [[GitHub] davidchang / ngReact](https://github.com/davidchang/ngReact) - Use React Components in Angular
-
---
-
 * [[GitHub] davej / angular-classy](https://github.com/davej/angular-classy) - Cleaner class-based controllers with Angular
 
 * [[GitHub] roypeled / angular-class-extender](https://github.com/roypeled/angular-class-extender) - A lightweight angular module that adds support for multiple class inheritance and method abstraction
@@ -1297,10 +1293,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] esvit / ng-table](https://github.com/esvit/ng-table/) - Simple table with sorting and filtering on AngularJS
 
-* [[GitHub] josebalius / ngReactGrid](https://github.com/josebalius/ngReactGrid) - A really fast Angular grid using the power of React to render. Based on ng-grid and jQuery DataTables
-
-  * [ngReactGrid 0.5.0 - Custom cells](http://www.josebalius.com/ngreactgrid-0-5-0-custom-cells/)
-
 * [[GitHub] marcorinck / angular-growl](https://github.com/marcorinck/angular-growl) - growl-like notifications for angularJS projects
 
 * [[GitHub] akoenig / angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS
@@ -1316,6 +1308,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] nimbly / angular-formly](https://github.com/nimbly/angular-formly) - AngularJS directive which takes JSON representing a form and renders to HTML
 
 * [[GitHub] mchapman / forms-angular](https://github.com/mchapman/forms-angular) - Probably the most opinionated framework in the world
+
+--
+
+* [[GitHub] davidchang / ngReact](https://github.com/davidchang/ngReact) - Use React Components in Angular
+
+* [[GitHub] josebalius / ngReactGrid](https://github.com/josebalius/ngReactGrid) - A really fast Angular grid using the power of React to render. Based on ng-grid and jQuery DataTables
+
+  * [ngReactGrid 0.5.0 - Custom cells](http://www.josebalius.com/ngreactgrid-0-5-0-custom-cells/)
 
 --
 
