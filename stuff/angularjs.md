@@ -604,7 +604,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Facebook’s New React JavaScript Library Tutorial Rewritten in AngularJS | Medium](https://medium.com/make-your-own-apps/e71bcedc36b)
 
+--
+
 * [Source Modification With r.js | Merrick Christensen](http://merrickchristensen.com/articles/build-angular-with-requirejs.html) - An overview of source modification with r.js. Using ngmin and Angular.js as an example. (Require.js)
+
+* [AngularJS: Performance basics | Alexey Migutsky](http://www.fse.guru/angularjs-performance-basics)
+
+* [AngularJS: Performance tips | Alexey Migutsky](http://www.fse.guru/angularjs-performance-tips)
 
 --
 
@@ -958,6 +964,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Mobile Angular UI](http://mobileangularui.com/) - Angular JS Mobile UI framework with Bootstrap 3 Css
 
 * [The Answer to PhoneGap UI Development | Onsen UI](http://onsenui.io/)
+
 
 #### Ionic
 
