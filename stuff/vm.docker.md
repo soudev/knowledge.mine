@@ -182,6 +182,8 @@
 
   * [[YouTube] Chef Versus Docker at RelateIQ](https://www.youtube.com/watch?v=lS7xVHIl9zU) - Twitter University (26/11/2013)
 
+  * [DockerCon video: Docker at RelateIQ | Docker Blog](http://blog.docker.com/2014/07/dockercon-video-docker-at-relateiq/)
+
 * [Building a Development Environment with Docker | Terse Systems](http://tersesystems.com/2013/11/20/building-a-development-environment-with-docker/)
 
 * [Docker for Isolated and Reproducible Development Environments | Ana Nelson's Blog](http://blog.ananelson.com/2014/03/docker-isolated-and-reproducible/)
