@@ -64,6 +64,10 @@
 
 * [Python Development Environment on Mac OS X Mavericks 10.9 | Hacker Codex](http://hackercodex.com/guide/python-development-environment-on-mac-osx/)
 
+--
+
+* [[GitHub] vinta / awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software
+
 
 ## Frameworks
 
