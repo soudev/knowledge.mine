@@ -820,7 +820,11 @@
 
 ### Desenvolvimento de Aplicações
 
+* [Developing Cross-Browser Extensions | Frontend Babel](http://frontendbabel.info/articles/developing-cross-browser-extensions/)
+
 * [Installing web apps natively | 2ality](http://www.2ality.com/2014/06/installable-web-apps.html)
+
+--
 
 * [Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/) - Best practices for modern web development
 
