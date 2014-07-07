@@ -68,6 +68,10 @@
 
 --
 
+* [[YouTube] Gulp - The Basics](https://www.youtube.com/watch?v=dwSLFai8ovQ)
+
+  * [[GitHub] CaryLandholt / tutorial-gulp-the-basics](https://github.com/CaryLandholt/tutorial-gulp-the-basics)
+
 * [Gulp: O novo automatizador | Tableless](http://tableless.com.br/gulp-o-novo-automatizador/)
 
 * [Bye bye Grunt.js, hello Gulp.js! | Caelum](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
