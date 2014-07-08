@@ -13,6 +13,12 @@
 
 * [The OAuth Bible](http://oauthbible.com)
 
+--
+
+* [Beer Locker: Building a RESTful API with Node - OAuth2 Server | Scott Smith](http://scottksmith.com/blog/2014/07/02/beer-locker-building-a-restful-api-with-node-oauth2-server/)
+
+* [[GitHub] globocom / oauth2u](https://github.com/globocom/oauth2u) - OAuth 2 server implementation
+
 
 ## SAML
 
