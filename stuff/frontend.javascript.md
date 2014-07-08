@@ -95,6 +95,8 @@
 
 * [[SlideShare] Scalable JavaScript Application Architecture](http://www.slideshare.net/nzakas/scalable-javascript-application-architecture)
 
+--
+
 * [21 JavaScript Parts I Struggle To Remember | Tech.Pro](http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-)
 
 --
@@ -102,6 +104,8 @@
 * [Seven JavaScript Quirks I Wish I’d Known About | Telerik Developer Network](http://developer.telerik.com/featured/seven-javascript-quirks-i-wish-id-known-about/)
 
 * [10 Mistakes That JavaScript Beginners Often Make | Tutorialzine](http://tutorialzine.com/2014/04/10-mistakes-javascript-beginners-make/)
+
+* [10 Common JavaScript Coding Errors | Toptal](http://www.toptal.com/javascript/10-most-common-javascript-mistakes)
 
 --
 
