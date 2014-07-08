@@ -80,6 +80,8 @@
 
 ## Desgin
 
+* [[GitHub] interagent / http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
+
 * [REST Patterns](http://restpatterns.org/)
 
 * [RESTful Service](http://ajaxpatterns.org/RESTful_Service)
