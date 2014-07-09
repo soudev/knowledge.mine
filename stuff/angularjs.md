@@ -895,6 +895,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: 6 Common Pitfalls Using Scopes](http://thenittygritty.co/angularjs-pitfalls-using-scopes)
 
+* [Scope creep, a deep dive into Angular's scope | Jonathan Creamer](http://jonathancreamer.com/working-with-all-the-different-kinds-of-scopes-in-angular/)
+
 * [5 Guidelines For Avoiding Scope Soup in Angular | Techno Fattie](http://www.technofattie.com/2014/03/21/five-guidelines-for-avoiding-scope-soup-in-angular.html)
 
 --
