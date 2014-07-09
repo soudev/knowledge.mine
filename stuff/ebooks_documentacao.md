@@ -211,6 +211,8 @@
 
 * [Veduca](http://www.veduca.com.br/) - assim como o Coursera, cursos online e alguns inclusive com emissão de [certificados](http://www.veduca.com.br/browse/certified)
 
+* [UDACITY](https://www.udacity.com/) - Discover online classes taught by top instructors and industry experts. Take courses at your own pace.
+
 --
 
 * [YouTube Educação](https://www.youtube.com/educacao)
