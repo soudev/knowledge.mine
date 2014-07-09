@@ -104,9 +104,15 @@
 
   * [[GitHub] webcomponents / element-boilerplate](https://github.com/webcomponents/element-boilerplate) - Web Component using VanillaJS
 
+--
+
 * [Custom Elements](http://customelements.io/) - A Web Components Gallery for Modern Web Apps | [GitHub](https://github.com/customelements/customelements.io)
 
 * [[Gist] ebidel / Web Components Resources.md](https://gist.github.com/ebidel/6314025) - List of resources related to Web Components
+
+* [Component Interop With ReactJS And Custom Elements | Addy Osmani](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/)
+
+--
 
 * [Exploring HTML Imports | Rob Dodson talks internets](http://robdodson.me/blog/2013/08/20/exploring-html-imports/)
 
