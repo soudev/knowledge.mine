@@ -1585,6 +1585,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] wlepinski / generator-meanstack](https://github.com/wlepinski/generator-meanstack) - The MEAN stack generator for Yeoman
 
+* [[GitHub] DaftMonk / generator-angular-fullstack](https://github.com/DaftMonk/generator-angular-fullstack) - Yeoman generator for AngularJS with an Express server
+
+  * [Angular Fullstack 2.0: Released | Tyler Henkel's](http://tylerhenkel.com/angular-fullstack-2-0-released/)
+
 
 ### Angular-Seed
 
