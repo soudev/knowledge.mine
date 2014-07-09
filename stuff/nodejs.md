@@ -104,6 +104,8 @@
 
 * [A Case-by-Case Introduction to Node.js | Toptal](http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js)
 
+* [The emperor’s new clothes were built with Node.js | Notes (beta)](http://notes.ericjiang.com/posts/751)
+
 --
 
 * [[GitHub] zeMirco / nodejs-pdf-docs](https://github.com/zeMirco/nodejs-pdf-docs) - Node.js Manual & Documentation (.pdf, .mobi, .epub)
