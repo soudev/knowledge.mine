@@ -75,7 +75,11 @@
 
 * [webshell.io: The API of APIs](http://webshell.io/) - The API Combinator - Combine APIs easily in Javascript and create REST/JSON API on the fly.
 
+--
+
 * [Examples of the Marvel API | Raymond Camden](http://www.raymondcamden.com/index.cfm/2014/2/2/Examples-of-the-Marvel-API)
+
+* [Evoluindo uma Arquitetura inteiramente sobre APIs: o caso da SoundCloud | InfoQ Br](http://www.infoq.com/br/presentations/evoluindo-uma-arquitetura-soundcloud) - As aplicações da SoundCloud reutilizam sua API pública; o uso de uma camada de serviços RESTful parecia uma decisão sólida, mas cada cliente tem suas próprias necessidades. A SoundCloud está migrando para um modelo onde clientes mantêm suas próprias APIs. Foram necessárias mudanças em arquitetura, tecnologias e processo. Nesta apresentação vamos explorar os desafios enfrentados e decisões tomadas.
 
 
 ## Desgin
