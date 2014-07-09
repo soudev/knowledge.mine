@@ -42,11 +42,13 @@
 
 --
 
-* [Gulp, Grunt, Whatever | Pony Foo](http://blog.ponyfoo.com/2014/01/09/gulp-grunt-whatever)
-
 * [Grunt vs Gulp - Beyond the Numbers | Jack Hsu](http://jaysoo.ca/2014/01/27/gruntjs-vs-gulpjs/)
 
 * [Build Wars: Gulp vs Grunt](http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/)
+
+* [Gulp, Grunt, Whatever | Pony Foo](http://blog.ponyfoo.com/2014/01/09/gulp-grunt-whatever)
+
+* [Choose: Grunt, Gulp, or npm? | Pony Foo](http://blog.ponyfoo.com/2014/07/04/choose-grunt-gulp-or-npm)
 
 --
 
