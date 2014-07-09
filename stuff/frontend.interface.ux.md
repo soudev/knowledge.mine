@@ -2,6 +2,8 @@
 
 ## UX
 
+* [UX no Brasil](http://www.uxnobrasil.org/) - Repositório de links sobre experiência do usuário
+
 * [UX is not UI | Hello Erik](http://www.helloerik.com/ux-is-not-ui)
 
 --
