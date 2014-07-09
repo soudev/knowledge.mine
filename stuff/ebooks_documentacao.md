@@ -93,6 +93,10 @@
 
 * [[GitHub] avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
+--
+
+* [Como salvar tuítes marcados com hashtags do Twitter em uma planilha | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/07/como-salvar-tuites-marcados-com-hashtags-do-twitter-em-uma-planilha.html)
+
 
 ## Cheat Sheets
 
