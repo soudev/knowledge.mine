@@ -19,6 +19,8 @@
 
 * [How–to: Use TITLE attributes](http://a11yproject.com/posts/title-attributes/)
 
+* [Meta Descriptions | Mark Rabey](http://markrabey.com/2014/07/08/meta-descriptions/)
+
 * [target='_blank' vs. target='_new'](http://www.russellheimlich.com/blog/target_blank-vs-target_new/)
 
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com/) - Passo-a-passo para aprender como funciona de verdade o esquema de layouts de CSS, especialmente útil para quem está começando
