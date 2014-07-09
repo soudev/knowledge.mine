@@ -749,6 +749,11 @@
 * [Matter.js](http://brm.io/matter-js/) - is 2D physics engine for the web
 
 
+* [Physics Sandbox](http://www.physicsandbox.com/index.html) - Fun Physics Projects
+
+  * [[GitHub] micaeloliveira / physics-sandbox](https://github.com/micaeloliveira/physics-sandbox) - This repo contains simple physics simulations
+
+
 #### WebGL
 
 * [three.js](http://mrdoob.github.io/three.js/) - JavaScript 3D library
