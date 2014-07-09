@@ -39,6 +39,8 @@
 
 ## GeoJSON
 
+* [GeoJSON](http://geojson.org/) - a format for encoding a variety of geographic data structures
+
 * [GeoJSON Previewing | GitHub Blog](https://github.com/blog/1638-geojson-previewing)
 
 * [[GitHub] mbostock / topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology.
