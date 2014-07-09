@@ -26,6 +26,12 @@
 
 --
 
+* [WURFL.io](http://wurfl.io/) - Client Side, meet Server Side
+
+  * [Server-Side Device Detection With JavaScript | Smashing Magazine](http://www.smashingmagazine.com/2014/07/01/server-side-device-detection-with-javascript/)
+
+--
+
 * [9 ways to optimize your front end performance | Tech.Pro](http://tech.pro/tutorial/1254/9-ways-to-optimize-your-front-end-performance)
 
 * [9 More Ways to Optimize Your Front End Performance | Tech.Pro](http://tech.pro/tutorial/1261/9-more-ways-to-optimize-your-front-end-performance)
