@@ -385,5 +385,7 @@
 
 ### Windows Azure
 
+* [Dockercon video: Easy Docker on Microsoft Azure | Docker Blog](http://blog.docker.com/2014/07/dockercon-video-easy-docker-on-microsoft-azure/)
+
 * [Docker on Azure](http://1drv.ms/1kfrLev)
 
