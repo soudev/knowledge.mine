@@ -1319,6 +1319,12 @@
 
 ### Armazenamento
 
+* [Knex.js](http://knexjs.org/) - An SQL Query Builder for JavaScript. (Covers MySQL, PostgreSQL, SQLite3, and WebSQL.)
+
+  * [[GitHub] tgriesser / knex](https://github.com/tgriesser/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use
+
+--
+
 * [Node.js and SQLite | Modulus Blog](http://blog.modulus.io/nodejs-and-sqlite) - Great introduction to using SQLite with Node.js. Covers everything from installing to running queries against the database.
 
 * [[GitHub] WebReflection / dblite](https://github.com/WebReflection/dblite) - sqlite for node.js without gyp problems
