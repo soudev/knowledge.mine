@@ -456,11 +456,17 @@
 
   * [node.js | hashids](http://www.hashids.org/node-js/) - Generate short hashes from numbers (like YouTube and Bitly).
 
+--
+
 * [[GitHub] dylang / shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
 
   * [[GitHub] jetpks / shortness](https://github.com/jetpks/shortness) - A url shortening library written with node.js and sqlite3
 
 * [[GitHub] UmbraEngineering / short-id](https://github.com/UmbraEngineering/short-id) - Short ID String Generation for Node.js
+
+--
+
+* [[GitHub] punkave / sluggo](https://github.com/punkave/sluggo) - High-speed, unicode-aware, browser-friendly slug generator
 
 
 ### Encurtador de URLs
