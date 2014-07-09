@@ -663,11 +663,17 @@
 
 * [[GitHub]  roboleary / LeapTrainer.js](https://github.com/roboleary/LeapTrainer.js) - A gesture learning and recognition framework for the Leap Motion
 
-* [[GitHub] roboleary / LeapCursor.js](https://github.com/roboleary/LeapCursor.js) - Effortless Leap Motion support for websites
-
 * [[GitHub] EightMedia / hammer.js](https://github.com/EightMedia/hammer.js/) - A javascript library for multi-touch gestures
 
 * [[GitHub] soyjavi / QuoJS](https://github.com/soyjavi/quojs) - Micro JavaScript Library for Mobile Devices
+
+* [[GitHub] roboleary / LeapCursor.js](https://github.com/roboleary/LeapCursor.js) - Effortless Leap Motion support for websites
+
+* [Kiwi.js](http://www.kiwijs.org/)
+
+  * [[GitHub] gamelab](https://github.com/gamelab) - Kiwi.JS is a fun and friendly HTML5 game engine with a focus on WebGL and Mobile rendering
+
+  * [Add Motion Control to a Kiwi.js Game With the Leap Motion Controller | Tuts+ Game Development Tutorial](http://gamedevelopment.tutsplus.com/tutorials/add-motion-control-to-a-kiwijs-game-with-the-leap-motion-controller--cms-20455)
 
 
 #### Storage
