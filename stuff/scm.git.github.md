@@ -218,6 +218,9 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 > Para isso defina o arquivo **\*.gitignore**
 >
 > [Uma coleção com templates de .gitignore úteis](https://github.com/github/gitignore)
+>
+> [gitignore.io](http://www.gitignore.io/) - Create useful .gitignore files for your project
+
 
 --
 
