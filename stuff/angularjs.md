@@ -34,7 +34,8 @@
   * [Dynamic / Lazy Load](#dynamic-lazy-load)
   * [Building Apps](#building-apps)
   * [Google](#google)
-    * [Analytics](#analytics)
+    * [Google Spreadsheet](#google-spreadsheet)
+    * [Google Analytics](#google-analytics)
   * [Internacionalização](#internacionalização)
   * [Escopo e informações](#escopo-e-informações)
   * [Yeoman, Grunt e Bower](#yeoman-grunt-e-bower)
@@ -831,7 +832,28 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJs web app with Google Cloud Storage backend service | dev.yathit.com](http://dev.yathit.com/tutorial/angular-js-gcs-backend.html)
 
 
-#### Analytics
+#### Google Spreadsheet
+
+* [Google Spreadsheets API | Google Developers](https://developers.google.com/google-apps/spreadsheets/)
+
+* [Simple example of retrieving JSON feeds from Spreadsheets Data API | Google Developers](https://developers.google.com/gdata/samples/spreadsheet_sample)
+
+--
+
+* [How To Use Google Doc Serve JSON From Excel Spreadsheet | Next of Windows](http://www.nextofwindows.com/how-to-use-google-doc-spreadsheet-serve-json-from-excel-spreadsheet/)
+
+* [Use a Google Spreadsheet as your JSON backend | by Martin - Coder Wall](https://coderwall.com/p/duapqq)
+
+  * [[Plunker] angular app acessing google spreadsheet](http://plnkr.co/edit/BtbSCVOh7KJsMHjANxMP?p=preview)
+
+  * [[GitHub] 7hny / angular-google-spreadsheet](https://github.com/7hny/angular-google-spreadsheet)
+
+* [[GitHub] chriszarate / sheetrock](https://github.com/chriszarate/sheetrock) - Quickly connect to, query, and lazy-load data from Google Spreadsheets
+
+* [[GitHub] jsoma / tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
+
+
+#### Google Analytics
 
 * [Angulartics](http://luisfarzati.github.io/angulartics/) - Web analytics for AngularJS applications
 
