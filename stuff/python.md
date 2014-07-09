@@ -68,6 +68,10 @@
 
 * [[GitHub] vinta / awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries and software
 
+--
+
+* [[GitHub] burnash / gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
+
 
 ## Frameworks
 
