@@ -163,6 +163,10 @@
 
 * [React.js: an interactive tutorial to get started | webdesignporto.com](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 
+* [Nixtu: How I Learned to Stop Worrying and Love React | Nixtu](http://www.nixtu.info/2014/07/how-i-learned-to-stop-worrying-and-love.html)
+
+--
+
 * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 
 * [One Mixin to rule them all | Front-end Development — Medium](https://medium.com/front-end-development-2/3885aadb3c1a)
