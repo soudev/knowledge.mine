@@ -261,6 +261,8 @@
 
 * [[YouTube] Sean McCullough: Transitioning Groupon to Node.js](https://www.youtube.com/watch?v=TWVblTpUlxM)
 
+* [Node.js on the Road: Fruit Loops and Cheerios: Frontend Node At Walmart | Developer Center - Joyent](https://www.joyent.com/developers/videos/node-js-on-the-road-cincinnati-kevin-decker)
+
 
 ### IBM developerWorks
 
