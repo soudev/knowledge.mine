@@ -271,6 +271,15 @@
 
 ## Projetos Interessantes
 
+* Node.js - Linux Ubuntu and Debian support
+
+  * Ubuntu repository - [PPA - Chris Lea](https://launchpad.net/~chris-lea/+archive/ubuntu/node.js)
+
+  * The powers of [@chrislea](https://twitter.com/chrislea) and [@nodesource](https://twitter.com/nodesource) combine to provide a new, solid *Ubuntu* and *Debian* binary repo for Node.js [blog post](https://nodesource.com/blog/chris-lea-joins-forces-with-nodesource) (09/07/2014)
+
+
+--
+
 * [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
 
 * [[GitHub] thisandagain / sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js
