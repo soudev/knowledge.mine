@@ -150,6 +150,10 @@
 
 * [[GitHub] mercadolibre / lazy.js](https://github.com/mercadolibre/lazy.js) - A tiny and dependency-free JavaScript library for lazy loading resources.
 
+* [[GitHub] helixten / load-cdn](https://github.com/helixten/load-cdn) - Load Script over CDN with MD5 Checks
+
+  * [Load Script over CDN with MD5 Checks | zubair](http://blog.zubair.io/load-cdn/)
+
 
 #### LABjs
   
