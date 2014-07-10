@@ -207,6 +207,9 @@
 
 ## Plataformas de Estudo
 
+* [Cerebro](https://cerebrobr.github.io/cerebro/) - Projeto bem interessante lançado pela comunidade brasileira. O projeto promete reunir uma série de conteúdos em português. (no GitHub)
+
+
 ### Conhecimentos gerais
 
 * [Khan Academy](https://www.khanacademy.org/) | [versão em português](http://www.fundacaolemann.org.br/khanportugues/) - conhecimentos gerais (Matemática, Ciência, Economia e finanças, Humanas e Testes preparatórios)
