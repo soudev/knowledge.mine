@@ -736,6 +736,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS & SEO - finally a piece of cake | weluse GmbH](https://weluse.de/blog/angularjs-seo-finally-a-piece-of-cake.html)
 
+* [How to make AngularJS awesome with SEO | Ultimate web tips](http://www.tweetganic.com/a/331717)
+
 
 ### HTML5 offline
 
