@@ -165,6 +165,8 @@
 
 * [Nixtu: How I Learned to Stop Worrying and Love React | Nixtu](http://www.nixtu.info/2014/07/how-i-learned-to-stop-worrying-and-love.html)
 
+* [5 Practical Examples For Learning The React Framework | Tutorialzine](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
+
 --
 
 * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
