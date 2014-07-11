@@ -70,6 +70,8 @@
 
 * [Fullscreen Overlay Effects | Codrops](http://tympanus.net/codrops/2014/02/06/fullscreen-overlay-effects/) - Some simple and creative overlay styles and effects. From sliding the overlay into the viewport to using SVG morphing shapes, we explore some effects for fullscreen overlays.
 
+* [Inspiration for Custom Select Elements | Codrops](http://tympanus.net/codrops/2014/07/10/inspiration-for-custom-select-elements/)
+
 --
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
