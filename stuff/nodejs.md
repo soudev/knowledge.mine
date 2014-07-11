@@ -279,6 +279,9 @@
 
   * The powers of [@chrislea](https://twitter.com/chrislea) and [@nodesource](https://twitter.com/nodesource) combine to provide a new, solid *Ubuntu* and *Debian* binary repo for Node.js [blog post](https://nodesource.com/blog/chris-lea-joins-forces-with-nodesource) (09/07/2014)
 
+--
+
+* [Breach](http://breach.cc/) - A browser for the HTML5 era Entirely written in Javascript. Free. Modular. Hackable.
 
 --
 
