@@ -441,6 +441,10 @@
 
     * [[GitHub] PMSI-AlignAlytics / dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 
+* [Alchemy](https://graphalchemist.github.io/Alchemy) - A graph visualization application built in d3
+
+  * [[GitHub] GraphAlchemist / Alchemy](https://github.com/GraphAlchemist/Alchemy/)
+
 
 #### Gantt
 
