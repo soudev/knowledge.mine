@@ -59,6 +59,8 @@
 
 * [Atomic Design - Por que usar? | Nomadev](http://nomadev.com.br/atomic-design-por-que-usar/)
 
+* [Pattern Lab - Build Atomic Design Systems](http://patternlab.io/)
+
 
 ### DevOps
 
