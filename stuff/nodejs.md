@@ -228,6 +228,8 @@
 
 * [npm awesome](http://npmawesome.com/)
 
+* [[GitHub] sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources
+
 
 ## Casos de Uso
 
