@@ -1365,6 +1365,8 @@
 
 * [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica) 
 
+* [Full Text Search with MongoDB and Node.js | MongoHQ Blog](http://blog.mongohq.com/full-text-search-with-mongodb-and-node-js/)
+
 * [[GitHub] LearnBoost / mongoose](https://github.com/LearnBoost/mongoose) - MongoDB object modeling designed to work in an asynchronous environment
 
   * [Node.js and MongoDB | Modulus Blog](http://blog.modulus.io/getting-started-with-mongoose) - Getting Started with Mongoose
