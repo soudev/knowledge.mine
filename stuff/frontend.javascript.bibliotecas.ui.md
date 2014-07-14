@@ -26,6 +26,12 @@
 
 ## Bibliotecas de UI
 
+* [[GitHub] Fooidge / PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
+
+  * [Please JS](http://www.checkman.io/please/) - The Polite Javascript Color Library
+
+--
+
 * [15 Javascript Web UI Libraries, Frameworks and Toolkits](http://speckyboy.com/2010/05/17/15-javascript-web-ui-libraries-frameworks-and-libraries/)
 
 * [UIBox - Curated HTML, CSS, JS UI Component Library](http://www.uibox.in/)
@@ -48,7 +54,7 @@
 
 * [Stellar.js](http://markdalgleish.com/projects/stellar.js/) - jQuery plugin that provides parallax scrolling effects to any scrolling element
 
-* [Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus) \| [Demo](http://jakiestfu.github.io/Snap.js/)
+* [[GitHub] jakiestfu / Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus) \| [Demo](http://jakiestfu.github.io/Snap.js/)
 
 * [[GitHub] pazguille / is-near](https://github.com/pazguille/is-near) - Calculates if the mouse position is near to a given element
 
@@ -91,8 +97,6 @@
 * [[GitHub] component / infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
 
 * [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). 
-
-* [[GitHub] jakiestfu / Snap.js](https://github.com/jakiestfu/Snap.js) - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)
 
 * [[GitHub] olivier-m / minislate](https://github.com/olivier-m/minislate/) - A wysiwyg experiment
 
