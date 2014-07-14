@@ -319,6 +319,8 @@
 
 * [Modularização em JavaScript | Tableless](http://tableless.com.br/modularizacao-em-javascript/) - Componentes e módulos nunca foram tão mencionados como ultimamente. Ambos são conceitos antigos que devemos entender e passar a adotar o quanto antes. Quem sabe você possa repensar o seu JavaScript hoje mesmo?
 
+* [Mastering the Module Pattern | Todd Motto](http://toddmotto.com/mastering-the-module-pattern/)
+
 --
 
 * [Implementing Private and Protected Members in JavaScript | Philip Walton](http://philipwalton.com/articles/implementing-private-and-protected-members-in-javascript/)
