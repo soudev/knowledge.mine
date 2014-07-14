@@ -26,6 +26,10 @@
 
 --
 
+* [How To Create And Configure Your Robots.txt File | Elegant Themes Blog](http://www.elegantthemes.com/blog/tips-tricks/how-to-create-and-configure-your-robots-txt-file)
+
+--
+
 * [O que é desenvolvimento FrontEnd? | Tableless](http://tableless.com.br/iniciantes/) - Um guia para iniciantes na área
 
 * [Being A Web Developer - Front end standards](http://www.yellowshoe.com.au/standards/) - This little book is to aid a shared understanding of front-end development best practice
