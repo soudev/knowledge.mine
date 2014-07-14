@@ -1136,6 +1136,10 @@
 
   * [Node.js: production management with PM2 | nicolasramz](http://www.warpdesign.fr/node-js-production-management-with-pm2/)
 
+  * [[GitHub] Unitech / pm2-interface](https://github.com/Unitech/pm2-interface/) - Control pm2 via RPC and receive real time notifications
+
+    * [pm2-interface: #1 Build your own logger | keymetrics.io](http://keymetrics.io/2014/07/10/pm2-interface-1-build-your-own-logger/)
+
 
 ### Produção
 
