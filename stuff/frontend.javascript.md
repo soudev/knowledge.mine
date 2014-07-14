@@ -299,7 +299,7 @@
   
   * [View Objects](http://journal.crushlovely.com/post/90568548968/7-patterns-to-refactor-javascript-applications-view)
   
-  * Policy Objects
+  * [Policy Objects](http://journal.crushlovely.com/post/91371788978/7-patterns-to-refactor-javascript-applications-policy)
   
   * Decorators
 
