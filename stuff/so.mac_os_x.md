@@ -117,7 +117,9 @@
 
 ## Desenvolvimento
 
-* Swift
+* [Swift](https://developer.apple.com/swift/)
+
+  * [Swift Blog | Apple Developer](https://developer.apple.com/swift/blog/)
 
   * [The Swift Programming Language - Book | iTunes](https://itunes.apple.com/br/book/swift-programming-language/id881256329)
 
