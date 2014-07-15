@@ -20,6 +20,8 @@
 
 --
 
+* [Quick user guide for Vagrant | erikaheidi](http://www.erikaheidi.com/blog/quick-user-guide-for-vagrant)
+
 * [Vagrant CookBook](https://leanpub.com/vagrantcookbook) - by Erika Heidi [Leanpub PDF/iPad/Kindle]
 
   * [Vagrant | Erika Heidi](http://www.erikaheidi.com/vagrant/)
