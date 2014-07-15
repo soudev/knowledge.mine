@@ -114,6 +114,10 @@
 
 * [Mobile HTML5 - compatibility](http://mobilehtml5.org/)
 
+* [[Slides] The Android Browser](http://slides.com/html5test/the-android-browser)
+
+--
+
 * [Can I use...?](http://caniuse.com/) - Compatibility tables for support of HTML5, CSS3, SVG and more in desktop and mobile browsers.
 
 * [HTML5 Please - Use the new and shiny responsibly](http://html5please.com/)
