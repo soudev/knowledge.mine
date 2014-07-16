@@ -159,6 +159,8 @@
 
 * [Building Web Apps With Yeoman And Polymer: Scaffold your webapps with modern tooling | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 
+* [Inheritance and composition with Polymer | Pascal Precht](https://pascalprecht.github.io/2014/07/14/inheritance-and-composition-with-polymer/)
+
 --
 
 * [Web Components, PhoneGap Build and WordPress – A Hybrid App for your Blog | The Jackal of Javascript](http://thejackalofjavascript.com/a-hybrid-app-for-your-blog/)
