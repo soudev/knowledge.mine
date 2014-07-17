@@ -62,6 +62,8 @@
 
 * [[SlideShare] Why Docker](http://www.slideshare.net/dotCloud/why-docker)
 
+* [[SpeakerDeck] Introduction to Docker - Ship it with Docker!](https://speakerdeck.com/slok/ship-it-with-docker)
+
 --
 
 * [[Gist] wsargent / docker_cheat.md](https://gist.github.com/wsargent/7049221) - Docker cheat sheet
