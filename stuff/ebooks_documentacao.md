@@ -93,7 +93,15 @@
 
 * [[Github] sindresorhus / awesome](https://github.com/sindresorhus/awesome) - A curated list of awesome lists
 
+* [[GitHub] bayandin / awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
+
 * [[GitHub] avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+* [[GitHub] josephmisiti / awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software
+
+--
+
+* [[GitHub] PharkMillups / beautiful-docs](https://github.com/PharkMillups/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation
 
 --
 
