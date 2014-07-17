@@ -104,6 +104,8 @@
 
 * [Some Docker Tips and Tricks | Wouter Danes](http://www.wouterdanes.net/2014/04/16/some-docker-tips-and-tricks.html)
 
+* [Ten Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy | Docker Blog]()
+
 --
 
 * [Docker : The good parts | Shrikrishna Holla](http://blog.shrikrishnaholla.in/post/2014/01/12/docker-the-good-parts/)
