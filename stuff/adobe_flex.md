@@ -7,6 +7,7 @@
   * [Codificação](#codificação)
   * [Estrutura das aplicações](#estrutura-das-aplicações)
   * [Ferramentas](#ferramentas)
+  * [Utilidades](#utilidades)
 * [Frameworks](#frameworks)
 * [Material de apoio ao desenvolvimento](#material-de-apoio-ao-desenvolvimento)
   * [Aprendizado](#aprendizado)
@@ -68,6 +69,13 @@
 * [FDT](http://fdt.powerflasher.com/) is a flexible development toolkit in Eclipse for interactive developers
 
 * [FlashDevelop](http://www.flashdevelop.org/) -  is a free and open source code editor for every developer
+
+
+### Utilidades
+
+* [[GitHub] erkobridee / CustomChartsLib](https://github.com/erkobridee/CustomChartsLib) - Customização das cores dos gráficos do Adobe Flex 3.x /4.x
+
+* [[GitHub] CodeCatalyst / flex-extensions](https://github.com/CodeCatalyst/flex-extensions) - A collection of Adobe Flex user interface components, charting controls and elements, behaviors, data types and utility classes and methods
 
 
 ## Frameworks
