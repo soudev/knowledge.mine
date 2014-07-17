@@ -804,6 +804,10 @@
 
 ##### Game Engine
 
+* [[GitHub] sourceful / game-engines](https://github.com/sourceful/game-engines) - HTML5 Game Engines list
+
+--
+
 * [JSNES](http://fir.sh/projects/jsnes/) - A JavaScript NES emulator
 
 * [Game Closure](http://www.gameclosure.com/) - _The Game Closure DevKit_. 100% JavaScript. Build your games faster than ever before! Native speed. Write HTML5 games that outperform the competition.
