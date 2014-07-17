@@ -1,5 +1,8 @@
 # Windows
 
+* [[Git] igorcosta / converter_images.bat](https://gist.github.com/igorcosta/008173b435e0309d4773) - Convert Images from your Camera SD card into web size pictures for Windows Users
+
+
 ## Ferramentas
 
 * [Git for Windows](http://git-scm.com/download/win)
