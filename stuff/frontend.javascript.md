@@ -1222,6 +1222,8 @@
 
 ##### Google Chrome
 
+* [12 Extensions & Apps that Fill the Gaps in Chrome DevTools | Telerik Developer Network](http://developer.telerik.com/featured/12-extensions-apps-fill-gaps-devtools/)
+
 * [Discover DevTools | Code School](http://www.codeschool.com/courses/discover-devtools) - Sharpen your dev process with Chrome DevTools
 
 * [Strict Workflow](https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd) - Enforces a 25min/5min workflow: 25 minutes of distraction-free work, followed by 5 minutes of break. Repeat as necessary.
