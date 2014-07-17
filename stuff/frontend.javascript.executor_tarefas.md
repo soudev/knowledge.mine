@@ -114,6 +114,8 @@
 
 --
 
+* [Automatically Load Gulp Plugins with gulp-load-plugins | Andy Carter](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
+
 * [Gulpfiction](http://gulpfiction.divshot.io/#/cdf3b0ac-4591-4b70-8c54-cd5eb838856c) - Visual web editor to get started with Gulp
 
 * [[GitHub] sindresorhus / gulp-app](https://github.com/sindresorhus/gulp-app) - gulp as an app (OS X) [node-webkit]
