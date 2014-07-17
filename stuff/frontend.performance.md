@@ -81,6 +81,8 @@
 
 * [Solving rendering performance puzzles | JakeArchibald](http://jakearchibald.com/2013/solving-rendering-perf-puzzles/)
 
+* [Optimising for 60fps everywhere | GoSquared Engineering](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript)
+
 
 ### CDN
 
