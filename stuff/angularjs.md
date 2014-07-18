@@ -1006,9 +1006,17 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
 
-* [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
-
 * [Building Mobile Apps with AngularJS and Ionic | The Official Ionic Blog](http://ionicframework.com/blog/angular-mobile-dev/)
+
+--
+
+* Christophe Coenraets
+
+  * [Ionic Framework Tutorial - GitHub](https://ccoenraets.github.io/ionic-tutorial/)
+
+  * [Sample Mobile Application with Ionic and AngularJS](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
+
+  * [QCon New York Slides: Creating Native-Like Mobile Apps with Cordova, AngularJS and Ionic](http://coenraets.org/blog/2014/06/qcon-new-york-slides-creating-native-like-mobile-apps-with-cordova-angularjs-and-ionic/)
 
 --
 
