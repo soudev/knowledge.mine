@@ -978,6 +978,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Techniques for authentication in AngularJS applications | Opinionated AngularJS — Medium](https://medium.com/opinionated-angularjs/7bbf0346acec)
 
+  * [A collection of ideas for authentication & access control | Opinionated AngularJS — Medium](https://medium.com/opinionated-angularjs/techniques-for-authentication-in-angularjs-applications-7bbf0346acec)
+
 * [Authentication with Ionic and Angular.js in a Cordova/Phonegap mobile web application | KD Moore Consulting](http://www.kdmooreconsulting.com/blogs/authentication-with-ionic-and-angular-js-in-a-cordovaphonegap-mobile-web-application/)
 
 
