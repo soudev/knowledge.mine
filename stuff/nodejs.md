@@ -1317,6 +1317,8 @@
 
 * [Publishing a simple package to npm | Evan Hahn](http://evanhahn.com/make-an-npm-baby/)
 
+* [Your first Node.js package | NodeSource Blog](https://nodesource.com/blog/your-first-nodejs-package)
+
 --
 
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
