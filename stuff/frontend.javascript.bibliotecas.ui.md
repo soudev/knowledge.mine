@@ -193,6 +193,10 @@
 
 --
 
+* [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
+
+--
+
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 * [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React
