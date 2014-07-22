@@ -1340,6 +1340,10 @@
 
 * [[GitHub] agrueneberg / Corser](https://github.com/agrueneberg/Corser) - A highly configurable, middleware compatible implementation of CORS for Node.js.
 
+* [[GitHub] suissa / cors-server](https://github.com/suissa/cors-server) - CORS Server with Node.js
+
+  * [CORS Server em Node.js | Nomadev](http://nomadev.com.br/cors-server-em-node-js/)
+
 
 ### Armazenamento
 
