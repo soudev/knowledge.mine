@@ -844,6 +844,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Como usar uma planilha como backend JSON | Blog da Concrete](http://blog.concretesolutions.com.br/2014/07/como-usar-uma-planilha-como-backend-json/) | [exemplo no JSFiddle](http://jsfiddle.net/jfelipesp/eg4PB/)
+
 * [How To Use Google Doc Serve JSON From Excel Spreadsheet | Next of Windows](http://www.nextofwindows.com/how-to-use-google-doc-spreadsheet-serve-json-from-excel-spreadsheet/)
 
 * [Use a Google Spreadsheet as your JSON backend | by Martin - Coder Wall](https://coderwall.com/p/duapqq)

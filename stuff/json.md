@@ -1,5 +1,17 @@
 # JSON
 
+<!-- toc -->
+* [Visão Geral](#visão-geral)
+* [GeoJSON](#geojson)
+* [Base de Dados](#base-de-dados)
+  * [Google SpreadSheet](#google-spreadsheet)
+* [Sockets](#sockets)
+* [Ferramentas](#ferramentas)
+
+<!-- toc stop -->
+
+## Visão Geral
+
 * [Site oficial do JSON](http://www.json.org/)
 
 * Wiki : JSON [en](http://en.wikipedia.org/wiki/JSON) | [pt](http://pt.wikipedia.org/wiki/JSON)
@@ -51,6 +63,29 @@
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
+
+
+### Google SpreadSheet
+
+* [Google Spreadsheets API | Google Developers](https://developers.google.com/google-apps/spreadsheets/)
+
+* [Simple example of retrieving JSON feeds from Spreadsheets Data API | Google Developers](https://developers.google.com/gdata/samples/spreadsheet_sample)
+
+--
+
+* [Como usar uma planilha como backend JSON | Blog da Concrete](http://blog.concretesolutions.com.br/2014/07/como-usar-uma-planilha-como-backend-json/) | [exemplo no JSFiddle](http://jsfiddle.net/jfelipesp/eg4PB/)
+
+* [How To Use Google Doc Serve JSON From Excel Spreadsheet | Next of Windows](http://www.nextofwindows.com/how-to-use-google-doc-spreadsheet-serve-json-from-excel-spreadsheet/)
+
+* [Use a Google Spreadsheet as your JSON backend | by Martin - Coder Wall](https://coderwall.com/p/duapqq)
+
+  * [[Plunker] angular app acessing google spreadsheet](http://plnkr.co/edit/BtbSCVOh7KJsMHjANxMP?p=preview)
+
+  * [[GitHub] 7hny / angular-google-spreadsheet](https://github.com/7hny/angular-google-spreadsheet)
+
+* [[GitHub] chriszarate / sheetrock](https://github.com/chriszarate/sheetrock) - Quickly connect to, query, and lazy-load data from Google Spreadsheets
+
+* [[GitHub] jsoma / tabletop](https://github.com/jsoma/tabletop) - Tabletop.js gives spreadsheets legs
 
 
 ## Sockets
