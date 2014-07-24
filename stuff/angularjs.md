@@ -1456,6 +1456,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Diving deep into the AngularUI Router | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-router.html)
 
+  * [Nested animations in AngularJS using ui-router | Dave Chenell - The Water Bear](http://thewaterbear.com/nested-animations-in-angularjs-using-ui-router/)
+
   * [Advanced routing and resolves | Medium](https://medium.com/opinionated-angularjs/a2fcbf874a1c) - Use the AngularUI Router instead of ngRoute
 
   * [[GitHub] angular-ui / AngularJS-brackets](https://github.com/angular-ui/AngularJS-brackets) - AngularJS plugin for Brackets
