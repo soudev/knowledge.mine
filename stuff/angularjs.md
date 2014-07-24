@@ -601,6 +601,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [D3.js on AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/d3-on-angular.html) | [[GitHub] EpiphanyMachine / d3AngularIntegration](https://github.com/EpiphanyMachine/d3AngularIntegration) - A tutorial about the integration of d3 and Angular Directives
 
+* [Slides from my Angular + D3 meetup talk at Google](https://vicapow.github.io/angular-d3-talk/slides/) - by @vicapow
+
+  * [[GitHub] vicapow / angular-d3-talk](https://github.com/vicapow/angular-d3-talk)
+
 * [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
 
 * [[YouTube] AngularJS & D3: Directives for Visualizations](http://www.youtube.com/watch?v=aqHBLS_6gF8)
