@@ -585,6 +585,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Primer on AngularJS Services | Michael Herman](http://mherman.org/blog/2014/06/12/primer-on-angularjs-service-types/)
 
+* [Object-oriented AngularJS Services | revolunet blog](http://blog.revolunet.com/blog/2014/02/14/angularjs-services-inheritance/)
+
 * [How to create (singleton) AngularJS services in 4 different ways | JDriven BlogJDriven Blog](http://blog.jdriven.com/2013/03/how-to-create-singleton-angularjs-services-in-4-different-ways/)
 
 * [Using an AngularJS Factory to Interact with a RESTful Service | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/08/16/using-an-angularjs-factory-to-interact-with-a-restful-service.aspx)
