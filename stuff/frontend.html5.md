@@ -991,6 +991,10 @@
 
 --
 
+* [ Aula 01: Introdução ao Phonegap | Loiane Groner](http://www.loiane.com/2014/02/curso-phonegap-cordova-aula-01-introducao-ao-phonegap/)
+
+--
+
 * [[SlideShare] Automating PhoneGap Build](http://www.slideshare.net/coldfumonkeh/automating-phonegap-build)
 
 * [[YouTube] Mac Mini and Jenkins as a Phonegap Build Server](https://www.youtube.com/watch?&v=tcRXB3n-5qE)
