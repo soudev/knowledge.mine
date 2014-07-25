@@ -1446,3 +1446,5 @@
 
 * [Get ready for ECMAScript 6 | K33G_ORG's Blog](https://k33g.github.io/2014/06/26/ES6-READY.html)
 
+* [An introduction to ES6 classes | JavaScript Playground](http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/)
+
