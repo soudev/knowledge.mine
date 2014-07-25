@@ -230,6 +230,10 @@
 
 * [Node.js: Utilizando o docker para construir e entregar as suas aplicações | Kaique Silva](http://sigmundxox.svbtle.com/docker-nodejs-containers)
 
+* [Develop a NodeJS App With Docker | sqldump](http://blog.abhinav.ca/blog/2014/06/17/develop-a-nodejs-app-with-docker/)
+
+* [Docker + NodeJS Dev Environment: Take 2 - Container Linking | sqldump](http://blog.abhinav.ca/blog/2014/07/25/docker-nodejs-dev-environment-take-2/)
+
 --
 
 * [Docker and MongoDB Sharded Cluster | Sebastian Voss](http://sebastianvoss.com/docker-mongodb-sharded-cluster.html)
