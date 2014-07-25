@@ -284,3 +284,7 @@
 * [DevFuria](http://www.devfuria.com.br/) - Cursos, aulas, tutoriais, apostilas, matérias sobre programação web prá ninguém botar defeito! [ JavaScript, PHP, HTML & CSS, Lógica de Programação, MySQL & SQL, RegExp ]
 
 * [Mozilla Webmaker](https://webmaker.org/) - We're a global community dedicated to teaching digital skills and web literacy. We explore, tinker and create together to build a web that's open and made by everyone.
+
+-- 
+
+* [Hackety Hack](http://hackety.com/) -  will teach you the absolute basics of programming from the ground up. No previous programming experience is needed! With Hackety Hack, you'll learn the [Ruby programming language](https://www.ruby-lang.org/). Ruby is used for all kinds of programs, including desktop applications and websites.
