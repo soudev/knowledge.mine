@@ -171,6 +171,15 @@
 
 * [[GitHub] tvooo / sublime-grunt](https://github.com/tvooo/sublime-grunt) - A Grunt plugin for Sublime Text
 
+--
+
+* [[GitHub] wuub / SublimeREPL](https://github.com/wuub/SublimeREPL) - SublimeREPL - run an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself)
+
+* [[GitHub] chrissimpkins / glue](https://github.com/chrissimpkins/glue) - Glue is a plugin that joins your shell to Sublime Text in quasi-perfect harmony.
+
+  * [Glue - a Terminal for Sublime Text | Sweetmeat](http://sweetme.at/2014/04/07/glue-a-terminal-for-sublime-text/)
+
+
 
 ### EditorConfig
 
