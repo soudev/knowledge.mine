@@ -527,6 +527,8 @@
 
 * [[GitHub] auduno / clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
 
+* [[GitHub] eduardolundgren / tracking.js](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web
+
 --
 
 * [[GitHub] TalAter / annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition
