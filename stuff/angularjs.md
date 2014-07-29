@@ -1698,6 +1698,17 @@ Projeto de exemplo / estrutura inicial
 
 * [[GitHub] michaelgruczel / angularJs-Jasmine-Example](https://github.com/michaelgruczel/angularJs-Jasmine-Example) - This is an extremely simple example for angular js and jasmine
 
+--
+
+* With Require.js
+
+  * [Karma.js v0.12 + Require.js](https://karma-runner.github.io/0.12/plus/requirejs.html)
+
+  * [Testing AngularJS in a RequireJS environment | Radius Engineering Blog](http://engineering.radius.com/post/77677879234/testing-angularjs-in-a-requirejs-environment)
+
+    * [[GitHub] RadiusIntelligence / require-and-angular-test](https://github.com/RadiusIntelligence/require-and-angular-test) - Example setup for testing AngularJS applications that are built with RequireJS
+
+
 
 ### Mock
 
