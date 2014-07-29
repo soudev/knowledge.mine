@@ -383,6 +383,8 @@
 
 ### Amazon Cloud
 
+* [Docker Now Available on VisualOps | Medium](https://medium.com/@visualops/docker-now-available-on-visualops-d52c40832298) | [VisualOps](http://www.visualops.io/)
+
 * [Amazon Linux AMI 2014.03 | Amazon Web Services Blog](http://aws.typepad.com/aws/2014/03/amazon-linux-ami-201403-is-now-available.html) - which includes Linux kernel 3.10.34, Docker, Ruby 2.0 & other features
 
 * [DockerCon Video: Running Docker on AWS | Docker Blog](http://blog.docker.com/2014/06/dockercon-video-running-docker-on-aws/)
