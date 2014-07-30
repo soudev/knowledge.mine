@@ -1636,6 +1636,24 @@ Projeto de exemplo / estrutura inicial
 > As ferramentas de teste, para os projetos com Angular.js necessitam e executam sobre o [Node.js](http://nodejs.org/) | [[GitHub] erkobridee / lab-nodejs](https://github.com/erkobridee/lab-nodejs)
 >
 
+```javascript
+describe('testing something...', function() {
+  it('should do something...', function() {
+    // arrange
+      
+      // TODO: define code
+
+    // act
+      
+      // TODO: define code
+
+    // assertions
+      
+      // TODO: define code
+  });
+});
+```
+
 --
 
 * [AngularJS Video Tutorial: Testing Overview | EggHead.io](http://egghead.io/lessons/angularjs-testing-overview)
