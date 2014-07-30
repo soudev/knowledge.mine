@@ -1620,7 +1620,11 @@ Projeto de exemplo / estrutura inicial
 
 * **Fork:** [[GitHub] skivvies / angular-seed](https://github.com/skivvies/angular-seed) | [Travis-CI](https://travis-ci.org/skivvies/angular-seed)
 
-* **require.js:** [[GitHub] ysilvestrov / angular-seed](https://github.com/ysilvestrov/angular-seed)
+* **require.js:** 
+
+  * [[GitHub] ysilvestrov / angular-seed](https://github.com/ysilvestrov/angular-seed)
+
+  * [[GitHub] CleverStack / angular-seed](https://github.com/CleverStack/angular-seed) - The AngularJS based Modular Frontend for CleverStack, MEAN and so much more [require.js | karma.js | protactor]
 
 
 ## Teste
@@ -1641,12 +1645,6 @@ Projeto de exemplo / estrutura inicial
 * [[YouTube] Testing Strategies for AngularJS](https://www.youtube.com/watch?v=UYVcY9EJcRs)
   
   * [[GitHub] davemo / lineman-angular-template](https://github.com/davemo/lineman-angular-template) - A Lineman Application Template using AngularJS
-
-* [[YouTube] An Introduction to AngularJS End to End Testing with Protractor](https://www.youtube.com/watch?v=idb6hOxlyb8)
-
-* [Protractor for AngularJS: writing end-to-end test has never been so fun](http://ramonvictor.github.io/protractor/slides/#/) - A step-by-step presentaion on Protractor End-to-End Testing for AngularJS
-
-* [Getting Started with Protractor and Page Objects for AngularJS E2E Testing | Gaslight](http://teamgaslight.com/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
 
 --
 
@@ -1697,6 +1695,20 @@ Projeto de exemplo / estrutura inicial
 * [Creating an Eclipse UI to run AngularJS e2e tests using Karma | Dinis Cruz Blog](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html)
 
 * [[GitHub] michaelgruczel / angularJs-Jasmine-Example](https://github.com/michaelgruczel/angularJs-Jasmine-Example) - This is an extremely simple example for angular js and jasmine
+
+--
+
+* [[GitHub] angular / protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
+
+  * [Protractor E2E Testing Resources | AngularJS 4U](http://angularjs4u.com/protractor/protractor-e2e-testing-resources/)
+
+  * [Practical End-to-End Testing with Protractor | ng-newsletter](http://www.ng-newsletter.com/posts/practical-protractor.html)
+
+  * [[YouTube] An Introduction to AngularJS End to End Testing with Protractor](https://www.youtube.com/watch?v=idb6hOxlyb8)
+
+  * [Getting Started with Protractor and Page Objects for AngularJS E2E Testing | Gaslight](http://teamgaslight.com/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
+  
+  * [Protractor for AngularJS: writing end-to-end test has never been so fun](http://ramonvictor.github.io/protractor/slides/#/) - A step-by-step presentaion on Protractor End-to-End Testing for AngularJS
 
 --
 
