@@ -6,6 +6,7 @@
   * [Design](#design)
   * [Fonts](#fonts)
   * [Web Components](#web-components)
+    * [X-Tag](#x-tag)
     * [Polymer](#polymer)
     * [Brick](#brick)
   * [D3.js for HTML](#d3js-for-html)
@@ -124,14 +125,19 @@
 
 --
 
-* [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
+* [[GitHub] pazguille / github-card](https://github.com/pazguille/github-card) - A web component to show a card for your GitHub profile
 
 --
 
-* [[GitHub] pazguille / github-card](https://github.com/pazguille/github-card) - A web component to show a card for your GitHub profile
+* [Polymer vs. X-Tag - Here's the difference | Pascal Precht](https://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/)
 
 
-#### Polymer 
+#### X-Tag 
+
+* [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
+
+
+#### Polymer
 
 * [Polymer](http://www.polymer-project.org/)
 
