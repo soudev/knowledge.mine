@@ -1197,6 +1197,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Refactoring to AngularJS Directive in 9 Steps | Suhair Hassan](http://suhairhassan.com/2013/10/21/refactoring-to-angularjs-directive.html)
 
+* [AngularJS: Dynamic Directives | Thinktecture Blog](http://weblogs.thinktecture.com/pawel/2014/07/angularjs-dynamic-directives.html)
+
 --
 
 * [Understanding Transclusion in Angular | Nulogy Blog](http://engineering.nulogy.com/posts/transclusion-in-angular/)
