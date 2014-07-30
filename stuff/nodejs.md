@@ -80,6 +80,7 @@
     * [Eclipse IDE](#eclipse-ide)
     * [JetBrains](#jetbrains)
   * [Testes](#testes)
+  * [Test Runner](#test-runner)
 
 <!-- toc stop -->
 
@@ -1734,3 +1735,12 @@
 ### Testes
 
 * [Testing and Code Coverage With Node.js Apps | Greg Jopa](http://www.gregjopa.com/2014/02/testing-and-code-coverage-with-node-js-apps/)
+
+
+### Test Runner
+
+* [[GitHub] airportyh / testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun
+
+* [[GitHub] karma-runner / karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
+
+
