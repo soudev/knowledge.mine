@@ -131,15 +131,19 @@
 
 ## Packages e Plugins
 
+* [Sublime Package Control](http://wbond.net/sublime_packages/package_control) - A full-featured package manager that helps discovering, installing, updating and removing packages for Sublime Text 2.
+
+  * [Docs | Sublime Package Control](https://sublime.wbond.net/docs)
+
+--
+
 * [Criando plugins para Sublime Text | Rodrigo Amaral](http://rodrigoamaral.net/2012/07/01/criando-plugins-para-sublime-text/)
 
 * [Melhores Plugins para Sublime Text 2](http://tutsmais.com.br/blog/sublime-2/melhores-plugins-para-sublime-text-2/)
 
+* [Sublime Text packages for Front-end web development](http://martineau.tv/2014/07/sublime-text-for-front-end-development/)
+
 --
-
-* [Sublime Package Control](http://wbond.net/sublime_packages/package_control) - A full-featured package manager that helps discovering, installing, updating and removing packages for Sublime Text 2.
-
-  * [Docs | Sublime Package Control](https://sublime.wbond.net/docs)
 
 * [[GitHub] - titoBouzout / SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 
