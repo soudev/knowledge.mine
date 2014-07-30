@@ -85,6 +85,8 @@
 
 * [Practical End-to-End Testing with Protractor | ng-newsletter](http://www.ng-newsletter.com/posts/practical-protractor.html)
 
+* [Protractor E2E Testing Resources | AngularJS 4U](http://angularjs4u.com/protractor/protractor-e2e-testing-resources/)
+
 
 #### Karma
 
