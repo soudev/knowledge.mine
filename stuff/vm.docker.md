@@ -350,6 +350,8 @@
 
 * [Create, manage and run clusters of Docker containers using Node.js | decking.io](http://decking.io/)
 
+* [Kickstart a Couchbase cluster with Docker | sqldump](http://blog.abhinav.ca/blog/2014/07/31/kickstart-a-couchbase-cluster-with-docker/)
+
 --
 
 * [[GitHub] rogaha / docker-desktop](https://github.com/rogaha/docker-desktop) - Docker Desktop enables you to create virtual desktops that can be accessed remotely. It comes with Firefox and Libreoffice already installed!
