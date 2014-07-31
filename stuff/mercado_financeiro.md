@@ -31,6 +31,8 @@
 
 * [Educação Financeira | Minhas Economias](http://www.minhaseconomias.com.br/educacao-financeira)
 
+* [Só controlar os gastos não basta! | Minhas Economias](http://www.minhaseconomias.com.br/blog/dicas-uso/controlar-os-gastos-nao-basta)
+
 --
 
 * [[YouTube] XP Investimentos: Como Montar o Orçamento Doméstico?](https://www.youtube.com/watch?v=itqLOX3hQlA)
