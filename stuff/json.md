@@ -95,6 +95,8 @@
 
 ## Ferramentas
 
+* [JSON Validator | json.fr](http://www.json.fr/) - Fully client-side JSON validator and formatter
+
 * [JSON Editor Online - view, edit and format JSON](http://jsoneditoronline.org/)
 
 * [JSON Generator](http://www.json-generator.com/)
