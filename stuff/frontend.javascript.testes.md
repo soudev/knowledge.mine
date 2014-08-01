@@ -99,6 +99,8 @@
 
 * [[GitHub] airportyh / testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun
 
+  * [[GitHub] inossidabile / grunt-contrib-testem](https://github.com/inossidabile/grunt-contrib-testem) - Kick-ass Grunt integration for Testem
+
 * [Make JavaScript Testing Fun With Testem | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/make-javascript-testing-fun-with-testem--net-27738)
 
 * [Setting Up a Jasmine Unit Testing Environment with Testem | Joe Zims JavaScript Blog](http://www.joezimjs.com/javascript/setting-up-a-jasmine-unit-testing-environment-with-testem/)
