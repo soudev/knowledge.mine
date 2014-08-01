@@ -1710,6 +1710,9 @@
 
 ### Ferramentas
 
+* [[GitHub] stefanjudis / perf-tooling](https://github.com/stefanjudis/perf-tooling) - List of tools for performance analysis and monitoring
+
+
 #### Visual Studio
 
 * [Node.js for Visual Studio | CodePlex](https://nodejstools.codeplex.com/)
