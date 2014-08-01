@@ -57,8 +57,6 @@
 
 * [How do I Jasmine : Tutorial | Evan Hahn](http://evanhahn.com/how-do-i-jasmine/)
 
-* [Configurando um ambiente de teste unitário Jasmine com Testem | iMasters](http://imasters.com.br/front-end/javascript/configurando-um-ambiente-de-teste-unitario-jasmine-com-testem/)
-
 * [Escrevendo um javascript testável: os primeiros passos no Jasmine | iMasters](http://imasters.com.br/front-end/javascript/escrevendo-um-javascript-testavel-os-primeiros-passos-no-jasmine/)
   
 * [Jasmine, you have to write javascript unit tests!](http://pauloortins.com/jasmine-javascript-unit-tests/)
@@ -90,9 +88,24 @@
 
 #### Karma
 
-* [Karma](http://karma-runner.github.com/0.8/index.html) - Spectacular Test Runner for JavaScript
+* [Karma](http://karma-runner.github.com/) - Spectacular Test Runner for JavaScript
+
+  * [[GitHub] karma-runner / karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
 
 * [Full-Spectrum Testing with AngularJS and Testacular | Year of Moo](http://www.yearofmoo.com/2013/01/full-spectrum-testing-with-angularjs-and-testacular.html) | [[GitHub] AngularJS - Testing Article](https://github.com/yearofmoo-articles/AngularJS-Testing-Article)
+
+
+#### Testem
+
+* [[GitHub] airportyh / testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun
+
+* [Make JavaScript Testing Fun With Testem | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/make-javascript-testing-fun-with-testem--net-27738)
+
+* [Setting Up a Jasmine Unit Testing Environment with Testem | Joe Zims JavaScript Blog](http://www.joezimjs.com/javascript/setting-up-a-jasmine-unit-testing-environment-with-testem/)
+
+  * [[GitHub] joe-zim-javascript-blog / Jasmine-Testem-Boilerplate](https://github.com/joe-zim-javascript-blog/Jasmine-Testem-Boilerplate) - Boilerplate code for projects using Jasmine with Testem for unit testing
+
+* [Configurando um ambiente de teste unitário Jasmine com Testem | iMasters](http://imasters.com.br/front-end/javascript/configurando-um-ambiente-de-teste-unitario-jasmine-com-testem/)
 
 
 #### PhantomJS
