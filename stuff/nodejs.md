@@ -870,6 +870,10 @@
 
 --
 
+* [Writing Node.js Addons | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/writing-nodejs-addons--cms-21771)
+
+--
+
 * [Atualizando o NodeJS no Linux | Igor Costa](http://www.igorcosta.com/atualizando-o-nodejs-linux/)
 
 --
