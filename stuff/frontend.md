@@ -110,6 +110,8 @@
 
 * [Build Bootstrap in Minutes Using Emmet | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/applications/build-bootstrap-in-minutes-using-emmet/)
 
+* [Write HTML Crazy Fast with Emmet: An Interactive Guide | Scotch](http://scotch.io/bar-talk/write-html-crazy-fast-with-emmet-an-interactive-guide)
+
 
 ## HTML Codes / Unicode
 
