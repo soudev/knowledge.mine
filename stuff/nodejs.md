@@ -1270,6 +1270,10 @@
 
 --
 
+* [[GitHub] georgy / nexus-npm-repository-plugin](https://github.com/georgy/nexus-npm-repository-plugin) - Sonatype Nexus OSS plugin for npm (https://www.npmjs.org) repository suport
+
+--
+
 * [[GitHub] deoxxa / npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
 
 * [[GitHub] floatdrop / chnpm](https://github.com/floatdrop/chnpm) - npm configuration switcher
