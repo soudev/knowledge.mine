@@ -104,6 +104,10 @@
 
 * [Ardour](http://ardour.org/) - é um editor de código aberto utilizado normalmente por profissionais em audio digital. Para editar, o aplcativo possui recursos como arrastar, cortar, dividir e estender partes de uma trilha de audio. Também é possivel capturar sons e realizar mixagens. Além disso, permite a integração com o Jack OS X e a possibilidade de expostar arquivos TOC e CUE. Está disponível para Mac OS X e Linux.
 
+* [OcenAudio](http://www.ocenaudio.com.br/)
+
+  * [Ocenaudio: um editor de arquivos de áudio gratuito, rápido, simplificado e feito no Brasil | MeioBit](http://meiobit.com/294171/ocenaudio-um-editor-de-arquivos-de-audio-gratuito-rapido-simplificado-e-feito-brasil/)
+
 
 ## Games
 
