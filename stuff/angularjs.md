@@ -1732,6 +1732,10 @@ describe('testing something...', function() {
 
 --
 
+* [[GitHub] decipherinc / angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps
+
+--
+
 * With Require.js
 
   * [Karma.js v0.12 + Require.js](https://karma-runner.github.io/0.12/plus/requirejs.html)
