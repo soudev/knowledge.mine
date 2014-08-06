@@ -114,6 +114,8 @@
 
 * [PhantomJS: Headless WebKit with JavaScript API](http://phantomjs.org/) - As you know, Webkit is the layout engine that Chrome, Safari, and a  few other niche browsers use. So PhantomJS is a browser, but a headless  browser. This means that the rendered web pages are never actually  displayed.
 
+  * [[GitHub] Medium / phantomjs](https://github.com/Medium/phantomjs) - An NPM wrapper for PhantomJS, headless webkit with JS API
+
 * [[SlideShare] PhantomJS - O Fantasminha Camarada](http://www.slideshare.net/henriquegogo/phantomjs-o-fantasminha-camarada) - Conheça essa incrível ferramenta para te ajudar a executar testes de aceitação e testes funcionais em JavaScript.
 
 * [Conhecendo o PhantomJS | iMasters](http://imasters.com.br/front-end/javascript/conhecendo-o-phantomjs/)
