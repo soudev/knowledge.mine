@@ -65,6 +65,8 @@
 
 --
 
+* [Learn JavaScript Essentials (for all skill levels) by Eric Elliott | Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
+
 * [Resources for Learning Javascript | @jendmann](http://jennifermann.ghost.io/resources-for-learning-javascript/)
 
 --
