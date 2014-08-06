@@ -737,6 +737,12 @@
 
 --
 
+* [Building High-Quality Front-End Modules | Pony Foo](http://blog.ponyfoo.com/2014/08/05/building-high-quality-front-end-modules)
+
+  * [[GitHub] bevacqua / rome](https://github.com/bevacqua/rome) - Customizable date (and time) picker. Opt-in UI, no jQuery!
+
+--
+
 * [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
 
 * [[GitHub] substack / browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
