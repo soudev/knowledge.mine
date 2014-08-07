@@ -1063,6 +1063,8 @@
 
 * [[GitHub] Medium / pipette](https://github.com/Medium/pipette) - Stream and pipe utilities for Node
 
+* [[GitHub] adlawson / urine.js](https://github.com/adlawson/urine.js) - This library provides a simple CLI and a JavaScript API for sampling data from a stream or file for testing or limiting data consumption.
+
 
 ### portable code
 
