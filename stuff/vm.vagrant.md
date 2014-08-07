@@ -12,7 +12,13 @@
 
   * [VMWare](http://docs.vagrantup.com/v2/vmware/index.html)
 
+--
+
 * [A list of base boxes for Vagrant - Vagrantbox.es](http://www.vagrantbox.es/)
+
+--
+
+* [[GitHub] adlawson / vagrantfiles](https://github.com/adlawson/vagrantfiles) - Basic Vagrantfiles. Nothing fancy.
 
 --
 
