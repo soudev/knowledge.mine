@@ -95,6 +95,10 @@
 
 --
 
+* [Why Web Components Are Ready For Production | Telerik Developer Network](http://developer.telerik.com/featured/web-components-ready-production/)
+
+--
+
 * [WebComponents.org](http://webcomponents.github.io/) - The web platform specs that will change the way you build apps
 
   * [Web Components Best Practices | WebComponents.org](http://webcomponents.github.io/articles/web-components-best-practices/)
