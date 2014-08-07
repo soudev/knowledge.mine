@@ -1294,7 +1294,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular and Polymer Data Binding, Together! | Seth Ladd's Blog](http://blog.sethladd.com/2014/02/angular-and-polymer-data-binding.html)
 
+--
+
 * [[GitHub] webcomponents / angular-interop](https://github.com/webcomponents/angular-interop) - A demo of interoperability between Polymer and AngularJS
+
+* [[GitHub] GabiAxel / ng-polymer-elements](https://github.com/GabiAxel/ng-polymer-elements) - Extendible AngularJS two-way binding support for Polymer core and paper elements
 
 
 ## Filters
