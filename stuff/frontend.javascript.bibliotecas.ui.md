@@ -306,6 +306,8 @@
 
 * [[GitHub] HumbleSoftware / Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript
 
+* [[GitHub] gionkunz / chartist-js](https://github.com/gionkunz/chartist-js) - is a simple responsive charting library built with SVG. | [site](https://gionkunz.github.io/chartist-js/)
+
 
 #### Mapas
 
