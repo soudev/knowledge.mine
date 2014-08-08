@@ -104,6 +104,8 @@ for developing fast and powerful web interfaces.
 
 * [Bootswatch : Free themes for Twitter Bootstrap](http://bootswatch.com/)
 
+* [Bootstrap Zero](http://bootstrapzero.com/) - Free Templates
+
 * [[GitHub] kristopolous / BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - Bootstrap / 386 theme
 
 * [Free Bootstrap UI Kits by Pixelkit](http://pixelkit.github.io/PixelKit-Bootstrap-UI-Kits/) - A free flat UI kit built on Bootstrap for any developer that wants to build a cool looking and functional website.
