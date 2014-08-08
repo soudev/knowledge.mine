@@ -275,6 +275,8 @@
 
 * [[GitHub] dylang / grunt-prompt](https://github.com/dylang/grunt-prompt) - Add interactive UI to your Gruntfile on the command line
 
+* [[GitHub] ruyadorno / grunt-menu](https://github.com/ruyadorno/grunt-menu) - Useful menu interface for listing/executing your configured tasks
+
 --
 
 * [[GitHub] Grunt-generate / grunt-generate](https://github.com/grunt-generate/grunt-generate) - Grunt task that generates files from user-defined templates
