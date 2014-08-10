@@ -858,6 +858,8 @@
 
 * [Can I use offline web applications?](http://caniuse.com/offline-apps) - Compatibility table for support of offline web applications in desktop and mobile browsers.
 
+* [[GitHub] pazguille / offline-first](https://github.com/pazguille/offline-first) - Everything you need to know to create offline-first web apps
+
 --
 
 * [Offline | Dive into HTML5](http://diveintohtml5.info/offline.html)
