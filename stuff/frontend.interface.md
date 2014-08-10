@@ -183,6 +183,8 @@
 
 * [[GitHub] felquis / x-2048](https://github.com/felquis/x-2048/) - Web Component wrapper for 2048 game
 
+* [[GitHub] github / time-elements](https://github.com/github/time-elements) - Web component extensions to the standard <time> element
+
 
 #### Brick
 
