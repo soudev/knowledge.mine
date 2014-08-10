@@ -308,6 +308,10 @@
 
 * [[GitHub] gionkunz / chartist-js](https://github.com/gionkunz/chartist-js) - is a simple responsive charting library built with SVG. | [site](https://gionkunz.github.io/chartist-js/)
 
+--
+
+* [[GitHub] kamisama / cal-heatmap](https://github.com/kamisama/cal-heatmap) - Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data
+
 
 #### Mapas
 
