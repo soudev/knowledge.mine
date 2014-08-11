@@ -1344,6 +1344,8 @@
 
 * [Bower all the things | Roughdraft.io](http://anotheruiguy.roughdraft.io/8927018)
 
+* [A quebra do build automático e o Bower no meio do caminho | Igor Costa](http://www.igorcosta.com/quebra-build-automatico-e-o-bower-meio-caminho/)
+
 
 #### JamJS
 
