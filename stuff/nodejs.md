@@ -1398,6 +1398,8 @@
 
   * [Mongoose Connection best practice | The Holmes Office](http://theholmesoffice.com/mongoose-connection-best-practice/)
 
+  * [[SlideShare] Mongoose - Melhores práticas usando MongoDB e Node.js](http://www.slideshare.net/suissapg/mongoose-melhores-prticas-usando-mongodb-e-nodejs)
+
 * [[GitHub] meritt / easymongo](https://github.com/meritt/easymongo) - The easiest MongoDB API
 
 --
