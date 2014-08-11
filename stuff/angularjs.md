@@ -1374,6 +1374,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] akoenig / angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS
 
+* [[GitHub] Hacklone / ng-grid-panel](https://github.com/Hacklone/ng-grid-panel) - Google images like grid and panel in AngularJS
+
 * [[GitHub] likeastore / ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
 
 * [[GitHub] flowjs / ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on angular.js framework
