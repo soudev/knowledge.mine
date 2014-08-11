@@ -1637,12 +1637,20 @@
 
 * [[GitHub] LearnBoost / engine.io](https://github.com/learnboost/engine.io) - is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
 
-  * [The Realtime Engine | Devthought](http://www.devthought.com/2012/07/07/the-realtime-engine/)
-  * [Node.js para leigos - Explorando real-time | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-explorando-real-time/)
-  * [Real-time com Socket.IO no Node.js | Underground WebDev](http://udgwebdev.com/real-time-com-socket-io-no-nodejs/)
-  * [Express, Socket.IO e Sessions | Underground WebDev](http://udgwebdev.com/nodejs-express-socketio-e-sessions/)
+* [The Realtime Engine | Devthought](http://www.devthought.com/2012/07/07/the-realtime-engine/)
 
 * [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
+
+
+* Underground WebDev
+
+  * [Node.js para leigos - Explorando real-time | Underground WebDev](http://udgwebdev.com/node-js-para-leigos-explorando-real-time/)
+
+  * [Real-time com Socket.IO no Node.js](http://udgwebdev.com/real-time-com-socket-io-no-nodejs/)
+
+  * [Express, Socket.IO e Sessions | Underground WebDev](http://udgwebdev.com/nodejs-express-socketio-e-sessions/)
+
+  * [Criando um chat usando session do Express 4 no Socket.IO 1.0](http://udgwebdev.com/criando-um-chat-usando-session-do-express-4-no-socket-io-1-0/)
 
 
 #### Connect
@@ -1655,6 +1663,12 @@
 #### Express.js
 
 * [Express.js](http://expressjs.com/)
+
+  * [TJ Holowaychuk Passes Sponsorship of Express to StrongLoop | StrongLoop](http://strongloop.com/strongblog/tj-holowaychuk-sponsorship-of-express/) - 29/07/2014
+
+  * [[GitHub] strongloop / express](https://github.com/strongloop/express) - Sinatra inspired web development framework for node.js -- insanely fast, flexible, and simple
+
+--
 
 * [[GitHub] likeastore / maintenance](https://github.com/likeastore/maintenance) - middleware for easy switching the app to maintenance mode
 
