@@ -1096,6 +1096,8 @@
 
 #### Hash
 
+* [Using JavaScript to create a GUID from a user's browser information](https://andywalpole.me/#!/blog/140739/using-javascript-create-guid-from-users-browser-information)
+
 * [[GitHub] Valve / fingerprintjs](https://github.com/Valve/fingerprintjs) - Fast browser fingerprint library. Written in pure JavaScript, no dependencies. By default uses Murmur hashing and returns a 32bit integer number. Hashing function can be easily replaced. Feather weight: only 843 bytes when gzipped. 
 
 * [[GitHub] karanlyons / murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - All of MurmurHash3, in javascript. | [wiki: MurmurHash](https://en.wikipedia.org/wiki/MurmurHash)
