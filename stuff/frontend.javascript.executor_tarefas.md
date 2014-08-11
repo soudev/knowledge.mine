@@ -257,13 +257,19 @@
 
 --
 
-* [[GitHub] karlgoldstein / grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
-
 * [[GitHub] hariadi / grunt-wp2md](https://github.com/hariadi/grunt-wp2md) - Convert WordPress XML to static Markdown files
 
 * [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json) 
 
 * [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF. 
+
+* [[GitHub] testdouble / grunt-markdown-blog](https://github.com/testdouble/grunt-markdown-blog) - Grunt task for building a blog with markdown posts & underscore templates 
+
+* [[GitHub] CabinJS / grunt-pages](https://github.com/CabinJS/grunt-pages) - Grunt task to create HTML pages using markdown and templates
+
+--
+
+* [[GitHub] karlgoldstein / grunt-html2js](https://github.com/karlgoldstein/grunt-html2js) - Grunt plugin for converting AngularJS templates to JavaScript
 
 * [[GitHub] gruntjs / grunt-contrib-jade](https://github.com/gruntjs/grunt-contrib-jade) - Compile Jade templates
 
@@ -311,6 +317,10 @@
 
 --
 
+* [[GitHub] sindresorhus / grunt-pageres](https://github.com/sindresorhus/grunt-pageres) - Responsive website screenshots
+
+--
+
 * [[GitHub] ddprrt / connect-php](https://github.com/ddprrt/connect-php)
 
   * [The magic of grunt-contrib-connect, and how to run PHP with it | front-end technology talk](http://fettblog.eu/blog/2013/11/17/the-magic-of-grunt-contrib-connect-and-how-to-run-php-with-it/)
@@ -321,6 +331,7 @@
 * [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy)
 
   * [Using grunt-connect-proxy | frontend technology talk](http://www.fettblog.eu/blog/2013/09/20/using-grunt-connect-proxy/)
+
 
 ##### grunt plugins: performance
 
@@ -368,7 +379,15 @@
 
 * [Dica Rápida: Utilizando LiveReload no Grunt | Vitor Britto](http://www.vitorbritto.com/blog/utilizando-livereload-no-grunt/)
 
+--
+
 * [Grunt Markdown - Markdown Preview using Grunt | James Morrin](http://www.treasonx.com/posts/GruntMarkDown.html)
+
+* [[GitHub] saucelabs / docs](https://github.com/saucelabs/docs) - Sauce Labs markdown docs
+
+  * [Building markdown-based developer docs — Code stories | Medium](https://medium.com/code-stories/building-markdown-based-developer-docs-87c0317c56f7)
+
+--
 
 * [[Gist] rhumaric / Gruntfile-connect-open.js](https://gist.github.com/rhumaric/5577257) - Sample configuration of grunt-contrib-connect and grunt-open to serve your project and open a browser tab to the appropriate URL
 
