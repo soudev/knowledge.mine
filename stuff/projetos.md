@@ -1,9 +1,10 @@
 # Projetos 
 
-
 <!-- toc -->
+
 * [Geral](#geral)
 * [Conceitos](#conceitos)
+  * [GTD - Getting Things Done](#gtd-getting-things-done)
   * [Atomic Design](#atomic-design)
   * [DevOps](#devops)
 * [ALM](#alm)
@@ -51,6 +52,15 @@
 * [BDD: Think Like an Actor | Site Point](http://www.sitepoint.com/bdd-think-like-actor/)
 
 * [Design sem Designer | UX Blog](http://www.uxdesign.blog.br/design-livre/design-sem-designer/) - A discussão sobre um possível Design sem Designer apresenta caminhos alternativos para a explicação da atividade projetual nas mais diversas áreas
+
+
+### GTD - Getting Things Done
+
+* [Getting Things Done (pt) | Wikipedia](https://pt.wikipedia.org/wiki/Getting_Things_Done)
+
+* [GTD - acho que finalmente entendi :D | Sobre Código](http://sobrecodigo.com/gtd-acho-que-finalmente-entendi-d/)
+
+* [GTD em 20 minutos | Wise Action](http://www.wiseaction.pt/comunidade-virtual/recursos-gtd%C2%AE/gtd-em-20-minutos/)
 
 
 ### Atomic Design
