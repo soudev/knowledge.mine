@@ -265,6 +265,10 @@
 
 ### Codificação
 
+* [Coder Speech](http://www.coderspeech.com/) - Learn to code by watching programming videos
+
+--
+
 * [Code Academy](http://www.codecademy.com/) | [pt-Br](http://www.codecademy.com/pt-BR)
 
 * [Code.org - Anybody can learn code](http://code.org)
