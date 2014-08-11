@@ -86,15 +86,27 @@
 
 * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
 
-* [[GitHub] testdouble / grunt-markdown-blog](https://github.com/testdouble/grunt-markdown-blog) - Grunt task for building a blog with markdown posts & underscore templates 
-
 * [[GitHub] laktek / punch](https://github.com/laktek/punch) - A fun and easy way to build modern websites. Punch is a simple, intuitive web publishing framework that will delight both designers and developers.
 
   * [Generate Websites from JSON, Markdown, and Mustache Templates using Punch | Web Builder Zone](http://css.dzone.com/articles/generate-websites-json)
 
+--
+
 * [[GitHub] Dynalon / mdwiki](https://github.com/Dynalon/mdwiki/) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown
 
   * [MDwiki](https://dynalon.github.io/mdwiki/) - Markdown based wiki done 100% on the client via JavaScript
+
+--
+
+* [[GitHub] testdouble / grunt-markdown-blog](https://github.com/testdouble/grunt-markdown-blog) - Grunt task for building a blog with markdown posts & underscore templates 
+
+* [[GitHub] CabinJS / grunt-pages](https://github.com/CabinJS/grunt-pages) - Grunt task to create HTML pages using markdown and templates
+
+--
+
+* [[GitHub] saucelabs / docs](https://github.com/saucelabs/docs) - Sauce Labs markdown docs
+
+  * [Building markdown-based developer docs — Code stories | Medium](https://medium.com/code-stories/building-markdown-based-developer-docs-87c0317c56f7)
 
 
 ### Transformação Markdown ...
