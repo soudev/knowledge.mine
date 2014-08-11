@@ -737,6 +737,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
 
+--
+
+* [Let's build: An AngularJS app with Browserify and Gulp | Mindthecode](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
+
 
 ### SEO
 
