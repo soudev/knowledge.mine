@@ -357,6 +357,8 @@
 
 * [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
 
+  * [[GitHub] sindresorhus / grunt-pageres](https://github.com/sindresorhus/grunt-pageres) - Responsive website screenshots
+
 --
 
 * [[GitHub] MatthewMueller / cheerio](https://github.com/MatthewMueller/cheerio)
