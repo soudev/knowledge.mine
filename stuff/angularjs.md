@@ -1261,6 +1261,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
 
+* [Creating Custom D3 Directives in AngularJS | delimited](http://www.delimited.io/blog/2014/7/16/d3-directives-in-angularjs)
+
 * [Angularjs-nvd3-directives](http://cmaurer.github.io/angularjs-nvd3-directives/index.html) - Angular.js directives for nvd3.js
 
 --
