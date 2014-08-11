@@ -155,7 +155,9 @@
 
 --
 
-* [Git Gutter](https://github.com/jisaacks/GitGutter) - A sublime text 2/3 plugin to show an icon in the gutter area  indicating whether a line has been inserted, modified or deleted.
+* [[GitHub] gornostal / Modific](https://github.com/gornostal/Modific) - Highlight lines changed since the last commit (supports Git, SVN, Bazaar, Mercurial and TFS) / ST2(3) plugin
+
+* [[GitHub] jisaacks / GitGutter](https://github.com/jisaacks/GitGutter) - A sublime text 2/3 plugin to show an icon in the gutter area  indicating whether a line has been inserted, modified or deleted.
 
 * [[GitHub] SublimeText / SideBarGit](https://github.com/SublimeText/SideBarGit) - Add git commands to sidebar. Textual port of komodin extension for sublime text.
 
