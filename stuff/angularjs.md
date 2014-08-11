@@ -370,6 +370,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [AngularJS Promises - The Definitive Guide | dwmkerr](http://www.dwmkerr.com/promises-in-angularjs-the-definitive-guide/)
 
+    * [AngularJS Promises - O guia definitivo | Nomadev](http://nomadev.com.br/angularjs-promises-promessas-o-guia-definitivo/)
+
 --
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
