@@ -236,6 +236,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [[GitHub] zeke / ghwd](https://github.com/zeke/ghwd) - Open the github URL that matches your shell's current branch and working directory | mac and linux terminal utils
+
+--
+
 * [Everyday GIT With 20 Commands Or So](https://www.kernel.org/pub/software/scm/git/docs/everyday.html)
 
 * [Git Basic Commands | Pankaj Kumar](http://panks.me/blog/2011/12/git-basic-commands/)
