@@ -76,6 +76,8 @@
 
 * [Gulp: O novo automatizador | Tableless](http://tableless.com.br/gulp-o-novo-automatizador/)
 
+* [Criando um workflow mais produtivo com o Gulp.js | Blog Princi Agência Web](http://www.princiweb.com.br/blog/front-end/ferramentas/criando-um-workflow-mais-produtivo-com-o-gulpjs.html)
+
 * [Bye bye Grunt.js, hello Gulp.js! | Caelum](http://blog.caelum.com.br/bye-bye-grunt-js-hello-gulp-js/)
 
 * [Gulp JS: como se tornar Expert em minutos | morethings.io](http://morethings.io/javascript/gulpjs-como-se-tornar-expert-em-minutos/)
