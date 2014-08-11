@@ -507,6 +507,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Tips and Tricks | AngularJS Chicago](http://angularjschicago.github.io/angular-tips-and-tricks/) - Created by the AngularJS Chicago Meetup community
 
+* [Speeding up AngularJS with simple optimizations | JavaScript](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+
 --
 
 * [Conjunto de materiais úteis](http://mattkruse.com/angular/) - PDFs
@@ -558,6 +560,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [AngularJS - Providers | Thinkster](http://www.thinkster.io/angularjs/eIaGNOAlOk/angularjs-providers)
+
+* [The life and times of the angular provider | Garabagne](http://www.garabagne.io/2014/06/08/the-life-and-times-of-the-angular-provider/)
 
 * [understanding service types | Angular Tips](http://angular-tips.com/blog/2013/08/understanding-service-types/)
 
