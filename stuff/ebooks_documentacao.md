@@ -247,6 +247,8 @@
 
   * [JamesESL](https://www.youtube.com/user/JamesESL) - English Lessons (engVid)
 
+* [BBC Languages](http://www.bbc.co.uk/languages/)
+
 * [VerbLing](https://www.verbling.com/)
 
 * [Livemocha](http://livemocha.com/) - Free Online Language Learning
