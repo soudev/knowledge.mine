@@ -264,9 +264,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] nicholasess / angularjsbrasil / iniciantes.md](https://github.com/nicholasess/angularjsbrasil/blob/master/iniciantes.md)
+
 * [[GitHub] mgechev / angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
 
-* [[GitHub] nicholasess / angularjsbrasil / iniciantes.md](https://github.com/nicholasess/angularjsbrasil/blob/master/iniciantes.md)
+* [[GitHub] johnpapa / angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - AngularJS Style Guide: A starting point for AngularJS development teams to provide consistency through good practices
 
 --
 
