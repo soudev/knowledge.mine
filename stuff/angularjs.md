@@ -1,7 +1,7 @@
 # Angular.js
 
-
 <!-- toc -->
+
 * [Visão Geral](#visão-geral)
   * [Angular.js 2.0](#angularjs-20)
   * [Estatísticas](#estatísticas)
@@ -10,10 +10,6 @@
     * [Two Way Data-Binding](#two-way-data-binding)
     * [Templates](#templates)
     * [MVC](#mvc)
-      * [Model](#model)
-      * [ViewModel](#viewmodel)
-      * [Controller](#controller)
-      * [View](#view)
     * [Injeção de Dependências](#injeção-de-dependências)
     * [Diretivas (Componentes)](#diretivas-componentes)
     * [Bonus: Suporte para Testes](#bonus-suporte-para-testes)
@@ -27,6 +23,7 @@
   * [Ciro Nunes: AngularJS Melhores Práticas](#ciro-nunes-angularjs-melhores-práticas)
 * [Casos de Uso](#casos-de-uso)
 * [Dicas](#dicas)
+  * [Design e Interface](#design-e-interface)
   * [SEO](#seo)
   * [HTML5 offline](#html5-offline)
   * [Amazon AWS](#amazon-aws)
@@ -67,6 +64,7 @@
   * [CI](#ci)
 
 <!-- toc stop -->
+
 
 
 ## Visão Geral
@@ -742,6 +740,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Let's build: An AngularJS app with Browserify and Gulp | Mindthecode](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
+
+
+### Design e Interface
+
+* [[GitHub] angular / material](https://github.com/angular/material) - Material design for Angular
+
+* [[GitHub] Ehesp / Responsive-Dashboard](https://github.com/Ehesp/Responsive-Dashboard) - Bloat free responsive dashboard - powered by AngularJS and Bootstrap (jQuery version available)
 
 
 ### SEO
