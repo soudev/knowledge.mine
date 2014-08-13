@@ -353,7 +353,9 @@
 
 --
 
-* [[GitHub] shakyShane / browser-sync](https://github.com/shakyShane/browser-sync) - Keep multiple browsers & devices in sync when building websites.
+* [[GitHub] shakyShane / browser-sync](https://github.com/shakyShane/browser-sync) - Keep multiple browsers & devices in sync when building websites
+
+  * [A BrowserSync Primer | Pony Foo](http://blog.ponyfoo.com/2014/08/12/a-browsersync-primer)
 
 * [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
 
