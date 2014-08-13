@@ -1318,6 +1318,8 @@
 
 * [8 NPM tips for better Node development | Scott Smith](http://scottksmith.com/blog/2014/06/25/8-npm-tips-for-better-node-development/)
 
+* [Node.js - Como mostrar o que está sendo instalado pelo NPM? | Nomadev](http://nomadev.com.br/node-js-como-mostrar-o-que-est%C3%A1-sendo-instalado-pelo-npm/)
+
 --
 
 * [Introduction to npm | SmallJS](http://smalljs.org/package-managers/npm/)
