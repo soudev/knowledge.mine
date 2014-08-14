@@ -1,5 +1,7 @@
 # Angular.js
 
+
+
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
@@ -57,6 +59,7 @@
   * [Módulos de UI](#módulos-de-ui)
   * [ng animate](#ng-animate)
 * [Projetos de Exemplo](#projetos-de-exemplo)
+  * [With Gulp](#with-gulp)
   * [MEAN Stack](#mean-stack)
   * [Angular-Seed](#angular-seed)
 * [Teste](#teste)
@@ -64,6 +67,7 @@
   * [CI](#ci)
 
 <!-- toc stop -->
+
 
 
 
@@ -736,10 +740,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
-
---
-
-* [Let's build: An AngularJS app with Browserify and Gulp | Mindthecode](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
 
 
 ### Design e Interface
@@ -1555,10 +1555,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [[GitHub] wlepinski / gulp-angularjs-starter-project](https://github.com/wlepinski/gulp-angularjs-starter-project) - A started project using AngularJS and Compass.
-
---
-
 * [Creating Apps with Angular and Node using Yeoman | Tyler Henkel](http://tylerhenkel.com/creating-apps-with-angular-and-node-using-yeoman/)
 
 * [[GitHub] yeoman / generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
@@ -1607,7 +1603,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] CleverStack / cleverstack-cli](https://github.com/CleverStack/cleverstack-cli) - CLI for CleverStack
 
---
+
+### With Gulp
+
+* [Let's build: An AngularJS app with Browserify and Gulp | Mindthecode](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
+
+* [[GitHub] wlepinski / gulp-angularjs-starter-project](https://github.com/wlepinski/gulp-angularjs-starter-project) - A started project using AngularJS and Compass
 
 * [Create a TV Show Tracker using AngularJS, Node.js and MongoDB | Sahat Yalkabov](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
 
