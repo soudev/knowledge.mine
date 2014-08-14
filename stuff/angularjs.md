@@ -1045,6 +1045,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [QCon New York Slides: Creating Native-Like Mobile Apps with Cordova, AngularJS and Ionic](http://coenraets.org/blog/2014/06/qcon-new-york-slides-creating-native-like-mobile-apps-with-cordova-angularjs-and-ionic/)
 
+  * [Employee Directory Sample App with Ionic and Node.js](http://coenraets.org/blog/2014/08/employee-directory-sample-app-with-ionic-and-node-js/)
+
+  * [[GitHub] ccoenraets / directory-ionic-nodejs](https://github.com/ccoenraets/directory-ionic-nodejs) - Sample Employee Directory App built with Ionic and Node.js
+
 --
 
 * The dynamic programmer 
