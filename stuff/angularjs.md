@@ -1612,9 +1612,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### With Gulp
 
+* [[GitHub] wlepinski / gulp-angularjs-starter-project](https://github.com/wlepinski/gulp-angularjs-starter-project) - A started project using AngularJS and Compass
+
 * [Let's build: An AngularJS app with Browserify and Gulp | Mindthecode](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
 
-* [[GitHub] wlepinski / gulp-angularjs-starter-project](https://github.com/wlepinski/gulp-angularjs-starter-project) - A started project using AngularJS and Compass
+  * [[GitHub] Hyra / angular-gulp-browserify-livereload-boilerplate](https://github.com/Hyra/angular-gulp-browserify-livereload-boilerplate) - Example boilerplate for using Angular, Gulp, Express with LiveReload ad Browserify
 
 * [Create a TV Show Tracker using AngularJS, Node.js and MongoDB | Sahat Yalkabov](http://sahatyalkabov.com/create-a-tv-show-tracker-using-angularjs-nodejs-and-mongodb/)
 
