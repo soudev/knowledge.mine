@@ -220,7 +220,7 @@
 
 ##### Ferramentas
 
-* [Grunt Task Runner Extension for Chrome Developer Tools](https://github.com/vladikoff/grunt-devtools)
+* [[GitHub] vladikoff / grunt-devtools](https://github.com/vladikoff/grunt-devtools) - Grunt Task Runner Extension for Chrome Developer Tools
 
 * [Run grunt.js from IntelliJ](http://omar.gy/run-grunt-js-from-intellij/)
 
