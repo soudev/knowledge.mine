@@ -1599,6 +1599,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Back&](https://www.backand.com/) - is the fastest way to build and run a hosted AngularJS-based admin with your cloud database
+
+  * [[GitHub] backand / ngback](https://github.com/backand/ngback) - angular integration with backand.com
+
+--
+
 * [CleverStack](http://cleverstack.io/) - A modular way to create your Angular & Node web apps
 
   * [[GitHub] CleverStack / cleverstack-cli](https://github.com/CleverStack/cleverstack-cli) - CLI for CleverStack
