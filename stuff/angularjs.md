@@ -1,7 +1,5 @@
 # Angular.js
 
-
-
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
@@ -67,8 +65,6 @@
   * [CI](#ci)
 
 <!-- toc stop -->
-
-
 
 
 ## Visão Geral
@@ -1409,6 +1405,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] mchapman / forms-angular](https://github.com/mchapman/forms-angular) - Probably the most opinionated framework in the world
 
+
+--
+
+* [Angular-Wizard](http://mgonto.github.io/angular-wizard/) - Easy to use Wizard library for AngularJS
+
+* [[GitHub] ianwalter / ng-breadcrumbs](https://github.com/ianwalter/ng-breadcrumbs) - A better AngularJS service to help with breadcrumb-style navigation between views
+
 --
 
 * [[GitHub] davidchang / ngReact](https://github.com/davidchang/ngReact) - Use React Components in Angular
@@ -1416,10 +1419,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] josebalius / ngReactGrid](https://github.com/josebalius/ngReactGrid) - A really fast Angular grid using the power of React to render. Based on ng-grid and jQuery DataTables
 
   * [ngReactGrid 0.5.0 - Custom cells](http://www.josebalius.com/ngreactgrid-0-5-0-custom-cells/)
-
---
-
-* [Angular-Wizard](http://mgonto.github.io/angular-wizard/) - Easy to use Wizard library for AngularJS
 
 --
 
