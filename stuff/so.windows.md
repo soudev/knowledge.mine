@@ -12,3 +12,5 @@
   * [Console2: A better command prompt for Windows | yuser interface](http://yuserinterface.com/dev/2013/01/05/console2-a-better-command-prompt-for-windows/)
 
   * [Console2 - A Better Windows Command Prompt | Scott Hanselman](http://www.hanselman.com/blog/Console2ABetterWindowsCommandPrompt.aspx)
+
+* [cmder | Console Emulator](https://bliker.github.io/cmder/) -Portable console emulator for Windows
