@@ -1,8 +1,5 @@
 # Front-End
 
-
-
-
 <!-- toc -->
 
 * [Interface](#interface)
@@ -16,7 +13,6 @@
   * [D3.js for HTML](#d3js-for-html)
 
 <!-- toc stop -->
-
 
 
 ## Interface
