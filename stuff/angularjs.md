@@ -1170,6 +1170,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [How To Extend Angular's Script Directive | Techno Fattie](http://www.technofattie.com/2014/03/25/how-to-extend-angular-script-directive.html)
 
+* [The Many Ways To Use ngClass | Scotch](http://scotch.io/tutorials/javascript/the-many-ways-to-use-ngclass)
+
 --
 
 * [Criando componentes](http://cironunes.com/angular-components-talk/) - by Ciro Nunes / @cironunesdev | #AngularJSSP 20 de Junho '14
