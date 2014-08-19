@@ -1568,6 +1568,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[jsfiddle] Calculadora em AngularJS](http://jsfiddle.net/rabidGadfly/GF3Xg/)
+
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
 
 * [[GitHub] mjhea0 / thinkful-angular](https://github.com/mjhea0/thinkful-angular) - AngularJS by Example - Building a Bitcoin Investment Calculator
