@@ -17,9 +17,13 @@
 
 * [John Gruber's Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
 
-* [Github-flavored Markdown info page | GitHub](http://github.github.com/github-flavored-markdown/)
+--
+
+* [Mastering Markdown | GitHub Guides](https://guides.github.com/features/mastering-markdown/)
 
 * [GitHub Flavored Markdown | GitHub:Help](https://help.github.com/articles/github-flavored-markdown)
+
+--
 
 * [Markdown Cheatsheet - adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
