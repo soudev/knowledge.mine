@@ -960,6 +960,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS File Upload | Web Builder Zone](http://css.dzone.com/articles/angularjs-file-upload) - Recently I had some time to play around with AngularJS. More specifically I had to implement a jQuery based [file upload widget](http://blueimp.github.io/jQuery-File-Upload/). The widget’s demo site already contains an AngularJS demo, but I wanted a minimum setup, so I started from scratch and figured out the necessary parts to implement the file upload using ASP.NET MVC as the server-side platform.
 
+* [Uploading To S3 With AngularJS | Cheyne Wallace](http://www.cheynewallace.com/uploading-to-s3-with-angularjs/) - How to upload files directly to AWS using AngularJS and the AWS JS SDK
+
 
 ### Autenticação
 
