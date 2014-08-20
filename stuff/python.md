@@ -47,6 +47,8 @@
 
 * [10 Resources to Learn Python Programming Language | CodeCondo](http://codecondo.com/10-ways-to-learn-python/)
 
+* [[Speaker Deck] Web Development with Python and Django (2014)](https://speakerdeck.com/mpirnat/web-development-with-python-and-django-2014)
+
 --
 
 * [Python Skill Tests | MetaBright](http://www.metabright.com/challenges/python)
