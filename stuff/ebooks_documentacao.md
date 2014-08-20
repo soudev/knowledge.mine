@@ -238,6 +238,10 @@
 
 * [TED Ed Lessons Worth Sharing](http://ed.ted.com/)
 
+--
+
+* [Tecnologia em Sistemas de Computação | Fundação CECIERJ/Consórcio CEDERJ](http://www.cederj.edu.br/videoaulas/) - videoaulas do curso
+
 
 ### Idiomas
 
