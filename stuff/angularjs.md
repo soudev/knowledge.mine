@@ -396,6 +396,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Build a Single Page Application with Angular, Node & Mongo – Part I | Kevin Delemme](http://www.kdelemme.com/2014/06/16/build-single-page-app-with-angular-node-mongo-i/)
 
+* [[YouTube] AngularJS Tutorial for Beginners - Learn Angular.js using UI-Router](https://www.youtube.com/watch?v=QETUuZ27N0w) - 19/12/2013 - [Working Angularjs Code Sample on Plunkr](http://plnkr.co/tZg6EfbMCJX1MLtUAcb1)
+
+* [[YouTube Playlist] Pluralsight: AngularJS Fundamentals](https://www.youtube.com/playlist?list=PL1yxeQRU9I3TFalCPrYmCptJtCowJNi6C) - Full course
+
 
 ### ng-newsletter: AngularJS from beginner to expert in 7 steps series 
 
