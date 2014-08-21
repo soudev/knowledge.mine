@@ -1717,6 +1717,8 @@ describe('testing something...', function() {
 
 * [AngularJS Video Tutorial: Testing Overview | EggHead.io](http://egghead.io/lessons/angularjs-testing-overview)
 
+* [Angular in Production: What, How, When to Test? | NewCircle](https://thenewcircle.com/s/post/1649/angular_in_production_what_how_when_to_test_ari_lerner_video)
+
 --
 
 * [[GitHub] ricardohbin / angularjs-meetup-sp](https://github.com/ricardohbin/angularjs-meetup-sp) - Jasmine + Angular.mocks + Karma.JS
