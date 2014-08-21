@@ -1,8 +1,9 @@
 # Virtual Machine / Máquina Virtual
 
-
 <!-- toc -->
+
 * [Docker](#docker)
+  * [Informações](#informações)
   * [Aprendizado](#aprendizado)
   * [Dockerfile](#dockerfile)
   * [Dicas](#dicas)
@@ -29,17 +30,40 @@
 
 * [Docker](http://www.docker.com/) - an open source project to pack, ship and run any application as a lightweight container
 
-* [[GitHub] dotcloud / docker](https://github.com/dotcloud/docker/) - the open-source application container engine
+  * [What is Docker?](https://www.docker.com/whatisdocker/)
 
-* [Docker Hub Registry](https://registry.hub.docker.com/) - Repositories of Docker Images
+  * [Docker Hub Registry](https://registry.hub.docker.com/) - Repositories of Docker Images
 
-* [The whole story - Docker: the Linux container engine](https://www.docker.io/the_whole_story/)
+  * [Try it!](https://www.docker.com/tryit/) - tutorial online
 
-* [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
+  * [DockerCon | Docker Blog](http://blog.docker.com/category/dockercon-2/)
 
 --
 
-* [DockerCon | Docker Blog](http://blog.docker.com/category/dockercon-2/)
+* [[GitHub] docker / docker](https://github.com/docker/docker) - the open-source application container engine
+
+--
+
+* [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
+
+
+### Informações
+
+* 2013
+
+  * [[SlideShare] Introduction to Docker](http://www.slideshare.net/dotCloud/intro-docker-october-2013) - 2013/10/29
+
+  * [The whole story - Docker: the Linux container engine](http://scm.zoomquiet.io/data/20131004215734/index.html) - old link : 
+
+    * https://www.docker.io/the_whole_story/
+
+    * [[GitHub] www.docker.io / _pages / the-whole-story.md](https://github.com/docker/www.docker.io/blob/9ba2752ef276a1a9fa38b3ce1827717374336d2a/_pages/the-whole-story.md)
+
+* 2014 
+
+  * [[Speaker Deck] Small presentation about what's new in the Docker Platform](https://speakerdeck.com/vieux/whats-new-in-the-latest-docker-release-and-docker-hub-at-braintree) - 2014/08/19
+
+  * [[SlideShare] Docker, Linux Containers (LXC), and security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) - 2014/08/20
 
 
 ### Aprendizado
@@ -324,6 +348,8 @@
 * [Baidu using Docker for its PaaS | Docker Blog](http://blog.docker.io/2013/12/baidu-using-docker-for-its-paas/)
 
 * [How We Use Docker To Continuously Deliver Microservices - Part 1 | Contino](http://contino.co.uk/use-docker-continuously-deliver-microservices-part-1/)
+
+* [Containers for test environments using Docker | SpeedLedger Tech blog](http://engineering.speedledger.com/?p=73)
 
 
 ### Soluções
