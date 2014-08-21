@@ -295,6 +295,14 @@
 
 * [Mozilla Webmaker](https://webmaker.org/) - We're a global community dedicated to teaching digital skills and web literacy. We explore, tinker and create together to build a web that's open and made by everyone.
 
+--
+
+* [Curso em Vídeo](http://cursoemvideo.com/) - Faça cursos de HTML5, CSS3, JavaScript, Algoritmos e muitos outros assuntos do mercado de Tecnologia.
+
+  * [[YouTube Playlists] Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/playlists)
+
+  * [Plataforma brasileira usa vídeos para ensinar a programar gratuitamente | Tecnoblog](https://tecnoblog.net/161403/plataforma-brasileira-usa-videos-ensinar-a-programar-gratuitamente/)
+
 -- 
 
 * [Hackety Hack](http://hackety.com/) -  will teach you the absolute basics of programming from the ground up. No previous programming experience is needed! With Hackety Hack, you'll learn the [Ruby programming language](https://www.ruby-lang.org/). Ruby is used for all kinds of programs, including desktop applications and websites.
