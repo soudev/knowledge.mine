@@ -152,6 +152,8 @@ O AngularJS é um conjunto de ferramentas, para construir um framework mais adeq
 
 * [An Overview of AngularJS for Managers | FIFOd](http://fifod.com/an-overview-of-anagularjs-for-managers/)
 
+* [Why Angular.js?](http://jeffwhelpley.com/angularjs/) - 2014/06/09
+
 --
 
 * [3 Reasons to Choose AngularJS for Your Next Project | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/3-reasons-to-choose-angularjs-for-your-next-project/)
