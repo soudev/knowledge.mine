@@ -1641,6 +1641,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] sahat / tvshow-tracker](https://github.com/sahat/tvshow-tracker/) - AngularJS + Node + Gulp + Mongoose + Passport Authentication + TVDB API
 
+* [DRY dependency injection in Angular with gulp-ng-annotate | Christian Fei](http://christian.fei.ninja/dry-dependency-injection-in-angular-with-gulp-ng-annotate/)
+
 
 ### MEAN Stack
 
