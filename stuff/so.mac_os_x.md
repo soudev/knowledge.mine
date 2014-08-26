@@ -23,9 +23,23 @@
 
 * [Configurando o Terminal no Mac OS X | Simples Ideias](http://simplesideias.com.br/configurando-o-terminal-no-mac-os-x)
 
+--
+
 * [Homebrew](http://brew.sh/) - is a package manager for OS X | [github](https://github.com/Homebrew/homebrew)
 
   * [Cakebrew - The Mac App for Homebrew](https://www.cakebrew.com/) | [github](https://github.com/brunophilipe/Cakebrew)
+
+--
+
+* Move windows
+
+  * [Moom](http://manytricks.com/moom/) - Do you spend a lot of time moving and zooming windows, so you can better see and work with all the content on your Mac? Instead of doing that work yourself, let Moom handle the task for you. - U$ 10
+
+  * [BetterTouchTool](http://www.boastr.de/) - BetterTouchTool is a great, feature packed FREE app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad and Magic Trackpad. It also allows you to configure actions for keyboard shortcuts, normal mice and the Apple Remote.
+
+  * [Spectacle](http://spectacleapp.com/) - Move and resize windows with ease. Free and OpenSource. 
+
+    * [[GitHub] eczarny / spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to easily organize your windows without using a mouse.
 
 
 ## Mavericks
