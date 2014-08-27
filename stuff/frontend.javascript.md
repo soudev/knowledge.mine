@@ -725,6 +725,8 @@
 
 * [Getting Started with Browserify | SitePoint](http://www.sitepoint.com/getting-started-browserify/) - This article introduces the Browserify tool. It also shows how Browserify can be integrated with Grunt and Gulp
 
+* [A Gentle Browserify Walkthrough | Pony Foo](http://blog.ponyfoo.com/2014/08/25/a-gentle-browserify-walkthrough)
+
 * [A collection of useful Browserify resources | learnjs.io](http://learnjs.io/blog/2013/11/24/browserify-resources/)
 
 * [Browserify and the Universal Module Definition | dontkry.com](http://dontkry.com/posts/code/browserify-and-the-universal-module-definition.html)
