@@ -1600,6 +1600,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] pikock / bootstrap-magic](https://github.com/pikock/bootstrap-magic) - Bootstrap themes generator, featuring Bootstrap 3.1 and AngularJS. Update your variables, change it with a smooth colorpicker and get instantly the result.
 
+* [[GitHub] arvindr21 / fileBrowserApp](https://github.com/arvindr21/fileBrowserApp) - Building a Web Based File Browser with jsTree, Angularjs and Expressjs
+
+  * [Building a Web Based File Browser with jsTree, Angularjs and Expressjs | The Jackal of Javascript](http://thejackalofjavascript.com/file-browser-with-jstree-angularjs-and-expressjs/)
+
 --
 
 * [SSE (Server-Sent Events) Sample with AngularJS in Play Java | TypeSafe](https://typesafe.com/activator/template/sse-chat-template-java)
