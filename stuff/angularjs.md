@@ -1572,6 +1572,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Grabs - Front-End Development Environment](http://grabs.in/) - Grunt.js | Angular.js | Bower | Stylus
+
+  * [[GitHub] sercaneraslan / grabs](https://github.com/sercaneraslan/grabs) - Front-End Development Environment
+
+--
+
 * [Creating Apps with Angular and Node using Yeoman | Tyler Henkel](http://tylerhenkel.com/creating-apps-with-angular-and-node-using-yeoman/)
 
 * [[GitHub] yeoman / generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
