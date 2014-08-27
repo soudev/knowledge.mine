@@ -87,6 +87,8 @@
 
 * [Web Components and concepts, ShadowDOM, imports, templates, custom elements | Todd Motto](http://toddmotto.com/web-components-concepts-shadow-dom-imports-templates-custom-elements/)
 
+* [[Speaker Deck] The Web Component Ecosystem](https://speakerdeck.com/robdodson/the-web-component-ecosystem) - [by Rob Dodson 2014/08/25] Web Components give us the power to invent our own HTML elements, designed to be future-facing, interoperable, and beautiful on the multi-device web. With tools like Polymer and X-Tag, we can start taking advantage of this new technology today. Let’s take a look at some of the amazing elements that are already being produced, and explore how you can start leveraging them in your own projects.
+
 --
 
 * [Web Components: Introdução | Tableless](http://tableless.com.br/web-components-introducao/)
