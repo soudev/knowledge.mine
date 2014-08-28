@@ -139,6 +139,8 @@
 
 * [[GitHub] pazguille / github-card](https://github.com/pazguille/github-card) - A web component to show a card for your GitHub profile
 
+* [[GitHub] 1000ch / lazyload-image](https://github.com/1000ch/lazyload-image) - Extended Image Element for lazy loading as Web Components
+
 --
 
 * [Polymer vs. X-Tag - Here's the difference | Pascal Precht](https://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/)
