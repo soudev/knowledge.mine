@@ -1841,6 +1841,10 @@ describe('testing something...', function() {
 
 * [How to verify JSON data with AngularJS $httpBackend | Thinking in Crowd](http://www.thinkingincrowd.me/blog/2013/06/08/how-to-verify-json-data-with-angularjs-httpbackend/)
 
+--
+
+* [[GitHub] atecarlos / protractor-http-mock](https://github.com/atecarlos/protractor-http-mock) - A library designed to work alongside Protractor for setting mocks for your HTTP ajax requests
+
 
 ### CI
 
