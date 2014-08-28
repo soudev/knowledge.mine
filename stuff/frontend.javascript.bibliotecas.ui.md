@@ -191,6 +191,8 @@
 
 * [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
 
+* [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
+
 --
 
 * [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
