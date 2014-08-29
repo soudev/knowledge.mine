@@ -178,6 +178,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Using Git in Enterprise environment | Programmers Stack Exchange](http://programmers.stackexchange.com/questions/96915/using-git-in-enterprise-environment)
 
+* [Easy Configuration of Git for Windows on a Corporate Network | Programmatic Ponderings](http://programmaticponderings.wordpress.com/2013/12/25/managing-git-proxy/)
+
 --
 
 * [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
