@@ -144,6 +144,8 @@
 
 * [DevOps: Presente, Futuro e Adoção](http://www.infoq.com/br/interviews/devops-presente-adocao-futuro) - entrevista sobre DevOps
 
+* [DevOps no mundo real](http://www.infoq.com/br/presentations/devops-mundo-real) - Muito se fala sobre ganhos e vantagens da adoção de um ambiente de operações ágil. Mas como aplicar e medir o sucesso de uma cultura colaborativa dentro de um ambiente de grande escala? Esta palestra explora fundamentos do que se convencionou chamar DevOps, a evolução da operação de sistemas e como a adoção de uma postura transparente e colaborativa traz vantagens para empresas de qualquer porte.
+
 * [Por que a nuvem irá acabar com soluções "Enterprise"](http://www.infoq.com/br/presentations/nuvem-ira-acabar-solucoes-enterprise) - O surgimento do Cloud Computing está levando a profundas mudanças nas práticas de desenvolvimento e na arquitetura de aplicações. As soluções Enterprise tradicionais se tornam pouco efetivas nesse contexto. Como as soluções Enterprise estão desaparecendo e por quê? Qual o novo modelo para as arquiteturas agora e para o futuro? São essas e outras questões que vamos analisar nessa palestra.
 
 * [Escalando o pé de feijão: estratégias open source para automação na nuvem](http://www.infoq.com/br/presentations/estrategias-open-source-automacao-nuvem) - Explorando estratégias que aproveitam a versatilidade dos ambientes de cloud para automatizar atividades de alta complexidade. Partindo de ferramentas open source como Jenkins e Chef, veremos como automatizar atividades para reduzir a dependência de provedores de infra e plataformas, melhorar ambientes, e implementar processos de deployment e delivery contínuos cada vez mais sofisticados.
