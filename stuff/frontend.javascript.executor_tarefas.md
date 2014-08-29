@@ -102,6 +102,8 @@
 
 * [[GitHub] gulpjs / gulp / docs / recipes / split-tasks-across-multiple-files.md](https://github.com/gulpjs/gulp/blob/master/docs/recipes/split-tasks-across-multiple-files.md) Split Gulp tasks into multiple files
 
+* [Small Sips of Gulp.js: 4 Steps to Reduce Complexity | Gaslight](https://teamgaslight.com/blog/small-sips-of-gulp-dot-js-4-steps-to-reduce-complexity)
+
 --
 
 * [Exploring A Generator For Gulp.js | Yeoman](http://yeoman.io/blog/gulp-explore.html)
