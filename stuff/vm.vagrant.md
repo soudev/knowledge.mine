@@ -32,6 +32,8 @@
 
   * [Vagrant | Erika Heidi](http://www.erikaheidi.com/vagrant/)
 
+* [[Speaker Deck] Portable Environments with Vagrant](https://speakerdeck.com/erikaheidi/portable-environments-with-vagrant) - (and Ansible) - LaraconEU 2014
+
 --
 
 * [Rove.io](http://rove.io/) - is a service that allows you to pregenerate typical Vagrant builds.
