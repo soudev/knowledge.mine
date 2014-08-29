@@ -180,6 +180,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Easy Configuration of Git for Windows on a Corporate Network | Programmatic Ponderings](http://programmaticponderings.wordpress.com/2013/12/25/managing-git-proxy/)
 
+* [Setting git to work behind NTLM-authenticated proxy: cntlm to the rescue | A place for spare thoughts](http://sparethought.wordpress.com/2012/12/06/setting-git-to-work-behind-ntlm-authenticated-proxy-cntlm-to-the-rescue/)
+
 --
 
 * [Why DVCS, git, Atlassian Stash? | AppFusions](http://www.appfusions.com/display/StashSCMImporter/Why+DVCS,+git,+and+Atlassian+Stash)
