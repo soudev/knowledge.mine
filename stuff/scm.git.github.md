@@ -436,6 +436,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Merging in a Pull Request](http://yuilibrary.com/yui/docs/tutorials/merge-pull-request/) - This tutorial is for developers who want to check out a Pull Request issued by another user. This is the workflow the YUI team follows to merge in Pull Requests to the YUI projects.
 
+* [Conduct a Git pull request on Visual Studio Online | Microsoft Application Lifecycle Management - Site Home - MSDN Blogs](http://blogs.msdn.com/b/visualstudioalm/archive/2014/06/10/git-pull-request-visual-studio-online.aspx)
+
 
 #### patch
 
