@@ -306,3 +306,8 @@
 -- 
 
 * [Hackety Hack](http://hackety.com/) -  will teach you the absolute basics of programming from the ground up. No previous programming experience is needed! With Hackety Hack, you'll learn the [Ruby programming language](https://www.ruby-lang.org/). Ruby is used for all kinds of programs, including desktop applications and websites.
+
+--
+
+* [Code Combat](http://codecombat.com/) - learn to code by playing a game
+
