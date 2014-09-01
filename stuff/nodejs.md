@@ -593,6 +593,10 @@
 
 * [[GitHub] chrisenytc / bloom](https://github.com/chrisenytc/bloom) - A module wrapper to encrypt and decrypt files with aes-256-cbc
 
+* [Crypton](https://crypton.io/) - is an application framework and backend service that enables developers to build privacy-centered, scalable mobile and desktop applications without the requirement of extensive security or cryptography knowledge
+
+  * [[GitHub] SpiderOak / crypton](https://github.com/SpiderOak/crypton/) - A framework for creating zero-knowledge web & mobile applications
+
 
 ### BitCoins
 
