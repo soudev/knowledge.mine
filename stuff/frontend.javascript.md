@@ -230,6 +230,8 @@
 
 * [Reaproveitando código com JavaScript: herança e protótipos | Caelum](http://blog.caelum.com.br/reaproveitando-codigo-com-javascript-heranca-e-prototipos/)
 
+* [Simple inheritance with JavaScript | Eternal Coding - MSDN Blogs](http://blogs.msdn.com/b/eternalcoding/archive/2014/08/20/simple-inheritance-with-javascript.aspx)
+
 --
 
 * [Topiarist: A JavaScript OO library featuring mixins, interfaces & multiple inheritance | BladeRunnerJS](http://bladerunnerjs.org/blog/topiarist/)
