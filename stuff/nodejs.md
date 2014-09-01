@@ -629,6 +629,8 @@
 
 * [[GitHub] williamwicks / litesocket](https://github.com/williamwicks/litesocket) - Realtime server events for Node.JS, using Server Sent Events (SSE)
 
+* [[GitHub] thibauts / node-castv2-client](https://github.com/thibauts/node-castv2-client) - A Chromecast client based on the new (CASTV2) protocol
+
 --
 
 * [Down.YT](http://down.yt/) - Direct Downloads From YouTube
