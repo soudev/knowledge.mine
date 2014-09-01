@@ -1,6 +1,7 @@
 # Front-End
 
 <!-- toc -->
+
 * [JavaScript](#javascript)
   * [Aprendizado](#aprendizado)
   * [OOP](#oop)
@@ -14,8 +15,6 @@
   * [Sistema de Dependências e Módulos](#sistema-de-dependências-e-módulos)
     * [Browserify](#browserify)
     * [Require.js](#requirejs)
-      * [Backbone.js](#backbonejs)
-      * [Angular.js](#angularjs)
   * [Qualidade de Código](#qualidade-de-código)
   * [Integração Contínua](#integração-contínua)
   * [Útil](#útil)
@@ -34,8 +33,6 @@
     * [Slush](#slush)
     * [Yeoman](#yeoman)
     * [DevTools](#devtools)
-      * [Firefox](#firefox)
-      * [Google Chrome](#google-chrome)
   * [Gerenciador de Pacotes](#gerenciador-de-pacotes)
     * [Bower](#bower)
     * [JamJS](#jamjs)
@@ -752,6 +749,18 @@
 * [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
 
 * [[GitHub] substack / browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
+
+
+##### Requireify
+
+* [RequireBin](http://requirebin.com/)
+
+* [[GitHub] johnkpaul / requireify](https://github.com/johnkpaul/requireify) - Browserify plugin to access all modules from browser console
+
+  * [Requirify | Google Chrome Extension](https://chrome.google.com/webstore/detail/requirify/gajpkncnknlljkhblhllcnnfjpbcmebm)
+
+* [[Gist] Require modules in the browser console](https://gist.github.com/mathisonian/c325dbe02ea4d6880c4e)
+
 
 
 #### Require.js
