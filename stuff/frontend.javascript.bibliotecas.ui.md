@@ -177,6 +177,8 @@
 
 * [One Mixin to rule them all | Front-end Development — Medium](https://medium.com/front-end-development-2/3885aadb3c1a)
 
+* [React Mixins By Example | Simble Studios](http://simblestudios.com/blog/development/react-mixins-by-example.html)
+
 * [React Components for Cat Videos | David and Suzi](http://davidandsuzi.com/react-components-for-cat-videos/)
 
 * [React Tutorial: Two way data binding | Void Canvas](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
