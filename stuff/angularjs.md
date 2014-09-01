@@ -1208,6 +1208,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
 
+* [AngularJS Filter for Ordering Objects (Hashes) with ngRepeat | Justin Klemm](http://justinklemm.com/angularjs-filter-ordering-objects-ngrepeat/)
+
+  * [[GitHub] fmquaglia / ngOrderObjectBy](https://github.com/fmquaglia/ngOrderObjectBy)
+
 * [Looking At How scope.$evalAsync() Affects Performance In AngularJS Directives | Ben Nadel](http://www.bennadel.com/blog/2635-looking-at-how-scope-evalasync-affects-performance-in-angularjs-directives.htm)
 
 --
