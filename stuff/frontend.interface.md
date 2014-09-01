@@ -77,6 +77,8 @@
 
 * [Web Components' spec](http://www.w3.org/TR/2013/WD-components-intro-20130606/)
 
+* [[GitHub] GoogleWebComponents / style-guide](https://github.com/GoogleWebComponents/style-guide) - Google Web Component Style Guide
+
 --
 
 * [Web Components - building blocks of the future web | Infinum](https://www.infinum.co/the-capsized-eight/articles/web-components-building-blocks-of-the-future-web)
