@@ -311,3 +311,4 @@
 
 * [Code Combat](http://codecombat.com/) - learn to code by playing a game
 
+* [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge
