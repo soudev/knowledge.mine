@@ -738,6 +738,8 @@
 
 * [Speedy Browserifying with Multiple Bundles | Lincoln Loop](http://lincolnloop.com/blog/speedy-browserifying-multiple-bundles/)
 
+* [[Speaker Deck] Browserify All The Things](https://speakerdeck.com/bevacqua/browserify-all-the-things) - This talk is about how to use browserify to develop front-end modular code using Common.JS, and how those modules should be documented, designed, and released using an automated build system. In order to explain these concepts I'll walk you through a few of my own open-source creations, highlighting interesting points as we go along. [2014/08/28]
+
 --
 
 * [Building High-Quality Front-End Modules | Pony Foo](http://blog.ponyfoo.com/2014/08/05/building-high-quality-front-end-modules)
