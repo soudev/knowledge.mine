@@ -312,3 +312,19 @@
 * [Code Combat](http://codecombat.com/) - learn to code by playing a game
 
 * [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge
+
+--
+
+* [Programming | GitBook](https://www.gitbook.io/explore/cat/programming)
+
+  * [Learn Markdown | GitBook](https://gitbookio.github.io/markdown/)
+
+  * [A Natureza do Código | GitBook](http://luizbills.gitbooks.io/a-natureza-do-codigo/) - O objetivo deste livro é simples. Queremos dar uma olhada em algo que ocorre naturalmente em nosso mundo físico, e então, determinar como podemos escrever um código para simular aquilo
+
+  * [Learn Javascript | GitBook](http://gitbookio.github.io/javascript/)
+
+  * [Survive JavaScript - a Web Developer's Guide](http://survivejs.com/)
+
+  * [Javascript Challenges](https://tcorral.github.io/javascript-challenges-book/) - This book will challenge you to learn and understand the most obscure and tricky parts of Javascript
+
+    * [[GitHub] tcorral / javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself to learn and understand the most obscure and tricky parts of Javascript

@@ -557,9 +557,11 @@
 
 --
 
-* [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) -  is a command line tool (and Node.js library) for building beautiful programming books and exercises using GitHub/Git and Markdown. 
+* [GitBook](https://www.gitbook.io/) - Modern Publishing, Simply taking your books from ideas to finished, polished books.
 
-  * [gitbook.io](http://www.gitbook.io/)
+  * [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) - Utility for generating books and exercises using GitHub/Git and Markdown
+
+  * [Documentation | GitBook](http://help.gitbook.io/)
 
   * [Learn Javascript](http://gitbookio.github.io/javascript/)
 

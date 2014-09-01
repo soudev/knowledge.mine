@@ -1,7 +1,7 @@
 # Sistemas de Controle de Versão : git-scm
 
-
 <!-- toc -->
+
 * [Git e GitHub](#git-e-github)
   * [Sobre](#sobre)
 * [Aprendizado](#aprendizado)
@@ -23,6 +23,7 @@
   * [Dicas: GitHub](#dicas-github)
     * [gh-pages](#gh-pages)
     * [Wiki](#wiki)
+    * [Livro online](#livro-online)
   * [Sistemas de Blog e Sites Estáticos](#sistemas-de-blog-e-sites-estáticos)
     * [Jekyll](#jekyll)
     * [Octopress](#octopress)
@@ -81,7 +82,9 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [git-scm: Pro Git book](http://git-scm.com/book/pt-br/) - livro online completo sobre git, em português
 
-  * [Learn Git](https://gitbookio.github.io/git/en/) - This is a GitBook version of the Scott Chacon's book: Pro Git.
+  * [Learn Git | GitBook](https://gitbookio.github.io/git/en/) - This is a GitBook version of the Scott Chacon's book: Pro Git
+
+  * [Git for Everyone | GitBook](http://anotheruiguy.gitbooks.io/gitforeveryone/) - The Git Workshop Guide
 
 * [Using Git | GitHub:Help](https://help.github.com/categories/19/articles)
 
@@ -515,6 +518,17 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 #### Wiki
 
 * [Adding a Table of Contents to your Github Wiki | BLACKBELT](http://blackbe.lt/github-wiki-sidebar-table-contents-header-footer/)
+
+
+#### Livro online
+
+* [GitBook](https://www.gitbook.io/) - Modern Publishing, Simply taking your books from ideas to finished, polished books.
+
+  * [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) - Utility for generating books and exercises using GitHub/Git and Markdown
+
+  * [Documentation | GitBook](http://help.gitbook.io/)
+
+  * [Learn Markdown | GitBook](https://gitbookio.github.io/markdown/)
 
 
 ### Sistemas de Blog e Sites Estáticos
