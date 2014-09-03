@@ -1773,6 +1773,14 @@ describe('testing something...', function() {
 
 --
 
+* [[JSFiddle] Angular unit tests - timeout, exception](http://jsfiddle.net/eitanp461/vWecL/)
+
+  * [$timeout | Angular API Reference](https://docs.angularjs.org/api/ng/service/$timeout)
+
+* [Testing Interceptor Headers in AngularJS | Josh Bavari's Ramblings](https://jbavari.github.io/blog/2014/06/20/testing-interceptor-headers-in-angularjs/)
+
+--
+
 * [Introduction to unit test: Directives | Angular Tips](http://angular-tips.com/blog/2014/06/introduction-to-unit-test-directives/)
 
 * [How To Test An AngularJS Directive | Newtriks LTD](http://newtriks.com/2013/04/26/how-to-test-an-angularjs-directive/)
