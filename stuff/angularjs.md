@@ -581,6 +581,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[Gist] Difference between Service, Factory and Provider in AngularJS](https://gist.github.com/Mithrandir0x/3639232)
 
+* [Differences Between Providers in AngularJS | Xebia Blog](http://blog.xebia.com/2013/09/01/differences-between-providers-in-angularjs/)
+
 * [Service Providers in AngularJS and Logger Implementation | Web Development is Easy!](http://www.webdeveasy.com/service-providers-in-angularjs-and-logger-implementation/)
 
   * [[GitHub] naorye / angular-ny-logger](https://github.com/naorye/angular-ny-logger) - AngularJS Logger service provider
