@@ -1767,6 +1767,8 @@
 
 * [Stand-up: Developing a node.js application using Monaco (Part 1) | Visual Studio Online "Monaco"](http://blogs.msdn.com/b/monaco/archive/2014/03/27/stand-up-developing-a-node-js-application-using-monaco-part-1.aspx)
 
+* [Introducing Gulp, Grunt, Bower, and npm support for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmSupportForVisualStudio.aspx)
+
 
 #### Eclipse IDE
 
