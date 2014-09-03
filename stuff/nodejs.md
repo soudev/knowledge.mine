@@ -361,6 +361,8 @@
 
   * [[GitHub] sindresorhus / grunt-pageres](https://github.com/sindresorhus/grunt-pageres) - Responsive website screenshots
 
+* [[GitHub] fouber / page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs
+
 --
 
 * [[GitHub] MatthewMueller / cheerio](https://github.com/MatthewMueller/cheerio)
