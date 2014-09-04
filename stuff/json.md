@@ -1,14 +1,17 @@
 # JSON
 
 <!-- toc -->
+
 * [Visão Geral](#visão-geral)
 * [GeoJSON](#geojson)
+* [JWT](#jwt)
 * [Base de Dados](#base-de-dados)
   * [Google SpreadSheet](#google-spreadsheet)
 * [Sockets](#sockets)
 * [Ferramentas](#ferramentas)
 
 <!-- toc stop -->
+
 
 ## Visão Geral
 
@@ -56,6 +59,23 @@
 * [GeoJSON Previewing | GitHub Blog](https://github.com/blog/1638-geojson-previewing)
 
 * [[GitHub] mbostock / topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology.
+
+
+## JWT 
+
+* [JWT - JSON Web Token](http://jwt.io/)
+
+  * [draft-ietf-oauth-json-web-token-25 - JSON Web Token (JWT)](https://tools.ietf.org/html/draft-ietf-oauth-json-web-token-25)
+
+* [JSON Web Token: The Useful Little Standard You Haven't Heard About | Intridea Blog](http://www.intridea.com/blog/2013/11/7/json-web-token-the-useful-little-standard-you-haven-t-heard-about)
+
+* [Understanding JWT | Atlassian Connect Documentation](https://developer.atlassian.com/static/connect/docs/concepts/understanding-jwt.html)
+
+* [Json Web Tokens: Introduction | Angular Tips](http://angular-tips.com/blog/2014/05/json-web-tokens-introduction/)
+
+--
+
+* [[GitHub] auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
 
 
 ## Base de Dados
