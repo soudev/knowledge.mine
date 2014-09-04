@@ -134,6 +134,8 @@
 
 * [Tools for image optimization | AddyOsmani.com](http://addyosmani.com/blog/image-optimization-tools/)
 
+* [Otimização de imagens | Hugo Bessa](http://www.hugobessa.com.br/posts/otimizacao-de-imagens/)
+
 
 ### Icon
 
