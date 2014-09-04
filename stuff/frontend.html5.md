@@ -874,6 +874,8 @@
 
 * [Palestra : HTML5 offline e Application Cache | Sérgio Lopes](http://sergiolopes.org/palestra-appcache-html5-offline/)
 
+* [AppCache, manifest, mundo offline e ServiceWorker | Eduardo Matos](http://eduardomatos.me/appcache-manifest-e-serviceworker-as-partes-boas-e-ruins/)
+
 * [Building Offline Experiences with HTML5 AppCache and IndexedDB | IEBlog](http://blogs.msdn.com/b/ie/archive/2011/09/27/building-offline-experiences-with-html5-appcache-and-indexeddb.aspx)
 
 * [Criação de experiências offline com AppCache e IndexedDB | MSDN Br](http://msdn.microsoft.com/pt-br/library/jj983447.aspx)
