@@ -44,6 +44,8 @@
 
 * [[Gist] hdragomir / sm-annotated.html](https://gist.github.com/hdragomir/8f00ce2581795fd7b1b7) - The deferred font loading logic for [Smashing Magazine](http://www.smashingmagazine.com/)
 
+* [Add Rules to Stylesheets with JavaScript | David Walsh Blog](http://davidwalsh.name/add-rules-stylesheets)
+
 --
 
 * [Detecting CSS Style Support | Ryan Morr](http://ryanmorr.com/detecting-css-style-support/)
