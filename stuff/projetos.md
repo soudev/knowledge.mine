@@ -7,6 +7,7 @@
   * [GTD - Getting Things Done](#gtd-getting-things-done)
   * [Atomic Design](#atomic-design)
   * [DevOps](#devops)
+  * [Gamification](#gamification)
 * [ALM](#alm)
   * [IBM](#ibm)
 * [Scrum](#scrum)
@@ -81,6 +82,17 @@
 * [Why DevOps Matters To Developers | Contino](http://contino.co.uk/why-devops-matters-to-developers/)
 
 * [DevOps Is Great for The Enterprise, More So Than Startups! | Contino](http://contino.co.uk/devops-great-for-enterprise/)
+
+
+### Gamification
+
+* [Gamification | wikipedia en](https://en.wikipedia.org/wiki/Gamification)
+
+* [Livro Gamification](http://www.livrogamification.com.br/)
+
+* [Gamification | Coursera](https://www.coursera.org/course/gamification)
+
+* [Os melhores aplicativos que utilizam gamification | Catarinas Design de Interação](http://catarinasdesign.com.br/blog/2014/09/os-melhores-aplicativos-que-utilizam-gamification/)
 
 
 ## ALM
