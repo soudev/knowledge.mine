@@ -243,6 +243,18 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [[StackOverflow] Git - how to revert uncommitted changes including files and folders?](https://stackoverflow.com/questions/5807137/git-how-to-revert-uncommitted-changes-including-files-and-folders/5812972#5812972)
+
+```bash
+# Revert changes to modified files.
+git reset --hard
+
+# Remove all untracked files and directories.
+git clean -fd
+```
+
+--
+
 * [[GitHub] zeke / ghwd](https://github.com/zeke/ghwd) - Open the github URL that matches your shell's current branch and working directory | mac and linux terminal utils
 
 --
