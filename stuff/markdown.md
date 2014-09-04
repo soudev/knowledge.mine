@@ -13,6 +13,8 @@
 
 ## Visão Geral
 
+* [Standard Markdown](http://standardmarkdown.com/)
+
 * [John Gruber's original spec](http://daringfireball.net/projects/markdown/)
 
 * [John Gruber's Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax)
