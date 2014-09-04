@@ -343,6 +343,12 @@
 
 --
 
+* [Windows and Node: Addons | DailyJS](http://dailyjs.com/2012/05/17/windows-and-node-3/)
+
+  * [Addons | Nodejs API](http://nodejs.org/docs/latest/api/all.html#all_addons) - use C or C++ libraries. Node modules may include both addons and JavaScript code.
+
+--
+
 * [Node Console](http://www.node-console.com/script/code) - test node.js apps online
 
 * [[GitHub] MatthewMueller / coderunner](https://github.com/matthewmueller/coderunner) - Run server-side code quickly and securely in the browser
