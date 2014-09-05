@@ -161,6 +161,8 @@
 
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
 
+  * [React Components](http://react-components.com/)
+
 * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
 
 * [Intro to the React Framework | Development – Tuts+](http://dev.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
