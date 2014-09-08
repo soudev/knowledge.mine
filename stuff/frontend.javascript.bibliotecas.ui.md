@@ -308,6 +308,8 @@
 
 * [[GitHub] almende / vis](https://github.com/almende/vis/) - Dynamic, browser-based visualization library
 
+  * [Vis.js](http://visjs.org/) - is a dynamic, browser based visualization library. The library is designed to be easy to use, to handle large amounts of dynamic data, and to enable manipulation of and interaction with the data. The library consists of the components DataSet, Timeline, Network, Graph2d, and Graph3d.
+
 * [[GitHub] jdonaghue / loupe](https://github.com/jdonaghue/loupe) - A pure JavaScript data visualization library
 
   * [Introducing Loupe | Spectacle Labs Blog](http://spectaclelabs.io/blog/2013/09/20/introducing-loupe/)
