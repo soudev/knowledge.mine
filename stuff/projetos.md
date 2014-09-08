@@ -94,6 +94,10 @@
 
 * [Os melhores aplicativos que utilizam gamification | Catarinas Design de Interação](http://catarinasdesign.com.br/blog/2014/09/os-melhores-aplicativos-que-utilizam-gamification/)
 
+* [Entenda como funciona a gamificação nas empresas | Olhar Digital](http://olhardigital.uol.com.br/video/entenda-como-funciona-a-gamificacao-nas-empresas/43964)
+
+  * Game visto na reportagem: [Wannadoo | Opushere](http://opusphere.com/wannadoo/)
+
 
 ## ALM
 
