@@ -1330,6 +1330,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[YouTube] AngularJS & D3: Directives for Visualizations](https://www.youtube.com/watch?v=aqHBLS_6gF8) - 2014/01/22
 
+* [[GitHub] vicapow / angular-d3-talk](https://github.com/vicapow/angular-d3-talk) - Visualizing data with Angular and D3 
+
 * [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
 
 * [Creating D3.js Charts using AngularJS Directives | Cloudspace](http://cloudspace.com/blog/2014/03/25/creating-d3.js-charts-using-angularjs-directives/) - 2014/03/25
