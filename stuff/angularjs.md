@@ -1425,10 +1425,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] flowjs / ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on angular.js framework
 
-* [[GitHub] pablojim / highcharts-ng](https://github.com/pablojim/highcharts-ng) - AngularJS directive for Highcharts
-
-* [[GitHub] bielversallini / ng-highcharts](https://github.com/bielversallini/ng-highcharts) - Angular Directive for Highcharts
-
 * [[GitHub] nimbly / angular-formly](https://github.com/nimbly/angular-formly) - AngularJS directive which takes JSON representing a form and renders to HTML
 
 * [[GitHub] mchapman / forms-angular](https://github.com/mchapman/forms-angular) - Probably the most opinionated framework in the world
@@ -1499,9 +1495,21 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Módulos de Gráficos
 
-* [n3-charts.line-chart](http://angular-d3.github.io/line-chart/) - Awesome charts for AngularJS, powered by D3.js.
-
 * [[GitHub] Schweigi / angular-gantt](https://github.com/schweigi/angular-gantt/) - A Gantt chart directive for Angular.js without any other dependencies
+
+* d3.js
+
+  * [[GitHub] chinmaymk / angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3
+
+  * [[GitHub] WealthBar / angular-d3](https://github.com/WealthBar/angular-d3) - AngularJS directives for declaratively using D3
+
+  * [[GitHub] cmaurer / angularjs-nvd3-directives](https://github.com/cmaurer/angularjs-nvd3-directives) - Angular.js directives for nvd3.js
+
+* highcharts
+
+  * [[GitHub] pablojim / highcharts-ng](https://github.com/pablojim/highcharts-ng) - AngularJS directive for Highcharts
+
+  * [[GitHub] bielversallini / ng-highcharts](https://github.com/bielversallini/ng-highcharts) - Angular Directive for Highcharts
 
 
 ### Módulos de UI
