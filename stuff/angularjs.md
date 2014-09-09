@@ -1511,6 +1511,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * d3.js
 
+  * [[GitHub] novus / nvd3](https://github.com/novus/nvd3) - Re-usable charts for d3.js
+
   * [[GitHub] chinmaymk / angular-charts](https://github.com/chinmaymk/angular-charts) - angular directives for creating common charts using d3
 
   * [[GitHub] WealthBar / angular-d3](https://github.com/WealthBar/angular-d3) - AngularJS directives for declaratively using D3
