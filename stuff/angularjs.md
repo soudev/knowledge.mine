@@ -1512,6 +1512,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] cmaurer / angularjs-nvd3-directives](https://github.com/cmaurer/angularjs-nvd3-directives) - Angular.js directives for nvd3.js
 
+  * [[GitHub] n3-charts](https://github.com/n3-charts) - Making AngularJS charts as easy as pie
+
+    * [[GitHub] n3-charts / pie-chart](https://github.com/n3-charts/pie-chart) - Yummy pies and donuts for AngularJS
+
+    * [[GitHub] n3-charts / line-chart](https://github.com/n3-charts/line-chart) - Awesome charts for AngularJS
+
 * highcharts
 
   * [[GitHub] pablojim / highcharts-ng](https://github.com/pablojim/highcharts-ng) - AngularJS directive for Highcharts
