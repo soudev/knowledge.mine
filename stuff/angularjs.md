@@ -49,6 +49,7 @@
     * [Visual Studio](#visual-studio)
 * [Componentes](#componentes)
   * [Diretivas](#diretivas)
+  * [Diretivas d3.js](#diretivas-d3js)
   * [Web Components](#web-components)
 * [Filters](#filters)
 * [Módulos](#módulos)
@@ -1326,6 +1327,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 
 ### Diretivas d3.js
+
+* [[YouTube] AngularJS & D3: Directives for Visualizations](https://www.youtube.com/watch?v=aqHBLS_6gF8) - 2014/01/22
 
 * [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
 
