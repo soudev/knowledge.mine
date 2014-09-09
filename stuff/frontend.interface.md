@@ -103,6 +103,10 @@
 
 * [Getting Started with Web Components | Tech.Pro](http://tech.pro/blog/1940/getting-started-with-web-components)
 
+* [Join the Web Components revolution with Polymer | IBM developerWorks](http://www.ibm.com/developerworks/library/wa-polymer/)
+
+* [Create reusable custom web components with Polymer | IBM developerWorks](http://www.ibm.com/developerworks/library/wa-polymer-app/index.html)
+
 --
 
 * [Why Web Components Are Ready For Production | Telerik Developer Network](http://developer.telerik.com/featured/web-components-ready-production/)
