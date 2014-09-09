@@ -1304,12 +1304,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Dealing with focus and blur in AngularJS directives | Miroslav Magda's blog](http://blog.ejci.net/2013/08/06/dealing-with-focus-and-blur-in-angularjs-directives/)
 
-* [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
-
-* [Creating Custom D3 Directives in AngularJS | delimited](http://www.delimited.io/blog/2014/7/16/d3-directives-in-angularjs)
-
-* [Angularjs-nvd3-directives](http://cmaurer.github.io/angularjs-nvd3-directives/index.html) - Angular.js directives for nvd3.js
-
 --
 
 * [Use Cases of AngularJS Directives | Web Development blog](http://blog.brunoscopelliti.com/use-cases-of-angularjs-directives)
@@ -1329,6 +1323,19 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [[GitHub] jonniespratley / ng-chartjs-directive](https://github.com/jonniespratley/ng-chartjs-directive) - This is a AngularJS directive for creating charts with ChartJS
 
   * [[plunkr] ng-chartjs-directive example](http://embed.plnkr.co/QE2TLfiS9zabrTRKM0Vr/preview)
+
+
+### Diretivas d3.js
+
+* [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
+
+* [Creating D3.js Charts using AngularJS Directives | Cloudspace](http://cloudspace.com/blog/2014/03/25/creating-d3.js-charts-using-angularjs-directives/) - 2014/03/25
+
+* [Creating Custom D3 Directives in AngularJS | delimited](http://www.delimited.io/blog/2014/7/16/d3-directives-in-angularjs) - 2014/07/16
+
+* [AngularJS + D3 : Implementierung einer WordCloud-Direktive | AngularJS.DE](http://angularjs.de/artikel/angularjs-d3-wordcloud)
+
+  * [[GitHub] robinboehm / angular-d3-directives](https://github.com/robinboehm/angular-d3-directives)
 
 
 ### Web Components
