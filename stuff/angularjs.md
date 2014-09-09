@@ -154,6 +154,8 @@ O AngularJS é um conjunto de ferramentas, para construir um framework mais adeq
 
 * [Why Angular.js?](http://jeffwhelpley.com/angularjs/) - 2014/06/09
 
+* [Why Choose AngularJS for Your Next App? | Algoworks](http://www.algoworks.com/blog/angularjs-for-your-next-app/) - 2014/07/31
+
 --
 
 * [3 Reasons to Choose AngularJS for Your Next Project | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/3-reasons-to-choose-angularjs-for-your-next-project/)
