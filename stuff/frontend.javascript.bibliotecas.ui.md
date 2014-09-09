@@ -203,6 +203,10 @@
 
 --
 
+* [D3 and React - the future of charting components? | the Binary blog](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
+
+--
+
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 * [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React
