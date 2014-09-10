@@ -106,6 +106,10 @@
 
 --
 
+* [From make to Gulp | Sascha Depold](http://blog.depold.com/farewell-make-hello-gulp/)
+
+--
+
 * [Exploring A Generator For Gulp.js | Yeoman](http://yeoman.io/blog/gulp-explore.html)
 
 * [Getting gulpy | Medium](https://medium.com/p/a2010c13d3d5) - Advanced tips for using gulp.js
