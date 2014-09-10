@@ -740,6 +740,8 @@
 
 * [[Speaker Deck] Browserify All The Things](https://speakerdeck.com/bevacqua/browserify-all-the-things) - This talk is about how to use browserify to develop front-end modular code using Common.JS, and how those modules should be documented, designed, and released using an automated build system. In order to explain these concepts I'll walk you through a few of my own open-source creations, highlighting interesting points as we go along. [2014/08/28]
 
+* [[YouTube] Nicolas Bevacqua - Browserify all the things](https://www.youtube.com/watch?v=uZ_1_fddWns) - Using Browserify to develop front-end modular code using CommonJS; Writing tests for browserified code using 'tap'; Using Testling to run tests in the browser locally, and bringing that to the cloud by setting up continuous integration with Browserling. [2014/09/02]
+
 --
 
 * [Building High-Quality Front-End Modules | Pony Foo](http://blog.ponyfoo.com/2014/08/05/building-high-quality-front-end-modules)
