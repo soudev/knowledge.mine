@@ -90,6 +90,10 @@
 
 --
 
+* [Understanding the key differences between LXC and Docker | Flockport](http://www.flockport.com/lxc-vs-docker/)
+
+--
+
 * [As baleias na Nuvem: entenda como funciona o Docker | iMasters](http://imasters.com.br/infra/linux/baleias-na-nuvem-entenda-como-funciona-o-docker/)
 
 --
