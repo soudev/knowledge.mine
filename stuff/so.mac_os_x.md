@@ -59,7 +59,8 @@
 
 >
 > Dica: antes de iniciar a instalação do SO, formate o SSD no padrão: `Mac OS Extended (Journaled)`
-> Lembre-se: crie um nome, por exemplo: `Mac SSD`
+>
+> Lembre-se: crie um nome, por exemplo: `Macintosh SSD`
 >
 
 * [Dobre a performance do seu Mac fazendo um upgrade de SSD | MacMagazine](http://macmagazine.com.br/2014/09/06/dobre-a-performance-do-seu-mac-fazendo-um-upgrade-de-ssd/) - 2014/09/06
