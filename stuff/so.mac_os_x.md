@@ -1,9 +1,14 @@
 # Mac OS X
 
 
+
+
 <!-- toc -->
+
 * [Dicas](#dicas)
 * [Mavericks](#mavericks)
+* [HDD para SSD](#hdd-para-ssd)
+* [Trocar o DVD por um segundo HD](#trocar-o-dvd-por-um-segundo-hd)
 * [Colors](#colors)
 * [dotFiles](#dotfiles)
 * [Setup](#setup)
@@ -15,6 +20,7 @@
 * [Desenvolvimento](#desenvolvimento)
 
 <!-- toc stop -->
+
 
 
 ## Dicas
@@ -46,9 +52,25 @@
 
 * [Everything You Need to Know About OS X Mavericks | Mac.AppStorm](http://mac.appstorm.net/reviews/os-x-reviews/everything-you-need-to-know-about-os-x-mavericks/)
 
+* [Command Line Tools on OSX Mavericks | Marcos Junior](http://webmarcos.net/2013/11/20/command-line-tools-on-osx-mavericks/)
+
 * [Como criar um pendrive de instalação do OS X Mavericks | Meio Bit](http://meiobit.com/270071/como-instalar-os-x-mavericks-atraves-do-pendrive-usb/)
 
-* [Command Line Tools on OSX Mavericks | Marcos Junior](http://webmarcos.net/2013/11/20/command-line-tools-on-osx-mavericks/)
+* [How to Create an OS X Mavericks USB Installation Drive | Lifehacker](http://lifehacker.com/how-to-create-an-os-x-mavericks-usb-installation-drive-1450280026)
+
+
+## HDD para SSD
+
+* [Dobre a performance do seu Mac fazendo um upgrade de SSD | MacMagazine](http://macmagazine.com.br/2014/09/06/dobre-a-performance-do-seu-mac-fazendo-um-upgrade-de-ssd/) - 2014/09/06
+
+
+## Trocar o DVD por um segundo HD
+
+* [Unibody Laptop Dual Drive | iFixit](https://www.ifixit.com/Store/Mac/Unibody-Laptop-Dual-Drive/IF107-080)
+
+* [[YouTube] Mac Book Pro - Second Hard Drive Install Tutorial DIY](https://www.youtube.com/watch?v=dSwIoSnz7aY) - In this video we take out the Optical hard drive in my macbook pro (2011 Coire i5) And Replace it with a 1 TB hard drive. We do this by adding a caddie in place of the optical Hard drive. [2013/08/01]
+
+  * [Universal Macbook Hard drive Caddie | Amazon](http://amzn.com/B004FM4UGE)
 
 
 ## Colors
