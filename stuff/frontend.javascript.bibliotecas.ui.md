@@ -205,6 +205,8 @@
 
 * [D3 and React - the future of charting components? | the Binary blog](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
+* [Integrating D3.js visualizations in a React app | Nicolas Hery](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
+
 --
 
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
