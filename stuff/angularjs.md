@@ -854,6 +854,20 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS, Browserify and Grunt | dontkry.com](http://dontkry.com/posts/code/angular-browserify-grunt.html) - 2013/08/29
+
+* [Angular And Browserify | Coding Blog](http://ethanway.com/angular-and-browserify/) - 2013/12/07
+
+* [AngularJS with Browserify | Ben Clinkinbeard](http://benclinkinbeard.com/talks/2014/ng-conf/) - ng-conf 2014 
+
+* [Towards atomic AngularJS components with Browserify | Ben Clinkinbeard](http://benclinkinbeard.com/posts/towards-atomic-angularjs-components-with-browserify/) - 2014/02
+
+* [Let's build: An AngularJS app with Browserify and Gulp | Mindthecode](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/) - 2014/05/05
+
+* [AngularJS And Browserify - The Dream Team For Single Page Applications | codecentric](https://blog.codecentric.de/en/2014/08/angularjs-browserify/) - 2014/08/18
+
+--
+
 * [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
 
 * [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
