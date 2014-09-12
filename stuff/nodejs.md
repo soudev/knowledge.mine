@@ -381,6 +381,8 @@
 
   * [[GitHub] ruipgil / scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper
 
+* [[GitHub] inikulin / ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing. The easy way.
+
 * [[GitHub] addyosmani / oust](https://github.com/addyosmani/oust) - Extract URLs to stylesheets, scripts, links, images or HTML imports from HTML
 
 --
