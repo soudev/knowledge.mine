@@ -495,6 +495,8 @@
 
 * [Ditch the [].forEach.call(NodeList) hack | toddmotto](http://toddmotto.com/ditch-the-array-foreach-call-nodelist-hack/)
 
+* [Combining JS Arrays | David Walsh](http://davidwalsh.name/combining-js-arrays)
+
 --
 
 * [Understanding recursion in functional JavaScript programming | Integralist BBC News Engineer](http://www.integralist.co.uk/posts/understanding-recursion-in-functional-javascript-programming/)
@@ -1252,6 +1254,8 @@
 
     * [part 1: the Web Console and the JavaScript Debugger](https://hacks.mozilla.org/2013/09/reintroducing-the-firefox-developer-tools-part-1-the-web-console-and-the-javascript-debugger/)
 
+* [Firefox Add-on Enables Web Development Across Browsers and Devices | Mozilla Hacks](https://hacks.mozilla.org/2014/09/firefox-tools-adapter/)
+
 
 ##### Google Chrome
 
@@ -1484,4 +1488,8 @@
 * [Get ready for ECMAScript 6 | K33G_ORG's Blog](https://k33g.github.io/2014/06/26/ES6-READY.html)
 
 * [An introduction to ES6 classes | JavaScript Playground](http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/)
+
+--
+
+* [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
 
