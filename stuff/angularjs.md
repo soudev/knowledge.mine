@@ -1557,6 +1557,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] WealthBar / angular-d3](https://github.com/WealthBar/angular-d3) - AngularJS directives for declaratively using D3
 
+  * [[GitHub] krispo / angular-nvd3](https://github.com/krispo/angular-nvd3) - An AngularJS directive for NVD3 reusable charting library (based on D3). Easily customize your charts via JSON API
+
   * [[GitHub] cmaurer / angularjs-nvd3-directives](https://github.com/cmaurer/angularjs-nvd3-directives) - Angular.js directives for nvd3.js
 
   * [[GitHub] n3-charts](https://github.com/n3-charts) - Making AngularJS charts as easy as pie
