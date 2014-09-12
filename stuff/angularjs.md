@@ -1899,6 +1899,12 @@ describe('testing something...', function() {
   
   * [Protractor for AngularJS: writing end-to-end test has never been so fun](http://ramonvictor.github.io/protractor/slides/#/) - A step-by-step presentaion on Protractor End-to-End Testing for AngularJS
 
+  * [Protractor vs. Selenium: Battle of the Frameworks | Applitools Eyes](http://testautomation.applitools.com/post/94994807787/protractor-vs-selenium-battle-of-the-frameworks) - 2014/08/17
+
+  * [Protractor - Testing Angular and Non Angular Sites | ng-learn.org](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/) - 2014/02/12
+
+  * [[StackOverflow] how to use Protractor on non angularjs website?](https://stackoverflow.com/questions/20927652/how-to-use-protractor-on-non-angularjs-website)
+
 --
 
 * [[GitHub] decipherinc / angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps
