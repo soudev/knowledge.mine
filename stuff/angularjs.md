@@ -680,6 +680,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* one way data binding
+
+  * [Angular 1.2.x One-Way data-binding | Igor Costa](http://www.igorcosta.com/angular-1-2-x-one-way-data-binding/)
+
+--
+
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
 * [Using React for Faster Renders and Isomosphism in Angular | David and Suzi](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
