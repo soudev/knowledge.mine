@@ -672,11 +672,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Group and Display Data with Underscore and AngularJS | OdeToCode](http://odetocode.com/blogs/scott/archive/2013/08/08/group-and-display-data-with-underscore-and-angularjs.aspx)
 
-* [Displaying json array data with AngularJS and ng-grid | Genlinux.rb](http://www.genlinux.org/2013/08/displaying-json-array-data-with-angular.html)
-
 * [Breaking the Ice with AngularUI Utils | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-utils.html) - creditcard parsing, custom events, maps, and an easter egg
 
 * [Understanding Angular's Magic: Don't Bind to Primitives | The Code Dump](http://www.codelord.net/2014/05/10/understanding-angulars-magic-dont-bind-to-primitives/)
+
+--
+
+* [Displaying json array data with AngularJS and ng-grid | Genlinux.rb](http://www.genlinux.org/2013/08/displaying-json-array-data-with-angular.html)
+
+* [AngularJS - CRUD Grid | Juan Carlos Sanchez](http://softwarejuancarlos.com/2014/09/09/angularjs-crud-grid/)
 
 --
 
