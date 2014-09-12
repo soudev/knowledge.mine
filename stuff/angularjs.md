@@ -293,7 +293,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Learn AngularJS this Weekend | @jhooks](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
 
-* [A Better Way to Learn AngularJS | Thinkster](http://www.thinkster.io/pick/51d287681e4b9c9098000013/a-better-way-to-learn-angularjs)
+* [A Better Way to Learn AngularJS | Thinkster](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
 
 * [AngularJS Tutorial: Learn to build modern web apps | Thinkster](http://www.thinkster.io/pick/GUIDJbpIie/)
 
