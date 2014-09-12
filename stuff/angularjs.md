@@ -327,6 +327,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular.js : Advanced Design Patterns and Best Practices](http://trochette.github.io/Angular-Design-Patterns-Best-Practices/)
 
+* [5 AngularJS Antipatterns & Pitfalls | nathan leclaire](http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/) - 2014/04/19
+
+--
+
 * [A small introduction to AngularJS : data-binding, IoC/DI, directives](http://derkoe.github.io/presentations/angularjs-intro/)
 
 * [Use AngularJS to power your web application | Year of Moo](http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html)
