@@ -9,6 +9,7 @@
   * [DevOps](#devops)
   * [Gamification](#gamification)
 * [ALM](#alm)
+  * [Open Source](#open-source)
   * [IBM](#ibm)
 * [Scrum](#scrum)
 * [Estimativa](#estimativa)
@@ -100,6 +101,15 @@
 
 
 ## ALM
+
+### Open Source
+
+* [Tools Cloud](http://toolscloud.com/) - Open Source Development Environment in the Cloud. A flexible, managed development environment for growing development groups of any size.
+
+* [Ano Novo, Projeto Novo](http://anonovoprojetonovo.com/) - Sua equipe e seus projetos nas nuvens em 2014
+
+  * [Vídeo 1: Nuvem & Open Source]
+
 
 ### IBM
 
