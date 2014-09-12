@@ -848,6 +848,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Require.js packages for building large scale angular applications | Jonathan Creamer](http://jonathancreamer.com/require-js-packages-for-building-large-scale-angular-applications/)
+
+  * [[GitHub] jcreamer898 / requirejs-angular-starter](https://github.com/jcreamer898/requirejs-angular-starter) - Get started with large scale angular applications and require.js
+
+--
+
 * [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
 
 * [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
