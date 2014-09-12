@@ -108,7 +108,7 @@
 
 * [Ano Novo, Projeto Novo](http://anonovoprojetonovo.com/) - Sua equipe e seus projetos nas nuvens em 2014
 
-  * [Vídeo 1: Nuvem & Open Source]
+  * [Vídeo 1: Nuvem & Open Source](http://anonovoprojetonovo.com/video1/)
 
 
 ### IBM
