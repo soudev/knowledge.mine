@@ -275,6 +275,8 @@
 
 --
 
+* [Programaê!](http://programae.org.br/) - plataforma gratuita e funciona como um hub de incentivo ao aprendizado de programação.
+
 * [Code Academy](http://www.codecademy.com/) | [pt-Br](http://www.codecademy.com/pt-BR)
 
 * [Code.org - Anybody can learn code](http://code.org)
