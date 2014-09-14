@@ -70,6 +70,8 @@
 
 --
 
+* [Learning Gulp: Getting Started with The Front End Factory](http://hmphry.com/gulp/)
+
 * [[YouTube] Gulp - The Basics](https://www.youtube.com/watch?v=dwSLFai8ovQ)
 
   * [[GitHub] CaryLandholt / tutorial-gulp-the-basics](https://github.com/CaryLandholt/tutorial-gulp-the-basics)
