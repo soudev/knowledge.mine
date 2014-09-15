@@ -302,6 +302,14 @@
 
 * [[GitHub] skynetim / skynet](https://github.com/skynetim/skynet) - Machine-to-machine instant messaging platform for the internet of things
 
+--
+
+* [Straw](http://strawjs.com/) - Realtime processing dataflow framework for Node.js
+
+  * [[GitHub] simonswain / straw](https://github.com/simonswain/straw)
+
+--
+
 * [[GitHub] fent / node-ytdl](https://github.com/fent/node-ytdl) - Pure Javascript youtube video downloader
 
 * [[GitHub] leetreveil / node-musicmetadata](https://github.com/leetreveil/node-musicmetadata) - Streaming music metadata parser for node, written in pure Javascript
