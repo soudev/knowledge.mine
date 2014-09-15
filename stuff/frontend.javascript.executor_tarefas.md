@@ -259,6 +259,8 @@
 
 * [[GitHub] boennemann / grunt-semantic-release](https://github.com/boennemann/grunt-semantic-release) - Using this plugin it is possible to release a new version with just `grunt release`
 
+  * [Essential Tooling for a Small Modules World: Bringing Back the Excitement of Software Releases with grunt-semantic-release | Hoodie-Blog](http://blog.hood.ie/2014/09/semantic-releases/)
+
 --
 
 * [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
