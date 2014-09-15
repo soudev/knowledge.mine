@@ -255,6 +255,12 @@
 
 --
 
+* [[GitHub] vojtajina / grunt-bump](https://github.com/vojtajina/grunt-bump) - Grunt.js plugin - Increment package version
+
+* [[GitHub] boennemann / grunt-semantic-release](https://github.com/boennemann/grunt-semantic-release) - Using this plugin it is possible to release a new version with just `grunt release`
+
+--
+
 * [[GitHub] jgallen23 / grunt-inline-css](https://github.com/jgallen23/grunt-inline-css) - Grunt task for turning an html file with linked css to inline css. Great for emails.
 
 * [[GitHub] terrykingcha / grunt-depconcat](https://github.com/terrykingcha/grunt-depconcat) - Concat depended files
