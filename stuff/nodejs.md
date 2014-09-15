@@ -1,6 +1,7 @@
 # Node.js
 
 <!-- toc -->
+
 * [Visão Geral](#visão-geral)
 * [Sites Oficiais](#sites-oficiais)
 * [Aprendizado](#aprendizado)
@@ -10,9 +11,7 @@
 * [Projetos Interessantes](#projetos-interessantes)
   * [Desenvolvimento](#desenvolvimento)
     * [Configuração do Ambiente](#configuração-do-ambiente)
-      * [dotFiles: Mac OS X config](#dotfiles-mac-os-x-config)
     * [Exemplos](#exemplos)
-      * [Boilerplate](#boilerplate)
   * [Código](#código)
     * [Performance, Proteção e Otimização](#performance-proteção-e-otimização)
     * [Análise](#análise)
@@ -58,18 +57,16 @@
   * [CORS](#cors)
   * [Armazenamento](#armazenamento)
   * [Virtualização](#virtualização)
+    * [Vagrant](#vagrant)
     * [Docker](#docker)
   * [Nuvem](#nuvem)
     * [Pessoal](#pessoal)
     * [Amazon AWS](#amazon-aws)
-      * [Amazon S3](#amazon-s3)
     * [Windows Azure](#windows-azure)
   * [Mobile](#mobile)
     * [iOS](#ios)
   * [Desktop](#desktop)
     * [Node Webkit](#node-webkit)
-      * [node-webkit: exemplos](#node-webkit-exemplos)
-      * [node-webkit: Aplicações e Empresas que utilizam](#node-webkit-aplicações-e-empresas-que-utilizam)
   * [Modulos e Frameworks](#modulos-e-frameworks)
     * [Socket.io](#socketio)
     * [Connect](#connect)
@@ -83,6 +80,7 @@
   * [Test Runner](#test-runner)
 
 <!-- toc stop -->
+
 
 ## Visão Geral
 
@@ -1476,6 +1474,10 @@
 
 
 ### Virtualização
+
+#### Vagrant
+
+* [[GitHub] Dev-Dipesh / Vagrant-Ansible-NewRelic-setup-for-Node.Js-on-both-Windows-and-Linux](https://github.com/Dev-Dipesh/Vagrant-Ansible-NewRelic-setup-for-Node.Js-on-both-Windows-and-Linux) - This is a Vagrant, Ansible & NewRelic setup for Node.JS on all OS
 
 #### Docker
 
