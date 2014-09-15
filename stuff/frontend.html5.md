@@ -944,6 +944,12 @@
 
 * [Nativo ou Web? Técnicas e Dicas em JavaScript móvel | InfoQ Br](http://www.infoq.com/br/interviews/tecnicas-javascript-movel)
 
+--
+
+* [[GitHub] paulirish / iOS-WebView-App](https://github.com/paulirish/iOS-WebView-App) - Simple iOS app that loads a web page created to ease debugging a uiWebView
+
+--
+
 * [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
 
   * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
