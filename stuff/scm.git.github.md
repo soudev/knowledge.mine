@@ -94,6 +94,16 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [SlideShare] Vinicius Ban
+
+  * [Git conceitos](http://www.slideshare.net/viniciusban/git-conceitos) - 2014/09/12
+
+  * [Git commits - como, quando e por quê?](http://www.slideshare.net/viniciusban/git-commits-39022351) - 2014/09/12
+
+  * [Git na pratica](http://www.slideshare.net/viniciusban/git-na-pratica-39022552)  - 2014/09/12
+
+--
+
 * [[SlideShare] Primeiros passos - GIT](http://www.slideshare.net/horochovec/primeiros-passos-git) - by Stefan Horochovec
 
 * [[YouTube] Git e Github para iniciantes](https://www.youtube.com/watch?v=UMhskLXJuq4)
