@@ -88,6 +88,8 @@
 
 * [[SpeakerDeck] Introduction to Docker - Ship it with Docker!](https://speakerdeck.com/slok/ship-it-with-docker)
 
+* [Docker: tudo o que você precisava saber, mas não te contaram | InfoQ Br](http://www.infoq.com/br/presentations/docker-tudo-que-precisava-saber)
+
 --
 
 * [Understanding the key differences between LXC and Docker | Flockport](http://www.flockport.com/lxc-vs-docker/)
