@@ -108,6 +108,8 @@
 
 * [The Docker Guidebook | KenCochrane.net](http://kencochrane.net/blog/2013/08/the-docker-guidebook/)
 
+* [Valuable Docker Links | nkode.io](http://www.nkode.io/2014/08/24/valuable-docker-links.html)
+
 --
 
 * [Adventures in Dockerland | Open Source Community](http://community.redhat.com/adventures-in-dockerland/)
