@@ -336,7 +336,15 @@
 
 * [[GitHub] rschmukler / agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling for node
 
+--
+
 * [[GitHub] redwire / aIRChat](https://github.com/redwire/aIRChat) - A beautiful, modernized, browser-based IRC client
+
+* [[GitHub] erming / shout](https://github.com/erming/shout) - A web IRC client
+
+  * [Shout: An IRC Client for the Web | DailyJS](http://dailyjs.com/2014/09/09/shout/)
+
+--
 
 * [[GitHub] C2FO / nools](https://github.com/C2FO/nools) - Rete based rules engine written in javascript
 
