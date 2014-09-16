@@ -83,6 +83,8 @@
 
 * [Optimising for 60fps everywhere | GoSquared Engineering](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript)
 
+* [[Speaker Deck] CSS Performance Tooling](https://speakerdeck.com/addyosmani/css-performance-tooling) - by Addy Osmani [2014/09/13]
+
 
 ### CDN
 
