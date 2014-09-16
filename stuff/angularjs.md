@@ -1357,9 +1357,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Directive to check that passwords match | Web Development blog](http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 
+--
+
 * [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 
 * [[GitHub] Textalk / angular-schema-form](https://github.com/Textalk/angular-schema-form/) - Generate bootstrap ready forms from JSON Schema
+
+* [[GitHub] bvaughn / angular-form-for](https://github.com/bvaughn/angular-form-for) - Set of Angular directives to simplify creating and validating HTML forms
+
+--
 
 * [Building a Custom AngularJS Unique Value Directive | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/09/24/building-a-custom-angularjs-unique-value-directive.aspx) - To see the directive in an actual application check out the [Customer Manager sample application](https://github.com/DanWahlin/CustomerManagerStandard) 
 
