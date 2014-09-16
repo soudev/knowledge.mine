@@ -1905,6 +1905,8 @@ describe('testing something...', function() {
 
   * [Practical End-to-End Testing with Protractor | ng-newsletter](http://www.ng-newsletter.com/posts/practical-protractor.html)
 
+  * [End to End Testing with Protractor | The Jackal of Javascript](http://thejackalofjavascript.com/end-to-end-testing-with-protractor/)
+
   * [[YouTube] An Introduction to AngularJS End to End Testing with Protractor](https://www.youtube.com/watch?v=idb6hOxlyb8)
 
   * [Getting Started with Protractor and Page Objects for AngularJS E2E Testing | Gaslight](http://teamgaslight.com/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
