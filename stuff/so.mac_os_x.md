@@ -169,3 +169,10 @@
 
   * [[GitHub] fullstackio / FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at [fullstackedu.com](https://www.fullstackedu.com/)
 
+* Java
+
+  * [Java for OS X 2014-001 | Apple Support](http://support.apple.com/kb/DL1572)
+
+  * [JDK 7 Installation for Mac OS X | Oracle Documentation](http://docs.oracle.com/javase/7/docs/webnotes/install/mac/mac-jdk.html)
+
+  * [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
