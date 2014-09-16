@@ -361,6 +361,8 @@
 
   * [Addons | Nodejs API](http://nodejs.org/docs/latest/api/all.html#all_addons) - use C or C++ libraries. Node modules may include both addons and JavaScript code.
 
+* [Writing Node.js Addons | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/writing-nodejs-addons--cms-21771)
+
 --
 
 * [Node Console](http://www.node-console.com/script/code) - test node.js apps online
