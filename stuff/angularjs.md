@@ -1698,6 +1698,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Building a Web Based File Browser with jsTree, Angularjs and Expressjs | The Jackal of Javascript](http://thejackalofjavascript.com/file-browser-with-jstree-angularjs-and-expressjs/)
 
+* [[GitHub] marmelab / ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
+
 --
 
 * [SSE (Server-Sent Events) Sample with AngularJS in Play Java | TypeSafe](https://typesafe.com/activator/template/sse-chat-template-java)
