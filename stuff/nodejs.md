@@ -258,6 +258,8 @@
 
   * [How PayPal is Being Revolutionized by Node.js and Lean UX | nearForm](http://www.nearform.com/nodecrunch/release-the-kracken-how-paypal-is-being-revolutionized-by-node-js-and-lean-ux)
 
+  * [[YouTube] Node.js at Scale with Erik Toth - Google I/O 2014](https://www.youtube.com/watch?v=bvDtEcQdGs0) - Transitioning a large organization to a new technology stack can be exciting, exhausting, and fraught with peril. We’ll look at how PayPal is using Node.js as both a technology and philosophy and what successes and pitfalls have been encountered along the way [2014/09/02]
+
 * [Why Node.js is becoming the go-to technology in the Enterprise | Node Crunch](http://www.nearform.com/nodecrunch/node-js-becoming-go-technology-enterprise)
 
 * [[YouTube] Sean McCullough: Transitioning Groupon to Node.js](https://www.youtube.com/watch?v=TWVblTpUlxM)
