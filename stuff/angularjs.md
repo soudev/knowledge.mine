@@ -301,6 +301,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Getting started with AngularJS | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/getting-started-with-angularjs.html)
 
+* [AngularJS: One Step at a Time | Modern Web](http://modernweb.com/2014/09/15/angularjs-one-step-time/)
+
 --
 
 * [AngularJS in 60-ish Minutes – The eBook | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/07/30/angularjs-in-60-ish-minutes-the-ebook.aspx)
