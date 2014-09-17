@@ -1,5 +1,7 @@
 # Angular.js
 
+
+
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
@@ -41,12 +43,6 @@
   * [Mobile](#mobile)
     * [Ionic](#ionic)
     * [PhoneGap](#phonegap)
-  * [Ferramentas](#ferramentas)
-    * [Sublime Text](#sublime-text)
-    * [Eclipse IDE](#eclipse-ide)
-    * [Netbeans IDE](#netbeans-ide)
-    * [JetBrains](#jetbrains)
-    * [Visual Studio](#visual-studio)
 * [Componentes](#componentes)
   * [Diretivas](#diretivas)
   * [Diretivas d3.js](#diretivas-d3js)
@@ -64,8 +60,15 @@
 * [Teste](#teste)
   * [Mock](#mock)
   * [CI](#ci)
+* [Ferramentas](#ferramentas)
+  * [Sublime Text](#sublime-text)
+  * [Eclipse IDE](#eclipse-ide)
+  * [Netbeans IDE](#netbeans-ide)
+  * [JetBrains](#jetbrains)
+  * [Visual Studio](#visual-studio)
 
 <!-- toc stop -->
+
 
 
 ## Visão Geral
@@ -1166,50 +1169,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly.
 
 
-### Ferramentas
-
-* [Angular Batarang | Google Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - browser extension
-
-  * [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
-
-* [ng-inspector](http://ng-inspector.org/) -  is a browser extension for Chrome and Safari that adds an inspector pane to help you develop, debug and understand your AngularJS applications.
-
-
-#### Sublime Text
-
-* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Angular.js Snippets for Sublime Text 2
-
-* [[GitHub] erkobridee / sublime-angularjs-ee-snippets](https://github.com/erkobridee/sublime-angularjs-ee-snippets) - Sublime Text 2 / 3 Snippets and Completions for Angular.js and Require.js (focused to the [angularjs-ee-boilerplate](https://github.com/erkobridee/angularjs-ee-boilerplate) code)
-
-* [[GitHub] angular-ui / AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package) - AngularJS code completion, snippets, go to definition, quick panel search, and more
-
-
-#### Eclipse IDE
-
-* [[GitHub] angelozerr / angularjs-eclipse](https://github.com/angelozerr/angularjs-eclipse) - AngularJS Eclipse IDE Plugin
-
-
-#### Netbeans IDE
-
-* [Integrated AngularJS Development | Geertjan's Blog](https://blogs.oracle.com/geertjan/entry/integrated_angularjs_development)
-
-
-#### JetBrains
-
-* [WebStorm — The smartest JavaScript IDE](http://www.jetbrains.com/webstorm/)
-
-  * [WebStorm + AngularJS | JetBrains TV](http://tv.jetbrains.net/channel/webstorm/angularjs)
-
-* [IntelliJ IDEA Plugins](http://plugins.jetbrains.com/plugin/6971?pr=idea)
-
-* [[GitHub] johnlindquist / angularjs-plugin](https://github.com/johnlindquist/angularjs-plugin) - AngularJS features for the Intellij Platform (WebStorm, RubyMine, Intellij, etc)
-
-
-#### Visual Studio
-
-* [AngularJS Intellisense in Visual Studio 2012 | Mads Kristensen](http://madskristensen.net/post/angularjs-intellisense-in-visual-studio-2012)
-
-
 ## Componentes
 
 * [Writing Reusable AngularJS Components with Bower | Brian Ford](http://briantford.com/blog/angular-bower.html)
@@ -1988,3 +1947,46 @@ describe('testing something...', function() {
 
 * [Continuous Deployment with Yeoman and Jenkins | weluse GmbH](https://weluse.de/blog/continuous-deployment-with-yeoman-and-jenkins.html)
 
+
+## Ferramentas
+
+* [Angular Batarang | Google Chrome](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - browser extension
+
+  * [Introducing the Batarang](http://blog.angularjs.org/2012/07/introducing-angularjs-batarang.html) - dev tool
+
+* [ng-inspector](http://ng-inspector.org/) -  is a browser extension for Chrome and Safari that adds an inspector pane to help you develop, debug and understand your AngularJS applications.
+
+
+### Sublime Text
+
+* [[GitHub] maxhoffmann / angular-snippets](https://github.com/maxhoffmann/angular-snippets) - Angular.js Snippets for Sublime Text 2
+
+* [[GitHub] erkobridee / sublime-angularjs-ee-snippets](https://github.com/erkobridee/sublime-angularjs-ee-snippets) - Sublime Text 2 / 3 Snippets and Completions for Angular.js and Require.js (focused to the [angularjs-ee-boilerplate](https://github.com/erkobridee/angularjs-ee-boilerplate) code)
+
+* [[GitHub] angular-ui / AngularJS-sublime-package](https://github.com/angular-ui/AngularJS-sublime-package) - AngularJS code completion, snippets, go to definition, quick panel search, and more
+
+
+### Eclipse IDE
+
+* [[GitHub] angelozerr / angularjs-eclipse](https://github.com/angelozerr/angularjs-eclipse) - AngularJS Eclipse IDE Plugin
+
+
+### Netbeans IDE
+
+* [Integrated AngularJS Development | Geertjan's Blog](https://blogs.oracle.com/geertjan/entry/integrated_angularjs_development)
+
+
+### JetBrains
+
+* [WebStorm — The smartest JavaScript IDE](http://www.jetbrains.com/webstorm/)
+
+  * [WebStorm + AngularJS | JetBrains TV](http://tv.jetbrains.net/channel/webstorm/angularjs)
+
+* [IntelliJ IDEA Plugins](http://plugins.jetbrains.com/plugin/6971?pr=idea)
+
+* [[GitHub] johnlindquist / angularjs-plugin](https://github.com/johnlindquist/angularjs-plugin) - AngularJS features for the Intellij Platform (WebStorm, RubyMine, Intellij, etc)
+
+
+### Visual Studio
+
+* [AngularJS Intellisense in Visual Studio 2012 | Mads Kristensen](http://madskristensen.net/post/angularjs-intellisense-in-visual-studio-2012)
