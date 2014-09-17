@@ -1,5 +1,7 @@
 # Node.js
 
+
+
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
@@ -61,6 +63,7 @@
     * [Docker](#docker)
   * [Nuvem](#nuvem)
     * [Pessoal](#pessoal)
+    * [Google Cloud](#google-cloud)
     * [Amazon AWS](#amazon-aws)
     * [Windows Azure](#windows-azure)
   * [Mobile](#mobile)
@@ -72,14 +75,15 @@
     * [Connect](#connect)
     * [Express.js](#expressjs)
     * [Meteor](#meteor)
+  * [Testes](#testes)
+  * [Test Runner](#test-runner)
   * [Ferramentas](#ferramentas)
     * [Visual Studio](#visual-studio)
     * [Eclipse IDE](#eclipse-ide)
     * [JetBrains](#jetbrains)
-  * [Testes](#testes)
-  * [Test Runner](#test-runner)
 
 <!-- toc stop -->
+
 
 
 ## Visão Geral
@@ -1531,6 +1535,11 @@
   * [Turn the server into the new personal device with Node.js, Cozy and CouchDB | Cozy.io](http://blog.cozycloud.cc/technic/2014/04/02/cozy-and-couchdb/)
 
 
+#### Google Cloud
+
+* [[GitHub] GoogleCloudPlatform / gcloud-node](https://github.com/GoogleCloudPlatform/gcloud-node) - Google Cloud Client Library for Node.js
+
+
 #### Amazon AWS
 
 * [Configurando o Node.js no Amazon EC2](http://pablocantero.com/blog/2012/01/04/configurando-o-node-js-no-amazon-ec2/)
@@ -1782,6 +1791,18 @@
 * [Quer aprender Meteor? | Underground WebDev](http://udgwebdev.com/quer-aprender-meteor)
 
 
+### Testes
+
+* [Testing and Code Coverage With Node.js Apps | Greg Jopa](http://www.gregjopa.com/2014/02/testing-and-code-coverage-with-node-js-apps/)
+
+
+### Test Runner
+
+* [[GitHub] airportyh / testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun
+
+* [[GitHub] karma-runner / karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
+
+
 ### Ferramentas
 
 * [[GitHub] stefanjudis / perf-tooling](https://github.com/stefanjudis/perf-tooling) - List of tools for performance analysis and monitoring
@@ -1811,17 +1832,4 @@
 * [IntelliJ IDEA :: Node.js](http://www.jetbrains.com/idea/features/nodejs.html)
 
 * [WebStorm :: Node.js](http://www.jetbrains.com/webstorm/features/index.html#node.js)
-
-
-### Testes
-
-* [Testing and Code Coverage With Node.js Apps | Greg Jopa](http://www.gregjopa.com/2014/02/testing-and-code-coverage-with-node-js-apps/)
-
-
-### Test Runner
-
-* [[GitHub] airportyh / testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun
-
-* [[GitHub] karma-runner / karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
-
 
