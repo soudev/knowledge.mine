@@ -1,7 +1,5 @@
 # Angular.js
 
-
-
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
@@ -41,8 +39,9 @@
   * [Upload File(s)](#upload-files)
   * [Autenticação](#autenticação)
   * [Mobile](#mobile)
-    * [Ionic](#ionic)
     * [PhoneGap](#phonegap)
+    * [AppGyver](#appgyver)
+    * [Ionic](#ionic)
 * [Componentes](#componentes)
   * [Diretivas](#diretivas)
   * [Diretivas d3.js](#diretivas-d3js)
@@ -1089,6 +1088,36 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [The Answer to PhoneGap UI Development | Onsen UI](http://onsenui.io/)
 
 
+#### PhoneGap
+
+* [PhoneGap and AngularJs, The Start | Tech Pro](http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start)
+
+* [PhoneGap and AngularJs, Notification Service | Tech Pro](http://tech.pro/tutorial/1349/phonegap-and-angularjs-notification-service)
+
+* [PhoneGap and AngularJS: In App Browser | Tech Pro](http://tech.pro/tutorial/1357/phonegap-and-angularjs-in-app-browser)
+
+* [Brian Ford - Building **PhoneGap** Apps with AngularJS](http://briantford.com/blog/angular-phonegap.html)
+
+* [Quick Start Guide to PhoneGap+AngularJS | Devgirl's Weblog](http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
+
+* [How to build AngularJS based native mobile application | HTMLCenter](http://www.htmlcenter.com/blog/how-to-build-angularjs-based-native-mobile-application/)
+
+* [AngularJS, Phonegap, and angular-seed. Let’s Go! | Project: Poppycock](http://projectpoppycock.com/angularjs-phonegap-and-angular-seed-lets-go/)
+
+* [Sample Mobile Application with AngularJS | Christophe Coenraets](http://coenraets.org/blog/2013/11/sample-mobile-application-with-angularjs/)
+
+--
+
+* [[GitHub] calvinl / ng-phonegap](https://github.com/calvinl/ng-phonegap) - Grunt workflow for building AngularJS applications on PhoneGap
+
+* [[GitHub] dsimard / grunt-angular-phonegap](https://github.com/dsimard/grunt-angular-phonegap) - Combine yeoman/generator-angular and phonegap
+
+
+#### AppGyver
+
+* [AppGyver](http://www.appgyver.com/) - Build PhoneGap based apps with native performance. Rapidly.
+
+
 #### Ionic
 
 * [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
@@ -1138,35 +1167,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * Part 8 - [Deleting files with PhoneGap](http://blog.dynamicprogrammer.com/2014/05/22/deleting-files-with-PhoneGap-part-8.html)
 
   * Part 9 - [Calculating distance and speed with the GeoLocation API - PhoneGap](http://blog.dynamicprogrammer.com/2014/05/23/calculate-distance-with-geolocation-and-PhoneGap-part-9.html)
-
-
-#### PhoneGap
-
-* [PhoneGap and AngularJs, The Start | Tech Pro](http://tech.pro/tutorial/1336/phonegap-and-angularjs-the-start)
-
-* [PhoneGap and AngularJs, Notification Service | Tech Pro](http://tech.pro/tutorial/1349/phonegap-and-angularjs-notification-service)
-
-* [PhoneGap and AngularJS: In App Browser | Tech Pro](http://tech.pro/tutorial/1357/phonegap-and-angularjs-in-app-browser)
-
-* [Brian Ford - Building **PhoneGap** Apps with AngularJS](http://briantford.com/blog/angular-phonegap.html)
-
-* [Quick Start Guide to PhoneGap+AngularJS | Devgirl's Weblog](http://devgirl.org/2013/06/10/quick-start-guide-phonegap-and-angularjs/)
-
-* [How to build AngularJS based native mobile application | HTMLCenter](http://www.htmlcenter.com/blog/how-to-build-angularjs-based-native-mobile-application/)
-
-* [AngularJS, Phonegap, and angular-seed. Let’s Go! | Project: Poppycock](http://projectpoppycock.com/angularjs-phonegap-and-angular-seed-lets-go/)
-
-* [Sample Mobile Application with AngularJS | Christophe Coenraets](http://coenraets.org/blog/2013/11/sample-mobile-application-with-angularjs/)
-
---
-
-* [[GitHub] calvinl / ng-phonegap](https://github.com/calvinl/ng-phonegap) - Grunt workflow for building AngularJS applications on PhoneGap
-
-* [[GitHub] dsimard / grunt-angular-phonegap](https://github.com/dsimard/grunt-angular-phonegap) - Combine yeoman/generator-angular and phonegap
-
---
-
-* [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly.
 
 
 ## Componentes
