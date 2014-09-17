@@ -1,7 +1,5 @@
 # Node.js
 
-
-
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
