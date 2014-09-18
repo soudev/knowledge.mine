@@ -1016,6 +1016,10 @@
 
 --
 
+* [[GitHub] Khan / KaTeX](https://github.com/Khan/KaTeX) - is a fast, easy-to-use JavaScript library for TeX math rendering on the web
+
+--
+
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
 * [[GitHub] adamwdraper / Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers
