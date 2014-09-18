@@ -176,3 +176,7 @@
   * [JDK 7 Installation for Mac OS X | Oracle Documentation](http://docs.oracle.com/javase/7/docs/webnotes/install/mac/mac-jdk.html)
 
   * [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
+
+* Node.js
+
+  * [[StackOverflow] NPM throws error without sudo](https://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
