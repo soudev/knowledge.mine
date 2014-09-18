@@ -108,6 +108,10 @@
 
 --
 
+* [15 JavaScript Hacks | Underground WebDev](http://udgwebdev.com/15-javascript-hacks/)
+
+--
+
 * [Code Academy - JavaScript](http://www.codecademy.com/pt/tracks/javascript-combined)
 
 * [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge.
