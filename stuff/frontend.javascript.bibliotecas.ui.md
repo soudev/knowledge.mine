@@ -376,9 +376,13 @@
 
 * [Introduction to d3.js](http://ireneros.com/conf/nicar/introduction-to-d3.html)
 
+--
+
 * [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
 
 --
+
+* [D3.js Step by Step | Zero Viscosity](http://zeroviscosity.com/category/d3-js-step-by-step) - A series of posts to get you started
 
 * [Getting Started with D3.js - Drawing a graph](http://thinkingonthinking.com/Getting-Started-With-D3/)
 
