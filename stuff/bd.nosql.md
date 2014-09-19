@@ -229,6 +229,10 @@
 
 * [Um pouco de schema design no MongoDB | Christiano Anderson](http://christiano.me/2013/11/30/um-pouco-de-schema-design-mongodb/)
 
+* Nomadev
+
+  * [MongoDB - Como mudar seu jeito relacional de pensar - Parte 1](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
+
 --
 
 * Getting Started with MongoDB | Nettuts+ : [Part 1](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/) | [Part 2](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb-part-2/)
