@@ -71,6 +71,8 @@
 
 * [Atomic Design - Por que usar? | Nomadev](http://nomadev.com.br/atomic-design-por-que-usar/)
 
+* [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores | iMasters](http://imasters.com.br/design-ux/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/)
+
 * [Pattern Lab - Build Atomic Design Systems](http://patternlab.io/)
 
 
