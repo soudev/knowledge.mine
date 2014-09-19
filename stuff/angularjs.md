@@ -1669,6 +1669,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Datavisualization with Angular and d3 on the Twitter Stream API | Topheman JS](http://dev.topheman.com/datavisualization-with-angular-and-d3-on-the-twitter-stream-api/)
+  
+  * [[GitHub] topheman / topheman-datavisual](https://github.com/topheman/topheman-datavisual) - Realtime datavisualization with Angular, d3, and nodejs based on Twitter Stream API
+
+--
+
 * [SSE (Server-Sent Events) Sample with AngularJS in Play Java | TypeSafe](https://typesafe.com/activator/template/sse-chat-template-java)
 
   * [[GitHub] markusjura / sse-chat-java](https://github.com/markusjura/sse-chat-java)
