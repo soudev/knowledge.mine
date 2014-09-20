@@ -171,6 +171,12 @@
 
 --
 
+* [Built with Polymer](http://builtwithpolymer.org/)
+
+  * [[GitHub] divshot / built-with-polymer](https://github.com/divshot/built-with-polymer) - Showcase of web apps and websites using Polymer
+
+--
+
 * [Polymer Design Tools](http://www.polymer-project.org/tools/designer/)
 
   * [[YouTube] Introducing the Polymer Designer tool](https://www.youtube.com/watch?v=djQh8XKRzRg)
