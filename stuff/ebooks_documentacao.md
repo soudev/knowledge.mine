@@ -220,6 +220,11 @@
 * [Cerebro](https://cerebrobr.github.io/cerebro/) - Projeto bem interessante lançado pela comunidade brasileira. O projeto promete reunir uma série de conteúdos em português. (no GitHub)
 
 
+* Material para suporte aos estudos (aplicativos)
+
+  * [Aplicativos gratuitos auxiliam na hora de estudar para o Enem | G1](http://g1.globo.com/educacao/enem/2014/noticia/2014/09/aplicativos-gratuitos-auxiliam-na-hora-de-estudar-para-o-enem-veja-video.html) - veja vídeo - notícias em Enem 2014
+
+
 ### Conhecimentos gerais
 
 * [Khan Academy](https://www.khanacademy.org/) | [versão em português](http://www.fundacaolemann.org.br/khanportugues/) - conhecimentos gerais (Matemática, Ciência, Economia e finanças, Humanas e Testes preparatórios)
