@@ -760,6 +760,10 @@
 
 --
 
+* [A Journey From Require.js to Browserify | Orizen Designs](http://orizens.com/wp/topics/a-journey-from-require-js-to-browserify/)
+
+--
+
 * [Building High-Quality Front-End Modules | Pony Foo](http://blog.ponyfoo.com/2014/08/05/building-high-quality-front-end-modules)
 
   * [[GitHub] bevacqua / rome](https://github.com/bevacqua/rome) - Customizable date (and time) picker. Opt-in UI, no jQuery!
