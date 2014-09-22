@@ -8,6 +8,10 @@
 
 --
 
+* [O começo do fim dos wireframes | Blog de AI](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
+
+--
+
 * [Atomic Design como funciona | Front End Brasil](http://www.frontendbrasil.com.br/tutoriais/atomic-design-como-funciona/)
 
 * [[SlideShare] Atomic design](http://www.slideshare.net/bradfrostweb/atomic-design)
