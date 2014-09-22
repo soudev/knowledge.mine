@@ -1,6 +1,5 @@
 # NoSQL
 
-
 <!-- toc -->
 * [Visão Geral](#visão-geral)
 * [Comparação](#comparação)
@@ -328,6 +327,8 @@
 * [Log 4 Mongo](http://log4mongo.org/)
 
   * [Usando MongoDB para armazenar log de aplicações | iMasters](http://imasters.com.br/banco-de-dados/mongodb/usando-mongodb-para-armazenar-log-de-aplicacoes/)
+
+* [Forward](http://getfwd.com/) - The open source platform for custom e-commerce — with MongoDB
 
 
 #### Ferramentas
