@@ -806,6 +806,8 @@
 
 * [[GitHub] sandeepmistry / bleno](https://github.com/sandeepmistry/bleno) - A node.js module for implementing BLE (Bluetooth low energy) peripherals
 
+* [Cylon.js](http://cylonjs.com/) - is a JavaScript framework for robotics, physical computing, and the Internet of Things using Node.js. It provides a simple, yet powerful way to create JavaScript robots that incorporate multiple, different hardware devices at the same time
+
 
 #### Node Copter
 
