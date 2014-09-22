@@ -419,6 +419,12 @@
 
 --
 
+* [Concurrency in JavaScript | ByteArray.org](http://www.bytearray.org/?p=5607)
+
+* [Handling concurrency and asynchronous JavaScript | Oliver.prototype.blog](http://oli.me.uk/2013/09/11/handling-concurrency-and-asynchronous-javascript/)
+
+--
+
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
 
 * [Asynchronous JavaScript Interfaces (Events, Generators, Promises, Streams)](http://medikoo.com/asynchronous-javascript-interfaces/?notes)
@@ -426,8 +432,6 @@
 * [JavaScript Promises: There and back again | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 * [Callbacks, Promises, Signals and Events | Miller Medeiros](http://blog.millermedeiros.com/callbacks-promises-signals-and-events/)
-
-* [Handling concurrency and asynchronous JavaScript | Oliver.prototype.blog](http://oli.me.uk/2013/09/11/handling-concurrency-and-asynchronous-javascript/)
 
 * [Programação assíncrona com JavaScript | TDC2013 | InfoQ BR](http://www.infoq.com/br/presentations/programacao-assincrona-javascript) - Essa palestra trata de de algumas técnicas de programação assíncrona com JavaScript, principalmente com Callbacks, Futures e Promisses, e Functional Reactive Programming
 
