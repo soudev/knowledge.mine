@@ -191,6 +191,10 @@
 
 --
 
+* [[SlideShare] Reconciling ReactJS as a View Layer Replacement (MidwestJS 2014)](http://www.slideshare.net/ZachLendon/reconciling-react-as-a-view-layer-replacement-midwestjs-2014) - 2014/08/15
+
+--
+
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
 * [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
