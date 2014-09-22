@@ -193,6 +193,10 @@
 
 ### SVG
 
+* [[GitHub] willianjusten / awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG
+
+--
+
 * [SVG Tutorial and references | Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
