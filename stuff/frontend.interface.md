@@ -207,6 +207,8 @@
 
 * [[GitHub] github / time-elements](https://github.com/github/time-elements) - Web component extensions to the standard <time> element
 
+* [[GitHub] Granze / flip-clock](https://github.com/Granze/flip-clock) - A flip clock, timer and countdown made with Polymer
+
 
 #### Brick
 
