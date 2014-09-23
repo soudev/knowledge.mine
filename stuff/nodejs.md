@@ -216,6 +216,12 @@
 
 * [Understanding Exceptions and Domains in Node.js | How to JS](http://www.howtojs.org/understanding-exceptions-domains-in-nodejs/)
 
+--
+
+* [Node.js Best Practices | RisingStack Engineering](http://blog.risingstack.com/node-js-best-practices/)
+
+* [[GitHub] RisingStack / node-style-guide](https://github.com/RisingStack/node-style-guide) - A mostly reasonable approach to JavaScript - how we write Node.js at RisingStack
+
 
 ## Comunidades e Grupos
 
