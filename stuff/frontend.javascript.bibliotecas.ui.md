@@ -221,9 +221,13 @@
 
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
+--
+
 * [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React
 
 * [React Components - reusable components by Khan Academy](https://khan.github.io/react-components/)
+
+* [[GitHub] plaxdan / react-topcoat](https://github.com/plaxdan/react-topcoat) - Topcoat components built with the React library
 
 --
 
