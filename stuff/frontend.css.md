@@ -85,6 +85,8 @@
 
 ### Media Query
 
+* [CSS Media Queries](http://cssmediaqueries.com/)
+
 * [Media Query Snippets](http://nmsdvid.com/snippets/)
 
 * [Media Queries are a Hack | Ian Storm Taylor](http://ianstormtaylor.com/media-queries-are-a-hack/)
