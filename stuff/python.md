@@ -43,6 +43,8 @@
 
 * [[YouTube] A hands-on introduction to Python for beginning programmers](https://www.youtube.com/watch?v=rkx5_MRAV3A)
 
+* [[GitHub] erichideki / video-aulas-gratuitas](https://github.com/erichideki/video-aulas-gratuitas)
+
 --
 
 * [10 Resources to Learn Python Programming Language | CodeCondo](http://codecondo.com/10-ways-to-learn-python/)
