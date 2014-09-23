@@ -137,6 +137,8 @@
 
 * [HTML Imports: #include for the web | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/webcomponents/imports/)
 
+* [An Introduction to HTML Imports (Tutorial) | SitePoint](http://www.sitepoint.com/introduction-html-imports-tutorial/)
+
 --
 
 * [Roll Your Own HTML5 Web Components with Vanilla JS | Gaslight](http://gaslight.co/blog/roll-your-own-html5-web-components-with-vanilla-js)
