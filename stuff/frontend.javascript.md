@@ -1212,6 +1212,10 @@
 
 * [Getting a Head Start with Front End Generators | Flippin' Awesome](http://flippinawesome.org/2013/09/03/getting-a-head-start-with-front-end-generators/)
 
+--
+
+* [Brunch](http://brunch.io/) - is an ultra-fast HTML5 build tool
+
 
 #### Slush
 
