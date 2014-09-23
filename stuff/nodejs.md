@@ -1322,6 +1322,12 @@
 
 --
 
+* [[GitHub] inikulin / dmn](https://github.com/inikulin/dmn) - Node package dependency cleaner and .npmignore file generator
+
+> Because I don't need your tests in my production!
+
+--
+
 * [[GitHub] deoxxa / npmrc](https://github.com/deoxxa/npmrc) - Switch between different .npmrc files with ease and grace.
 
 * [[GitHub] floatdrop / chnpm](https://github.com/floatdrop/chnpm) - npm configuration switcher
