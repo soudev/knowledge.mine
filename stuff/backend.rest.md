@@ -41,6 +41,10 @@
 
 * [Busca CEP - API de Consulta](http://apps.widenet.com.br/busca-cep/api-de-consulta)
 
+* [Forecast.io](http://forecast.io/)
+
+  * [Developer - Forecast.io](https://developer.forecast.io/)
+
 --
 
 * [Runscope](https://www.runscope.com/) - Debug and test your API, webhook and mobile back end service integrations.
