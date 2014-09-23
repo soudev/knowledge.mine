@@ -1617,6 +1617,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] brunobatista / angularjs-in-action](https://github.com/brunobatista/angularjs-in-action) - Introduction course for AngularJS
 
+* [[GitHub] lucasconstantino / angular-github-repo](https://github.com/lucasconstantino/angular-github-repo) - An AngularJS service and directive to display your GitHub Repositories
+
 --
 
 * [[GitHub] erkobridee / angularjs-ee-boilerplate](https://github.com/erkobridee/angularjs-ee-boilerplate)
