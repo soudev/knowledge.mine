@@ -92,6 +92,8 @@
 
 * [Responsive Test](http://responsivetest.net/) - Testing responsive web design in various resolutions
 
+  * [[GitHub] nghuuphuoc / responsivetest](https://github.com/nghuuphuoc/responsivetest) - Test responsive layout, powered by AngularJS and Bootstrap 3
+
 * [Dimensions Legacy | Google Chrome Extension](https://chrome.google.com/webstore/detail/dimensions/hdmihohhdcbejdkidbfijmfehjbnmifk?utm_source=chrome-ntp-launcher) - Dimensions is a responsive web design testing tool. It is the easiest way to test responsive websites at different viewports. It works offline & is compatible with LiveReload. 
 
 * [Dimensions | Google Chrome Extension](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - A tool for designers to measure screen dimensions
