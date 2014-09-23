@@ -627,6 +627,8 @@
 
   * [[GitHub] SpiderOak / crypton](https://github.com/SpiderOak/crypton/) - A framework for creating zero-knowledge web & mobile applications
 
+* [[GitHub] voronianski / node-object-encrypter](https://github.com/voronianski/node-object-encrypter) - Encrypt/decrypt javascript objects as base64 strings with optional TTL support
+
 
 ### BitCoins
 
