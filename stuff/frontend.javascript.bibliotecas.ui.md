@@ -235,6 +235,8 @@
 
   * [[GitHub] brian3kb / tic_tac_reactjs](https://github.com/brian3kb/tic_tac_reactjs) - Simple tic tac toe game built with reactjs
 
+* [[GitHub] andrewgleave / react-weather](https://github.com/andrewgleave/react-weather) - Example React weather app using forecast.io's API
+
 
 ### Template Engine
 
