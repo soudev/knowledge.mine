@@ -405,6 +405,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Tutoriais
 
+* [Learn Angular by Building a Gmail Clone | AngularJS Tutorial](http://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/)
+
 * [How to Learn AngularJS - Your AngularJS Sherpa | ng-newsletter](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 
 * [25 days of AngularJS Calendar - 2013 | ng-newsletter](http://www.ng-newsletter.com/advent2013) - The short, juicy guide of AngularJS information, designed to get you up and running without the fluff.
