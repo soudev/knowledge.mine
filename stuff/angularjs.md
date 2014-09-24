@@ -834,11 +834,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] marcoslin / angularAMD](https://github.com/marcoslin/angularAMD) - Facilitate use of RequireJS in AngularJS
 
-* [Dynamically Loading Controllers and Views with AngularJS and RequireJS | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/05/22/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs.aspx)
+* [[GitHubb] mikeromano38 / angular-async](https://github.com/mikeromano38/angular-async) - a module for asynchronous loading of angular components
 
 * [Lazy Loading In AngularJS | IFY I/O](http://ify.io/lazy-loading-in-angularjs/)
 
-* [[GitHubb] mikeromano38 / angular-async](https://github.com/mikeromano38/angular-async) - a module for asynchronous loading of angular components
+* [Dynamically Loading Controllers and Views with AngularJS/$controllerProvider and RequireJS | Dan Wahlin](https://weblogs.asp.net/dwahlin/dynamically-loading-controllers-and-views-with-angularjs-and-requirejs)
+
 
 
 ### Building Apps
