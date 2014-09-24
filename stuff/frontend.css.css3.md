@@ -58,6 +58,8 @@
 
 * [Creative Loading Effects | Codrops](http://tympanus.net/codrops/2013/09/18/creative-loading-effects/)
 
+* [Creating a Collection of CSS3 Animated Pre-loaders | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978)
+
 * [How to Capture CSS3 Animation Events in JavaScript | SitePoint](http://www.sitepoint.com/css3-animation-javascript-event-handlers/)
 
 * [Introduction to Animating in HTML | Flippin' Awesome](http://flippinawesome.org/2013/08/12/introduction-to-animating-in-html/)
