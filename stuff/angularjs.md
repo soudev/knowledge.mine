@@ -279,19 +279,29 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS - Where To Start?](http://blog.whydoifollow.com/post/angularjs-where-to-start)
+
 * [The Ultimate Guide to Learning AngularJS in One Day | Todd Motto](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
 
   * [Guia Definitivo para Aprender AngularJS em Um Dia | Javascript Brasil](http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/)
 
 --
 
-* [AngularJS - Where To Start?](http://blog.whydoifollow.com/post/angularjs-where-to-start)
-
 * [The Angular Course](http://www.angularcourse.com/) - When you're done, you'll have full web app built with AngularJS, Firebase, Twilio, and Zapier.
 
 * [Shaping up with Angular.js : Free CodeSchool Course](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 
 * [Egghead - AngularJS](http://egghead.io/) - curso online
+
+* [Video Tutorial: AngularJS Fundamentals in 60-ish Minutes | Dan Wahlin](http://weblogs.asp.net/dwahlin/video-tutorial-angularjs-fundamentals-in-60-ish-minutes)
+
+  * [AngularJS in 60-ish Minutes – The eBook | Dan Wahlin](http://weblogs.asp.net/dwahlin/angularjs-in-60-ish-minutes-the-ebook)
+
+* [The AngularJS JumpStart Video Training Course Has Been Released! | Dan Wahlin](https://weblogs.asp.net/dwahlin/the-angularjs-jumpstart-video-training-course-has-been-released)
+
+  * [AngularJS JumpStart | Udemy.com](https://www.udemy.com/angularjs-jumpstart/?couponCode=AngularJSJumpStart40)
+
+--
 
 * [Hands-on Angular | Tuts+](https://tutsplus.com/course/hands-on-angular/) - curso online
 
@@ -308,8 +318,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS: One Step at a Time | Modern Web](http://modernweb.com/2014/09/15/angularjs-one-step-time/)
 
 --
-
-* [AngularJS in 60-ish Minutes – The eBook | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/07/30/angularjs-in-60-ish-minutes-the-ebook.aspx)
 
 * [Practical AngularJS | Leanpub](https://leanpub.com/Practical_AngularJS) - by Dinis Cruz. Real-world examples of using AngularJS in multiple scenarios and platforms (KarmaJS, Firebase, Eclipse, WebStorm, O2 Platform)
 
