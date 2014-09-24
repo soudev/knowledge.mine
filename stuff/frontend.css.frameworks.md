@@ -84,6 +84,12 @@ for developing fast and powerful web interfaces.
 
 --
 
+* [[GitHub] twbs / bootlint](https://github.com/twbs/bootlint) - HTML linter for Bootstrap projectsc
+
+  * [Introducing Bootlint | The Official Bootstrap Blog](http://blog.getbootstrap.com/2014/09/23/bootlint/)
+
+--
+
 * [Você já conhece o Twitter Bootstrap?](http://joaovagner.com.br/2012/09/20/voce-ja-conhece-o-twitter-bootstrap/)
 
 * [Twitter Bootstrap | desenvolvimento para web](http://desenvolvimentoparaweb.com/miscelanea/twitter-bootstrap/)
