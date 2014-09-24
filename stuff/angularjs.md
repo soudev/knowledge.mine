@@ -1562,6 +1562,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular-Autolayout.js](https://thenikso.github.io/angular-autolayout/) - Constraint based layout for your AngularJS apps
 
+* [Adaptive templates for AngularJS | angular-js.in](http://angular-js.in/angular-adaptive-templating/)
+
+  * [[GitHub] ghengeveld / angular-adaptive-templating](https://github.com/ghengeveld/angular-adaptive-templating) - Adaptive templates for AngularJS
+
 * [Use Famous in your Angular projects with Famous-Angular](http://famo.us/integrations/angular/)
 
 * [Angular Foundation](http://madmimi.github.io/angular-foundation/)
