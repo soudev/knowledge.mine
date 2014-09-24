@@ -780,6 +780,8 @@
 
   * [Building 3D in the browser with Three.js | Webdesigner Depot](http://www.webdesignerdepot.com/2014/04/building-3d-in-the-browser-with-three-js/)
 
+  * [[GitHub] nxxcxx / Neural-Network](https://github.com/nxxcxx/Neural-Network) - Abstract visualization of biological neural network
+
 * [Babylon Engine for HTML5](http://www.babylonjs.com/) - Babylon.js is a webgl / javascript 3D engine.
 
 * [Voodoo](http://www.voodoojs.com/) - is a new Javascript framework that lets you easily mix 2D and 3D content together on the same page.
