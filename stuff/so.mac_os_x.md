@@ -104,6 +104,10 @@
 
 --
 
+* [[GitHub] alrra / dotfiles](https://github.com/alrra/dotfiles) - OS X / Ubuntu dotfiles
+
+--
+
 * [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
 
 
