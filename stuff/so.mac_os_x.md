@@ -11,13 +11,14 @@
 * [Setup](#setup)
 * [Dicas](#dicas)
 * [Fontes](#fontes)
-* [Editores de Audio](#editores-de-audio)
+* [Audio e Vídeo](#audio-e-vídeo)
+  * [Editores de Vídeo](#editores-de-vídeo)
+  * [Editores de Audio](#editores-de-audio)
 * [Games](#games)
 * [UNIX - shell](#unix-shell)
 * [Desenvolvimento](#desenvolvimento)
 
 <!-- toc stop -->
-
 
 ## Dicas
 
@@ -144,7 +145,14 @@
   * [[GitHub] briangonzalez / fontprep](https://github.com/briangonzalez/fontprep) - The missing font generator for Mac OSX
 
 
-## Editores de Audio
+## Audio e Vídeo
+
+### Editores de Vídeo
+
+* [ScreenFlow | Telestream](http://www.telestream.net/screenflow/) - Screen recording and video editing software for creating high-quality software demos, video tutorials, video training, and presentations.
+
+
+### Editores de Audio
 
 * [Audacity: Free Audio Editor and Recorder](http://audacity.sourceforge.net/) - é um editor de audio de código aberto, e entre seus recursos estão a reprodução e gravação, importação e exportação de vários formatos de audio (MP3, Ogg, WAV, FLAC e AIFF). 
 
