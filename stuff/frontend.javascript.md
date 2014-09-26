@@ -166,6 +166,14 @@
 
 --
 
+* Felipe N Moura
+
+  * [call, bind e apply no javascript parte 1](http://felipenmoura.org/articles/article/call-bind-e-apply-no-javascript-parte-1)
+
+  * [call, bind e apply no javascript parte 2](http://felipenmoura.org/articles/article/call-bind-e-apply-no-javascript-parte-2)
+
+--
+
 * [JavaScript: arguments explained | Victor Quinn](http://blog.victorquinn.com/javascript-arguments-explained)
 
 --
