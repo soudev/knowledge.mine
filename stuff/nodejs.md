@@ -1627,6 +1627,8 @@
 
 --
 
+* [[GitHub] mllrsohn / node-webkit-builder](https://github.com/mllrsohn/node-webkit-builder) - npm module to create a node-webkit build
+
 * [[GitHub] mllrsohn / grunt-node-webkit-builder](https://github.com/mllrsohn/grunt-node-webkit-builder) - Let you build your node-webkit apps for mac, win and linux with grunt. It will download the prebuilt binaries for a specify version, unpacks it, creates a release folder, create the app.nw file for a specified directory and copys the app.nw file where it belongs.
 
 
