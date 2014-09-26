@@ -89,6 +89,8 @@
 
 * [Sublime Text 2 Build System Scripts: CoffeeScript & Node | Wes Bos](http://wesbos.com/sublime-text-build-scripts/)
 
+* [Sublime Text 3 Build System - JavaScript To CoffeeScript | Phillip Alexander](http://phillipalexander.io/2013/07/14/sublime-text-3-build-system-javascript-to-coffeescript/)
+
 * [Adding a JS build-system to Sublime | Logic Mason](http://logicmason.com/2013/adding-a-js-build-system-to-sublime/)
 
 * [Run JavaScript in Sublime Text Using Node | UIBuzz.com](http://www.uibuzz.com/2014/javascript/run-javascript-sublime-text-using-node/)
