@@ -176,6 +176,8 @@
 
 * [JavaScript: arguments explained | Victor Quinn](http://blog.victorquinn.com/javascript-arguments-explained)
 
+* [Optional parameters in Javascript | Mark Hansen](http://www.markhansen.co.nz/javascript-optional-parameters/) - Various ways of simplifying your Javascript API with optional parameters
+
 --
 
 * [Tips for using window in JavaScript | 2ality](http://www.2ality.com/2013/09/window.html)
