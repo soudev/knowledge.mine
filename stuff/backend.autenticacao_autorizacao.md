@@ -17,6 +17,10 @@
 
 * [Beer Locker: Building a RESTful API with Node - OAuth2 Server | Scott Smith](http://scottksmith.com/blog/2014/07/02/beer-locker-building-a-restful-api-with-node-oauth2-server/)
 
+* [OAuth2 - uma abordagem para segurança de aplicações e APIs REST | InfoQ Br](http://www.infoq.com/br/presentations/oauth2-uma-bordagem-para-seguranca) - O OAuth2 é um framework de autorização aberto, poderoso e flexível que pode ser usado para proteção de aplicações e APIs REST. Com OAuth2 é possível prover um mecanismo padronizado para Identity Management, em que todos os componentes do sistema possam interagir de um modo seguro, usualmente onde uma aplicação cliente necessita de acesso a um recurso protegido, agindo no lugar do usuário. 2014/09/26
+
+--
+
 * [[GitHub] globocom / oauth2u](https://github.com/globocom/oauth2u) - OAuth 2 server implementation
 
 
