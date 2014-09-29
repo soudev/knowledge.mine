@@ -1665,7 +1665,13 @@
 
   * [[twitter] popcorntimetv](https://twitter.com/popcorntimetv) - infos
 
-  * [[GitHub] popcorn-official / popcorn-app](https://github.com/popcorn-official/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
+  * [[GitHub] popcorn-official](https://github.com/popcorn-official)
+  
+    * Repository unavailable due to DMCA takedown :: [[GitHub] popcorn-official / popcorn-app](https://github.com/popcorn-official/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
+
+  * [git.popcorntime.io](https://git.popcorntime.io/)
+
+    * [Popcorn App | git.popcorntime.io](https://git.popcorntime.io/stash/projects/PT/repos/popcorn-app/browse)
 
 
 ### Modulos e Frameworks
