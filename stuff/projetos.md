@@ -6,6 +6,7 @@
 * [Conceitos](#conceitos)
   * [GTD - Getting Things Done](#gtd-getting-things-done)
   * [Atomic Design](#atomic-design)
+  * [Minimum Viable Products](#minimum-viable-products)
   * [DevOps](#devops)
   * [Gamification](#gamification)
 * [ALM](#alm)
@@ -74,6 +75,22 @@
 * [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores | iMasters](http://imasters.com.br/design-ux/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/)
 
 * [Pattern Lab - Build Atomic Design Systems](http://patternlab.io/)
+
+
+### Minimum Viable Products
+
+* [Minimum viable product | Wikipedia](https://en.wikipedia.org/wiki/Minimum_viable_product)
+
+* [[SlideShare] Minimum Viable Product](http://www.slideshare.net/startuplessonslearned/minimum-viable-product) - by Eric Ries 2009/07/22
+
+* [Minimum Viable Product Examples - Get Your Product to Market, Fast! | IM Impact](http://imimpact.com/get-to-market/) - What are the exact steps to creating a successful product and getting your first customers as soon as possible? Examples and strategy outlined in this post! - 2013/04/11
+
+* [Product development: MVP - Minimum viable product approach | Entrepreneur’s Toolkit](http://www.marsdd.com/mars-library/product-development-minimum-viable-product-mvp-approach/) - 2013/12/03
+
+* [Minimum Viable Product: Your ultimate guide to MVP (+great examples) | Fast Monkeys – Official Blog](http://blog.fastmonkeys.com/2014/06/18/minimum-viable-product-your-ultimate-guide-to-mvp-great-examples/) - 2014/06/18
+
+* [Building Minimum Viable Products at Spotify | Speckyboy Web Design Magazine](http://speckyboy.com/2014/09/18/building-minimum-viable-products-spotify/) - 2014/09/18
+
 
 
 ### DevOps
