@@ -111,6 +111,8 @@
 
 * [Why Web Components Are Ready For Production | Telerik Developer Network](http://developer.telerik.com/featured/web-components-ready-production/)
 
+* [How GitHub is using Web Components in production | WebComponents.org](http://webcomponents.org/articles/interview-with-joshua-peek/)
+
 --
 
 * [WebComponents.org](http://webcomponents.github.io/) - The web platform specs that will change the way you build apps
