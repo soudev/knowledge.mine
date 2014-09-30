@@ -423,6 +423,10 @@
 
 --
 
+* [[GitHub] sourcejs / Source](https://github.com/sourcejs/Source) - Living Style Guide Engine and Maintenance Environment for Front-end Components. Core repository.
+
+--
+
 * [[GitHub] google / web-starter-kit](https://github.com/google/web-starter-kit)
 
   * [Web Starter Kit | Google Developer](https://developers.google.com/web/starter-kit/) - Boilerplate & Tooling for Multi-Device Development
