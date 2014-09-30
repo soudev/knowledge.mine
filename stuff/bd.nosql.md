@@ -228,9 +228,11 @@
 
 * [Um pouco de schema design no MongoDB | Christiano Anderson](http://christiano.me/2013/11/30/um-pouco-de-schema-design-mongodb/)
 
-* Nomadev
+* Nomadev : MongoDB - Como mudar seu jeito relacional de pensar
 
-  * [MongoDB - Como mudar seu jeito relacional de pensar - Parte 1](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
+  * [Parte 1](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar/)
+
+  * [Parte 2](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/)
 
 --
 
