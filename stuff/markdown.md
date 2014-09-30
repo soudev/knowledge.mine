@@ -67,6 +67,8 @@
 
 * [StackEdit](https://stackedit.io/)
 
+  * [[GitHub] benweet / stackedit](https://github.com/benweet/stackedit) - The Markdown editor powered by PageDown
+
 * [Dillinger](http://dillinger.io/) is a cloud-enabled HTML5 Markdown editor
 
 
