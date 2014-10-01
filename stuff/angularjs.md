@@ -1409,6 +1409,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] emmaguo / angular-poller](https://github.com/emmaguo/angular-poller) - Poller service for AngularJS applications
+
+--
+
 * [[GitHub] decipherinc / angular-history](https://github.com/decipherinc/angular-history) - A history service for AngularJS. Undo/redo, that sort of thing. Has nothing to do with the "back" button, unless you want it to
 
 --
