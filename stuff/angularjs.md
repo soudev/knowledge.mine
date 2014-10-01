@@ -824,6 +824,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Demos using AWS with Node.JS and an AngularJS frontend | RecursiveRobot](http://www.recursiverobot.com/post/75281512146/demos-using-aws-with-node-js-and-an-angularjs-frontend)
 
+--
+
+* [Hosting AngularJS With Amazon S3 | Nicholas Dobie](http://www.nickdobie.com/blog/hosting-angularjs-with-amazon-s3/)
+
 
 ### Decorator
 
