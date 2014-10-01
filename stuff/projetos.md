@@ -56,6 +56,12 @@
 
 * [Design sem Designer | UX Blog](http://www.uxdesign.blog.br/design-livre/design-sem-designer/) - A discussão sobre um possível Design sem Designer apresenta caminhos alternativos para a explicação da atividade projetual nas mais diversas áreas
 
+--
+
+* FDA - Front-end Driven Applications
+
+  * [Front-end Driven Applications – A New Approach to Applications | Telerik Developer Network](http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/) - 2014/09/30
+
 
 ### GTD - Getting Things Done
 
