@@ -100,6 +100,8 @@
 
 * [ng-learn](http://ng-learn.org/)
 
+* [Adventures in Angular | DevChat.TV](http://devchat.tv/adventures-in-angular/) - A weekly show dedicated to the AngularJS framework
+
 --
 
 * [AngularJS - ng-conf 2014 - Exclusive | ng-learn](http://ng-learn.org/2014/01/NG-CONF-2014/)
