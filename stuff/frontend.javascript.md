@@ -501,6 +501,10 @@
 
 --
 
+* [Date and time in JavaScript | Tech.pro](http://tech.pro/tutorial/2468/date-and-time-javascript)
+
+--
+
 * [Exploring the Abyss of Null and Undefined in JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/12/09/exploring-the-abyss-of-null-and-undefined-in-javascript/)
 
 --
