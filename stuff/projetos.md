@@ -58,6 +58,18 @@
 
 --
 
+* BaaS - Backend as a Service
+
+  * [Backend as a service | Wikipedia](https://en.wikipedia.org/wiki/Mobile_Backend_as_a_service)
+
+  * [Backend as a Service | API Evangelist](http://baas.apievangelist.com/)
+
+  * [Backend as a Service | Engine Yard](https://blog.engineyard.com/2014/backend-as-a-service)
+
+  * [What is Backend as a Service? | Backend as a Service Platform](https://backendless.com/what-is-backend-as-a-service/)
+
+--
+
 * FDA - Front-end Driven Applications
 
   * [Front-end Driven Applications – A New Approach to Applications | Telerik Developer Network](http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/) - 2014/09/30
