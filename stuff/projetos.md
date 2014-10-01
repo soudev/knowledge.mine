@@ -46,6 +46,8 @@
 
 ## Conceitos
 
+* [[YouTube] Resumão - Fundamentos de Gerenciamento de Projetos](https://www.youtube.com/watch?v=jYaZnszakdo) - 2014/01/02
+
 * [Projetando Aplicativos como se Projetam Prédios | UX.BLOG](http://www.uxdesign.blog.br/user-experience/review-da-palestra-projetando-aplicativos-como-se-projetam-predios/)
 
 * [O que é Arquitetura de Software? | TargetTrust](http://www.targettrust.com.br/blog/o-que-e-arquitetura-de-software/)
