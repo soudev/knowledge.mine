@@ -216,7 +216,9 @@
 
 #### Brick
 
-* [Brick](http://mozilla.github.io/brick/) - UI Components for Modern Web Apps
+* [Brick](http://brick.mozilla.io/) - is a collection of UI components designed for the easy and quick building of web application UIs. Brick components are built using the Web Components standard to allow developers to describe the UI of their app using the HTML syntax they already know.
+
+  * [[GitHub] Mozilla Brick](https://github.com/mozbrick/)
 
   * [Introducing Brick: Minimal-markup Web Components for Faster App Development | Mozilla Hacks](https://hacks.mozilla.org/2013/08/introducing-brick-minimal-markup-web-components-for-faster-app-development/)
 
