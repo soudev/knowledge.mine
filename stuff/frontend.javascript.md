@@ -254,6 +254,12 @@
 
 * [Popular Coding Convention on Github - JavaScript](http://sideeffect.kr/popularconvention#javascript)
 
+--
+
+* [Six reasons to define constructors with only one argument | Giulio Canti](https://gcanti.github.io/2014/09/25/six-reasons-to-define-constructors-with-only-one-argument.html) - 2014/09/25
+
+--
+
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
 * [JavaScript Best Practices | CodeProject](http://www.codeproject.com/Articles/580165/JavaScript-Best-Practices)
