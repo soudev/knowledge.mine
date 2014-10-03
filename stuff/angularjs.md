@@ -57,6 +57,7 @@
   * [MEAN Stack](#mean-stack)
   * [Angular-Seed](#angular-seed)
 * [Teste](#teste)
+  * [Protractor](#protractor)
   * [Mock](#mock)
   * [CI](#ci)
 * [Ferramentas](#ferramentas)
@@ -67,7 +68,6 @@
   * [Visual Studio](#visual-studio)
 
 <!-- toc stop -->
-
 
 
 ## Visão Geral
@@ -1897,30 +1897,6 @@ describe('testing something...', function() {
 
 --
 
-* [[GitHub] angular / protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
-
-  * [Protractor E2E Testing Resources | AngularJS 4U](http://angularjs4u.com/protractor/protractor-e2e-testing-resources/)
-
-  * [Practical End-to-End Testing with Protractor | ng-newsletter](http://www.ng-newsletter.com/posts/practical-protractor.html)
-
-  * [End to End Testing with Protractor | The Jackal of Javascript](http://thejackalofjavascript.com/end-to-end-testing-with-protractor/)
-
-  * [[YouTube] An Introduction to AngularJS End to End Testing with Protractor](https://www.youtube.com/watch?v=idb6hOxlyb8)
-
-  * [Getting Started with Protractor and Page Objects for AngularJS E2E Testing | Gaslight](http://teamgaslight.com/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
-  
-  * [Protractor for AngularJS: writing end-to-end test has never been so fun](http://ramonvictor.github.io/protractor/slides/#/) - A step-by-step presentaion on Protractor End-to-End Testing for AngularJS
-
-  * [Protractor vs. Selenium: Battle of the Frameworks | Applitools Eyes](http://testautomation.applitools.com/post/94994807787/protractor-vs-selenium-battle-of-the-frameworks) - 2014/08/17
-
-  * [Protractor - Testing Angular and Non Angular Sites | ng-learn.org](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/) - 2014/02/12
-
-  * [[StackOverflow] how to use Protractor on non angularjs website?](https://stackoverflow.com/questions/20927652/how-to-use-protractor-on-non-angularjs-website)
-
-  * [End to End Testing with AngularJS, Protractor, Grunt & Maven | Asgard Designs](http://www.asgarddesigns.com.au/2013/11/end-to-end-testing-with-angularjs-protractor-grunt-and-maven/)
-
---
-
 * [[GitHub] decipherinc / angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps
 
 --
@@ -1933,6 +1909,68 @@ describe('testing something...', function() {
 
     * [[GitHub] RadiusIntelligence / require-and-angular-test](https://github.com/RadiusIntelligence/require-and-angular-test) - Example setup for testing AngularJS applications that are built with RequireJS
 
+
+### Protractor
+
+* [[GitHub] angular / protractor](https://github.com/angular/protractor) - E2E test framework for Angular apps
+
+* [angular,js protractor e2e cheatsheet | Health to the Web](http://webslainte.blogspot.com.br/2014/01/angular-js-protractor-e2e-cheatsheet.html) - 2014/01/15
+
+* Slides
+
+  * [[SlideShare] Introduction to Protractor](http://www.slideshare.net/FlorianFesseler/introduction-to-protractor) - 2014/06/04
+
+    * [[GitHub] ffesseler / angular-app](https://github.com/ffesseler/angular-app/tree/protractor) - Reference application for AngularJS
+
+  * [Protractor for AngularJS: writing end-to-end test has never been so fun](http://ramonvictor.github.io/protractor/slides/) - A step-by-step presentaion on Protractor End-to-End Testing for AngularJS
+
+  * [E2E Testing with Protractor](https://pascalprecht.github.io/slides/e2e-testing-with-protractor/) - A framework for easily creating beautiful presentations using HTML
+
+  * [[Slides] E2E Testing with angular.js and protractor](http://slides.com/andrewschmadel/e2e-testing-with-angular-js-and-protractor)
+
+* [Protractor E2E Testing Resources | AngularJS 4U](http://angularjs4u.com/protractor/protractor-e2e-testing-resources/)
+
+* [Practical End-to-End Testing with Protractor | ng-newsletter](http://www.ng-newsletter.com/posts/practical-protractor.html)
+
+* [End to End Testing with Protractor | The Jackal of Javascript](http://thejackalofjavascript.com/end-to-end-testing-with-protractor/)
+
+* [[YouTube] An Introduction to AngularJS End to End Testing with Protractor](https://www.youtube.com/watch?v=idb6hOxlyb8)
+
+* [Getting Started with Protractor and Page Objects for AngularJS E2E Testing | Gaslight](http://teamgaslight.com/blog/getting-started-with-protractor-and-page-objects-for-angularjs-e2e-testing)
+
+* [Testing with Angular.JS | Ruben Vermeersch](https://savanne.be/articles/testing-with-angular-js/)
+
+* [Testing Angular Apps End-to-End with Protractor | Moveline's Developer](http://product.moveline.com/testing-angular-apps-end-to-end-with-protractor.html)
+
+* [Protractor e2e Testing | Learn Ionic](http://learn.ionicframework.com/formulas/Protractor/)
+
+--
+
+* Protractor issue with angular $timeout, use [$interval](https://github.com/angular/angular.js/blob/master/src/ng/interval.js#L55) instead
+
+  * [[StackOverflow] get text of element during angular $timeout in protractor](https://stackoverflow.com/questions/24041920/get-text-of-element-during-angular-timeout-in-protractor)
+
+  * [Protractor - issue 49 : comment about the problem](https://github.com/angular/protractor/issues/49#issuecomment-26443073) 
+
+--
+
+* [End to End Testing with AngularJS, Protractor, Grunt & Maven | Asgard Designs](http://www.asgarddesigns.com.au/2013/11/end-to-end-testing-with-angularjs-protractor-grunt-and-maven/)
+
+--
+
+* Grunt.js
+
+  * [[GitHub] teerapap / grunt-protractor-runner](https://github.com/teerapap/grunt-protractor-runner) - A Grunt plugin for running protractor runner
+
+  * [[GitHub] r3b / grunt-protractor-coverage](https://github.com/r3b/grunt-protractor-coverage) - Coverage analysis for Protractor tests
+
+  * [AngularJS End to End Testing with Protractor - Easy Set up with Yeoman, Grunt, Bower | CodeOrbits](http://www.codeorbits.com/blog/2014/01/26/angularjs-end-to-end-testing-with-protractor-easy-set-up-with-yeoman/)
+
+--
+
+* [Protractor - Testing Angular and Non Angular Sites | ng-learn.org](http://ng-learn.org/2014/02/Protractor_Testing_With_Angular_And_Non_Angular_Sites/) - 2014/02/12
+
+* [[StackOverflow] how to use Protractor on non angularjs website?](https://stackoverflow.com/questions/20927652/how-to-use-protractor-on-non-angularjs-website)
 
 
 ### Mock
