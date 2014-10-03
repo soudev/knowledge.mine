@@ -58,6 +58,10 @@
 
 --
 
+* [Learning Javascript with Object Graphs | How To Node - NodeJS](http://howtonode.org/object-graphs)
+
+--
+
 * [JavaScript for Designers | Rachel Nabors](http://rachelnabors.com/javascript-for-designers/) - An Intro to JS Terms and Concepts
 
 --
