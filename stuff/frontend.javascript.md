@@ -102,6 +102,10 @@
 
 --
 
+* [[GitHub] sethvincent / javascripting](https://github.com/sethvincent/javascripting) - Learn JavaScript by adventuring around in the terminal
+
+--
+
 * [21 JavaScript Parts I Struggle To Remember | Tech.Pro](http://tech.pro/tutorial/1669/21-javascript-parts-i-struggle-to-remember-)
 
 --
