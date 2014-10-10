@@ -666,6 +666,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Speeding up AngularJS apps with simple optimizations | Binpress](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
 
+* [AngularJS Docs Performance | Pete Bacon Darwin](http://www.bacondarwin.co.uk/angularjs-docs-performance/)
+
 --
 
 * [AngularJS Video Tutorial: Using angular.bootstrap to Initialize Your App | EggHead.io](http://egghead.io/lessons/angularjs-angular-bootstrap-app-init)
