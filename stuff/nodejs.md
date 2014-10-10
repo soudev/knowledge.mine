@@ -1665,9 +1665,9 @@
 
 * [[GitHub] yamalight / HumblePlayer](https://github.com/yamalight/HumblePlayer) - music player for your HumbleBundle soundtracks (made with node-webkit and Angular)
 
-* popcorn time
+* [Popcorn Time](https://popcorntime.io/)
 
-  * [[twitter] popcorntimetv](https://twitter.com/popcorntimetv) - infos
+  * [[twitter] Popcorn Time App](https://twitter.com/popcorntimetv)
 
   * [[GitHub] popcorn-official](https://github.com/popcorn-official)
   
@@ -1676,6 +1676,10 @@
   * [git.popcorntime.io](https://git.popcorntime.io/)
 
     * [Popcorn App | git.popcorntime.io](https://git.popcorntime.io/stash/projects/PT/repos/popcorn-app/browse)
+
+* [Time 4 Popcorn](http://www.time4popcorn.com/)
+
+  * [[twitter] Time 4 Popcorn](https://twitter.com/Time4Popcorn)
 
 
 ### Modulos e Frameworks
