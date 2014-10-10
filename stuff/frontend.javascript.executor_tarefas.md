@@ -102,6 +102,8 @@
 
 * [Gulp + Browserify: The Everything Post | Viget](http://viget.com/extend/gulp-browserify-starter-faq)
 
+* [[GitHub] mgonto / gulp-browserify-library-seed](https://github.com/mgonto/gulp-browserify-library-seed) - This is a seed (kickstarter) project to create your own library which will use Browserify and Gulp
+
 * [[GitHub] gulpjs / gulp / docs / recipes / split-tasks-across-multiple-files.md](https://github.com/gulpjs/gulp/blob/master/docs/recipes/split-tasks-across-multiple-files.md) Split Gulp tasks into multiple files
 
 * [Small Sips of Gulp.js: 4 Steps to Reduce Complexity | Gaslight](https://teamgaslight.com/blog/small-sips-of-gulp-dot-js-4-steps-to-reduce-complexity)
