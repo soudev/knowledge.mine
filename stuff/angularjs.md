@@ -1678,6 +1678,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] infraContentools / ngbuilder](https://github.com/infraContentools/ngbuilder) - A module builder to AngularJS
+
+--
+
 * [[jsfiddle] Calculadora em AngularJS](http://jsfiddle.net/rabidGadfly/GF3Xg/)
 
 * [AngularJS Calculator Demo](http://www.thomporter.com/apps/angularjs_calc) - A calculator built with AngularJS, written in CoffeeScript
