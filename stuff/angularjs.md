@@ -1215,6 +1215,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [A Guide to Angular JS Directives | Toptal](http://www.toptal.com/angular-js/angular-js-demystifying-directives) - Demystifying Directives
+
+--
+
 * [Criando componentes](http://cironunes.com/angular-components-talk/) - by Ciro Nunes / @cironunesdev | #AngularJSSP 20 de Junho '14
 
 --
