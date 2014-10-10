@@ -1313,6 +1313,8 @@
 
 ##### Google Chrome
 
+* [DevTools Tips](http://devtoolstips.com/)
+
 * [Segredos do Chrome DevTools (Portuguese) | YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d) - Zeno Roch
 
 * [12 Extensions & Apps that Fill the Gaps in Chrome DevTools | Telerik Developer Network](http://developer.telerik.com/featured/12-extensions-apps-fill-gaps-devtools/)
