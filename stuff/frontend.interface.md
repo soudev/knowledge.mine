@@ -64,7 +64,11 @@
 
 ### Fonts
 
-* [Font Awesome, the iconic font designed for Bootstrap](http://fortawesome.github.io/Font-Awesome/)
+* [Font Awesome](http://fontawesome.io/)
+
+  * [[GitHub] FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
+
+  * [[GitHub] djfpaagman / font-awesome-balsamiq](https://github.com/djfpaagman/font-awesome-balsamiq/) - Font Awesome icons as .png, ready for use with [Balsamiq](http://balsamiq.com/)
 
 * [On Web Typography | Jason Santa Maria](http://www.besquare.me/session/on-web-typography/) - Awesome presentation on web typography 
 
