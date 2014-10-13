@@ -91,6 +91,10 @@
 
 * [Media Queries are a Hack | Ian Storm Taylor](http://ianstormtaylor.com/media-queries-are-a-hack/)
 
+* [Como negar uma media query | sergiolopes.org](http://sergiolopes.org/negando-media-queries/)
+
+--
+
 * [mqa.js : a small, modern library for managing media queries programmatically (i.e. in JavaScript)](https://github.com/peol/mqa.js)
 
 
