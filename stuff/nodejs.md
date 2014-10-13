@@ -389,9 +389,17 @@
 
   * [A BrowserSync Primer | Pony Foo](http://blog.ponyfoo.com/2014/08/12/a-browsersync-primer)
 
+--
+
 * [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
 
   * [[GitHub] sindresorhus / grunt-pageres](https://github.com/sindresorhus/grunt-pageres) - Responsive website screenshots
+
+--
+
+* [Phantomjs](http://phantomjs.org/) -  is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG
+
+* [[GitHub] segmentio / nightmare](https://github.com/segmentio/nightmare) - A high level wrapper for Phantomjs
 
 * [[GitHub] fouber / page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs
 
