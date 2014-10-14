@@ -155,6 +155,8 @@
 
 * [[GitHub] 1000ch / lazyload-image](https://github.com/1000ch/lazyload-image) - Extended Image Element for lazy loading as Web Components
 
+* [[GitHub] 1000ch / srcset-image](https://github.com/1000ch/srcset-image) - Polyfill for srcset feature as Web Components
+
 --
 
 * [Polymer vs. X-Tag - Here's the difference | Pascal Precht](https://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/)
