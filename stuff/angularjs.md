@@ -1532,6 +1532,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] jmdobry / angular-cache](https://github.com/jmdobry/angular-cache) - angular-cache is a very useful replacement for Angular's [$cacheFactory](http://docs.angularjs.org/api/ng.$cacheFactory)
 
+* [[GitHub] goodeggs / angular-cached-resource](https://github.com/goodeggs/angular-cached-resource) - An AngularJS module to interact with RESTful resources, even when browser is offline
+
+  * [angular-cached-resource - A module to interact with RESTful when offline | angular-js.in](http://angular-js.in/angular-cached-resource/)
+
 --
 
 * [[GitHub] agrublev / Angular-localStorage](https://github.com/agrublev/Angular-localStorage) - Simple AngularJS localStorage module (with two-way $scope bind into storage)
