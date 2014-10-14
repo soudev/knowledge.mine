@@ -1236,6 +1236,8 @@
 
 * [Using Node.js in Production | Flippin' Awesome](http://flippinawesome.org/2014/06/23/using-node-js-in-production/)
 
+* [Operating Node.js in Production | RisingStack Engineering](http://blog.risingstack.com/operating-node-in-production/)
+
 --
 
 * [Scaling Node.js Applications | Colin J. Ihrig's Blog](http://cjihrig.com/blog/scaling-node-js-applications/)
