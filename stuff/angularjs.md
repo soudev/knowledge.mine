@@ -786,6 +786,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[Gist] AngularJS Lesson Learned #2: Enabling HTTP Credentials | Mário Junior](https://gist.github.com/mariojunior/6175849)
 
+* [Como enviar cabeçalho em uma requisição com $http no AngularJS? | Nomadev](http://nomadev.com.br/como-enviar-cabe%C3%A7alho-em-uma-requisi%C3%A7%C3%A3o-com-http-no-angularjs/)
+
 --
 
 * [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
