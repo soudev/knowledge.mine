@@ -1524,6 +1524,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] PascalPrecht / angular-github-adapter](https://github.com/PascalPrecht/angular-github-adapter) - Angular adapter module for [github.js](https://github.com/michael/github)
+
 * [[GitHub] urish / angular-moment](https://github.com/urish/angular-moment) - Angular.JS directives for [Moment.JS](http://momentjs.com/) (timeago alternative)
 
 * [[GitHub] OutlawAndy / relativeDate](https://github.com/outlawandy/relativeDate) - Angular.js service providing auto-updating, relative time labels like "about 1 minute ago"
