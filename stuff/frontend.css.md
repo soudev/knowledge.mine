@@ -1,12 +1,32 @@
 # Front-End
 
+
+<!-- toc -->
+
+* [CSS](#css)
+  * [Media Query](#media-query)
+  * [Ferramentas online](#ferramentas-online)
+
+<!-- toc stop -->
+
+
 ## CSS
 
 * [CSS Tricks](http://css-tricks.com/)
 
 * [learn css layout](http://learnlayout.com/)
 
+--
+
 * [Architecting Scalable CSS | Speaker Deck](https://speakerdeck.com/csswizardry/architecting-scalable-css)
+
+* CSS escalável - Da filosofia à metodologia
+
+  * [Parte 1](https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e)
+
+  * [Parte 2](https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d)
+
+--
 
 * [The Semantic Grid System](http://semantic.gs/)
 
