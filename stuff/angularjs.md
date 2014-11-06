@@ -1558,6 +1558,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] webcss / angular-indexedDB](https://github.com/webcss/angular-indexedDB) - An angularjs serviceprovider to utilize indexedDB with angular
 
+* [[GitHub] tymondesigns / angular-locker](https://github.com/tymondesigns/angular-locker) - A simple & configurable abstraction for local/session storage in angular projects
+
 --
 
 * [[GitHub] firebase / angularFire](https://github.com/firebase/angularFire) - AngularJS bindings for [Firebase](https://www.firebase.com/quickstart/angularjs.html).
