@@ -20,6 +20,8 @@
 
 * [Como perder peso (no browser)](http://browserdiet.com/pt/) - O guia definitivo de performance front-end
 
+* [7 Principles of Rich Web Applications | rauchg.com](http://rauchg.com/2014/7-principles-of-rich-web-applications/)
+
 * [[GitHub] veltman / principles](https://github.com/veltman/principles) - Things to keep in mind when making stuff for the web
 
 * [[GitHub] dypsilon / frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
