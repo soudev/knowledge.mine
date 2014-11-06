@@ -115,6 +115,12 @@
 
 * [The Future of AngularJS | O'Reilly Radar](http://radar.oreilly.com/2014/09/the-future-of-angularjs.html) - Charting the progress towards AngularJS 2.0
 
+* [Can AngularJS Maintain Its Dominance? | Telerik Developer Network](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/)
+
+--
+
+* [AtScript (was "ES6 +A") Q&A | Google Doc](https://docs.google.com/document/d/1cUTD8oVzfpwFqX5tMxHTifKO8uJm5VddwmB0aVQMxpI/edit#heading=h.tk8rztcx46y)
+
 
 ### Estatísticas
 
