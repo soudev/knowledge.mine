@@ -113,6 +113,8 @@
 
 * [Como negar uma media query | sergiolopes.org](http://sergiolopes.org/negando-media-queries/)
 
+* [Using CSS Media Queries for Responsive Design | Travis Horn](http://travishorn.com/using-css-media-queries-for-responsive-design/)
+
 --
 
 * [mqa.js : a small, modern library for managing media queries programmatically (i.e. in JavaScript)](https://github.com/peol/mqa.js)
