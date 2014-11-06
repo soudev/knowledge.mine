@@ -1396,6 +1396,8 @@
 
 * [Bower](http://bower.io/) - is a package manager for the web, from Twitter, that lets you easily install assets such as images, CSS and JavaScript, and manages dependencies for you.
 
+* [Search Bower packages | Bower](http://bower.io/search/)
+
 * [[GitHub] bower / bower](https://github.com/bower/bower)
 
 * [Bower components](http://sindresorhus.com/bower-components/) - Sistema de busca dos pacotes/componentes indexados pelo Bower
