@@ -1410,6 +1410,8 @@
 
 --
 
+* [how npm handles the "scripts" field | npm docs](https://docs.npmjs.com/misc/scripts)
+
 * [task automation with npm run | unix philosopher. beep boop.](http://substack.net/task_automation_with_npm_run)
 
   * [[Gist] using `npm run` to build and watch with less and browserify](https://gist.github.com/substack/7819530)
