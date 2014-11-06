@@ -448,6 +448,10 @@
 
 * [Headless testing with Jasmine, PhantomJS and Grunt | simonsmith.io](http://simonsmith.io/headless-testing-with-jasmine-phantomjs-and-grunt/)
 
+--
+
+* [Using Grunt with Travis-CI | Travis Horn](http://travishorn.com/using-grunt-with-travis-ci/)
+
 
 ##### Exemplos de Uso
 
