@@ -741,6 +741,7 @@
 
 * [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
+--
 
 * [[GitHub] umdjs / umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere
 
@@ -1365,6 +1366,10 @@
 
 
 ### Gerenciador de Pacotes
+
+* [npm and front-end packaging | The npm Blog](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
+
+--
 
 * [Jam.js and Bower | Red Badger](http://red-badger.com/blog/2013/03/26/jam-js-and-bower/)
 
