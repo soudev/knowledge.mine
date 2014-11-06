@@ -279,6 +279,8 @@ git clean -fd
 
 * [Configurando proxy no Git](http://rodrigoramalho.org/2012/03/14/configurando-proxy-no-git/)
 
+* [Using git command with proxy network settings | Xinyustudio](http://xinyustudio.wordpress.com/2012/02/03/using-git-command-with-proxy/)
+
 --
 
 * [Release Your Software | GitHub Blog](https://github.com/blog/1547-release-your-software)
