@@ -1364,11 +1364,17 @@
 
 * [The Node Toolbox - Node.js happiness](http://nodetoolbox.com/) - is a catalogue of Node.js packages, tools and resources with popularity ratings based on Github watchers and forks
 
+* [David, a dependency management tool for Node.js projects](https://david-dm.org)
+
+--
+
 * [Node Modules](http://node-modules.com/) - Better search for Node.js modules
 
 * [Browse npm](http://browsenpm.org/)
 
-* [David, a dependency management tool for Node.js projects](https://david-dm.org)
+--
+
+* [[GitHub] travishorn / npm-package-store](https://github.com/travishorn/npm-package-store) - A web app that displays updates for your globally installed NPM modules
 
 --
 
