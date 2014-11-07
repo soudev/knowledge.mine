@@ -199,6 +199,8 @@
 
 --
 
+* [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
+
 * [SVG Tutorial and references | Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
