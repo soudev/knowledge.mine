@@ -85,6 +85,10 @@
 
 --
 
+* [[GitHub] mateusortiz / webcomponents-the-right-way](https://github.com/mateusortiz/webcomponents-the-right-way) - This is a guide intended to introduce to Web Components. Everyone can contribute here!
+
+--
+
 * [Web Components - building blocks of the future web | Infinum](https://www.infinum.co/the-capsized-eight/articles/web-components-building-blocks-of-the-future-web)
 
 * [[Speaker Deck] Um futuro chamado Web Components | Zeno Rocha](https://speakerdeck.com/zenorocha/um-futuro-chamado-web-components)
