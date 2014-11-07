@@ -1407,6 +1407,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular and Polymer Data Binding, Together! | Seth Ladd's Blog](http://blog.sethladd.com/2014/02/angular-and-polymer-data-binding.html)
 
+* [Integrating Web Components with AngularJS | Pascal Precht](https://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/)
+
 --
 
 * [[GitHub] webcomponents / angular-interop](https://github.com/webcomponents/angular-interop) - A demo of interoperability between Polymer and AngularJS
