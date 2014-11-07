@@ -674,6 +674,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Docs Performance | Pete Bacon Darwin](http://www.bacondarwin.co.uk/angularjs-docs-performance/)
 
+* [Improving Angular web app performance example | Better world by better software](http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html)
+
 --
 
 * [AngularJS Video Tutorial: Using angular.bootstrap to Initialize Your App | EggHead.io](http://egghead.io/lessons/angularjs-angular-bootstrap-app-init)
