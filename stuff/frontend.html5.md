@@ -484,6 +484,10 @@
 
 * [File System and JavaScript. Processing Files in Browser | XB Software](http://xbsoftware.com/blog/file-system-javascript-processing-files-browser/)
 
+* [Use the HTML5 File API to Work with Files Locally in the Browser | Scotch](http://scotch.io/tutorials/use-the-html5-file-api-to-work-with-files-locally-in-the-browser)
+
+--
+
 * [Resize an Image Using Canvas, Drag and Drop and the File API | David Walsh Blog](http://davidwalsh.name/resize-image-canvas)
 
 * [Creating a File Encryption App with JavaScript | Tutorialzine](http://tutorialzine.com/2013/11/javascript-file-encrypter/)
