@@ -117,6 +117,8 @@
 
 * [Can AngularJS Maintain Its Dominance? | Telerik Developer Network](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/)
 
+* [All About Angular 2.0 | The Eisenberg Effect](http://eisenbergeffect.bluespire.com/all-about-angular-2-0/)
+
 --
 
 * [AtScript (was "ES6 +A") Q&A | Google Doc](https://docs.google.com/document/d/1cUTD8oVzfpwFqX5tMxHTifKO8uJm5VddwmB0aVQMxpI/edit#heading=h.tk8rztcx46y)
