@@ -425,9 +425,13 @@
 
 * [Javascript Territory - Jster Javascript Catalog](http://jster.net/)
 
+* [SuperAgent - Ajax with less suck](http://visionmedia.github.com/superagent/)
+
+--
+
 * [Optimize Your Workflow: JavaScript Tools and Libraries](http://www.joezimjs.com/javascript/optimize-your-workflow-javascript-tools-and-libraries/)
 
-* [SuperAgent - Ajax with less suck](http://visionmedia.github.com/superagent/)
+* [[Speaker Deck] Front-end Tooling Workflows](https://speakerdeck.com/addyosmani/front-end-tooling-workflows) - 2014/11/09
 
 --
 
