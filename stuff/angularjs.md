@@ -389,7 +389,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS WebSocket Service Example | Clint Berry](http://clintberry.com/2013/angular-js-websocket-service/)
+
 * [Writing an AngularJS App with Socket.IO | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
+
+--
 
 * [$q | Angularjs Docs](http://docs.angularjs.org/api/ng.$q)
 
@@ -1092,6 +1096,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Facebook authentication in your AngularJS web app | Web Development blog](http://blog.brunoscopelliti.com/facebook-authentication-in-your-angularjs-web-app)
 
 * [Authentication to a RESTful web service in an AngularJS web app | Web Development blog](http://blog.brunoscopelliti.com/authentication-to-a-restful-web-service-in-an-angularjs-web-app)
+
+* [Authentication with AngularJS and a Node.js REST api | Kevin Delemme](http://www.kdelemme.com/2014/03/09/authentication-with-angularjs-and-a-node-js-rest-api/)
 
 * [AngularJS: Send auth token with every request](http://nils-blum-oeste.net/angularjs-send-auth-token-with-every--request/)
 
