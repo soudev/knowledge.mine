@@ -1301,6 +1301,12 @@
 
 ##### Firefox
 
+* [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) - Built for those who build the Web. Introducing the only browser made for developers like you.
+
+  * [Mozilla Introduces the First Browser Built For Developers: Firefox Developer Edition | Mozilla Hacks](https://hacks.mozilla.org/2014/11/mozilla-introduces-the-first-browser-built-for-developers-firefox-developer-edition/)
+
+--
+
 * [Firefox DevTools](https://developer.mozilla.org/en-US/docs/Tools)
 
 * [How To Use Firefox's Web Developer Tools](http://www.howtogeek.com/105320/how-to-use-firefoxs-web-developer-tools/)
