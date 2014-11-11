@@ -692,6 +692,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Form Validation | Scotch](http://scotch.io/tutorials/javascript/angularjs-form-validation)
 
+* [[GitHub] nelsonomuto / angular-ui-form-validation](https://github.com/nelsonomuto/angular-ui-form-validation) - Directives for angularjs field validation
+
+  * [ui-form-validation | Directives for angularjs field validation](http://angular-js.in/ui-form-validation/)
+
 * [[GitHub] kelp404 / angular-validator](https://github.com/kelp404/angular-validator) - AngularJS form validation
 
 * [AngularJS Multi-Step Form Using UI Router | Scotch](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
