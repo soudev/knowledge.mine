@@ -209,6 +209,8 @@
 
 * [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
 
+* [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - A CSS Framework and a Set of React Components that Implement Google's Material Design
+
 --
 
 * [D3 and React - the future of charting components? | the Binary blog](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
