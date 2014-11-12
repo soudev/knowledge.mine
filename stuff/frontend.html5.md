@@ -738,6 +738,8 @@
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
 
+  * [An introduction to LokiJS: the idiomatic way | Joe Minichino - Medium](https://medium.com/@tech_fort/an-introduction-to-lokijs-the-idiomatic-way-d24a4c546f7)
+
 * [[GitHub] jensarps / IDBWrapper](https://github.com/jensarps/IDBWrapper) - A cross-browser wrapper for IndexedDB
 
 * [[GitHub] aaronpowell / db.js](https://github.com/aaronpowell/db.js) - is a wrapper for IndexedDB to make it easier to work against 
