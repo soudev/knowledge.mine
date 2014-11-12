@@ -295,6 +295,10 @@
 
 ### Node.js
 
+* [Why is Node.js so popular for REST API? | LinkedIn Pulse](https://www.linkedin.com/pulse/article/20141112140704-4013609-why-is-node-js-so-popular-for-rest-api)
+
+--
+
 * [Creating a REST API using Node.js, Express, and MongoDB](http://coenraets.org/blog/2012/10/creating-a-rest-api-using-node-js-express-and-mongodb/)
 
 * [[GitHub] simov / purest](https://github.com/simov/purest) - REST API client library
