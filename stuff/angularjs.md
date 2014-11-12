@@ -28,7 +28,7 @@
   * [HTML5 offline](#html5-offline)
   * [Amazon AWS](#amazon-aws)
   * [Decorator](#decorator)
-  * [Dynamic / Lazy Load](#dynamic-lazy-load)
+  * [Dynamic and Lazy Load](#dynamic-and-lazy-load)
   * [Building Apps](#building-apps)
   * [Google](#google)
     * [Google Spreadsheet](#google-spreadsheet)
@@ -860,15 +860,19 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Modifying the behavior of AngularJS’ core services | CLI nerd](http://www.cli-nerd.com/blog/2014/05/08/%24provide-dot-decorator/) - $provide.decorator()
 
 
-### Dynamic / Lazy Load
+### Dynamic and Lazy Load
 
 * [[SlideShare] Angularjs - lazy loading techniques](http://www.slideshare.net/nirkaufman/angularjs-lazy-loading-techniques)
 
-  * [[GitHub] nirkaufman / lazyLoadingDemo](https://github.com/nirkaufman/lazyLoadingDemo) - Demo project
+* [[GitHub] nirkaufman / lazyLoadingDemo](https://github.com/nirkaufman/lazyLoadingDemo) - Demo project
 
-  * [[GitHub] ocombe / ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Load modules on demand (lazy load) in AngularJS
+* [[GitHub] ocombe / ocLazyLoad](https://github.com/ocombe/ocLazyLoad) - Load modules on demand (lazy load) in AngularJS
 
-    * [Simple Lazy Loaded Angular Module Syntax with ocLazyLoad - AngularJS Video Tutorial](https://egghead.io/lessons/angularjs-simple-lazy-loaded-angular-module-syntax-with-oclazyload) - ocLazyLoad offers several ways to lazy load your AngularJS modules. This lesson looks at the syntax for lazy loading dependencies declared in the module definition.
+* [Simple Lazy Loaded Angular Module Syntax with ocLazyLoad - AngularJS Video Tutorial](https://egghead.io/lessons/angularjs-simple-lazy-loaded-angular-module-syntax-with-oclazyload) - ocLazyLoad offers several ways to lazy load your AngularJS modules. This lesson looks at the syntax for lazy loading dependencies declared in the module definition.
+
+* [Lazy-loading with AngularJS + requirejs + ocLazyLoad | Plunker](http://embed.plnkr.co/bwaBRv/app.js)
+
+--
 
 * [[GitHub] geddski / overmind](https://github.com/geddski/overmind) - Easy module isolation and lazy loading for Angular apps
 
