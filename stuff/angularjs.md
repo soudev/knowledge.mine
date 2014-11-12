@@ -919,6 +919,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Requiring Versus Browserifying Angular | Telerik Developer Network](http://developer.telerik.com/featured/requiring-vs-browerifying-angular/)
+
+--
+
 * [Require.js packages for building large scale angular applications | Jonathan Creamer](http://jonathancreamer.com/require-js-packages-for-building-large-scale-angular-applications/)
 
   * [[GitHub] jcreamer898 / requirejs-angular-starter](https://github.com/jcreamer898/requirejs-angular-starter) - Get started with large scale angular applications and require.js
