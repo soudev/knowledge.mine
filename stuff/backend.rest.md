@@ -191,10 +191,6 @@
 
 ### Java
 
-* [Building RESTful Web Services with JAX-RS](http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html)
-
-* [RESTful services with jQuery and Java using JAX-RS and Jersey](http://coenraets.org/blog/2011/12/restful-services-with-jquery-and-java-using-jax-rs-and-jersey/)
-
 * [RESTful API Server – Doing it the right way (Part 1) | MKBlog](http://blog.mugunthkumar.com/articles/restful-api-server-doing-it-the-right-way-part-1/)
 
 * [RESTful API Server – Doing it the right way (Part 2) | MKBlog](http://blog.mugunthkumar.com/articles/restful-api-server-doing-it-the-right-way-part-2/)
@@ -211,15 +207,27 @@
 
 * [[GitHub] olivergierke / spring-restbucks](https://github.com/olivergierke/spring-restbucks) - Implementation of the sample from REST in Practice based on Spring projects
 
-* [The Java API for RESTful Web Services (JAX-RS) - Rapidly Build Lightweight Web Services | Oracle](http://www.oracle.com/technetwork/articles/javaee/jax-rs-159890.html)
-
 * [Putting Java to REST | Javalobby](http://java.dzone.com/articles/putting-java-rest)
+
+--
+
+* [JAX-RS 2.0, as novidades do padrão para desenvolvimento REST e o mundo das APIs | InfoQ Br](http://www.infoq.com/br/presentations/jax-rs-2-as-novidades-do-padrao-para-desenvolvimento) - Conheça as novidades da API de desenvolvimento de REST da plataforma Java e as novas funcionalidades que irão tornar o desenvolvimento mais simples, produtivo e divertido, bem como os conceitos de desenvolvimento de APIs para integração com parceiros, clientes e devices.
+
+--
+
+* [Building RESTful Web Services with JAX-RS](http://docs.oracle.com/javaee/6/tutorial/doc/giepu.html)
+
+* [RESTful services with jQuery and Java using JAX-RS and Jersey](http://coenraets.org/blog/2011/12/restful-services-with-jquery-and-java-using-jax-rs-and-jersey/)
+
+* [The Java API for RESTful Web Services (JAX-RS) - Rapidly Build Lightweight Web Services | Oracle](http://www.oracle.com/technetwork/articles/javaee/jax-rs-159890.html)
 
 * [REST with Java (JAX-RS) using Jersey - Tutorial](http://www.vogella.com/articles/REST/)
 
 * [[GitHub] tdiesler / javaee-tutorial](https://github.com/tdiesler/javaee-tutorial) - [JBoss JavaEE 6 Tutorial](https://docs.jboss.org/author/display/AS71/JavaEE+6+Tutorial)
 
 * [RESTful Web services Tutorials | How to do in JAVA](http://howtodoinjava.com/restful-web-service/)
+
+--
 
 * [Adicionando flexibilidade à sua implementação REST com Yoga | InfoQ Br](http://www.infoq.com/br/articles/json-yoga)
 
