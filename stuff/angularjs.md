@@ -874,6 +874,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Load a module on demand with AngularJS | getElementsByIdea](http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/)
+
+--
+
 * [[GitHub] geddski / overmind](https://github.com/geddski/overmind) - Easy module isolation and lazy loading for Angular apps
 
 * [[GitHub] marcoslin / angularAMD](https://github.com/marcoslin/angularAMD) - Facilitate use of RequireJS in AngularJS
