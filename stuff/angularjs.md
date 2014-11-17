@@ -1652,17 +1652,29 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Customizable Dashboards With Angular Kendo UI and Bootstrap | Telerik Developer Network](http://developer.telerik.com/featured/customizable-dashboards-angular-kendo-ui-bootstrap/)
 
+--
+
 * [Angular UI](http://angular-ui.github.com/) - Componentes de UI
+
+  * [[GitHub] angular-ui / AngularJS-brackets](https://github.com/angular-ui/AngularJS-brackets) - AngularJS plugin for Brackets
 
   * [Angular UI / UI Bootstrap](http://angular-ui.github.com/bootstrap/)
 
-  * [Diving deep into the AngularUI Router | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-router.html)
+  * AngularUI Router
 
-  * [Nested animations in AngularJS using ui-router | Dave Chenell - The Water Bear](http://thewaterbear.com/nested-animations-in-angularjs-using-ui-router/)
+    * [Lecture 05 - UI Router](https://objectpartners.github.io/angular-training/lectures/lecture-05.html)
 
-  * [Advanced routing and resolves | Medium](https://medium.com/opinionated-angularjs/a2fcbf874a1c) - Use the AngularUI Router instead of ngRoute
+    * [5 AngularJS UI-Router Examples | AngularJS 4U](http://angularjs4u.com/routes/5-angularjs-ui-router-examples/)
 
-  * [[GitHub] angular-ui / AngularJS-brackets](https://github.com/angular-ui/AngularJS-brackets) - AngularJS plugin for Brackets
+    * [AngularUI Router Challenges | Sagiv Frankel](http://www.sagivfrankel.com/2014/04/21/angularui-router-challenges/)
+
+    * [Diving deep into the AngularUI Router | ng-newsletter](http://www.ng-newsletter.com/posts/angular-ui-router.html)
+
+    * [Nested animations in AngularJS using ui-router | Dave Chenell - The Water Bear](http://thewaterbear.com/nested-animations-in-angularjs-using-ui-router/)
+
+    * [Advanced routing and resolves | Medium](https://medium.com/opinionated-angularjs/a2fcbf874a1c) - Use the AngularUI Router instead of ngRoute
+
+--
 
 * [AngularStrap](https://mgcrea.github.io/angular-strap/) - Bootstrap directives for AngularJS
 
