@@ -1141,6 +1141,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS - Quick Role-Based Authentication | ArthurGonigberg](http://arthur.gonigberg.com/2013/06/29/angularjs-role-based-auth/)
 
+* [AngularJS Authenticate By Route | Calendee LLC](http://calendee.com/2014/01/11/angularjs-authenticate-by-route/)
+
 --
 
 * [Authentication with Ionic and Angular.js in a Cordova/Phonegap mobile web application | KD Moore Consulting](http://www.kdmooreconsulting.com/blogs/authentication-with-ionic-and-angular-js-in-a-cordovaphonegap-mobile-web-application/)
