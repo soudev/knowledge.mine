@@ -1143,6 +1143,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Authenticate By Route | Calendee LLC](http://calendee.com/2014/01/11/angularjs-authenticate-by-route/)
 
+* [AngularJS - Restrict Access to Routes by Checking User Login | Midgets standing on the toes of others](http://midgetontoes.com/blog/2014/08/31/angularjs-check-user-login)
+
 --
 
 * [Authentication with Ionic and Angular.js in a Cordova/Phonegap mobile web application | KD Moore Consulting](http://www.kdmooreconsulting.com/blogs/authentication-with-ionic-and-angular-js-in-a-cordovaphonegap-mobile-web-application/)
