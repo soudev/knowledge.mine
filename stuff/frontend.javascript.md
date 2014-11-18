@@ -1338,6 +1338,10 @@
 
 * [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
 
+* [Que usamos 10% do cérebro é mito. Mas que usamos 10% do Chrome, é fato! Chrome, a IDE que eu queria! | InfoQ Br](http://www.infoq.com/br/presentations/chrome-ide-que-eu-queria)
+
+* [[YouTube Playlist] Segredos do Chrome DevTools](https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
+
 * [DevTools Extensions Gallery](https://developers.google.com/chrome-developer-tools/docs/extensions-gallery)
 
 * [Console | Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/console)
