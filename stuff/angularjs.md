@@ -682,6 +682,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Improving Angular web app performance example | Better world by better software](http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html)
 
+* [Is AngularJS Fast Enough? | Medium @jeffwhelpley](https://medium.com/@jeffwhelpley/is-angularjs-fast-enough-98dcf96406c8)
+
 --
 
 * [AngularJS Video Tutorial: Using angular.bootstrap to Initialize Your App | EggHead.io](http://egghead.io/lessons/angularjs-angular-bootstrap-app-init)
