@@ -280,6 +280,8 @@
 
 ### Codificação
 
+* [3 games para aprender a programar | Startupi](http://startupi.com.br/2014/08/3-games-para-aprender-programar/)
+
 * [Coder Speech](http://www.coderspeech.com/) - Learn to code by watching programming videos
 
 --
