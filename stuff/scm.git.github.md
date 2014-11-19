@@ -92,6 +92,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
   * [[YouTube] GitHub Guides](https://www.youtube.com/githubguides)
 
+* [[GitHub] tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub
+
 --
 
 * [SlideShare] Vinicius Ban
