@@ -684,6 +684,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Is AngularJS Fast Enough? | Medium @jeffwhelpley](https://medium.com/@jeffwhelpley/is-angularjs-fast-enough-98dcf96406c8)
 
+* [Optimizing AngularJS: 1200ms to 35ms | Scalyr Blog](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
+
 --
 
 * [AngularJS Video Tutorial: Using angular.bootstrap to Initialize Your App | EggHead.io](http://egghead.io/lessons/angularjs-angular-bootstrap-app-init)
