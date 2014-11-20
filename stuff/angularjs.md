@@ -1468,6 +1468,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] igorcosta / ng-filters-br](https://github.com/igorcosta/ng-filters-br) - Filtros dos padrões Brasileiros para quem usa o Angular e seus filtros
 
+* [Exploring Angular 1.3 - Stateful filters | thoughtram - Extend your memory](http://blog.thoughtram.io/angularjs/2014/11/19/exploring-angular-1.3-stateful-filters.html)
+
 
 ## Módulos
 
