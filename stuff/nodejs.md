@@ -972,11 +972,15 @@
 
 * [Tracking down a memory leak in Node.js and Socket.IO](http://jpallen.net/2013/03/08/tracking-down-a-memory-leak-in-node-js-and-socket-io/)
 
-* [Blazing fast node.js: 10 performance tips from LinkedIn Mobile](http://engineering.linkedin.com/nodejs/blazing-fast-nodejs-10-performance-tips-linkedin-mobile)
-
 * [Tools and Strategies for node.js Development on GitHub | Chris Wren](http://chrisawren.com/posts/Tools-and-Strategies-for-node-js-Development-on-GitHub)
 
 * [Scaling Node.js Applications](http://cjihrig.com/blog/scaling-node-js-applications/)
+
+--
+
+* [Blazing fast node.js: 10 performance tips from LinkedIn Mobile](http://engineering.linkedin.com/nodejs/blazing-fast-nodejs-10-performance-tips-linkedin-mobile)
+
+* [Node.js in Flames | Netflix](http://techblog.netflix.com/2014/11/nodejs-in-flames.html) - 2014/11/19 : We’ve been busy building our next-generation Netflix.com web application using Node.js
 
 --
 
