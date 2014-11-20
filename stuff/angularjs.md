@@ -1674,6 +1674,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
     * [AngularJS Routing Using UI-Router | Scotch](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
 
+    * [[SlideShare] Angular Promises and Advanced Routing](http://www.slideshare.net/alexebogdan/angular-promisesandadvancedrouting)
+
     * [5 AngularJS UI-Router Examples | AngularJS 4U](http://angularjs4u.com/routes/5-angularjs-ui-router-examples/)
 
     * [AngularUI Router Challenges | Sagiv Frankel](http://www.sagivfrankel.com/2014/04/21/angularui-router-challenges/)
