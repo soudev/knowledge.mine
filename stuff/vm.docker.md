@@ -65,6 +65,8 @@
 
   * [[SlideShare] Docker, Linux Containers (LXC), and security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) - 2014/08/20
 
+  * [Docker Client disponível para Microsoft Windows | InfoQ Br](http://www.infoq.com/br/news/2014/11/docker-client-windows) - 2014/11/20
+
 
 ### Aprendizado
 
