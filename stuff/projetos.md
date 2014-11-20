@@ -88,7 +88,7 @@
 
 ### Atomic Design
   
-* [Atomic Design | Brad Frost Web](http://bradfrostweb.com/blog/post/atomic-web-design/)
+* [Atomic Design | Brad Frost Web](http://bradfrost.com/blog/post/atomic-web-design/)
 
 * [Atomic Design - Por que usar? | Nomadev](http://nomadev.com.br/atomic-design-por-que-usar/)
 
