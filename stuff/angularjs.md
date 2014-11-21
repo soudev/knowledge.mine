@@ -119,6 +119,8 @@
 
 * [All About Angular 2.0 | The Eisenberg Effect](http://eisenbergeffect.bluespire.com/all-about-angular-2-0/)
 
+* [Brace yourselves, future is coming: ES6, AtScript and Angular 2.0 | LingoHub Blog](http://blog.lingohub.com/developers/2014/11/brace-future-coming-es6-atscript-angular-2-0/)
+
 --
 
 * [AtScript (was "ES6 +A") Q&A | Google Doc](https://docs.google.com/document/d/1cUTD8oVzfpwFqX5tMxHTifKO8uJm5VddwmB0aVQMxpI/edit#heading=h.tk8rztcx46y)
