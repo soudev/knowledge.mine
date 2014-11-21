@@ -1544,6 +1544,8 @@
 
 * [es6rocks.com](http://es6rocks.com/) : new site dedicated to articles and talks about the next version of JavaScript
 
+  * [ES6: Brincando com o novo Javascript | ES6 Rocks](http://es6rocks.com/pt-br/2014/11/es6-playing-with-the-new-javascript/)
+
 --
 
 * [ECMAScript 6 modules: the final syntax | 2ality](http://www.2ality.com/2014/09/es6-modules-final.html)
@@ -1565,6 +1567,8 @@
 * [Get ready for ECMAScript 6 | K33G_ORG's Blog](https://k33g.github.io/2014/06/26/ES6-READY.html)
 
 * [An introduction to ES6 classes | JavaScript Playground](http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/)
+
+* [Preparing for ECMAScript 6: let and const | SitePoint](http://www.sitepoint.com/preparing-ecmascript-6-let-const/)
 
 --
 
