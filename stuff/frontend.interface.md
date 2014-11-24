@@ -7,6 +7,7 @@
   * [Look and Feel](#look-and-feel)
   * [Fonts](#fonts)
   * [Web Components](#web-components)
+    * [Polyfills](#polyfills)
     * [X-Tag](#x-tag)
     * [Polymer](#polymer)
     * [Brick](#brick)
@@ -170,6 +171,13 @@
 --
 
 * [Polymer vs. X-Tag - Here's the difference | Pascal Precht](https://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/)
+
+
+#### Polyfills
+
+* [Polyfills | WebComponents.org](http://webcomponents.org/polyfills/)
+
+* [[GitHub] webcomponents / webcomponentsjs](https://github.com/WebComponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 
 
 #### X-Tag 
