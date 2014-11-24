@@ -393,6 +393,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS: Looking under the hood [Part 1] - Tutorial | Binpress](http://www.binpress.com/tutorial/angular-js-looking-under-the-hood/153)
+
+--
+
 * [AngularJS WebSocket Service Example | Clint Berry](http://clintberry.com/2013/angular-js-websocket-service/)
 
 * [Writing an AngularJS App with Socket.IO | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/frameworks/angular-websockets/)
