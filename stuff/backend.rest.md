@@ -303,6 +303,8 @@
 
 * [[GitHub] simov / purest](https://github.com/simov/purest) - REST API client library
 
+* [Guardian.js](http://guardianjs.com/) - Consuming OAuth services has never been easier. Guardian reduces the OAuth footprint in your code to a single request
+
 
 ## Ferramentas
 
