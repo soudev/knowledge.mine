@@ -1574,6 +1574,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
 
+* [[GitHub] remotty / angular-ladda](https://github.com/remotty/angular-ladda) - An angular directive wrapper for Ladda
+
 * [ngProgress](http://victorbjelkholm.github.io/ngProgress/) - Slim, site-wide progressbar for Angular
 
 * [Angular Loading Bar](http://chieffancypants.github.io/angular-loading-bar/) - An automatic loading bar using angular interceptors. It works automatically, so simply include it as a dependency and it will automatically display the progress of your $http requests.
