@@ -657,6 +657,8 @@
 
   * [[GitHub] gskinner / regexr](https://github.com/gskinner/regexr) - is a HTML/JS based tool for creating, testing, and learning about Regular Expressions
 
+* [Regulex](http://jex.im/regulex/) - JavaScript Regular Expression Visualizer
+
 
 ### Performance
 
