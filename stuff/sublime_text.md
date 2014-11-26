@@ -132,6 +132,8 @@
 
 * [[GitHub] kenwheeler / brogrammer-theme](https://github.com/kenwheeler/brogrammer-theme) - Brogrammer is a flat sexy Sublime Text theme. Pushups not included.
 
+* [[GitHub] karelvuong / fox](https://github.com/karelvuong/fox) - A UI + syntax theme for Sublime Text based on Mozilla's Firefox Developer Edition
+
 
 ## Packages e Plugins
 
