@@ -80,7 +80,11 @@ for developing fast and powerful web interfaces.
 
 * [v2.3.2](http://getbootstrap.com/2.3.2/)
 
-* [v3.1.0](http://getbootstrap.com/) | [release infos](http://blog.getbootstrap.com/2014/01/30/bootstrap-3-1-0-released/)
+* [v3.1.1](http://getbootstrap.com/) | [release infos](http://blog.getbootstrap.com/2014/11/12/bootstrap-3-3-1-released/)
+
+--
+
+* [[GitHub] luiztiago / bootstraptherightway](A compilation of good practices to use Bootstrap) - A compilation of good practices to use Bootstrap
 
 --
 
