@@ -152,6 +152,8 @@
 
 * [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
+* [[SlideShare] Functional Programming Patterns (BuildStuff '14)](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
+
 * [Functions Explained | Mark Daggett's Blog](http://markdaggett.com/blog/2013/02/15/functions-explained/)
 
 * [Javascript hoisting explained | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/)
