@@ -978,6 +978,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Build Apps with AngularJS | Google Chrome Apps](http://developer.chrome.com/trunk/apps/angular_framework.html)
 
+* [Rapid chrome app development with angular | ng-newsletter](http://www.ng-newsletter.com/posts/chrome-apps-on-angular.html)
+
 * [AngularJs web app with Google Cloud Storage backend service | dev.yathit.com](http://dev.yathit.com/tutorial/angular-js-gcs-backend.html)
 
 
