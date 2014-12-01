@@ -513,6 +513,10 @@
 
 --
 
+* [[GitHub] openseadragon / openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript
+
+--
+
 * [[GitHub] maroslaw / rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window (use canvas)
 
   * [Creating a Realistic Rain Effect with Canvas and JavaScript | Flippin' Awesome](http://flippinawesome.org/2013/09/23/creating-a-realistic-rain-effect-with-canvas-and-javascript/)
