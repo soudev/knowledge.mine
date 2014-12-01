@@ -148,6 +148,8 @@
 
 --
 
+* [Every Possible Way to Define a Javascript Function | Bryan Braun](http://www.bryanbraun.com/2014/11/27/every-possible-way-to-define-a-javascript-function)
+
 * [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
 * [Functions Explained | Mark Daggett's Blog](http://markdaggett.com/blog/2013/02/15/functions-explained/)
