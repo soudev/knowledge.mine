@@ -335,6 +335,10 @@
 
 * [Move fast and don’t break things! Testing with Jenkins, Ansible and Docker | Rackspace Developer Center](http://developer.rackspace.com/blog/move-fast-and-dont-break-things-testing-with-jenkins-ansible-and-docker.html)
 
+--
+
+* [[GitHub] SeleniumHQ / docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server
+
 
 ### Raspberry Pi
 
