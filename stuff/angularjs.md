@@ -2056,6 +2056,8 @@ describe('testing something...', function() {
 
 --
 
+* [Run protractor against Internet Explorer VM | Leo Gallucci's blog](https://elgalu.github.io/2014/run-protractor-against-internet-explorer-vm/)
+
 * [Concurrent Protractor Tests with Selenium Grid in Docker | txt.fliglio.com](http://txt.fliglio.com/2014/01/concurrent-protractor-testing/)
 
 --
