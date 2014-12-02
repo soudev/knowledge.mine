@@ -239,6 +239,12 @@
 
 --
 
+* [Sample Mobile Application with React and Cordova | Christophe Coenraets](http://coenraets.org/blog/2014/12/sample-mobile-application-with-react-and-cordova/)
+
+  * [[GitHub] ccoenraets / react-employee-directory](https://github.com/ccoenraets/react-employee-directory) - Sample Application with the React Framework
+
+--
+
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
 
   * [[GitHub] brian3kb / tic_tac_reactjs](https://github.com/brian3kb/tic_tac_reactjs) - Simple tic tac toe game built with reactjs
