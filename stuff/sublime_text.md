@@ -153,9 +153,15 @@
 
 * [[GitHub] - titoBouzout / SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 
+--
+
 * [Sublime Linter](https://github.com/SublimeLinter/SublimeLinter) - s a plugin that supports "lint" programs (known as "linters").  SublimeLinter highlights lines of code the linter deems to contain  (potential) errors. It also supports highlighting special annotations  (for example: TODO) so that they can be quickly located.
 
 * [[GitHub] facelessuser / BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) - Bracket and tag highlighter for Sublime Text
+
+--
+
+* [[GitHub] addyosmani / sublime-fixmyjs](https://github.com/addyosmani/sublime-fixmyjs) - SublimeText package for FixMyJS
 
 --
 
