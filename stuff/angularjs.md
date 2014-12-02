@@ -299,6 +299,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Getting up-to-speed with AngularJS in 1 day | colintoh.com](http://colintoh.com/blog/getting-up-to-speed-with-angularjs-in-one-day) - A point-blank guide to learning AngularJS
+
+--
+
 * [The Angular Course](http://www.angularcourse.com/) - When you're done, you'll have full web app built with AngularJS, Firebase, Twilio, and Zapier.
 
 * [Shaping up with Angular.js : Free CodeSchool Course](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
