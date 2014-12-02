@@ -2056,6 +2056,14 @@ describe('testing something...', function() {
 
 --
 
+* [Concurrent Protractor Tests with Selenium Grid in Docker | txt.fliglio.com](http://txt.fliglio.com/2014/01/concurrent-protractor-testing/)
+
+--
+
+* [[GitHub] angular / protractor ISSUE #1223 Protractor 1.1.0: IE fails with "Unable to get browser" error on start](https://github.com/angular/protractor/issues/1223)
+
+--
+
 * Protractor issue with angular $timeout, use [$interval](https://github.com/angular/angular.js/blob/master/src/ng/interval.js#L55) instead
 
   * [[StackOverflow] get text of element during angular $timeout in protractor](https://stackoverflow.com/questions/24041920/get-text-of-element-during-angular-timeout-in-protractor)
