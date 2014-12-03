@@ -397,11 +397,19 @@
 
 --
 
+* [[GitHub] laurentj / slimerjs](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko
+
 * [Phantomjs](http://phantomjs.org/) -  is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG
 
-* [[GitHub] segmentio / nightmare](https://github.com/segmentio/nightmare) - A high level wrapper for Phantomjs
+  * [[GitHub] segmentio / nightmare](https://github.com/segmentio/nightmare) - A high level wrapper for Phantomjs
 
-* [[GitHub] fouber / page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs
+  * [[GitHub] fouber / page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs
+
+--
+
+* [CasperJS](http://casperjs.org/) is a navigation scripting & testing utility for PhantomJS and SlimerJS written in Javascript
+
+* [Automated end to end testing at Khan Academy using Gecko | Brian R. Bondy](http://www.brianbondy.com/blog/id/167/automated-end-to-end-testing-at-khan-academy-using-gecko/)
 
 --
 
