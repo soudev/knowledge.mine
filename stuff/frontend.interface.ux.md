@@ -15,6 +15,8 @@
 
 * [UX is not UI | Hello Erik](http://www.helloerik.com/ux-is-not-ui)
 
+* [UX Careers Guide | Onward Search](http://www.onwardsearch.com/career-center/ux-careers-guide/) - User Experience is one of the fastest growing and most exciting segments in the interactive industry. The UX Careers Guide provides essential information on the different career opportunities within UX, national benchmarks for UX salaries, the hottest metro areas for UX jobs, and tools of the trade for UX professionals.
+
 --
 
 * [O começo do fim dos wireframes | Blog de AI](http://arquiteturadeinformacao.com/user-experience/o-comeco-do-fim-dos-wireframes/)
