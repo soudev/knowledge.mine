@@ -1014,6 +1014,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angulartics](http://luisfarzati.github.io/angulartics/) - Web analytics for AngularJS applications
 
+* [Tracking Pageviews with Google Analytics and AngularJS | Nic Raboys Code Blog](http://blog.nraboy.com/2014/11/tracking-pageviews-google-analytics-angular-js/) - Track the full URL of every pageview, path and query, using Google Analytics and AngularJS
+
 
 ### Internacionalização
 
