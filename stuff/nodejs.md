@@ -701,6 +701,7 @@
 
   * [[GitHub] andris9 / Nodemailer](https://github.com/andris9/Nodemailer) - Send e-mails with Node.JS - easy as cake!
 
+* [[GitHub] vdemedes / mailman](https://github.com/vdemedes/mailman) - Send emails in a comfortable way via models
 
 --
 
