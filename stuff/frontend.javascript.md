@@ -809,6 +809,12 @@
 
 --
 
+* [Browserify-CDN](http://wzrd.in/) - Browserify as a service
+
+  * [[GitHub] jesusabdullah / browserify-cdn](https://github.com/jesusabdullah/browserify-cdn)
+
+--
+
 * [[GitHub] substack / node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
 
 * [[GitHub] substack / browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
