@@ -67,6 +67,9 @@
 
   * [Docker Client disponível para Microsoft Windows | InfoQ Br](http://www.infoq.com/br/news/2014/11/docker-client-windows) - 2014/11/20
 
+  * DockerCon Europe
+
+    * [[SlideShare] Dockercon Europe 2014 - Continuous Delivery leveraging on Docker CaaS](http://fr.slideshare.net/adrienblind/dockercon-europe-2014-continuous-delivery-leveraging-on-docker-caas)
 
 ### Aprendizado
 
