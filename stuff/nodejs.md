@@ -1384,6 +1384,8 @@
 
 * [Browse npm](http://browsenpm.org/)
 
+* [searchnod.es](http://searchnod.es/) - code search for npm
+
 --
 
 * [[GitHub] travishorn / npm-package-store](https://github.com/travishorn/npm-package-store) - A web app that displays updates for your globally installed NPM modules
