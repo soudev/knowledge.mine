@@ -117,6 +117,8 @@
 
 * [[YouTube] What is DevOps? - In Simple English](https://www.youtube.com/watch?v=_I94-tJlovg) - Rackspace (12/12/2013)
 
+* [[YouTube] IBM Hackathon DevOps - O que é DevOps?](https://www.youtube.com/watch?v=3nLS1x3UuRM) - Bruno Souza (30/04/2014)
+
 * [O que é DevOps afinal? | gutocarvalho.net](http://gutocarvalho.net/octopress/2013/03/16/o-que-e-um-devops-afinal/)
 
 * [Why DevOps Matters To Developers | Contino](http://contino.co.uk/why-devops-matters-to-developers/)
