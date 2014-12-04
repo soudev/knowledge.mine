@@ -62,7 +62,11 @@
 
 --
 
+* [353 ways to reload your page : location](http://www.phpied.com/files/location-location/location-location.html)
+
 * [Complete List of HTML Meta Tags | Lance Pollard](http://code.lancepollard.com/complete-list-of-html-meta-tags/)
+
+--
 
 * [WebKit for Developers | Paul Irish](http://paulirish.com/2013/webkit-for-developers/)
 
