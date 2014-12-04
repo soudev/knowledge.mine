@@ -1633,7 +1633,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Módulos de Gráficos
 
-* [[GitHub] Schweigi / angular-gantt](https://github.com/schweigi/angular-gantt/) - A Gantt chart directive for Angular.js without any other dependencies
+* [[GitHub] angular-gantt / angular-gantt](https://github.com/angular-gantt/angular-gantt) - Gantt chart component for AngularJS
 
 * d3.js
 
