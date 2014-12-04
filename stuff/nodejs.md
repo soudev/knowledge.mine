@@ -344,6 +344,8 @@
 
   * [My Quest for the Perfect Screenshot App | Viget](http://viget.com/flourish/my-qwest-for-the-perfect-screenshot-app)
 
+* [[GitHub] vbauer / manet](https://github.com/vbauer/manet) - Website screenshot service powered by Node.js, SlimerJS and PhantomJS
+
 --
 
 * [[GitHub] jh3y / sike](https://github.com/jh3y/sike) - a cli tool that reminds you to get up and move around
