@@ -417,6 +417,10 @@
 
 * [The JavaScript console API | 2 ality](http://www.2ality.com/2013/10/console-api.html)
 
+* [5 functions of the Console object you didn’t know | Shelly Cloud](https://shellycloud.com/blog/2014/11/five-functions-of-the-console-object-you-didnt-know)
+
+--
+
 * [7 JavaScript Basics Many Developers Aren't Using (Properly) | Tech.Pro](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
 
 * [An interesting kind of JavaScript memory leak | Meteor Blog](http://www.meteor.com/blog/2013/08/13/an-interesting-kind-of-javascript-memory-leak)
