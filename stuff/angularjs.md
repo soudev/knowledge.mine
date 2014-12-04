@@ -1235,7 +1235,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Employee Directory Sample App with Ionic and Node.js](http://coenraets.org/blog/2014/08/employee-directory-sample-app-with-ionic-and-node-js/)
 
-  * [[GitHub] ccoenraets / directory-ionic-nodejs](https://github.com/ccoenraets/directory-ionic-nodejs) - Sample Employee Directory App built with Ionic and Node.js
+    * [[GitHub] ccoenraets / directory-ionic-nodejs](https://github.com/ccoenraets/directory-ionic-nodejs) - Sample Employee Directory App built with Ionic and Node.js
+
+  * [Ionic Tutorial and Sample Application](http://coenraets.org/blog/2014/10/ionic-tutorial-and-sample-application/)
+
+    * [[GitHub] ccoenraets / ioconf](https://github.com/ccoenraets/ioconf) - Conference sample app built with AngularJS and Ionic
 
 --
 
