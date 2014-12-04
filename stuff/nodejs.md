@@ -324,7 +324,11 @@
 
 * [[GitHub] ConradIrwin / unicode-dragon](https://github.com/ConradIrwin/unicode-dragon) - eats invalid unicode for breakfast
 
+--
+
 * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
+
+* [[GitHub] ksky521 / nodePPT](https://github.com/ksky521/nodePPT) - This is probably the best web presentation tool so far
 
 * [[GitHub] gjtorikian / namp](https://github.com/gjtorikian/namp) - A fork of chjj's marked that adds some additional features (markdown)
 
