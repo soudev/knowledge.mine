@@ -842,9 +842,13 @@
 
 * [RequireJS](http://requirejs.org)
 
-* [[GitHub] CaryLandholt / Tutorial RequireJS TheBasics](https://github.com/CaryLandholt/Tutorial-RequireJS-TheBasics)
+* [[YouTube] RequireJS - The Basics](https://www.youtube.com/watch?v=VGlDR1QiV3A)
 
-* [[GitHub] CaryLandholt / Tutorial RequireJS Optimizer](https://github.com/CaryLandholt/Tutorial-RequireJS-Optimizer)
+  * [[GitHub] CaryLandholt / Tutorial RequireJS TheBasics](https://github.com/CaryLandholt/Tutorial-RequireJS-TheBasics)
+
+* [[YouTube] RequireJS - Optimizer](https://www.youtube.com/watch?v=m6VNhqKDM4E) - Cary Landholt
+
+  * [[GitHub] CaryLandholt / Tutorial RequireJS Optimizer](https://github.com/CaryLandholt/Tutorial-RequireJS-Optimizer)
 
 * [Modular JavaScript with RequireJS](http://blog.credera.com/topic/technology-solutions/java/modular-javascript-with-requirejs/)
 
