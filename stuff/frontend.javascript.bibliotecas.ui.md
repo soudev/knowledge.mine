@@ -254,6 +254,10 @@
 
 ### Template Engine
 
+* [The anatomy of a simple templating engine | jsforall](http://jsforallof.us/2014/12/01/the-anatomy-of-a-simple-templating-engine/)
+
+--
+
 * [Template Engine Chooser](http://garann.github.io/template-chooser/)
 
 * [Nunjucks](http://jlongster.github.io/nunjucks/) - A rich and powerful templating language for JavaScript
