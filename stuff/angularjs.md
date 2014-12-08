@@ -1391,6 +1391,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] assisrafael / angular-input-masks](https://github.com/assisrafael/angular-input-masks) - Personalized input masks for AngularJS
+
+--
+
 * [Datatable with fully dynamic columns in AngularJS | Entwicklertagebuch](http://entwicklertagebuch.com/blog/2013/11/datatable-with-fully-dynamic-columns-in-angularjs/)
 
 --
