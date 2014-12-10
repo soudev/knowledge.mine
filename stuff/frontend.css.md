@@ -5,7 +5,9 @@
 
 * [CSS](#css)
   * [Media Query](#media-query)
-  * [Ferramentas online](#ferramentas-online)
+  * [Ferramentas](#ferramentas)
+    * [Ferramentas Online](#ferramentas-online)
+    * [Ferramentas Desktop](#ferramentas-desktop)
 
 <!-- toc stop -->
 
@@ -126,7 +128,9 @@
 * [mqa.js : a small, modern library for managing media queries programmatically (i.e. in JavaScript)](https://github.com/peol/mqa.js)
 
 
-### Ferramentas online
+### Ferramentas 
+
+#### Ferramentas Online
 
 * [colourcode](http://colourco.de) - find your colour scheme
 
@@ -136,3 +140,9 @@
 
 * [extractCSS](http://extractcss.com/) - is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 
+
+#### Ferramentas Desktop
+
+* [SC5 Style Guide](http://styleguide.sc5.io/) - A tool to build living style guides from CSS/SASS/LESS source
+
+  * [[GitHub] SC5 / sc5-styleguide](https://github.com/SC5/sc5-styleguide) - Styleguide generator is a handy little tool that helps you generate good looking styleguides from stylesheets using KSS notation
