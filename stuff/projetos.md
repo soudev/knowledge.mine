@@ -56,6 +56,10 @@
 
 * [BDD: Think Like an Actor | Site Point](http://www.sitepoint.com/bdd-think-like-actor/)
 
+* [Comparação entre TDD e BDD – Como aprender um me ajudou com o outro | Sobre Código](http://sobrecodigo.com/comparacao-entre-tdd-e-bdd-como-aprender-um-me-ajudou-com-o-outro/)
+
+--
+
 * [Design sem Designer | UX Blog](http://www.uxdesign.blog.br/design-livre/design-sem-designer/) - A discussão sobre um possível Design sem Designer apresenta caminhos alternativos para a explicação da atividade projetual nas mais diversas áreas
 
 --
