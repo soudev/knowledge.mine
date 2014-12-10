@@ -1029,6 +1029,8 @@
 
 --
 
+* [[GitHub] brandonjpierce / jax](https://github.com/brandonjpierce/jax) - A minimal fully featured client side ajax library inspired by Superagent
+
 * [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
 
 --
