@@ -1381,7 +1381,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[jsfiddle] Big Text Directive with AngularJS](http://jsfiddle.net/michaeldausmann/FH9wj/) - Use AngularJS and jquery to make an input with a popup textarea for editing large text values
 
-* [[GitHub] kentcdodds / ng-genie](https://github.com/kentcdodds/ng-genie) - Directive for [GenieJS](https://github.com/kentcdodds/genie). GenieJS was built to bring behavior found in Alfred to JavaScript.
+* [GenieJS](http://kent.doddsfamily.us/genie/) - was built to simulate the behavior in apps like [Alfred](http://www.alfredapp.com/).
+
+  * [[GitHub] kentcdodds / genie](https://github.com/kentcdodds/genie) - Keyboard control for web applications (better than cryptic shortcuts)
+
+    * [src / lamp / angular](https://github.com/kentcdodds/genie/tree/master/src/lamps/angular) - Directive for GenieJS
 
 * [textAngular](http://textangular.com/) - Lightweight Angular.js, Javascript Wysiwyg/Text-Editor
 
