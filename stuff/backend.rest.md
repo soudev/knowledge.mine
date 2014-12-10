@@ -30,6 +30,10 @@
 
 * [Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
+--
+
+* [RAML](http://raml.org/) - RESTful API Modeling Language
+
 
 ## API
 
