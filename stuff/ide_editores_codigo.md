@@ -41,6 +41,8 @@
 
 * [Nitrous.io](https://www.nitrous.io/) - cloud IDE supporting Ruby, Python, Go, NodeJS
 
+* [Koding](https://koding.com/) - Say goodbye to your localhost and code in the cloud
+
 * [Codio](https://codio.com/) - is a powerful cloud and browser based IDE that covers the complete web development cycle; from prototype to deployment
 
 --
