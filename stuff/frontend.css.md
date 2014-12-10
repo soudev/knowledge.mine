@@ -30,6 +30,12 @@
 
 * [The Semantic Grid System](http://semantic.gs/)
 
+* [flexible.gs](http://flexible.gs/) - Flexible Grid System
+
+  * [[GitHub] flexiblegs / flexiblegs](https://github.com/flexiblegs/flexiblegs) - Flexible Grid System is a Responsive CSS Framework
+
+--
+
 * [Seu código CSS pode ser mais limpo, flexível e reaproveitável | Caelum](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/)
 
 * [Repensando CSS Resets | Tableless](http://tableless.com.br/repensando-css-resets/) - Como melhorar seu CSS Reset
