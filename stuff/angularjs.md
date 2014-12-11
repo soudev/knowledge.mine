@@ -1151,6 +1151,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Cookies vs Tokens. Getting auth right with Angular.JS | Auth0](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
 
+* [Token-Based Authentication With AngularJS & NodeJS | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543)
+
 * [Authentication in AngularJS (or similar) based application](http://www.espeo.pl/2012/02/26/authentication-in-angularjs-application)
 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
