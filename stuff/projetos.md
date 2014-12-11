@@ -43,6 +43,10 @@
 
 * [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
 
+--
+
+* [Planning A Front-end JavaScript Application | Telerik Developer Network](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
+
 
 ## Conceitos
 
