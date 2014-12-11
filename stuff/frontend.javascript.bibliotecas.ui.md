@@ -171,6 +171,8 @@
 
 * [Intro to the React Framework | Development – Tuts+](http://dev.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 
+* [Getting Started with React and JSX | SitePoint](http://www.sitepoint.com/getting-started-react-jsx/)
+
 * [React.js: an interactive tutorial to get started | webdesignporto.com](http://webdesignporto.com/react-js-an-interactive-tutorial-to-get-started/)
 
 * [Nixtu: How I Learned to Stop Worrying and Love React | Nixtu](http://www.nixtu.info/2014/07/how-i-learned-to-stop-worrying-and-love.html)
