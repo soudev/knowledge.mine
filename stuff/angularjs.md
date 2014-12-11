@@ -847,6 +847,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### HTML5 offline
 
+* [[YouTube] Mobile & Offline Data Synchronization in AngularJS](https://www.youtube.com/watch?v=6ecuA-pOev0) - 2014/09/25
+
+  * [[Slides] 4-way Data-binding: Offline Data Synchronization in AngularJS](https://docs.google.com/presentation/d/1NByDXl6YL6BJ6nL0G2DLyZs5Og2njE_MNJv6vNK5aoo/edit#slide=id.p)
+
+  * [[GitHub] danielzen / ionic-pouchdb-todo](https://github.com/danielzen/ionic-pouchdb-todo) - A simple Ionic Todo app with a PouchDb local storage backend configured to sync with a CouchDb installation. Demo of offline functionality with server synchronization
+
 * [AngularJS IndexedDB Demo | HTML5 Zone](http://java.dzone.com/articles/angularjs-indexeddb-demo)
 
   * [AngularJS IndexedDB Demo | Raymond Camden](http://www.raymondcamden.com/index.cfm/2014/2/7/AngularJS-IndexedDB-Demo)
@@ -1436,6 +1442,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [[YouTube] Complex forms with Advanced Directives in AngularJS](https://www.youtube.com/watch?v=G5MzkDJQkoQ) - 2014/11/26
+
+  * [[Slides] Complex forms with advanced directives in AngularJS](http://slides.yearofmoo.com/ng-mtv-meetup-nov2014/index.html)
+
+  * [[GitHub] yearofmoo / angular-forms-refactor](https://github.com/yearofmoo/angular-forms-refactor)
 
 * [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 
