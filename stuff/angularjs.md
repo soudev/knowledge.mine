@@ -529,6 +529,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [uFun](http://ufun.coderockr.com/) - é a maneira mais divertida de você encontrar e compartilhar seus sound memes favoritos
 
+* [Ingresse](http://site.ingresse.com/) - Ingressos para shows, festas, baladas, teatro e muito mais!
+
 --
 
 * [AngularFire](http://angularfire.com/) - A real-time backend for AngularJS from [Firebase](https://www.firebase.com/)
