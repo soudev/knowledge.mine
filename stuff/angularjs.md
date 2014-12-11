@@ -1435,6 +1435,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[YouTube] Complex forms with Advanced Directives in AngularJS](https://www.youtube.com/watch?v=G5MzkDJQkoQ) - 2014/11/26
+
 * [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 
 * [[GitHub] Textalk / angular-schema-form](https://github.com/Textalk/angular-schema-form/) - Generate bootstrap ready forms from JSON Schema
