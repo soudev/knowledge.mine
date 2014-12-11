@@ -291,6 +291,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Single Page Apps com AngularJS | Matheus Azzi](http://matheusazzi.com/single-page-apps/)
+
 * [AngularJS - Where To Start?](http://blog.whydoifollow.com/post/angularjs-where-to-start)
 
 * [The Ultimate Guide to Learning AngularJS in One Day | Todd Motto](http://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/)
