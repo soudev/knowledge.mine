@@ -22,6 +22,10 @@
 
 --
 
+* [[GitHub] davidsonfellipe / awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization. Everyone can contribute here!
+
+--
+
 * [Website Performance Optimization Checklist](http://lab.abhinayrathore.com/website-performance-optimization-checklist/) - Website Performance Optimization Checklist for building high performace websites.
 
 --
