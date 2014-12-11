@@ -700,6 +700,14 @@
 
 --
 
+* [PouchDB](http://pouchdb.com/) - The Database that Syncs! PouchDB is an open-source JavaScript database inspired by [Apache CouchDB](https://couchdb.apache.org/) that is designed to run well within the browser.
+
+  * [[GitHub] pouchdb / pouchdb](https://github.com/pouchdb/pouchdb) - PouchDB is a pocket-sized database
+
+  * [10 things I learned from reading (and writing) the PouchDB source | PouchDB](http://pouchdb.com/2014/10/26/10-things-i-learned-from-reading-and-writing-the-pouchdb-source.html)
+
+--
+
 * [TaffyDB](http://www.taffydb.com/) - The JavaScript Database
 
 * [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
