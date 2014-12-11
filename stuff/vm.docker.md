@@ -201,6 +201,8 @@
 
 * [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
 
+* [Dockerizing Mule ESB Enterprise | codecentric Blog](https://blog.codecentric.de/en/2014/10/dockerizing-mule-esb-enterprise/)
+
 
 ### Private Registry
 
