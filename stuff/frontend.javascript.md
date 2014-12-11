@@ -1570,14 +1570,6 @@
 
 --
 
-* [ECMAScript 6 modules: the final syntax | 2ality](http://www.2ality.com/2014/09/es6-modules-final.html)
-
-* [ES6 Modules: The End of Civilization As We Know It?](https://medium.com/@brianleroux/es6-modules-amd-and-commonjs-c1acefbe6fc0)
-
-* [JavaScript Modules the ES6 Way | @24ways](http://24ways.org/2014/javascript-modules-the-es6-way/)
-
---
-
 * [[GitHub] ericdouglas / ES6-Learning](https://github.com/ericdouglas/ES6-Learning) - List of resources to learn ECMAScript 6
 
 * [[GitHub] nzakas / understandinges6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6"
@@ -1588,6 +1580,14 @@
 
 --
 
+* [ECMAScript 6 modules: the final syntax | 2ality](http://www.2ality.com/2014/09/es6-modules-final.html)
+
+* [ES6 Modules: The End of Civilization As We Know It?](https://medium.com/@brianleroux/es6-modules-amd-and-commonjs-c1acefbe6fc0)
+
+* [JavaScript Modules the ES6 Way | @24ways](http://24ways.org/2014/javascript-modules-the-es6-way/)
+
+--
+
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
 
 * [Get ready for ECMAScript 6 | K33G_ORG's Blog](https://k33g.github.io/2014/06/26/ES6-READY.html)
@@ -1595,6 +1595,8 @@
 * [An introduction to ES6 classes | JavaScript Playground](http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/)
 
 * [Preparing for ECMAScript 6: let and const | SitePoint](http://www.sitepoint.com/preparing-ecmascript-6-let-const/)
+
+* [For and against `let` | DWB](http://davidwalsh.name/for-and-against-let)
 
 --
 
