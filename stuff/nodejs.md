@@ -598,6 +598,10 @@
 
 --
 
+* [Node.js - Trabalhando com eventos | Nomadev](http://nomadev.com.br/node-js-trabalhando-com-eventos/)
+
+--
+
 * [Como evitar o inferno de callbacks | NodeBR - NodeJS Brasil](http://nodebr.com/como-evitar-o-inferno-de-callbacks/)
 
 * [Evitando callback hell no Node.js | Underground WebDev](http://udgwebdev.com/evitando-callback-hell-no-node-js/)
