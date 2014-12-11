@@ -1417,6 +1417,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] verico / ng-galleria](https://github.com/verico/ng-galleria) - Angular galleria directive
+
+--
+
 * [Datatable with fully dynamic columns in AngularJS | Entwicklertagebuch](http://entwicklertagebuch.com/blog/2013/11/datatable-with-fully-dynamic-columns-in-angularjs/)
 
 * [[GitHub] lorenzofox3 / Smart-Table](https://github.com/lorenzofox3/Smart-Table) - Code source of Smart Table module: a table/grid for Angularjs ([site](https://lorenzofox3.github.io/smart-table-website/))
