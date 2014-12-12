@@ -1313,6 +1313,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Criando componentes](http://cironunes.com/angular-components-talk/) - by Ciro Nunes / @cironunesdev | #AngularJSSP 20 de Junho '14
 
+* [[SlideShare] AngularJS - 10 passos para aprender a criar suas directivas](http://pt.slideshare.net/jandersonfc/10-passos-para-aprender-a-criar-sua-directivas) - 2014/12/12 @jandersonfc 
+
+  * [[GitHub] jandersonfc / tutorial-angularjs-directives](https://github.com/jandersonfc/tutorial-angularjs-directives) - Código do tutorial básico para criar directivas
+
 --
 
 * [Using NgModelController with Custom Directives | Christopher Nadeau](http://www.chroder.com/2014/02/01/using-ngmodelcontroller-with-custom-directives/)
