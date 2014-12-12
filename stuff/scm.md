@@ -42,3 +42,9 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 
 * [Using Rational Team Concert on Mac with Xcode (Part 1) | Jazz Community](https://jazz.net/library/article/979/)
 
+--
+
+* [Jazz Rational Team Concert 5.0](https://jazz.net/downloads/rational-team-concert/releases/5.0)
+
+  * [Integrating Rational Team Concert and Git | Jazz CLM Docs](https://jazz.net/help-dev/clm/index.jsp?re=1&topic=/com.ibm.team.connector.cq.doc/topics/c_integ_git.html&scope=null)
+
