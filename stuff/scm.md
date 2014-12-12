@@ -48,3 +48,4 @@ Livro: Pro Git [1.1 - Sobre Controle de Versão](http://git-scm.com/book/pt-br/P
 
   * [Integrating Rational Team Concert and Git | Jazz CLM Docs](https://jazz.net/help-dev/clm/index.jsp?re=1&topic=/com.ibm.team.connector.cq.doc/topics/c_integ_git.html&scope=null)
 
+  * [[YouTube] GIT Integration for Rational Team Concert 5.0.2](https://www.youtube.com/watch?v=DSUnX9Y7Eck)
