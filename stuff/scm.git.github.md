@@ -12,6 +12,8 @@
   * [Aprendizado: GitHub](#aprendizado-github)
 * [Git em empresas](#git-em-empresas)
 * [Dicas](#dicas)
+  * [Workflow](#workflow)
+  * [Merge](#merge)
   * [SVN para GIT](#svn-para-git)
     * [Problema conhecido](#problema-conhecido)
   * [git submodule](#git-submodule)
@@ -305,7 +307,8 @@ git clean -fd
 
 * [9.7 Git Internamente - Manutenção e Recuperação de Dados | Pro Git](http://git-scm.com/book/pt-br/Git-Internamente-Manuten%C3%A7%C3%A3o-e-Recupera%C3%A7%C3%A3o-de-Dados)
 
---
+
+### Workflow
 
 * [GitHub Flow in the Browser | GitHub Blog](https://github.com/blog/1557-github-flow-in-the-browser)
 
@@ -317,7 +320,8 @@ git clean -fd
 
 * [Quatro workflows para trabalhar com Git | iMasters﻿](http://imasters.com.br/desenvolvimento/qatro-workflows-para-trabalhar-com-git/)
 
---
+
+### Merge
 
 * [Five advanced Git merge techniques](http://blog.ezyang.com/2010/01/advanced-git-merge/)
 
