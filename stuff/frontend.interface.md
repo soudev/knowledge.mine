@@ -63,6 +63,12 @@
 
 * [Velositey - Website Layout Builder for Photoshop](http://dandkagency.com/velositey/)
 
+* [Google Design](http://www.google.com/design/)
+
+  * [Material Design](http://www.google.com/design/spec/material-design/)
+
+  * [Material Interaction](http://material.cmiscm.com/)
+
 
 ### Look and Feel
 
