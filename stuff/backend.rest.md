@@ -1,17 +1,15 @@
 # REST
 
-
 <!-- toc -->
+
   * [Visão Geral](#visão-geral)
   * [API](#api)
   * [Desgin](#desgin)
+  * [i18n](#i18n)
   * [Desenvolvimento](#desenvolvimento)
     * [JIRA](#jira)
     * [dotNet](#dotnet)
     * [Java](#java)
-      * [Monitoramento](#monitoramento)
-      * [Testes](#testes)
-      * [Segurança](#segurança)
     * [Python](#python)
     * [PHP](#php)
     * [Node.js](#nodejs)
@@ -155,6 +153,13 @@
 --
 
 * [[SlideShare] The RESTful Soa Datagrid with Oracle](http://www.slideshare.net/EmilianoPecis/the-restful-soa-datagrid-with-oracle) - It transforms and caches any SOA based application in REST. A proxy "soap to rest" is provided, using Oracle Service Bus and Oracle Coherence.(22/04/2009) [Slide 11 é interessante]
+
+
+## i18n
+
+* [Accept-Language used for locale setting | W3C](http://www.w3.org/International/questions/qa-accept-lang-locales)
+
+* [Internationalisation in a RESTful world | OpenTable Tech UK Blog](http://tech.opentable.co.uk/blog/2014/04/02/internationalisation-in-a-restful-world/)
 
 
 ## Desenvolvimento
