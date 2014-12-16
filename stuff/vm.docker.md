@@ -71,6 +71,9 @@
 
     * [[SlideShare] Dockercon Europe 2014 - Continuous Delivery leveraging on Docker CaaS](http://fr.slideshare.net/adrienblind/dockercon-europe-2014-continuous-delivery-leveraging-on-docker-caas)
 
+    * [DockerCon Europe keynote: State of the Art in Microservices by Adrian Cockcroft (Battery Ventures) | Docker Blog](https://blog.docker.com/2014/12/dockercon-europe-keynote-state-of-the-art-in-microservices-by-adrian-cockcroft-battery-ventures/)
+
+
 ### Aprendizado
 
 * [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
