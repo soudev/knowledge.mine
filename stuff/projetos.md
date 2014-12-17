@@ -4,6 +4,7 @@
 
 * [Geral](#geral)
 * [Conceitos](#conceitos)
+  * [Pomodoro](#pomodoro)
   * [GTD - Getting Things Done](#gtd-getting-things-done)
   * [Atomic Design](#atomic-design)
   * [Minimum Viable Products](#minimum-viable-products)
@@ -83,6 +84,27 @@
 * FDA - Front-end Driven Applications
 
   * [Front-end Driven Applications – A New Approach to Applications | Telerik Developer Network](http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/) - 2014/09/30
+
+--
+
+* [Circadio](https://getcircadio.com/) - Efficient timetracking for people with better things to do
+
+
+### Pomodoro
+
+* [The Pomodoro Technique](http://pomodorotechnique.com/)
+
+--
+
+* [Productivity 101: A Primer to The Pomodoro Technique | Lifehacker](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
+
+--
+
+* [Tomato Timer](http://tomato-timer.com/)
+
+* [Tomighty](http://www.tomighty.org/) - A free desktop timer for the Pomodoro Technique
+
+  * [[GitHub] ccidral / tomighty](https://github.com/ccidral/tomighty) - A nice desktop timer app for Pomodoro Technique users
 
 
 ### GTD - Getting Things Done
