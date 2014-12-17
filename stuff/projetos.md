@@ -3,6 +3,7 @@
 <!-- toc -->
 
 * [Geral](#geral)
+* [Time Traking](#time-traking)
 * [Conceitos](#conceitos)
   * [Pomodoro](#pomodoro)
   * [GTD - Getting Things Done](#gtd-getting-things-done)
@@ -49,6 +50,13 @@
 * [Planning A Front-end JavaScript Application | Telerik Developer Network](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 
 
+## Time Traking
+
+* [Toggl](https://www.toggl.com/) - Insanely simple time tracking
+
+* [Circadio](https://getcircadio.com/) - Efficient timetracking for people with better things to do
+
+
 ## Conceitos
 
 * [[YouTube] Resumão - Fundamentos de Gerenciamento de Projetos](https://www.youtube.com/watch?v=jYaZnszakdo) - 2014/01/02
@@ -84,10 +92,6 @@
 * FDA - Front-end Driven Applications
 
   * [Front-end Driven Applications – A New Approach to Applications | Telerik Developer Network](http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/) - 2014/09/30
-
---
-
-* [Circadio](https://getcircadio.com/) - Efficient timetracking for people with better things to do
 
 
 ### Pomodoro
