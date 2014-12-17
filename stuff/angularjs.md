@@ -1165,7 +1165,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Token-Based Authentication With AngularJS & NodeJS | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/token-based-authentication-with-angularjs-nodejs--cms-22543)
 
-* [Authentication in AngularJS (or similar) based application](http://www.espeo.pl/2012/02/26/authentication-in-angularjs-application)
+* [Authentication in AngularJS (or similar) based application](http://www.espeo.pl/1-authentication-in-angularjs-application/)
 
 * [Tutorial: Creating an AngularJS app with node.js and Heroku Part II | Bryan Leboff](http://techblog.appirio.com/2013/02/tutorial-creating-angularjs-app-with.html) - Instagram Authentication
 
