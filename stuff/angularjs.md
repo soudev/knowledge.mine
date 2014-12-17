@@ -760,6 +760,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [One Way Data Binding | AngularJS Hub](http://www.angularjshub.com/examples/basics/onewaydatabinding/)
 
+  * [AngularJS one-time binding syntax | Todd Motto](http://toddmotto.com/angular-one-time-binding-syntax/)
+
 --
 
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
