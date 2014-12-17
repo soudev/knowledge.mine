@@ -50,6 +50,10 @@
 
 --
 
+* [Episode #42 - Crash Course on Vagrant (revised) | Sysadmin Casts](https://sysadmincasts.com/episodes/42-crash-course-on-vagrant-revised) - In this episode, I wanted to give you a crash course on what Vagrant is, along with how I use it. Vagrant is my go to tool for launching virtual test environments, and once you start to learn how to use it, you will wonder how you ever lived without it
+
+--
+
 * [Vagrant: Fácil e útil | Flávio Silveira](http://flaviosilveira.com/2012/vagrant-facil-e-util/)
 
 * [Criando ambientes virtualizados com Vagrant](http://blog.concretesolutions.com.br/2012/10/criando-ambientes-virtualizados-com-vagrant/)
