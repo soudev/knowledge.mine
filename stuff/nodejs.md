@@ -362,6 +362,12 @@
 
 --
 
+* [SuperScript](http://superscriptjs.com/) - A language for writing Chat Bots
+
+  * [[GitHub] silentrob / superscript](https://github.com/silentrob/superscript) - A dialogue engine for creating chat bots
+
+--
+
 * [[GitHub] C2FO / nools](https://github.com/C2FO/nools) - Rete based rules engine written in javascript
 
 
