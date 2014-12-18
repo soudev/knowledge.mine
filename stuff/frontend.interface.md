@@ -69,6 +69,10 @@
 
   * [Material Interaction](http://material.cmiscm.com/)
 
+  * [Material Palette](http://www.materialpalette.com/)
+
+  * [Material Examples](http://www.materialup.com/)
+
 
 ### Look and Feel
 
