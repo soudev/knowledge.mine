@@ -86,6 +86,8 @@
 
 * [Loading webfonts with high performance on responsive websites](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) - Optimally loading webfonts is not a trivial taks. Here is a simple guide, how to do it. No blinking, no blocking.
 
+* [Better webfont loading with using localStorage and providing WOFF2 support | http://bdadam.com/](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html)
+
 --
 
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
