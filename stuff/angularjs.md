@@ -427,6 +427,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
     * [AngularJS Promises - O guia definitivo | Nomadev](http://nomadev.com.br/angularjs-promises-promessas-o-guia-definitivo/)
 
+  * [Exploring Angular 1.3: ES6 Style Promises | thoughtram](http://blog.thoughtram.io/angularjs/2014/12/18/exploring-angular-1.3-es6-style-promises.html)
+
 --
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
