@@ -52,8 +52,6 @@
 
 * [Qual é a velocidade de carregamento do seu site? | Caelum](http://blog.caelum.com.br/teste-a-velocidade-de-carregamento-do-seu-site/) - Seu site pode até carregar rápido no seu computador. Mas como ele fica numa conexão 3G? E em uma edge? e em uma 256kbps? Conheça algumas ferramentas que possibilitam enxergar como seu site fica numa conexão lenta.
 
-* [WebPagetest](http://www.webpagetest.org/) - Website Performance and Optimization Test
-
 * [Medindo performance e latência com a Navigation Timing API | Tableless](http://tableless.com.br/navigation-timing-api/)
 
 * [Capturing – Improving Performance of the Adaptive Web](https://hacks.mozilla.org/2013/03/capturing-improving-performance-of-the-adaptive-web/)
@@ -67,6 +65,16 @@
 * [Acochambramento - Deixe o embed do YouTube mais leve e personalizado no seu Blog | EvelRyu](http://evelryu.com.br/deixe-o-embed-do-youtube-mais-leve-e-personalizado-no-seu-blog/)
 
 * [Performance Optimizing for Smart Layers | AddThis Blog](http://www.addthis.com/blog/2013/09/17/performance-optimizing-for-smart-layers)
+
+--
+
+* [sitespeed.io](http://www.sitespeed.io/) - is an open source tool that helps you analyze your website speed and performance based on performance best practices and metrics
+
+* [WebPagetest](http://www.webpagetest.org/) - Website Performance and Optimization Test
+
+* [PageSpeed](https://developers.google.com/speed/pagespeed/) - Analyze and optimize your website with PageSpeed tools to implement the web performance best practices
+
+  * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
 --
 
