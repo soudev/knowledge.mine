@@ -636,6 +636,8 @@
 
 * [The empty regular expression](http://www.2ality.com/2012/09/empty-regexp.html)
 
+* [JavaScript Regex: String Does Not Contain | DWB](http://davidwalsh.name/javascript-regex-string)
+
 * [The flag /g of JavaScript’s regular expressions | 2 ality](http://www.2ality.com/2013/08/regexp-g.html)
 
 * [JavaScript Regular Expressions patterns](http://www.javascriptkit.com/javatutors/redev2.shtml)
