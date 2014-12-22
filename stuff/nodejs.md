@@ -675,6 +675,10 @@
 
 * [[GitHub] voronianski / node-object-encrypter](https://github.com/voronianski/node-object-encrypter) - Encrypt/decrypt javascript objects as base64 strings with optional TTL support
 
+* [[GitHub] digitalbazaar / forge](https://github.com/digitalbazaar/forge) - A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps
+
+  * [Implement AES Strength Encryption With JavaScript | Nic Raboy's Code Blog](https://blog.nraboy.com/2014/10/implement-aes-strength-encryption-javascript/) - Implement military strength AES encryption ciphers in your JavaScript application using the Forge cryptography library.
+
 
 ### BitCoins
 
