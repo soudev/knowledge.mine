@@ -221,6 +221,10 @@
 
 --
 
+* [Visualization is for Sharing: Using React for Portable Data Visualization | Viget](http://viget.com/extend/visualization-is-for-sharing-using-react-for-portable-data-visualization)
+
+--
+
 * [[GitHub] kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Facebook React Starter Kit - a skeleton for a typical web application / single-page application (SPA). Technology stack: Gulp, Webpack, BrowserSync, React.js, Bootstrap
 
 * [[GitHub] Granze / react-starterify](https://github.com/Granze/react-starterify) - React JS application skeleton using Browserify and other awesome tools
