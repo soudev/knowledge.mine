@@ -838,6 +838,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Como enviar cabeçalho em uma requisição com $http no AngularJS? | Nomadev](http://nomadev.com.br/como-enviar-cabe%C3%A7alho-em-uma-requisi%C3%A7%C3%A3o-com-http-no-angularjs/)
 
+* [Set headers for all $http calls in AngularJS | Make It Easy](http://angulartutorial.blogspot.com.br/2014/05/set-headers-for-all-http-calls-in.html)
+
 --
 
 * [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
