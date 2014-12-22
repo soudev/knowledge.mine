@@ -469,6 +469,8 @@
 
 * [Callbacks, Promises, Signals and Events | Miller Medeiros](http://blog.millermedeiros.com/callbacks-promises-signals-and-events/)
 
+* [Asynchronous JavaScript and Promises | InnoArchiTech](https://medium.com/innoarchitech-innovation-architecture-technology/asynchronous-javascript-and-promises-be4efecf247b)
+
 * [Programação assíncrona com JavaScript | TDC2013 | InfoQ BR](http://www.infoq.com/br/presentations/programacao-assincrona-javascript) - Essa palestra trata de de algumas técnicas de programação assíncrona com JavaScript, principalmente com Callbacks, Futures e Promisses, e Functional Reactive Programming
 
 * [Write Better JavaScript with Promises | David Walsh](http://davidwalsh.name/write-javascript-promises)
