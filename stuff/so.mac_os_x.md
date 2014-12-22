@@ -193,6 +193,8 @@
 
   * [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
 
+  * [How to Set $JAVA_HOME environment variable on Mac OS X | mkyong.com](mkyong.com)
+
 * Node.js
 
   * [[StackOverflow] NPM throws error without sudo](https://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
