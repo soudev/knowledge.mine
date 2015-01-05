@@ -237,6 +237,8 @@
 
   * [Responsive SVG with VLEX | DailyJS](http://dailyjs.com/2014/04/15/vlex/)
 
+* [[GitHub] SamHerbert / SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built purely in SVG, no CSS or JS
+
 --
 
 * [Love Generating SVG With JavaScript? Move It To The Server! | Smashing Magazine](http://www.smashingmagazine.com/2014/05/26/love-generating-svg-javascript-move-to-server/)
