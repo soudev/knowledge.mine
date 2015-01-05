@@ -1309,6 +1309,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Directive | AngularJS Docs](http://docs.angularjs.org/guide/directive)
 
+* [$compile | Angular.js API](https://docs.angularjs.org/api/ng/service/$compile)
+
+--
+
 * [[GitHub] IgorMinar / directives-workshop](https://github.com/IgorMinar/directives-workshop)
 
 --
