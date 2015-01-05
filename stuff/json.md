@@ -51,6 +51,8 @@
 
 * [JSON Tutorial | w3resource](http://www.w3resource.com/JSON/introduction.php)
 
+* [JSON Archetypes: Simple Data Standards | servant](http://blog.servant.co/json-archetypes/)
+
 
 ## GeoJSON
 
