@@ -195,6 +195,22 @@
 
   * [How to Set $JAVA_HOME environment variable on Mac OS X | mkyong.com](mkyong.com)
 
+  * [[GitHub] wonder-mice / mac-java-launcher](https://github.com/wonder-mice/mac-java-launcher) - Launcher for bundled java application on Mac OS
+
+  * WebStorm 9.0.2
+
+```
+  > inicialmente pede pelo java 1.6
+
+  alterar:
+
+/Applications/WebStorm.app/Contents/Info.plist
+
+  procura por JVMVersion:
+
+    substitui do 1.6* para 1.6+
+```
+
 * Node.js
 
   * [[StackOverflow] NPM throws error without sudo](https://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
