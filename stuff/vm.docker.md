@@ -98,6 +98,8 @@
 
 * [Docker: tudo o que você precisava saber, mas não te contaram | InfoQ Br](http://www.infoq.com/br/presentations/docker-tudo-que-precisava-saber)
 
+* [Docker - Beginner's tutorial | talPor Solutions Blog](https://blog.talpor.com/2015/01/docker-beginners-tutorial/)
+
 --
 
 * [Understanding the key differences between LXC and Docker | Flockport](http://www.flockport.com/lxc-vs-docker/)
