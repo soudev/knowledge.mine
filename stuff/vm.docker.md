@@ -152,7 +152,7 @@
 
 * [Some Docker Tips and Tricks | Wouter Danes](http://www.wouterdanes.net/2014/04/16/some-docker-tips-and-tricks.html)
 
-* [Ten Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy | Docker Blog]()
+* [Ten Docker Tips and Tricks That Will Make You Sing A Whale Song of Joy | Docker Blog](http://blog.docker.com/2014/07/10-docker-tips-and-tricks-that-will-make-you-sing-a-whale-song-of-joy/)
 
 --
 
