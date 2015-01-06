@@ -390,6 +390,8 @@
 
 * [[GitHub] phusion / baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 
+* [Using docker with CoreOS | CoreOS](https://coreos.com/using-coreos/docker/)
+
 --
 
 * [Project Atomic](http://www.projectatomic.io/) - Sponsored by Red Hat, Inc. Deploy and Manage Your Docker Containers.
