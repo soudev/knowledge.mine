@@ -414,6 +414,8 @@
 
 * [[GitHub] shipyard / shipyard](https://github.com/shipyard/shipyard) - Docker Management
 
+* [[GitHub] crosbymichael / dockerui](https://github.com/crosbymichael/dockerui) - A web interface for docker
+
 --
 
 * [Gandalf.io](https://gandalf.io/) -  Affordable Docker Private Registries
