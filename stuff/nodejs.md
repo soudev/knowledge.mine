@@ -1353,6 +1353,17 @@
 
 ### NPM
 
+* [Fixing npm permissions | NPM Getting Started](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
+
+> Mac OS X
+
+```bash
+$ cd ~/
+$ sudo chown -R `whoami` .npm
+```
+
+--
+
 * [Meet The Face Behind NPM | Modulus Blog](http://blog.modulus.io/isaac-interview)
 
 --
