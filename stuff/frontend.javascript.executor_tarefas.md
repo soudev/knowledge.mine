@@ -118,6 +118,10 @@
 
 --
 
+* [Gulp - streaming builds at Movio | Movio Blog](http://movio.co/blog/gulp-streaming-builds/)
+
+--
+
 * [Exploring A Generator For Gulp.js | Yeoman](http://yeoman.io/blog/gulp-explore.html)
 
 * [Getting gulpy | Medium](https://medium.com/p/a2010c13d3d5) - Advanced tips for using gulp.js
