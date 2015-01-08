@@ -108,8 +108,6 @@
 
 * [[GitHub] mgonto / gulp-browserify-library-seed](https://github.com/mgonto/gulp-browserify-library-seed) - This is a seed (kickstarter) project to create your own library which will use Browserify and Gulp
 
-* [Small Sips of Gulp.js: 4 Steps to Reduce Complexity | Gaslight](https://teamgaslight.com/blog/small-sips-of-gulp-dot-js-4-steps-to-reduce-complexity)
-
 --
 
 * [From make to Gulp | Sascha Depold](http://blog.depold.com/farewell-make-hello-gulp/)
@@ -143,6 +141,8 @@
 --
 
 * [Gulp - streaming builds at Movio | Movio Blog](http://movio.co/blog/gulp-streaming-builds/)
+
+* [Small Sips of Gulp.js: 4 Steps to Reduce Complexity | Gaslight](https://teamgaslight.com/blog/small-sips-of-gulp-dot-js-4-steps-to-reduce-complexity)
 
 --
 
