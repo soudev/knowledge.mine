@@ -154,6 +154,8 @@
 
 * [Deploying To Github Pages With Gulp | Charlie Gleason](http://charliegleason.com/articles/deploying-to-github-pages-with-gulp)
 
+* [Gulp and AngularJS, A tune up | NetEngine](http://netengine.com.au/blog/gulp-and-angular-js-a-tune-up/)
+
 
 
 #### Grunt
