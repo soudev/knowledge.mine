@@ -52,6 +52,10 @@
 
 --
 
+* [The Quest for the Perfect Workflow | Andi Smith](http://www.andismith.com/blog/2014/05/the-perfect-workflow/)
+
+--
+
 * [Grunt And Gulp Tasks For Performance Optimization | Yeoman Blog](http://yeoman.io/blog/performance-optimization.html)
 
 
