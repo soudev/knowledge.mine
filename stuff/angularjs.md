@@ -716,6 +716,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Video Tutorial: Using angular.bootstrap to Initialize Your App | EggHead.io](http://egghead.io/lessons/angularjs-angular-bootstrap-app-init)
 
+--
+
 * [Form validation with AngularJS](http://www.ng-newsletter.com/posts/validations.html)
 
 * [[SlideShare] Forms in AngularJS](http://www.slideshare.net/EyalV/forms-in-angularjs)
@@ -727,6 +729,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [ui-form-validation | Directives for angularjs field validation](http://angular-js.in/ui-form-validation/)
 
 * [[GitHub] kelp404 / angular-validator](https://github.com/kelp404/angular-validator) - AngularJS form validation
+
+* [Exploring Angular 1.3: Validators Pipeline | thoughtram - Extend your memory](http://blog.thoughtram.io/angularjs/2015/01/11/exploring-angular-1.3-validators-pipeline.html)
+
+--
 
 * [AngularJS Multi-Step Form Using UI Router | Scotch](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
 
