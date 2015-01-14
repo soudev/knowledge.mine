@@ -4,6 +4,7 @@
 
 * [Visão Geral](#visão-geral)
 * [Sites Oficiais](#sites-oficiais)
+* [IO.js](#iojs)
 * [Aprendizado](#aprendizado)
 * [Comunidades e Grupos](#comunidades-e-grupos)
 * [Casos de Uso](#casos-de-uso)
@@ -83,7 +84,6 @@
 <!-- toc stop -->
 
 
-
 ## Visão Geral
 
 **Motivação**
@@ -134,6 +134,15 @@
 * [Node.js Jenkins-CI](http://jenkins.nodejs.org/) - To  support a higher degree of stability, and hopefully catch issues sooner,  we (node.js team) have a Jenkins instance running every commit through  the test suite, on each operating system we support.
 
   * [NodeJS Plugin - Jenkins | Jenkins Wiki](https://wiki.jenkins-ci.org/display/JENKINS/NodeJS+Plugin)
+
+
+## IO.js
+
+* [IO.js - JavaScript I/O](https://iojs.org/)
+
+* [[GitHub] iojs / io.js](https://github.com/iojs/io.js) - A spork of Node.js with an open governance model
+
+* [IO.js Overview | RisingStack Engineering](http://blog.risingstack.com/iojs-overview/)
 
 
 ## Aprendizado
