@@ -1339,6 +1339,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Criando componentes](http://cironunes.com/angular-components-talk/) - by Ciro Nunes / @cironunesdev | #AngularJSSP 20 de Junho '14
 
+* [Componentes AngularJS | InfoQ Br](http://www.infoq.com/br/presentations/componentes-angular-js) - Componentização é a palavra-chave quando se fala em como criar aplicações extremamente modulares, testáveis e fáceis de manter. Não é à toa que os Web Components são aguardados ansiosamente pela comunidade Front-End. Aprenda nesta palestra a criar, reutilizar e compartilhar componentes feitos com o AngularJS
+
+* [Breaking Down AngularJS to Smaller Components | Medium](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0) - by Kier Borromeo (2014/12/19)
+
 * [[SlideShare] AngularJS - 10 passos para aprender a criar suas directivas](http://pt.slideshare.net/jandersonfc/10-passos-para-aprender-a-criar-sua-directivas) - 2014/12/12 @jandersonfc 
 
   * [[GitHub] jandersonfc / tutorial-angularjs-directives](https://github.com/jandersonfc/tutorial-angularjs-directives) - Código do tutorial básico para criar directivas
@@ -1489,15 +1493,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Breaking Down AngularJS to Smaller Components | Medium](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0) - by Kier Borromeo (2014/12/19)
-
---
-
 * [[YouTube] Complex forms with Advanced Directives in AngularJS](https://www.youtube.com/watch?v=G5MzkDJQkoQ) - 2014/11/26
 
   * [[Slides] Complex forms with advanced directives in AngularJS](http://slides.yearofmoo.com/ng-mtv-meetup-nov2014/index.html)
 
   * [[GitHub] yearofmoo / angular-forms-refactor](https://github.com/yearofmoo/angular-forms-refactor)
+
+--
 
 * [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 
