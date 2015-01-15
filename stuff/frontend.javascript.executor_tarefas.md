@@ -106,8 +106,6 @@
 
 * [Gulp + Browserify: The Everything Post | Viget](http://viget.com/extend/gulp-browserify-starter-faq)
 
-* [[GitHub] mgonto / gulp-browserify-library-seed](https://github.com/mgonto/gulp-browserify-library-seed) - This is a seed (kickstarter) project to create your own library which will use Browserify and Gulp
-
 --
 
 * [From make to Gulp | Sascha Depold](http://blog.depold.com/farewell-make-hello-gulp/)
@@ -126,8 +124,6 @@
 
 * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
 
-* [[GitHub] ryanbenson / Front-End-Gulp-Boilerplate](https://github.com/ryanbenson/Front-End-Gulp-Boilerplate) - Front-end boilerplate for Gulp with everything you need to get started
-
 --
 
 * [Automatically Load Gulp Plugins with gulp-load-plugins | Andy Carter](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
@@ -139,14 +135,6 @@
 * [Gulp - streaming builds at Movio | Movio Blog](http://movio.co/blog/gulp-streaming-builds/)
 
 * [Small Sips of Gulp.js: 4 Steps to Reduce Complexity | Gaslight](https://teamgaslight.com/blog/small-sips-of-gulp-dot-js-4-steps-to-reduce-complexity)
-
---
-
-* Split tasks across multiple files
-
-  * [[GitHub] gulpjs / gulp / docs / recipes / split-tasks-across-multiple-files.md](https://github.com/gulpjs/gulp/blob/master/docs/recipes/split-tasks-across-multiple-files.md) Split Gulp tasks into multiple files
-
-  * [[GitHub] greypants / gulp-starter](https://github.com/greypants/gulp-starter)
 
 --
 
@@ -163,6 +151,23 @@
 * [Deploying To Github Pages With Gulp | Charlie Gleason](http://charliegleason.com/articles/deploying-to-github-pages-with-gulp)
 
 * [Gulp and AngularJS, A tune up | NetEngine](http://netengine.com.au/blog/gulp-and-angular-js-a-tune-up/)
+
+--
+
+* Split tasks across multiple files
+
+  * [[GitHub] gulpjs / gulp / docs / recipes / split-tasks-across-multiple-files.md](https://github.com/gulpjs/gulp/blob/master/docs/recipes/split-tasks-across-multiple-files.md) Split Gulp tasks into multiple files
+
+  * [[GitHub] greypants / gulp-starter](https://github.com/greypants/gulp-starter)
+
+
+--
+
+* [[GitHub] google / web-starter-kit](https://github.com/google/web-starter-kit)
+
+* [[GitHub] mgonto / gulp-browserify-library-seed](https://github.com/mgonto/gulp-browserify-library-seed) - This is a seed (kickstarter) project to create your own library which will use Browserify and Gulp
+
+* [[GitHub] ryanbenson / Front-End-Gulp-Boilerplate](https://github.com/ryanbenson/Front-End-Gulp-Boilerplate) - Front-end boilerplate for Gulp with everything you need to get started
 
 
 
