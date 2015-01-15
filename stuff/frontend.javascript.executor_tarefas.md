@@ -118,6 +118,10 @@
 
 * [Getting gulpy | Medium](https://medium.com/p/a2010c13d3d5) - Advanced tips for using gulp.js
 
+* [10 Highly Useful Gulp.js Plugins For A Super Ninja Front-end Workflow | I Like Kill Nerds](http://ilikekillnerds.com/2014/11/10-highly-useful-gulp-js-plugins-for-a-super-ninja-front-end-workflow/)
+
+* [My default Gulp setup for build automation | Webstoemp](http://www.webstoemp.com/blog/gulp-setup/)
+
 --
 
 * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
