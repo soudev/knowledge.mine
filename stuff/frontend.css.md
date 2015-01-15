@@ -20,6 +20,10 @@
 
 --
 
+* [The 2014 CSS Report: Examining how CSS is being used in the wild | Quick Left](http://reports.quickleft.com/css)
+
+--
+
 * [Architecting Scalable CSS | Speaker Deck](https://speakerdeck.com/csswizardry/architecting-scalable-css)
 
 * CSS escalável - Da filosofia à metodologia
