@@ -169,6 +169,7 @@
 
 * [[GitHub] ryanbenson / Front-End-Gulp-Boilerplate](https://github.com/ryanbenson/Front-End-Gulp-Boilerplate) - Front-end boilerplate for Gulp with everything you need to get started
 
+* [[GitHub] johnpapa / gulp-patterns](https://github.com/johnpapa/gulp-patterns) - JavaScript Build automation with Gulp and Angular
 
 
 #### Grunt
