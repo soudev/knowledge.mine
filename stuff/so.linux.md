@@ -5,7 +5,7 @@
 
 ## Desenvolvimento
 
-* [[GitHub] caarlos0 / dotfiles](https://github.com/caarlos0/dotfiles)
+* [[GitHub] caarlos0 / dotfiles](https://github.com/caarlos0/dotfiles) - My dotfiles for Linux and OSX. ZSH, SublimeText 3, Java, Ruby and others.
 
 > caarlos0: I try to maintain it working in both Linux (no specific distro) and OS X, most of all, because I use OS X at home and Linux at work.
 
