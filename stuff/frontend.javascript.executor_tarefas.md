@@ -420,6 +420,10 @@
 
 ##### Dicas
 
+* [Gulp-style stream piping in Grunt, or anywhere else | Evan You](http://blog.evanyou.me/2013/12/29/gulp-piping/)
+
+--
+
 * [maintainable grunt example](https://github.com/erkobridee/lab-nodejs/tree/master/javascript/grunt/maintainable-grunt) - on [GitHub] erkobridee / lab-nodejs
 
 * [Grunt.js: Custom Tasks | Quick Left](http://quickleft.com/blog/grunt-js-custom-tasks)
