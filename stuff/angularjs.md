@@ -1343,6 +1343,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Breaking Down AngularJS to Smaller Components | Medium](https://medium.com/@srph/breaking-down-angularjs-to-smaller-components-f2ab70a104d0) - by Kier Borromeo (2014/12/19)
 
+* [Component-Based Directives in AngularJS | AirPair](https://www.airpair.com/angularjs/posts/component-based-angularjs-directives)
+
 * [[SlideShare] AngularJS - 10 passos para aprender a criar suas directivas](http://pt.slideshare.net/jandersonfc/10-passos-para-aprender-a-criar-sua-directivas) - 2014/12/12 @jandersonfc 
 
   * [[GitHub] jandersonfc / tutorial-angularjs-directives](https://github.com/jandersonfc/tutorial-angularjs-directives) - Código do tutorial básico para criar directivas
