@@ -1313,6 +1313,8 @@
 
 * [Building Apps With the Yeoman Workflow | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/)
 
+* [How to Use Yeoman to Scaffold Your Next Web App | Wesley Tate Smith](http://wes.is/2015/01/13/how-to-use-yeoman-to-scaffold-your-next-web-app/)
+
 * [3 steps to fully automatized JavaScript environment with yeoman and require.js for lazy people | webdesignporto](http://www.webdesignporto.com/3-steps-to-fully-automatized-javascript-environment-with-yeoman-and-require-js-for-lazy-people/)
 
 --
