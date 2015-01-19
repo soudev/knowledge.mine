@@ -1159,13 +1159,19 @@
 
 * [Basic use of Node.js streams | CodeWinds](http://codewinds.com/blog/2013-08-02-streams-basics.html)
 
+* [Node.js Stream Playground | John Resig](http://ejohn.org/blog/node-js-stream-playground/)
+
+* [Node.js Transform Streams vs. Through2 Streams | Ben Nadel](http://www.bennadel.com/blog/2663-node-js-transform-streams-vs-through2-streams.htm)
+
 * [How to create transform streams for manipulating data with Node.js | CodeWinds](http://codewinds.com/blog/2013-08-20-nodejs-transform-streams.html) - a programming tutorial for web developers
 
-* [Node.js Stream Playground | John Resig](http://ejohn.org/blog/node-js-stream-playground/)
+--
 
 * [NodeJS - parsing and transforming large XML documents | La Gentz Blog](http://blog.lagentz.com/nodejs/nodejs-parsing-and-transforming-large-xml-documents/)
 
 * [Parse data files using Node.js streams | Nicolas Hery](http://nicolashery.com/parse-data-files-using-nodejs-streams/)
+
+--
 
 * [[GitHub] substack / stream-handbook](https://github.com/substack/stream-handbook) - how to write node programs with streams
 
@@ -1180,6 +1186,13 @@
 * [[GitHub] Medium / pipette](https://github.com/Medium/pipette) - Stream and pipe utilities for Node
 
 * [[GitHub] adlawson / urine.js](https://github.com/adlawson/urine.js) - This library provides a simple CLI and a JavaScript API for sampling data from a stream or file for testing or limiting data consumption.
+
+--
+
+* [[GitHub] wearefractal / vinyl-fs](https://github.com/wearefractal/vinyl-fs) - Vinyl adapter for the file system
+
+* [[GitHub] rvagg / through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise
+
 
 
 ### portable code
