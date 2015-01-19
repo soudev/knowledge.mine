@@ -532,6 +532,10 @@
 
   * [[GitHub] GraphAlchemist / Alchemy](https://github.com/GraphAlchemist/Alchemy/)
 
+* [Plottable.js](http://plottablejs.org/) - Flexible, interactive, performant charts for the web made easy
+
+  * [[GitHub] palantir / plottable](https://github.com/palantir/plottable/) - A library of modular chart components, built on D3
+
 
 #### Gantt
 
