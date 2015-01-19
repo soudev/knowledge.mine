@@ -283,6 +283,8 @@
 
 * [Node.js on the Road: Fruit Loops and Cheerios: Frontend Node At Walmart | Developer Center - Joyent](https://www.joyent.com/developers/videos/node-js-on-the-road-cincinnati-kevin-decker)
 
+* [Building With Node.js At LinkedIn | talentbuddy.co](https://www.talentbuddy.co/blog/building-with-node-js-at-linkedin/)
+
 
 ### IBM developerWorks
 
