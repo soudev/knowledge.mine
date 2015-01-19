@@ -179,6 +179,8 @@
 
 * [5 Practical Examples For Learning The React Framework | Tutorialzine](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
 
+* [The React Quick Start Guide | jackcallister.com](http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html) - (2015/01/05)
+
 --
 
 * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
