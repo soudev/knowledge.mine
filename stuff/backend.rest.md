@@ -35,13 +35,19 @@
 
 ## API
 
-* [Correios API RESTful](http://emersonsoares.me/correios-restful-api/)
+* CEP
 
-* [Postmon](http://postmon.com.br/) - Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita
+  * [Correios API RESTful](http://emersonsoares.me/correios-restful-api/)
 
-  * [Hackeando Códigos Postais | InfoQ BR](http://www.infoq.com/br/presentations/hackeando-codigos-postais)
+  * [Postmon](http://postmon.com.br/) - Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita
 
-* [Busca CEP - API de Consulta](http://apps.widenet.com.br/busca-cep/api-de-consulta)
+    * [Hackeando Códigos Postais | InfoQ BR](http://www.infoq.com/br/presentations/hackeando-codigos-postais)
+
+  * [Busca CEP - API de Consulta](http://apps.widenet.com.br/busca-cep/api-de-consulta)
+
+  * [[GitHub] prodis /correios-cep](https://github.com/prodis/correios-cep) - Get Brazilian address by zipcode, directly from Correios database. No HTML parsers
+
+--
 
 * [Forecast.io](http://forecast.io/)
 
