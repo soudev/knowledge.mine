@@ -859,6 +859,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] angular / material](https://github.com/angular/material) - Material design for Angular
 
+  * [Angular Material](https://material.angularjs.org)
+
+* [[GitHub] lumapps / lumX](https://github.com/lumapps/lumx/)
+
+  * [lumX](http://ui.lumapps.com/) - The first responsive front-end framework based on AngularJS & Google Material Design specifications
+
 * [[GitHub] Ehesp / Responsive-Dashboard](https://github.com/Ehesp/Responsive-Dashboard) - Bloat free responsive dashboard - powered by AngularJS and Bootstrap (jQuery version available)
 
 
