@@ -126,6 +126,14 @@
 
 --
 
+* plugins
+
+  * [[GitHub] heldinz / gulp-convert-encoding](https://github.com/heldinz/gulp-convert-encoding) - Convert files from one encoding to another
+
+  * [[GitHub] ck86 / gulp-lintspaces](https://github.com/ck86/gulp-lintspaces) - A Gulp plugin for lintspaces
+
+--
+
 * [Automatically Load Gulp Plugins with gulp-load-plugins | Andy Carter](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
 
 * [[GitHub] jackfranklin / gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) - Automatically load in gulp plugins
