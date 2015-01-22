@@ -181,6 +181,8 @@
 
 * [Quer aprender Node.js? (Atualizado) | Underground WebDev](http://udgwebdev.com/quer-aprender-node-js-atualizado/)
 
+* [Otimizando aplicações Node.js | Underground WebDev](http://udgwebdev.com/otimizando-aplicacoes-nodejs/)
+
 --
 
 * [Node.js beyond the basics | IBM developerWorks](http://www.ibm.com/developerworks/training/kp/j-kp-node/) - Rapid web application development for the cloud
