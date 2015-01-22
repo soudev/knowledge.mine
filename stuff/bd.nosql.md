@@ -15,6 +15,7 @@
   * [CouchDB](#couchdb)
   * [MongoDB](#mongodb)
     * [Aprendizado](#aprendizado)
+    * [Schema Design](#schema-design)
     * [Dicas](#dicas)
     * [Ferramentas](#ferramentas)
     * [Palestras](#palestras)
@@ -218,9 +219,22 @@
 
 --
 
-* [[SlideShare] MongoDB Schema Design](http://www.slideshare.net/kbanker/mongodb-schema-design)
+* Getting Started with MongoDB | Nettuts+ : [Part 1](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/) | [Part 2](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb-part-2/)
+
+* [[YouTuve] Hangout - Iniciando com MongoDB | DevCast](https://www.youtube.com/watch?v=Ff4_DNKKPeo)
+
+* [An introduction to MongoDB | IBM developerWorks](http://www.ibm.com/developerworks/offers/lp/demos/summary/j-jmongodb.html)
+
+
+#### Schema Design
+
+* [Data Model | MongoDB Docs](http://docs.mongodb.org/manual/data-modeling/)
+
+* [Schema Desgin | MongoDB](http://www.mongodb.com/presentations/schema-design-6) - MongoDB’s basic unit of storage is a document. Documents can represent rich, schema-free data structures, meaning that we have several viable alternatives to the normalized, relational model. In this talk, we’ll discuss the tradeoff of various data modeling strategies in MongoDB using a library as a sample application. You will learn how to work with documents, evolve your schema, and common schema design patterns.
 
 * [[Speaker Deck] MongoDB DC 2012: Schema Design by Example](https://speakerdeck.com/mongodb/mongodb-dc-2012-schema-design-by-example)
+
+* [MongoDB Schema Design: Data as Documents | Effectif Development](http://effectif.com/mongodb/mongodb-schema-design)
 
 * [Um pouco de schema design no MongoDB | Christiano Anderson](http://christiano.me/2013/11/30/um-pouco-de-schema-design-mongodb/)
 
@@ -232,11 +246,23 @@
 
 --
 
-* Getting Started with MongoDB | Nettuts+ : [Part 1](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb/) | [Part 2](http://net.tutsplus.com/tutorials/databases/getting-started-with-mongodb-part-2/)
+* 6 Rules of Thumb for MongoDB Schema Design | MongoDB
 
-* [[YouTuve] Hangout - Iniciando com MongoDB | DevCast](https://www.youtube.com/watch?v=Ff4_DNKKPeo)
+  * [Part 1 : One-to-N relationships in MongoDB](http://blog.mongodb.org/post/87200945828/6-rules-of-thumb-for-mongodb-schema-design-part-1)
 
-* [An introduction to MongoDB | IBM developerWorks](http://www.ibm.com/developerworks/offers/lp/demos/summary/j-jmongodb.html)
+  * [Part 2 : Two-way referencing and denormalization](http://blog.mongodb.org/post/87892923503/6-rules-of-thumb-for-mongodb-schema-design-part-2)
+
+  * [Part 3 : Your guide through the rainbow](http://blog.mongodb.org/post/88473035333/6-rules-of-thumb-for-mongodb-schema-design-part-3)
+
+--
+
+* [Thinking in Documents (recorded webinar) | MongoDB](http://www.mongodb.com/presentations/webinar-back-basics-1-thinking-documents)
+
+* [Schema Design for Time-Series Data (recorded webinar) | MongoDB](http://www.mongodb.com/presentations/webinar-time-series-data-mongodb)
+
+--
+
+* [MongoDB schema design pitfalls | Server Density Blog](https://blog.serverdensity.com/mongodb-schema-design-pitfalls/)
 
 
 #### Dicas
