@@ -244,6 +244,8 @@
 
   * [Parte 2](http://nomadev.com.br/mongodb-como-mudar-seu-jeito-relacional-de-pensar-parte-2/)
 
+* [[SlideShare] MongoDB Schema Design - Latinoware 2014](http://pt.slideshare.net/canderson/mongodb-schemadesign)
+
 --
 
 * 6 Rules of Thumb for MongoDB Schema Design | MongoDB
