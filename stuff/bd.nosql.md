@@ -1,18 +1,13 @@
 # NoSQL
 
 <!-- toc -->
+
 * [Visão Geral](#visão-geral)
 * [Comparação](#comparação)
 * [Chave e Valor](#chave-e-valor)
   * [LevelDB](#leveldb)
   * [Memcached](#memcached)
   * [Redis](#redis)
-      * [Caso de Uso](#caso-de-uso)
-      * [Desenvolvimento](#desenvolvimento)
-        * [Java](#java)
-        * [doNet](#donet)
-        * [Node.js](#nodejs)
-        * [Python](#python)
 * [Grafo](#grafo)
 * [Neo4j](#neo4j)
   * [Caso de Uso](#caso-de-uso)
@@ -22,6 +17,7 @@
     * [Aprendizado](#aprendizado)
     * [Dicas](#dicas)
     * [Ferramentas](#ferramentas)
+    * [Palestras](#palestras)
 
 <!-- toc stop -->
 
@@ -272,8 +268,6 @@
 
 * [Realtime Analytics at Buffer with MongoDB](http://blog.tommoor.com/post/24059620728/realtime-analytics-at-buffer-with-mongodb)
 
-* [Métricas na web em tempo real com MongoDB | InfoQ BR](http://www.infoq.com/br/presentations/web-analytics-MongoDB)
-
 * [Rapid Realtime App Development with Node.JS & MongoDB | MongoDB, Inc](http://www.mongodb.com/presentations/rapid-realtime-app-development-nodejs-mongodb)
 
 * [[SlideShare] Building a Directed Graph with MongoDB](http://www.slideshare.net/fehguy/building-a-directed-graph-with-mongodb)
@@ -343,3 +337,9 @@
 
 * [Robomongo](http://www.robomongo.org/) - Shell-centric cross-platform MongoDB management tool
 
+
+#### Palestras
+
+* [Métricas na web em tempo real com MongoDB | InfoQ Br](http://www.infoq.com/br/presentations/web-analytics-MongoDB) - Uma solução simples utilizando MongoDB para tracking de visitas em páginas web em tempo real, mostrando também como com o MongoDB isso pode ser expandido para o rastreamento de outras métricas personalizadas, quando é necessário ou interessante exibi-las em tempo real.
+
+* [Um estudo de caso do MongoDB | InfoQ Br](http://www.infoq.com/br/presentations/mongodb-no-ingressecom) - Essa palestra apresenta um caso de uso do MongoDB na empresa [ingresse.com](http://ingresse.com), uma introdução rápida ao MongoDB e dificuldades na sua adoção.
