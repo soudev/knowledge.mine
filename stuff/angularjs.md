@@ -2108,6 +2108,8 @@ describe('testing something...', function() {
 
 * [[GitHub] decipherinc / angular-debaser](https://github.com/decipherinc/angular-debaser/) - Just a better way to test AngularJS apps
 
+* [[GitHub] gaikai / ngTestHarness](https://github.com/gaikai/ngTestHarness) - Creates a context for Angular unit tests and provides several convenience functions to streamline testing
+
 --
 
 * With Require.js
