@@ -1449,6 +1449,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] klederson / angular-masonry-directive](https://github.com/klederson/angular-masonry-directive) - A very simple and 100% compatible masonry directive for AngularJS ... do you know how to use masonry? Good! You know how to use this
 
+* [[GitHub] btford / angular-markdown-directive](https://github.com/btford/angular-markdown-directive) - AngularJS markdown directive using Showdown.js
+
 --
 
 * [Angular.js Intro.js](http://code.mendhak.com/angular-intro.js/) - AngularJS directives for intro.js
