@@ -49,6 +49,16 @@
 
 * [Planning A Front-end JavaScript Application | Telerik Developer Network](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 
+--
+
+* Java
+
+  * [Dynamic Code Evolution VM](http://ssw.jku.at/dcevm/) - A modification of the Java HotSpot(TM) VM that allows unlimited class redefinition at runtime
+
+  * [DCEVM](https://dcevm.github.io/) - Enhanced class redefinition for Java
+
+  * [Alternativa gratuita ao JRebel | Boaglio.com](http://www.boaglio.com/index.php/2015/01/22/alternativa-gratuita-ao-jrebel/)
+
 
 ## Time Traking
 
