@@ -244,6 +244,8 @@
 
   * [Grupo no Google+](https://plus.google.com/u/0/communities/114677724833864547063)
 
+* [StrongLoog](http://strongloop.com/strongblog/category/portuguese/) - post em português
+
 * [npm awesome](http://npmawesome.com/)
 
 * [[GitHub] sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources
