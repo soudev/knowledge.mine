@@ -1948,9 +1948,9 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] wlepinski / gulp-angularjs-starter-project](https://github.com/wlepinski/gulp-angularjs-starter-project) - A started project using AngularJS and Compass
 
-* [Gulp and AngularJS, A tune up | NetEngine](http://netengine.com.au/blog/gulp-and-angular-js-a-tune-up/)
+* [Gulp and AngularJS, a love story. OR: The old wheel was terrible, check out my new wheel! | NetEngine](http://netengine.com.au/blog/gulp-and-angularjs-a-love-story-or-the-old-wheel-was-terrible-check-out-my-new-wheel/) - 2014/02/20
 
-* [Gulp and AngularJS, a love story. OR: The old wheel was terrible, check out my new wheel! | NetEngine](http://netengine.com.au/blog/gulp-and-angularjs-a-love-story-or-the-old-wheel-was-terrible-check-out-my-new-wheel/)
+* [Gulp and AngularJS, A tune up | NetEngine](http://netengine.com.au/blog/gulp-and-angular-js-a-tune-up/) - 2014/08/05
 
 * [Let's build: An AngularJS app with Browserify and Gulp | Mindthecode](http://mindthecode.com/lets-build-an-angularjs-app-with-browserify-and-gulp/)
 
