@@ -2070,6 +2070,8 @@ describe('testing something...', function() {
 
 * [Writing Tests and Stomping Bugs in AngularJS | Safari Books Online's Official Blog](http://blog.safaribooksonline.com/2014/04/01/writing-tests-stomping-bugs-angularjs/)
 
+* [AngularJS Unit Testing Best Practices | via @codeship](http://blog.codeship.com/angularjs-tdd/)
+
 --
 
 * [[JSFiddle] Angular unit tests - timeout, exception](http://jsfiddle.net/eitanp461/vWecL/)
