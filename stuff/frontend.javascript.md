@@ -453,6 +453,8 @@
 
 * [Capturando erros JS LIKE-A-BOSS | Tableless](http://tableless.com.br/capturando-erros-js-like-a-boss/) - window.onerror
 
+* [Strange JavaScript Errors and How to Fix Them | David Walsh Blog](http://davidwalsh.name/fix-javascript-errors)
+
 * [Rethinking JavaScript's Try/Catch | Flippin Awesome](http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/)
 
 --
