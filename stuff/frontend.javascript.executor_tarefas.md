@@ -156,6 +156,10 @@
 
 --
 
+* [Using require.js w/ gulp | 65535th.com](http://65535th.com/using-require-js-w-gulp/)
+
+--
+
 * [How to build an Asset Pipeline with Gulpjs for any webapp | FrontEnd Journal](http://www.frontendjournal.com/how-to-build-an-asset-pipeline-with-gulpjs-for-any-webapp/)
 
 * [Usando Gulp com WordPress para automatizar tarefas | claudiosmweb.com](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
