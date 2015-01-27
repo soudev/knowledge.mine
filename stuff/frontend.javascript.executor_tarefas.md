@@ -134,6 +134,10 @@
 
 --
 
+* [Automatically reload the gulpfile.js on change | noxoc](http://noxoc.de/2014/06/25/reload-gulpfile-js-on-change/)
+
+--
+
 * [Automatically Load Gulp Plugins with gulp-load-plugins | Andy Carter](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
 
 * [[GitHub] jackfranklin / gulp-load-plugins](https://github.com/jackfranklin/gulp-load-plugins) - Automatically load in gulp plugins
