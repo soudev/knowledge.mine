@@ -1911,6 +1911,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* games
+
+  * [[GitHub] avikaza/game-for-blog](https://github.com/avikaza/game-for-blog) - AngularJS plus EaselJS to create a simple game
+
+    * [Building HTML5 canvas based video game | Toptal](http://www.toptal.com/web/making-html5-canvas-based-game-with-angularjs-and-createjs) - Using HTML5 Canvas to make cross-browser video games using AngularJS and CreateJS
+
+--
+
 * [Datavisualization with Angular and d3 on the Twitter Stream API | Topheman JS](http://dev.topheman.com/datavisualization-with-angular-and-d3-on-the-twitter-stream-api/)
   
   * [[GitHub] topheman / topheman-datavisual](https://github.com/topheman/topheman-datavisual) - Realtime datavisualization with Angular, d3, and nodejs based on Twitter Stream API
