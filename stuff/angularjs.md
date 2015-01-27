@@ -2187,6 +2187,14 @@ describe('testing something...', function() {
 
 --
 
+* Promises
+
+  * [Asynchronous Testing in Angular with Protractor's ControlFlow | Atomic Spin](http://spin.atomicobject.com/2014/12/17/asynchronous-testing-protractor-angular/) - Protractor and WebDriverJSs ControlFlow allows us to write our own asynchronous functions that can be used from our tests with a synchronous style. (2014/12/17)
+
+  * [Promises | WebDriverJS Wiki](https://code.google.com/p/selenium/wiki/WebDriverJs#Promises)
+
+--
+
 * Grunt.js
 
   * [[GitHub] teerapap / grunt-protractor-runner](https://github.com/teerapap/grunt-protractor-runner) - A Grunt plugin for running protractor runner
