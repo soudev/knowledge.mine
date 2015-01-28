@@ -1879,6 +1879,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] cgross / generator-cg-angular](https://github.com/cgross/generator-cg-angular) - Yeoman generator for Enterprise Angular projects
 
+* [[GitHub] mohuk / generator-ng-super](https://github.com/mohuk/generator-ng-super) - Yeoman generator for Angular JS
+
 --
 
 * [[GitHub] infraContentools / ngbuilder](https://github.com/infraContentools/ngbuilder) - A module builder to AngularJS
