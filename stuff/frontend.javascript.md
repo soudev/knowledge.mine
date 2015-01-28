@@ -1127,6 +1127,10 @@
 
 --
 
+* [[GitHub] serratus / quaggaJS](https://github.com/serratus/quaggaJS) - An advanced barcode-scanner written in JavaScript | [site](https://serratus.github.io/quaggaJS/)
+
+--
+
 * [[GitHub] benvan / lsys](https://github.com/benvan/lsys) - interactive l-system generator (CoffeeScript) | [wiki: L-system](https://en.wikipedia.org/wiki/L-system)
 
 
