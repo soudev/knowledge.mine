@@ -1719,6 +1719,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
 
+* [[GitHub] auth0 / angular-storage](https://github.com/auth0/angular-storage) - A storage library for AngularJS done right
+
 --
 
 * [[GitHub] ocombe / angular-localForage](https://github.com/ocombe/angular-localForage) - Angular service & directive for [[GitHub] mozilla / localForage](https://github.com/mozilla/localForage) (Offline storage, improved.)
