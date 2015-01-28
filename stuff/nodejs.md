@@ -307,12 +307,6 @@
 
 --
 
-* [Breach](http://breach.cc/) - A browser for the HTML5 era Entirely written in Javascript. Free. Modular. Hackable.
-
-* [Vivaldi](https://vivaldi.com/) - has a powerful feature set, but thats not all. One of the things that makes Vivaldi unique is that it’s built on modern Web technologies. We use JavaScript and React to create the user interface — with the help of Node.js, Browserify and a long list of NPM modules. Vivaldi is the web built with the web.
-
---
-
 * [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
 
 * [[GitHub] thisandagain / sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js
@@ -1715,6 +1709,12 @@ $ sudo chown -R `whoami` .npm
 * [[GitHub] hij1nx / node-chrome](https://github.com/hij1nx/node-chrome) - Node.js + Chrome = Networked Desktop Apps. Simple.
 
 * [[Vimeo] Native Node.js Apps](http://vimeo.com/97881078) - Native NodeJS apps are a relatively new breed of apps coming out of the NodeJS community that combine NodeJS and Webkit
+
+--
+
+* [Breach](http://breach.cc/) - A browser for the HTML5 era Entirely written in Javascript. Free. Modular. Hackable.
+
+* [Vivaldi](https://vivaldi.com/) - has a powerful feature set, but thats not all. One of the things that makes Vivaldi unique is that it’s built on modern Web technologies. We use JavaScript and React to create the user interface — with the help of Node.js, Browserify and a long list of NPM modules. Vivaldi is the web built with the web.
 
 
 #### Node Webkit
