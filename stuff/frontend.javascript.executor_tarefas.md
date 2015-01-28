@@ -108,6 +108,10 @@
 
 --
 
+* [[GitHub] kogakure / gulp-tutorial](https://github.com/kogakure/gulp-tutorial) - Code examples for my Gulp.js tutorial series
+
+--
+
 * [From make to Gulp | Sascha Depold](http://blog.depold.com/farewell-make-hello-gulp/)
 
 --
