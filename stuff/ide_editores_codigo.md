@@ -1,12 +1,13 @@
 # IDE e Editores de Código
 
 <!-- toc -->
+
 * [Online](#online)
   * [Eclipse Orion](#eclipse-orion)
 * [iPad](#ipad)
 * [Desktop](#desktop)
   * [Eclipse IDE](#eclipse-ide)
-  * [IntelliJ - JetBrains](#intellij-jetbrains)
+  * [JetBrains](#jetbrains)
   * [Light Table](#light-table)
   * [Vim](#vim)
   * [Brackets](#brackets)
@@ -78,11 +79,19 @@
 * [Config do encode no eclipse no Mac OS X](http://ekkescorner.wordpress.com/2009/07/28/howto-change-fileencoding-of-eclipse-projects-osx/)
 
 
-### IntelliJ - JetBrains
+### JetBrains
 
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/)
 
-* [5 Things You Might Not Know About IntelliJ | Conductor Nightlight](http://nightlight.conductor.com/5-things-you-might-not-know-about-intellij/)
+  * [5 Things You Might Not Know About IntelliJ | Conductor Nightlight](http://nightlight.conductor.com/5-things-you-might-not-know-about-intellij/)
+
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+
+  * [Live Templates | WebStorm Help](https://www.jetbrains.com/webstorm/help/live-templates-2.html)
+
+  * [[GitHub] firehist / webstorm-livetpls-jasmine](https://github.com/firehist/webstorm-livetpls-jasmine) - Embed live templates for jasmine (behavior-driven development framework for testing JavaScript code)
+
+  * [[GitHub] angularjs-livetpls / angularjs-webstorm-livetpls](https://github.com/angularjs-livetpls/angularjs-webstorm-livetpls) - Live templates to be used in WebStorm with angularJS
 
 
 ### Light Table
