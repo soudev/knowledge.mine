@@ -309,6 +309,8 @@
 
 * [Breach](http://breach.cc/) - A browser for the HTML5 era Entirely written in Javascript. Free. Modular. Hackable.
 
+* [Vivaldi](https://vivaldi.com/) - has a powerful feature set, but thats not all. One of the things that makes Vivaldi unique is that it’s built on modern Web technologies. We use JavaScript and React to create the user interface — with the help of Node.js, Browserify and a long list of NPM modules. Vivaldi is the web built with the web.
+
 --
 
 * [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
