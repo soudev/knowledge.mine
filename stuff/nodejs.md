@@ -1532,6 +1532,12 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] oracle / node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js
+
+  * [Announcing the Official Node.js Connector for the Oracle Database by Oracle | StrongLoop](https://strongloop.com/strongblog/official-node-js-connector-oracle-database/) - 2014/01/27
+
+--
+
 * [[GitHub] louischatriot / nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
 
   * [NeDB: SQLite for Node | DailyJS](http://dailyjs.com/2013/08/01/nedb/)
