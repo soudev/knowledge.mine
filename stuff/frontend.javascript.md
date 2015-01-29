@@ -236,6 +236,10 @@
 
 --
 
+* [Javascript - Usando temporizadores like a Ninja | Da2k Blog](http://blog.da2k.com.br/2015/01/29/javascript-usando-temporizadores-like-a-ninja/)
+
+--
+
 * [JSDares](http://www.jsdares.com/) - Experimental educational programming environment. Learn Javascript and create your own dares!
 
 --
