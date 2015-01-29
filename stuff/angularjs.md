@@ -865,6 +865,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [lumX](http://ui.lumapps.com/) - The first responsive front-end framework based on AngularJS & Google Material Design specifications
 
+* [[GitHub] klarsys / angular-material-icons](https://github.com/klarsys/angular-material-icons) - AngularJS directive to use Material Design icons with custom fill-color and size | [demo](https://klarsys.github.io/angular-material-icons/demo.html)
+
 * [[GitHub] Ehesp / Responsive-Dashboard](https://github.com/Ehesp/Responsive-Dashboard) - Bloat free responsive dashboard - powered by AngularJS and Bootstrap (jQuery version available)
 
 
