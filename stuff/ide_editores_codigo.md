@@ -112,13 +112,15 @@
 
 * [Brackets.io](http://brackets.io/)
 
-  * [[GitHub] adobe / brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
+* [[GitHub] adobe / brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 
-  * [[YouTube] Brackets Live Development for HTML & CSS](https://www.youtube.com/watch?v=Nhvj1NYC3Uc)
+* [[YouTube] Brackets Live Development for HTML & CSS](https://www.youtube.com/watch?v=Nhvj1NYC3Uc)
 
-  * [Deeper In the Brackets Editor | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/deeper-in-the-brackets-editor/)
-  
-  * [Creating Brackets Extensions | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/creating-brackets-extensions/)
+* [Deeper In the Brackets Editor | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/deeper-in-the-brackets-editor/)
+
+* [Creating Brackets Extensions | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/creating-brackets-extensions/)
+
+* [[GitHub] Jacse / themes-for-brackets](https://github.com/Jacse/themes-for-brackets) - Popular themepack for Brackets. Before official theme support, this extension also added that feature
 
 
 ### Atom
