@@ -136,6 +136,10 @@
 
   * [[GitHub] ck86 / gulp-lintspaces](https://github.com/ck86/gulp-lintspaces) - A Gulp plugin for lintspaces
 
+  * [[GitHub] stevelacy / gulp-git](https://github.com/stevelacy/gulp-git) - Git plugin for gulp
+
+  * [[GitHub] rowoot / gulp-gh-pages](https://github.com/rowoot/gulp-gh-pages) - Gulp plugin to publish to Github pages
+
 --
 
 * [Automatically reload the gulpfile.js on change | noxoc](http://noxoc.de/2014/06/25/reload-gulpfile-js-on-change/)
