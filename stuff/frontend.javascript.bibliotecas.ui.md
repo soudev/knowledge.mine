@@ -259,6 +259,10 @@
 
 * [[GitHub] andrewgleave / react-weather](https://github.com/andrewgleave/react-weather) - Example React weather app using forecast.io's API
 
+--
+
+* [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
+
 
 ### Template Engine
 
