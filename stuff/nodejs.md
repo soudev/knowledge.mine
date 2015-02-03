@@ -381,6 +381,10 @@
 
 * [[GitHub] C2FO / nools](https://github.com/C2FO/nools) - Rete based rules engine written in javascript
 
+--
+
+* [[GitHub] yaronn / blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
+
 
 ### Desenvolvimento
 
