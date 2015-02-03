@@ -23,6 +23,7 @@
   * [Ciro Nunes: AngularJS Melhores Práticas](#ciro-nunes-angularjs-melhores-práticas)
 * [Casos de Uso](#casos-de-uso)
 * [Dicas](#dicas)
+  * [Performance](#performance)
   * [Design e Interface](#design-e-interface)
   * [SEO](#seo)
   * [HTML5 offline](#html5-offline)
@@ -702,24 +703,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [AngularJS: Performance basics | Alexey Migutsky](http://www.fse.guru/angularjs-performance-basics)
-
-* [AngularJS: Performance tips | Alexey Migutsky](http://www.fse.guru/angularjs-performance-tips)
-
-* [Speeding up AngularJS apps with simple optimizations | Binpress](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
-
-* [AngularJS Docs Performance | Pete Bacon Darwin](http://www.bacondarwin.co.uk/angularjs-docs-performance/)
-
-* [Improving Angular web app performance example | Better world by better software](http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html)
-
-* [Is AngularJS Fast Enough? | Medium @jeffwhelpley](https://medium.com/@jeffwhelpley/is-angularjs-fast-enough-98dcf96406c8)
-
-* [Optimizing AngularJS: 1200ms to 35ms | Scalyr Blog](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
-
-* [AngularJS Performance in Large Applications | airpair](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
-
---
-
 * [AngularJS Video Tutorial: Using angular.bootstrap to Initialize Your App | EggHead.io](http://egghead.io/lessons/angularjs-angular-bootstrap-app-init)
 
 --
@@ -772,26 +755,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* one way data binding
-
-  * [Angular 1.2.x One-Way data-binding | Igor Costa](http://www.igorcosta.com/angular-1-2-x-one-way-data-binding/)
-
-  * [One Way Data Binding | AngularJS Hub](http://www.angularjshub.com/examples/basics/onewaydatabinding/)
-
-  * [AngularJS one-time binding syntax | Todd Motto](http://toddmotto.com/angular-one-time-binding-syntax/)
-
---
-
-* [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
-
-* [Using React for Faster Renders and Isomosphism in Angular | David and Suzi](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
-
-* [Why I stopped using ng-grid and rolled my own with ReactJS | Jose Garcia](http://www.josebalius.com/why-i-stopped-using-ng-grid-and-rolled-my-own-with-reactjs/)
-
-* [ngReactGrid - An AngularJS grid using ReactJS to render | Jose Garcia](http://www.josebalius.com/ngreactgrid-an-angularjs-grid-using-reactjs-to-render/)
-
-* [React PhoneCat: Rewriting the AngularJS Tutorial App in React | Jonas Gebhardt's Notes](https://jgebhardt.github.io/blog/react-phonecat/)
-
 * [Integrating Components with D3 and AngularJS | egghead.io](https://egghead.io/lessons/integrating-components-with-d3-and-angularjs) - Since React is only interested in the V (view) of MVC, it plays well with other toolkits and frameworks. This includes AngularJS and D3.
 
 --
@@ -821,10 +784,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Restangular on Angular | ng-newsletter](http://www.ng-newsletter.com/posts/restangular.html)
-
---
-
-* [[GitHub] scalyr / angular](https://github.com/scalyr/angular) - Code to optimize AngularJS for complex pages
 
 --
 
@@ -859,6 +818,48 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Using Spring MVC and Angular? You might need this | Jose Garcia](http://www.josebalius.com/using-spring-mvc-and-angular-you-might-need-this/) - tips for legacy applications
+
+
+### Performance
+
+* [AngularJS: Performance basics | Alexey Migutsky](http://www.fse.guru/angularjs-performance-basics)
+
+* [AngularJS: Performance tips | Alexey Migutsky](http://www.fse.guru/angularjs-performance-tips)
+
+* [Speeding up AngularJS apps with simple optimizations | Binpress](http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135)
+
+* [AngularJS Docs Performance | Pete Bacon Darwin](http://www.bacondarwin.co.uk/angularjs-docs-performance/)
+
+* [Improving Angular web app performance example | Better world by better software](http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html)
+
+* [Is AngularJS Fast Enough? | Medium @jeffwhelpley](https://medium.com/@jeffwhelpley/is-angularjs-fast-enough-98dcf96406c8)
+
+* [Optimizing AngularJS: 1200ms to 35ms | Scalyr Blog](http://blog.scalyr.com/2013/10/angularjs-1200ms-to-35ms/)
+
+  * [[GitHub] scalyr / angular](https://github.com/scalyr/angular) - Code to optimize AngularJS for complex pages
+
+* [AngularJS Performance in Large Applications | airpair](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
+
+
+* one way data binding
+
+  * [Angular 1.2.x One-Way data-binding | Igor Costa](http://www.igorcosta.com/angular-1-2-x-one-way-data-binding/)
+
+  * [One Way Data Binding | AngularJS Hub](http://www.angularjshub.com/examples/basics/onewaydatabinding/)
+
+  * [AngularJS one-time binding syntax | Todd Motto](http://toddmotto.com/angular-one-time-binding-syntax/)
+
+* React.js
+
+  * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
+
+  * [Using React for Faster Renders and Isomosphism in Angular | David and Suzi](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
+
+  * [Why I stopped using ng-grid and rolled my own with ReactJS | Jose Garcia](http://www.josebalius.com/why-i-stopped-using-ng-grid-and-rolled-my-own-with-reactjs/)
+
+  * [ngReactGrid - An AngularJS grid using ReactJS to render | Jose Garcia](http://www.josebalius.com/ngreactgrid-an-angularjs-grid-using-reactjs-to-render/)
+
+  * [React PhoneCat: Rewriting the AngularJS Tutorial App in React | Jonas Gebhardt's Notes](https://jgebhardt.github.io/blog/react-phonecat/)
 
 
 ### Design e Interface
