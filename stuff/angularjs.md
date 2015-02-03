@@ -125,6 +125,12 @@
 
 * [AtScript (was "ES6 +A") Q&A | Google Doc](https://docs.google.com/document/d/1cUTD8oVzfpwFqX5tMxHTifKO8uJm5VddwmB0aVQMxpI/edit#heading=h.tk8rztcx46y)
 
+--
+
+* ES6
+
+  * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
+
 
 ### Estatísticas
 
