@@ -73,6 +73,8 @@
 
   * [Material Examples](http://www.materialup.com/)
 
+  * [[GitHub] lightningtgc / MProgress.js](https://github.com/lightningtgc/MProgress.js) - Material Progress —Google Material Design Progress linear bar. By using CSS3 and pure JavaScript
+
 
 ### Look and Feel
 
