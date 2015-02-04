@@ -172,6 +172,8 @@
 
 * [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
 
+* [.bashrc generator](http://bashrcgenerator.com/) - create your .bashrc PS1 with a drag and drop interface
+
 
 ## Desenvolvimento
 
