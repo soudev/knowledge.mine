@@ -762,6 +762,8 @@
 
 * [[GitHub] aaronpowell / db.js](https://github.com/aaronpowell/db.js) - is a wrapper for IndexedDB to make it easier to work against 
 
+* [[GitHub] js-data / js-data](https://github.com/js-data/js-data) - Robust framework-agnostic in-memory data store 
+
 --
 
 * [[GitHub] addyosmani / basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage
