@@ -83,11 +83,19 @@
 
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/)
 
+  * [Project and IDE Settings | IntelliJ IDEA Help](https://www.jetbrains.com/idea/help/project-and-ide-settings.html)
+
+  * [Live Templates | IntelliJ IDEA Help](https://www.jetbrains.com/idea/help/live-templates.html)
+
   * [5 Things You Might Not Know About IntelliJ | Conductor Nightlight](http://nightlight.conductor.com/5-things-you-might-not-know-about-intellij/)
 
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 
+  * [Project and IDE Settings | WebStorm Help](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html)
+
   * [Live Templates | WebStorm Help](https://www.jetbrains.com/webstorm/help/live-templates-2.html)
+
+  * [Working with Live Templates in WebStorm and PHPStorm | David Tucker](http://davidtucker.net/articles/live-templates-phpstorm-webstorm/)
 
   * [[GitHub] firehist / webstorm-livetpls-jasmine](https://github.com/firehist/webstorm-livetpls-jasmine) - Embed live templates for jasmine (behavior-driven development framework for testing JavaScript code)
 
