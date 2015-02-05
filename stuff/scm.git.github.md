@@ -542,6 +542,8 @@ git clean -fd
 
 * [Criando páginas web para seus repositórios com o GitHub Pages | Tableless](http://tableless.com.br/criando-paginas-web-para-seus-repositorios-com-o-github-pages/)
 
+* [Segredos do Github - Hospedando seu site no Github | Da2k Blog](http://blog.da2k.com.br/2015/02/05/segredos-do-github-hospedando-seu-site-no-github/)
+
 * [Getting started with GitHub Pages](http://xlson.com/2010/11/09/getting-started-with-github-pages.html)
 
 * [A Guide To Using Github Pages | Thinkful](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
