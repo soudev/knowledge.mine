@@ -663,6 +663,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Rethinking AngularJS Controllers | Todd Motto](http://toddmotto.com/rethinking-angular-js-controllers/)
 
+* [Implementing AngularJS controllers using best practices | RevillWeb](http://www.revillweb.com/angularjs-by-example/3-controllers/)
+
 * [When to use directives, controllers, or services in Angular JS | Kirk Bushell](http://kirkbushell.me/when-to-use-directives-controllers-or-services-in-angular/)
 
 * [Understanding Angular.js services the easy way | Jonathan Creamer](http://jonathancreamer.com/understanding-angular-js-services-the-easy-way/)
