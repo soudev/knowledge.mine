@@ -922,6 +922,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Enhancing AngularJS $log using Decorators | The Solution Optimist](http://solutionoptimist.com/2013/10/07/enhance-log-using-angularjs-decorators/)
 
+  * [[GitHub] lwhiteley / AngularLogExtender](https://github.com/lwhiteley/AngularLogExtender) - is an AngularJS module that extends the Angular $log functionality
+
 * [Experiment: decorating directives | Angular Tips](http://angular-tips.com/blog/2013/09/experiment-decorating-directives/)
 
 * [Modifying the behavior of AngularJS’ core services | CLI nerd](http://www.cli-nerd.com/blog/2014/05/08/%24provide-dot-decorator/) - $provide.decorator()
