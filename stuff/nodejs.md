@@ -1249,6 +1249,10 @@
 
 --
 
+* [[GitHub] nathanpeck / clui](https://github.com/nathanpeck/clui) - Command Line UI toolkit for Node.js
+
+--
+
 * [How to Write a Command Line Application in Node.js | Liang Zan](http://blog.liangzan.net/blog/2012/07/30/how-to-write-a-command-line-application-in-node-dot-js/)
 
 * [Command-line utilities with Node.js | cruft.io](http://cruft.io/posts/node-command-line-utilities/) - An overview of command-line interfaces and using node.js to create command-line utilities
