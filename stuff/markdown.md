@@ -31,6 +31,8 @@
 
 * [Markdown | Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
+* [Aprenda Markdown | Da2k Blog](http://blog.da2k.com.br/2015/02/08/aprenda-markdown/)
+
 * [Markdown: The Ins and Outs | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/markdown-the-ins-and-outs/)
 
 * [Adicionando Markdown ao seu kit de sobrevivência na web | iMasters](http://imasters.com.br/desenvolvimento/adicionando-markdown-ao-seu-kit-de-sobrevivencia-na-web/)
