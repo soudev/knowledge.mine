@@ -644,6 +644,10 @@
 
 --
 
+* [[GitHub] IonicaBizau / git-stats](https://github.com/IonicaBizau/git-stats) - A GitHub-like contributions calendar, but locally, with all your git commits
+
+--
+
 * [[GitHub] typicode / husky](https://github.com/typicode/husky) - Prevents bad commit or push (git hooks, pre-commit, pre-push and all that stuff...)
 
 --
