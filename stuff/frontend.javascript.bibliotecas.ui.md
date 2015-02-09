@@ -132,6 +132,10 @@
 
 --
 
+* [[GitHub] atom / highlights](https://github.com/atom/highlights) - Reads in code, writes out HTML with CSS classes based on the tokens in the code
+
+--
+
 * [[GitHub] guardian / scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform
 
 * [[GitHub] quilljs / quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
