@@ -257,6 +257,10 @@
 
 --
 
+* [reapp : Hybrid apps, fast](http://reapp.io/) - Make beautiful hybrid apps that feel great with React, Webpack and ES6
+
+--
+
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
 
   * [[GitHub] brian3kb / tic_tac_reactjs](https://github.com/brian3kb/tic_tac_reactjs) - Simple tic tac toe game built with reactjs
