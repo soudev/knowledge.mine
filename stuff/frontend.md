@@ -128,6 +128,16 @@
 
 ## Imagens
 
+* [GIMP](http://www.gimp.org/) - is the GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring.
+
+  * [GIMP como alternativa ao Photoshop | iMasters](http://imasters.com.br/design-ux/gimp-como-alternativa-ao-photoshop/)
+
+  * [Gimpshop](http://www.gimpshop.com/) - Looking for a free alternative to Photoshop
+
+  * [GIMP Brasil](http://www.gimpbrasil.org/) - Tutoriais e informações em português sobre o software de código aberto GIMP e o mundo GNU
+
+--
+
 * [[GitHub] paulirish / browser-logos](https://github.com/paulirish/browser-logos) - vector and raster versions of all browser logos possible. transparent backgrounds.
 
 * [Gridulator](http://gridulator.com/) - Make pixel grids, lickety-split
