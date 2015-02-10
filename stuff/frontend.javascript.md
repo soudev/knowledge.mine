@@ -246,6 +246,10 @@
 
 * [[GitHub] AlexNisnevich / untrusted](https://github.com/AlexNisnevich/untrusted) - A meta-JavaScript adventure game. Won first place at the Berkeley CSUA Spring 2013 Hackathon.
 
+--
+
+* [JavaScript Videos | Toptal](http://www.toptal.com/videos/front-end)
+
 
 ### OOP
 
