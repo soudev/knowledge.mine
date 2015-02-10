@@ -20,6 +20,10 @@
 
 --
 
+* [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics
+
+--
+
 * [The 2014 CSS Report: Examining how CSS is being used in the wild | Quick Left](http://reports.quickleft.com/css)
 
 --
