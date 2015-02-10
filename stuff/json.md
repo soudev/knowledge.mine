@@ -75,6 +75,8 @@
 
 * [Json Web Tokens: Introduction | Angular Tips](http://angular-tips.com/blog/2014/05/json-web-tokens-introduction/)
 
+* [Episode 9 – Ditching Cookies for JSON Web Tokens | Screencasts For Developers](http://knowthen.com/episode-9-ditching-cookies-for-json-web-tokens/)
+
 --
 
 * [[GitHub] auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
