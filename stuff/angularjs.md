@@ -655,6 +655,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] naorye / angular-ny-logger](https://github.com/naorye/angular-ny-logger) - AngularJS Logger service provider
 
+* [Monitoring $http Activity With $http Interceptors In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2777-monitoring-http-activity-with-http-interceptors-in-angularjs.htm)
+
 --
 
 * [[GitHub] davej / angular-classy](https://github.com/davej/angular-classy) - Cleaner class-based controllers with Angular
