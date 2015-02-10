@@ -716,6 +716,8 @@
 
 * [Pimp my JS: +200% of performance | Pics.io](http://blog.pics.io/sneak-peeks/pimp-my-js-200-of-performance/)
 
+* [Stop Writing Slow Javascript | I Like Kill Nerds](http://ilikekillnerds.com/2015/02/stop-writing-slow-javascript/)
+
 --
 
 * [Effectively Managing Memory at Gmail scale | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/)
