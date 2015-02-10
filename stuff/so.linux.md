@@ -11,6 +11,8 @@
 
 * [Como ser um dev frontend usando Linux | Da2k Blog](http://blog.da2k.com.br/2015/01/15/como-ser-um-dev-frontend-usando-linux/)
 
+* [GIMP como alternativa ao Photoshop | iMasters](http://imasters.com.br/design-ux/gimp-como-alternativa-ao-photoshop/)
+
 --
 
 * [.bashrc generator](http://bashrcgenerator.com/) - create your .bashrc PS1 with a drag and drop interface
