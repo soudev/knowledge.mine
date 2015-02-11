@@ -269,6 +269,8 @@
 
 --
 
+* [[GitHub] Flipboard / react-canvas](https://github.com/flipboard/react-canvas) - High performance <canvas> rendering for React components
+
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
 
 
