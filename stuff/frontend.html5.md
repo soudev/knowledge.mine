@@ -940,6 +940,8 @@
 
 * [[SlideShare] How Can HTML Compete with Native?](http://www.slideshare.net/andreasc/how-can-html-compete-with-native)
 
+* [60fps on the mobile web | Flipboard Engineering](http://engineering.flipboard.com/2015/02/mobile-web/)
+
 --
 
 * [Screensiz.es](http://screensiz.es/phone) is a nifty little database of screen specifications for the most popular devices on the market.
