@@ -160,6 +160,8 @@
 
 * [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
+* [Functional programming with JavaScript, some concepts | dreyacosta](http://dreyacosta.com/functional-javascript/)
+
 * [[SlideShare] Functional Programming Patterns (BuildStuff '14)](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
 
 * [Functions Explained | Mark Daggett's Blog](http://markdaggett.com/blog/2013/02/15/functions-explained/)
