@@ -46,6 +46,10 @@
 
 --
 
+* [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+--
+
 * [Seu código CSS pode ser mais limpo, flexível e reaproveitável | Caelum](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/)
 
 * [Repensando CSS Resets | Tableless](http://tableless.com.br/repensando-css-resets/) - Como melhorar seu CSS Reset
