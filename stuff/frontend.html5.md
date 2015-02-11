@@ -1012,6 +1012,8 @@
 
 * [Apache Cordova, removendo os 300ms de delay entre o toque e o click | Igor Costa](http://www.igorcosta.com/apache-cordova-removendo-os-300ms-de-delay-entre-o-toque-e-o-click/)
 
+* [Building Robust Cordova Apps with AppBuilder and Grunt | Telerik Developer Network](http://developer.telerik.com/featured/building-robust-cordova-apps-appbuilder-grunt/)
+
 
 ###### PhoneGap
 
