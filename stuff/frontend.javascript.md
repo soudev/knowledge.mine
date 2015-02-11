@@ -13,6 +13,7 @@
     * [Compressão](#compressão)
     * [Ordenação](#ordenação)
   * [Sistema de Dependências e Módulos](#sistema-de-dependências-e-módulos)
+    * [Webpack](#webpack)
     * [Browserify](#browserify)
     * [Require.js](#requirejs)
   * [Qualidade de Código](#qualidade-de-código)
@@ -798,7 +799,15 @@
 * [BoxJS](http://boxjs.com/) - A simple package management service
 
 
+#### Webpack
+
 * [[GitHub] webpack / webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.
+
+* [[GitHub] shama / gulp-webpack](https://github.com/shama/gulp-webpack) - webpack plugin for gulp
+
+--
+
+* [Browserify VS Webpack - JS Drama | Naman Goel](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
 
 
 #### Browserify
