@@ -1770,6 +1770,8 @@ $ sudo chown -R `whoami` .npm
 
 ##### node-webkit: exemplos
 
+* [[GitHub] kessler / nw-ninja](https://github.com/kessler/nw-ninja) - minimal node-webkit starter project for ninjas
+
 * [[GitHub] Anonyfox / node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of
 
 * [[GitHub] zcbenz / nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
