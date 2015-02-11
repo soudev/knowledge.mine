@@ -1640,3 +1640,6 @@
 
 * [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
 
+--
+
+* [[GitHub] JustinDrake / node-es6-examples](https://github.com/JustinDrake/node-es6-examples) - ECMAScript 6 examples for Node.JS
