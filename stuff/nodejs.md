@@ -1596,6 +1596,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] mapbox / stickshift](https://github.com/mapbox/stickshift) - A clean & modern SQL data interface
+
+--
+
 * [[GitHub] BagosGiAr / modQuery](https://github.com/BagosGiAr/modQuery) - A module to use for MySQL queries with respect to SQL.
 
 --
