@@ -1606,6 +1606,10 @@
 
 --
 
+* [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
+
+--
+
 * [Expert ES6 | tagtree.io](http://tagtree.io/courses/expert-es6/do) - An ES6 Course in the Browser 
 
 * [[GitHub] ericdouglas / ES6-Learning](https://github.com/ericdouglas/ES6-Learning) - List of resources to learn ECMAScript 6
