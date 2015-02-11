@@ -373,6 +373,10 @@
 
 --
 
+* [[GitHub] sdelements / lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
+
+--
+
 * [SuperScript](http://superscriptjs.com/) - A language for writing Chat Bots
 
   * [[GitHub] silentrob / superscript](https://github.com/silentrob/superscript) - A dialogue engine for creating chat bots
