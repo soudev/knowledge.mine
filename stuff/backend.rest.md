@@ -2,20 +2,23 @@
 
 <!-- toc -->
 
-  * [Visão Geral](#visão-geral)
-  * [API](#api)
-  * [Desgin](#desgin)
-  * [i18n](#i18n)
-  * [Desenvolvimento](#desenvolvimento)
-    * [JIRA](#jira)
-    * [dotNet](#dotnet)
-    * [Java](#java)
-    * [Python](#python)
-    * [PHP](#php)
-    * [Node.js](#nodejs)
-  * [Ferramentas](#ferramentas)
-    * [Mock](#mock)
-    * [Google Chrome](#google-chrome)
+* [Visão Geral](#visão-geral)
+* [API](#api)
+* [Desgin](#desgin)
+* [i18n](#i18n)
+* [Desenvolvimento](#desenvolvimento)
+  * [JIRA](#jira)
+  * [dotNet](#dotnet)
+  * [Java](#java)
+    * [Monitoramento](#monitoramento)
+    * [Testes](#testes)
+    * [Segurança](#segurança)
+  * [Python](#python)
+  * [PHP](#php)
+  * [Node.js](#nodejs)
+* [Ferramentas](#ferramentas)
+  * [Mock](#mock)
+  * [Google Chrome](#google-chrome)
 * [HATEOAS](#hateoas)
 * [HAL](#hal)
 
@@ -303,6 +306,10 @@
 
 ### PHP
 
+* [[GitHub] phanan / htaccess](https://github.com/phanan/htaccess) - A collection of useful .htaccess snippets
+
+--
+
 * [Laravel 4: A Start at a RESTful API | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785)
 
 * [Laravel 4: Começando com API RESTful | Tuts+ Code Tutorial](http://code.tutsplus.com/pt/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785)
@@ -339,7 +346,7 @@
 * [REST Console](https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn)
 
 
-# HATEOAS
+## HATEOAS
 
 *Definição:* _HATEOAS_ - Hypermedia as the Engine of Application State [wiki](http://en.wikipedia.org/wiki/HATEOAS)
 
@@ -360,7 +367,7 @@
 * [[Vimeo] Designing Hypermedia APIs by Steve Klabnik](http://vimeo.com/53223942) - Ruby on Rails did a lot to bring REST to developers, but its conception leaves the REST devotee feeling a bit empty. "Where's the hypermedia?" she says. "REST isn't RPC," he may cry. In this talk, Steve will explain how to design your APIs so that they truly embrace the web and HTTP. Pros and cons of this approach will be discussed, as well as why many aren't building things this way yet.
 
 
-# HAL
+## HAL
 
 *Definição:* _HAL_ is two media types (application/hal+json &  application/hal+xml) with which applications are exposed as sets of link  relations.
 
