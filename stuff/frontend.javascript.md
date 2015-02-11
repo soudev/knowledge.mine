@@ -1284,6 +1284,10 @@
 
 ### Ferramentas
 
+* [[GitHub] gorhill / uBlock](https://github.com/gorhill/uBlock) - µBlock - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean
+
+--
+
 * [A List of Foundational JavaScript Tools](https://www.codefellows.org/blogs/complete-list-of-javascript-tools)
 
 * [[GitHub] tooling / book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - The Little Book Of Modern Front-end Tooling
