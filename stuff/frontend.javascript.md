@@ -903,6 +903,12 @@
 
 * [Five Helpful Tips When Using RequireJS | Tech Pro](http://tech.pro/blog/1561/five-helpful-tips-when-using-requirejs)
 
+--
+
+* [[GitHub] adriancmiranda / generator-gulp-requirejs](https://github.com/adriancmiranda/generator-gulp-requirejs) - A gulp.js generator for requirejs webapps
+
+* [[GitHub] RobinThrift / gulp-requirejs](https://github.com/robinthrift/gulp-requirejs) - A small, simply, very easy wrapper around the require.js optimizer to work with gulp.js
+
 
 ##### Backbone.js
 
