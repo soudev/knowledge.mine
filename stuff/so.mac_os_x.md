@@ -217,6 +217,8 @@
 
   * [[StackOverflow] NPM throws error without sudo](https://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
 
+  * [[GitHub] creationix / nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
+
   * [How to uninstall Node.js on Mac | Maxwhale.com](http://www.maxwhale.com/how-to-uninstall-node-js-on-mac/)
 
   * [[gist] Mac OS X uninstall script for packaged install of node.js](https://gist.github.com/nicerobot/2697848)
