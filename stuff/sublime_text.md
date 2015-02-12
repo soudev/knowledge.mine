@@ -197,6 +197,9 @@
 
   * [Glue - a Terminal for Sublime Text | Sweetmeat](http://sweetme.at/2014/04/07/glue-a-terminal-for-sublime-text/)
 
+--
+
+* [[GitHub] randy3k / AlignTab](https://github.com/randy3k/AlignTab) - An alignment plugin using regular expression
 
 
 ### EditorConfig
