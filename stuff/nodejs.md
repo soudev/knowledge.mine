@@ -1,5 +1,7 @@
 # Node.js
 
+
+
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
@@ -14,6 +16,7 @@
     * [Configuração do Ambiente](#configuração-do-ambiente)
     * [Exemplos](#exemplos)
   * [Código](#código)
+    * [Documentação](#documentação)
     * [Performance, Proteção e Otimização](#performance-proteção-e-otimização)
     * [Análise](#análise)
   * [Monitoramento e Logs](#monitoramento-e-logs)
@@ -82,6 +85,7 @@
     * [JetBrains](#jetbrains)
 
 <!-- toc stop -->
+
 
 
 ## Visão Geral
@@ -506,6 +510,15 @@
 ### Código
 
 * [Contractual - Design by contract for JavaScript](https://codemix.github.io/contractual/)
+
+
+#### Documentação
+
+* [JSDocs](http://usejsdoc.org/)
+
+  * [[GitHub] jsdoc3 / jsdoc](https://github.com/jsdoc3/jsdoc) - An API documentation generator for JavaScript
+
+* [[GitHub] rrrene / inchjs](https://github.com/rrrene/inchjs) - A documentation tool for JavaScript/NodeJS
 
 
 #### Performance, Proteção e Otimização
