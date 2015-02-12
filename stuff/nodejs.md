@@ -1,7 +1,5 @@
 # Node.js
 
-
-
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
@@ -85,7 +83,6 @@
     * [JetBrains](#jetbrains)
 
 <!-- toc stop -->
-
 
 
 ## Visão Geral
