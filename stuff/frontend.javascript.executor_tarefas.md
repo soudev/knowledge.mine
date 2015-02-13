@@ -197,6 +197,8 @@
 
 * [[GitHub] johnpapa / gulp-patterns](https://github.com/johnpapa/gulp-patterns) - JavaScript Build automation with Gulp and Angular
 
+* [[GitHub] tmaximini / ionic-gulp-seed](https://github.com/tmaximini/ionic-gulp-seed) - A starting point for Ionic Apps
+
 
 #### Grunt
 
