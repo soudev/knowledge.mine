@@ -48,6 +48,10 @@
 
 * [Superhero.js](http://superherojs.com/) -  Creating, testing and maintaining a large JavaScript code base is not easy - especially since great resources on how to do this are hard to  find. This page is a collection of the best articles, videos and  presentations we've found on the topic.
 
+* [wtfjs](http://wtfjs.com/) - a little code blog about that language we love despite giving us so much to hate
+
+  * [[GitHub] brianleroux / wtfjs](https://github.com/brianleroux/wtfjs)
+
 
 ### Aprendizado
 
