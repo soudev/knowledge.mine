@@ -1619,6 +1619,10 @@
 
 * [6to5](https://6to5.org/) - turns ES6+ code into vanilla ES5, so you can use next generation features today
 
+  * [[GitHub] 6to5 / 6to5-sublime](https://github.com/6to5/6to5-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions
+
+  * [[GitHub] voronianski / oceanic-next-theme](https://github.com/voronianski/oceanic-next-theme) - Sublime Text theme ready for ES6, optimized for 6to5-sublime package
+
 --
 
 * [es6rocks.com](http://es6rocks.com/) : new site dedicated to articles and talks about the next version of JavaScript
@@ -1656,6 +1660,8 @@
 * [Get ready for ECMAScript 6 | K33G_ORG's Blog](https://k33g.github.io/2014/06/26/ES6-READY.html)
 
 * [An introduction to ES6 classes | JavaScript Playground](http://javascriptplayground.com/blog/2014/07/introduction-to-es6-classes-tutorial/)
+
+* [ES6 classes and JavaScript prototypes | reinteractive](https://reinteractive.net/posts/235-es6-classes-and-javascript-prototypes)
 
 * [Preparing for ECMAScript 6: let and const | SitePoint](http://www.sitepoint.com/preparing-ecmascript-6-let-const/)
 
