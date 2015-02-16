@@ -641,6 +641,8 @@
 
 * [Evitando callback hell no Node.js | Underground WebDev](http://udgwebdev.com/evitando-callback-hell-no-node-js/)
 
+* [Managing Node.js Callback Hell with Promises, Generators and Other Approaches | StrongLoop](http://strongloop.com/strongblog/node-js-callback-hell-promises-generators/)
+
 
 ### Git e GitHub
 
