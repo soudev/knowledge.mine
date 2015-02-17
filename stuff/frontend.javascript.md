@@ -1621,7 +1621,13 @@
 
 ### ECMAScript 6
 
-* [6to5](https://6to5.org/) - turns ES6+ code into vanilla ES5, so you can use next generation features today
+* [Babel](http://babeljs.io/) is a JavaScript transpiler. Use next generation JavaScript, today.
+
+  * [[GitHub] babel / babel](https://github.com/babel/babel) - Babel is a transpiler for writing next generation JavaScript. (Previously 6to5)
+
+  * [Not Born to Die | Babel](http://babeljs.io/blog/2015/02/15/not-born-to-die/)
+
+  * [Learn ES6 | Babel](http://babeljs.io/docs/learn-es6/) - A detailed overview of ECMAScript 6 features.
 
   * [[GitHub] 6to5 / 6to5-sublime](https://github.com/6to5/6to5-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions
 
