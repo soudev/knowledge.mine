@@ -174,7 +174,11 @@
 
 * [Deploying To Github Pages With Gulp | Charlie Gleason](http://charliegleason.com/articles/deploying-to-github-pages-with-gulp)
 
-* [GulpJS - deploy com Rsync | Da2k Blog](http://blog.da2k.com.br/2015/01/27/gulpjs-deploy-com-rsync/)
+* [[GitHub] jedrichards / rsyncwrapper](https://github.com/jedrichards/rsyncwrapper) - An async wrapper to the rsync command line utility for Node.js
+
+  * [GulpJS - deploy com Rsync | Da2k Blog](http://blog.da2k.com.br/2015/01/27/gulpjs-deploy-com-rsync/)
+
+* [[GitHub] sindresorhus / gulp-ftp](https://github.com/sindresorhus/gulp-ftp) - Upload files to an FTP-server
 
 * [Gulp and AngularJS, a love story. OR: The old wheel was terrible, check out my new wheel! | NetEngine](http://netengine.com.au/blog/gulp-and-angularjs-a-love-story-or-the-old-wheel-was-terrible-check-out-my-new-wheel/) - 2014/02/20
 
