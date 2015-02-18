@@ -1,6 +1,5 @@
 # Front-End
 
-
 <!-- toc -->
 * [HTML5](#html5)
   * [Aprendizado](#aprendizado)
@@ -761,6 +760,8 @@
 * [[GitHub] jensarps / IDBWrapper](https://github.com/jensarps/IDBWrapper) - A cross-browser wrapper for IndexedDB
 
 * [[GitHub] aaronpowell / db.js](https://github.com/aaronpowell/db.js) - is a wrapper for IndexedDB to make it easier to work against 
+
+* [[GitHub] paldepind / synceddb](https://github.com/paldepind/synceddb) - Makes it easy to write offline-first applications with realtime syncing and server side persistence
 
 * [[GitHub] js-data / js-data](https://github.com/js-data/js-data) - Robust framework-agnostic in-memory data store 
 
