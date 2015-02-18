@@ -37,6 +37,8 @@
 
 * [Secrets you should have learned before your first programming job | New Relic blog](http://blog.newrelic.com/2014/06/03/10-secrets-learned-software-engineering-degree-probably-didnt/) - From debugging to version control, programming in the real world requires a set of skills they just don’t teach in school
 
+* [Writing Code for Humans | Medium - @ilyoTheHorrid](https://medium.com/@wbinnssmith/why-version-control-isnt-package-management-a-brief-history-5d40c524ba3e) - Zen JavaScript, or why should your code be as easy to read as Harry Potter
+
 --
 
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
