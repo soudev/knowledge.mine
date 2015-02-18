@@ -1462,6 +1462,8 @@
 
 * [npm and front-end packaging | The npm Blog](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
 
+* [Why Version Control isn’t Package Management: A brief history | Medium - @wbinnssmith](https://medium.com/@wbinnssmith/why-version-control-isnt-package-management-a-brief-history-5d40c524ba3e) - Or, why aren’t we using npm for the frontend?
+
 --
 
 * [Jam.js and Bower | Red Badger](http://red-badger.com/blog/2013/03/26/jam-js-and-bower/)
