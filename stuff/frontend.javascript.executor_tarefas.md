@@ -192,6 +192,8 @@
 
 * PHP
 
+  * [Usando Gulp com WordPress para automatizar tarefas | claudiosmweb.com](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
+
   * [[GitHub] micahblu / gulp-connect-php](https://github.com/micahblu/gulp-connect-php) - Start a php server with gulp
 
   * [Gulp-webapp running BrowserSync and PHP | Solutions for enthusiast and professional programmers](http://fatal-errors.com/gulp-webapp-running-browsersync-and-php/371147)
