@@ -949,6 +949,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Load a module on demand with AngularJS | getElementsByIdea](http://blog.getelementsbyidea.com/load-a-module-on-demand-with-angularjs/)
 
+* [Angular — Dynamically injecting CSS files using $route.resolve and promises | Medium - AngularJs Meetup — South London](https://medium.com/angularjs-meetup-south-london/angular-dynamically-injecting-css-file-using-route-resolve-and-promises-7bfcb8ccd05b) - Snippet to get the job done
+
 --
 
 * [[GitHub] geddski / overmind](https://github.com/geddski/overmind) - Easy module isolation and lazy loading for Angular apps
