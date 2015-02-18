@@ -170,9 +170,11 @@
 
 * [How to build an Asset Pipeline with Gulpjs for any webapp | FrontEnd Journal](http://www.frontendjournal.com/how-to-build-an-asset-pipeline-with-gulpjs-for-any-webapp/)
 
-* [Usando Gulp com WordPress para automatizar tarefas | claudiosmweb.com](http://claudiosmweb.com/wordpress/usando-gulp-com-wordpress/)
+--
 
 * [Deploying To Github Pages With Gulp | Charlie Gleason](http://charliegleason.com/articles/deploying-to-github-pages-with-gulp)
+
+--
 
 * [[GitHub] jedrichards / rsyncwrapper](https://github.com/jedrichards/rsyncwrapper) - An async wrapper to the rsync command line utility for Node.js
 
@@ -180,9 +182,19 @@
 
 * [[GitHub] sindresorhus / gulp-ftp](https://github.com/sindresorhus/gulp-ftp) - Upload files to an FTP-server
 
+--
+
 * [Gulp and AngularJS, a love story. OR: The old wheel was terrible, check out my new wheel! | NetEngine](http://netengine.com.au/blog/gulp-and-angularjs-a-love-story-or-the-old-wheel-was-terrible-check-out-my-new-wheel/) - 2014/02/20
 
 * [Gulp and AngularJS, A tune up | NetEngine](http://netengine.com.au/blog/gulp-and-angular-js-a-tune-up/) - 2014/08/05
+
+--
+
+* PHP
+
+  * [[GitHub] micahblu / gulp-connect-php](https://github.com/micahblu/gulp-connect-php) - Start a php server with gulp
+
+  * [Gulp-webapp running BrowserSync and PHP | Solutions for enthusiast and professional programmers](http://fatal-errors.com/gulp-webapp-running-browsersync-and-php/371147)
 
 --
 
