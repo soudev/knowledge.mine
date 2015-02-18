@@ -174,6 +174,8 @@
 
 * [Deploying To Github Pages With Gulp | Charlie Gleason](http://charliegleason.com/articles/deploying-to-github-pages-with-gulp)
 
+* [GulpJS - deploy com Rsync | Da2k Blog](http://blog.da2k.com.br/2015/01/27/gulpjs-deploy-com-rsync/)
+
 * [Gulp and AngularJS, a love story. OR: The old wheel was terrible, check out my new wheel! | NetEngine](http://netengine.com.au/blog/gulp-and-angularjs-a-love-story-or-the-old-wheel-was-terrible-check-out-my-new-wheel/) - 2014/02/20
 
 * [Gulp and AngularJS, A tune up | NetEngine](http://netengine.com.au/blog/gulp-and-angular-js-a-tune-up/) - 2014/08/05
