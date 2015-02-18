@@ -290,6 +290,8 @@
 
   * [Docs | Travis CI](http://about.travis-ci.org/docs/)
 
+  * [Integração contínua com travis-ci | renan martins pimentel](https://renanmpimentel.github.io/dev/integracao-continua-com-travis-ci.html)
+
 --
 
 * [Capistrano](http://www.capistranorb.com) - A remote server automation and deployment tool written in Ruby.
