@@ -2113,6 +2113,8 @@ describe('testing something...', function() {
 
 * [AngularJS Unit Testing Best Practices | via @codeship](http://blog.codeship.com/angularjs-tdd/)
 
+* [Angular — Unit Testing with Jasmine | Medium — AngularJs Meetup — South London](https://medium.com/angularjs-meetup-south-london/angular-unit-testing-with-jasmine-24795a44998e)
+
 --
 
 * [[JSFiddle] Angular unit tests - timeout, exception](http://jsfiddle.net/eitanp461/vWecL/)
