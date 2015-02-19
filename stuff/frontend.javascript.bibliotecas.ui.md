@@ -72,7 +72,7 @@
 
 --
 
-* [Spin.js](http://fgnass.github.com/spin.js/) - An animated CSS activity indicator with VML fallback.
+* [[GitHub] fgnass / spin.js](https://github.com/fgnass/spin.js) - A spinning activity indicator. An animated CSS activity indicator with VML fallback.
 
 * [[GitHub] Pathgather / please-wait](https://github.com/Pathgather/please-wait) - A simple library to show your users a beautiful splash page while your application loads
 
