@@ -58,6 +58,10 @@
 
 * [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
 
+--
+
+* [&nbsp; Is Not A Four-Letter Word | Ben Nadel](http://www.bennadel.com/blog/2786-nbsp-is-not-a-four-letter-word.htm) - describes his use of the non-breaking space, or &nbsp; HTML entity. While modern-day CSS is powerful, it pales in comparison to the simplicity, brevity, and elegance of the non-breaking space.
+
 
 ### Design
 
