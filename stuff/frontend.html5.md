@@ -192,6 +192,8 @@
 
 * [Quick one: using download attribute on links to save Canvas as PNG | Christian Heilmann](http://christianheilmann.com/2014/04/22/quick-one-using-download-attribute-on-links-to-save-canvas-as-png/)
 
+* [[GitHub] niklasvh / html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
+
 * [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
 
 * [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
