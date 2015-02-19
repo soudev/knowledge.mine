@@ -1814,6 +1814,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * AngularUI Router
 
+    * [AngularUI Router Cheat Sheet by ProLoser](http://www.cheatography.com/proloser/cheat-sheets/angularui-router/)
+
     * [Lecture 05 - UI Router](https://objectpartners.github.io/angular-training/lectures/lecture-05.html)
 
     * [AngularJS Routing Using UI-Router | Scotch](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
