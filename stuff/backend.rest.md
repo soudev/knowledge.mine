@@ -314,6 +314,8 @@
 
 * [Laravel 4: Começando com API RESTful | Tuts+ Code Tutorial](http://code.tutsplus.com/pt/tutorials/laravel-4-a-start-at-a-restful-api-updated--net-29785)
 
+* [API REST com Laravel | Fabio Vedovelli](http://www.vedovelli.com.br/web-development/api-rest-com-laravel/)
+
 
 ### Node.js
 
