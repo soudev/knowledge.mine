@@ -1814,6 +1814,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
     * [AngularJS Routing Using UI-Router | Scotch](http://scotch.io/tutorials/javascript/angular-routing-using-ui-router)
 
+    * [[Slides] UI-Router](http://slides.com/timkindberg/ui-router) - by Tim Kindberg. UI-Router is an angularjs replacement module for ngRoute. It builds upon ngRoute's features by adding nested views and states capabiliites as well as the ability to have multiple named views at any level in the state tree.
+
     * [[SlideShare] Angular Promises and Advanced Routing](http://www.slideshare.net/alexebogdan/angular-promisesandadvancedrouting)
 
     * [5 AngularJS UI-Router Examples | AngularJS 4U](http://angularjs4u.com/routes/5-angularjs-ui-router-examples/)
