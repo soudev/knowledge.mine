@@ -951,6 +951,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular — Dynamically injecting CSS files using $route.resolve and promises | Medium - AngularJs Meetup — South London](https://medium.com/angularjs-meetup-south-london/angular-dynamically-injecting-css-file-using-route-resolve-and-promises-7bfcb8ccd05b) - Snippet to get the job done
 
+* [[GitHub] door3 / angular-css](https://github.com/door3/angular-css) - CSS on-demand for AngularJS
+
 --
 
 * [[GitHub] geddski / overmind](https://github.com/geddski/overmind) - Easy module isolation and lazy loading for Angular apps
