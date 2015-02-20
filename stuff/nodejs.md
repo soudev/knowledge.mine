@@ -1432,6 +1432,8 @@ $ sudo chown -R `whoami` .npm
 
 * [npm: how-to-npm](https://www.npmjs.com/package/how-to-npm) - A module to teach you how to module
 
+* [[GitHub] opreaadrian / packo](https://github.com/opreaadrian/packo) - node module (npm module) CLI generator
+
 --
 
 * [How to create a private npm.js repository | Clock Blog](http://clock.co.uk/tech-blogs/how-to-create-a-private-npmjs-repository)
