@@ -310,6 +310,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Guia Definitivo para Aprender AngularJS em Um Dia | Javascript Brasil](http://javascriptbrasil.com/2013/10/18/guia-definitivo-para-aprender-angularjs-em-um-dia/)
 
+* [[GitHub] tiagocedrim / angularjsNaPratica](https://github.com/tiagocedrim/angularjsNaPratica)
+
 --
 
 * [Getting up-to-speed with AngularJS in 1 day | colintoh.com](http://colintoh.com/blog/getting-up-to-speed-with-angularjs-in-one-day) - A point-blank guide to learning AngularJS
