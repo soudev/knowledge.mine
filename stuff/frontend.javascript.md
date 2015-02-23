@@ -1659,6 +1659,8 @@
 
   * [Understanding ECMAScript 6 | Leanpub](https://leanpub.com/understandinges6)
 
+* [ECMAScript 6 | rauchg.com](http://rauchg.com/2015/ecmascript-6/)
+
 --
 
 * [ECMAScript 6 modules: the final syntax | 2ality](http://www.2ality.com/2014/09/es6-modules-final.html)
