@@ -139,6 +139,10 @@
 
 --
 
+* [DefiantJS](http://www.defiantjs.com/) - enables you to perform lightning-fast searches on JSON using XPath expressions, and transform JSON using XSL.
+
+--
+
 * [JSONMate](http://jsonmate.com/) - JSON editor, inspector and beautifier
 
 * [[GitHub] timjansen / hanson](https://github.com/timjansen/hanson) - HanSON - JSON for Humans, with multi-line strings and comments (node.js module)
