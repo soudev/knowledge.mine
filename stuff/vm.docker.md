@@ -299,6 +299,8 @@
 
 * [Upgrade docker and boot2docker on OSX | Java Bien!](http://blog.javabien.net/2014/03/17/upgrade-docker-and-boot2docker-on-osx/)
 
+* [Boot 2 Docker: How to set up Postgres, Elasticsearch and Redis on Mac OS X | maori.geek](http://www.maori.geek.nz/post/boot_2_docker_how_to_set_up_postgres_elasticsearch_and_redis_on_mac_os_x)
+
 * [Using Docker transparently on OSX | Shane Sveller](http://shanesveller.com/blog/2014/02/04/using-docker-transparently-on-osx/)
 
 * [Cooking with Docker and CoreOS on OS X | Siliconfidential](http://www.siliconfidential.com/articles/docker-coreos-osx/)
