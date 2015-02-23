@@ -1080,6 +1080,8 @@
 
 * [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
 
+* [[GitHub] jas- / comm.js](https://github.com/jas-/comm.js) - Plugin to handle browser communications (i.e. xhr, xdr, ws & wss protocols)
+
 --
 
 * [HeliosJS](http://entrendipity.github.io/helios.js/) - in-memory graph database for modern browsers
