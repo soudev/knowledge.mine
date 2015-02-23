@@ -1078,9 +1078,13 @@
 
 * [[GitHub] brandonjpierce / jax](https://github.com/brandonjpierce/jax) - A minimal fully featured client side ajax library inspired by Superagent
 
+* [[GitHub] jas- / comm.js](https://github.com/jas-/comm.js) - Plugin to handle browser communications (i.e. xhr, xdr, ws & wss protocols)
+
+--
+
 * [AmplifyJS](http://amplifyjs.com/) - is a set of components designed to solve common web application problems with a simplistic API (Request | Store | Pub/Sub)
 
-* [[GitHub] jas- / comm.js](https://github.com/jas-/comm.js) - Plugin to handle browser communications (i.e. xhr, xdr, ws & wss protocols)
+* [[GitHub] moll / js-concert](https://github.com/moll/js-concert) - An event library for JavaScript and Node.js that implements the observer pattern (a.k.a publish/subscribe). Similar to Node's EventEmitter and Backbone.Events, but independent, minimal and light-weight. [ Concert.js doesn't yet have a build ready for the browser, but you might be able to use Browserify to have it run there till then. ]
 
 --
 
