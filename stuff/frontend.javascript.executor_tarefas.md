@@ -305,6 +305,10 @@
 
 --
 
+* [How to Write Sane, Reusable Grunt Tasks | Medium - @nickheiner](https://medium.com/@nickheiner/how-to-write-sane-reusable-grunt-tasks-61f5dfc9635c)
+
+--
+
 * [Dynamic Grunt Targets Using Templates | oncletom.io](https://oncletom.io/2013/dynamic-grunt-targets-using-templates/)
 
 --
