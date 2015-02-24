@@ -1643,6 +1643,10 @@
 
 --
 
+* [Five to Six — Addy Osmani’s list of ECMAScript 6 tools | Super-Script](http://www.super-script.us/2015/es6-tools.html)
+
+--
+
 * [es6rocks.com](http://es6rocks.com/) : new site dedicated to articles and talks about the next version of JavaScript
 
   * [ES6: Brincando com o novo Javascript | ES6 Rocks](http://es6rocks.com/pt-br/2014/11/es6-playing-with-the-new-javascript/)
