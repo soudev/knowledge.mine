@@ -273,6 +273,10 @@
 
 * [[GitHub] Flipboard / react-canvas](https://github.com/flipboard/react-canvas) - High performance <canvas> rendering for React components
 
+  * [60fps on the mobile web | Flipboard Engineering](http://engineering.flipboard.com/2015/02/mobile-web/)
+
+  * [My “reaction” to react-canvas — Front-end Development | Medium - Codrin Iftimie](https://medium.com/front-end-development-2/my-reaction-to-react-canvas-e181a0189d4c)
+
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
 
 
