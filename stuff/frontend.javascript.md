@@ -769,6 +769,12 @@
 
 * [The seven rules of unobtrusive JavaScript | Dev.Opera](http://dev.opera.com/articles/view/the-seven-rules-of-unobtrusive-javascrip/)
 
+--
+
+* [NBEAM: How I Wrote an Ultra-Fast DNA Sequence Alignment Algorithm in JavaScript | Medium - Keith Horwood](https://medium.com/@keithwhor/nbeam-how-i-wrote-an-ultra-fast-dna-sequence-alignment-algorithm-in-javascript-c199e936da)
+
+  * [[GitHub] keithwhor / NtSeq](https://github.com/keithwhor/NtSeq) - JavaScript (node + browser) bioinformatics library for nucleotide sequence manipulation and analysis.
+
 
 #### Compressão
 
