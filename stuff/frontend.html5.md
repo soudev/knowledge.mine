@@ -769,6 +769,12 @@
 
 --
 
+* [ForerunnerDB - High Performance Web Database](http://www.forerunnerdb.com/) - is the only JavaScript database with a simple, rich JSON-based query language. Based on MongoDB's query language and built with web applications in mind, ForerunnerDB will have you up and running in minutes.
+
+  * [[GitHub] Irrelon / ForerunnerDB](https://github.com/Irrelon/ForerunnerDB) - A JavaScript database with mongo-like query language, data-binding support, runs in the browser as a client-side DB or on the server via Node.js!
+
+--
+
 * [[GitHub] addyosmani / basket.js](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage
 
 * [[GitHub] keithwhor / FSO.js](https://github.com/keithwhor/FSO.js/) - JavaScript FileSystemObject library for temporary and permanent client-side file storage
