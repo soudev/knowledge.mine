@@ -2097,6 +2097,8 @@ describe('testing something...', function() {
 
 * [[GitHub] daniellmb / angular-test-patterns](https://github.com/daniellmb/angular-test-patterns) - High Quality Guide for Testing AngularJS
 
+* [[GitHub] cironunes / angular-testing-recipes](https://github.com/cironunes/angular-testing-recipes) - Unit and e2e testing recipes for AngularJS
+
 --
 
 * [Intuitive AngularJS testing with Jasmine | HP Enterprise Business Community](http://h30499.www3.hp.com/t5/HP-Software-Developers-Blog/Intuitive-AngularJS-testing-with-Jasmine/ba-p/6159427) | [[Slid.es] angularjs-testing](http://slid.es/eitanpeer/angularjs-testing) - This presentation covers Jasmine, testing angular.js with Jasmine and even a small exercise (+solution)
