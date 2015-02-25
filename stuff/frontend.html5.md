@@ -190,7 +190,13 @@
 
 * [Exploring canvas drawing techniques | Perfection kills](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
 
+* [HTML5 Canvas Save Drawing as an Image | HTML5 Canvas Tutorials](http://www.html5canvastutorials.com/advanced/html5-canvas-save-drawing-as-an-image/)
+
+* [Saving Canvas Data as an Image | Tech.pro](http://tech.pro/tutorial/1084/saving-canvas-data-as-an-image)
+
 * [Quick one: using download attribute on links to save Canvas as PNG | Christian Heilmann](http://christianheilmann.com/2014/04/22/quick-one-using-download-attribute-on-links-to-save-canvas-as-png/)
+
+* [[GitHub] hongru / canvas2image](https://github.com/hongru/canvas2image) - a tool for saving or converting canvas as img
 
 * [[GitHub] niklasvh / html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
