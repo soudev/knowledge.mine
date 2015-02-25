@@ -390,6 +390,12 @@
 
 --
 
+* [RancherOS | Rancher Labs](http://rancher.com/rancher-os/) - A minimalist distribution of Linux designed from the ground up to run Docker containers
+
+  * [[GitHub] rancherio / rancher](https://github.com/rancherio/rancher) - A Platform for Operating Docker in Production
+
+--
+
 * [[GitHub] phusion / baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 
 * [Using docker with CoreOS | CoreOS](https://coreos.com/using-coreos/docker/)
