@@ -991,6 +991,8 @@
 
 * [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
 
+  * [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps | Thinkster](https://thinkster.io/ionic-framework-tutorial/)
+
   * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
 
   * [Sample Mobile Application with Ionic and AngularJS | Christophe Coenraets](http://coenraets.org/blog/2014/02/sample-mobile-application-with-ionic-and-angularjs/)
