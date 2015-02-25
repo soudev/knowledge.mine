@@ -200,6 +200,14 @@
 
 * [[GitHub] niklasvh / html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 
+* [[GitHub] viliusle / Hermite-resize](https://github.com/viliusle/Hermite-resize) - Image resize/resample using Hermite filter with JavaScript.
+
+* [Resizing an image in an HTML5 canvas | StackOverflow](https://stackoverflow.com/questions/2303690/resizing-an-image-in-an-html5-canvas)
+
+* [HTML5 image upload, resize and crop | CodeForest](http://www.codeforest.net/html5-image-upload-resize-and-crop)
+
+* [Resizing and Cropping Images with Canvas | Codrops](http://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/)
+
 * [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
 
 * [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
