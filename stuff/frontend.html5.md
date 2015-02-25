@@ -208,6 +208,8 @@
 
 * [Resizing and Cropping Images with Canvas | Codrops](http://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/)
 
+* [[GitHub] viliusle / miniPaint](https://github.com/viliusle/miniPaint) - online image editor
+
 * [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
 
 * [N-body planar choreographies: illustrating mathematics in HTML5 canvas |  Rectangle World](http://rectangleworld.com/blog/archives/1018) - HTML5 Canvas and JavaScript: Tutorials and Experiments
