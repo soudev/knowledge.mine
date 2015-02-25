@@ -121,6 +121,8 @@
 
 ### Transformação Markdown ...
 
+* [[GitHub] npm / marky-markdown](https://github.com/npm/marky-markdown) - The thing npmjs.com uses to clean up READMEs and other markdown files
+
 * [[Gist] osima / markdownToTextile.groovy](https://gist.github.com/osima/1133674) - Simple converter from markdown to textile.
 
 * [[GitHub] kesla / jsonmark](https://github.com/kesla/jsonmark) - Parse markdown to a very simple json-format that can then be stringified back to markdown
