@@ -1079,6 +1079,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Tracking Pageviews with Google Analytics and AngularJS | Nic Raboys Code Blog](http://blog.nraboy.com/2014/11/tracking-pageviews-google-analytics-angular-js/) - Track the full URL of every pageview, path and query, using Google Analytics and AngularJS
 
+* [Track JavaScript, AngularJS and jQuery errors with Google Analytics | Sergey Gospodarets](http://blog.gospodarets.com/track_javascript_angularjs_and_jquery_errors_with_google_analytics/)
+
 
 ### Internacionalização
 
