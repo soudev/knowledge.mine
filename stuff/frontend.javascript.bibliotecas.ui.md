@@ -44,6 +44,8 @@
 
 * [Kendo UI](http://www.kendoui.com/)
 
+  * [Mastering Kendo UI | Telerik Developer Network](http://developer.telerik.com/featured/mastering-kendo-ui/)
+
 * [Foundation: Rapid Prototyping and Building Framework from ZURB](http://foundation.zurb.com/)
 
 --
