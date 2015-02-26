@@ -855,6 +855,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [AngularJS one-time binding syntax | Todd Motto](http://toddmotto.com/angular-one-time-binding-syntax/)
 
+* Virtual DOM
+
+  * [[GitHub] teropa / angular-virtual-dom](https://github.com/teropa/angular-virtual-dom) - A Virtual DOM based AngularJS view renderer designed to be used with immutable data structures
+
 * React.js
 
   * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
@@ -866,6 +870,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
   * [ngReactGrid - An AngularJS grid using ReactJS to render | Jose Garcia](http://www.josebalius.com/ngreactgrid-an-angularjs-grid-using-reactjs-to-render/)
 
   * [React PhoneCat: Rewriting the AngularJS Tutorial App in React | Jonas Gebhardt's Notes](https://jgebhardt.github.io/blog/react-phonecat/)
+
+  * [[GitHub] christianalfoni / flux-angular](https://github.com/christianalfoni/flux-angular) - Use the FLUX architecture with Angular JS
 
 
 ### Design e Interface
