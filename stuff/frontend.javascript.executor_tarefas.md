@@ -140,6 +140,10 @@
 
   * [[GitHub] rowoot / gulp-gh-pages](https://github.com/rowoot/gulp-gh-pages) - Gulp plugin to publish to Github pages
 
+  * [[GitHub] OverZealous / run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order
+
+    * [Sync Gulp Tasks with run-sequence | David Walsh Blog](http://davidwalsh.name/gulp-run-sequence)
+
 --
 
 * [Automatically reload the gulpfile.js on change | noxoc](http://noxoc.de/2014/06/25/reload-gulpfile-js-on-change/)
