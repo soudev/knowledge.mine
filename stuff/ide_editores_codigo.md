@@ -130,6 +130,10 @@
 
 * [[GitHub] Jacse / themes-for-brackets](https://github.com/Jacse/themes-for-brackets) - Popular themepack for Brackets. Before official theme support, this extension also added that feature
 
+--
+
+* [ionicBrackets](http://www.ionicbrackets.com/) adds support for Ionic framework code hinting to Brackets.
+
 
 ### Atom
 
