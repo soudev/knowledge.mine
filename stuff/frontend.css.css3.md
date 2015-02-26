@@ -72,6 +72,8 @@
 
 * [Parallax Done Right | Medium](https://medium.com/@dhg/82ced812e61c) - Getting great performance with parallax is tough. Here’s how to make it happen
 
+* [Creating Scrolling Parallax Effects with CSS | David Walsh Blog](http://davidwalsh.name/parallax)
+
 --
 
 * [Star Wars 3D Scrolling Text in CSS3 | Site Point](http://www.sitepoint.com/css3-starwars-scrolling-text/)
