@@ -1634,6 +1634,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] decipherinc / angular-history](https://github.com/decipherinc/angular-history) - A history service for AngularJS. Undo/redo, that sort of thing. Has nothing to do with the "back" button, unless you want it to
 
+* [[GitHub] srfrnk / ng-device-detector](https://github.com/srfrnk/ng-device-detector) - Angular module to detect OS / Browser / Device
+
 --
 
 * [[GitHub] mgonto / restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
