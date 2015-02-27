@@ -338,6 +338,8 @@
 
 * [[GitHub] ConradIrwin / unicode-dragon](https://github.com/ConradIrwin/unicode-dragon) - eats invalid unicode for breakfast
 
+* [[GitHub] parshap / node-sanitize-filename](https://github.com/parshap/node-sanitize-filename) - Sanitize string for use as filename
+
 --
 
 * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
