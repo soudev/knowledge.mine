@@ -1240,6 +1240,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Spring and Angular JS: A Secure Single Page Application | Spring.io](http://spring.io/blog/2015/01/12/spring-and-angular-js-a-secure-single-page-application)
+
+* [SSO with OAuth2: Angular JS and Spring Security Part V | Spring.io](http://spring.io/blog/2015/02/03/sso-with-oauth2-angular-js-and-spring-security-part-v)
+
+--
+
 * [Authentication with Ionic and Angular.js in a Cordova/Phonegap mobile web application | KD Moore Consulting](http://www.kdmooreconsulting.com/blogs/authentication-with-ionic-and-angular-js-in-a-cordovaphonegap-mobile-web-application/)
 
 
