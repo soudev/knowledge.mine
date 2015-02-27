@@ -1263,6 +1263,8 @@
 
 * [[GitHub] karanlyons / murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - All of MurmurHash3, in javascript. | [wiki: MurmurHash](https://en.wikipedia.org/wiki/MurmurHash)
 
+* [[GitHub] ivanakimov / hashids.js](https://github.com/ivanakimov/hashids.js) - A small JavaScript class to generate YouTube-like hashids from one or many numbers. This is a client-side version of Node.js version
+
 
 #### Crypto
 
