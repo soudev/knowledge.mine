@@ -1471,6 +1471,8 @@
 
 * [[GitHub] mauricecruz / chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome DevTools
 
+* [[GitHub] tweekmonster / Developer-Profile](https://github.com/tweekmonster/Developer-Profile) - A Google Chrome extension that deletes browser data when all windows in a profile are closed
+
 --
 
 * [Grunt Task Runner Extension for Chrome Developer Tools](https://github.com/vladikoff/grunt-devtools) - tests
