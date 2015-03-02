@@ -273,6 +273,10 @@
 
 --
 
+* [[GitHub] PixelsCommander / ReactiveElements](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component)
+
+--
+
 * [[GitHub] Flipboard / react-canvas](https://github.com/flipboard/react-canvas) - High performance <canvas> rendering for React components
 
   * [60fps on the mobile web | Flipboard Engineering](http://engineering.flipboard.com/2015/02/mobile-web/)
