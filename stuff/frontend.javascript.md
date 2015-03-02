@@ -1691,6 +1691,8 @@
 
 * [Variables and scoping in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-scoping.html)
 
+* [Iterables and iterators in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-iteration.html)
+
 * [ES6 Modules: The End of Civilization As We Know It?](https://medium.com/@brianleroux/es6-modules-amd-and-commonjs-c1acefbe6fc0)
 
 * [JavaScript Modules the ES6 Way | @24ways](http://24ways.org/2014/javascript-modules-the-es6-way/)
