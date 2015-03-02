@@ -1733,6 +1733,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] mrzepinski / angular-rpi](https://github.com/mrzepinski/angular-rpi) - AngularJS Reading Position Indicator
+
+--
+
 * [[GitHub] PascalPrecht / angular-github-adapter](https://github.com/PascalPrecht/angular-github-adapter) - Angular adapter module for [github.js](https://github.com/michael/github)
 
 * [[GitHub] urish / angular-moment](https://github.com/urish/angular-moment) - Angular.JS directives for [Moment.JS](http://momentjs.com/) (timeago alternative)
