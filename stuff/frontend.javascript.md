@@ -185,6 +185,10 @@
 
 --
 
+* [Higher-Order Functions | Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
+
+--
+
 * Functional JavaScript | Tech Pro
 
   * [Part 1: Introduction](http://tech.pro/tutorial/1953/functional-javascript-part-1-introduction)
