@@ -46,6 +46,8 @@
 
 * [Need for Speed – How to Improve your Website Performance | Dev Bridge](http://www.devbridge.com/articles/need-for-speed-how-to-improve-your-website-performance/)
 
+* [How we make RWD sites load fast as heck | Filament Group](http://www.filamentgroup.com/lab/performance-rwd.html)
+
 --
 
 * [Otimização de imagens com media queries | iMasters](http://imasters.com.br/front-end/css/otimizacao-de-imagens-com-media-queries/)
