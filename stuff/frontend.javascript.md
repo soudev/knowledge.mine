@@ -1689,6 +1689,8 @@
 
 * [ECMAScript 6 | rauchg.com](http://rauchg.com/2015/ecmascript-6/)
 
+* [JavaScript — Just another introduction to ES6 — Sons of JavaScript | Medium - @gerardsans](https://medium.com/sons-of-javascript/javascript-an-introduction-to-es6-1819d0d89a0f)
+
 --
 
 * [ECMAScript 6 modules: the final syntax | 2ality](http://www.2ality.com/2014/09/es6-modules-final.html)
