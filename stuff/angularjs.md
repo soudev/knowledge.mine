@@ -1621,6 +1621,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Exploring Angular 1.3 - Stateful filters | thoughtram - Extend your memory](http://blog.thoughtram.io/angularjs/2014/11/19/exploring-angular-1.3-stateful-filters.html)
 
+* [[GitHub] ritz078 / ngEmoticons](https://github.com/ritz078/ngEmoticons) - An angularjs filter for converting text into emoticons
+
 
 ## Módulos
 
