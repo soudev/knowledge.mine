@@ -1686,6 +1686,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] caitp / ng-media](https://github.com/caitp/ng-media) - AngularJS support for HTML5 media elements
 
+* [[GitHub] nehz / ngWebAudio](https://github.com/nehz/ngWebAudio) - AngularJS module for playing audio using the WebAudio API
+
 * [[GitHub] eu81273 / angular.treeview](https://github.com/eu81273/angular.treeview) - AngularJS based Treeview (no jQuery)
 
 * [[GitHub] esvit / ng-table](https://github.com/esvit/ng-table/) - Simple table with sorting and filtering on AngularJS
