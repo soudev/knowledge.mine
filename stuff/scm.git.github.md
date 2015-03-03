@@ -446,6 +446,8 @@ git clean -fd
 
 * [Writing a New Dictionary? | Fox News](http://video.foxbusiness.com/v/2667694577001/writing-new-dictionary) - Github’s CEO and co-founder Tom Preston-Werner breaks down his company’s goals and explains what it will take to continue its success.
 
+* [Mother Forkers! Social Authoring (with Git) & The Developer Content Revolution | AirPair Blog](https://www.airpair.com/social-authoring)
+
 --
 
 * [GitHub and Government](http://government.github.com/) - Make government better, together
