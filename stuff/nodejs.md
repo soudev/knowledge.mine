@@ -1980,6 +1980,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Quer aprender Meteor? | Underground WebDev](http://udgwebdev.com/quer-aprender-meteor)
 
+* [Build & Deploy Rich UI JavaScript Apps, FAST! | Telerik Developer Network](http://developer.telerik.com/featured/build-deploy-rich-ui-javascript-apps-fast/)
+
 
 ### Testes
 
