@@ -132,6 +132,8 @@
 
   * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
 
+  * [Using ES6 with Angular today | thoughtram Blog](http://blog.thoughtram.io/angularjs/es6/2015/01/23/exploring-angular-1.3-using-es6.html) - One of the most exciting upcoming changes for Angular 2.0 is that it's entirely written in ES6 - the next version of JavaScript. There's no need to wait until Angular 2.0 though. You can start writing your Angular apps with ES6 today - even with Angular 1.x. In this post we are going to look at two very exciting ES6 features and how they can play a role in the context of an Angular application. Modules and Inheritance.
+
 
 ### Estatísticas
 
