@@ -118,6 +118,15 @@
 
 * [[GitHub] simonholmes / knowing-node](https://github.com/simonholmes/knowing-node/) - Holds the code files from my Knowing Node tutorials
 
+--
+
+* NVM - node version manager
+
+  * [[GitHub] brianloveswords / nvm](https://github.com/brianloveswords/nvm) - Install and managing different versions of node and linking local versions into specific directories. Very simple setup and no need for a special shell [ `npm install -g nvm` ]
+
+  * [[GitHub] creationix / nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
+
+  * [Installing and using different versions of Node.js and IO.js in your development environment using NVM | Node Tuts](http://nodetuts.com/series/tools-tips-tricks/tools-tips-tricks-01.html)
 
 
 ## Sites Oficiais
