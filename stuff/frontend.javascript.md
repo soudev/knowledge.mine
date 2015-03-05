@@ -862,6 +862,8 @@
 
   * [[GitHub] bevacqua / rome](https://github.com/bevacqua/rome) - Customizable date (and time) picker. Opt-in UI, no jQuery!
 
+* [Modularizando Frontend JavaScript com Browserify | Underground WebDev](http://udgwebdev.com/modularizando-frontend-javascript-com-browserify/)
+
 --
 
 * [Browserify-CDN](http://wzrd.in/) - Browserify as a service
