@@ -801,6 +801,8 @@
 
 * [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
+* [[GitHub] wilmoore / frontend-packagers](https://github.com/wilmoore/frontend-packagers) - Front-End Package Manager Comparison
+
 --
 
 * [[GitHub] umdjs / umd](https://github.com/umdjs/umd) - UMD (Universal Module Definition) patterns for JavaScript modules that work everywhere
