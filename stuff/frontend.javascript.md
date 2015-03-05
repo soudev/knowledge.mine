@@ -1,7 +1,5 @@
 # Front-End
 
-
-
 <!-- toc -->
 
 * [JavaScript](#javascript)
@@ -45,7 +43,6 @@
   * [ECMAScript 6](#ecmascript-6)
 
 <!-- toc stop -->
-
 
 
 ## JavaScript
