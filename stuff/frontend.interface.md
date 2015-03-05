@@ -84,6 +84,8 @@
 
 * [Look and Feel — Web Fundamentals | Google Developers](https://developers.google.com/web/fundamentals/look-and-feel/)
 
+* [Construa um Modelo de E-mail em HTML a Partir do Zero | Tuts+ Web Design](http://webdesign.tutsplus.com/pt/articles/build-an-html-email-template-from-scratch--webdesign-12770) - A melhor forma de entender qualquer processo é realizá-lo desde o começo Hoje, faremos isso com o design de e-mails, construindo um modelo de e-mail em HTML, do zero
+
 
 ### Fonts
 
