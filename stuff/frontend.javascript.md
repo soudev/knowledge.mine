@@ -372,6 +372,8 @@
 
 * [JavaScript Observer (Publish/Subscribe) Pattern](http://bumbu.ru/javascript-observer-publish-subscribe-pattern/)
 
+  * [Creating a simple Javascript pub sub | Weslley Araujo](https://weslleyaraujo.github.io/javascript/2015/02/11/creating-a-simple-javascript-pub-sub.html)
+
 --
 
 * [A Deep Dive Into JavaScript Modules](http://toshsharma.github.io/presentation-js-modules) - by Ashutosh Sharma / @zorder
