@@ -105,6 +105,10 @@
 
 --
 
+* [angular.io](https://angular.io/) - Angular is a development platform for building mobile and desktop web applications
+
+--
+
 * [AngularJS - ng-conf 2014 - Exclusive | ng-learn](http://ng-learn.org/2014/01/NG-CONF-2014/)
 
 * [[YouTube] ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
