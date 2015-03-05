@@ -18,6 +18,10 @@
 
 * [learn css layout](http://learnlayout.com/)
 
+  * [português](http://pt-br.learnlayout.com/)
+
+    * [posição](http://pt-br.learnlayout.com/position.html)
+
 --
 
 * [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics
