@@ -163,6 +163,8 @@
 
 * [How to Node](http://howtonode.org/)
 
+* [Node Tuts](http://nodetuts.com/index.html) - Node.js Video Tutorials
+
 * [5 Free Beginner Friendly Books for Learning Node.js | CodeCondo](http://codecondo.com/5-free-beginner-friendly-books-learning-node-js/)
 
 * [The Node Beginner Book](http://www.nodebeginner.org/)
