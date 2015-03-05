@@ -100,8 +100,6 @@
 
 * [[GitHub] component / infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
 
-* [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). 
-
 * [[GitHub] olivier-m / minislate](https://github.com/olivier-m/minislate/) - A wysiwyg experiment
 
 * [[GitHub] madebymany / sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
@@ -139,6 +137,10 @@
 * [[GitHub] atom / highlights](https://github.com/atom/highlights) - Reads in code, writes out HTML with CSS classes based on the tokens in the code
 
 --
+
+* [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). 
+
+* [[GitHub] evandroeisinger / editore.js](https://github.com/evandroeisinger/editore.js) - A magnific javascript editor
 
 * [[GitHub] guardian / scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform
 
