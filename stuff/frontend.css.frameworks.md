@@ -54,6 +54,12 @@
 * [uikit](http://www.getuikit.com/) - A lightweight and modular front-end framework
 for developing fast and powerful web interfaces.
 
+--
+
+* [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+  
+  * [[GitHub] Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+
 
 ### Foundation
 
