@@ -400,6 +400,10 @@
 
 --
 
+* [[GitHub] sbstjn / timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
+
+--
+
 * [heatmap.js](http://www.patrick-wied.at/static/heatmapjs/) - Dynamic Heatmaps for the Web
 
 * [[GitHub] kamisama / cal-heatmap](https://github.com/kamisama/cal-heatmap) - Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data
