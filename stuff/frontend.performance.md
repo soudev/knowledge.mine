@@ -90,6 +90,8 @@
 
 * [Better webfont loading with using localStorage and providing WOFF2 support | http://bdadam.com/](http://bdadam.com/blog/better-webfont-loading-with-localstorage-and-woff2.html)
 
+* [[GitHub] jaicab / localFont](https://github.com/jaicab/localFont) - Implement localStorage web font caching in seconds
+
 --
 
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
