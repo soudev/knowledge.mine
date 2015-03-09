@@ -222,3 +222,7 @@
   * [How to uninstall Node.js on Mac | Maxwhale.com](http://www.maxwhale.com/how-to-uninstall-node-js-on-mac/)
 
   * [[gist] Mac OS X uninstall script for packaged install of node.js](https://gist.github.com/nicerobot/2697848)
+
+* JavaScript
+
+  * [[GitHub] dtinth / JXA-Cookbook](https://github.com/dtinth/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
