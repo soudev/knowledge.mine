@@ -367,6 +367,12 @@
 
 --
 
+* [PhantomJS Screen Capture](http://phantomjs.org/screen-capture.html)
+
+* [Creating thumbnails using PhantomJS and ImageMagick | Frederic Cambus](http://www.cambus.net/creating-thumbnails-using-phantomjs-and-imagemagick/)
+
+--
+
 * [[GitHub] ltk / kurtz-kloud](https://github.com/ltk/kurtz-kloud) - A Node app for sharing screen shots
 
   * [My Quest for the Perfect Screenshot App | Viget](http://viget.com/flourish/my-qwest-for-the-perfect-screenshot-app)
