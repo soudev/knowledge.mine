@@ -369,6 +369,8 @@
 
 * [PhantomJS Screen Capture](http://phantomjs.org/screen-capture.html)
 
+* [Screen capturing with PhantomJS | skipperkongen](http://skipperkongen.dk/2014/08/15/screen-capturing-with-phantomjs/)
+
 * [Creating thumbnails using PhantomJS and ImageMagick | Frederic Cambus](http://www.cambus.net/creating-thumbnails-using-phantomjs-and-imagemagick/)
 
 --
