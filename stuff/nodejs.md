@@ -1282,6 +1282,8 @@
 
 * [[GitHub] shell-jobs: Cron replacement in NodeJS, made for humans](https://github.com/azer/shell-jobs)
 
+* [[GitHub] node-schedule / node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node
+
 * [Build Custom Shells with Node Shotgun | Code Tunnel](http://codetunnel.com/blog/post/build-custom-shells-with-node-shotgun)
 
 * [[GitHub] pstadler / flightplan](https://github.com/pstadler/flightplan) - Node.js library for streamlining application deployment or systems administration tasks.
