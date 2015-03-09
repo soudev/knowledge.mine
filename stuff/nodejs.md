@@ -373,6 +373,8 @@
 
 * [[GitHub] vbauer / manet](https://github.com/vbauer/manet) - Website screenshot service powered by Node.js, SlimerJS and PhantomJS
 
+* [[GitHub] eugeneware / html2png](https://github.com/eugeneware/html2png) - Take a screenshot of a HTML fragment or URL
+
 --
 
 * [[GitHub] jh3y / sike](https://github.com/jh3y/sike) - a cli tool that reminds you to get up and move around
