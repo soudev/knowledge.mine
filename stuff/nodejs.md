@@ -1637,6 +1637,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] punkave / prettiest](https://github.com/punkave/prettiest) - Improbably easy data storage and locking for command line scripts. Pairs well with shelljs and a nice chianti.
+
 * [[GitHub] philipp-spiess / json-db](https://github.com/philipp-spiess/json-db) - A lightweight database for your node.js app.
 
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
