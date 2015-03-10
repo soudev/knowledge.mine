@@ -375,6 +375,8 @@
 
 * [Creating thumbnails using PhantomJS and ImageMagick | Frederic Cambus](http://www.cambus.net/creating-thumbnails-using-phantomjs-and-imagemagick/)
 
+* [Print Screen de páginas com o PhantomJS | Marcos Alves](http://blog.marcosalves.org/archives/31)
+
 --
 
 * [[GitHub] ltk / kurtz-kloud](https://github.com/ltk/kurtz-kloud) - A Node app for sharing screen shots
