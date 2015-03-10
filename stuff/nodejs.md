@@ -371,6 +371,8 @@
 
 * [Screen capturing with PhantomJS | skipperkongen](http://skipperkongen.dk/2014/08/15/screen-capturing-with-phantomjs/)
 
+* [Automate mobile testing: phantom.js | JonathanMH](http://jonathanmh.com/automate-mobile-testing-phantom-js/)
+
 * [Creating thumbnails using PhantomJS and ImageMagick | Frederic Cambus](http://www.cambus.net/creating-thumbnails-using-phantomjs-and-imagemagick/)
 
 --
