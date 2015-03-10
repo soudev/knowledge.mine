@@ -1063,6 +1063,10 @@
 
 * [lz-string](http://pieroxy.net/blog/pages/lz-string/demo.html) - JavaScript compression, fast!
 
+* [[Google Code] jslzjb](https://code.google.com/p/jslzjb/) - Javascript port of the LZJB compression algorithm.
+
+--
+
 * [[GitHub] mikaelbr / SocialFeed.js](https://github.com/mikaelbr/SocialFeed.js) - Easily create a feed with your latest interactions on different social media. Accumulate Github Events, Disqus comments, Delicious links, Tweets, etc.
 
 * [SpeakingURL](http://pid.github.io/speakingurl/) - Generate a SpeakingURL/slug for browser & server
