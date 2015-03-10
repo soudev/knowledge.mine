@@ -369,6 +369,14 @@
 
 * [PhantomJS Screen Capture](http://phantomjs.org/screen-capture.html)
 
+  * to work with web fonts
+
+    > use PhantomJS version 2.0.0
+    >
+    > custom build:
+    > 
+    > * [[GitHub] eugene1g / phantomjs - PhantomJS 2.0 bin](https://github.com/eugene1g/phantomjs/releases/tag/2.0.0-bin) - works with webfonts [ PhantomJS 2.0.0 binaries for OSX and linux (temp, until upstream is patched) ]
+
 * [Screen capturing with PhantomJS | skipperkongen](http://skipperkongen.dk/2014/08/15/screen-capturing-with-phantomjs/)
 
 * [Automate mobile testing: phantom.js | JonathanMH](http://jonathanmh.com/automate-mobile-testing-phantom-js/)
