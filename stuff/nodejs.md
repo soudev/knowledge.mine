@@ -1607,6 +1607,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] naturalatlas / migrat](https://github.com/naturalatlas/migrat) - A pluggable Node.js data migration tool.
+
+--
+
 * [Node.js and SQLite | Modulus Blog](http://blog.modulus.io/nodejs-and-sqlite) - Great introduction to using SQLite with Node.js. Covers everything from installing to running queries against the database.
 
 * [[GitHub] WebReflection / dblite](https://github.com/WebReflection/dblite) - sqlite for node.js without gyp problems
