@@ -360,6 +360,14 @@
 
   * [[GitHub] highslide-software / highcharts.com](https://github.com/highslide-software/highcharts.com/) - Highcharts JS, the JavaScript charting framework
 
+* [Chart.js](http://www.chartjs.org/) - Simple, clean and engaging charts for designers and developers
+
+  * [[GitHub] nnnick / Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag
+
+  * [Build a Dynamic Dashboard With ChartJS | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/tutorials/build-a-dynamic-dashboard-with-chartjs--webdesign-14363)
+
+    * [Criando um dashboard dinâmico com o ChartJS | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/pt/tutorials/build-a-dynamic-dashboard-with-chartjs--webdesign-14363)
+
 --
 
 * [Raphaël](http://raphaeljs.com/) - JavaScript Library
