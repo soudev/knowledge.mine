@@ -1103,6 +1103,10 @@
 
 --
 
+* [[GitHub] marcells / node-build-monitor](https://github.com/marcells/node-build-monitor) - A Build Monitor written in Node.js, which supports several build services and can be easily extended
+
+--
+
 * [[GitHub] yyx990803 / pod](https://github.com/yyx990803/pod) - Git push deploy for Node.js
 
 --
