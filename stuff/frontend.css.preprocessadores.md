@@ -54,6 +54,10 @@
 
 * [Working With LESS and the Chrome DevTools | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/working-with-less-and-the-chrome-devtools/)
 
+* [A Few Things You Might Not Know About LESS | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/tutorials/a-few-things-you-might-not-know-about-less--cms-22527)
+
+  * [Alguns recursos do LESS que você provavelmente não conhece | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/pt/tutorials/a-few-things-you-might-not-know-about-less--cms-22527)
+
 
 #### Stylus
 
