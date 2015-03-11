@@ -1157,6 +1157,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS and $scope.$apply() best practices | Medium - by Kamil Lelonek](https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024) - Where and how to invoke $scope.$apply() in AngularJS applications
+
+--
+
 * [AngularJS: "Controller as" or "$scope"? | Code Tunnel](http://codetunnel.com/angularjs-controller-as-or-scope/)
 
 * [Start naming your Angular models with the property name ‘model’ | Medium - Elise Chant](https://medium.com/@elisechant/start-naming-your-angular-models-with-the-property-name-model-3911ea15d63)
