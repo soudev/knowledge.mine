@@ -141,6 +141,8 @@
 
   * [[GitHub] atom](https://github.com/atom)
 
+  * [Atom Flight Manual](https://atom.io/docs/latest/)
+
 * [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
 
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
