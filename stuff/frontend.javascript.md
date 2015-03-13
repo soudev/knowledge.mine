@@ -1674,6 +1674,8 @@
 
 * [Frontend lindo usando Babel para rodar ES6 | Underground WebDev](http://udgwebdev.com/frontend-lindo-usando-babel-para-rodar-es6/)
 
+* [Frontend moderno com Browserify e Babel | Underground WebDev](http://udgwebdev.com/frontend-moderno-com-browserify-e-babel/)
+
 
 ### ECMAScript 6
 
