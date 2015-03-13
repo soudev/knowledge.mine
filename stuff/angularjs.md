@@ -444,6 +444,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Exploring Angular 1.3: ES6 Style Promises | thoughtram](http://blog.thoughtram.io/angularjs/2014/12/18/exploring-angular-1.3-es6-style-promises.html)
 
+  * [Forcing $q .notify() To Execute With A No-Op In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2800-forcing-q-notify-to-execute-with-a-no-op-in-angularjs.htm)
+
 --
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
