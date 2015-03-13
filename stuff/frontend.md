@@ -255,6 +255,12 @@
 
 * [Love Generating SVG With JavaScript? Move It To The Server! | Smashing Magazine](http://www.smashingmagazine.com/2014/05/26/love-generating-svg-javascript-move-to-server/)
 
+--
+
+* [[GitHub] svg / svgo](https://github.com/svg/svgo) - Nodejs-based tool for optimizing SVG vector graphics files
+
+  * [Optimising SVG images | Mozilla Hacks](https://hacks.mozilla.org/2015/03/optimising-svg-images/)
+
 
 ## Source Map
 
