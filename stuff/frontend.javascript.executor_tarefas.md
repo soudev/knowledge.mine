@@ -126,6 +126,10 @@
 
 --
 
+* [Gulp - Criando redirecionamentos com gulp-connect + connect-modrewrite | Da2k Blog](http://blog.da2k.com.br/2015/03/02/gulp-criando-redirecionamentos-com-gulp-connect-connect-modrewrite/)
+
+--
+
 * [Speedtesting Gulp and Grunt | labs@tmw](http://labs.tmw.co.uk/2014/01/speedtesting-gulp-and-grunt/)
 
 --
