@@ -264,6 +264,18 @@
 
 * [JavaScript Videos | Toptal](http://www.toptal.com/videos/front-end)
 
+--
+
+* [Javascript - entendendo e criando suas próprias Promises | Da2k Blog](http://blog.da2k.com.br/2015/03/05/javascript-entendendo-e-criando-suas-proprias-promises/)
+
+* [Javascript - Criando um módulo Ajax com Promises - Parte 1 | Da2k Blog](http://blog.da2k.com.br/2015/03/06/javascript-criando-um-modulo-ajax-com-promises/)
+
+* [Javascript - Criando um módulo Ajax com Promises - Parte 2 | Da2k Blog](http://blog.da2k.com.br/2015/03/08/javascript-criando-um-modulo-ajax-com-promises-parte-2/)
+
+* [Javascript - Criando um módulo Ajax com Promises - Parte 3 | Da2k Blog](http://blog.da2k.com.br/2015/03/11/javascript-criando-um-modulo-ajax-com-promises-parte-3/)
+
+* [Javascript - Criando um módulo Ajax com Promises - Parte 4 | Da2k Blog](http://blog.da2k.com.br/2015/03/14/javascript-criando-um-modulo-ajax-com-promises-parte-4/)
+
 
 ### OOP
 
