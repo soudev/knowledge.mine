@@ -565,6 +565,10 @@
 
 --
 
+* [Parse With The Shunting Yard Algorithm Using JavaScript | Nic Raboy's Code Blog](https://blog.nraboy.com/2015/03/parse-with-the-shunting-yard-algorithm-using-javascript/) - Parse an infix notation equation to reverse polish notation (RPN) using the Shunting Yard algorithm and JavaScript. Prepares for solving math expressions.
+
+--
+
 * [Numbers and JavaScript's Dot Notation | Design Pepper](http://designpepper.com/blog/drips/numbers-and-javascripts-dot-notation)
 
 * [What Every JavaScript Developer Should Know About Floating Points | Flippin' Awesome](http://flippinawesome.org/2014/02/17/what-every-javascript-developer-should-know-about-floating-points/)
