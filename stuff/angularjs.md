@@ -1112,6 +1112,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] angular-translate / grunt-angular-translate](https://github.com/angular-translate/grunt-angular-translate) - Grunt tasks to extract translation with AngularJS and angular-translate
 
+  * [Internationalization of AngularJS Applications | Scotch](https://scotch.io/tutorials/internationalization-of-angularjs-applications)
+
 * [[Gist] i18n Helper function for Javascript](https://gist.github.com/3353635)
 
 * [Easy global i18n angularJS language translations for your Angular app | ng-newsletter](http://www.ng-newsletter.com/posts/angular-translate.html)
