@@ -27,6 +27,10 @@
 
 --
 
+* [Open Source Libraries](http://libraries.io/) - Discover new open source libraries, modules and frameworks and keep track of ones you depend upon.
+
+--
+
 * [Visualizando algoritmos | iMasters](http://imasters.com.br/linguagens/visualizando-algoritmos/)
 
 * [Visualizing Algorithms | Mike Bostock](http://bost.ocks.org/mike/algorithms/) - Algorithms are a fascinating use case for visualization. To visualize an algorithm, we don’t merely fit data to a chart; there is no primary dataset. Instead there are logical rules that describe behavior.
