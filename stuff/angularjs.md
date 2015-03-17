@@ -1720,6 +1720,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] jtrussell / angular-selection-model](https://github.com/jtrussell/angular-selection-model) - The selection management companion for ngRepeat 
 
+* [[GitHub] oblador / angular-lazytube](https://github.com/oblador/angular-lazytube) - Lightweight, responsive, lazy loaded YouTube videos that degrades gracefully
+
 * [[GitHub] 2fdevs / videogular](https://github.com/2fdevs/videogular) - An HTML5 video player for AngularJS
 
 * [[GitHub] caitp / ng-media](https://github.com/caitp/ng-media) - AngularJS support for HTML5 media elements
