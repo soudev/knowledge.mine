@@ -41,6 +41,7 @@
   * [Frameworks MVC](#frameworks-mvc)
   * [Babel](#babel)
   * [ECMAScript 6](#ecmascript-6)
+  * [ECMAScript 7](#ecmascript-7)
 
 <!-- toc stop -->
 
@@ -1758,3 +1759,8 @@
 --
 
 * [[GitHub] JustinDrake / node-es6-examples](https://github.com/JustinDrake/node-es6-examples) - ECMAScript 6 examples for Node.JS
+
+
+### ECMAScript 7
+
+* [[YouTube] Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw)
