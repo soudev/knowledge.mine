@@ -575,6 +575,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Dicas
 
+* [Top 25 Best AngularJS Tools  | Devzum](http://devzum.com/2015/02/28/bestl-angularjs-tools/)
+
+--
+
 * [Planning A Front-end JavaScript Application | Telerik Developer Network](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 
 --
