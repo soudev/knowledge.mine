@@ -1692,6 +1692,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] Foxandxss / angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr
+
+--
+
 * [Criando um scroll Infinito com o AngularJS e JQuery | Igor Costa](http://www.igorcosta.com/criando-um-scroll-infinito-com-o-angularjs/)
 
 * [ngInfiniteScroll - Infinite Scrolling for AngularJS](http://binarymuse.github.com/ngInfiniteScroll/index.html)
