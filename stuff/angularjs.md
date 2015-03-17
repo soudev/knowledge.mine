@@ -1522,6 +1522,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] btford / angular-markdown-directive](https://github.com/btford/angular-markdown-directive) - AngularJS markdown directive using Showdown.js
 
+* [[GitHub] awendland / angular-json-tree](https://github.com/awendland/angular-json-tree) - Angular directive for displaying a JSON object in an expandable tree structure
+
 --
 
 * [Angular.js Intro.js](http://code.mendhak.com/angular-intro.js/) - AngularJS directives for intro.js
