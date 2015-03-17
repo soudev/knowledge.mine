@@ -1416,6 +1416,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [AngularJS Directives, Using Isolated Scope with Attributes | Umur](https://umur.io/angularjs-directives-using-isolated-scope-with-attributes/)
+
+--
+
 * [Sobre Diretivas e Como usar corretamente plugins jQuery com AngularJS | pedronauck.com](http://pedronauck.com/angularjs/sobre-diretivas-e-como-usar-corretamente-plugins-jquery-com-angularjs)
 
 --
