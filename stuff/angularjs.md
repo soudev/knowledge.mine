@@ -1584,6 +1584,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [The ngForm directive of AngularJS | Web Development blog](http://blog.brunoscopelliti.com/the-ngform-directive-of-angularjs)
 
+* [[GitHub] dalcib / ng-schema](https://github.com/dalcib/ng-schema) - ng-schema allows to use Mongoose Schemas in Angular forms
+
 * [[GitHub] Textalk / angular-schema-form](https://github.com/Textalk/angular-schema-form/) - Generate bootstrap ready forms from JSON Schema
 
 * [[GitHub] bvaughn / angular-form-for](https://github.com/bvaughn/angular-form-for) - Set of Angular directives to simplify creating and validating HTML forms
