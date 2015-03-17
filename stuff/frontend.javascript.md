@@ -124,6 +124,8 @@
 
 * [10 Common JavaScript Coding Errors | Toptal](http://www.toptal.com/javascript/10-most-common-javascript-mistakes)
 
+* [Catching JavaScript Mistakes with TypeScript - TypeScript Video Tutorial #free | @eggheadio](https://egghead.io/lessons/javascript-catching-javascript-mistakes-with-typescript)
+
 --
 
 * [15 JavaScript Hacks | Underground WebDev](http://udgwebdev.com/15-javascript-hacks/)
