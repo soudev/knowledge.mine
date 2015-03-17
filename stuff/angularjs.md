@@ -1837,6 +1837,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] angular-gantt / angular-gantt](https://github.com/angular-gantt/angular-gantt) - Gantt chart component for AngularJS
 
+* [[GitHub] stpa-co / angular-morris-chart](https://github.com/stpa-co/angular-morris-chart) - angular morris chart provides a wrapper directives of [morris.js](https://github.com/morrisjs/morris.js) for angular
+
 * d3.js
 
   * [[GitHub] novus / nvd3](https://github.com/novus/nvd3) - Re-usable charts for d3.js
