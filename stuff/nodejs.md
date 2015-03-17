@@ -787,6 +787,8 @@
 
 * [[GitHub] thibauts / node-castv2-client](https://github.com/thibauts/node-castv2-client) - A Chromecast client based on the new (CASTV2) protocol
 
+* [[GitHub] xat / castnow](https://github.com/xat/castnow) - commandline chromecast player
+
 --
 
 * [Down.YT](http://down.yt/) - Direct Downloads From YouTube
