@@ -575,7 +575,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Dicas
 
-* [Top 25 Best AngularJS Tools  | Devzum](http://devzum.com/2015/02/28/bestl-angularjs-tools/)
+* [Top 25 Best AngularJS Tools | Devzum](http://devzum.com/2015/02/28/bestl-angularjs-tools/)
 
 --
 
