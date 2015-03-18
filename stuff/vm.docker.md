@@ -244,6 +244,10 @@
 
 --
 
+* [Efficient development workflow using Git submodules and Docker Compose | AirPair](https://www.airpair.com/docker/posts/efficiant-development-workfow-using-git-submodules-and-docker-compose)
+
+--
+
 * [From Vagrant To Docker | ScaleIt!](http://dahlgren.so/software/2014/05/11/From-Vagrant-To-Docker/) - Speeding up the development cycle
 
 * [From Vagrant To Docker Continued | ScaleIt!](http://dahlgren.so/software/2014/05/17/From-Vagrant-To-Docker-Continued/) - A slightly more complex example
