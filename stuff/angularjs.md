@@ -356,6 +356,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Angular Basics | ScriptyBooks](http://www.angularjsbook.com/) - a free book on AngularJS
+
 * [Practical AngularJS | Leanpub](https://leanpub.com/Practical_AngularJS) - by Dinis Cruz. Real-world examples of using AngularJS in multiple scenarios and platforms (KarmaJS, Firebase, Eclipse, WebStorm, O2 Platform)
 
   * [Read online : Practical AngularJS | Leanpub](https://leanpub.com/Practical_AngularJS/read)
