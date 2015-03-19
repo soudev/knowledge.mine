@@ -1364,6 +1364,8 @@
 
 * [[GitHub] adamschwartz / log](https://github.com/adamschwartz/log) - Console.log with style | [Demo](http://adamschwartz.co/log/) (Google Chrome)
 
+* [[GitHub] caiogondim / logdown](https://github.com/caiogondim/logdown) - Debug utility with markdown support that runs on browser and server
+
 * [[GitHub] paulirish / break-on-access](https://github.com/paulirish/break-on-access) - break on access to a property
 
 --
