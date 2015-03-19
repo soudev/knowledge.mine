@@ -221,6 +221,8 @@
 
 * [Node.js : Require and Exports](http://openmymind.net/2012/2/3/Node-Require-and-Exports/)
 
+  * [[Gist] Better local require() paths for Node.js](https://gist.github.com/branneman/8048520)
+
 * [How to Use Exports in NodeJS | Liang Zan](http://blog.liangzan.net/blog/2012/06/04/how-to-use-exports-in-nodejs/)
 
 * [Export This: Interface Design Patterns for Node.js Modules | Bites from Good Eggs](http://bites.goodeggs.com/posts/export-this/)
