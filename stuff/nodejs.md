@@ -625,6 +625,8 @@
 
   * [node.js | hashids](http://www.hashids.org/node-js/) - Generate short hashes from numbers (like YouTube and Bitly).
 
+    * [[GitHub] ivanakimov / hashids.node.js](https://github.com/ivanakimov/hashids.node.js) - A small Node.js class to generate YouTube-like hashids from one or many numbers. Use hashids when you do not want to expose your database ids to the user
+
 --
 
 * [[GitHub] dylang / shortid](https://github.com/dylang/shortid) - Short id generator. Url-friendly. Non-predictable. Cluster-compatible.
