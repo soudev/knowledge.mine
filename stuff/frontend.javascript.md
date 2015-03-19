@@ -1698,6 +1698,8 @@
 
 ### ECMAScript 6
 
+* [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
+
 * [Five to Six — Addy Osmani’s list of ECMAScript 6 tools | Super-Script](http://www.super-script.us/2015/es6-tools.html)
 
 --
