@@ -1752,6 +1752,8 @@
 
 * [For and against `let` | DWB](http://davidwalsh.name/for-and-against-let)
 
+* [JavaScript ES6 Variable Declarations with let and const | StrongLoop](https://strongloop.com/strongblog/es6-variable-declarations/)
+
 --
 
 * [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
