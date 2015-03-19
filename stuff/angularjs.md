@@ -1748,6 +1748,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] likeastore / ngDialog](https://github.com/likeastore/ngDialog) - Modals and popups provider for Angular.js applications
 
+* [[GitHub] leftstick / angular-sweetalert](https://github.com/leftstick/angular-sweetalert) - An angular directive which expose sweetalert in angular way
+
 * [[GitHub] flowjs / ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on angular.js framework
 
 * [[GitHub] nimbly / angular-formly](https://github.com/nimbly/angular-formly) - AngularJS directive which takes JSON representing a form and renders to HTML
