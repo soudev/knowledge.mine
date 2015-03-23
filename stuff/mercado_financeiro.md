@@ -276,3 +276,6 @@
 * [What gives a dollar bill its value? - Doug Levinson | TED-Ed](http://ed.ted.com/lessons/what-gives-a-dollar-bill-its-value-doug-levinson)
 
 * [[YouTube] Money & Debt: Crash Course World History 202](https://www.youtube.com/watch?v=94BtOtGVqLw)
+
+* [[YouTube] How do banks make money for you](https://www.youtube.com/watch?v=iamVNMuVJMQ)
+
