@@ -498,6 +498,8 @@
 
 * [[GitHub] inikulin / ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing. The easy way.
 
+* [[GitHub] missinglink / huntsman](https://github.com/missinglink/huntsman) - Super configurable async web spider
+
 * [[GitHub] addyosmani / oust](https://github.com/addyosmani/oust) - Extract URLs to stylesheets, scripts, links, images or HTML imports from HTML
 
 --
