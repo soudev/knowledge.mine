@@ -277,5 +277,8 @@
 
 * [[YouTube] Money & Debt: Crash Course World History 202](https://www.youtube.com/watch?v=94BtOtGVqLw)
 
+--
+
 * [[YouTube] How do banks make money for you](https://www.youtube.com/watch?v=iamVNMuVJMQ)
 
+* [[YouTube] How do banks create credit? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=cs1bkpxzBZI)
