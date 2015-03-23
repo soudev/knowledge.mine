@@ -793,6 +793,8 @@
 
 * [DynoSRC](http://dinosrc.it/) - Eliminate HTTP requests for JavaScript files and serve differential updates to your users on the fly. No, really. Like, seriously.
 
+* [[GitHub] luin / superfetch](https://github.com/luin/superfetch) - A super powerful node.js HTTP client with the support of promise.
+
 * [[GitHub] williamwicks / litesocket](https://github.com/williamwicks/litesocket) - Realtime server events for Node.JS, using Server Sent Events (SSE)
 
 * [[GitHub] thibauts / node-castv2-client](https://github.com/thibauts/node-castv2-client) - A Chromecast client based on the new (CASTV2) protocol
