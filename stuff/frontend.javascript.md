@@ -1249,7 +1249,11 @@
 
   * [[GitHub] scala-js / scala-js](https://github.com/scala-js/scala-js) - Scala.js, a Scala to JavaScript compiler 
 
+  * [Scala.js Fiddle](http://www.scala-js-fiddle.com/)
+
   * [[GitHub] lihaoyi / workbench-example-app : ScalaJSExample.scala](https://github.com/lihaoyi/workbench-example-app/blob/ray-tracer/src/main/scala/example/ScalaJSExample.scala) - Scala.js Ray Tracer
+
+  * [[GitHub] rockymadden / scala-node](https://github.com/rockymadden/scala-node) - Proof of concept to determine if Scala.js could be leveraged to make a Node.js module. It can.
 
 * [CoffeeScript](http://coffeescript.org/) is a little language that compiles into JavaScript
 
