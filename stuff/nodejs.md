@@ -2016,6 +2016,8 @@ $ sudo chown -R `whoami` .npm
 
   * [Getting Started with Passport | node.js knockout](http://blog.nodeknockout.com/post/66118192565/getting-started-with-passport)
 
+  * [Social Authentication for Node.js Apps With Passport | Tuts+ Code Article](http://code.tutsplus.com/articles/social-authentication-for-nodejs-apps-with-passport--cms-21618)
+
 * [List All REST Endpoints built using Express or Restify | The Jackal of Javascript](http://thejackalofjavascript.com/list-all-rest-endpoints/)
 
 --
