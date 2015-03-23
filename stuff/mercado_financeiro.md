@@ -1,7 +1,7 @@
 # Mercado Financeiro
 
-
 <!-- toc -->
+
 * [Educação Financeira](#educação-financeira)
 * [Informações gerais](#informações-gerais)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
@@ -19,6 +19,7 @@
 * [APIs](#apis)
   * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
+* [Curiosidades](#curiosidades)
 
 <!-- toc stop -->
 
@@ -268,3 +269,9 @@
 * [[GitHub] dgtostes / cpp_study / py_codes / finance](https://github.com/dgtostes/cpp_study/tree/master/py_codes/finance) - python
 
 * [[Bitbuckets] ghost_br / bmfstock](https://bitbucket.org/ghost_br/bmfstock/) - python
+
+
+## Curiosidades
+
+* [What gives a dollar bill its value? - Doug Levinson | TED-Ed](http://ed.ted.com/lessons/what-gives-a-dollar-bill-its-value-doug-levinson)
+
