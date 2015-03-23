@@ -595,3 +595,6 @@
 * [20 JQuery Table Datagrid Plugins](http://superdit.com/2012/01/18/20-jquery-table-datagrid-plugins/)
 
 * jQuery Grid Plugin - jqGrid [blog](http://www.trirand.com/blog/) | [demo](http://www.trirand.com/blog/?page_id=5)
+
+* [[GitHub] tabalinas / jsgrid](https://github.com/tabalinas/jsgrid) - Lightweight Grid jQuery Plugin
+
