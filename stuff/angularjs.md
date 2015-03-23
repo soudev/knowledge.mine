@@ -1536,6 +1536,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] vitalets / angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
+
+  * [[GitHub] vitalets / x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
+
+--
+
 * [[GitHub] verico / ng-galleria](https://github.com/verico/ng-galleria) - Angular galleria directive
 
 --
