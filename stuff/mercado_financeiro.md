@@ -4,6 +4,7 @@
 
 * [Educação Financeira](#educação-financeira)
 * [Informações gerais](#informações-gerais)
+  * [Curiosidades](#curiosidades)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
@@ -19,7 +20,6 @@
 * [APIs](#apis)
   * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
-* [Curiosidades](#curiosidades)
 
 <!-- toc stop -->
 
@@ -79,6 +79,18 @@
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
 
 * ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
+
+### Curiosidades
+
+* [What gives a dollar bill its value? - Doug Levinson | TED-Ed](http://ed.ted.com/lessons/what-gives-a-dollar-bill-its-value-doug-levinson)
+
+* [[YouTube] Money & Debt: Crash Course World History 202](https://www.youtube.com/watch?v=94BtOtGVqLw)
+
+--
+
+* [[YouTube] How do banks make money for you](https://www.youtube.com/watch?v=iamVNMuVJMQ)
+
+* [[YouTube] How do banks create credit? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=cs1bkpxzBZI)
 
 
 ## Informações úteis sobre investimentos
@@ -269,16 +281,3 @@
 * [[GitHub] dgtostes / cpp_study / py_codes / finance](https://github.com/dgtostes/cpp_study/tree/master/py_codes/finance) - python
 
 * [[Bitbuckets] ghost_br / bmfstock](https://bitbucket.org/ghost_br/bmfstock/) - python
-
-
-## Curiosidades
-
-* [What gives a dollar bill its value? - Doug Levinson | TED-Ed](http://ed.ted.com/lessons/what-gives-a-dollar-bill-its-value-doug-levinson)
-
-* [[YouTube] Money & Debt: Crash Course World History 202](https://www.youtube.com/watch?v=94BtOtGVqLw)
-
---
-
-* [[YouTube] How do banks make money for you](https://www.youtube.com/watch?v=iamVNMuVJMQ)
-
-* [[YouTube] How do banks create credit? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=cs1bkpxzBZI)
