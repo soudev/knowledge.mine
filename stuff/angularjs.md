@@ -448,6 +448,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Forcing $q .notify() To Execute With A No-Op In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2800-forcing-q-notify-to-execute-with-a-no-op-in-angularjs.htm)
 
+  * [AngularJS Corner - Async calls using $http, $q and promises | Chariot Solutions](http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/)
+
 --
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
