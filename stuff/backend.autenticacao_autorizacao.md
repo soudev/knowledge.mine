@@ -18,7 +18,15 @@
 
 * [How to generate self-signed certificate for usage in Express4 or Node.js HTTP | Warehouse](http://blog.matoski.com/articles/node-express-generate-ssl/)
 
+--
+
+* [HTTPS Authorized Certs with Node.js | Circle Engineering](http://engineering.circle.com/https-authorized-certs-with-node-js/) - 2015/02/02
+
 * [Using client certs in node.js | Ceejbot](http://ceejbot.tumblr.com/post/39969163196/using-client-certs-in-node-js)
+
+* [Client and Server side SSL with NodeJS | Vanja Komadinovic](https://vanjakom.wordpress.com/2011/08/11/client-and-server-side-ssl-with-nodejs/)
+
+  * [[GitHub] vanjakom / JavaScriptPlayground /client_server_ssl_nodejs](https://github.com/vanjakom/JavaScriptPlayground/tree/master/client_server_ssl_nodejs)
 
 --
 
