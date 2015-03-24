@@ -3,6 +3,7 @@
 <!-- toc -->
 
 * [Geral](#geral)
+* [Trabalho remoto](#trabalho-remoto)
 * [Time Traking](#time-traking)
 * [Conceitos](#conceitos)
   * [Pomodoro](#pomodoro)
@@ -60,6 +61,11 @@
   * [DCEVM](https://dcevm.github.io/) - Enhanced class redefinition for Java
 
   * [Alternativa gratuita ao JRebel | Boaglio.com](http://www.boaglio.com/index.php/2015/01/22/alternativa-gratuita-ao-jrebel/)
+
+
+## Trabalho remoto
+
+* [[GitHub] pragmaticivan / guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) - Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 
 
 ## Time Traking
