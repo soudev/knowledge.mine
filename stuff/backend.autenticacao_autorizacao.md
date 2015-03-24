@@ -7,6 +7,8 @@
 
 * [x509 - Certificate display and signing utility | OpenSSL](https://www.openssl.org/docs/apps/x509.html)
 
+* [DER vs. CRT vs. CER vs. PEM Certificates and How To Convert Them | InfoSSL](https://info.ssl.com/article.aspx?id=12149)
+
 --
 
 * [X.509 Certificates | CAS User Manual](https://wiki.jasig.org/display/CASUM/X.509+Certificates)
