@@ -287,6 +287,12 @@
 
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - Tweak React components in real time
 
+--
+
+* [Real Time Trader Desktop with React, Node.js, and Socket.io | Christophe Coenraets](http://coenraets.org/blog/2015/03/real-time-trader-desktop-with-react-node-js-and-socket-io/)
+
+  * [[GitHub] ccoenraets / react-trader](https://github.com/ccoenraets/react-trader) - Sample application built with React and Socket.io
+
 
 ### Template Engine
 
