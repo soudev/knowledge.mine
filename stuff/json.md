@@ -77,6 +77,8 @@
 
 * [Episode 9 – Ditching Cookies for JSON Web Tokens | Screencasts For Developers](http://knowthen.com/episode-9-ditching-cookies-for-json-web-tokens/)
 
+* [Simple AngularJS Authentication with JWT | Thinkster](https://thinkster.io/angularjs-jwt-auth/)
+
 --
 
 * [[GitHub] auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
