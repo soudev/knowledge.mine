@@ -32,6 +32,14 @@
 
 --
 
+* [[GitHub] tgies / client-certificate-auth](https://github.com/tgies/client-certificate-auth) - middleware for Node.js implementing client SSL certificate authentication/authorization
+
+  * [HTTPS & Authentication - Belgian node.js User Group | Slides](11/12/2013) - 2013/12/11 [#52 - cert authentication](http://slides.com/jeroenmoors/https-authentication-in-nodejs#/52)
+
+    * [[GitHub] jeroenmoors / nodettps / https_with_belgian_eid.js](https://github.com/jeroenmoors/nodettps/blob/master/https_with_belgian_eid.js)
+
+--
+
 * [[GitHub] yorkie / node-x509](https://github.com/yorkie/node-x509) - Simple X509 certificate parser
 
 * [[GitHub] TheThingSystem / node-x509-keygen](https://github.com/TheThingSystem/node-x509-keygen) - node.js module to generate self-signed certificate via openssl spawn
