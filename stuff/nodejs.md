@@ -36,6 +36,7 @@
     * [Jogos](#jogos)
   * [Site Estático](#site-estático)
   * [Hardware](#hardware)
+    * [Mobile: iOS, Android, Windows Phone](#mobile-ios-android-windows-phone)
     * [Node Copter](#node-copter)
     * [Lego Mindstorms](#lego-mindstorms)
     * [Tessel](#tessel)
@@ -952,6 +953,15 @@
 * [[GitHub] sandeepmistry / bleno](https://github.com/sandeepmistry/bleno) - A node.js module for implementing BLE (Bluetooth low energy) peripherals
 
 * [Cylon.js](http://cylonjs.com/) - is a JavaScript framework for robotics, physical computing, and the Internet of Things using Node.js. It provides a simple, yet powerful way to create JavaScript robots that incorporate multiple, different hardware devices at the same time
+
+
+#### Mobile: iOS, Android, Windows Phone
+
+* [NativeScript](https://www.nativescript.org/) - Cross-Platform Native Development with Javascript. Build truly native apps with JavaScript. Develop iOS, Android and Windows Phone apps from a single code base.
+
+  * [[GitHub Org] NativeScript](https://github.com/NativeScript)
+
+  * [Building Your Own NativeScript Modules for npm | Telerik Developer Network](http://developer.telerik.com/featured/building-your-own-nativescript-modules-for-npm/)
 
 
 #### Node Copter
