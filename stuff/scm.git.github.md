@@ -310,6 +310,10 @@ git clean -fd
 
 ### Workflow
 
+* [GitHub Flow Like a Pro with these 13 Git Aliases | You've Been Haacked](http://haacked.com/archive/2014/07/28/github-flow-aliases/)
+
+--
+
 * [GitHub Flow in the Browser | GitHub Blog](https://github.com/blog/1557-github-flow-in-the-browser)
 
 * [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
