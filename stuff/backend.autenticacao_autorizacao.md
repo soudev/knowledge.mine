@@ -9,13 +9,22 @@
 
 --
 
-* [[GitHub] yorkie / node-x509](https://github.com/yorkie/node-x509) - Simple X509 certificate parser
-
---
-
 * [X.509 Certificates | CAS User Manual](https://wiki.jasig.org/display/CASUM/X.509+Certificates)
 
 * [X.509 Login Handler | Shibboleth 2 - Confluence](https://wiki.shibboleth.net/confluence/display/SHIB2/X.509+Login+Handler)
+
+
+### nodejs x509
+
+* [How to generate self-signed certificate for usage in Express4 or Node.js HTTP | Warehouse](http://blog.matoski.com/articles/node-express-generate-ssl/)
+
+* [Using client certs in node.js | Ceejbot](http://ceejbot.tumblr.com/post/39969163196/using-client-certs-in-node-js)
+
+--
+
+* [[GitHub] yorkie / node-x509](https://github.com/yorkie/node-x509) - Simple X509 certificate parser
+
+* [[GitHub] TheThingSystem / node-x509-keygen](https://github.com/TheThingSystem/node-x509-keygen) - node.js module to generate self-signed certificate via openssl spawn
 
 
 ## OAuth
