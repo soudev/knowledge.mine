@@ -1165,6 +1165,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Communicating Between Controllers In Angular | Tyson Cadenhead](http://www.tysoncadenhead.com/blog/communicating-between-controllers-in-angular)
 
+* [Using $rootScope.$emit() As A Performance Optimization In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2807-using-rootscope-emit-as-a-performance-optimization-in-angularjs.htm)
+
 --
 
 * [AngularJS and $scope.$apply() best practices | Medium - by Kamil Lelonek](https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024) - Where and how to invoke $scope.$apply() in AngularJS applications
