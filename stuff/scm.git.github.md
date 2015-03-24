@@ -91,6 +91,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
   * [Projects that power GitHub](https://github.com/showcases/projects-that-power-github)
 
+  * [How GitHub Uses GitHub to Build GitHub | Zach Holman](http://zachholman.com/talk/how-github-uses-github-to-build-github/) - 2011/09/21
+
 
 ## Aprendizado
 
