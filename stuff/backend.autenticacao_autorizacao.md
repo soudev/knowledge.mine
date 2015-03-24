@@ -3,6 +3,21 @@
 * [Authentication for Single Page Apps | madhatted.com](http://madhatted.com/2014/6/17/authentication-for-single-page-apps)
 
 
+## x509
+
+* [x509 - Certificate display and signing utility | OpenSSL](https://www.openssl.org/docs/apps/x509.html)
+
+--
+
+* [[GitHub] yorkie / node-x509](https://github.com/yorkie/node-x509) - Simple X509 certificate parser
+
+--
+
+* [X.509 Certificates | CAS User Manual](https://wiki.jasig.org/display/CASUM/X.509+Certificates)
+
+* [X.509 Login Handler | Shibboleth 2 - Confluence](https://wiki.shibboleth.net/confluence/display/SHIB2/X.509+Login+Handler)
+
+
 ## OAuth
 
 * [[SlideShare] OAuth with Restful Web Services](http://www.slideshare.net/vinayhulgar/oauth-with-restful-web-services)
@@ -39,7 +54,7 @@
 
 * [Spring Security - SAML Extension](http://static.springsource.org/spring-security/site/extensions/saml/index.html)
 
-	* [[GitHub] SpringSource/spring-security-saml](https://github.com/SpringSource/spring-security-saml) - SAML extension for the Spring Security project
+  * [[GitHub] SpringSource/spring-security-saml](https://github.com/SpringSource/spring-security-saml) - SAML extension for the Spring Security project
 
 
 ## WS-Trust
