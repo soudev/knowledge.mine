@@ -1052,6 +1052,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS And Browserify - The Dream Team For Single Page Applications | codecentric](https://blog.codecentric.de/en/2014/08/angularjs-browserify/) - 2014/08/18
 
+* [Using Angular’s new improved Browserify support | NPM Blog](http://blog.npmjs.org/post/114584444410/using-angulars-new-improved-browserify-support)
+
 --
 
 * [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
