@@ -2095,6 +2095,10 @@ $ sudo chown -R `whoami` .npm
 
 * [Introducing Gulp, Grunt, Bower, and npm support for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmSupportForVisualStudio.aspx)
 
+--
+
+* [Node.js Tools 1.0 for Visual Studio | The Visual Studio Blog](http://blogs.msdn.com/b/visualstudio/archive/2015/03/25/node-js-tools-1-0-for-visual-studio.aspx) - 2015/03/25
+
 
 #### Eclipse IDE
 
