@@ -428,6 +428,10 @@
 
 * [[GitHub] C2FO / nools](https://github.com/C2FO/nools) - Rete based rules engine written in javascript
 
+* [[GitHub] gchudnov / bspec](https://github.com/gchudnov/bspec) - A JavaScript library for structuring business rules
+
+  * [Structuring and validating business rules in JavaScript | Medium - by Grigoriy Chudnov](https://medium.com/@gchudnov/structuring-and-validating-business-rules-in-javascript-fbaa1019902a)
+
 --
 
 * [[GitHub] yaronn / blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
