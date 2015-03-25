@@ -1274,6 +1274,8 @@
 
   * [[CodePlex] TypeScript](https://typescript.codeplex.com/)
 
+  * [TypeScript for C# Programmers | InfoQ](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
+
 
 #### Máquinas Virtuais
 
