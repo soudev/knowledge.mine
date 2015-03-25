@@ -65,6 +65,10 @@
 
 ### Design
 
+* [Call to Idea - Get inspired!](http://calltoidea.com/)
+
+--
+
 * [Velositey - Website Layout Builder for Photoshop](http://dandkagency.com/velositey/)
 
 * [Google Design](http://www.google.com/design/)
