@@ -13,6 +13,10 @@
 
 ## Informações Gerais
 
+* [Try SQL | Code School](http://campus.codeschool.com/courses/try-sql) - Learn basic database manipulation with SQL.
+
+--
+
 * [Trabalhando com junções de tabelas (JOINs) | iMasters](http://imasters.com.br/banco-de-dados/trabalhando-com-juncoes-de-tabelas-joins/)
 
 * [10 Easy Steps to a Complete Understanding of SQL | Tech Pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql?utm_source=newsletter22&utm_medium=email)
