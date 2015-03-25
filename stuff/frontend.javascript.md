@@ -448,6 +448,8 @@
 
 * [Unicode and JavaScript | 2 ality](http://www.2ality.com/2013/09/javascript-unicode.html)
 
+* [JavaScript ❤ Unicode | FluentConf](http://fluentconf.com/javascript-html-2015/public/content/2015/02/18-javascript-loves-unicode) - JavaScript, HTML5, CSS3 Conference - O'Reilly Fluent, April 20 - 22, 2015, San Francisco, CA
+
 * [Checking whether a value is an integer in JavaScript | 2 ality](http://www.2ality.com/2014/05/is-integer.html)
 
 --
