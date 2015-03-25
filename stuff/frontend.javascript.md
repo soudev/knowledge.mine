@@ -518,6 +518,8 @@
 
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
 
+* [Staying Sane With Asynchronous Programming: Promises and Generators | colintoh.com](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators) - Callback Hell no more with Promises and its close ally, Generators.
+
 * [Asynchronous JavaScript Interfaces (Events, Generators, Promises, Streams)](http://medikoo.com/asynchronous-javascript-interfaces/?notes)
 
 * [JavaScript Promises: There and back again | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es6/promises/)
