@@ -988,6 +988,10 @@
 
 * [[SlideShare] Tessel: The End of Web Development (as we know it)](http://www.slideshare.net/TechnicalMachine/tessel-the-end-of-web-development-as-we-know-it)
 
+--
+
+* [Tessel Powered Plant Watering System | Max Ogden Blogotronz](http://maxogden.com/tessel-powered-plant-watering-system.html) - Make a water pump that can be turned on and off over HTTP using only JavaScript.
+
 
 #### Espruino
 
