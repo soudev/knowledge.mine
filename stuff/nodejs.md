@@ -1717,6 +1717,12 @@ $ sudo chown -R `whoami` .npm
 
   * [[SlideShare] Mongoose - Melhores práticas usando MongoDB e Node.js](http://www.slideshare.net/suissapg/mongoose-melhores-prticas-usando-mongodb-e-nodejs)
 
+  * [Mongoose Aggregation – Count, Group, Match, Project | excellencenodejsblog](http://excellencenodejsblog.com/mongoose-aggregation-count-group-match-project/)
+
+  * [NodeJS MongoDB : Schema Validation, Middleware | excellencenodejsblog](http://excellencenodejsblog.com/nodejs-mongodb-advance-operations-mongoose/)
+
+  * [GridFS Using Mongoose – NodeJS | excellencenodejsblog](http://excellencenodejsblog.com/gridfs-using-mongoose-nodejs/)
+
 * [[GitHub] meritt / easymongo](https://github.com/meritt/easymongo) - The easiest MongoDB API
 
 --
