@@ -870,6 +870,8 @@
 
 * [Express.js](http://expressjs.com/)
 
+  * [Upload Files to S3 in Node.js | Inspired Programming](http://inspiredjw.com/upload-files-to-s3-in-node-js/)
+
 * [[GitHub] strongloop / loopback](https://github.com/strongloop/loopback) - is an open source API framework built on top of Express optimized for mobile and web. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
 
 * Twitatron | Scott Smith
