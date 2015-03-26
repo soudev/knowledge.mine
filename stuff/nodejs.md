@@ -870,7 +870,19 @@
 
 * [Express.js](http://expressjs.com/)
 
+  * [Express.js Guide: The Comprehensive Book on Express.js](http://expressjsguide.com/)
+
+  * [[GitHub] strongloop / express](https://github.com/strongloop/express/) - Fast, unopinionated, minimalist web framework for node.
+
+  * [[GitHub] expressjs / multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
+
+    * [ExpressJS File Uploading – GridFS – MongoDB | excellencenodejsblog](http://excellencenodejsblog.com/expressjs-file-uploading-gridfs-mongodb/)
+
   * [Upload Files to S3 in Node.js | Inspired Programming](http://inspiredjw.com/upload-files-to-s3-in-node-js/)
+
+  * [ExpressJS Creating Custom Middileware | excellencenodejsblog](http://excellencenodejsblog.com/expressjs-creating-custom-middileware/)
+
+  * [Handing CORS For Your Mobile App | excellencenodejsblog](http://excellencenodejsblog.com/handing-cors-for-your-mobile-app/)
 
 * [[GitHub] strongloop / loopback](https://github.com/strongloop/loopback) - is an open source API framework built on top of Express optimized for mobile and web. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
 
