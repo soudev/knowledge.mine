@@ -605,7 +605,7 @@
 * [[GitHub] NarrativeScience / Log.io](https://github.com/NarrativeScience/Log.io)
 
   * [log.io](http://logio.org/) - Real-time log monitoring in your browser
-  
+
 --
 
 * [[GitHub] caiogondim / logdown](https://github.com/caiogondim/logdown) - Debug utility with markdown support that runs on browser and server
@@ -877,6 +877,18 @@
 --
 
 * [Synth](http://www.synthjs.com/) - The back-end web framework designed to make (Angular|Ember|Backbone)JS web apps easy to create and manage.
+
+--
+
+* [Express.js](http://expressjs.com/)
+
+* Twitatron | Scott Smith
+
+  * [[GitHub] scottksmith95 / twitatron](https://github.com/scottksmith95/twitatron) - Source code for the Twitatron tutorial series
+
+  * [1 - Building a Production Web App With Node](http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/) - 2014/10/05
+
+  * [2 - Building a Production Web App With Node - Views & Controllers](http://scottksmith.com/blog/2015/03/23/twitatron-building-a-production-web-app-with-node-views-and-controllers/) - 2015/03/23
 
 
 #### OAuth
