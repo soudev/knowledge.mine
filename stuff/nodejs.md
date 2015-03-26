@@ -605,10 +605,14 @@
 * [[GitHub] NarrativeScience / Log.io](https://github.com/NarrativeScience/Log.io)
 
   * [log.io](http://logio.org/) - Real-time log monitoring in your browser
-
+  
 --
 
 * [[GitHub] caiogondim / logdown](https://github.com/caiogondim/logdown) - Debug utility with markdown support that runs on browser and server
+
+--
+
+* [Streaming Logs with Transducers and Ramda | simplectic](http://simplectic.com/blog/2015/ramda-transducers-logs/)
 
 
 ### Versionamento
