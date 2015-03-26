@@ -850,9 +850,15 @@
 
 --
 
+* [Synth](http://www.synthjs.com/) - The back-end web framework designed to make (Angular|Ember|Backbone)JS web apps easy to create and manage.
+
+--
+
 * [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
 
   * [Introduction to the Harp Web Server | Introductory Screencast - Harp](http://harpjs.com/blog/introductory-screencast)
+
+--
 
 * [Hapi : server framework for Node.js](http://spumko.github.io/)
 
@@ -860,7 +866,19 @@
 
   * [hapi – Building apps and services in Node.js | Frederic Hemberger](https://frederic-hemberger.de/talks/hapi/)
 
+--
+
+* [Express.js](http://expressjs.com/)
+
 * [[GitHub] strongloop / loopback](https://github.com/strongloop/loopback) - is an open source API framework built on top of Express optimized for mobile and web. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
+
+* Twitatron | Scott Smith
+
+  * [[GitHub] scottksmith95 / twitatron](https://github.com/scottksmith95/twitatron) - Source code for the Twitatron tutorial series
+
+  * [1 - Building a Production Web App With Node](http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/) - 2014/10/05
+
+  * [2 - Building a Production Web App With Node - Views & Controllers](http://scottksmith.com/blog/2015/03/23/twitatron-building-a-production-web-app-with-node-views-and-controllers/) - 2015/03/23
 
 --
 
@@ -873,22 +891,6 @@
 * [Creating an RSS Feed Reader With the MEAN Stack | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/creating-an-rss-feed-reader-with-the-mean-stack--cms-20563)
 
 * [Build a real-time polls application with Node.js, Express, AngularJS, and MongoDB | IBM developerWorks](http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/)
-
---
-
-* [Synth](http://www.synthjs.com/) - The back-end web framework designed to make (Angular|Ember|Backbone)JS web apps easy to create and manage.
-
---
-
-* [Express.js](http://expressjs.com/)
-
-* Twitatron | Scott Smith
-
-  * [[GitHub] scottksmith95 / twitatron](https://github.com/scottksmith95/twitatron) - Source code for the Twitatron tutorial series
-
-  * [1 - Building a Production Web App With Node](http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/) - 2014/10/05
-
-  * [2 - Building a Production Web App With Node - Views & Controllers](http://scottksmith.com/blog/2015/03/23/twitatron-building-a-production-web-app-with-node-views-and-controllers/) - 2015/03/23
 
 
 #### OAuth
