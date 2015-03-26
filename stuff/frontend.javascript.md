@@ -54,6 +54,10 @@
 
   * [[GitHub] brianleroux / wtfjs](https://github.com/brianleroux/wtfjs)
 
+--
+
+* [JavaScript World Domination | Medium - by @slsoftworks](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070) - A Civilization-esque journey through JavaScript history — chronicles of the march from inception to ubiquity
+
 
 ### Aprendizado
 
