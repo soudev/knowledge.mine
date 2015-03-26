@@ -40,7 +40,9 @@
 
 * CEP
 
-  * [Correios API RESTful](http://emersonsoares.me/correios-restful-api/)
+  * [Correios RESTful API](https://correiosapi.apphb.com/)
+
+    * [[GitHub] emersonsoares / AddressAPI](https://github.com/emersonsoares/AddressAPI)
 
   * [Postmon](http://postmon.com.br/) - Uma API para consultar CEP e encomendas de maneira fácil, rápida e gratuita
 
@@ -49,6 +51,8 @@
   * [Busca CEP - API de Consulta](http://apps.widenet.com.br/busca-cep/api-de-consulta)
 
   * [[GitHub] prodis /correios-cep](https://github.com/prodis/correios-cep) - Get Brazilian address by zipcode, directly from Correios database. No HTML parsers
+
+  * [API de consulta de CEP grátis | Aviso Brasil](http://avisobrasil.com.br/correio-control/api-de-consulta-de-cep/) - Finalmente, um serviço de consulta de CEP gratuito criado por uma empresa sólida, cujo negócio é lidar com Correios. Um presente para você desenvolvedor.
 
 --
 
