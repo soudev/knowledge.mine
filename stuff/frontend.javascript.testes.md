@@ -6,6 +6,7 @@
   * [Testes](#testes)
     * [Plato](#plato)
     * [Online fake data](#online-fake-data)
+    * [Intern](#intern)
     * [Jasmine](#jasmine)
     * [Protractor](#protractor)
     * [Karma](#karma)
@@ -67,6 +68,15 @@
 #### Online fake data
 
 * [FillText](http://www.filltext.com/) - generates JSON datasets for testing or demonstration purposes
+
+
+#### Intern
+
+* [Intern - Software testing for humans](https://theintern.github.io/)
+
+* [[GitHub] theintern / intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript
+
+* [[GitHub] theintern / intern-examples](https://github.com/theintern/intern-examples) - A collection of examples for the Intern testing library
 
 
 #### Jasmine
