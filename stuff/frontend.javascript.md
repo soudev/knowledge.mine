@@ -512,6 +512,8 @@
 
 * [JavaScript Events: Save the Bubbles! | David Walsh Blog](http://davidwalsh.name/javascript-events)
 
+* [Browser Input Events: Can We Do Better Than The Click? | Smashing Magazine](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/)
+
 --
 
 * [Concurrency in JavaScript | ByteArray.org](http://www.bytearray.org/?p=5607)
