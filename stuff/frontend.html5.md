@@ -821,6 +821,10 @@
 
 #### WebGL
 
+* [The Book of Shaders](http://patriciogonzalezvivo.com/2015/thebookofshaders/) - This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+
+--
+
 * [three.js](http://mrdoob.github.io/three.js/) - JavaScript 3D library
 
   * [The Beginner's Guide to three.js | Treehouse Blog](http://blog.teamtreehouse.com/the-beginners-guide-to-three-js)
