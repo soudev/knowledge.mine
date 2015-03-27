@@ -1394,9 +1394,15 @@
 
 * [Command-line utilities with Node.js | cruft.io](http://cruft.io/posts/node-command-line-utilities/) - An overview of command-line interfaces and using node.js to create command-line utilities
 
+* [Criando uma ferramenta de CLI com NodeJS | Da2k Blog](http://blog.da2k.com.br/2015/03/20/criando-uma-ferramenta-de-cli-com-nodejs/)
+
+--
+
 * [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
 
 * [[GitHub] visionmedia / commander.js](https://github.com/visionmedia/commander.js) - node.js command-line interfaces made easy
+
+  * [commander.js - nodejs command-line interfaces made easy | TJ Holowaychuk](http://tjholowaychuk.tumblr.com/post/9103188408/commander-js-nodejs-command-line-interfaces-made)
 
 * [[GitHub] SBoudrias / Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces
 
