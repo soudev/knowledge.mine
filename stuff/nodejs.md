@@ -208,6 +208,10 @@
 
 --
 
+* [Ten Common Mistakes in Node.js Development | Toptal](http://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)
+
+--
+
 * [[SlideShare] Nodejs Explained with Examples](http://www.slideshare.net/gabriele.lana/nodejs-explained-with-examples)
 
 * [Understanding how to create a nodejs package.json | Nodejitsu](http://package.json.nodejitsu.com/) - Package.json: an interactive guide
