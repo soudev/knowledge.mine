@@ -147,3 +147,8 @@
 
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
 
+--
+
+* [Nuclide](http://nuclide.io/) - Open source IDE for React Native, web and native mobile development, built on Atom
+
+
