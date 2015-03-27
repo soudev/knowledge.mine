@@ -22,6 +22,7 @@
   * [Bibliotecas](#bibliotecas)
     * [Upload](#upload)
     * [Emulator](#emulator)
+    * [Redes Neurais](#redes-neurais)
     * [Compiladores](#compiladores)
     * [Máquinas Virtuais](#máquinas-virtuais)
     * [Text Search](#text-search)
@@ -1243,6 +1244,13 @@
 * [JsDOSBox - JavaScript PC DOS Emulator](http://sourceforge.net/p/jsdosbox/home/Home/)
 
 * [JsPspEmu - JavaScript PSP emulator](http://jspspemu.com/)
+
+
+#### Redes Neurais
+
+* [Hacker's guide to Neural Networks | Andrej Karpathy blog](https://karpathy.github.io/neuralnets/)
+
+* [[GitHub] karpathy / convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 
 
 #### Compiladores
