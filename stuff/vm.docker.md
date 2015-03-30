@@ -394,6 +394,12 @@
 
 --
 
+* [Kitematic](https://kitematic.com/) - The easiest way to use Docker on Mac
+
+  * [[GitHub] kitematic / kitematic](https://github.com/kitematic/kitematic) - Mac app for managing Docker containers
+
+--
+
 * [RancherOS | Rancher Labs](http://rancher.com/rancher-os/) - A minimalist distribution of Linux designed from the ground up to run Docker containers
 
   * [[GitHub] rancherio / rancher](https://github.com/rancherio/rancher) - A Platform for Operating Docker in Production
