@@ -1296,6 +1296,8 @@
 
   * [TypeScript for C# Programmers | InfoQ](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 
+  * [The Rise of TypeScript? | Telerik Developer Network](http://developer.telerik.com/featured/the-rise-of-typescript/)
+
 
 #### Máquinas Virtuais
 
