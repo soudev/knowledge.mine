@@ -501,6 +501,10 @@
 
 --
 
+* [A guide to publishing JavaScript open source projects | Nightlight](http://www.conductor.com/nightlight/guide-publishing-javascript-open-source-projects/)
+
+--
+
 * [Capturando erros JS LIKE-A-BOSS | Tableless](http://tableless.com.br/capturando-erros-js-like-a-boss/) - window.onerror
 
 * [Strange JavaScript Errors and How to Fix Them | David Walsh Blog](http://davidwalsh.name/fix-javascript-errors)
