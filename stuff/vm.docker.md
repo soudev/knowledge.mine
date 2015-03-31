@@ -385,6 +385,8 @@
 
 * [Containers for test environments using Docker | SpeedLedger Tech blog](http://engineering.speedledger.com/?p=73)
 
+* [The Realities of Docker in Production | Heavybit Blog](http://blog.heavybit.com/blog/2015/3/23/dockermeetup) - Docker seems like a fundamentally better abstraction for packaging and deploying applications in a persistent way across multiple environments. Amongst individual developers and sys admins it's praised, but at a recent Docker in Production Meetup at Heavybit -- engineers from ClusterHQ, Iron.io, RelateIQ and Docker gathered to talk about what it looks like in production.
+
 
 ### Soluções
 
