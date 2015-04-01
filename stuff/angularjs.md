@@ -1550,6 +1550,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] assisrafael / angular-input-masks](https://github.com/assisrafael/angular-input-masks) - Personalized input masks for AngularJS
 
+* [[GitHub] dnauck / angular-advanced-searchbox](https://github.com/dnauck/angular-advanced-searchbox) - A directive for AngularJS providing a advanced visual search box
+
 --
 
 * [[GitHub] vitalets / angular-xeditable](https://github.com/vitalets/angular-xeditable) - Edit in place for AngularJS
