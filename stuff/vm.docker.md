@@ -246,6 +246,8 @@
 
 * [Efficient development workflow using Git submodules and Docker Compose | AirPair](https://www.airpair.com/docker/posts/efficiant-development-workfow-using-git-submodules-and-docker-compose)
 
+* [A sample Docker workflow with Nginx, Node.js and Redis | Anand Mani Sankar](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
+
 --
 
 * [From Vagrant To Docker | ScaleIt!](http://dahlgren.so/software/2014/05/11/From-Vagrant-To-Docker/) - Speeding up the development cycle
