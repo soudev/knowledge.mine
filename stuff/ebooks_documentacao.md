@@ -1,6 +1,5 @@
 # Materiais de estudo e suporte
 
-
 <!-- toc -->
 
 * [Geral](#geral)
@@ -13,12 +12,13 @@
 * [Gráficos](#gráficos)
 * [Criptografia](#criptografia)
   * [OpenSSL](#openssl)
+* [Aprendizado](#aprendizado)
+* [Criatividade e Idéias](#criatividade-e-idéias)
 * [Plataformas de Estudo](#plataformas-de-estudo)
   * [Conhecimentos gerais](#conhecimentos-gerais)
   * [Idiomas](#idiomas)
     * [Idiomas: Dicas](#idiomas-dicas)
   * [Codificação](#codificação)
-* [Criatividade e Idéias](#criatividade-e-idéias)
 
 <!-- toc stop -->
 
@@ -221,6 +221,20 @@
 * [Setting up OpenSSL to Create Certificates | Flat Mountain](http://www.flatmtn.com/article/setting-openssl-create-certificates)
 
 
+## Aprendizado
+
+* [[YouTube] The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) - 2013/03/14
+
+
+## Criatividade e Idéias
+
+* [[YouTube] Booktrailer: "De onde vêm as boas ideias"](https://www.youtube.com/watch?v=g6tgH2dWx5c) - 2010/11/22
+
+* [[YouTube] A lagarta e a borboleta - da criatividade à inovação: Martha Gabriel at TEDxJardimdasPalmeiras](https://www.youtube.com/watch?v=d9oAIsEBclI) - 2014/02/06
+
+* [[YouTube] O processo criativo em três palavras: Chico Neto at TEDxFortaleza](https://www.youtube.com/watch?v=OYVgmlv4Oo0) - 2012/09/02
+
+
 ## Plataformas de Estudo
 
 * [Cerebro](https://cerebrobr.github.io/cerebro/) - Projeto bem interessante lançado pela comunidade brasileira. O projeto promete reunir uma série de conteúdos em português. (no GitHub)
@@ -354,11 +368,3 @@
 
     * [[GitHub] tcorral / javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself to learn and understand the most obscure and tricky parts of Javascript
 
-
-## Criatividade e Idéias
-
-* [[YouTube] Booktrailer: "De onde vêm as boas ideias"](https://www.youtube.com/watch?v=g6tgH2dWx5c) - 2010/11/22
-
-* [[YouTube] A lagarta e a borboleta - da criatividade à inovação: Martha Gabriel at TEDxJardimdasPalmeiras](https://www.youtube.com/watch?v=d9oAIsEBclI) - 2014/02/06
-
-* [[YouTube] O processo criativo em três palavras: Chico Neto at TEDxFortaleza](https://www.youtube.com/watch?v=OYVgmlv4Oo0) - 2012/09/02
