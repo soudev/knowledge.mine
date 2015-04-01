@@ -274,6 +274,8 @@
 
 * [Aprenda Ingles- Learn Portuguese (Rio de Janeiro) | Meetup](http://www.meetup.com/Aprenda-Ingles-Learn-Portuguese/) - Presencial
 
+* [Você Aprende Agora](http://www.voceaprendeagora.com/) - É um curso de inglês online, com Felipe Dib onde você aprenda rápido e usa o inglês a seu favor.
+
 
 #### Idiomas: Dicas
 
