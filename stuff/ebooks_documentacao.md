@@ -358,3 +358,5 @@
 * [[YouTube] Booktrailer: "De onde vêm as boas ideias"](https://www.youtube.com/watch?v=g6tgH2dWx5c) - 2010/11/22
 
 * [[YouTube] A lagarta e a borboleta - da criatividade à inovação: Martha Gabriel at TEDxJardimdasPalmeiras](https://www.youtube.com/watch?v=d9oAIsEBclI) - 2014/02/06
+
+* [[YouTube] O processo criativo em três palavras: Chico Neto at TEDxFortaleza](https://www.youtube.com/watch?v=OYVgmlv4Oo0) - 2012/09/02
