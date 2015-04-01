@@ -2,6 +2,7 @@
 
 
 <!-- toc -->
+
 * [Geral](#geral)
 * [Cheat Sheets](#cheat-sheets)
 * [eBooks](#ebooks)
@@ -17,6 +18,7 @@
   * [Idiomas](#idiomas)
     * [Idiomas: Dicas](#idiomas-dicas)
   * [Codificação](#codificação)
+* [Criatividade e Idéias](#criatividade-e-idéias)
 
 <!-- toc stop -->
 
@@ -231,10 +233,6 @@
 
 ### Conhecimentos gerais
 
-* [[YouTube] Booktrailer: "De onde vêm as boas ideias"](https://www.youtube.com/watch?v=g6tgH2dWx5c) - 2010/11/22
-
---
-
 * [Khan Academy](https://www.khanacademy.org/) | [versão em português](http://www.fundacaolemann.org.br/khanportugues/) - conhecimentos gerais (Matemática, Ciência, Economia e finanças, Humanas e Testes preparatórios)
 
 * [Coursera](https://www.coursera.org/) - os melhores cursos de universidades, online e gratuítos (cursos em inglês)
@@ -353,3 +351,10 @@
   * [Javascript Challenges](https://tcorral.github.io/javascript-challenges-book/) - This book will challenge you to learn and understand the most obscure and tricky parts of Javascript
 
     * [[GitHub] tcorral / javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself to learn and understand the most obscure and tricky parts of Javascript
+
+
+## Criatividade e Idéias
+
+* [[YouTube] Booktrailer: "De onde vêm as boas ideias"](https://www.youtube.com/watch?v=g6tgH2dWx5c) - 2010/11/22
+
+* [[YouTube] A lagarta e a borboleta - da criatividade à inovação: Martha Gabriel at TEDxJardimdasPalmeiras](https://www.youtube.com/watch?v=d9oAIsEBclI) - 2014/02/06
