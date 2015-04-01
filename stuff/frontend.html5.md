@@ -843,6 +843,8 @@
 
 * [Voodoo](http://www.voodoojs.com/) - is a new Javascript framework that lets you easily mix 2D and 3D content together on the same page.
 
+* [[GitHub] PixelsCommander / HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
+
 
 #### Games
 
