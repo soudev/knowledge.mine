@@ -231,6 +231,10 @@
 
 ### Conhecimentos gerais
 
+* [[YouTube] Booktrailer: "De onde vêm as boas ideias"](https://www.youtube.com/watch?v=g6tgH2dWx5c) - 2010/11/22
+
+--
+
 * [Khan Academy](https://www.khanacademy.org/) | [versão em português](http://www.fundacaolemann.org.br/khanportugues/) - conhecimentos gerais (Matemática, Ciência, Economia e finanças, Humanas e Testes preparatórios)
 
 * [Coursera](https://www.coursera.org/) - os melhores cursos de universidades, online e gratuítos (cursos em inglês)
