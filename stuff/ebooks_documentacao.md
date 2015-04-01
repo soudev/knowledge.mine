@@ -299,6 +299,8 @@
 
 * [[YouTube] Hacking language learning: Benny Lewis at TEDxWarsaw](https://www.youtube.com/watch?v=0x2_kWRB8-A) - 2013/05/15
 
+* [[YouTube] Hacking Language Learning: Dr. Conor Quinn at TEDxDirigo](https://www.youtube.com/watch?v=6a6vVIdQBd0) - 2012/11/23
+
 * [Como melhorar o listening? A dica que você nunca ouviu... | Tecla SAP :: Dicas de Inglês](http://www.teclasap.com.br/como-melhorar-o-listening-a-dica-que-voce-nunca-ouviu/) - Defina expectativas reais antes de tentar melhorar o listening. Lembre-se de que o inglês é idioma falado em muitos países e com muitos sotaques diferentes
 
 * [An Introduction to the IPA | English Teacher Melanie](http://www.englishteachermelanie.com/an-introduction-to-the-ipa/)
