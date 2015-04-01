@@ -297,6 +297,8 @@
 
 * [[YouTube] 5 techniques to speak any language | Sid Efromovich | TEDxUpperEastSide](https://www.youtube.com/watch?v=-WLHr1_EVtQ) - 2013/08/30
 
+* [[YouTube] Breaking the language barrier | Tim Doner | TEDxTeen 2014](https://www.youtube.com/watch?v=xNmf-G81Irs) - 2014/03/09
+
 * [[YouTube] Hacking language learning: Benny Lewis at TEDxWarsaw](https://www.youtube.com/watch?v=0x2_kWRB8-A) - 2013/05/15
 
 * [[YouTube] Hacking Language Learning: Dr. Conor Quinn at TEDxDirigo](https://www.youtube.com/watch?v=6a6vVIdQBd0) - 2012/11/23
