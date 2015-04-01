@@ -76,6 +76,8 @@
 
   * [Bastter](http://www.bastter.com/) - o melhor amigo do investidor
 
+* [[YouTube] 15 steps to become a millionaire: Manuel Forjaz at TEDxCascais](https://www.youtube.com/watch?v=vuAEIkIGxcg) - 2012/03/16
+
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
 
 * ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
