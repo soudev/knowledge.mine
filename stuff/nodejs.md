@@ -505,6 +505,8 @@
 
   * [[GitHub] ruipgil / scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper
 
+  * [[GitHub] molekilla / menio](https://github.com/molekilla/menio) - production-quality template convention to scrap web sites based on cheerio
+
 * [[GitHub] inikulin / ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing. The easy way.
 
 * [[GitHub] missinglink / huntsman](https://github.com/missinglink/huntsman) - Super configurable async web spider
