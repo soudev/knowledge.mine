@@ -964,6 +964,8 @@
 
   * [Wintersmith Creating Documentation | Composite Code](http://compositecode.com/2014/02/17/wintersmith-documentation/)
 
+  * [Getting Started with Wintersmith: A Node.js-based Static Site Generator | SitePoint](http://www.sitepoint.com/getting-started-wintersmith-nodejs-static-site-generator/)
+
 * [[GitHub] ktsashes / FruitJS](https://github.com/ktsashes/FruitJS) - A Node.js script for turning your markdown documentation into a fully functional site
 
   * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
