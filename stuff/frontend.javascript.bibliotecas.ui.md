@@ -173,6 +173,8 @@
 
   * [React Components](http://react-components.com/)
 
+  * [React.parts](http://react.parts/)  - A catalog of React Native components
+
 * [[GitHub] enaqx / awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome React libraries, resources and shiny things
 
 --
