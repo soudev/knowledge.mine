@@ -364,6 +364,8 @@
 
 * [Why port Docker to the Raspberry Pi? | Resin.io](http://resin.io/why-port-docker-to-the-raspberry-pi/)
 
+* [How to use Docker Compose to run complex multi container apps on your Raspberry Pi | Docker Pirates ARMed with explosive stuff](http://blog.hypriot.com/post/docker-compose-nodejs-haproxy/)
+
 
 ### Caso de Uso
 
