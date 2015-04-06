@@ -115,6 +115,10 @@
 
   * [Front-end Driven Applications – A New Approach to Applications | Telerik Developer Network](http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/) - 2014/09/30
 
+--
+
+* [Multi Sensory Application](https://multisensory.github.io/) - Principles of Multi-Sensory Applications. Your CRUDy Software Needs a New Brain.
+
 
 ### Pomodoro
 
