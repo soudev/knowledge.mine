@@ -66,6 +66,8 @@
 
 * [Puppet e Vagrant: Como provisionar máquinas para seu projeto | ThoughtWorks](http://www.thoughtworks.com/insights/blog/puppet-e-vagrant-como-provisionar-maquinas-para-seu-projeto)
 
+* [[GitHub] DrewDahlman / vagrant-puppet-boilerplate](https://github.com/DrewDahlman/vagrant-puppet-boilerplate) - Vagrant + Puppet + Rails + Nginx + Unicorn = awesome sauce
+
 --
 
 * [Usando o Vagrant como ambiente de desenvolvimento no Windows - Simples Ideias](http://simplesideias.com.br/usando-o-vagrant-como-ambiente-de-desenvolvimento-no-windows)
