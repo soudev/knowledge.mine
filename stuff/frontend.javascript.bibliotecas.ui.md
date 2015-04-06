@@ -322,6 +322,10 @@
 
 ### Diagramas
 
+* [10 JavaScript libraries to draw your own diagrams | Modeling Languages](http://modeling-languages.com/javascript-drawing-libraries-diagrams/) - A list of the best JavaScript drawing libraries we have found. With them you can easily bring your diagrams online!
+
+--
+
 * [JS Sequence Diagrams](https://github.com/bramp/js-sequence-diagrams) - Draws simple SVG sequence diagrams from textual representation of the diagram
 
 * [JointJS](http://www.jointjs.com/) - the HTML 5 JavaScript diagramming library
