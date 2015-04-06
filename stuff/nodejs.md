@@ -956,11 +956,11 @@
 
 * [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
 
-  * [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
+  * [Metalsmith Part 1: Setting Up the Forge | Robin Thrift](http://www.robinthrift.com/posts/metalsmith-part-1-setting-up-the-forge/)
+
+* [Wintersmith](http://wintersmith.io/) - flexible, minimalistic, multi-platform static site generator built on top of Node.js
 
   * [Wintersmith: Aprendendo outro gerador de conteúdo estático | Tableless](http://tableless.com.br/wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/)
-
-  * [Metalsmith Part 1: Setting Up the Forge | Robin Thrift](http://www.robinthrift.com/posts/metalsmith-part-1-setting-up-the-forge/)
 
   * [Wintersmith Creating Documentation | Composite Code](http://compositecode.com/2014/02/17/wintersmith-documentation/)
 
