@@ -1663,6 +1663,12 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [NPM for Everything | Alexander Beletsky](http://beletsky.net/2015/04/npm-for-everything.html) - NPM as dependency manager, task runner both for front and back end.
+
+  * [[GitHub] alexbeletsky / brick](https://github.com/alexbeletsky/brick) - My boilerplate project for Node.js / React.js development
+
+--
+
 * [[GitHub] cmtt / depwalk](https://github.com/cmtt/depwalk) - Walk through and verify your bower and npm dependencies
 
 * [Stay up-to-date with Node.js packages using npm-onupdate service | Piotr Walczyszyn's Blog](http://outof.me/stay-up-to-date-with-node-js-packages-using-npm-onupdate-service/)
