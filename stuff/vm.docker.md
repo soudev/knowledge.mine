@@ -208,6 +208,8 @@
 
 * [Dockerizing Mule ESB Enterprise | codecentric Blog](https://blog.codecentric.de/en/2014/10/dockerizing-mule-esb-enterprise/)
 
+* [Running a Selenium Grid using Docker and Compose | Nightlight](http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/)
+
 
 ### Private Registry
 
