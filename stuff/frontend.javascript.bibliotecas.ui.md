@@ -259,6 +259,8 @@
 
 * [[GitHub] plaxdan / react-topcoat](https://github.com/plaxdan/react-topcoat) - Topcoat components built with the React library
 
+* [React: HotKeys, Google Maps, Dataminr's UI Components | DailyJS](http://dailyjs.com/2015/04/07/react-components/)
+
 --
 
 * [Sample Mobile Application with React and Cordova | Christophe Coenraets](http://coenraets.org/blog/2014/12/sample-mobile-application-with-react-and-cordova/)
