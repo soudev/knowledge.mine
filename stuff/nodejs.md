@@ -513,6 +513,8 @@
 
 * [[GitHub] addyosmani / oust](https://github.com/addyosmani/oust) - Extract URLs to stylesheets, scripts, links, images or HTML imports from HTML
 
+* [[GitHub] rc0x03 / node-osmosis](https://github.com/rc0x03/node-osmosis) - HTML/XML parser and web scraper for NodeJS.
+
 --
 
 * [Running and debugging Node.js application | JetBrains WebStorm Blog](http://blog.jetbrains.com/webstorm/2014/02/running-and-debugging-node-js-application/)
