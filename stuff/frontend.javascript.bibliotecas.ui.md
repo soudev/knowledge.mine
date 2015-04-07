@@ -285,6 +285,10 @@
 
 --
 
+* [[GitHub] Chrisui / react-hotkeys](https://github.com/Chrisui/react-hotkeys) - Declarative hotkey and focus area management for React
+
+--
+
 * [[GitHub] Flipboard / react-canvas](https://github.com/flipboard/react-canvas) - High performance <canvas> rendering for React components
 
   * [60fps on the mobile web | Flipboard Engineering](http://engineering.flipboard.com/2015/02/mobile-web/)
