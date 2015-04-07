@@ -245,6 +245,8 @@
 
 --
 
+* [Flux](https://facebook.github.io/flux/)
+
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 * [[GitHub] yahoo / flux-examples](https://github.com/yahoo/flux-examples) - Isomorphic React + Flux examples using Dispatchr, Fetchr, and Routr
