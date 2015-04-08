@@ -382,6 +382,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [5 AngularJS Antipatterns & Pitfalls | nathan leclaire](http://nathanleclaire.com/blog/2014/04/19/5-angularjs-antipatterns-and-pitfalls/) - 2014/04/19
 
+* [[GitHub] mgechev / angularjs-in-patterns](https://github.com/mgechev/angularjs-in-patterns) - [AngularJS in patterns](https://mgechev.github.io/angularjs-in-patterns/) - this repository provides different look into AngularJS. It contains information where different design patterns are used inside the framework or any AngularJS application.
+
 --
 
 * [A small introduction to AngularJS : data-binding, IoC/DI, directives](http://derkoe.github.io/presentations/angularjs-intro/)
