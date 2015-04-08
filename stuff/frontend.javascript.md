@@ -1772,6 +1772,8 @@
 
 --
 
+* [Deploying ECMAScript 6 | 2ality](http://www.2ality.com/2015/04/deploying-es6.html)
+
 * [ECMAScript 6 modules: the final syntax | 2ality](http://www.2ality.com/2014/09/es6-modules-final.html)
 
 * [Variables and scoping in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-scoping.html)
