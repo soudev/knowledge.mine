@@ -279,6 +279,8 @@
 
 * [[GitHub] andrewgleave / react-weather](https://github.com/andrewgleave/react-weather) - Example React weather app using forecast.io's API
 
+* [[GitHub] ruanyf / react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
+
 --
 
 * [[GitHub] PixelsCommander / ReactiveElements](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component)
