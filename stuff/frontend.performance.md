@@ -36,6 +36,8 @@
 
 --
 
+* [5 Ways to Make Your Site Smaller and Faster | DWB](http://davidwalsh.name/site-speed) - 2015/02/08
+
 * [9 ways to optimize your front end performance | Tech.Pro](http://tech.pro/tutorial/1254/9-ways-to-optimize-your-front-end-performance)
 
 * [9 More Ways to Optimize Your Front End Performance | Tech.Pro](http://tech.pro/tutorial/1261/9-more-ways-to-optimize-your-front-end-performance)
