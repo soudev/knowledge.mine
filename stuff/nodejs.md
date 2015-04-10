@@ -509,6 +509,8 @@
 
   * [[GitHub] molekilla / menio](https://github.com/molekilla/menio) - production-quality template convention to scrap web sites based on cheerio
 
+  * [[GitHub] facundoolano / google-play-scraper](https://github.com/facundoolano/google-play-scraper) - scrapes basic app data from google play store
+
 * [[GitHub] inikulin / ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing. The easy way.
 
 * [[GitHub] missinglink / huntsman](https://github.com/missinglink/huntsman) - Super configurable async web spider
