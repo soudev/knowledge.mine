@@ -1408,7 +1408,7 @@
 
 * [Criando uma ferramenta de CLI com NodeJS | Da2k Blog](http://blog.da2k.com.br/2015/03/20/criando-uma-ferramenta-de-cli-com-nodejs/)
 
-* [Construindo ferramentas de linha de comando com node.js | @millermedeiros / Abril 2015](http://slides.millermedeiros.com/nodebr/cli/)
+* [Construindo ferramentas de linha de comando com node.js | @millermedeiros / Abril 2015](http://slides.millermedeiros.com/nodebr/cli/) - Dicas de como estruturar ferramentas de linha de comando, facilitando a manutenção e aumentando a flexibilidade dos programas. Introdução básica sobre princípios de design do UNIX, principalmente sobre modularidade, composição e boas práticas.
 
 --
 
