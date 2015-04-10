@@ -247,6 +247,10 @@
 
 ### Conhecimentos gerais
 
+* [[GitHub] prakhar1989 / awesome-courses](https://github.com/prakhar1989/awesome-courses) - List of awesome university courses for learning Computer Science!
+
+--
+
 * [Khan Academy](https://www.khanacademy.org/) | [versão em português](http://www.fundacaolemann.org.br/khanportugues/) - conhecimentos gerais (Matemática, Ciência, Economia e finanças, Humanas e Testes preparatórios)
 
 * [Coursera](https://www.coursera.org/) - os melhores cursos de universidades, online e gratuítos (cursos em inglês)
