@@ -1355,6 +1355,8 @@
 
 ### fake data
 
+* [MockBin](http://mockbin.com/) - allows you to generate custom endpoints to test, mock, and track HTTP requests & responses between libraries, sockets and APIs.
+
 * [Testing Private State and Mocking Dependencies | How To Node - NodeJS](http://howtonode.org/testing-private-state-and-mocking-deps)
 
 * [[GitHub] Marak / Faker.js](https://github.com/marak/Faker.js) - Generate fake data in the browser and Node.js with FakerJS
