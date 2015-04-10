@@ -497,6 +497,8 @@
 
 * [[GitHub] MatthewMueller / cheerio](https://github.com/MatthewMueller/cheerio)
 
+  * [Web Scraping With Node.js | Smashing Magazine](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - 2015/04/08
+
   * [Use Node.js to Extract Data from the Web for Fun and Profit | Stormin' The Castle](http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/)
 
   * [Mineração de dados e as funções map, reduce e filter | NodeBR - NodeJS Brasil](http://nodebr.com/mineracao-de-dados-e-as-funcoes-map-reduce-filter/)
@@ -512,6 +514,8 @@
 * [[GitHub] missinglink / huntsman](https://github.com/missinglink/huntsman) - Super configurable async web spider
 
 * [[GitHub] addyosmani / oust](https://github.com/addyosmani/oust) - Extract URLs to stylesheets, scripts, links, images or HTML imports from HTML
+
+* [[GitHub] dharmafly / noodle](https://github.com/dharmafly/noodle) - A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST
 
 * [[GitHub] rc0x03 / node-osmosis](https://github.com/rc0x03/node-osmosis) - HTML/XML parser and web scraper for NodeJS.
 
@@ -839,8 +843,6 @@
 --
 
 * [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command 
-
-* [[GitHub] dharmafly / noodle](https://github.com/dharmafly/noodle) - A node server and module which allows for cross-domain page scraping on web documents with JSONP or POST
 
 --
 
