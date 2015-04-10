@@ -285,6 +285,10 @@ git clean -fd
 
 --
 
+* [Git Large File Storage (LFS)](https://git-lfs.github.com/) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
+
+--
+
 * [[GitHub] zeke / ghwd](https://github.com/zeke/ghwd) - Open the github URL that matches your shell's current branch and working directory | mac and linux terminal utils
 
 --
