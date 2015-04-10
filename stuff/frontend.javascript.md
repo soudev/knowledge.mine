@@ -845,6 +845,10 @@
 
 ### Sistema de Dependências e Módulos
 
+* [The mind-boggling universe of JavaScript Module strategies | airpair](https://www.airpair.com/javascript/posts/the-mind-boggling-universe-of-javascript-modules) - This article exposes the foundations of different JavaScript Module strategies such as ad hoc, CommonJS, AMD and ES6 modules, and how to get started with ES6 modules right now.
+
+--
+
 * [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
 * [[GitHub] wilmoore / frontend-packagers](https://github.com/wilmoore/frontend-packagers) - Front-End Package Manager Comparison
