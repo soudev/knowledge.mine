@@ -1754,6 +1754,8 @@
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
 
+* [Easing the Transition to ES6 | ifwe](http://www.ifwe.co/code/posts/easing-the-transition-to-es6/)
+
 --
 
 * [Expert ES6 | tagtree.io](http://tagtree.io/courses/expert-es6/do) - An ES6 Course in the Browser 
