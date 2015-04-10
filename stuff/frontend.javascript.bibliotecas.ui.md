@@ -90,9 +90,9 @@
 
 --
 
-* [[GitHub] VeriteCo / TimelineJS](https://github.com/VeriteCo/TimelineJS) - A Storytelling Timeline built in JavaScript. 
+* [[GitHub] NUKnightLab / TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript. 
 
-  * [Timeline JS](http://timeline.verite.co/) - Beautifully crafted timelines that are easy, and intuitive to use.
+  * [Timeline JS](http://timeline.knightlab.com/) - Beautifully crafted timelines that are easy, and intuitive to use.
 
   * [Timeline Portfolio | Tutorialzine](http://tutorialzine.com/2012/04/timeline-portfolio/)
 
