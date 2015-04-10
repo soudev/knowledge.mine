@@ -683,6 +683,10 @@
 
 --
 
+* [[GitHub] vlandham / js_data](https://github.com/vlandham/js_data) - Data manipulation and processing in JavaScript | [LearnJSData](http://learnjsdata.com/)
+
+--
+
 * [Convert XML to JSON with JavaScript | David Walsh](http://davidwalsh.name/convert-xml-json)
 
 --
