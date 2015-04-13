@@ -288,6 +288,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Cheat Sheet](http://www.cheatography.com/proloser/cheat-sheets/angularjs/)
 
+* [[PDF] The Ultimate AngularJS CheatSheet | dncmagazine](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
+
 --
 
 * [Recipes with Angular.js](http://fdietz.github.io/recipes-with-angular-js/) - A community project dedicated to collecting resources for the Angular.js framework. You find here easy to follow cookbook style recipes for issues you are likely to face when working with Angular.js.
