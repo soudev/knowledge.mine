@@ -1422,6 +1422,16 @@
 
 * [[GitHub] f / omelette](https://github.com/f/omelette) - Omelette.js Simple Autocompletion Helper for Node
 
+-- 
+
+* [[GitHub] sindresorhus / wallpaper](https://github.com/sindresorhus/wallpaper) - Get or set the desktop wallpaper
+
+  * [[GitHub] sindresorhus / node-osx-wallpaper](https://github.com/sindresorhus/node-osx-wallpaper) - Get or set the desktop wallpaper on OS X
+
+  * [[GitHub] sindresorhus / linux-wallpaper](https://github.com/sindresorhus/linux-wallpaper) - Get or set the desktop wallpaper on Linux
+
+  * [[GitHub] sindresorhus / win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Get or set the desktop wallpaper on Windows
+
 
 ### process manager
 
