@@ -2033,6 +2033,7 @@ $ sudo chown -R `whoami` .npm
 
 * [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
 
+* [Build a Node.js-powered Chatroom Web App: Node, MongoDB and Socket | SitePoint](http://www.sitepoint.com/build-node-js-powered-chatroom-web-app-node-mongodb-socket/)
 
 * Underground WebDev
 
