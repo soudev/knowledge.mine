@@ -1221,6 +1221,8 @@
 
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
+* [[GitHub] sloisel / numeric](https://github.com/sloisel/numeric) -  is a javascript library for doing numerical analysis in the browser - [NumericJS](http://www.numericjs.com/)
+
 * [[GitHub] adamwdraper / Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers
 
 * [[GitHub] MikeMcl / big.js](https://github.com/MikeMcl/big.js) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic
