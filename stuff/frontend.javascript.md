@@ -441,6 +441,10 @@
 
 --
 
+* [Determine If A Number Is Prime Using JavaScript](https://blog.nraboy.com/2015/04/determine-if-a-number-is-prime-using-javascript/)
+
+--
+
 * [Medindo a complexidade do seu código JavaScript | Tableless](http://tableless.com.br/medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/)
 
 * [Defensive JavaScript](http://www.defensivejs.com/)
