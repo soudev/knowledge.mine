@@ -1041,6 +1041,10 @@
 
 --
 
+* [[GitHub] philschatz / octokat.js](https://github.com/philschatz/octokat.js) - Client for the Github API using callbacks or Promises. Intended for the browser or NodeJS.
+
+--
+
 * [FloraJS - JavaScript framework for simulating natural systems](http://www.florajs.com/)
 
 * [Lena.JS](https://github.com/davidsonfellipe/lena-js/) - biblioteca de filtros para processamento de imagens usando JavaScript.
