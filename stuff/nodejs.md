@@ -2158,6 +2158,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] mochajs / mocha](https://github.com/mochajs/mocha) - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces)
 
+  * [Getting started with Node.js and Mocha | Semaphore](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
+
 
 ### Ferramentas
 
