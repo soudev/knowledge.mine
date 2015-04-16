@@ -186,6 +186,8 @@
 
 --
 
+* [[Speaker Deck] Playground with canvas - Raphael Amorim](https://speakerdeck.com/raphamorim/playground-with-canvas) - Canvas é uma tela de bitmap que pode ser usada para a renderização de elementos gráficos ou outras imagens visuais rapidamente. No HTML5 ele permite que se desenhem elementos gráficos usando JavaScript. Vamos abordar funcionalidades e recursos e porque você deveria estar pensando em utilizar o canvas no seu próximo projeto.
+
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
 
 * [Exploring canvas drawing techniques | Perfection kills](http://perfectionkills.com/exploring-canvas-drawing-techniques/)
