@@ -2043,6 +2043,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] LearnBoost / engine.io](https://github.com/learnboost/engine.io) - is the implementation of transport-based cross-browser/cross-device bi-directional communication layer for Socket.IO.
 
+* [[GitHub] Ezelia / eureca.io](https://github.com/Ezelia/eureca.io) - eureca.io : a nodejs bidirectional RPC using primus as transport layer
+
 * [The Realtime Engine | Devthought](http://www.devthought.com/2012/07/07/the-realtime-engine/)
 
 * [Token-based Authentication with Socket.IO | Auth0](http://blog.auth0.com/2014/01/15/auth-with-socket-io/)
