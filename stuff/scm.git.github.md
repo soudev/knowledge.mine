@@ -552,6 +552,12 @@ git clean -fd
 
 * [GitHub Pages](https://pages.github.com/)
 
+--
+
+* [[GitHub] js-org / dns](https://github.com/js-org/dns) - free and short JS.ORG domains for GitHub Pages
+
+--
+
 * [Publicando páginas HTML+JS+CSS diretamente no GitHub - gist:833223](https://gist.github.com/chrisjacob/833223)
 
 * [Criando páginas web para seus repositórios com o GitHub Pages | Tableless](http://tableless.com.br/criando-paginas-web-para-seus-repositorios-com-o-github-pages/)
