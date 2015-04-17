@@ -227,6 +227,8 @@
 
 * [[YouTube] Accelerated Learning: How To Get Good at Anything in 20 Hours](https://www.youtube.com/watch?v=lB6K60mkmho) - 2013/06/26
 
+* [[YouTube] How to Learn Anything... Fast - Josh Kaufman](https://www.youtube.com/watch?v=EtJy69cEOtQ) - 2013/09/11
+
 
 ## Criatividade e Idéias
 
