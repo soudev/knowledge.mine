@@ -225,6 +225,8 @@
 
 * [[YouTube] The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) - 2013/03/14
 
+* [[YouTube] Accelerated Learning: How To Get Good at Anything in 20 Hours](https://www.youtube.com/watch?v=lB6K60mkmho) - 2013/06/26
+
 
 ## Criatividade e Idéias
 
