@@ -1781,6 +1781,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] BagosGiAr / modQuery](https://github.com/BagosGiAr/modQuery) - A module to use for MySQL queries with respect to SQL.
 
+* [[GitHub] tracker1 / mssql-ng](https://github.com/tracker1/mssql-ng) - Next Generation MS-SQL Client Interface for Node.js/io.js
+
 --
 
 * [[GitHub] punkave / prettiest](https://github.com/punkave/prettiest) - Improbably easy data storage and locking for command line scripts. Pairs well with shelljs and a nice chianti.
