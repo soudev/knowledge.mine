@@ -2119,6 +2119,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [DRY dependency injection in Angular with gulp-ng-annotate | Christian Fei](http://christian.fei.ninja/dry-dependency-injection-in-angular-with-gulp-ng-annotate/)
 
+* [What every Angular project likely needs - and a Gulp build to provide it | Web Code Geeks](http://www.webcodegeeks.com/javascript/angular-js/every-angular-project-likely-needs-gulp-build-provide)
+
+* [[GitHub] jhades / angularjs-gulp-todo](https://github.com/jhades/angularjs-gulp-todo) - Angular Gulp baseline build
+
 
 ### MEAN Stack
 
