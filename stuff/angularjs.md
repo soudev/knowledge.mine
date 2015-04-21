@@ -887,6 +887,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Boost the Performance of AngularJS Application Using Immutable Data | Minko Gechev's blog](http://blog.mgechev.com/2015/03/02/immutability-in-angularjs-immutablejs/)
 
+  * [Boost the Performance of an AngularJS Application Using Immutable Data - Part 2 | Minko Gechev's blog](http://blog.mgechev.com/2015/04/11/immutability-in-angularjs-immutablejs-part-2/)
+
 * Virtual DOM
 
   * [[GitHub] teropa / angular-virtual-dom](https://github.com/teropa/angular-virtual-dom) - A Virtual DOM based AngularJS view renderer designed to be used with immutable data structures
