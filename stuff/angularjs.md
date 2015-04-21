@@ -2237,6 +2237,8 @@ describe('testing something...', function() {
 
 * [Angular — Unit Testing with Jasmine | Medium — AngularJs Meetup — South London](https://medium.com/angularjs-meetup-south-london/angular-unit-testing-with-jasmine-24795a44998e)
 
+* [Unit Testing in AngularJS: Services, Controllers & Providers | SitePoint](http://www.sitepoint.com/unit-testing-angularjs-services-controllers-providers/)
+
 --
 
 * [[JSFiddle] Angular unit tests - timeout, exception](http://jsfiddle.net/eitanp461/vWecL/)
