@@ -113,6 +113,8 @@
 
 * [[YouTube] ng-conf 2014](https://www.youtube.com/user/ngconfvideos)
 
+* [ng-wat And The Story Behind It | airpair](https://www.airpair.com/angularjs/posts/ng-wat-and-the-story-behind-it)
+
 
 ### Angular.js 2.0
 
