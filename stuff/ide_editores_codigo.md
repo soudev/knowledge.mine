@@ -147,6 +147,8 @@
 
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
 
+* [AtomPair, The Ultimate Pair Programming Experience for Atom.IO | Pusher Blog](https://blog.pusher.com/atom-pair/)
+
 --
 
 * [Nuclide](http://nuclide.io/) - Open source IDE for React Native, web and native mobile development, built on Atom
