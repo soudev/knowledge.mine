@@ -1374,6 +1374,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
     * [[GitHub] ccoenraets / ioconf](https://github.com/ccoenraets/ioconf) - Conference sample app built with AngularJS and Ionic
 
+  * [[GitHub] ccoenraets / ionic-slides](https://github.com/ccoenraets/ionic-slides) - Slides for my Ionic talk at the Fluent Conference, April 21st 2015.
+
 --
 
 * The dynamic programmer 

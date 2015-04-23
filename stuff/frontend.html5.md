@@ -1025,6 +1025,8 @@
 
   * [Ionic – Mobile UI Framework for PhoneGap/Cordova Developers | Devgirl's Weblog](http://devgirl.org/2014/01/20/ionic-mobile-ui-framework-for-phonegapcordova-developers/)
 
+  * [[GitHub] ccoenraets / ionic-slides](https://github.com/ccoenraets/ionic-slides) - Slides for my Ionic talk at the Fluent Conference, April 21st 2015.
+
 
 ##### Firefox OS
 
