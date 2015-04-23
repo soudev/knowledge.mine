@@ -719,6 +719,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
 
+* [AngularJS e D3, brincando com SVG | JandersonFC](http://jandersonfc.com/angularjs-e-d3-brincando-com-svg/)
+
+  * [[GitHub] jandersonfc / d3-angularjs-directives](https://github.com/jandersonfc/d3-angularjs-directives)
+
 * [D3.js on AngularJS | ng-newsletter](http://www.ng-newsletter.com/posts/d3-on-angular.html) | [[GitHub] EpiphanyMachine / d3AngularIntegration](https://github.com/EpiphanyMachine/d3AngularIntegration) - A tutorial about the integration of d3 and Angular Directives
 
 * [Slides from my Angular + D3 meetup talk at Google](https://vicapow.github.io/angular-d3-talk/slides/) - by @vicapow
