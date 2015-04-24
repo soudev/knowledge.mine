@@ -1898,6 +1898,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] giuliandrimba / s3-pusher](https://github.com/giuliandrimba/s3-pusher) - Publish assets to Amazon's S3 service via CLI
 
+* [[GitHub] visionmobile / bloody-simple-s3](https://github.com/visionmobile/bloody-simple-s3) - A bloody simple S3 client, based on the official AWS SDK
+
 
 #### Windows Azure
 
