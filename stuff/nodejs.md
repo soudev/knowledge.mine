@@ -1439,6 +1439,8 @@
 
 ### process manager
 
+* [[GitHub] Kikobeats / oh-my-terminal](https://github.com/Kikobeats/oh-my-terminal) - Simple and unmistakable terminal interface for NodeJS
+
 * [Topic: Automatically restart your node.js server after code updates | StrongLoop](http://strongloop.com/node-republic-topics/automatically-restart-your-node-js-server-after-code-updates/)
 
 * [Comparison: Tools to Automate Restarting Node.js Server After Code Changes | StrongLoop](http://strongloop.com/strongblog/comparison-tools-to-automate-restarting-node-js-server-after-code-changes-forever-nodemon-nodesupervisor-nodedev/)
