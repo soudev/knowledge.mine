@@ -372,6 +372,8 @@
 
 * [[GitHub] madbence / node-drawille](https://github.com/madbence/node-drawille) - Drawing in terminal with unicode braille characters
 
+* [[GitHub] bevacqua / hit-that](https://github.com/bevacqua/hit-that) - Render beautiful pixel perfect representations of websites in your terminal
+
 --
 
 * [PhantomJS Screen Capture](http://phantomjs.org/screen-capture.html)
