@@ -370,6 +370,10 @@
 
 --
 
+* [Ruby Monk](https://rubymonk.com/) - Free, interactive tutorials to help you discover Ruby idioms, in your browser!
+
+--
+
 * [Programming | GitBook](https://www.gitbook.io/explore/cat/programming)
 
   * [Learn Markdown | GitBook](https://gitbookio.github.io/markdown/)
