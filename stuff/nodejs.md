@@ -1735,6 +1735,12 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] sequelize / sequelize](https://github.com/sequelize/sequelize/) - Sequelize is an easy-to-use multi sql dialect ORM for Node.js & io.js. It currently supports MySQL, MariaDB, SQLite, PostgreSQL and MSSQL.
+
+  * [PostgreSQL, MySQL, MariaDB, SQLite e MSSQL no Node.js | Alan Hoffmeister](https://alanhoff.com/posts/postgresql-mysql-mariadb-sqlite-e-mssql-no-nodejs.html)
+
+--
+
 * [[GitHub] louischatriot / nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
 
   * [NeDB: SQLite for Node | DailyJS](http://dailyjs.com/2013/08/01/nedb/)
