@@ -1517,6 +1517,8 @@
 
 * [[GitHub] jaredwilli / devtools-cheatsheet](https://github.com/jaredwilli/devtools-cheatsheet) - A cheatsheet for developers using Chrome DevTools
 
+* [[GitHub] andersonweb / DevTools-Learning](https://github.com/andersonweb/DevTools-Learning) - List of resources to learn Chrome DevTools
+
 --
 
 * [Segredos do Chrome DevTools (Portuguese) | YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d) - Zeno Roch
