@@ -1741,6 +1741,16 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] mapbox / stickshift](https://github.com/mapbox/stickshift) - A clean & modern SQL data interface
+
+--
+
+* [[GitHub] BagosGiAr / modQuery](https://github.com/BagosGiAr/modQuery) - A module to use for MySQL queries with respect to SQL.
+
+* [[GitHub] tracker1 / mssql-ng](https://github.com/tracker1/mssql-ng) - Next Generation MS-SQL Client Interface for Node.js/io.js
+
+--
+
 * [[GitHub] louischatriot / nedb](https://github.com/louischatriot/nedb) - Embedded datastore for node.js
 
   * [NeDB: SQLite for Node | DailyJS](http://dailyjs.com/2013/08/01/nedb/)
@@ -1780,16 +1790,6 @@ $ sudo chown -R `whoami` .npm
 --
 
 * [[GitHub] maritz / nohm](https://github.com/maritz/nohm) - node.js implementation of a redis object relations mapper (orm). High speed queries with this ODM for Redis
-
---
-
-* [[GitHub] mapbox / stickshift](https://github.com/mapbox/stickshift) - A clean & modern SQL data interface
-
---
-
-* [[GitHub] BagosGiAr / modQuery](https://github.com/BagosGiAr/modQuery) - A module to use for MySQL queries with respect to SQL.
-
-* [[GitHub] tracker1 / mssql-ng](https://github.com/tracker1/mssql-ng) - Next Generation MS-SQL Client Interface for Node.js/io.js
 
 --
 
