@@ -125,7 +125,7 @@
 
 * [JSON Editor Online - view, edit and format JSON](http://jsoneditoronline.org/)
 
-* [JSON Generator](http://www.json-generator.com/)
+* [JSON Generator](http://www.json-generator.com/) - Accounts, templates sharing, forking and more!
 
 --
 
