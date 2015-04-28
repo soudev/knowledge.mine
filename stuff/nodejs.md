@@ -2184,6 +2184,10 @@ $ sudo chown -R `whoami` .npm
 
 * [Node.js for Visual Studio | CodePlex](https://nodejstools.codeplex.com/)
 
+* [[GitHub] Microsoft / nodejstools](https://github.com/Microsoft/nodejstools) - NTVS is a free, open source plugin that turns Visual Studio into a Node.js IDE.
+
+--
+
 * [Introducing node.js Tools for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingNodejsToolsForVisualStudio.aspx)
 
 * [Node.js support in Visual Studio? You bet your IDE | StrongLoop](http://strongloop.com/strongblog/node-js-support-in-visual-studio-you-bet-your-ide/)
