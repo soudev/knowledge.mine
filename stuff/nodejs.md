@@ -1929,6 +1929,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Build Desktop Application Using Node.js | Shift8Creative](http://www.shift8creative.com/posts/view/build-desktop-application-using-node-js) - A Quickstart using AppJs
 
+* [[GitHub] atom / electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. Formerly known as Atom Shell.
+
 * [[GitHub] appjs / appjs](https://github.com/appjs/appjs) - SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
 
 * [[GitHub] arturadib / node-qt](https://github.com/arturadib/node-qt) - Qt bindings for Node.js
