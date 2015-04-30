@@ -69,6 +69,8 @@
 
 * [Hyro - cross-platform, real-time HTML5 editor](http://jawerty.github.io/Hyro/) - is a live HTML editor for creating webpages on your desktop and in real-time.
 
+* [Visual Studio Code](https://code.visualstudio.com/) - Code focused development. Redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
+
 
 ### Eclipse IDE
 
