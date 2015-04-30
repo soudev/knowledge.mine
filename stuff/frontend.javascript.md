@@ -1221,6 +1221,12 @@
 
 * [[GitHub] marcoscaceres / jsi18n](https://github.com/marcoscaceres/jsi18n) | [site](http://marcoscaceres.github.io/jsi18n/) - Using the JavaScript Internationalization API
 
+* [[GitHub] jquery / globalize](https://github.com/jquery/globalize) - A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data
+
+  * [Announcing Globalize 1.0 | Official jQuery Blog](http://blog.jquery.com/2015/04/23/announcing-globalize-1-0/)
+
+  * [[GitHub] rxaviers / javascript-globalization](https://github.com/rxaviers/javascript-globalization) - The globalization (internationalization and localization) farm of the JavaScript community.
+
 --
 
 * [[GitHub] Khan / KaTeX](https://github.com/Khan/KaTeX) - is a fast, easy-to-use JavaScript library for TeX math rendering on the web
