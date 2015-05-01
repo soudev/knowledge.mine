@@ -14,3 +14,8 @@
   * [Console2 - A Better Windows Command Prompt | Scott Hanselman](http://www.hanselman.com/blog/Console2ABetterWindowsCommandPrompt.aspx)
 
 * [cmder | Console Emulator](https://bliker.github.io/cmder/) -Portable console emulator for Windows
+
+
+## Jogos 
+
+* [Software Library: MS-DOS Games : Free Software : Download & Streaming | Internet Archive](https://archive.org/details/softwarelibrary_msdos_games) - Software for MS-DOS machines that represent entertainment and games. The collection includes action, strategy, adventure and other unique genres of game and entertainment software. Through the use of the EM-DOSBOX in-browser 
