@@ -300,6 +300,10 @@
 
 * [Você Aprende Agora](http://www.voceaprendeagora.com/) - É um curso de inglês online, com Felipe Dib onde você aprenda rápido e usa o inglês a seu favor.
 
+--
+
+* [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
+
 
 #### Idiomas: Dicas
 
