@@ -2171,6 +2171,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Getting started with Node.js and Jasmine | Semaphore](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-jasmine)
 
+* [[GitHub] dareid / chakram](https://github.com/dareid/chakram) - REST API test framework. BDD and exploits promises
+
 
 #### Test Runner
 
