@@ -1131,6 +1131,8 @@
 
 * [Writing Node.js Addons | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/writing-nodejs-addons--cms-21771)
 
+* [Shared memory with node.js | Varuna Jayasiri](http://blog.varunajayasiri.com/shared-memory-with-nodejs) - This is more like a tutorial on writing a simple node.js add-on to share memory among node.js processes. One of the limitations of node.js/io.js is that they are single threaded.
+
 --
 
 * [Atualizando o NodeJS no Linux | Igor Costa](http://www.igorcosta.com/atualizando-o-nodejs-linux/)
