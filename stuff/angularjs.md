@@ -67,6 +67,7 @@
   * [Netbeans IDE](#netbeans-ide)
   * [JetBrains](#jetbrains)
   * [Visual Studio](#visual-studio)
+  * [Visual Studio Code](#visual-studio-code)
 
 <!-- toc stop -->
 
@@ -2479,3 +2480,10 @@ describe('testing something...', function() {
 ### Visual Studio
 
 * [AngularJS Intellisense in Visual Studio 2012 | Mads Kristensen](http://madskristensen.net/post/angularjs-intellisense-in-visual-studio-2012)
+
+
+### Visual Studio Code
+
+* [Visual Studio Code](https://code.visualstudio.com//) - Code focused development. Redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
+
+* [[GitHub] johnpapa / hottowel-angular-typescript](https://github.com/johnpapa/hottowel-angular-typescript) - As seen at //Build 2015 presented by Erich Gamma, Chris Dias and John Papa.
