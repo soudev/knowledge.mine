@@ -212,6 +212,8 @@
 
 * [Arun Gupta: Receitas para publicar aplicações Java EE com Docker e Kubernetes | InfoQ Br](http://www.infoq.com/br/news/2015/05/javaee-docker-kubernetes)
 
+  * [[SlideShare] Package your Java EE Application using Docker and Kubernetes](http://www.slideshare.net/arungupta1/package-your-java-ee-application-using-docker-and-kubernetes)
+
 
 ### Private Registry
 
