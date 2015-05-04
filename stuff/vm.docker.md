@@ -210,6 +210,8 @@
 
 * [Running a Selenium Grid using Docker and Compose | Nightlight](http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/)
 
+* [Arun Gupta: Receitas para publicar aplicações Java EE com Docker e Kubernetes | InfoQ Br](http://www.infoq.com/br/news/2015/05/javaee-docker-kubernetes)
+
 
 ### Private Registry
 
