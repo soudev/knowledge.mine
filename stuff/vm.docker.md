@@ -336,6 +336,8 @@
 
 * [The tale of Docker on Windows (or: I wish I had a Mac)](http://scalableapps.com/the-tale-of-docker-on-windows-or-i-wish-i-had-a-mac/)
 
+* [Docker Machine on Windows - How To Setup You Hosts | Enterprise Software Development with Java](http://blog.eisele.net/2015/05/docker-maschine-on-windows-host-setup-howto.html)
+
 --
 
 * [Running .NET apps on Docker | Randoom](http://friism.com/running-net-apps-on-docker)
