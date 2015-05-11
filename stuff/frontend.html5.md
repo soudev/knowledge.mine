@@ -154,6 +154,8 @@
 
 * [Google Web Designer](https://www.google.com/webdesigner/) - Create engaging, interactive HTML5-based designs and motion graphics that can run on any device.
 
+* [Canva](https://www.canva.com/) - gives you everything you need to design blog graphics, presentations, Facebook covers, flyers, posters, invitations and so much more.
+
 
 ### Caso de Uso
 
