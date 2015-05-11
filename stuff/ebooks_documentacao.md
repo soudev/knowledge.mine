@@ -231,6 +231,8 @@
 
 * [[YouTube] How to Learn Anything... Fast - Josh Kaufman](https://www.youtube.com/watch?v=EtJy69cEOtQ) - 2013/09/11
 
+* [MIT Challenge | Scott H Young](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/) - Over the next 12 months, I’m going to learn the entire 4-year MIT curriculum for computer science.
+
 
 ## Criatividade e Idéias
 
