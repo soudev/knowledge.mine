@@ -1778,6 +1778,8 @@
 
   * [ES6: Brincando com o novo Javascript | ES6 Rocks](http://es6rocks.com/pt-br/2014/11/es6-playing-with-the-new-javascript/)
 
+* [Introduction to ECMAScript 6 | Christophe Coenraets](http://coenraets.org/present/es6/)
+
 --
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
