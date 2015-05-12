@@ -481,6 +481,8 @@
 
   * [[GitHub] GoogleCloudPlatform / storage-getting-started-javascript](https://github.com/GoogleCloudPlatform/storage-getting-started-javascript/) - This is a simple web-based example of calling the Google Cloud Storage API in JavaScript
 
+* [Using Local Storage as a communication channel | Tech.pro](http://tech.pro/blog/6950/using-local-storage-communication-channel)
+
 --
 
 * [[Gist] leudanielm / GlobalEvents.js](https://gist.github.com/leudanielm/a49535053fd30274183e) - Fire events between different browser windows using localStorage
