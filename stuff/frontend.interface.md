@@ -190,6 +190,8 @@
 
 * [[GitHub] 1000ch / srcset-image](https://github.com/1000ch/srcset-image) - Polyfill for srcset feature as Web Components
 
+* [[GitHub] viniciusalmeida / ninja-presentation](https://github.com/viniciusalmeida/ninja-presentation) - Do not be fooled. You do not have to be a ninja to use this toolkit for slides presentation!
+
 --
 
 * [Polymer vs. X-Tag - Here's the difference | Pascal Precht](https://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/)
