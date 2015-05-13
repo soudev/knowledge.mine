@@ -1241,6 +1241,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Simple AngularJS Authentication with JWT | Thinkster](https://thinkster.io/angularjs-jwt-auth/)
 
+  * [JSON Web Token Tutorial: An Example in Laravel and AngularJS | toptal](http://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs)
+
 --
 
 * [[GitHub] andreareginato / ng-oauth](https://github.com/andreareginato/ng-oauth) - AngularJS directive working with the OAuth2 Implicit Flow
