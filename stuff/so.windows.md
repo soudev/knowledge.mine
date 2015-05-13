@@ -15,7 +15,9 @@
 
 * [cmder | Console Emulator](https://bliker.github.io/cmder/) -Portable console emulator for Windows
 
+* [ConEmu - Handy Windows Terminal](https://conemu.github.io/) - ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
 
-## Jogos 
+
+## Jogos
 
 * [Software Library: MS-DOS Games : Free Software : Download & Streaming | Internet Archive](https://archive.org/details/softwarelibrary_msdos_games) - Software for MS-DOS machines that represent entertainment and games. The collection includes action, strategy, adventure and other unique genres of game and entertainment software. Through the use of the EM-DOSBOX in-browser 
