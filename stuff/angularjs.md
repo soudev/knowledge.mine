@@ -141,6 +141,8 @@
 
   * [Using ES6 with Angular today | thoughtram Blog](http://blog.thoughtram.io/angularjs/es6/2015/01/23/exploring-angular-1.3-using-es6.html) - One of the most exciting upcoming changes for Angular 2.0 is that it's entirely written in ES6 - the next version of JavaScript. There's no need to wait until Angular 2.0 though. You can start writing your Angular apps with ES6 today - even with Angular 1.x. In this post we are going to look at two very exciting ES6 features and how they can play a role in the context of an Angular application. Modules and Inheritance.
 
+  * [Reduce Your AngularJS Code and Improve its Readability Using ECMAScript 6 | Intridea Blog](http://www.intridea.com/blog/2015/4/28/reduce-your-angularjs-code-and-improve-its-readability-using-ecmascript-6)
+
 --
 
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
