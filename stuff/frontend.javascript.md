@@ -84,6 +84,8 @@
 
 --
 
+* [Cinco conhecimentos essenciais para programadores Javascript | Onetalk Drops — Medium](https://medium.com/onetalk-drops/5-conhecimentos-essenciais-para-programadores-javascript-dae31f3d9bab)
+
 * [Learn JavaScript Essentials (for all skill levels) by Eric Elliott | Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2)
 
 * [Resources for Learning Javascript | @jendmann](http://jennifermann.ghost.io/resources-for-learning-javascript/)
