@@ -84,6 +84,10 @@
 
 ### Curiosidades
 
+* [Como Cobrar O Quanto Você Quiser - E Ainda Parecer Ridiculamente Barato | Empreendedor Digital](http://www.empreendedor-digital.com/como-cobrar-o-quanto-voce-quiser) - Aprenda aqui como cobrar o preço que você quiser - e ainda ter as pessoas achando que seu preço é ESTUPIDAMENTE barato.
+
+--
+
 * [What gives a dollar bill its value? - Doug Levinson | TED-Ed](http://ed.ted.com/lessons/what-gives-a-dollar-bill-its-value-doug-levinson)
 
 * [[YouTube] Money & Debt: Crash Course World History 202](https://www.youtube.com/watch?v=94BtOtGVqLw)
