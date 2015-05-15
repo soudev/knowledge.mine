@@ -98,6 +98,8 @@
 
 * [[YouTube] How do banks create credit? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=cs1bkpxzBZI)
 
+* [[YouTube] How Much Money is There on Earth? - VSauce](https://www.youtube.com/watch?v=w2tKg3E53DM)
+
 
 ## Informações úteis sobre investimentos
 
