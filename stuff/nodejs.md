@@ -1432,7 +1432,11 @@
 
 * [[GitHub] f / omelette](https://github.com/f/omelette) - Omelette.js Simple Autocompletion Helper for Node
 
--- 
+--
+
+* [[GitHub] bucaran / parsec](https://github.com/bucaran/parsec) - is a lovingly crafted command line options parser using ES6 generators in around 100 LOC.
+
+--
 
 * [[GitHub] sindresorhus / wallpaper](https://github.com/sindresorhus/wallpaper) - Get or set the desktop wallpaper
 
