@@ -15,6 +15,8 @@
 
 * [Try SQL | Code School](http://campus.codeschool.com/courses/try-sql) - Learn basic database manipulation with SQL.
 
+* [Intro to SQL: Querying and managing databases | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+
 --
 
 * [Trabalhando com junções de tabelas (JOINs) | iMasters](http://imasters.com.br/banco-de-dados/trabalhando-com-juncoes-de-tabelas-joins/)
