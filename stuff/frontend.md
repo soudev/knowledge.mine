@@ -154,6 +154,8 @@
 
 * [Otimização de imagens | Hugo Bessa](http://www.hugobessa.com.br/posts/otimizacao-de-imagens/)
 
+* [[GitHub] brianium / watermarkjs](https://github.com/brianium/watermarkjs) - Watermarking for the browser
+
 
 ### Icon
 
