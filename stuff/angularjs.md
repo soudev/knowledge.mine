@@ -2343,6 +2343,8 @@ describe('testing something...', function() {
 
 * [Protractor e2e Testing | Learn Ionic](http://learn.ionicframework.com/formulas/Protractor/)
 
+* [Learn Protractor Testing for AngularJS | Video Tutorial Series @eggheadio](https://egghead.io/series/learn-protractor-testing-for-angularjs)
+
 --
 
 * [Run protractor against Internet Explorer VM | Leo Gallucci's blog](https://elgalu.github.io/2014/run-protractor-against-internet-explorer-vm/)
