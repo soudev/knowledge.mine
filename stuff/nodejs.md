@@ -186,6 +186,8 @@
 
 * [Node.js: A Jumpstart for Devs | NewCircle](https://thenewcircle.com/s/post/1534/nodejs_tutorial_videos_geolocation_app)
 
+* [Node.js Archives - Tutorials | socialchai.com](http://socialchai.com/tuts/free-online-course/node-js/)
+
 --
 
 * [Node.js | Underground WebDev](http://udgwebdev.com/nodejs/)
