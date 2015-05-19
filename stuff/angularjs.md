@@ -1575,6 +1575,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular.js Intro.js](http://code.mendhak.com/angular-intro.js/) - AngularJS directives for intro.js
 
+* [[GitHub] DaftMonk / angular-tour](https://github.com/DaftMonk/angular-tour) - AngularJS directive for giving an interactive tour of your website.
+
 --
 
 * [[GitHub] assisrafael / angular-input-masks](https://github.com/assisrafael/angular-input-masks) - Personalized input masks for AngularJS
