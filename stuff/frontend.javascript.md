@@ -1332,6 +1332,8 @@
 
   * [The Rise of TypeScript? | Telerik Developer Network](http://developer.telerik.com/featured/the-rise-of-typescript/)
 
+  * [Getting Started with TypeScript | Treehouse Blog](http://blog.teamtreehouse.com/getting-started-typescript)
+
   * [[GitHub] Microsoft / TypeScript-Sublime-Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins
 
 
