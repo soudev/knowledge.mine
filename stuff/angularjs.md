@@ -592,6 +592,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Dicas
 
+* [[GitHub] EwanValentine / SymfonyAngularDocker](https://github.com/EwanValentine/SymfonyAngularDocker) - Symfony angular docker example
+
+  * [Running Angularjs and Symfony2 on Docker | Ewan Valentine](http://ewanvalentine.io/running-angularjs-and-symfony-projects-on-docker/)
+
+--
+
 * [Top 25 Best AngularJS Tools | Devzum](http://devzum.com/2015/02/28/bestl-angularjs-tools/)
 
 --
