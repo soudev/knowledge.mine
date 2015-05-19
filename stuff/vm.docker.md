@@ -300,6 +300,12 @@
 
 * [Vagrant 1.6 Feature Preview: Docker-Based Development Environments | Vagrant](http://www.vagrantup.com/blog/feature-preview-vagrant-1-6-docker-dev-environments.html)
 
+--
+
+* [[GitHub] EwanValentine / SymfonyAngularDocker](https://github.com/EwanValentine/SymfonyAngularDocker) - Symfony angular docker example
+
+  * [Running Angularjs and Symfony2 on Docker | Ewan Valentine](http://ewanvalentine.io/running-angularjs-and-symfony-projects-on-docker/)
+
 
 #### Mac OS X
 
