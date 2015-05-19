@@ -143,6 +143,8 @@
 
   * [Reduce Your AngularJS Code and Improve its Readability Using ECMAScript 6 | Intridea Blog](http://www.intridea.com/blog/2015/4/28/reduce-your-angularjs-code-and-improve-its-readability-using-ecmascript-6)
 
+  * [Model pattern for Angular JS | Medium - @tomastrajan](https://medium.com/@tomastrajan/model-pattern-for-angular-js-67494389d6f) - An in-depth guide to different types of reusable models for your Angular JS application
+
 --
 
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
