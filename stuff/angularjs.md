@@ -1367,9 +1367,21 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] IonicBrazil / guia-do-desenvolvedor](https://github.com/IonicBrazil/guia-do-desenvolvedor) - Guia do Desenvolvedor Ionic
+
+* [[YouTube] Ionic Adventures Pilot](https://www.youtube.com/watch?v=hqaFjSFjIuQ) - 2015/05/13
+
+  * [[SlideShare] Ionic adventures - Hybrid Mobile App Development rocks](http://www.slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks) - 2015/03/01
+
+--
+
 * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
 
 * [Building Mobile Apps with AngularJS and Ionic | The Official Ionic Blog](http://ionicframework.com/blog/angular-mobile-dev/)
+
+* [Ionic – Mobile UI Framework for PhoneGap/Cordova Developers | Devgirl's Weblog](http://devgirl.org/2014/01/20/ionic-mobile-ui-framework-for-phonegapcordova-developers/)
+
+* [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps | Thinkster](https://thinkster.io/ionic-framework-tutorial/)
 
 --
 
