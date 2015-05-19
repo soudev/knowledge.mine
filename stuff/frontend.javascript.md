@@ -1771,6 +1771,8 @@
 
 * [Frontend moderno com Browserify e Babel | Underground WebDev](http://udgwebdev.com/frontend-moderno-com-browserify-e-babel/)
 
+* [Getting ES6 modules working thanks to Browserify, Babel, and Gulp | Advantcomp Blog](http://advantcomp.com/blog/ES6Modules/)
+
 
 ### ECMAScript 6
 
