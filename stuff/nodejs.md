@@ -265,6 +265,8 @@
 
   * [Grupo no Google+](https://plus.google.com/u/0/communities/114677724833864547063)
 
+* [Node.js World](http://nodejsworld.com/)
+
 * [StrongLoog](http://strongloop.com/strongblog/category/portuguese/) - post em português
 
 * [npm awesome](http://npmawesome.com/)
