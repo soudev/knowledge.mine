@@ -1773,6 +1773,8 @@
 
 * [Getting ES6 modules working thanks to Browserify, Babel, and Gulp | Advantcomp Blog](http://advantcomp.com/blog/ES6Modules/)
 
+  * [[GitHub] acoard / ES6ModulesWithBabel](https://github.com/acoard/ES6ModulesWithBabel)
+
 
 ### ECMAScript 6
 
