@@ -1520,6 +1520,8 @@
 
 * [Easy Node Authentication: Setup and Local | Scotch](http://scotch.io/tutorials/javascript/easy-node-authentication-setup-and-local)
 
+* [Authenticate a Node.js API with JSON Web Tokens | Scotch](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+
 * [[Slid.es] https & authentication in node.js](http://slid.es/jeroenmoors/https-authentication-in-nodejs) - by Jeroen Moors
 
   * [[GitHub] jeroenmoors / nodettps](https://github.com/jeroenmoors/nodettps) - https experiments with node.js

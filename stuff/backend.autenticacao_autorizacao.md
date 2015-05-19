@@ -45,6 +45,13 @@
 * [[GitHub] TheThingSystem / node-x509-keygen](https://github.com/TheThingSystem/node-x509-keygen) - node.js module to generate self-signed certificate via openssl spawn
 
 
+## JWT
+
+> JSON Web Token
+
+* [Authenticate a Node.js API with JSON Web Tokens | Scotch](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
+
+
 ## OAuth
 
 * [[SlideShare] OAuth with Restful Web Services](http://www.slideshare.net/vinayhulgar/oauth-with-restful-web-services)
