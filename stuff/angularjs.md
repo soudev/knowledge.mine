@@ -1067,6 +1067,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[YouTube] Modular Angular: Apps that Scale | ng vegas](https://www.youtube.com/watch?v=4a5L82OBBWk) - 2015/05/07 (with browserify)
+
 * [AngularJS, Browserify and Grunt | dontkry.com](http://dontkry.com/posts/code/angular-browserify-grunt.html) - 2013/08/29
 
 * [Angular And Browserify | Coding Blog](http://ethanway.com/angular-and-browserify/) - 2013/12/07
