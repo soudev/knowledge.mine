@@ -1,9 +1,9 @@
 # Front-End
 
-
 <!-- toc -->
 
 * [CSS](#css)
+  * [Flexbox](#flexbox)
   * [Media Query](#media-query)
   * [Ferramentas](#ferramentas)
     * [Ferramentas Online](#ferramentas-online)
@@ -47,10 +47,6 @@
 * [flexible.gs](http://flexible.gs/) - Flexible Grid System
 
   * [[GitHub] flexiblegs / flexiblegs](https://github.com/flexiblegs/flexiblegs) - Flexible Grid System is a Responsive CSS Framework
-
---
-
-* [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 --
 
@@ -127,6 +123,15 @@
 * [Modos de Mesclagem em CSS | Tableless](http://tableless.com.br/modos-de-mesclagem-em-css/) - Neste artigo entenda como funcionam os modos de mesclagem e saiba como utilizar cada um deles através de simples parâmetros de CSS.
 
 * [The Simpsons in CSS | pattle - GitHub](https://pattle.github.io/simpsons-in-css/)
+
+
+### Flexbox
+
+* [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+* [Getting Dicey With Flexbox | David Walsh Blog](http://davidwalsh.name/flexbox-dice) - In this article, I'll walk you through the basics of flexbox by showing you how to build the faces of a die.
+
+* [Free Flexbox Starter Course | Unraveling Flexbox](https://unravelingflexbox.com/subscribe) - With Unraveling Flexbox, you'll learn how to unlock the full potential of modern CSS to create responsive application layouts in hours, not days.
 
 
 ### Media Query
