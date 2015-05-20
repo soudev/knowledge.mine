@@ -80,13 +80,19 @@
 
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
 
-* ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
-
 ### Curiosidades
 
 * [Como Cobrar O Quanto Você Quiser - E Ainda Parecer Ridiculamente Barato | Empreendedor Digital](http://www.empreendedor-digital.com/como-cobrar-o-quanto-voce-quiser) - Aprenda aqui como cobrar o preço que você quiser - e ainda ter as pessoas achando que seu preço é ESTUPIDAMENTE barato.
 
 * [[YouTube] Where are all the Billionaires? & Why should We Care?: Victor Haghani at TEDxSPS](https://www.youtube.com/watch?v=1yJWABvUXiU) - 2013/03/08
+
+--
+
+* ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
+
+* [[YouTube] Billionaire Mathematician - Numberphile](https://www.youtube.com/watch?v=gjVDqfUhXOY) - 2015/05/13
+
+  * [[YouTube] James Simons (full length interview) - Numberphile](https://www.youtube.com/watch?v=QNznD9hMEh0) - 2015/05/13
 
 --
 
