@@ -539,6 +539,10 @@ git clean -fd
 
 ### Dicas: GitHub
 
+* [Automated Deployments with GitHub Webhooks | Toptal](http://www.toptal.com/devops/deploy-web-applications-automatically-using-github-webhooks)
+
+--
+
 * [Embed Github Repos | insert.ly](http://www.insert.ly/) - New way to Embed Github Repos to your Blog & Web Sites!
 
 * [Top Github Languages for 2013 (so far) | Adam Bard](http://adambard.com/blog/top-github-languages-for-2013-so-far/)
