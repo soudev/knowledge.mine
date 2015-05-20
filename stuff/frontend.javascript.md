@@ -1775,6 +1775,8 @@
 
   * [[GitHub] acoard / ES6ModulesWithBabel](https://github.com/acoard/ES6ModulesWithBabel)
 
+* [How to Use ES6 for Isomorphic JavaScript Apps | JavaScript Scene — Medium](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
+
 
 ### ECMAScript 6
 
