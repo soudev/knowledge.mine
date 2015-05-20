@@ -170,6 +170,12 @@
 
 --
 
+* [How to Train Your Docker Cloud | InfoQ En](http://www.infoq.com/presentations/docker-cloud-clocker) - (2015/05/16) Andrew Kennedy talks about the reasons for creating a Docker cloud and how they realized that to do this properly they needed first class networking to handle composite distributed applications such as Riak. It was a short step from this to using Brooklyn itself to bootstrap a Docker cloud effectively colonizing the infrastructure. And so Clocker was born. 
+
+  * [[GitHub] brooklyncentral / clocker](https://github.com/brooklyncentral/clocker) - creates and manages a Docker cloud infrastructure | [site](https://brooklyncentral.github.io/clocker/)
+
+--
+
 * [Backup Docker to Amazon S3 | stefanXO](http://blog.stefanxo.com/2014/02/backup-docker-to-amazon-s3/)
 
 * [Difference between save and export in Docker | Thomas Uhrig](http://tuhrig.de/difference-between-save-and-export-in-docker/)
