@@ -485,6 +485,8 @@
 
 * [Getting Started with Docker for the Node.js Developer | AirPair](https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev)
 
+* [Node with Docker - continuous integration and delivery | Michael Herman](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/)
+
 
 ### Red Hat
 
