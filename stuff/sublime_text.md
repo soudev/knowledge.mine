@@ -69,6 +69,7 @@
 
 * [Running MongoDB from Sublime Text 2 | Mark Drew on Code](http://www.markdrew.co.uk/blog/post.cfm/running-mongodb-from-sublime-text-2)
 
+* [[YouTube] Totally Tooling Tips: Sublime Text Plugins | Google Developers](https://www.youtube.com/watch?v=2eu23_if6Lw) - 2015/05/20
 
 ### Setup
 
