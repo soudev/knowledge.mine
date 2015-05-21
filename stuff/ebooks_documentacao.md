@@ -326,6 +326,11 @@
 
 ### Codificação
 
+* [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations
+Share with others around the world
+
+--
+
 * [exercism.io](http://exercism.io/) - Deep practice. Crowd-sourced mentorship.
 
 --
