@@ -1126,6 +1126,10 @@
 
 * **Christophe Coenraets**
   
+  * [Apache Cordova Tutorial](https://ccoenraets.github.io/cordova-tutorial/) - In this tutorial, you will learn strategies and best practices to build native-like mobile applications with HTML, JavaScript, and CSS. You will build an Apache Cordova (aka PhoneGap) Employee Directory application from scratch using the Single Page Architecture, HTML templates, touch events, and performance optimization techniques.
+
+    * [[GitHub] ccoenraets / cordova-tutorial](https://github.com/ccoenraets/cordova-tutorial)
+
   * [PhoneGap and PhoneGap Build in 5 Minutes](http://coenraets.org/blog/2012/12/phonegap-and-phonegap-build-in-5-minutes/)
 
   * [Cordova (aka PhoneGap) 3.x Tutorial](http://coenraets.org/blog/cordova-phonegap-3-tutorial/)
