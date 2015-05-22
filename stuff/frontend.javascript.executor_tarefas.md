@@ -70,6 +70,8 @@
 
   * [[GitHub] gulpjs / gulp](https://github.com/gulpjs/gulp) - the streaming build system
 
+* [gulp.js plugin registry](http://gulpjs.com/plugins/)
+
 --
 
 * [[GitHub] osscafe / gulp-cheatsheet](https://github.com/osscafe/gulp-cheatsheet)
