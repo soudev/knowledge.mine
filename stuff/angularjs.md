@@ -151,6 +151,8 @@
 
 --
 
+* [[GitHub] rafaelfragosom / angular2-typescript](https://github.com/rafaelfragosom/angular2-typescript) - Angular 2 and TypeScript Initial Project
+
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
 
 
