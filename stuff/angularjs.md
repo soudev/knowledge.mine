@@ -1044,6 +1044,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Building Huuuuuge Apps with AngularJS | Brian Ford](http://briantford.com/blog/huuuuuge-angular-apps.html)
 
+* [Building Scalable AngularJS Apps : FitStep AngularJS Case Study | Angular Slack Chat](http://angularchat.co/blog/fitstep-angularjs-case-study)
+
 * [13 Steps to AngularJS Modularization | Safari Books Online's Official Blog](http://blog.safaribooksonline.com/2014/03/27/13-step-guide-angularjs-modularization/)
 
 * Jason Dobry
