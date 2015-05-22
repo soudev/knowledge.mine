@@ -1645,6 +1645,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [npm Search](http://npmsearch.com/)
+
+  * [[GitHub] solids / npmsearch](https://github.com/solids/npmsearch) - blazing fast npm search utility
+
 * [Node Modules](http://node-modules.com/) - Better search for Node.js modules
 
 * [Browse npm](http://browsenpm.org/)
