@@ -80,6 +80,9 @@
 
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
 
+* [[YouTube] Webinário Faça seu Dinheiro Render Mais | InfoMoney](https://www.youtube.com/watch?v=KXDeMNRtAGU) - 2015/05/19
+
+
 ### Curiosidades
 
 * [Como Cobrar O Quanto Você Quiser - E Ainda Parecer Ridiculamente Barato | Empreendedor Digital](http://www.empreendedor-digital.com/como-cobrar-o-quanto-voce-quiser) - Aprenda aqui como cobrar o preço que você quiser - e ainda ter as pessoas achando que seu preço é ESTUPIDAMENTE barato.
