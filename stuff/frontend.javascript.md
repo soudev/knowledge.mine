@@ -104,6 +104,8 @@
 
 * [[YouTube] Google Tech Talks 2009 : JavaScript - The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook)
 
+* [JavaScript: The Extra Good Parts | Wix Engineering](http://engineering.wix.com/2015/04/21/javascript-the-extra-good-parts/)
+
 * [[YouTube] Dos and Don'ts in JavaScript: A few best practices for when you're learning the language](https://www.youtube.com/watch?v=zILmbcIYnfw)
 
 * [A Bit of Advice for the JavaScript Semicolon Haters | Ben Alman](http://benalman.com/news/2013/01/advice-javascript-semicolon-haters/)
