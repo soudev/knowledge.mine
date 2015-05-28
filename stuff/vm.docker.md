@@ -517,3 +517,5 @@
 
 * [Docker on Azure](http://1drv.ms/1kfrLev)
 
+* [Publishing an ASP.NET 5 app to Docker on Linux with Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/PublishingAnASPNET5AppToDockerOnLinuxWithVisualStudio.aspx)
+
