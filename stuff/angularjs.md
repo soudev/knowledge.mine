@@ -597,6 +597,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] adobe / adobe.github.com](https://github.com/adobe/adobe.github.com) - Adobe central hub for open source
 
+--
+
+* [[GitHub] ptgamr / soundcloudify](https://github.com/ptgamr/soundcloudify) - (Chrome extension) Music streaming for SoundCloud and Youtube
+
 
 ## Dicas
 
