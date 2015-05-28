@@ -1097,6 +1097,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Simple Blog Application with AngularJS and Play Framework | Toptal](http://www.toptal.com/java/building-modern-web-applications-with-angularjs-and-play-framework)
+
 * [Simple Intro to AngularJS Web Application Development](http://blog.dewmap.com/post/51353fa6717c080200000001)
 
 * [Building a Spreadsheet in 20 Minutes with Angular.js | Thomas Street](http://thomasstreet.net/blog/spreadsheet.html)
