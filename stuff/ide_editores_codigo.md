@@ -71,6 +71,11 @@
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Code focused development. Redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
 
+--
+
+* [[GitHub] chriskempson / base16](https://github.com/chriskempson/base16) - Color schemes for hackers. Base16 provides carefully chosen syntax highlighting and a default set of sixteen colors suitable for a wide range of applications. Base16 is both a color scheme and a template.
+
+
 
 ### Eclipse IDE
 
