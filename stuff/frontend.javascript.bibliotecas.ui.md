@@ -176,6 +176,12 @@
 
 --
 
+* [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
+
+* [[GitHub] reactjs / react-future](https://github.com/reactjs/react-future) - Specs & docs for potential future and experimental React APIs and JavaScript syntax.
+
+--
+
 * [React: JavaScript reativo | Tableless](http://tableless.com.br/react-javascript-reativo/) - Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web
 
 * [Intro to the React Framework | Development – Tuts+](http://dev.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
