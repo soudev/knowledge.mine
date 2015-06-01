@@ -286,7 +286,7 @@
 
 ### Idiomas
 
-* [Duolingo](https://www.duolingo.com/) - serviço online e gratuíto para aprendizado de idiomas. Possui interface com suporte ao português. As aulas vão do básico ao avançado no aprendizado de um idioma.
+* [Duolingo](https://www.duolingo.com/) - serviço online e gratuito para aprendizado de idiomas. Possui interface com suporte ao português. As aulas vão do básico ao avançado no aprendizado de um idioma.
 
 * [engVid](http://www.engvid.com/) - free english video lessons
 
