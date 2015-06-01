@@ -351,8 +351,6 @@ Share with others around the world
 
 --
 
-* [3 games para aprender a programar | Startupi](http://startupi.com.br/2014/08/3-games-para-aprender-programar/)
-
 * [Coder Speech](http://www.coderspeech.com/) - Learn to code by watching programming videos
 
 --
@@ -387,13 +385,17 @@ Share with others around the world
 
 -- 
 
-* [Hackety Hack](http://hackety.com/) -  will teach you the absolute basics of programming from the ground up. No previous programming experience is needed! With Hackety Hack, you'll learn the [Ruby programming language](https://www.ruby-lang.org/). Ruby is used for all kinds of programs, including desktop applications and websites.
+* [Hackety Hack](http://www.hackety.com/) -  will teach you the absolute basics of programming from the ground up. No previous programming experience is needed! With Hackety Hack, you'll learn the [Ruby programming language](https://www.ruby-lang.org/). Ruby is used for all kinds of programs, including desktop applications and websites.
 
 --
 
+* [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge
+
 * [Code Combat](http://codecombat.com/) - learn to code by playing a game
 
-* [Codewars](http://www.codewars.com/) - is where developers achieve code mastery through challenge
+* [CheckiO](http://www.checkio.org/) - is the game for coders. Improve your code with the help of our community. Create missions and challenge your peers.
+
+* [Blockly Games](https://blockly-games.appspot.com/) - Games for tomorrow's programmers.
 
 --
 
