@@ -338,6 +338,8 @@
 
   * [Soldado Lógica de Programação | Code Squad — Professor: Elton Luís Minetto](http://code-squad.com/curso/logica-programacao/avulso) - Vídeos online gratuito
 
+* [[YouTube] [YouTube] Curso de Algoritmos — Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+
 --
 
 * [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations
@@ -362,8 +364,6 @@ Share with others around the world
 * [Code.org - Anybody can learn code](http://code.org)
   
   * [learn | Code.org](http://learn.code.org)
-
-* [Ano do Código](http://www.anodocodigo.org.br/) - Vem Programar!
 
 * [Computer programming | Khan Academy](https://www.khanacademy.org/computing/cs)
 
