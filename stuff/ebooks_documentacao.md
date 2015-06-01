@@ -309,7 +309,7 @@
 
 #### Idiomas: Dicas
 
-* [[YouTube] How to learn any language in six months](https://www.youtube.com/watch?v=d0yGdNEWdn0) - Chris Lonsdale at TEDxLingnanUniversity
+* [[YouTube] How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0) - 2013/11/20
 
 * [[YouTube] 5 techniques to speak any language | Sid Efromovich | TEDxUpperEastSide](https://www.youtube.com/watch?v=-WLHr1_EVtQ) - 2013/08/30
 
