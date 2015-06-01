@@ -326,6 +326,11 @@
 
 ### Codificação
 
+> * [Coisas Que Eu Gostaria Que Alguém Tivesse Me Dito Quando Eu Estava Aprendendo a Programar | Julio Cesar Fausto](http://jcfausto.com/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar/)
+>
+>   * [Things I Wish Someone Had Told Me When I Was Learning How to Code | Medium by @cecilycarver](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
+
+
 * [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations
 Share with others around the world
 
