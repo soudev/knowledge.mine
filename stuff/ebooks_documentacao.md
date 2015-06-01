@@ -225,7 +225,7 @@
 
 ## Aprendizado
 
-* [[YouTube] The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) - 2013/03/14
+* [[YouTube] The first 20 hours - how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) - 2013/03/14
 
 * [[YouTube] Accelerated Learning: How To Get Good at Anything in 20 Hours](https://www.youtube.com/watch?v=lB6K60mkmho) - 2013/06/26
 
@@ -330,6 +330,15 @@
 >
 >   * [Things I Wish Someone Had Told Me When I Was Learning How to Code | Medium by @cecilycarver](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
 
+--
+
+* Lógica de Programação
+
+  * [[YouTube] Lógica de Programação — Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
+
+  * [Soldado Lógica de Programação | Code Squad — Professor: Elton Luís Minetto](http://code-squad.com/curso/logica-programacao/avulso) - Vídeos online gratuito
+
+--
 
 * [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations
 Share with others around the world
