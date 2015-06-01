@@ -417,6 +417,8 @@ Share with others around the world
 
 --
 
+* [Code Squad - Treinamento de Elite](http://code-squad.com/)
+
 * [Learn to Code by Doing - Code School](https://www.codeschool.com/) - Learn to code in the comfort of your browser with video tutorials, programming challenges, and screencasts.
 
 * [Learn Web Design, Web Development, and More | Treehouse](https://teamtreehouse.com/)
