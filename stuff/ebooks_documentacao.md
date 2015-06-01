@@ -309,6 +309,8 @@
 
 #### Idiomas: Dicas
 
+* [Three Secrets You Need to Know About Spoken English | Judy Thompson | TEDxOakville](https://www.youtube.com/watch?v=NcX2AwH3cG8) - 2010/10/26
+
 * [[YouTube] How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0) - 2013/11/20
 
 * [[YouTube] 5 techniques to speak any language | Sid Efromovich | TEDxUpperEastSide](https://www.youtube.com/watch?v=-WLHr1_EVtQ) - 2013/08/30
@@ -374,6 +376,12 @@ Share with others around the world
 * [DevFuria](http://www.devfuria.com.br/) - Cursos, aulas, tutoriais, apostilas, matérias sobre programação web prá ninguém botar defeito! [ JavaScript, PHP, HTML & CSS, Lógica de Programação, MySQL & SQL, RegExp ]
 
 * [Mozilla Webmaker](https://webmaker.org/) - We're a global community dedicated to teaching digital skills and web literacy. We explore, tinker and create together to build a web that's open and made by everyone.
+
+--
+
+* [Apostilas Caelum](https://www.caelum.com.br/apostilas/) - Java, JavaScript, C#, Ruby e Desenvolvimento Web
+
+* [Apostilas treinamentos K19](http://www.k19.com.br/downloads/apostilas) - Noções de programação básica, Java e .Net
 
 --
 
