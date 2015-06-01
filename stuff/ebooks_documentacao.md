@@ -415,3 +415,9 @@ Share with others around the world
 
     * [[GitHub] tcorral / javascript-challenges-book](https://github.com/tcorral/javascript-challenges-book) - Challenge yourself to learn and understand the most obscure and tricky parts of Javascript
 
+--
+
+* [Learn to Code by Doing - Code School](https://www.codeschool.com/) - Learn to code in the comfort of your browser with video tutorials, programming challenges, and screencasts.
+
+* [Learn Web Design, Web Development, and More | Treehouse](https://teamtreehouse.com/)
+
