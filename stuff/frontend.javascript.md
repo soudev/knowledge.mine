@@ -879,7 +879,15 @@
 
   * [jspm.io](http://jspm.io/) - Frictionless Browser Package Management
 
+
 * [BoxJS](http://boxjs.com/) - A simple package management service
+
+
+* [Duo.js](http://duojs.org/) - is a next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+
+  * [[GitHub] duojs / duo](https://github.com/duojs/duo) - A next-generation package manager for the front-end
+
+  * [Duo.js: módulos no frontend de forma simples e direta | Fabio Vedovelli](http://www.vedovelli.com.br/web-development/duo-js-modulos-no-frontend-de-forma-simples-e-direta/)
 
 
 #### Webpack
