@@ -4,6 +4,10 @@
 
 * [Android Developer](https://developer.android.com/sdk/index.html)
 
+--
+
+* [[tutorial] Voltando para o Android KitKat no Moto G 2013 | Tudocelular.com](http://www.tudocelular.com/android/noticias/n48958/tutorial-voltando-para-o-kitkat-no-moto-g-2013.html)
+
 
 ## Mac OS 
 
