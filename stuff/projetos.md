@@ -81,6 +81,10 @@
 
 ## Conceitos
 
+* [10 Things Successful People Do To Maximize Their Time | Umano](https://umano.me/c/KmOVQ/10-things-successful-people-do-to-maximize-their-time) - Lifehack  by  Casey Imafidon
+
+--
+
 * [[YouTube] Resumão - Fundamentos de Gerenciamento de Projetos](https://www.youtube.com/watch?v=jYaZnszakdo) - 2014/01/02
 
 * [Projetando Aplicativos como se Projetam Prédios | UX.BLOG](http://www.uxdesign.blog.br/user-experience/review-da-palestra-projetando-aplicativos-como-se-projetam-predios/)
