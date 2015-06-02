@@ -81,7 +81,7 @@
 
 ## Conceitos
 
-* [10 Things Successful People Do To Maximize Their Time | Umano](https://umano.me/c/KmOVQ/10-things-successful-people-do-to-maximize-their-time) - Lifehack  by  Casey Imafidon
+* [10 Things Successful People Do To Maximize Their Time | Umano](https://umano.me/c/KmOVQ/10-things-successful-people-do-to-maximize-their-time) - Lifehack  by Casey Imafidon. Learn from the masters how you can be successful at maximizing your time.
 
 --
 
