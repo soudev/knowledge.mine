@@ -195,6 +195,8 @@
 
 * [Super semantic multicolor font icons in pure CSS | Pixelambacht](http://pixelambacht.nl/2014/multicolor-icons/)
 
+* [The Art Of The SVG Filter And Why It Is Awesome | Smashing Magazine](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/)
+
 
 ### FavIcon
 
