@@ -6,6 +6,8 @@
 
 --
 
+* [[tutorial] Moto G 2013: desbloqueando o bootloader e liberando o acesso root | Tudocelular.com](http://www.tudocelular.com/android/noticias/n48416/Fazendo-root-no-motorola-moto-g-2013.html)
+
 * [[tutorial] Voltando para o Android KitKat no Moto G 2013 | Tudocelular.com](http://www.tudocelular.com/android/noticias/n48958/tutorial-voltando-para-o-kitkat-no-moto-g-2013.html)
 
 
