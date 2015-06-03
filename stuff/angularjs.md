@@ -881,6 +881,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Performance
 
+* [[SlideShare] AngularJS performance & production tips](http://www.slideshare.net/nirkaufman/angularjs-performance-production-tips) - 2015/01/13
+
+  * [[GitHub] nirkaufman / angularjs-performance-tips](https://github.com/nirkaufman/angularjs-performance-tips) - Reference code for the 'Performance tips' talk on the AngularJS-IL meetup @ google campus TLV
+
 * [AngularJS: Performance basics | Alexey Migutsky](http://www.fse.guru/angularjs-performance-basics)
 
 * [AngularJS: Performance tips | Alexey Migutsky](http://www.fse.guru/angularjs-performance-tips)
@@ -914,11 +918,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Boost the Performance of an AngularJS Application Using Immutable Data - Part 2 | Minko Gechev's blog](http://blog.mgechev.com/2015/04/11/immutability-in-angularjs-immutablejs-part-2/)
 
+
 * Virtual DOM
 
   * [[GitHub] teropa / angular-virtual-dom](https://github.com/teropa/angular-virtual-dom) - A Virtual DOM based AngularJS view renderer designed to be used with immutable data structures
 
+
 * React.js
+
+  * [Is ReactJS faster than AngularJS ? | 500tech](http://blog.500tech.com/is-reactjs-fast/)
 
   * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
