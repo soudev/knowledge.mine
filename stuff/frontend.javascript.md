@@ -1774,6 +1774,8 @@
 
   * [[GitHub] yyx990803 / vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 
+  * [Vue.js: data-binding e components | Fabio Vedovelli](http://www.vedovelli.com.br/web-development/vue-js-data-binding-e-componentes/)
+
 
 ### Babel
 
