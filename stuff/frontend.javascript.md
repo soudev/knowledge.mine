@@ -1764,6 +1764,12 @@
 
 --
 
+* [jsblocks - Better JavaScript MV-ish Framework](http://jsblocks.com/) - From simple user interfaces to complex single-page applications using faster, server-side rendered and easy to learn framework
+
+  * [[GitHub] astoilkov / jsblocks](https://github.com/astoilkov/jsblocks) - Better MV-ish Framework
+
+--
+
 * [Vue.js](http://vuejs.org/) - is a library for building interactive web interfaces. It provides data-reactive components with a simple and flexible API.
 
   * [[GitHub] yyx990803 / vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
