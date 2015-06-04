@@ -76,6 +76,8 @@
 
 * [Toggl](https://www.toggl.com/) - Insanely simple time tracking
 
+  * [Toggl Button](https://chrome.google.com/webstore/detail/toggl-button/oejgccbfbmkkpaidnkphaiaecficdnfn) - Add Official Toggl Online Timer to Popular Web Tools (Google Chrome)
+
 * [Circadio](https://getcircadio.com/) - Efficient timetracking for people with better things to do
 
 
