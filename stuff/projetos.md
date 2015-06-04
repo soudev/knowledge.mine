@@ -52,6 +52,8 @@
 
 * [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
 
+* [Trello](https://trello.com/) - Organize anything, together. Trello is a collaboration tool that organizes your projects into boards. In one glance, know what's being worked on, who's working on what, and where something is in a process.
+
 --
 
 * [Planning A Front-end JavaScript Application | Telerik Developer Network](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
