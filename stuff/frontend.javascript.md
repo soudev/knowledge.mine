@@ -1346,6 +1346,14 @@
 
   * [[GitHub] Microsoft / TypeScript-Sublime-Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins
 
+* [Blog | Wolk Software Engineering](http://blog.wolksoftware.com/)
+
+  * Decorators & metadata reflection in TypeScript: From Novice to Expert
+
+    * [PART I: Method decorators](http://blog.wolksoftware.com/decorators-reflection-javascript-typescript)
+
+    * [PART II: Property decorators & Class decorators](http://blog.wolksoftware.com/decorators-metadata-reflection-in-typescript-from-novice-to-expert-part-ii)
+
 
 #### Máquinas Virtuais
 
