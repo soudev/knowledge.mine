@@ -484,6 +484,10 @@
 
   * [[GitHub] ck86 / gulp-lintspaces](https://github.com/ck86/gulp-lintspaces) - A Gulp plugin for lintspaces
 
+  * [[GitHub] Josiah / gulp-cachebust](https://github.com/Josiah/gulp-cachebust) - Generates checksums and renames references to files, useful for cachebusting
+  
+  * [[GitHub] sun-zheng-an/gulp-shell](https://github.com/sun-zheng-an/gulp-shell) - A handy command line interface for gulp
+
   * [[GitHub] stevelacy / gulp-git](https://github.com/stevelacy/gulp-git) - Git plugin for gulp
 
   * [[GitHub] rowoot / gulp-gh-pages](https://github.com/rowoot/gulp-gh-pages) - Gulp plugin to publish to Github pages
@@ -491,6 +495,10 @@
   * [[GitHub] OverZealous / run-sequence](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order
 
     * [Sync Gulp Tasks with run-sequence | David Walsh Blog](http://davidwalsh.name/gulp-run-sequence)
+
+  * [[GitHub] teambition / gulp-sequence](https://github.com/teambition/gulp-sequence) - Run a series of gulp tasks in order
+
+  * [[GitHub] kaminaly / gulp-sync](https://github.com/kaminaly/gulp-sync) - sync for dependency tasks of gulp.task method
 
 --
 
