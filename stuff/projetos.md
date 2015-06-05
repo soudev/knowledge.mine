@@ -54,6 +54,12 @@
 
 * [Trello](https://trello.com/) - Organize anything, together. Trello is a collaboration tool that organizes your projects into boards. In one glance, know what's being worked on, who's working on what, and where something is in a process.
 
+* [LibreBoard](http://libreboard.com/) - is an open-source kanban board that let you organize things in cards, and cards in lists. You can use it alone, or with your team and family thanks to our real-time synchronisation feature. Libreboard is a land of liberty and you can implement all sort of workflows on it using tags, comments, member assignation, and many more.
+
+  * [LibreBoard Roadmap](http://libreboard.com/boards/MeSsFJaSqeuo9M6bs/libreboard-roadmap)
+
+  * [LibreBoard project code](http://git.libreboard.com/libreboard/libreboard)
+
 --
 
 * [Planning A Front-end JavaScript Application | Telerik Developer Network](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
