@@ -448,6 +448,8 @@
 
 * [Managing Your Build Tasks With Gulp.js | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/managing-your-build-tasks-with-gulpjs--net-36910)
 
+* [A useful build pipeline using Gulp and Bower | Ben Scott](http://bendetat.com/a-useful-build-pipeline-using-gulp-and-bower.html)
+
 * [Gulp + Browserify: The Everything Post | Viget](http://viget.com/extend/gulp-browserify-starter-faq)
 
 --
