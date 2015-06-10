@@ -148,6 +148,10 @@
 
 ### Dicas
 
+* [Comparing Application Deployment: 2005 vs. 2015 | James Ward](http://www.jamesward.com/2015/06/08/comparing-application-deployment-2005-vs-2015) - 2015/06/08
+
+--
+
 * [[YouTube] 15 Docker Tips in 15 Minutes](https://www.youtube.com/watch?v=BJT9bA64Hcc) - Twitter University (19/12/2013).
 
 * [Some Docker Tips and Tricks | Wouter Danes](http://www.wouterdanes.net/2014/04/16/some-docker-tips-and-tricks.html)
