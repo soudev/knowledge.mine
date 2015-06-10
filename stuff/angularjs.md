@@ -139,6 +139,8 @@
 
   * [A Preview of Angular 2 and TypeScript in Visual Studio | Visual Studio Blog](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx)
 
+  * [[GitHub] Microsoft / ngconf2015demo](https://github.com/Microsoft/ngconf2015demo) - TodoMVC application demo for ng-conf 2015
+
 * ES6
 
   * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
