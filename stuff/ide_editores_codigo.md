@@ -154,6 +154,8 @@
 
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
 
+* [[package] gulp-control](https://atom.io/packages/gulp-control) - Displays a list of gulp tasks and allows execution within Atom
+
 * [AtomPair, The Ultimate Pair Programming Experience for Atom.IO | Pusher Blog](https://blog.pusher.com/atom-pair/)
 
 --
