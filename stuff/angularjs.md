@@ -1409,6 +1409,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps | Thinkster](https://thinkster.io/ionic-framework-tutorial/)
 
+* [Ionic, AngularJS and Firebase equals Hybrid Heaven | Budacode](http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/) - 2015/06/09
+
 --
 
 * Christophe Coenraets
