@@ -284,7 +284,7 @@ git clean -fd
 ```
 
 
-* [How to undo (almost) anything with Git | The GitHub Blog](https://github.com/blog) - 2015/06/08
+* [How to undo (almost) anything with Git | The GitHub Blog](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - 2015/06/08
 
 --
 
