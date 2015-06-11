@@ -1639,6 +1639,14 @@
 > **Dependência**
 > Precisa e executa sobre o Node.js
 
+--
+
+> 2015 - muitos indicam usar o NPM ao invés do Bower, pois muitos projetos atuais já usam ferramentas que rodam sobre o Node.js que já possui um gerenciador de pacotes (o NPM)
+
+* [Why We Should Stop Using Bower - And How to Do It | Gofore](http://gofore.com/ohjelmistokehitys/stop-using-bower/) - 2015/05/25 - usar o browserify no lugar do bower
+
+--
+
 * [Bower](http://bower.io/) - is a package manager for the web, from Twitter, that lets you easily install assets such as images, CSS and JavaScript, and manages dependencies for you.
 
 * [Search Bower packages | Bower](http://bower.io/search/)
