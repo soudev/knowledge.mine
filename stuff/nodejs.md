@@ -2228,6 +2228,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Introducing Gulp, Grunt, Bower, and npm support for Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmSupportForVisualStudio.aspx)
 
+* [Using Grunt, Gulp and Bower in Visual Studio 2013 and 2015 | DotNetCurry](http://www.dotnetcurry.com/visualstudio/1096/using-grunt-gulp-bower-visual-studio-2013-2015)
+
 --
 
 * [Node.js Tools 1.0 for Visual Studio | The Visual Studio Blog](http://blogs.msdn.com/b/visualstudio/archive/2015/03/25/node-js-tools-1-0-for-visual-studio.aspx) - 2015/03/25
