@@ -1851,6 +1851,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] nimbly / angular-formly](https://github.com/nimbly/angular-formly) - AngularJS directive which takes JSON representing a form and renders to HTML
 
+  * [Easy AngularJS Forms with angular-formly | Scotch](https://scotch.io/tutorials/easy-angularjs-forms-with-angular-formly)
+
 * [[GitHub] mchapman / forms-angular](https://github.com/mchapman/forms-angular) - Probably the most opinionated framework in the world
 
 
