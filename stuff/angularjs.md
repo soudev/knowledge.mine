@@ -345,6 +345,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Learn AngularJS | Codecademy](http://www.codecademy.com/learn/learn-angularjs) - Learn to build web apps using AngularJS 1.x. By the end of the course, you'll be able to use AngularJS to create your own apps.
+
 * [The Angular Course](http://www.angularcourse.com/) - When you're done, you'll have full web app built with AngularJS, Firebase, Twilio, and Zapier.
 
 * [Shaping up with Angular.js : Free CodeSchool Course](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
