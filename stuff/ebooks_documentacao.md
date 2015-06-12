@@ -344,6 +344,10 @@
 
 --
 
+* [[YouTube] BGTSD - Part 23: What do you do when you do not know how to do something?](https://www.youtube.com/watch?v=PounrNJPMkU) - 2015/06/10 - Jesse Warden
+
+--
+
 * [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations
 Share with others around the world
 
