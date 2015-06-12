@@ -642,6 +642,10 @@
 
 ### Identificadores 
 
+* [[GitHub] sindresorhus / hasha](https://github.com/sindresorhus/hasha) - Get the hash of a buffer/string/stream/file
+
+--
+
 * [uuid | node.js modules](https://nodejsmodules.org/tags/uuid)
 
 * [[GitHub] broofa / node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
