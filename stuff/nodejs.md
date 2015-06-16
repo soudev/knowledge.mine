@@ -1145,6 +1145,10 @@
 
 --
 
+* [How to Implement Node + React Isomorphic JavaScript & Why it Matters | StrongLoop](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
+
+--
+
 * [Atualizando o NodeJS no Linux | Igor Costa](http://www.igorcosta.com/atualizando-o-nodejs-linux/)
 
 --
