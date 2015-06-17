@@ -157,6 +157,8 @@
 
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
 
+* [[GitHub] angular-class / NG6-starter](https://github.com/angular-class/NG6-starter) - Starter for Angular + ES6 + (Webpack or JSPM)
+
 
 ### Estatísticas
 
