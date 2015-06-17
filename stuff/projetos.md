@@ -48,10 +48,6 @@
 
 --
 
-* [REMOTE: The new book from 37signals](https://37signals.com/remote/)
-
---
-
 * [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
 
 * [HipChat](https://www.hipchat.com/) - Private group chat, video chat, instant messaging for teams
@@ -86,6 +82,8 @@
 
 
 ## Trabalho remoto
+
+* [REMOTE: The new book from 37signals](https://37signals.com/remote/)
 
 * [[GitHub] pragmaticivan / guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) - Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 
