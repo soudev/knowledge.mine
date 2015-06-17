@@ -135,6 +135,8 @@
 
 * [[GitHub] karelvuong / fox](https://github.com/karelvuong/fox) - A UI + syntax theme for Sublime Text based on Mozilla's Firefox Developer Edition
 
+* [[GitHub] equinusocio / material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
+
 
 ## Packages e Plugins
 
