@@ -72,6 +72,10 @@
 
 --
 
+* [JavaScript.com](https://www.javascript.com/) - Learn JavaScript and stay connected with the latest news created and curated by the JavaScript community.
+
+--
+
 * [Javascript Learning Tracks](http://js.startrack.io/)
 
 --
