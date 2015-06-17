@@ -87,6 +87,8 @@
 
 * [[GitHub] pragmaticivan / guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) - Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 
+* [[GitHub] lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
+
 
 ## Time Traking
 
