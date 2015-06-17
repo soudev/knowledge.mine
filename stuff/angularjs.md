@@ -135,6 +135,10 @@
 
 --
 
+* [[GitHub] pbastowski / angular2-now](https://github.com/pbastowski/angular2-now) - Code Angular 2 @Component syntax in your Angular 1 apps now
+
+--
+
 * TypeScript
 
   * [A Preview of Angular 2 and TypeScript in Visual Studio | Visual Studio Blog](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx)
