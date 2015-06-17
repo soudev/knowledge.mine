@@ -85,6 +85,14 @@
 
 * [REMOTE: The new book from 37signals](https://37signals.com/remote/)
 
+--
+
+* [The Remote Manifesto | GitLab](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+
+* [Highlights to my first remote job | GitLab](https://about.gitlab.com/2015/06/17/highlights-to-my-first-remote-job/)
+
+--
+
 * [[GitHub] pragmaticivan / guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) - Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 
 * [[GitHub] lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
