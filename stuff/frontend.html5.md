@@ -636,11 +636,17 @@
 
 * [[GitHub] mailru / FileAPI](https://github.com/mailru/FileAPI) - a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation 
 
+--
+
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
 
 * [PDF.js](https://mozilla.github.io/pdf.js/) - A general-purpose, web standards-based platform for parsing and rendering PDFs.
 
   * [How fast is PDF.js? | Mozilla Hacks](https://hacks.mozilla.org/2014/05/how-fast-is-pdf-js/)
+
+* [[GitHub] bpampuch / pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
+
+--
 
 * [[GitHub] FileReader.js](http://bgrins.github.io/filereader.js/) - Read Files with JavaScript!
 
