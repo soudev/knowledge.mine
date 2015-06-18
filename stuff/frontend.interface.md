@@ -83,6 +83,10 @@
 
   * [[GitHub] lightningtgc / MProgress.js](https://github.com/lightningtgc/MProgress.js) - Material Progress —Google Material Design Progress linear bar. By using CSS3 and pure JavaScript
 
+--
+
+* [7 future web design trends | Medium by @jowitaziobro](https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355) - 2015/05/14
+
 
 ### Look and Feel
 
