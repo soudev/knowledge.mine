@@ -159,6 +159,8 @@
 
 * [[GitHub] rafaelfragosom / angular2-typescript](https://github.com/rafaelfragosom/angular2-typescript) - Angular 2 and TypeScript Initial Project
 
+* [[GitHub] auth0 / angular2-the-new-horizon-sample](https://github.com/auth0/angular2-the-new-horizon-sample) - Sample project for Angular 2: The new horizon talk at jQuerySF
+
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
 
 * [[GitHub] angular-class / NG6-starter](https://github.com/angular-class/NG6-starter) - Starter for Angular + ES6 + (Webpack or JSPM)
