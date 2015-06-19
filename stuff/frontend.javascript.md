@@ -1840,6 +1840,8 @@
 
 * [Introduction to ECMAScript 6 | Christophe Coenraets](http://coenraets.org/present/es6/)
 
+* [ES6 In Depth Articles | Mozilla Hacks](https://hacks.mozilla.org/category/es6-in-depth/)
+
 --
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
