@@ -2107,6 +2107,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] newaeonweb / generator-angm](https://github.com/newaeonweb/generator-angm) - Modular AngularJS Generator
 
+* [JHipster](https://jhipster.github.io/) - is a fully Open Source, widely used application generator. It leverages cool technologies like Spring Boot, AngularJS and Yeoman to give you a high level of productivity and quality.
+
 --
 
 * [[GitHub] infraContentools / ngbuilder](https://github.com/infraContentools/ngbuilder) - A module builder to AngularJS
