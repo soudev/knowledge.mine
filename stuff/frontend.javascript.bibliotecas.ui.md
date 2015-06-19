@@ -176,6 +176,10 @@
 
 --
 
+* [React in 7 Minutes - React Video Tutorial #free | @eggheadio](https://egghead.io/lessons/react-react-in-7-minutes)
+
+--
+
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
 
 * [[GitHub] reactjs / react-future](https://github.com/reactjs/react-future) - Specs & docs for potential future and experimental React APIs and JavaScript syntax.
