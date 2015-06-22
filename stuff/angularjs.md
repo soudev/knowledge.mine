@@ -1415,6 +1415,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[SlideShare] Ionic adventures - Hybrid Mobile App Development rocks](http://www.slideshare.net/juarezpaf/ionic-adventures-hybrid-mobile-development-rocks) - 2015/03/01
 
+* [[SlideShare] Aplicaciones Móviles Híbridas con Ionic](http://www.slideshare.net/eporroa/hybrid-mobile-apps-with-ionic) - 2015/06/21
+
 --
 
 * [Pull to Refresh | Formulas | Learn Ionic](http://learn.ionicframework.com/formulas/pull-to-refresh/)
