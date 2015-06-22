@@ -1145,6 +1145,10 @@
 
 --
 
+* [[GitHub] motdotla / dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+
+--
+
 * [How to Implement Node + React Isomorphic JavaScript & Why it Matters | StrongLoop](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
 
 --
