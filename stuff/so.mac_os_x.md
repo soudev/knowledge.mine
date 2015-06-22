@@ -187,6 +187,12 @@
 
   * [[GitHub] fullstackio / FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at [fullstackedu.com](https://www.fullstackedu.com/)
 
+
+* Ruby
+
+  * [[GitHub] sstephenson / rbenv](https://github.com/sstephenson/rbenv) - Groom your app’s Ruby environment
+
+
 * Java
 
   * [Java for OS X 2014-001 | Apple Support](http://support.apple.com/kb/DL1572)
