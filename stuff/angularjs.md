@@ -1505,6 +1505,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [A Guide to Angular JS Directives | Toptal](http://www.toptal.com/angular-js/angular-js-demystifying-directives) - Demystifying Directives
 
+* [A Practical Guide to AngularJS Directives | SitePoint](http://www.sitepoint.com/practical-guide-angularjs-directives/) - 2014/01/14
+
+* [A Practical Guide to AngularJS Directives (Part Two) | SitePoint](http://www.sitepoint.com/practical-guide-angularjs-directives-part-two/) - 2014/01/17
+
 --
 
 * [Criando componentes](http://cironunes.com/angular-components-talk/) - by Ciro Nunes / @cironunesdev | #AngularJSSP 20 de Junho '14
