@@ -1681,7 +1681,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Understanding AngularJS transclude in directives](http://odiseo.net/angularjs/understanding-angularjs-transclude-in-directives)
 
-* [A Look at Directives in AngularJS](http://blog.envylabs.com/post/52142458172/a-look-at-directives-in-angularjs) - Using directives, we can extract complex and repetitive parts of our user interface into easily reusable building blocks.
+* [A Look at Directives in AngularJS](http://madewithenvy.com/ecosystem/articles/2013/directives-in-angularjs/) - Using directives, we can extract complex and repetitive parts of our user interface into easily reusable building blocks.
 
 * [Part 5 - Custom Directive | Angular Cats!](http://ericterpstra.com/2012/09/angular-cats-part-5-custom-directive/)
 
