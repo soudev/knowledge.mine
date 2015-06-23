@@ -1539,6 +1539,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Advanced Angular.js Directives with Code School](https://www.codeschool.com/blog/2015/03/06/digging-advanced-angularjs-directives/) - 2015/03/06
+
+  * [[GitHub] codeschool / CodeEditorDirectiveExample](https://github.com/codeschool/CodeEditorDirectiveExample) 
+
 * [Angle Brackets, Synergistic Directives | Pony Foo](http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
 
 * [Little-known directives of Angular.js | CODETUNES](http://codetunes.com/2013/little-known-angular-directives/)
