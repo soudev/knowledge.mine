@@ -2453,6 +2453,10 @@ describe('testing something...', function() {
 
 --
 
+* [[GitHub] davemo / end-to-end-with-angularjs](https://github.com/davemo/end-to-end-with-angularjs) - An intermediate/advanced look at how to use Angular JS in conjunction with a server-side.
+
+--
+
 * Promises
 
   * [Asynchronous Testing in Angular with Protractor's ControlFlow | Atomic Spin](http://spin.atomicobject.com/2014/12/17/asynchronous-testing-protractor-angular/) - Protractor and WebDriverJSs ControlFlow allows us to write our own asynchronous functions that can be used from our tests with a synchronous style. (2014/12/17)
