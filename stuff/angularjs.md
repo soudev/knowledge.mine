@@ -1539,10 +1539,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Advanced Angular.js Directives with Code School](https://www.codeschool.com/blog/2015/03/06/digging-advanced-angularjs-directives/) - 2015/03/06
-
-  * [[GitHub] codeschool / CodeEditorDirectiveExample](https://github.com/codeschool/CodeEditorDirectiveExample) 
-
 * [Angle Brackets, Synergistic Directives | Pony Foo](http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
 
 * [Little-known directives of Angular.js | CODETUNES](http://codetunes.com/2013/little-known-angular-directives/)
@@ -1560,6 +1556,14 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Let's Make Full-Ass AngularJS Directives | @jhooks](http://www.joelhooks.com/blog/2014/02/11/lets-make-full-ass-angularjs-directives)
 
 * [[Slid.es] Deep Dive into custom Directives](http://slid.es/djsmith/deep-dive-into-custom-directives) -  by djsmith
+
+* [Advanced Angular.js Directives with Code School](https://www.codeschool.com/blog/2015/03/06/digging-advanced-angularjs-directives/) - 2015/03/06
+
+  * [[GitHub] codeschool / CodeEditorDirectiveExample](https://github.com/codeschool/CodeEditorDirectiveExample) 
+
+* [[YouTube] Advanced Directives with AngularJS](https://www.youtube.com/watch?v=Ty8XcASK9js) - 2015/02/13 by David Mosher
+
+  * [[GitHub] davemo / advanced-directives-with-angular-js](https://github.com/davemo/advanced-directives-with-angular-js) - Advanced Directives with Angular JS - Code for the Screencast
 
 --
 
