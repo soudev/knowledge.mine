@@ -139,6 +139,14 @@
 
 --
 
+* [Creating Container Components, Part 1: Shadow DOM | AirPair](https://www.airpair.com/javascript/posts/creating-container-components-part-1-shadow-dom)
+
+* [Creating Container Components, Part 2: Angular 1.3 Directives | AirPair](https://www.airpair.com/angularjs/posts/creating-container-components-part-2-angular-1-directives)
+
+* [Creating Container Components, Part 3: Angular 2 Component Directives | AirPair](https://www.airpair.com/angularjs/posts/creating-components-p3-angular2-directives)
+
+--
+
 * TypeScript
 
   * [A Preview of Angular 2 and TypeScript in Visual Studio | Visual Studio Blog](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx)
