@@ -1811,6 +1811,12 @@
 
 * [Learn ES6 | Babel](http://babeljs.io/docs/learn-es6/) - A detailed overview of ECMAScript 6 features.
 
+--
+
+* [From JSXTransformer to Babel | Stoyan's phpied.com](http://www.phpied.com/from-jsxtransformer-to-babel/) - 2015/06/22
+
+--
+
 * [[GitHub] 6to5 / 6to5-sublime](https://github.com/6to5/6to5-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions
 
 * [[GitHub] voronianski / oceanic-next-theme](https://github.com/voronianski/oceanic-next-theme) - Sublime Text theme ready for ES6, optimized for 6to5-sublime package
