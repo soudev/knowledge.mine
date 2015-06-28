@@ -626,6 +626,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [10 Essential AngularJS Interview Questions | Toptal](http://www.toptal.com/angular-js/interview-questions)
 
+* [AngularJS Best Practices and Tips by Toptal Developers | Toptal](http://www.toptal.com/angular-js/tips-and-practices)
+
 --
 
 * [[GitHub] EwanValentine / SymfonyAngularDocker](https://github.com/EwanValentine/SymfonyAngularDocker) - Symfony angular docker example
