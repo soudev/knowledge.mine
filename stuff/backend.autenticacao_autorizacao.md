@@ -51,6 +51,12 @@
 
 * [Authenticate a Node.js API with JSON Web Tokens | Scotch](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
 
+* [Create and Verify JWTs With Node.js | Stormpath](https://stormpath.com/blog/nodejs-jwt-create-verify/)
+
+  * [[GitHub] jwtk / njwt](https://github.com/jwtk/njwt) - Node.js JWT support - create, verify, ninjafy
+
+* [Build Secure User Interfaces Using JSON Web Tokens (JWTs) | Stormpath](https://stormpath.com/blog/build-secure-user-interfaces-using-jwts/)
+
 
 ## OAuth
 
