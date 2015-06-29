@@ -103,6 +103,8 @@
 
 ### Rendering
 
+* [[YouTube] Supercharging page load (100 Days of Google Dev)](https://www.youtube.com/watch?t=614&v=d5_6yHixpsQ) - 2015/06/10
+
 * [Solving rendering performance puzzles | JakeArchibald](http://jakearchibald.com/2013/solving-rendering-perf-puzzles/)
 
 * [Optimising for 60fps everywhere | GoSquared Engineering](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript)
