@@ -90,6 +90,12 @@
 
 * [Getting Started With Sass: Installation And The Basics](http://www.hongkiat.com/blog/getting-started-saas/)
 
+* [The Sass Way](http://thesassway.com/)
+
+  * [Understanding placeholder selectors | The Sass Way](http://thesassway.com/intermediate/understanding-placeholder-selectors)
+
+--
+
 * [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
 
 * [[GitHub] davidtheclark / scut](https://github.com/davidtheclark/scut/) - Sass utilities for the frontend laborer
