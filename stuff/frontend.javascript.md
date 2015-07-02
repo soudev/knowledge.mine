@@ -1259,6 +1259,10 @@
 
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
+* [[GitHub] d3 / d3-time-format](https://github.com/d3/d3-time-format) - A JavaScript time formatter and parser inspired by strftime and strptime
+
+--
+
 * [[GitHub] sloisel / numeric](https://github.com/sloisel/numeric) -  is a javascript library for doing numerical analysis in the browser - [NumericJS](http://www.numericjs.com/)
 
 * [[GitHub] adamwdraper / Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers
