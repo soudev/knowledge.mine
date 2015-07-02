@@ -1980,7 +1980,9 @@ $ sudo chown -R `whoami` .npm
 
 #### Node Webkit
 
-* [[GitHub] rogerwang / node-webkit](https://github.com/rogerwang/node-webkit) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
+* [[GitHub] nwjs / nw.js](https://github.com/nwjs/nw.js) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
+
+  * [[GitHub] jyapayne / Web2Executable](https://github.com/jyapayne/Web2Executable) - Uses node-webkit to generate "native" apps for already existing web apps.
 
 * [[Speaker Deck] node-webkit: app runtime based on Chromium and node.js](https://speakerdeck.com/zcbenz/node-webkit-app-runtime-based-on-chromium-and-node-dot-js)
 
