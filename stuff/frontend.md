@@ -90,6 +90,12 @@
 
 * [30 Days to Learn HTML & CSS | Tuts+](http://freecourses.tutsplus.com/30-days-to-learn-html-and-css/)
 
+--
+
+* [Chris Coyier’s Favorite CodePen Demos | DWB](http://davidwalsh.name/chris-coyiers-favorite-pens)
+
+* [Chris Coyier’s Favorite CodePen Demos II | DWB](http://davidwalsh.name/chris-coyiers-favorite-demos-ii)
+
 
 ## Browsers antigos
 
