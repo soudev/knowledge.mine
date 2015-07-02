@@ -280,6 +280,8 @@
 
 * [Deploy Java Apps With Docker = Awesome | Atlassian Blogs](https://blogs.atlassian.com/2013/06/deploy-java-apps-with-docker-awesome/)
 
+* [Screencast of Docker Tooling for Eclipse | JBoss Tools](http://tools.jboss.org/blog/docker_tooling_eclipse_mars.html)
+
 --
 
 * [A Docker primer – from zero to a running Django app](https://ochronus.com/docker-primer-django/)
