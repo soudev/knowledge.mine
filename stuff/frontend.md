@@ -221,6 +221,8 @@
 
 * [Pocket Guide to Writing SVG](http://svgpocketguide.com/book/)
 
+* [SVG ON THE WEB - A Practical Guide](https://svgontheweb.com/)
+
 * [SVG Tutorial and references | Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
