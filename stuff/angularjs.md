@@ -718,6 +718,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Providers under the hood | Crowd Interactive Blog](http://blog.crowdint.com/2015/03/18/angularjs-providers-under-the-hood.html)
 
+* [AngularJS service types with examples | Aurora Solutions](http://www.aurorasolutions.io/blog/angularjs-service-types-with-examples/)
+
 * [understanding service types | Angular Tips](http://angular-tips.com/blog/2013/08/understanding-service-types/)
 
 * [Entendendo os tipos de Serviços do AngularJS | pedronauck.com](http://pedronauck.com/angularjs/entendendo-os-tipos-de-servico-do-angularjs)
