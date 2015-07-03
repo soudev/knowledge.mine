@@ -499,6 +499,8 @@
 
 #### D3.js
 
+* [[GitHub] wbkd / awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
+
 * [Introduction to d3.js](http://ireneros.com/conf/nicar/introduction-to-d3.html)
 
 --
