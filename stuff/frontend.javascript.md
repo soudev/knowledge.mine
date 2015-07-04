@@ -961,6 +961,8 @@
 
 * [[GitHub] substack / browserify-handbook](https://github.com/substack/browserify-handbook) - how to build modular applications with browserify
 
+* [[GitHub] basti1302 / angular-browserify](https://github.com/basti1302/angular-browserify) - Example/seed project for AngularJS with Browserify
+
 
 ##### Requireify
 
