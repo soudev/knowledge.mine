@@ -1924,6 +1924,8 @@
 
 * [[GitHub] JustinDrake / node-es6-examples](https://github.com/JustinDrake/node-es6-examples) - ECMAScript 6 examples for Node.JS
 
+* [[GitHub] danielstern / generator-es6-webapp](https://github.com/danielstern/generator-es6-webapp) - A Yeoman generator to create an app which automatically transpiles ES6 to ES5 - also includes LESS and Skeleton
+
 
 ### ECMAScript 7
 
