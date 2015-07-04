@@ -1111,13 +1111,13 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Requiring Versus Browserifying Angular | Telerik Developer Network](http://developer.telerik.com/featured/requiring-vs-browerifying-angular/)
-
---
-
 * [Require.js packages for building large scale angular applications | Jonathan Creamer](http://jonathancreamer.com/require-js-packages-for-building-large-scale-angular-applications/)
 
   * [[GitHub] jcreamer898 / requirejs-angular-starter](https://github.com/jcreamer898/requirejs-angular-starter) - Get started with large scale angular applications and require.js
+
+--
+
+* [Requiring Versus Browserifying Angular | Telerik Developer Network](http://developer.telerik.com/featured/requiring-vs-browerifying-angular/)
 
 --
 
@@ -1136,6 +1136,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [AngularJS And Browserify - The Dream Team For Single Page Applications | codecentric](https://blog.codecentric.de/en/2014/08/angularjs-browserify/) - 2014/08/18
 
 * [Using Angular’s new improved Browserify support | NPM Blog](http://blog.npmjs.org/post/114584444410/using-angulars-new-improved-browserify-support)
+
+* [[GitHub] basti1302 / angular-browserify](https://github.com/basti1302/angular-browserify) - Example/seed project for AngularJS with Browserify
 
 --
 
