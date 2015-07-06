@@ -824,8 +824,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Wallop Slider in AngularJS | Andy Shora](http://techslides.com/angular-js-demos-examples-and-resources/)
 
-* [Responsive template swapping with Angular Directives | CheapSteak.net](http://cheapsteak.net/posts/responsive-template-swapping-with-angular)
-
 * [Removing the unneeded watches | Angular Tips](http://angular-tips.com/blog/2013/08/removing-the-unneeded-watches/)
 
 * [Deep-Watching Circular Data Structures in Angular | Small Improvements](http://tech.small-improvements.com/2014/06/11/deep-watching-circular-data-structures-in-angular/)
@@ -1623,9 +1621,17 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Responsive template swapping with Angular Directives | CheapSteak.net](http://cheapsteak.net/posts/responsive-template-swapping-with-angular)
+
+--
+
 * [Understanding Transclusion in Angular | Nulogy Blog](http://engineering.nulogy.com/posts/transclusion-in-angular/)
 
 * [AngularJS: Multi-transclusion | Zach Snow](http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/)
+
+* [The nitty-gritty of compile and link functions inside AngularJS directives | jvandemo.com](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/)
+
+* [The nitty-gritty of compile and link functions inside AngularJS directives part 2: transclusion | jvandemo.com](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives-part-2-transclusion/)
 
 --
 
