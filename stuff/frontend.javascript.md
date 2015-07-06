@@ -1842,6 +1842,8 @@
 
 ### ECMAScript 6
 
+> ECMAScript 6 -> ECMAScript 2015
+
 * [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
 * [Five to Six — Addy Osmani’s list of ECMAScript 6 tools | Super-Script](http://www.super-script.us/2015/es6-tools.html)
@@ -1929,4 +1931,8 @@
 
 ### ECMAScript 7
 
+> ECMAScript 7 -> ECMAScript 2016
+
 * [[YouTube] Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw)
+
+* [[YouTube] Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://www.youtube.com/watch?v=lil4YCCXRYc) - 2015/06/22
