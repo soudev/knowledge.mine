@@ -4,13 +4,13 @@
 
 * [CSS](#css)
   * [Flexbox](#flexbox)
+  * [Font Size and Units](#font-size-and-units)
   * [Media Query](#media-query)
   * [Ferramentas](#ferramentas)
     * [Ferramentas Online](#ferramentas-online)
     * [Ferramentas Desktop](#ferramentas-desktop)
 
 <!-- toc stop -->
-
 
 ## CSS
 
@@ -132,6 +132,26 @@
 * [Getting Dicey With Flexbox | David Walsh Blog](http://davidwalsh.name/flexbox-dice) - In this article, I'll walk you through the basics of flexbox by showing you how to build the faces of a die.
 
 * [Free Flexbox Starter Course | Unraveling Flexbox](https://unravelingflexbox.com/subscribe) - With Unraveling Flexbox, you'll learn how to unlock the full potential of modern CSS to create responsive application layouts in hours, not days.
+
+
+### Font Size and Units
+
+* [Qual unidade utilizar - Pixel, EM ou REM | Tableless](http://tableless.com.br/unidade-pixels-em-rem/) - 2012//09/03
+
+```
+target px / context px = em
+
+30px (target) ÷ 16px (context [body]) = 1.88em
+
+rem - context is always based on body context
+```
+
+
+* [CSS3 rem units | SitePoint](http://www.sitepoint.com/css3-rem-units/)
+
+* [Font Size Idea: px at the Root, rem for Components, em for Text Elements | CSS Tricks](https://css-tricks.com/rems-ems/)
+
+* [There’s more to the CSS rem unit than font sizing | CSS Tricks](https://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/)
 
 
 ### Media Query
