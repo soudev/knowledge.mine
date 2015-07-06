@@ -1619,9 +1619,9 @@
 
 * [[GitHub] tweekmonster / Developer-Profile](https://github.com/tweekmonster/Developer-Profile) - A Google Chrome extension that deletes browser data when all windows in a profile are closed
 
---
+* [[GitHub] vladikoff / grunt-devtools](https://github.com/vladikoff/grunt-devtools) - Grunt Task Runner Extension for Chrome Developer Tools
 
-* [Grunt Task Runner Extension for Chrome Developer Tools](https://github.com/vladikoff/grunt-devtools) - tests
+* [[GitHub] github-linker / chrome-extension](https://github.com/github-linker/chrome-extension/) - The GitHub Linker is a Google Chrome Extension which links NPM, bower, Composer & Duo dependencies to their GitHub repository page. It also solve require() statments in a .js, .jsx, .coffee or .md file.
 
 
 ### Gerenciador de Pacotes
