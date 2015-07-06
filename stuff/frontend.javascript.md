@@ -1868,6 +1868,8 @@
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
 
+* [[Git] Moving to ES6 from CoffeeScript by danielgtaylor](https://gist.github.com/danielgtaylor/0b60c2ed1f069f118562)
+
 * [Easing the Transition to ES6 | ifwe](http://www.ifwe.co/code/posts/easing-the-transition-to-es6/)
 
 --
