@@ -182,6 +182,8 @@
 
 * [React in 7 Minutes - React Video Tutorial #free | @eggheadio](https://egghead.io/lessons/react-react-in-7-minutes)
 
+* [ReactJS For Stupid People | Andrew Ray's Blog](http://blog.andrewray.me/reactjs-for-stupid-people/)
+
 --
 
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
