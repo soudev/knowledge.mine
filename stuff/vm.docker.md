@@ -73,6 +73,10 @@
 
     * [DockerCon Europe keynote: State of the Art in Microservices by Adrian Cockcroft (Battery Ventures) | Docker Blog](https://blog.docker.com/2014/12/dockercon-europe-keynote-state-of-the-art-in-microservices-by-adrian-cockcroft-battery-ventures/)
 
+2015
+
+* [Docker e containers: uma introdução rápida | Info Br - QConBr 2015](http://www.infoq.com/br/presentations/docker-e-containers) - Já ouviu falar do Docker, mas não teve a oportunidade de se aprofundar e vê-lo em ação? Agora é a hora! Nesta palestra será apresentado os conceitos essenciais do Docker, como executar os containers, criar suas próprias imagens, interagir com o “Docker Hub” e mais.
+
 
 ### Aprendizado
 
