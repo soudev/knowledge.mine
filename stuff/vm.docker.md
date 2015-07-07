@@ -172,6 +172,10 @@
 
 --
 
+* [Docker Containers on the Desktop | Jessie Frazelle's Blog](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/) - 2015/02/21
+
+--
+
 * [My Other Virtual Machine is a Container | Innovation Insights](http://insights.wired.com/profiles/blogs/my-other-virtual-machine-is-a-container)
 
 * [Building a Multi-Purpose Docker Image | Docker News — Medium](https://medium.com/docker-news/7762378ebc2e)
