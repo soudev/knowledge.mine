@@ -49,6 +49,8 @@
 
 > JSON Web Token
 
+* [The Anatomy of a JSON Web Token | Scotch](https://scotch.io/tutorials/the-anatomy-of-a-json-web-token)
+
 * [Authenticate a Node.js API with JSON Web Tokens | Scotch](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
 
 * [Create and Verify JWTs With Node.js | Stormpath](https://stormpath.com/blog/nodejs-jwt-create-verify/)
