@@ -172,6 +172,8 @@
 
 --
 
+* [Docker Desktop: Your Desktop over ssh running inside of a Docker container | Docker Blog](https://blog.docker.com/2013/07/docker-desktop-your-desktop-over-ssh-running-inside-of-a-docker-container/) - 2013/07/08
+
 * [Docker Containers on the Desktop | Jessie Frazelle's Blog](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/) - 2015/02/21
 
 --
