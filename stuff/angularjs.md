@@ -523,6 +523,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[YouTube Playlist] Pluralsight: AngularJS Fundamentals](https://www.youtube.com/playlist?list=PL1yxeQRU9I3TFalCPrYmCptJtCowJNi6C) - Full course
 
+* [[YouTube Playlist] Tudo sobre AngularJS](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) - Rodrigo Branas
+
 
 ### ng-newsletter: AngularJS from beginner to expert in 7 steps series 
 
