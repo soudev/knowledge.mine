@@ -74,6 +74,8 @@
 
 * [Creating Scrolling Parallax Effects with CSS | David Walsh Blog](http://davidwalsh.name/parallax)
 
+* [transitions | CSS-Tricks](https://css-tricks.com/almanac/properties/t/transition/) - 2013/08/28
+
 --
 
 * [Star Wars 3D Scrolling Text in CSS3 | Site Point](http://www.sitepoint.com/css3-starwars-scrolling-text/)
