@@ -175,6 +175,8 @@
 
 * [[GitHub] angular-class / NG6-starter](https://github.com/angular-class/NG6-starter) - Starter for Angular + ES6 + (Webpack or JSPM)
 
+* [[GitHub] angular-class / angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services), TypeScript, and Webpack by AngularClass
+
 
 ### Estatísticas
 
