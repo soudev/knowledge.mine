@@ -304,6 +304,8 @@
 
 --
 
+* [[GitHub] github / fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill
+
 * [Introduction to the Fetch API | SitePoint](http://www.sitepoint.com/introduction-to-the-fetch-api/) - 2015/07/02
 
 
