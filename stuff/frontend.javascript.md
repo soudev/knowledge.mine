@@ -302,6 +302,10 @@
 
 * [Javascript - Criando um módulo Ajax com Promises - Parte 4 | Da2k Blog](http://blog.da2k.com.br/2015/03/14/javascript-criando-um-modulo-ajax-com-promises-parte-4/)
 
+--
+
+* [Introduction to the Fetch API | SitePoint](http://www.sitepoint.com/introduction-to-the-fetch-api/) - 2015/07/02
+
 
 ### OOP
 
