@@ -1659,8 +1659,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] wzr1337 / angular-gestures](https://github.com/wzr1337/angular-gestures) - AngularJS directive that adds support for multi touch gestures to your app. Based on hammer.js.
 
-* [[jsfiddle] Big Text Directive with AngularJS](http://jsfiddle.net/michaeldausmann/FH9wj/) - Use AngularJS and jquery to make an input with a popup textarea for editing large text values
-
 * [GenieJS](http://kent.doddsfamily.us/genie/) - was built to simulate the behavior in apps like [Alfred](http://www.alfredapp.com/).
 
   * [[GitHub] kentcdodds / genie](https://github.com/kentcdodds/genie) - Keyboard control for web applications (better than cryptic shortcuts)
@@ -1683,9 +1681,15 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[jsfiddle] Big Text Directive with AngularJS](http://jsfiddle.net/michaeldausmann/FH9wj/) - Use AngularJS and jquery to make an input with a popup textarea for editing large text values
+
+* [[GitHub] cesardeazevedo / ng-input](https://github.com/cesardeazevedo/ng-input) - Text Input Effects Angular Directives
+
 * [[GitHub] assisrafael / angular-input-masks](https://github.com/assisrafael/angular-input-masks) - Personalized input masks for AngularJS
 
 * [[GitHub] dnauck / angular-advanced-searchbox](https://github.com/dnauck/angular-advanced-searchbox) - A directive for AngularJS providing a advanced visual search box
+
+* [[GitHub] DmitryEfimenko / ng-auto-save](https://github.com/DmitryEfimenko/ng-auto-save) - Set of directives to save inputs' values as user types
 
 --
 
@@ -1840,10 +1844,6 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[GitHub] decipherinc / angular-history](https://github.com/decipherinc/angular-history) - A history service for AngularJS. Undo/redo, that sort of thing. Has nothing to do with the "back" button, unless you want it to
 
 * [[GitHub] srfrnk / ng-device-detector](https://github.com/srfrnk/ng-device-detector) - Angular module to detect OS / Browser / Device
-
---
-
-* [[GitHub] DmitryEfimenko / ng-auto-save](https://github.com/DmitryEfimenko/ng-auto-save) - Set of directives to save inputs' values as user types
 
 --
 
