@@ -71,9 +71,13 @@
 
 * [Velositey - Website Layout Builder for Photoshop](http://dandkagency.com/velositey/)
 
+--
+
 * [Google Design](http://www.google.com/design/)
 
   * [Material Design](http://www.google.com/design/spec/material-design/)
+
+    * [[GitHub] google / material-design-lite](https://github.com/google/material-design-lite) - Material Design Lite Components in HTML/CSS/JS
 
   * [Material Interaction](http://material.cmiscm.com/)
 
