@@ -20,3 +20,7 @@
 --
 
 * [.bashrc generator](http://bashrcgenerator.com/) - create your .bashrc PS1 with a drag and drop interface
+
+* [Introdução ao Terminal do Linux para Programadores | Visie](http://promo.visie.com.br/curso-terminal) - Curso Grátis
+
+* [O comando SED do Linux | Blog do Beraldo](http://rberaldo.com.br/o-comando-sed-do-linux/) - A ferramenta SED, junto ao AWK, são as duas principais linguagens para manipulação de arquivos e streams do Unix/Linux. Conheça o SED neste tutorial.
