@@ -11,6 +11,7 @@
   * [Light Table](#light-table)
   * [Vim](#vim)
   * [Brackets](#brackets)
+  * [Visual Studio Code](#visual-studio-code)
   * [Atom](#atom)
 
 <!-- toc stop -->
@@ -68,8 +69,6 @@
 ## Desktop
 
 * [Hyro - cross-platform, real-time HTML5 editor](http://jawerty.github.io/Hyro/) - is a live HTML editor for creating webpages on your desktop and in real-time.
-
-* [Visual Studio Code](https://code.visualstudio.com/) - Code focused development. Redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
 
 --
 
@@ -142,6 +141,13 @@
 * [ionicBrackets](http://www.ionicbrackets.com/) adds support for Ionic framework code hinting to Brackets.
 
 
+### Visual Studio Code
+
+* [Visual Studio Code](https://code.visualstudio.com/) - Code focused development. Redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
+
+* [Visual Studio Code ♥ ES6 | MSDN Blogs](http://blogs.msdn.com/b/vscode/archive/2015/07/06/vs-code-es6.aspx)
+
+
 ### Atom
 
 * [Atom](http://atom.io/) - A hackable text editor for the 21st Century. By GitHub.
@@ -163,5 +169,3 @@
 --
 
 * [Nuclide](http://nuclide.io/) - Open source IDE for React Native, web and native mobile development, built on Atom
-
-
