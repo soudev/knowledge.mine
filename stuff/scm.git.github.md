@@ -273,6 +273,14 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* Error: pathspec 'branchName' did not match any file(s) known to git
+
+  * [Git - Error: pathspec 'develop' did not match any file(s) known to git. | coderwall](https://coderwall.com/p/zcozuq/git-error-pathspec-develop-did-not-match-any-file-s-known-to-git) - by Antony D'Andrea
+
+  * [Git: How to check out branches that exist on multiple remotes | makandropedia](http://makandracards.com/makandra/14323-git-how-to-check-out-branches-that-exist-on-multiple-remotes)
+
+--
+
 * [[StackOverflow] Git - how to revert uncommitted changes including files and folders?](https://stackoverflow.com/questions/5807137/git-how-to-revert-uncommitted-changes-including-files-and-folders/5812972#5812972)
 
 ```bash
