@@ -314,6 +314,10 @@
 
 --
 
+* [Build A Real-Time Twitter Stream with Node and React.js | Scotch](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
+
+  * [[GitHub] scotch-io / react-tweets](https://github.com/scotch-io/react-tweets)
+
 * [Real Time Trader Desktop with React, Node.js, and Socket.io | Christophe Coenraets](http://coenraets.org/blog/2015/03/real-time-trader-desktop-with-react-node-js-and-socket-io/)
 
   * [[GitHub] ccoenraets / react-trader](https://github.com/ccoenraets/react-trader) - Sample application built with React and Socket.io
