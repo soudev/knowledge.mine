@@ -151,6 +151,8 @@
 
 * TypeScript
 
+  * [Writing Angular 2 in TypeScript | Victor Savkin](http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)
+
   * [A Preview of Angular 2 and TypeScript in Visual Studio | Visual Studio Blog](http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx)
 
   * [[GitHub] Microsoft / ngconf2015demo](https://github.com/Microsoft/ngconf2015demo) - TodoMVC application demo for ng-conf 2015
