@@ -1699,9 +1699,11 @@ $ sudo chown -R `whoami` .npm
 
 * [Tour of npm | toby ho](http://tobyho.com/2012/02/09/tour-of-npm/)
 
-* [How to Build a Node npm Package From Scratch | Decodize](http://decodize.com/javascript/build-nodejs-npm-installation-package-scratch/)
-
 --
+
+* [How to Build an npm Package | Treehouse Blog](http://blog.teamtreehouse.com/build-npm-package)
+
+* [How to Build a Node npm Package From Scratch | Decodize](http://decodize.com/javascript/build-nodejs-npm-installation-package-scratch/)
 
 * [Creating and publishing a node.js module | Quick Left Boulder Colorado](http://quickleft.com/blog/creating-and-publishing-a-node-js-module)
 
