@@ -966,6 +966,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Is ReactJS faster than AngularJS ? | 500tech](http://blog.500tech.com/is-reactjs-fast/)
 
+  * [Rendering Large Datasets With AngularJS And ReactJS | Ben Nadel](http://www.bennadel.com/blog/2864-rendering-large-datasets-with-angularjs-and-reactjs.htm)
+
   * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
   * [Using React for Faster Renders and Isomosphism in Angular | David and Suzi](http://davidandsuzi.com/using-react-for-faster-renders-and-isomorphism-in-angular/)
