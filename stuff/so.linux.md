@@ -23,4 +23,6 @@
 
 * [Introdução ao Terminal do Linux para Programadores | Visie](http://promo.visie.com.br/curso-terminal) - Curso Grátis
 
+* [Introdução ao Vim Grátis | Visie](http://promo.visie.com.br/curso-vim)
+
 * [O comando SED do Linux | Blog do Beraldo](http://rberaldo.com.br/o-comando-sed-do-linux/) - A ferramenta SED, junto ao AWK, são as duas principais linguagens para manipulação de arquivos e streams do Unix/Linux. Conheça o SED neste tutorial.
