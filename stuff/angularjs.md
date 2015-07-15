@@ -1899,6 +1899,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] marcorinck / angular-growl](https://github.com/marcorinck/angular-growl) - growl-like notifications for angularJS projects
 
+* [[GitHub] JanStevens / angular-growl-2](https://github.com/JanStevens/angular-growl-2) - growl-like notifications for angularJS projects
+
 * [[GitHub] akoenig / angular-deckgrid](https://github.com/akoenig/angular-deckgrid) - A lightweight masonry-like grid for AngularJS
 
 * [[GitHub] Hacklone / ng-grid-panel](https://github.com/Hacklone/ng-grid-panel) - Google images like grid and panel in AngularJS
