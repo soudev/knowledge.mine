@@ -25,4 +25,6 @@
 
 * [Introdução ao Vim Grátis | Visie](http://promo.visie.com.br/curso-vim)
 
+* [[GitHub] amix / vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration: vimrc
+
 * [O comando SED do Linux | Blog do Beraldo](http://rberaldo.com.br/o-comando-sed-do-linux/) - A ferramenta SED, junto ao AWK, são as duas principais linguagens para manipulação de arquivos e streams do Unix/Linux. Conheça o SED neste tutorial.
