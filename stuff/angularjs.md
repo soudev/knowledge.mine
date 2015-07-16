@@ -704,7 +704,11 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Logging Client-Side Errors With AngularJS And Stacktrace.js | The Blog Of Ben Nadel](http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm) - Ben Nadel demonstrates how he logs errors in his AngularJS applications using Stacktrace.js, and how he posts the error data to his server
+* [Breaking Direct Object References At Cache Boundaries In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2863-breaking-direct-object-references-at-cache-boundaries-in-angularjs.htm)
+
+--
+
+* [Logging Client-Side Errors With AngularJS And Stacktrace.js | Ben Nadel](http://www.bennadel.com/blog/2542-Logging-Client-Side-Errors-With-AngularJS-And-Stacktrace-js.htm) - Ben Nadel demonstrates how he logs errors in his AngularJS applications using Stacktrace.js, and how he posts the error data to his server
 
 * [Better Error Handling In AngularJS | Ode To Code](http://odetocode.com/blogs/scott/archive/2014/04/21/better-error-handling-in-angularjs.aspx)
 
