@@ -100,6 +100,10 @@
 
     * [Web Tracing framework do Google ajuda você se livrar do código porco | Igor Costa](http://www.igorcosta.com/web-tracing-framework-do-google-codigo-porco/)
 
+--
+
+* [Power Surge – optimize the JavaScript in this HTML5 game using Firefox Developer Edition | Mozilla Hacks](https://hacks.mozilla.org/2015/06/power-surge-optimize-the-javascript-in-this-html5-game-using-firefox-developer-edition/)
+
 
 ### Rendering
 
