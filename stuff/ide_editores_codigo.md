@@ -166,9 +166,15 @@
 
 * [[package] pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
 
+--
+
 * [[package] atom-material-ui](https://atom.io/themes/atom-material-ui) - A dark UI theme for Atom that follows Google's Material Design Guidelines
 
 * [[package] atom-material-syntax](https://atom.io/themes/atom-material-syntax) - A dark syntax theme for Atom that uses Google's Material Design color palette
+
+* [[package] file-icons](https://atom.io/packages/file-icons) - Assign file extension icons and colours for improved visual grepping
+
+* [[package] file-type-icons](https://atom.io/packages/file-type-icons) - Changes the icon for files in the Tree View and Tabs to reflect the file's type
 
 --
 
