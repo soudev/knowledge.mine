@@ -63,7 +63,7 @@
 
 ## iPad
 
-* [Kodiak JavaScript](http://www.becomekodiak.com/kodiak-javascript.html) - iPad IDE for JavaScript developers 
+* [Kodiak JavaScript](http://www.becomekodiak.com/kodiak-javascript.html) - iPad IDE for JavaScript developers
 
 
 ## Desktop
@@ -158,11 +158,19 @@
 
 * [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
 
+--
+
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
 
 * [[package] gulp-control](https://atom.io/packages/gulp-control) - Displays a list of gulp tasks and allows execution within Atom
 
 * [[package] pigments](https://atom.io/packages/pigments) - A package to display colors in project and files.
+
+* [[package] atom-material-ui](https://atom.io/themes/atom-material-ui) - A dark UI theme for Atom that follows Google's Material Design Guidelines
+
+* [[package] atom-material-syntax](https://atom.io/themes/atom-material-syntax) - A dark syntax theme for Atom that uses Google's Material Design color palette
+
+--
 
 * [AtomPair, The Ultimate Pair Programming Experience for Atom.IO | Pusher Blog](https://blog.pusher.com/atom-pair/)
 
