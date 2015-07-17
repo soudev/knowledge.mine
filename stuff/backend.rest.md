@@ -67,7 +67,7 @@
 --
 
 * Telize
-  
+
   * [JSON IP and GeoIP REST API (IP Geolocation) | Telize](http://www.telize.com/)
 
   * [[GitHub] fcambus / telize](https://github.com/fcambus/telize) - Telize is a JSON IP and GeoIP REST API (IP Geolocation) built on Nginx and Lua
@@ -105,6 +105,8 @@
 
 * [[GitHub] interagent / http-api-design](https://github.com/interagent/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API
 
+  * [[GitHub] Gutem / http-api-design](https://github.com/Gutem/http-api-design) - pt-Br
+
 * [REST Patterns](http://restpatterns.org/)
 
 * [RESTful Service](http://ajaxpatterns.org/RESTful_Service)
@@ -125,7 +127,7 @@
 
 * [Cinco passos essenciais para uma API de sucesso | iMasters](http://imasters.com.br/apis/cinco-passos-essenciais-para-uma-api-de-sucesso/)
 
-* [[Speaker Deck] REST: Definições e Boas Práticas](https://speakerdeck.com/alextercete/rest-definicoes-e-boas-praticas) - by Alex Tercete. Apresentação realizada como parte da iniciativa VTEX Tech Talks. 
+* [[Speaker Deck] REST: Definições e Boas Práticas](https://speakerdeck.com/alextercete/rest-definicoes-e-boas-praticas) - by Alex Tercete. Apresentação realizada como parte da iniciativa VTEX Tech Talks.
 
 --
 
