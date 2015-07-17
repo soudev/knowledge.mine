@@ -389,7 +389,7 @@
     > use PhantomJS version 2.0.0
     >
     > custom build:
-    > 
+    >
     > * [[GitHub] eugene1g / phantomjs - PhantomJS 2.0 bin](https://github.com/eugene1g/phantomjs/releases/tag/2.0.0-bin) - works with webfonts [ PhantomJS 2.0.0 binaries for OSX and linux (temp, until upstream is patched) ]
 
 * [Screen capturing with PhantomJS | skipperkongen](http://skipperkongen.dk/2014/08/15/screen-capturing-with-phantomjs/)
@@ -477,7 +477,7 @@
 
 --
 
-* [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions 
+* [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions
 
   * [[GitHub] sindresorhus / grunt-pageres](https://github.com/sindresorhus/grunt-pageres) - Responsive website screenshots
 
@@ -640,7 +640,7 @@
 * [[GitHub] radubrehar / versiony](https://github.com/radubrehar/versiony) - Node.js module to increment version number for your code/module
 
 
-### Identificadores 
+### Identificadores
 
 * [[GitHub] sindresorhus / hasha](https://github.com/sindresorhus/hasha) - Get the hash of a buffer/string/stream/file
 
@@ -654,7 +654,7 @@
 
 * [[GitHub] chilts / flake](https://github.com/chilts/flake) - Generate practically unique (approximately sortable) IDs in a distributed environment
 
-* [[GitHub] substack / node-hat](https://github.com/substack/node-hat) - Generate random IDs and avoid collisions | 
+* [[GitHub] substack / node-hat](https://github.com/substack/node-hat) - Generate random IDs and avoid collisions |
 
   * [node.js | hashids](http://www.hashids.org/node-js/) - Generate short hashes from numbers (like YouTube and Bitly).
 
@@ -808,7 +808,7 @@
 
 ### Photoshop CC
 
-* [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript. 
+* [Introducing Adobe Generator for Photoshop CC](http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html) - Generator is based on the popular Node.js platform and plug-ins can be written in JavaScript.
 
 * [Generator plugins are Open Source and available on GitHub](https://github.com/adobe-photoshop/)
 
@@ -858,7 +858,7 @@
 
 --
 
-* [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command 
+* [[GitHub] giodamelio / takeapeek](https://github.com/giodamelio/takeapeek) - A simple static webserver with only one command
 
 --
 
@@ -951,8 +951,8 @@
 
 * [[GitHub] dai-shi / social-cms-backend](https://github.com/dai-shi/social-cms-backend) - Express middleware to provide schema-less REST APIs for creating a social networking website primarily using angular.js. It comes with built-in authentication, authorization and notification features.
 
-* [KeystoneJS](http://keystonejs.com/) - Node.js content management system and web application platform built on express and mongo. 
-  
+* [KeystoneJS](http://keystonejs.com/) - Node.js content management system and web application platform built on express and mongo.
+
   * [[GitHub] JedWatson / keystone](https://github.com/JedWatson/keystone) - node.js cms and web app framework
 
 * [Raneto](http://raneto.com/) - is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase
@@ -1040,7 +1040,7 @@
 
 #### Tessel
 
-* [Tessel](http://technical.io/) - JavaScript right on the hardware 
+* [Tessel](http://technical.io/) - JavaScript right on the hardware
 
 * [Tessel - Dragon Innovation](http://www.dragoninnovation.com/projects/22-tessel) - Technical Machine - hardware module that speak javascript - totally amazing
 
@@ -1127,7 +1127,7 @@
 
 * [10 Habits of a Happy Node Hacker | Heroku](https://blog.heroku.com/archives/2014/3/11/node-habits)
 
-* [NodeCloud](http://www.nodecloud.org/) - Node.js resources directory 
+* [NodeCloud](http://www.nodecloud.org/) - Node.js resources directory
 
 * [Managing Node.js Virtual Environments with Nave](http://forge.zeunic.com/development/2013/managing-node-js-virtual-environments-with-nave)
 
@@ -1163,7 +1163,7 @@
 
 --
 
-* [Node.js processando em paralelo | iMasters](http://imasters.com.br/desenvolvimento/node-js-processando-em-paralelo/) 
+* [Node.js processando em paralelo | iMasters](http://imasters.com.br/desenvolvimento/node-js-processando-em-paralelo/)
 
 --
 
@@ -1215,7 +1215,7 @@
 
 --
 
-* [[GitHub] mikefrey / node-pac](https://github.com/mikefrey/node-pac) - pack your node_modules as *.tgz files for version control and easy deploys (not tested on Windows yeat)
+* [[GitHub] mikefrey / node-pac](https://github.com/mikefrey/node-pac) - pack your node_modules as `*.tgz` files for version control and easy deploys (not tested on Windows yeat)
 
   * [Deploying Node.js apps without npm using pac | Coding in the Crease](http://www.codinginthecrease.com/news_article/show/307636)
 
@@ -1267,7 +1267,7 @@
 
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
-* [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder 
+* [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder
 
 * [[GitHub] jlord / sheetdown](https://github.com/jlord/sheetdown) - Convert a Google Spreadsheet into a table in Markdown
 
@@ -1711,6 +1711,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Your first Node.js package | NodeSource Blog](https://nodesource.com/blog/your-first-nodejs-package)
 
+* [How to Create and Publish Your First Node.js Module | Medium by @jdaudier](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
+
 --
 
 * [how npm handles the "scripts" field | npm docs](https://docs.npmjs.com/misc/scripts)
@@ -1799,7 +1801,7 @@ $ sudo chown -R `whoami` .npm
 
 * [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
 
-* [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica) 
+* [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica)
 
 * [Full Text Search with MongoDB and Node.js | MongoHQ Blog](http://blog.mongohq.com/full-text-search-with-mongodb-and-node-js/)
 
@@ -1928,7 +1930,7 @@ $ sudo chown -R `whoami` .npm
 * [Examples — AWS SDK for Node.js - Documentation](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/examples.html)
 
 * [awsbox, a PaaS layer for Node.js: An Update on Latest Developments | Mozilla Hacks](https://hacks.mozilla.org/2013/10/awsbox-a-paas-layer-for-node-js-an-update-on-latest-developments/)
-  
+
   * [[GitHub] mozilla / awsbox](https://github.com/mozilla/awsbox)
 
 
@@ -2037,8 +2039,8 @@ $ sudo chown -R `whoami` .npm
   * [[twitter] Popcorn Time App](https://twitter.com/popcorntimetv)
 
   * [[GitHub] popcorn-official](https://github.com/popcorn-official)
-  
-    * Repository unavailable due to DMCA takedown :: [[GitHub] popcorn-official / popcorn-app](https://github.com/popcorn-official/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs. 
+
+    * Repository unavailable due to DMCA takedown :: [[GitHub] popcorn-official / popcorn-app](https://github.com/popcorn-official/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
 
   * [git.popcorntime.io](https://git.popcorntime.io/)
 
@@ -2082,7 +2084,7 @@ $ sudo chown -R `whoami` .npm
 
   * [sailsCasts](http://irlnathan.github.io/sailscasts/) - Learning about sails.js one screencast at a time
 
-* [Nombo](http://nombo.io/) - Node.js Realtime App Framework 
+* [Nombo](http://nombo.io/) - Node.js Realtime App Framework
 
 
 #### Socket.io
@@ -2260,4 +2262,3 @@ $ sudo chown -R `whoami` .npm
 * [IntelliJ IDEA :: Node.js](http://www.jetbrains.com/idea/features/nodejs.html)
 
 * [WebStorm :: Node.js](http://www.jetbrains.com/webstorm/features/index.html#node.js)
-
