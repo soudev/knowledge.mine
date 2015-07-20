@@ -1560,6 +1560,14 @@
   * [Node WebId Report](http://magnetik.github.io/node-webid-report/)
 
 
+### url rewrite proxy
+
+* [[GitHub] tinganho / connect-modrewrite](https://github.com/tinganho/connect-modrewrite) - Adds modrewrite functionality to your connect/express server
+
+* [[GitHub] viart / grunt-connect-rewrite](https://github.com/viart/grunt-connect-rewrite) - Provides RewriteRules middleware for the grunt connect / express.
+
+* [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy) - Provides a http proxy as middleware for the grunt-contrib-connect plugin. With rewrite options.
+
 
 ### Módulo
 
@@ -1573,15 +1581,7 @@
 
 * [[Vimeo] Eric Elliott - Modular JavaScript With npm and Node Modules](http://vimeo.com/89258863) - An introductory look at programming with Node style modules
 
-
-### url rewrite proxy
-
-* [[GitHub] tinganho / connect-modrewrite](https://github.com/tinganho/connect-modrewrite) - Adds modrewrite functionality to your connect/express server
-
-* [[GitHub] viart / grunt-connect-rewrite](https://github.com/viart/grunt-connect-rewrite) - Provides RewriteRules middleware for the grunt connect / express.
-
-* [[GitHub] drewzboto / grunt-connect-proxy](https://github.com/drewzboto/grunt-connect-proxy) - Provides a http proxy as middleware for the grunt-contrib-connect plugin. With rewrite options.
-
+* [[GitHub] ericdouglas / rooted](https://github.com/ericdouglas/rooted) - Requiring modules/folders/files in the right way
 
 
 ### NPM
