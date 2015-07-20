@@ -82,8 +82,8 @@
 
 * O [Angular.js](http://angularjs.org/) é um projeto OpenSource, disponível no [GitHub](https://github.com/angular/angular.js), onde seu desenvolvimento e evolução conta com a participação da comunidade, enviando sugestões (código), para evolução, melhorias e correções de eventuais bugs. Conta com equipe dedicada patrocinada pela Google, onde esta tem por responsabilidade cuidar do roadmap, evolução, orquestração da colaboração vinda da comunidade (pull request's no GitHub) e disponibilizar/publicar novas versões do Angular.js.
 
-  * [Story About Angular, Passion and Community (ng-conf 2014)](http://igorminar.github.io/story-about-angular-passion-and-community/) 
-    
+  * [Story About Angular, Passion and Community (ng-conf 2014)](http://igorminar.github.io/story-about-angular-passion-and-community/)
+
     * [[GitHub] IgorMinar / story-about-angular-passion-and-community](https://github.com/IgorMinar/story-about-angular-passion-and-community)
 
 
@@ -178,6 +178,8 @@
 * [[GitHub] angular-class / NG6-starter](https://github.com/angular-class/NG6-starter) - Starter for Angular + ES6 + (Webpack or JSPM)
 
 * [[GitHub] angular-class / angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services), TypeScript, and Webpack by AngularClass
+
+* [[GitHub] rogerpadilla / angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter
 
 
 ### Estatísticas
@@ -307,7 +309,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Aprendizado
 
-* [My Experience With AngularJS - The Super-heroic JavaScript MVW Framework | Ben Nadel](http://www.bennadel.com/blog/2439-My-Experience-With-AngularJS-The-Super-heroic-JavaScript-MVW-Framework.htm) - uma boa representação gráfica, sobre o aprendizado e uso do AngularJS 
+* [My Experience With AngularJS - The Super-heroic JavaScript MVW Framework | Ben Nadel](http://www.bennadel.com/blog/2439-My-Experience-With-AngularJS-The-Super-heroic-JavaScript-MVW-Framework.htm) - uma boa representação gráfica, sobre o aprendizado e uso do AngularJS
 
 * [AngularJS: an Overview | Glenn Stovall](http://glennstovall.com/blog/2013/06/27/angularjs-an-overview/)
 
@@ -530,7 +532,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [[YouTube Playlist] Tudo sobre AngularJS](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) - Rodrigo Branas
 
 
-### ng-newsletter: AngularJS from beginner to expert in 7 steps series 
+### ng-newsletter: AngularJS from beginner to expert in 7 steps series
 
 * [Part 1: How to get started](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
 
@@ -600,7 +602,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 * [Kodigon](http://www.yrezgui.com/kodigon) - is a webapplication which encode and decode (if possible) text or files in many algorithm formats lke Base64, MD5, SHA1, etc.
 
 * [Plunker](http://plnkr.co/) - is an online community for creating, collaborating on and sharing your web development ideas.
-  
+
 * [[GitHub] matthiasn / BirdWatch](https://github.com/matthiasn/BirdWatch) - Tweet stream analysis and visualization using AngularJS, Bootstrap, D3.js, ElasticSearch and Play Framework | [Blog post](http://matthiasnehlsen.com/blog/2013/08/13/birdwatch-angularjs-elasticsearch-play/)
 
 * [uFun](http://ufun.coderockr.com/) - é a maneira mais divertida de você encontrar e compartilhar seus sound memes favoritos
@@ -826,7 +828,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Multi-Step Form Using UI Router | Scotch](http://scotch.io/tutorials/javascript/angularjs-multi-step-form-using-ui-router)
 
-* [Random tricks when using AngularJS](http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/) 
+* [Random tricks when using AngularJS](http://blog.tomaka17.com/2012/12/random-tricks-when-using-angularjs/)
 
 * [input radio | Angular Docs](http://docs-angularjs-org-dev.appspot.com/api/ng.directive:input.radio)
 
@@ -1139,7 +1141,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular And Browserify | Coding Blog](http://ethanway.com/angular-and-browserify/) - 2013/12/07
 
-* [AngularJS with Browserify | Ben Clinkinbeard](http://benclinkinbeard.com/talks/2014/ng-conf/) - ng-conf 2014 
+* [AngularJS with Browserify | Ben Clinkinbeard](http://benclinkinbeard.com/talks/2014/ng-conf/) - ng-conf 2014
 
 * [Towards atomic AngularJS components with Browserify | Ben Clinkinbeard](http://benclinkinbeard.com/posts/towards-atomic-angularjs-components-with-browserify/) - 2014/02
 
@@ -1439,7 +1441,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 #### Ionic
 
-* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
+* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications.
 
 * [ngCordova](http://ngcordova.com/) - is a set of AngularJS extensions on top of the Cordova API to make it easier to build, test, and deploy Cordova apps with AngularJS
 
@@ -1487,7 +1489,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* The dynamic programmer 
+* The dynamic programmer
 
   > Code for this series is available on [[Github] hgarcia / dynamic-sports](https://github.com/hgarcia/dynamic-sports)
 
@@ -1555,7 +1557,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Component-Based Directives in AngularJS | AirPair](https://www.airpair.com/angularjs/posts/component-based-angularjs-directives)
 
-* [[SlideShare] AngularJS - 10 passos para aprender a criar suas directivas](http://pt.slideshare.net/jandersonfc/10-passos-para-aprender-a-criar-sua-directivas) - 2014/12/12 @jandersonfc 
+* [[SlideShare] AngularJS - 10 passos para aprender a criar suas directivas](http://pt.slideshare.net/jandersonfc/10-passos-para-aprender-a-criar-sua-directivas) - 2014/12/12 @jandersonfc
 
   * [[GitHub] jandersonfc / tutorial-angularjs-directives](https://github.com/jandersonfc/tutorial-angularjs-directives) - Código do tutorial básico para criar directivas
 
@@ -1595,7 +1597,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Advanced Angular.js Directives with Code School](https://www.codeschool.com/blog/2015/03/06/digging-advanced-angularjs-directives/) - 2015/03/06
 
-  * [[GitHub] codeschool / CodeEditorDirectiveExample](https://github.com/codeschool/CodeEditorDirectiveExample) 
+  * [[GitHub] codeschool / CodeEditorDirectiveExample](https://github.com/codeschool/CodeEditorDirectiveExample)
 
 * [[YouTube] Advanced Directives with AngularJS](https://www.youtube.com/watch?v=Ty8XcASK9js) - 2015/02/13 by David Mosher
 
@@ -1771,10 +1773,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [Building a Custom AngularJS Unique Value Directive | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/09/24/building-a-custom-angularjs-unique-value-directive.aspx) - To see the directive in an actual application check out the [Customer Manager sample application](https://github.com/DanWahlin/CustomerManagerStandard) 
+* [Building a Custom AngularJS Unique Value Directive | Dan Wahlin](http://weblogs.asp.net/dwahlin/archive/2013/09/24/building-a-custom-angularjs-unique-value-directive.aspx) - To see the directive in an actual application check out the [Customer Manager sample application](https://github.com/DanWahlin/CustomerManagerStandard)
 
-* [Creating an AngularJS Component | Safari Books Online](http://blog.safaribooksonline.com/2013/11/07/creating-an-angularjs-component/) 
-  
+* [Creating an AngularJS Component | Safari Books Online](http://blog.safaribooksonline.com/2013/11/07/creating-an-angularjs-component/)
+
   * [[GitHub] jonniespratley / ng-chartjs-directive](https://github.com/jonniespratley/ng-chartjs-directive) - This is a AngularJS directive for creating charts with ChartJS
 
   * [[plunkr] ng-chartjs-directive example](http://embed.plnkr.co/QE2TLfiS9zabrTRKM0Vr/preview)
@@ -1784,7 +1786,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[YouTube] AngularJS & D3: Directives for Visualizations](https://www.youtube.com/watch?v=aqHBLS_6gF8) - 2014/01/22
 
-* [[GitHub] vicapow / angular-d3-talk](https://github.com/vicapow/angular-d3-talk) - Visualizing data with Angular and D3 
+* [[GitHub] vicapow / angular-d3-talk](https://github.com/vicapow/angular-d3-talk) - Visualizing data with Angular and D3
 
 * [D3.js in Angular.js Directive - a relief from D3 svg code in HTML Page | Technical Blogs](http://www.phloxblog.in/d3-js-angular-directive/)
 
@@ -1837,7 +1839,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Módulos
 
-* [Angular Modules](http://ngmodules.org/) - Encontre (Módulos, Plugins e Directives) para o Angular.js 
+* [Angular Modules](http://ngmodules.org/) - Encontre (Módulos, Plugins e Directives) para o Angular.js
 
 --
 
@@ -1859,7 +1861,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] mgonto / restangular](https://github.com/mgonto/restangular) - AngularJS service to handle Rest API Restful Resources properly and easily
 
-* [[GitHub] jeffbcross / syncResource](https://github.com/jeffbcross/syncResource) - OmniBinder - One binder to bind AngularJS models to everything [Status: Experimental, In-Development : 17/09/2013] 
+* [[GitHub] jeffbcross / syncResource](https://github.com/jeffbcross/syncResource) - OmniBinder - One binder to bind AngularJS models to everything [Status: Experimental, In-Development : 17/09/2013]
 
 * [[GitHub] chinmaymk / angular-cog](https://github.com/chinmaymk/angular-cog) - declarative ajax requests for angularjs
 
@@ -1889,7 +1891,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] Pasvaz / bindonce](https://github.com/Pasvaz/bindonce) - Zero watches binding for AngularJs
 
-* [[GitHub] jtrussell / angular-selection-model](https://github.com/jtrussell/angular-selection-model) - The selection management companion for ngRepeat 
+* [[GitHub] jtrussell / angular-selection-model](https://github.com/jtrussell/angular-selection-model) - The selection management companion for ngRepeat
 
 * [[GitHub] oblador / angular-lazytube](https://github.com/oblador/angular-lazytube) - Lightweight, responsive, lazy loaded YouTube videos that degrades gracefully
 
@@ -2104,7 +2106,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Animations](http://www.nganimate.org/)
 
-* [[GitHub] Hendrixer / ng-Fx](https://github.com/Hendrixer/ng-Fx) - Simple, Beautiful animation library for Angular 
+* [[GitHub] Hendrixer / ng-Fx](https://github.com/Hendrixer/ng-Fx) - Simple, Beautiful animation library for Angular
 
 * [[GitHub] mgcrea / angular-motion](https://github.com/mgcrea/angular-motion) - Fancy CSS3 animations for AngularJS 1.2+
 
@@ -2191,7 +2193,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] gigablox / angular-art-gallery](https://github.com/gigablox/angular-art-gallery) - Art Gallery application using dynamic API data built with AngularJS
 
-* [[GitHub] konsumer / music_player](https://github.com/konsumer/music_player/) - A simple audio player example that uses Angular 
+* [[GitHub] konsumer / music_player](https://github.com/konsumer/music_player/) - A simple audio player example that uses Angular
 
 * [[GitHub] pikock / bootstrap-magic](https://github.com/pikock/bootstrap-magic) - Bootstrap themes generator, featuring Bootstrap 3.1 and AngularJS. Update your variables, change it with a smooth colorpicker and get instantly the result.
 
@@ -2212,7 +2214,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 --
 
 * [Datavisualization with Angular and d3 on the Twitter Stream API | Topheman JS](http://dev.topheman.com/datavisualization-with-angular-and-d3-on-the-twitter-stream-api/)
-  
+
   * [[GitHub] topheman / topheman-datavisual](https://github.com/topheman/topheman-datavisual) - Realtime datavisualization with Angular, d3, and nodejs based on Twitter Stream API
 
 --
@@ -2308,7 +2310,7 @@ Projeto de exemplo / estrutura inicial
 
 * **Fork:** [[GitHub] skivvies / angular-seed](https://github.com/skivvies/angular-seed) | [Travis-CI](https://travis-ci.org/skivvies/angular-seed)
 
-* **require.js:** 
+* **require.js:**
 
   * [[GitHub] ysilvestrov / angular-seed](https://github.com/ysilvestrov/angular-seed)
 
@@ -2318,7 +2320,7 @@ Projeto de exemplo / estrutura inicial
 ## Teste
 
 > **Dependência**
-> 
+>
 > As ferramentas de teste, para os projetos com Angular.js necessitam e executam sobre o [Node.js](http://nodejs.org/) | [[GitHub] erkobridee / lab-nodejs](https://github.com/erkobridee/lab-nodejs)
 >
 
@@ -2326,15 +2328,15 @@ Projeto de exemplo / estrutura inicial
 describe('testing something...', function() {
   it('should do something...', function() {
     // arrange
-      
+
       // TODO: define code
 
     // act
-      
+
       // TODO: define code
 
     // assertions
-      
+
       // TODO: define code
   });
 });
@@ -2351,7 +2353,7 @@ describe('testing something...', function() {
 * [[GitHub] ricardohbin / angularjs-meetup-sp](https://github.com/ricardohbin/angularjs-meetup-sp) - Jasmine + Angular.mocks + Karma.JS
 
 * [[YouTube] Testing Strategies for AngularJS](https://www.youtube.com/watch?v=UYVcY9EJcRs)
-  
+
   * [[GitHub] davemo / lineman-angular-template](https://github.com/davemo/lineman-angular-template) - A Lineman Application Template using AngularJS
 
 --
@@ -2416,7 +2418,7 @@ describe('testing something...', function() {
 
   * [Directives](http://www.benlesh.com/2013/06/angular-js-unit-testing-directives.html)
 
--- 
+--
 
 * [Creating an Eclipse UI to run AngularJS e2e tests using Karma | Dinis Cruz Blog](http://blog.diniscruz.com/2014/02/creating-eclipse-ui-to-run-angularjs.html)
 
@@ -2491,7 +2493,7 @@ describe('testing something...', function() {
 
   * [[StackOverflow] get text of element during angular $timeout in protractor](https://stackoverflow.com/questions/24041920/get-text-of-element-during-angular-timeout-in-protractor)
 
-  * [Protractor - issue 49 : comment about the problem](https://github.com/angular/protractor/issues/49#issuecomment-26443073) 
+  * [Protractor - issue 49 : comment about the problem](https://github.com/angular/protractor/issues/49#issuecomment-26443073)
 
 --
 
