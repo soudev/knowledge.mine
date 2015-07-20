@@ -353,7 +353,7 @@
 * [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns/)
 
 * [JavaScript: Function Invocation Patterns](http://doctrina.org/Javascript-Function-Invocation-Patterns.html)
-  
+
 * [Learning JavaScript Design Patterns | A book by Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 * [Smart JavaScript Techniques and Patterns](http://www.onextrapixel.com/2013/02/21/improve-your-code-with-smart-javascript-techniques-and-patterns/)
@@ -379,19 +379,19 @@
 * [JavaScript Design Patterns | Carl Danley](http://carldanley.com/javascript-design-patterns/)
 
   * [The Module Pattern](http://carldanley.com/js-module-pattern/)
-  
+
   * [The Revealing Module Pattern](http://carldanley.com/js-revealing-module-pattern/)
-  
+
   * [The Singleton Pattern](http://carldanley.com/js-singleton-pattern/)
-  
+
   * [The Observer Pattern](http://carldanley.com/js-observer-pattern/)
-  
+
   * [The Mediator Pattern](http://carldanley.com/js-mediator-pattern/)
-  
+
   * [The Prototype Pattern](http://carldanley.com/js-prototype-pattern/)
-  
+
   * [The Facade Pattern](http://carldanley.com/js-facade-pattern/)
-  
+
   * [The Factory Pattern](http://carldanley.com/js-factory-pattern/)
 
 --
@@ -405,11 +405,11 @@
   * [Form Objects](http://journal.crushlovely.com/post/89270334848/7-patterns-to-refactor-javascript-applications-form)
 
   * [Query Objects](http://journal.crushlovely.com/post/89978453593/7-patterns-to-refactor-javascript-applications-query)
-  
+
   * [View Objects](http://journal.crushlovely.com/post/90568548968/7-patterns-to-refactor-javascript-applications-view)
-  
+
   * [Policy Objects](http://journal.crushlovely.com/post/91371788978/7-patterns-to-refactor-javascript-applications-policy)
-  
+
   * Decorators
 
 --
@@ -423,7 +423,7 @@
 * [A Deep Dive Into JavaScript Modules](http://toshsharma.github.io/presentation-js-modules) - by Ashutosh Sharma / @zorder
 
 * [JavaScript encapsulation & the module pattern](http://www.aviyehuda.com/blog/2013/01/12/javascript-encapsulation-the-module-pattern-for-beginners/)
-  
+
 * [JavaScript Namespaces and Modules | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/)
 
 * [Scalable JavaScript Design Patterns](http://www.addyosmani.com/scalablejs/)
@@ -1040,7 +1040,7 @@
 
 * [JSHint](http://www.jshint.com/)
 
-  * [[Gist] When JSLint hurts your feelings, hug it out with Doug](https://gist.github.com/textarcana/1745829) 
+  * [[Gist] When JSLint hurts your feelings, hug it out with Doug](https://gist.github.com/textarcana/1745829)
 
   * [[GitHub] sindresorhus / jshint-stylish](https://github.com/sindresorhus/jshint-stylish) - Stylish reporter for JSHint
 
@@ -1121,15 +1121,15 @@
 
 * [[GitHub] sutoiku / formula.js](https://github.com/sutoiku/formula.js) - JavaScript implementation of most Microsoft Excel formula functions
 
-* [[GitHub] stephen-hardy / xlsx.js](https://github.com/stephen-hardy/xlsx.js) - is a JavaScript library for converting the data in base64 XLSX files into JavaScript objects - and back! 
+* [[GitHub] stephen-hardy / xlsx.js](https://github.com/stephen-hardy/xlsx.js) - is a JavaScript library for converting the data in base64 XLSX files into JavaScript objects - and back!
 
-    * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder 
+    * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder
 
 * [[GitHub] Niggler / js-xls](https://github.com/Niggler/js-xls)
 
   * [NPM](https://npmjs.org/package/xlsjs) | [JS-XLS Live Demo](http://niggler.github.io/js-xls/)
 
-* [[GitHub] jlord / sheetsee.js](https://github.com/jlord/sheetsee.js) - visualize data from a google spreadsheet 
+* [[GitHub] jlord / sheetsee.js](https://github.com/jlord/sheetsee.js) - visualize data from a google spreadsheet
 
 --
 
@@ -1190,6 +1190,8 @@
 * [Strophe.js](http://strophe.im/strophejs/) - An XMPP library for JavaScript
 
 --
+
+* [[GitHub] fdaciuk / ajax](https://github.com/fdaciuk/ajax) - Ajax module in Vanilla JS
 
 * [[GitHub] brandonjpierce / jax](https://github.com/brandonjpierce/jax) - A minimal fully featured client side ajax library inspired by Superagent
 
@@ -1335,7 +1337,7 @@
 
 * [Scala.js](http://www.scala-js.org/) - A Scala to JavaScript compiler
 
-  * [[GitHub] scala-js / scala-js](https://github.com/scala-js/scala-js) - Scala.js, a Scala to JavaScript compiler 
+  * [[GitHub] scala-js / scala-js](https://github.com/scala-js/scala-js) - Scala.js, a Scala to JavaScript compiler
 
   * [Scala.js Fiddle](http://www.scala-js-fiddle.com/)
 
@@ -1380,7 +1382,7 @@
 #### Máquinas Virtuais
 
 * [[GitHub] kripken / lua.vm.js](https://github.com/kripken/lua.vm.js)
-    
+
     * [The Lua VM, on the Web](http://kripken.github.io/lua.vm.js/lua.vm.js.html) - This is an experiment in running [Lua](http://www.lua.org/) on the web, by porting the Lua C implementation to JavaScript using [Emscripten](https://github.com/kripken/emscripten/wiki).
 
     * [Learning Lua/From JS](http://phrogz.net/lua/LearningLua_FromJS.html)
@@ -1405,7 +1407,7 @@
 
 * [Using JavaScript to create a GUID from a user's browser information](https://andywalpole.me/#!/blog/140739/using-javascript-create-guid-from-users-browser-information)
 
-* [[GitHub] Valve / fingerprintjs](https://github.com/Valve/fingerprintjs) - Fast browser fingerprint library. Written in pure JavaScript, no dependencies. By default uses Murmur hashing and returns a 32bit integer number. Hashing function can be easily replaced. Feather weight: only 843 bytes when gzipped. 
+* [[GitHub] Valve / fingerprintjs](https://github.com/Valve/fingerprintjs) - Fast browser fingerprint library. Written in pure JavaScript, no dependencies. By default uses Murmur hashing and returns a 32bit integer number. Hashing function can be easily replaced. Feather weight: only 843 bytes when gzipped.
 
 * [[GitHub] karanlyons / murmurHash3.js](https://github.com/karanlyons/murmurHash3.js) - All of MurmurHash3, in javascript. | [wiki: MurmurHash](https://en.wikipedia.org/wiki/MurmurHash)
 
@@ -1443,7 +1445,7 @@
 * [Designing Better JavaScript APIs | Smashing Coding](http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/)
 
 * [Build Your First JavaScript Library | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/build-your-first-javascript-library/)
-  
+
 * [Criando um plugin JavaScript (sem jQuery!) | Tableless](http://tableless.com.br/criando-um-plugin-javascript-sem-jquery/)
 
 
@@ -1880,7 +1882,7 @@
 
 --
 
-* [Expert ES6 | tagtree.io](http://tagtree.io/courses/expert-es6/do) - An ES6 Course in the Browser 
+* [Expert ES6 | tagtree.io](http://tagtree.io/courses/expert-es6/do) - An ES6 Course in the Browser
 
 * [[GitHub] ericdouglas / ES6-Learning](https://github.com/ericdouglas/ES6-Learning) - List of resources to learn ECMAScript 6
 
