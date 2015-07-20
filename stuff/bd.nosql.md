@@ -29,6 +29,8 @@
 
 * [Recursos para aprender noSQL | iMasters](http://imasters.com.br/banco-de-dados/recursos-para-aprender-nosql/)
 
+* [Devo usar NoSQL e MongoDB? | Leroy Merlin Techblog](http://tech.leroymerlin.com.br/devemos-usar-nosql-e-mongodb)
+
 --
 
 * [[YouTube] Configuring an LDAP Server](https://www.youtube.com/watch?v=KQdQ3ITG_Vg)
@@ -161,7 +163,7 @@
 
 * [11 OPEN NoSQL Document-Oriented Databases](http://architects.dzone.com/articles/11-open-nosql-document)
 
-* [[GitHub] foursquare/fongo](https://github.com/foursquare/fongo) - faked out in-memory mongo for java 
+* [[GitHub] foursquare/fongo](https://github.com/foursquare/fongo) - faked out in-memory mongo for java
 
 
 ### CouchDB
@@ -190,7 +192,7 @@
 > Banco de Dados NoSQL (não relacional, sem esquema de dados fixo).
 >
 > Mantido pela empresa [10gen](http://www.10gen.com/), a qual fornece treinamentos e suporte pago ao MongoDB.
-> 
+>
 > * A empresa 10gen mudou de nome para MongoDB Inc. [MongoDB.com](https://www.mongodb.com/)
 >
 > [10gen Announces Company Name Change to MongoDB, Inc. | MongoDB](https://www.mongodb.com/press/10gen-announces-company-name-change-mongodb-inc)
