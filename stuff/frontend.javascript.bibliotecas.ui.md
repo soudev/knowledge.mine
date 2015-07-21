@@ -87,7 +87,7 @@
 
 --
 
-* [[GitHub] NUKnightLab / TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript. 
+* [[GitHub] NUKnightLab / TimelineJS](https://github.com/NUKnightLab/TimelineJS) - A Storytelling Timeline built in JavaScript.
 
   * [Timeline JS](http://timeline.knightlab.com/) - Beautifully crafted timelines that are easy, and intuitive to use.
 
@@ -135,7 +135,7 @@
 
 --
 
-* [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor). 
+* [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 
 * [[GitHub] evandroeisinger / editore.js](https://github.com/evandroeisinger/editore.js) - A magnific javascript editor
 
@@ -263,6 +263,10 @@
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 * [[GitHub] yahoo / flux-examples](https://github.com/yahoo/flux-examples) - Isomorphic React + Flux examples using Dispatchr, Fetchr, and Routr
+
+--
+
+* [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design
 
 --
 
@@ -617,7 +621,7 @@
 
   * [[GitHub] fastly / epoch](https://github.com/fastly/epoch) - A general purpose, real-time visualization library
 
-* [dimple](http://dimplejs.org/) - A simple charting API for d3 data visualisations 
+* [dimple](http://dimplejs.org/) - A simple charting API for d3 data visualisations
 
     * [[GitHub] PMSI-AlignAlytics / dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics
 
@@ -648,4 +652,3 @@
 * jQuery Grid Plugin - jqGrid [blog](http://www.trirand.com/blog/) | [demo](http://www.trirand.com/blog/?page_id=5)
 
 * [[GitHub] tabalinas / jsgrid](https://github.com/tabalinas/jsgrid) - Lightweight Grid jQuery Plugin
-
