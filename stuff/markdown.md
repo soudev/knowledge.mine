@@ -76,11 +76,13 @@
 
 ## Ferramentas e bibliotecas
 
-* [EpicEditor](http://oscargodson.github.io/EpicEditor/) - Embeddable JavaScript Markdown Editor 
+* [EpicEditor](http://oscargodson.github.io/EpicEditor/) - Embeddable JavaScript Markdown Editor
 
 * [demarcate.js](http://will-hart.github.io/demarcate.js/) - is a jQuery based editor for Markdown.
 
 * [[GitHub] robdodson / mark-down](https://github.com/robdodson/mark-down) - A Custom Element for rendering Markdown built with Polymer
+
+* [[GitHub] netgusto / upndown](https://github.com/netgusto/upndown) - HTML to Markdown javascript converter
 
 --
 
@@ -108,7 +110,7 @@
 
 --
 
-* [[GitHub] testdouble / grunt-markdown-blog](https://github.com/testdouble/grunt-markdown-blog) - Grunt task for building a blog with markdown posts & underscore templates 
+* [[GitHub] testdouble / grunt-markdown-blog](https://github.com/testdouble/grunt-markdown-blog) - Grunt task for building a blog with markdown posts & underscore templates
 
 * [[GitHub] CabinJS / grunt-pages](https://github.com/CabinJS/grunt-pages) - Grunt task to create HTML pages using markdown and templates
 
@@ -139,12 +141,10 @@
 
 --
 
-* [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json) 
+* [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json)
 
-* [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF. 
+* [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF.
 
 * [[GitHub] treasonx / grunt-markdown](https://github.com/treasonx/grunt-markdown) - Markdown gruntjs task with code highlighting
 
 * [[GitHub] bylexus / grunt-md2html](https://github.com/bylexus/grunt-md2html) - Small Grunt MultiTask to convert Markdown files to HTML, supporting Grunt >= 0.4.0
-
-
