@@ -26,7 +26,7 @@
 
 ## Docker
 
-> Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more. 
+> Docker is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds and more.
 
 * [Docker](http://www.docker.com/) - an open source project to pack, ship and run any application as a lightweight container
 
@@ -53,13 +53,7 @@
 
   * [[SlideShare] Introduction to Docker](http://www.slideshare.net/dotCloud/intro-docker-october-2013) - 2013/10/29
 
-  * [The whole story - Docker: the Linux container engine](http://scm.zoomquiet.io/data/20131004215734/index.html) - old link : 
-
-    * https://www.docker.io/the_whole_story/
-
-    * [[GitHub] www.docker.io / _pages / the-whole-story.md](https://github.com/docker/www.docker.io/blob/9ba2752ef276a1a9fa38b3ce1827717374336d2a/_pages/the-whole-story.md)
-
-* 2014 
+* 2014
 
   * [[Speaker Deck] Small presentation about what's new in the Docker Platform](https://speakerdeck.com/vieux/whats-new-in-the-latest-docker-release-and-docker-hub-at-braintree) - 2014/08/19
 
@@ -86,9 +80,13 @@
 
 * [[YouTube] Why we built Docker](https://www.youtube.com/watch?v=3N3n9FzebAA) - dotScale 2013 - Solomon Hykes (01/08/2013)
 
-* [Docker - Getting Started](https://www.docker.io/gettingstarted/)
+* [Docker - docs](https://docs.docker.com/)
+
+* [Docker - training](https://training.docker.com/)
 
 * [[Speaker Deck] Docker, Get used to it !](https://speakerdeck.com/julienvey/docker-get-used-to-it)
+
+* [Docker - What is Docker?](https://www.docker.com/whatisdocker)
 
 * [What is Docker?](https://medium.com/devops-programming/7f5fd023158f) - The buzzword that is taking the DevOps world by storm
 
@@ -184,7 +182,7 @@
 
 --
 
-* [How to Train Your Docker Cloud | InfoQ En](http://www.infoq.com/presentations/docker-cloud-clocker) - (2015/05/16) Andrew Kennedy talks about the reasons for creating a Docker cloud and how they realized that to do this properly they needed first class networking to handle composite distributed applications such as Riak. It was a short step from this to using Brooklyn itself to bootstrap a Docker cloud effectively colonizing the infrastructure. And so Clocker was born. 
+* [How to Train Your Docker Cloud | InfoQ En](http://www.infoq.com/presentations/docker-cloud-clocker) - (2015/05/16) Andrew Kennedy talks about the reasons for creating a Docker cloud and how they realized that to do this properly they needed first class networking to handle composite distributed applications such as Riak. It was a short step from this to using Brooklyn itself to bootstrap a Docker cloud effectively colonizing the infrastructure. And so Clocker was born.
 
   * [[GitHub] brooklyncentral / clocker](https://github.com/brooklyncentral/clocker) - creates and manages a Docker cloud infrastructure | [site](https://brooklyncentral.github.io/clocker/)
 
@@ -266,7 +264,7 @@
 
 * [Docker for Isolated and Reproducible Development Environments | Ana Nelson's Blog](http://blog.ananelson.com/2014/03/docker-isolated-and-reproducible/)
 
-* [[SlideShare] Docker and Containers for Development and Deployment — SCALE12X](http://www.slideshare.net/jpetazzo/docker-and-containers-for-development-and-deployment-scale12x) - Docker is an Open Source engine to build, run, and manage containers. We'll explain what are Linux Containers, what powers them (under the hood), and what extra value Docker brings to the table. Then we'll see what the typical Docker workflow looks like from a developer point of view. We'll also give an Ops perspective, including deployment options. 
+* [[SlideShare] Docker and Containers for Development and Deployment — SCALE12X](http://www.slideshare.net/jpetazzo/docker-and-containers-for-development-and-deployment-scale12x) - Docker is an Open Source engine to build, run, and manage containers. We'll explain what are Linux Containers, what powers them (under the hood), and what extra value Docker brings to the table. Then we'll see what the typical Docker workflow looks like from a developer point of view. We'll also give an Ops perspective, including deployment options.
 
 --
 
@@ -534,4 +532,3 @@
 * [Docker on Azure](http://1drv.ms/1kfrLev)
 
 * [Publishing an ASP.NET 5 app to Docker on Linux with Visual Studio | Scott Hanselman](http://www.hanselman.com/blog/PublishingAnASPNET5AppToDockerOnLinuxWithVisualStudio.aspx)
-
