@@ -1100,6 +1100,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Code Organization in AngularJS | Nulogy Blog](http://engineering.nulogy.com/posts/code-organization-in-angular/)
 
+* [Angular App Structuring Guidelines | John  Papa](http://www.johnpapa.net/angular-app-structuring-guidelines/) - 2014/02/17
+
+--
+
 * [How to build a large Angular.js application | GoCardless](https://gocardless.com/blog/building-a-large-angular-application/)
 
 * [Code Organization in Large AngularJS and JavaScript Applications | Cliff Meyers](http://cliffmeyers.com/blog/2013/4/21/code-organization-angularjs-javascript)
