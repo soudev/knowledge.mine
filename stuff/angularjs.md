@@ -1605,6 +1605,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Managing Conditional Links And Route Changes In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2872-managing-conditional-links-and-route-changes-in-angularjs.htm)
+
+--
+
 * [Defer DOM Tree Binding In AngularJS With Delayed Transclusion | Ben Nadel](http://www.bennadel.com/blog/2557-Defer-DOM-Tree-Binding-In-AngularJS-With-Delayed-Transclusion.htm)
 
 * [Using Track-By With ngRepeat In AngularJS 1.2 | Ben Nadel](http://www.bennadel.com/blog/2556-Using-Track-By-With-ngRepeat-In-AngularJS-1-2.htm)
