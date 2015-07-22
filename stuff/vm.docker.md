@@ -222,6 +222,10 @@
 
 --
 
+* [On-demand activation of Docker containers with systemd | Atlassian Developers](https://developer.atlassian.com/blog/2015/03/docker-systemd-socket-activation/)
+
+--
+
 * [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
 
 * [Dockerizing Mule ESB Enterprise | codecentric Blog](https://blog.codecentric.de/en/2014/10/dockerizing-mule-esb-enterprise/)
