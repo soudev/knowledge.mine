@@ -1018,6 +1018,8 @@
 
 * [Cylon.js](http://cylonjs.com/) - is a JavaScript framework for robotics, physical computing, and the Internet of Things using Node.js. It provides a simple, yet powerful way to create JavaScript robots that incorporate multiple, different hardware devices at the same time
 
+* [An Introduction to NodeBots | SitePoint](http://www.sitepoint.com/an-introduction-to-nodebots/) - 2015/07/20
+
 
 #### Mobile: iOS, Android, Windows Phone
 
