@@ -251,6 +251,8 @@
 
 * [RESTful Web services Tutorials | How to do in JAVA](http://howtodoinjava.com/restful-web-service/)
 
+* [REST Query Language with Spring and JPA Criteria | Baeldung](http://www.baeldung.com/rest-search-language-spring-jpa-criteria) - An introduction to implementing a simple but very useful serach/filter operation on your Spring REST APIs using JPA Criteria.
+
 --
 
 * [Adicionando flexibilidade à sua implementação REST com Yoga | InfoQ Br](http://www.infoq.com/br/articles/json-yoga)
