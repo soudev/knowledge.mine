@@ -629,7 +629,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
-* [[GitHub] ptgamr / soundcloudify](https://github.com/ptgamr/soundcloudify) - (Chrome extension) Music streaming for SoundCloud and Youtube
+* [[GitHub] ptgamr / upnext](https://github.com/ptgamr/upnext) - (Chrome extension) Music streaming for SoundCloud and Youtube
 
 
 ## Dicas
