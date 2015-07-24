@@ -1938,6 +1938,8 @@
 
 * [[GitHub] danielstern / generator-es6-webapp](https://github.com/danielstern/generator-es6-webapp) - A Yeoman generator to create an app which automatically transpiles ES6 to ES5 - also includes LESS and Skeleton
 
+* [[GitHub] barbarosa / ECMAScript6_architecture](https://github.com/barbarosa/ECMAScript6_architecture) - Workshop and example of architecture with testable, maintainable, decoupled components written in ES6
+
 
 ### ECMAScript 7
 
