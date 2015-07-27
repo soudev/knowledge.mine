@@ -246,6 +246,8 @@
 
 * [Integrating D3.js visualizations in a React app | Nicolas Hery](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 
+* [[GitHub] borisyankov / react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
+
 --
 
 * [Visualization is for Sharing: Using React for Portable Data Visualization | Viget](http://viget.com/extend/visualization-is-for-sharing-using-react-for-portable-data-visualization)
