@@ -1207,6 +1207,10 @@
 
 * [HeliosJS](http://entrendipity.github.io/helios.js/) - in-memory graph database for modern browsers
 
+* [[GitHub] keithwhor / UnitGraph](https://github.com/keithwhor/UnitGraph) - Lightweight Graph Library for iojs
+
+  * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript | Medium by @keithwhor](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3) - Leveraging User Behavior to Drive Recommendations
+
 --
 
 * [[GitHub] kripken / sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
