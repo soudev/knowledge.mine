@@ -1,4 +1,4 @@
-# Projetos 
+# Projetos
 
 <!-- toc -->
 
@@ -179,7 +179,7 @@
 
 
 ### Atomic Design
-  
+
 * [Atomic Design | Brad Frost Web](http://bradfrost.com/blog/post/atomic-web-design/)
 
 * [Atomic Design - Por que usar? | Nomadev](http://nomadev.com.br/atomic-design-por-que-usar/)
@@ -264,6 +264,8 @@
 
 * [A Rant about Estimation - When Will We Stop Being Crazy](http://agileramblings.com/2013/02/23/a-rant-about-estimation-when-will-we-stop-being-crazy/)
 
+* [[SlideShare] Por quê nosso time parou de estimar - ThoughtWorks](http://www.slideshare.net/ThoughtWorks/por-quenossotimeparouestimar) - 2015/07/27
+
 
 ## Ted Talks
 
@@ -274,7 +276,7 @@
 
 ## QCon
 
-* [[SlideShare] Qcon bigdata](http://www.slideshare.net/fmeyer/qcon-bigdata-25761729) - by Fernando Meyer 
+* [[SlideShare] Qcon bigdata](http://www.slideshare.net/fmeyer/qcon-bigdata-25761729) - by Fernando Meyer
 
 
 ## InfoQ Br
@@ -354,5 +356,3 @@
 * [Série Continuous Integration: Maven + Jenkins + Git](http://imasters.com.br/desenvolvimento/serie-ci-maven-jenkins-git/)
 
 * [Série Continuous Integration: Executando unit tests Jenkins via Maven](http://imasters.com.br/desenvolvimento/serie-continuous-integration-executando-unit-tests-jenkins-via-maven/)
-
-
