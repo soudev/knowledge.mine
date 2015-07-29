@@ -1833,6 +1833,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] tcs-de / nodecache](https://github.com/tcs-de/nodecache) - a node internal caching module
+
+--
+
 * [[GitHub] punkave / prettiest](https://github.com/punkave/prettiest) - Improbably easy data storage and locking for command line scripts. Pairs well with shelljs and a nice chianti.
 
 * [[GitHub] philipp-spiess / json-db](https://github.com/philipp-spiess/json-db) - A lightweight database for your node.js app.
