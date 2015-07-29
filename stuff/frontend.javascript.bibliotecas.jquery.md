@@ -2,6 +2,8 @@
 
 * [[GitHub] renanmpimentel / no-jquery](https://github.com/renanmpimentel/no-jquery)
 
+* [You might not need jQuery plugins](http://youmightnotneedjqueryplugins.com/) – When youmightnotneedjquery you also might not need jQuery plugins
+
 
 ## jQuery
 
@@ -85,7 +87,7 @@
 
 * [jQuery Internationalization (i18n) Plugin by Chris Johnson](https://github.com/edgeui/i18n.js)
 
-* [SlidesJS](http://slidesjs.com/) - is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions. 
+* [SlidesJS](http://slidesjs.com/) - is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - menu-aim is a jQuery plugin for dropdown menus that can differentiate between a user trying hover over a dropdown item vs trying to navigate into a submenu's contents.
 
@@ -108,5 +110,3 @@
 * [Loadie.js](http://9elements.github.io/loadie.js/) - A lightweight jQuery loader plugin
 
 * [Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html) - jQuery-plugin for playing sounds on events
-
-
