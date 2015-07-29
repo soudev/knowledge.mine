@@ -1022,6 +1022,10 @@
 
 * [An Introduction to NodeBots | SitePoint](http://www.sitepoint.com/an-introduction-to-nodebots/) - 2015/07/20
 
+* [JerryScript](https://samsung.github.io/jerryscript/) - is the lightweight JavaScript engine intended to run on a very constrained devices such as microcontrollers
+
+  * [[GitHub] Samsung / jerryscript](https://github.com/Samsung/jerryscript)
+
 
 #### Mobile: iOS, Android, Windows Phone
 
