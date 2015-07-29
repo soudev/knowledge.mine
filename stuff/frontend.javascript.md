@@ -487,6 +487,10 @@
 
 --
 
+* [Binary in Javascript | @workshydev](http://danthedev.com/2015/07/25/binary-in-javascript/) - 2015/07/25
+
+--
+
 * [Data-binding Revolutions with Object.observe | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/es7/observe/)
 
 * [Two-Way Data Binding | Nikita Vasilyev](http://n12v.com/2-way-data-binding/) - Let’s build a temperature converter app in Backbone, React, Angular, Meteor and vanilla JavaScript.
