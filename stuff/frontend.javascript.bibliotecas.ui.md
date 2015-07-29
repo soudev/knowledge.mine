@@ -411,6 +411,10 @@
 
 --
 
+* [plotly.js](https://plot.ly/javascript-graphing-library/) - the premier charting library for the web
+
+  * [[GitHub] Plotly](https://github.com/plotly)
+
 * [Highcharts](http://www.highcharts.com/) - Interactive JavaScript charts for your webpage
 
   * [[GitHub] highslide-software / highcharts.com](https://github.com/highslide-software/highcharts.com/) - Highcharts JS, the JavaScript charting framework
