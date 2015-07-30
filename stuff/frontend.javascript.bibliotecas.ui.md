@@ -431,6 +431,8 @@
 
 * [Raphaël](http://raphaeljs.com/) - JavaScript Library
 
+* [[GitHub] morrisjs / morris.js](https://github.com/morrisjs/morris.js) - Pretty time-series line graphs
+
 * [JustGage](http://justgage.com/) is a handy JavaScript plugin for generating and animating nice & clean dashboard gauges
 
 * [Criando gráficos do zero com Canvas e Javascript | Igor Costa](http://www.igorcosta.com/criando-graficos-zero-com-canvas-e-javascript/)
