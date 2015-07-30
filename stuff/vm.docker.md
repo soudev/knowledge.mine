@@ -230,6 +230,8 @@
 
 * [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
 
+* [[GitHub] spotify / docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - A maven plugin for docker
+
 * [Dockerizing Mule ESB Enterprise | codecentric Blog](https://blog.codecentric.de/en/2014/10/dockerizing-mule-esb-enterprise/)
 
 * [Running a Selenium Grid using Docker and Compose | Nightlight](http://www.conductor.com/nightlight/running-selenium-grid-using-docker-compose/)
