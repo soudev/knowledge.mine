@@ -34,10 +34,16 @@
 
   * [[GitHub] a-jie / Agile](https://github.com/a-jie/Agile)
 
+--
+
+* [[GitHub] afonsopacifer / awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - A curated list of CSS Flexible Box Layout Module or only Flexbox
+
+* [[GitHub] afonsopacifer / learning-css-grid-layout](https://github.com/afonsopacifer/learning-css-grid-layout) - List of resources to learn CSS Grid Layout Module or only CSS Grid.
+
 
 ### Dicas
 
-* [CSSDeck](http://cssdeck.com/) : HTML5 CSS3 JS - Demos, Creations and Experiments 
+* [CSSDeck](http://cssdeck.com/) : HTML5 CSS3 JS - Demos, Creations and Experiments
 
 * [Client-side full-text search in CSS | Redo The Web](http://redotheweb.com/2013/05/15/client-side-full-text-search-in-css.html) - and a little bit of JS
 
