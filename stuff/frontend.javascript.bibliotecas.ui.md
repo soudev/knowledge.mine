@@ -254,6 +254,10 @@
 
 --
 
+* [Publishing your first React component on NPM | Cameron Nokes](http://cameronnokes.com/blog/publishing-your-first-react-component-on-npm) - 2015/07/16
+
+--
+
 * [[GitHub] kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Facebook React Starter Kit - a skeleton for a typical web application / single-page application (SPA). Technology stack: Gulp, Webpack, BrowserSync, React.js, Bootstrap
 
 * [[GitHub] Granze / react-starterify](https://github.com/Granze/react-starterify) - React JS application skeleton using Browserify and other awesome tools
