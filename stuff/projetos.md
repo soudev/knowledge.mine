@@ -121,6 +121,10 @@
 
 --
 
+* [[GitHub] keen / data-modeling-guide](https://github.com/keen/data-modeling-guide) - Data Modeling Guide
+
+--
+
 * [BDD: Think Like an Actor | Site Point](http://www.sitepoint.com/bdd-think-like-actor/)
 
 * [Comparação entre TDD e BDD – Como aprender um me ajudou com o outro | Sobre Código](http://sobrecodigo.com/comparacao-entre-tdd-e-bdd-como-aprender-um-me-ajudou-com-o-outro/)
