@@ -112,6 +112,8 @@
 
 * [[GitHub] xetorthio / johm](https://github.com/xetorthio/johm) - is a Object-hash mapping library for Java for storing objects in Redis
 
+* [[GitHub] xetorthio / jedis](https://github.com/xetorthio/jedis) - A blazingly small and sane redis java client
+
 
 ###### doNet
 
