@@ -15,10 +15,10 @@
 * [HTML KickStart](http://www.99lime.com/) - Ultra–Lean HTML Building Blocks for Rapid Website Production - KickStart your Website Production
 
 
-* Flat UI - Free Web User Interface Kit 
+* Flat UI - Free Web User Interface Kit
 
   * [Site](http://designmodo.com/flat-free/) - [Demo](http://designmodo.com/demo/flat-ui/) - [[GitHub] Code](https://github.com/iurevych/Flat-UI)
-  
+
 * [Free Download: Flattastic UI kit | Webdesigner Depot](http://www.webdesignerdepot.com/2013/08/free-download-flattastic-ui-kit/)
 
 --
@@ -36,14 +36,14 @@
 * [skelJS](http://skeljs.org/) - A framework for building responsive sites and apps.
 
 * [[GitHub] jlukic / Semantic-UI](https://github.com/jlukic/Semantic-UI) - Semantic empowers designers and developers by creating a shared vocabulary for UI | [site: Semantic UI](http://semantic-ui.com/)
- 
-* [ChocolateChip-UI](http://www.chocolatechip-ui.com/) - Full support for the new iOS 7 look and feel | Native Look for Web Apps | Powerful, Simple, Clean 
- 
+
+* [ChocolateChip-UI](http://www.chocolatechip-ui.com/) - Full support for the new iOS 7 look and feel | Native Look for Web Apps | Powerful, Simple, Clean
+
 --
 
 * [Metro UI](http://metroui.org.ua/)
 
-  * [[GitHub] olton / Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface 
+  * [[GitHub] olton / Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
 
 --
 
@@ -57,7 +57,7 @@ for developing fast and powerful web interfaces.
 --
 
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
-  
+
   * [[GitHub] Dogfalo / materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 
   * [CodeCast Materialize CSS | CodeShare](http://codeshare.com.br/codecasts/materialize-css/)
@@ -93,6 +93,10 @@ for developing fast and powerful web interfaces.
 * [v2.3.2](http://getbootstrap.com/2.3.2/)
 
 * [v3.1.1](http://getbootstrap.com/) | [release infos](http://blog.getbootstrap.com/2014/11/12/bootstrap-3-3-1-released/)
+
+--
+
+* [close nav menu on mobile screen | stackoverflow](https://stackoverflow.com/questions/21203111/bootstrap-3-collapsed-menu-doesnt-close-on-click)
 
 --
 
@@ -214,5 +218,3 @@ for developing fast and powerful web interfaces.
 * [Flatstrap](http://flatstrap.org/) - Flat design bootstrap templates.
 
 * [BootMetro](http://aozora.github.io/bootmetro/) - metro style web framework
-
-
