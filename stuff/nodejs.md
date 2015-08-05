@@ -1731,6 +1731,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Running Scripts with npm | The Tapir's Tale](http://anders.janmyr.com/2014/03/running-scripts-with-npm.html)
 
+* [How to Use npm as a Build Tool | Keith Cirkel](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - 2014/12/09
+
 --
 
 * [NPM for Everything | Alexander Beletsky](http://beletsky.net/2015/04/npm-for-everything.html) - NPM as dependency manager, task runner both for front and back end.
