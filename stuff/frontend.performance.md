@@ -20,6 +20,8 @@
 
   * [[Speaker Deck] Como Perder Peso (no browser)](https://speakerdeck.com/zenorocha/como-perder-peso-no-browser/) - Apresentação do Zeno Rocha no Rio.js
 
+* [[GitHub] bevacqua / perfschool](https://github.com/bevacqua/perfschool) - Navigate the #perfmatters salt marsh waters in this NodeSchool workshopper
+
 --
 
 * [[GitHub] davidsonfellipe / awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo) - A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -136,21 +138,21 @@
 
 --
 
-* [Small things add up | Chris Hates Writing](http://chrishateswriting.com/post/68794699432/small-things-add-up) - How 4chan is saving 275GB each year and saving its users 46TB each *month* with one weird trick! (Well, two.) 
+* [Small things add up | Chris Hates Writing](http://chrishateswriting.com/post/68794699432/small-things-add-up) - How 4chan is saving 275GB each year and saving its users 46TB each *month* with one weird trick! (Well, two.)
 
 
 #### Fallback
-  
+
 * [JQuery CDN with fall back to local file](http://joeyiodice.com/jquery-cdn-with-fallback-to-local-file)
 
 * [Fallback for CDN hosted jQuery](http://css-tricks.com/snippets/jquery/fallback-for-cdn-hosted-jquery/)
 
-* [A Simple and Robust jQuery 1.4 CDN Failover in One Line](http://happyworm.com/blog/2010/01/28/a-simple-and-robust-cdn-failover-for-jquery-14-in-one-line/) 
+* [A Simple and Robust jQuery 1.4 CDN Failover in One Line](http://happyworm.com/blog/2010/01/28/a-simple-and-robust-cdn-failover-for-jquery-14-in-one-line/)
 * [[Gist] using yepnope for twitter js and css with local fallback](https://gist.github.com/joelclermont/3735026)
-  
-  
+
+
 #### CDNs
-  
+
 * [GitHub as CDN](http://code.lancepollard.com/github-as-a-cdn/) - Cache your Javascripts, Stylesheets, and Web Assets with Github Pages
 
 * [Google CDN](https://developers.google.com/speed/libraries/)
@@ -190,15 +192,14 @@
 
 
 #### LABjs
-  
+
 * [LABjs](http://labjs.com/) - Loading And Blocking JavaScript
 
 * [Snippet to load LABjs itself dynamically](https://gist.github.com/getify/603980)
-  
+
 
 #### YepNope
-  
+
 * [yepnope.js | A Conditional Loader For Your Polyfills!](http://yepnopejs.com/)
 
 * [An Introduction to YepNope.js | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/easy-script-loading-with-yepnope-js/)
-
