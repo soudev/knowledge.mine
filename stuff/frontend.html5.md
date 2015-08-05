@@ -138,7 +138,7 @@
 * [Modernizr](http://modernizr.com/) is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser | [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills)
 
   * [Modernizr - documentação em português](http://www.andrebuzzo.com.br/bibliotecaModernizr/)
-  
+
   * [Up and Running with Modernizr | Adobe Developer Connection](http://www.adobe.com/devnet/html5/articles/up-and-running-with-modernizr.html)
 
 * [Internet Explorer Web Platform Status and Roadmap | status.modern.IE](http://status.modern.ie/)
@@ -265,7 +265,7 @@
 * [[Speaker Deck] Augmented Reality in JavaScript](https://speakerdeck.com/zenorocha/augmented-reality-in-javascript) - by Zeno Rocha
 
   * [Realidade Aumentada com HTML5 | InfoQ BR](http://www.infoq.com/br/presentations/realidade-aumentada-html5)
-  
+
 * [[codepen.io] Spirograph in HTML 5](http://codepen.io/cwolves/pen/gykbc)
 
 --
@@ -352,7 +352,7 @@
 
 * [WebGL Fundamentals | HTML5 ROCKS](http://www.html5rocks.com/en/tutorials/webgl/webgl_fundamentals/)
 
-* [This is a list of all the WebGL related activities happening on the web](http://www.khronos.org/webgl/wiki/User_Contributions) 
+* [This is a list of all the WebGL related activities happening on the web](http://www.khronos.org/webgl/wiki/User_Contributions)
 
 --
 
@@ -395,7 +395,7 @@
 
 * [Code Combat](http://codecombat.com/) - Learn to Code JavaScript by Playing a Game
 
-* [Full Screen Mario](http://www.fullscreenmario.com/) : a purely HTML5 remake of the original Super Mario Bros game 
+* [Full Screen Mario](http://www.fullscreenmario.com/) : a purely HTML5 remake of the original Super Mario Bros game
 
   * [[GitHub] Diogenesthecynic / FullScreenMario](https://github.com/Diogenesthecynic/FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
 
@@ -497,7 +497,7 @@
 
 #### dicas: Server Sent Events
 
-* [HTML5 e SSE (Server Sent Events) - Igor Costa](http://www.igorcosta.com/html5-e-sse-eventsource/) 
+* [HTML5 e SSE (Server Sent Events) - Igor Costa](http://www.igorcosta.com/html5-e-sse-eventsource/)
 
 * [Push Notifications to the Browser With Server Sent Events](http://html5hacks.com/blog/2013/04/21/push-notifications-to-the-browser-with-server-sent-events/)
 
@@ -634,11 +634,13 @@
 
 * [Resumable.js](http://www.resumablejs.com/) - A JavaScript library providing multiple simultaneous, stable and resumable **uploads** via the HTML5 File API
 
-* [[GitHub] mailru / FileAPI](https://github.com/mailru/FileAPI) - a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation 
+* [[GitHub] mailru / FileAPI](https://github.com/mailru/FileAPI) - a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation
 
 --
 
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
+
+  * [[GitHub] MrRio / jsPDF](https://github.com/MrRio/jsPDF) - Generate PDF files in JavaScript. HTML5 FTW : [gh-page](https://mrrio.github.io/jsPDF/)
 
 * [PDF.js](https://mozilla.github.io/pdf.js/) - A general-purpose, web standards-based platform for parsing and rendering PDFs.
 
@@ -787,7 +789,7 @@
 
 * [[GitHub] tsironis / lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
 
-* [[GitHub] mozilla / localForage](https://github.com/mozilla/localForage) - Offline storage, improved. 
+* [[GitHub] mozilla / localForage](https://github.com/mozilla/localForage) - Offline storage, improved.
 
   * [localForage: Offline Storage, Improved | Mozilla Hacks](https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/)
 
@@ -803,11 +805,11 @@
 
 * [[GitHub] jensarps / IDBWrapper](https://github.com/jensarps/IDBWrapper) - A cross-browser wrapper for IndexedDB
 
-* [[GitHub] aaronpowell / db.js](https://github.com/aaronpowell/db.js) - is a wrapper for IndexedDB to make it easier to work against 
+* [[GitHub] aaronpowell / db.js](https://github.com/aaronpowell/db.js) - is a wrapper for IndexedDB to make it easier to work against
 
 * [[GitHub] paldepind / synceddb](https://github.com/paldepind/synceddb) - Makes it easy to write offline-first applications with realtime syncing and server side persistence
 
-* [[GitHub] js-data / js-data](https://github.com/js-data/js-data) - Robust framework-agnostic in-memory data store 
+* [[GitHub] js-data / js-data](https://github.com/js-data/js-data) - Robust framework-agnostic in-memory data store
 
 --
 
@@ -857,7 +859,7 @@
 
   * [20 Impressive Examples for Learning WebGL with Three.js | Tutorialzine](http://tutorialzine.com/2013/09/20-impressive-examples-for-learning-webgl-with-three-js/)
 
-  * [Shader Particle Engine](http://squarefeet.github.io/ShaderParticleEngine/) - A GLSL-heavy particle engine for THREE.js. Based on Stemkoski's great particle engine 
+  * [Shader Particle Engine](http://squarefeet.github.io/ShaderParticleEngine/) - A GLSL-heavy particle engine for THREE.js. Based on Stemkoski's great particle engine
 
   * [Building 3D in the browser with Three.js | Webdesigner Depot](http://www.webdesignerdepot.com/2014/04/building-3d-in-the-browser-with-three-js/)
 
@@ -903,7 +905,7 @@
 
 * [Joy.JS](http://joyjs.org/) - A Joyful HTML5 2D Game Engine
 
-* [Collie](http://jindo.dev.naver.com/collie) is a Javascript library that helps to create highly optimized animations and games using HTML 5. 
+* [Collie](http://jindo.dev.naver.com/collie) is a Javascript library that helps to create highly optimized animations and games using HTML 5.
 
 * [Construct 2](http://www.scirra.com/store/free-html5-game-engine) - The Free HTML5 Game Engine
 
@@ -1037,7 +1039,7 @@
 
 --
 
-* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications. 
+* [Ionic](http://ionicframework.com/) - The Most Advanced HTML5 Mobile App Framework. Ionic utilizes AngularJS in order to create a framework most suited to develop rich and robust applications.
 
   * [Mastering the Ionic Framework: Learn to Build & Deploy Native Speed HTML5 Based Apps | Thinkster](https://thinkster.io/ionic-framework-tutorial/)
 
@@ -1105,7 +1107,7 @@
 * [[YouTube] Mac Mini and Jenkins as a Phonegap Build Server](https://www.youtube.com/watch?&v=tcRXB3n-5qE)
 
 * [[GitHub] Medic - Continuous integration setup for Apache Cordova](https://github.com/filmaj/medic)
-  
+
 * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
 
 --
@@ -1120,10 +1122,10 @@
 
   * [Building PhoneGap Apps with AngularJS | Brian Ford](http://briantford.com/blog/angular-phonegap.html)
 
-  * [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly. 
+  * [AppGyver Steroids](http://www.appgyver.com/steroids) - Build PhoneGap based apps with native performance. Rapidly.
 
   * [[GitHub] calvinl / ng-phonegap](https://github.com/calvinl/ng-phonegap) - Grunt workflow for building AngularJS applications on PhoneGap
-  
+
 
 * **Andrew Trice**
 
@@ -1135,7 +1137,7 @@
 
 
 * **Christophe Coenraets**
-  
+
   * [Apache Cordova Tutorial](https://ccoenraets.github.io/cordova-tutorial/) - In this tutorial, you will learn strategies and best practices to build native-like mobile applications with HTML, JavaScript, and CSS. You will build an Apache Cordova (aka PhoneGap) Employee Directory application from scratch using the Single Page Architecture, HTML templates, touch events, and performance optimization techniques.
 
     * [[GitHub] ccoenraets / cordova-tutorial](https://github.com/ccoenraets/cordova-tutorial)
@@ -1187,7 +1189,6 @@
   * [Wunderlist 2](https://www.wunderlist.com/) | [Code - GitHub](https://github.com/erkobridee/wunderlist)
 
     * [[GitHub] Wunderlist](https://github.com/wunderlist)
-  
+
 
 * [@zaedysayao](https://twitter.com/zaedysayao) : [Rio.js](http://www.riojs.org/) - [**[SlideShare]** Construindo aplicações Desktop com HTML, CSS e JS - Rio.JS Conference 2013](http://www.slideshare.net/javamanrj/construindo-aplicaes-desktop-com-html-css-e-js-riojs-conference) | [**[Github]** Fontes mostrados durante o primeiro RioJS Conference](https://github.com/javamanrj/riojs-conference)
-
