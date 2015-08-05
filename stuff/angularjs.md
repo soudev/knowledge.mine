@@ -728,6 +728,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Providers | Angular Developer Guide](https://docs.angularjs.org/guide/providers)
+
 * [AngularJS - Providers | Thinkster](http://www.thinkster.io/angularjs/eIaGNOAlOk/angularjs-providers)
 
 * [The life and times of the angular provider | Garabagne](http://www.garabagne.io/2014/06/08/the-life-and-times-of-the-angular-provider/)
