@@ -1288,6 +1288,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [How The $destroy Event Affects The Scope Tree In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2883-how-the-destroy-event-affects-the-scope-tree-in-angularjs.htm) - 2015/08/05
+
+--
+
 * [AngularJS: "Controller as" or "$scope"? | Code Tunnel](http://codetunnel.com/angularjs-controller-as-or-scope/)
 
 * [Start naming your Angular models with the property name ‘model’ | Medium - Elise Chant](https://medium.com/@elisechant/start-naming-your-angular-models-with-the-property-name-model-3911ea15d63)
