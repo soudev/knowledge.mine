@@ -52,7 +52,7 @@
 <!-- toc stop -->
 
 
-## Hospedagem de repositórios Git 
+## Hospedagem de repositórios Git
 
 * [GitHub](https://github.com/)
 
@@ -63,7 +63,7 @@
 * [BitBucket](https://bitbucket.org/)
 
 
-## Git e GitHub 
+## Git e GitHub
 
 ### Sobre
 
@@ -247,7 +247,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 ## Dicas
 
 > **Commit de um diretório vazio**
-> 
+>
 > Dentro do respectivo diretório crie o arquivo **\*.gitkeep**
 
 --
@@ -258,8 +258,7 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 >
 > [Uma coleção com templates de .gitignore úteis](https://github.com/github/gitignore)
 >
-> [gitignore.io](http://www.gitignore.io/) - Create useful .gitignore files for your project
-
+> [gitignore.io](http://www.gitignore.io/) - Create useful .gitignore files for your project - [github code](https://github.com/joeblau/gitignore.io)
 
 --
 
@@ -379,7 +378,7 @@ git clean -fd
 
 * [Migrando um repositório SVN para GIT | leonardofaria.net](http://leonardofaria.net/2013/01/04/migrando-um-repositorio-svn-para-git/)
 
-* [Converting subversion to git redux | linsec.ca blog ](http://linsec.ca/blog/2013/04/27/converting-subversion-to-git-redux/) 
+* [Converting subversion to git redux | linsec.ca blog ](http://linsec.ca/blog/2013/04/27/converting-subversion-to-git-redux/)
 
 * [Converting a Subversion repository to Git | JohnAlbin](http://john.albin.net/git/convert-subversion-to-git) - 7 steps to migrate a complete mirror of svn in git
 
@@ -459,7 +458,7 @@ git clean -fd
 
 * [Git (e Github) para dados | iMasters](http://imasters.com.br/desenvolvimento/git-e-github-para-dados/)
 
-* [Clay Shirky: How the Internet will (one day) transform government | Ted Talks](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html) - The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens. [Video no YouTube](https://www.youtube.com/watch?v=CEN4XNth61o) 
+* [Clay Shirky: How the Internet will (one day) transform government | Ted Talks](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government.html) - The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens. [Video no YouTube](https://www.youtube.com/watch?v=CEN4XNth61o)
 
   * [GitHub e Linux são exemplos para a política | Estadão](http://blogs.estadao.com.br/link/github-e-linux-sao-exemplos-para-a-politica/) (04/10/2012)
 
@@ -529,7 +528,7 @@ git clean -fd
 
 ### Curiosidades
 
-* [The Open Source Report Card](http://osrc.dfm.io/) - Enter a GitHub username to see a dynamically generated progress report for their open source contributions 
+* [The Open Source Report Card](http://osrc.dfm.io/) - Enter a GitHub username to see a dynamically generated progress report for their open source contributions
 
 * [StarWars + Git logs = StarLogs](http://starlogs.net/)
 
@@ -675,7 +674,7 @@ git clean -fd
 
 * [GitLab](http://gitlab.org/) - Self hosted Git management software. Keep & manage your code on your own server. [[GitHub] gitlabhq / gitlabhq](https://github.com/gitlabhq/gitlabhq)
 
-* [GitHub Enterprise](https://enterprise.github.com/) 
+* [GitHub Enterprise](https://enterprise.github.com/)
 
 * [Atlassian Stash](https://www.atlassian.com/software/stash)
 
@@ -778,7 +777,7 @@ git clean -fd
 
 * [Windows Azure SDK team on GitHub](http://windowsazure.github.io/)
 
-* Notícia sobre o início do suporte da Microsoft ao Git 
+* Notícia sobre o início do suporte da Microsoft ao Git
 
   * [Visual Studio 2012 ganha suporte a Git | InfoQ Br](http://www.infoq.com/br/news/2013/02/vs2012-suporte-git)
 
@@ -811,4 +810,3 @@ git clean -fd
 * [Projetos e Colaboradores do Globo.com no GitHub](http://opensource.globo.com/)
 
 * [[GitHub] globocom / IWantToWorkAtGloboCom](https://github.com/globocom/IWantToWorkAtGloboCom) - seleção de desenvolvedores
-
