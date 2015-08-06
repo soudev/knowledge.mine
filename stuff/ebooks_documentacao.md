@@ -113,6 +113,10 @@
 
 --
 
+* [[GitHub] kilimchoi / engineering-blogs](https://github.com/kilimchoi/engineering-blogs) - A curated list of engineering blogs
+
+--
+
 * [Como salvar tuítes marcados com hashtags do Twitter em uma planilha | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/07/como-salvar-tuites-marcados-com-hashtags-do-twitter-em-uma-planilha.html)
 
 
@@ -186,7 +190,7 @@
 
 ## Podcast
 
-* [GrokPodcast](http://www.grokpodcast.com/) - podcast sobre assuntos de desenvolvimento e tecnologias 
+* [GrokPodcast](http://www.grokpodcast.com/) - podcast sobre assuntos de desenvolvimento e tecnologias
 
 
 ## Palestras
@@ -366,14 +370,14 @@ Share with others around the world
 * [Code Academy](http://www.codecademy.com/) | [pt-Br](http://www.codecademy.com/pt-BR)
 
 * [Code.org - Anybody can learn code](http://code.org)
-  
+
   * [learn | Code.org](http://learn.code.org)
 
 * [Computer programming | Khan Academy](https://www.khanacademy.org/computing/cs)
 
   * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/cs/programming)
 
-* [Skill Tests | MetaBright](http://www.metabright.com) 
+* [Skill Tests | MetaBright](http://www.metabright.com)
 
   * [Python](http://www.metabright.com/challenges/python) | [JavaScript](http://www.metabright.com/challenges/javascript) | ...
 
@@ -395,7 +399,7 @@ Share with others around the world
 
   * [Plataforma brasileira usa vídeos para ensinar a programar gratuitamente | Tecnoblog](https://tecnoblog.net/161403/plataforma-brasileira-usa-videos-ensinar-a-programar-gratuitamente/)
 
--- 
+--
 
 * [Hackety Hack](http://www.hackety.com/) -  will teach you the absolute basics of programming from the ground up. No previous programming experience is needed! With Hackety Hack, you'll learn the [Ruby programming language](https://www.ruby-lang.org/). Ruby is used for all kinds of programs, including desktop applications and websites.
 
@@ -440,4 +444,3 @@ Share with others around the world
 * [Learn to Code by Doing - Code School](https://www.codeschool.com/) - Learn to code in the comfort of your browser with video tutorials, programming challenges, and screencasts.
 
 * [Learn Web Design, Web Development, and More | Treehouse](https://teamtreehouse.com/)
-
