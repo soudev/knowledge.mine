@@ -270,6 +270,8 @@
 
 * [Closures: Front to Back | Nettuts+](http://net.tutsplus.com/tutorials/javascript-ajax/closures-front-to-back/)
 
+* [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+
 --
 
 * [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
