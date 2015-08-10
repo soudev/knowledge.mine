@@ -1784,6 +1784,12 @@
 
 --
 
+* [Cycle.js](http://cycle.js.org/) - A fully reactive JavaScript framework for Human-Computer Interaction
+
+  * [[GitHub] cyclejs / cycle-core](https://github.com/cyclejs/cycle-core/)
+
+--
+
 * [[GitHub] moot / riotjs](https://github.com/moot/riotjs/)
 
   * [Riot.js — The 1kb client-side MVP framework](https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html)
