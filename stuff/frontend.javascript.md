@@ -895,9 +895,9 @@
 
   * [[GitHub] alexlawrence / grunt-umd](https://github.com/alexlawrence/grunt-umd) - Surrounds code with the universal module definition
 
+* [[GitHub] systemjs / systemjs](https://github.com/systemjs/systemjs) - Universal dynamic module loader
 
 * [Mantri](http://mantrijs.com/) - JavaScript Dependency System
-
 
 * [[GitHub] jspm / jspm-loader](https://github.com/jspm/jspm-loader) - AMD, CJS & ES6 spec-compliant module loader
 
