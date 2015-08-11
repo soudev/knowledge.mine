@@ -131,6 +131,8 @@
 
 --
 
+* [[GitHub] 720kb / highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements
+
 * [[GitHub] atom / highlights](https://github.com/atom/highlights) - Reads in code, writes out HTML with CSS classes based on the tokens in the code
 
 --
