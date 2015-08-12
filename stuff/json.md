@@ -63,7 +63,7 @@
 * [[GitHub] mbostock / topojson](https://github.com/mbostock/topojson) - An extension to GeoJSON that encodes topology.
 
 
-## JWT 
+## JWT
 
 * [JWT - JSON Web Token](http://jwt.io/)
 
@@ -81,7 +81,7 @@
 
 --
 
-* [[GitHub] auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js 
+* [[GitHub] auth0 / node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js
 
 
 ## Base de Dados
@@ -161,3 +161,6 @@
 
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - A fake online REST API for testing and prototyping
 
+--
+
+* [[GitHub] serkanyersen / jsonplus](https://github.com/serkanyersen/jsonplus) - JSON parser that supports self reference and comments
