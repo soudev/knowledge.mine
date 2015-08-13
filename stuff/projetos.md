@@ -50,6 +50,8 @@
 
 * [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
 
+  * [The ultimate guide to doing anything in Slack | The Next Web](http://thenextweb.com/insider/2015/08/11/the-ultimate-guide-to-doing-anything-in-slack/)
+
 * [HipChat](https://www.hipchat.com/) - Private group chat, video chat, instant messaging for teams
 
 * [Trello](https://trello.com/) - Organize anything, together. Trello is a collaboration tool that organizes your projects into boards. In one glance, know what's being worked on, who's working on what, and where something is in a process.
