@@ -181,6 +181,8 @@
 
 * [[GitHub] rogerpadilla / angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter
 
+* [[GitHub] johnlindquist / ng-hackathon-starter](https://github.com/johnlindquist/ng-hackathon-starter) - An Angular 2 starter project for the ng-hackathon [SystemJS, TypeScript, Angular 2]
+
 
 ### Estatísticas
 
