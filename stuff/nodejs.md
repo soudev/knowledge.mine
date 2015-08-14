@@ -995,6 +995,8 @@
 
   * [Hexo - Node.js blog framework](http://hexo.io/) - A fast, simple & powerful blog framework, powered by Node.js
 
+  * [Migrando de WordPress para Hexo | William Oliveira](http://woliveiras.com.br/posts/Migrando-de-Wordpress-para-Hexo/)
+
 
 * [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
 
