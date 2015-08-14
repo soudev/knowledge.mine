@@ -1890,6 +1890,8 @@
 
 * [Read Exploring ES6 | Leanpub](https://leanpub.com/exploring-es6/read)
 
+* [The ES6 Conundrum | SitePoint](http://www.sitepoint.com/the-es6-conundrum/) - 2015/08/10
+
 --
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
