@@ -170,8 +170,6 @@
 
 * [HTML5 - Async Scripts | Zeno Rocha](http://zenorocha.com/html5-async-scripts/)
 
-* [All About HTML5 tag canvas | SmartBear](http://blog.smartbear.com/software-quality/bid/283454/All-About-HTML5)
-
 * [The progress element | HTML5 Doctor](http://html5doctor.com/the-progress-element/)
 
 * [New HTML5 Form Input Types](http://cdn.sixrevisions.com/demos/0345-new_html5_form_input_types/new-html5-form-input-types.html)
@@ -187,6 +185,10 @@
 * [Using Device Orientation in HTML5 | Site Point](http://www.sitepoint.com/using-device-orientation-html5/)
 
 --
+
+* [[GitHub] raphamorim / awesome-canvashttps://github.com/raphamorim/awesome-canvas - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+
+* [All About HTML5 tag canvas | SmartBear](http://blog.smartbear.com/software-quality/bid/283454/All-About-HTML5)
 
 * [[Speaker Deck] Playground with canvas - Raphael Amorim](https://speakerdeck.com/raphamorim/playground-with-canvas) - Canvas é uma tela de bitmap que pode ser usada para a renderização de elementos gráficos ou outras imagens visuais rapidamente. No HTML5 ele permite que se desenhem elementos gráficos usando JavaScript. Vamos abordar funcionalidades e recursos e porque você deveria estar pensando em utilizar o canvas no seu próximo projeto.
 
