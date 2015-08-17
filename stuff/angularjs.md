@@ -347,6 +347,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] cironunes / angular-comece-aqui](https://github.com/cironunes/angular-comece-aqui)
 
+* [[GitHub] gianarb / awesome-angularjs](https://github.com/gianarb/awesome-angularjs) - A list of awesome AngularJs services, directives, utilities and resources
+
 --
 
 * [[GitHub] mgechev / angularjs-style-guide](https://github.com/mgechev/angularjs-style-guide) - Community-driven set of best practices for AngularJS application development
