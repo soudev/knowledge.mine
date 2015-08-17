@@ -230,6 +230,8 @@
 
 --
 
+* [Creating AngularJS-Inspired "Directive" Components In ReactJS | Ben Nadel](http://www.bennadel.com/blog/2890-creating-angularjs-inspired-directive-components-in-reactjs.htm) - 2015/08/17
+
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
 * [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
