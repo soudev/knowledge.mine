@@ -2027,6 +2027,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] Anonyfox / node-webkit-hipster-seed](https://github.com/Anonyfox/node-webkit-hipster-seed) - Bootstrap a crossplatform Desktop Application using tools you probably never heard of
 
+* [[GitHub] vhpoet / nwjs-boilerplate](https://github.com/vhpoet/nwjs-boilerplate) - nw.js (node-webkit) boilerplate
+
 * [[GitHub] zcbenz / nw-sample-apps](https://github.com/zcbenz/nw-sample-apps) - Sample apps for node-webkit
 
 
