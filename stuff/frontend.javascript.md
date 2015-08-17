@@ -513,6 +513,8 @@
 
 * [5 functions of the Console object you didn’t know | Shelly Cloud](https://shellycloud.com/blog/2014/11/five-functions-of-the-console-object-you-didnt-know)
 
+* [JavaScript Debugging Tips and Tricks | Zsolt Nagy](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+
 --
 
 * [7 JavaScript Basics Many Developers Aren't Using (Properly) | Tech.Pro](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
