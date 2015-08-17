@@ -54,8 +54,8 @@
   * [REST](#rest)
   * [Authentication](#authentication)
     * [WebID](#webid)
-  * [Módulo](#módulo)
   * [url rewrite proxy](#url-rewrite-proxy)
+  * [Módulo](#módulo)
   * [NPM](#npm)
   * [CORS](#cors)
   * [Armazenamento](#armazenamento)
@@ -70,6 +70,7 @@
   * [Mobile](#mobile)
     * [iOS](#ios)
   * [Desktop](#desktop)
+    * [electron](#electron)
     * [Node Webkit](#node-webkit)
   * [Modulos e Frameworks](#modulos-e-frameworks)
     * [Socket.io](#socketio)
@@ -1983,7 +1984,7 @@ $ sudo chown -R `whoami` .npm
 
 * [Build Desktop Application Using Node.js | Shift8Creative](http://www.shift8creative.com/posts/view/build-desktop-application-using-node-js) - A Quickstart using AppJs
 
-* [[GitHub] atom / electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. Formerly known as Atom Shell.
+--
 
 * [[GitHub] appjs / appjs](https://github.com/appjs/appjs) - SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
 
@@ -1998,6 +1999,13 @@ $ sudo chown -R `whoami` .npm
 * [Breach](http://breach.cc/) - A browser for the HTML5 era Entirely written in Javascript. Free. Modular. Hackable.
 
 * [Vivaldi](https://vivaldi.com/) - has a powerful feature set, but thats not all. One of the things that makes Vivaldi unique is that it’s built on modern Web technologies. We use JavaScript and React to create the user interface — with the help of Node.js, Browserify and a long list of NPM modules. Vivaldi is the web built with the web.
+
+
+#### electron
+
+* [[GitHub] atom / electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. Formerly known as Atom Shell.
+
+* [Building a desktop application with Electron | Developers Writing — Medium](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) - A detailed guide on building your very own sound machine using JavaScript, Node.js and Electron.
 
 
 #### Node Webkit
