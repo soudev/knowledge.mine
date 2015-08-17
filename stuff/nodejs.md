@@ -1102,6 +1102,8 @@
 
 * [Abstract Syntax Tree | wikipedia](https://en.wikipedia.org/wiki/Abstract_syntax_tree)
 
+* [Working with JavaScript AST | redradix](http://blog.redradix.com/working-with-javascript-ast/) - 2015/08/14
+
 * [[GitHub] ajaxorg / treehugger](https://github.com/ajaxorg/treehugger) - JavaScript AST (Abstract Syntax Tree) transformation tools
 
 * [[GitHub] ariya / esprima](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis | [esprima.org](http://esprima.org)
