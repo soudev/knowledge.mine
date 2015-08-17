@@ -924,6 +924,10 @@
 
 --
 
+* [[GitHub] ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
+
+--
+
 * [Browserify VS Webpack - JS Drama | Naman Goel](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
 
 
