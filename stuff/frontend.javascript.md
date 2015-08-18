@@ -214,6 +214,8 @@
 
 * [Higher-Order Functions | Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
 
+* [Functional and Object Oriented Programming with Higher Order Functions | Zsolt Nagy](http://www.zsoltnagy.eu/functional-and-object-oriented-programming-with-higher-order-functions/)
+
 --
 
 * Functional JavaScript | Tech Pro
