@@ -825,6 +825,12 @@
 
 ### Node.js no Servidor
 
+* [Cobol -- yes, Cobol -- gets a bridge to Node.js | InfoWorld](http://www.infoworld.com/article/2972314/application-development/cobol-nodejs-bridge.html) - 2015/08/18
+
+  * [[Github] IonicaBizau / node-cobol](https://github.com/IonicaBizau/node-cobol) - COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS
+
+--
+
 * [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
 
 * [DynoSRC](http://dinosrc.it/) - Eliminate HTTP requests for JavaScript files and serve differential updates to your users on the fly. No, really. Like, seriously.
