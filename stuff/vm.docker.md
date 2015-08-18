@@ -102,6 +102,8 @@
 
 * [Docker - Beginner's tutorial | talPor Solutions Blog](https://blog.talpor.com/2015/01/docker-beginners-tutorial/)
 
+* [Getting Started with Docker: Simplifying Devops | Toptal](http://www.toptal.com/devops/getting-started-with-docker-simplifying-devops)
+
 --
 
 * [Understanding the key differences between LXC and Docker | Flockport](http://www.flockport.com/lxc-vs-docker/)
