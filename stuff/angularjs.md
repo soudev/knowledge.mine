@@ -644,6 +644,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Best Practices and Tips by Toptal Developers | Toptal](http://www.toptal.com/angular-js/tips-and-practices)
 
+* [Tips & Tricks for debugging unfamiliar AngularJS code | Localytics Engineering Blog](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
+
 --
 
 * [[GitHub] EwanValentine / SymfonyAngularDocker](https://github.com/EwanValentine/SymfonyAngularDocker) - Symfony angular docker example
