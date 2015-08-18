@@ -2138,6 +2138,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] Hendrixer / ng-Fx](https://github.com/Hendrixer/ng-Fx) - Simple, Beautiful animation library for Angular
 
+* [[GitHub] 720kb / angular-fx](https://github.com/720kb/angular-fx) - Angular CSS3 animation directives (ngfx-bounce, ngfx-shake, ngfx-flip, ngfx-pulse and more ...)
+
 * [[GitHub] mgcrea / angular-motion](https://github.com/mgcrea/angular-motion) - Fancy CSS3 animations for AngularJS 1.2+
 
 * [Animation in AngularJS | Year of Moo](http://www.yearofmoo.com/2013/04/animation-in-angularjs.html) - AngularJS now provides full support for animations direct from it's core
