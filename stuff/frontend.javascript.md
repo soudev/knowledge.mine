@@ -1285,13 +1285,15 @@
 
 --
 
-* [[GitHub] Khan / KaTeX](https://github.com/Khan/KaTeX) - is a fast, easy-to-use JavaScript library for TeX math rendering on the web
-
---
-
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
 * [[GitHub] d3 / d3-time-format](https://github.com/d3/d3-time-format) - A JavaScript time formatter and parser inspired by strftime and strptime
+
+--
+
+* [[GitHub] Khan / KaTeX](https://github.com/Khan/KaTeX) - is a fast, easy-to-use JavaScript library for TeX math rendering on the web
+
+* [[GitHub] fantasyland / fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 
 --
 
