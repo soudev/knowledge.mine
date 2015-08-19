@@ -338,6 +338,12 @@
 
 --
 
+* [[YouTube] You should learn to program: Christian Genco at TEDxUTA](https://www.youtube.com/watch?v=cALAPK2ZSrw) - 2014/02/03
+
+* [You Should Learn to Program | Christian Genco](http://christian.gen.co/you-should-learn-to-program)
+
+--
+
 * Lógica de Programação
 
   * [[YouTube] Lógica de Programação — Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
