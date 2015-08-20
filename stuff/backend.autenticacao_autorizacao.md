@@ -1,4 +1,4 @@
-# Autenticação & Autorização 
+# Autenticação & Autorização
 
 * [Authentication for Single Page Apps | madhatted.com](http://madhatted.com/2014/6/17/authentication-for-single-page-apps)
 
@@ -79,6 +79,8 @@
 --
 
 * [[GitHub] globocom / oauth2u](https://github.com/globocom/oauth2u) - OAuth 2 server implementation
+
+* [[GitHub] lucadegasperi / oauth2-server-laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - A OAuth 2.0 bridge for Laravel and Lumen
 
 
 ## SAML
@@ -171,6 +173,3 @@ _ADFS_ - Active Directory Federation Services
 * [Entries in ADFS v2 | The Identity Guy](http://www.theidentityguy.com/articles/tag/adfs-v2)
 
 * [ADFS with Non-Standard HTTPS Port | Certified Security Solutions](http://www.css-security.com/blog/adfs-with-non-standard-https-port/)
-
-
-
