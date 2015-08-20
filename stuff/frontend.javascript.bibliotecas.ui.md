@@ -129,6 +129,8 @@
 
 * [[GitHub] 6eDesign / apptPicker](https://github.com/6eDesign/apptPicker) - Appointment Picker for selecting time ranges within a single day
 
+* [[GitHub] Baremetrics / calendar](https://github.com/Baremetrics/calendar) - Date range picker for Baremetrics
+
 --
 
 * [[GitHub] 720kb / highlighter.js](https://github.com/720kb/highlighter.js) - Easily navigate the DOM and highlight the elements
