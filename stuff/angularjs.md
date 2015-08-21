@@ -157,6 +157,10 @@
 
   * [[GitHub] Microsoft / ngconf2015demo](https://github.com/Microsoft/ngconf2015demo) - TodoMVC application demo for ng-conf 2015
 
+  * [Getting Started with Angular 2 using TypeScript | SitePoint](http://www.sitepoint.com/getting-started-with-angular-2-using-typescript/) - 2015/08/20
+
+    * [[GitHub] sitepoint-editors / PinYourAchievements-Angular2-TypeScript](https://github.com/sitepoint-editors/PinYourAchievements-Angular2-TypeScript/) - A demo app using Angular 2 and TypeScript
+
 * ES6
 
   * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
