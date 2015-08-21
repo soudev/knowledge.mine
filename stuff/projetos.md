@@ -64,6 +64,10 @@
 
 --
 
+* [[GitHub] cjbarber / ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News
+
+--
+
 * [NinjaMock](http://ninjamock.com/) - free tool for mobile app wireframes and website mockups.
 
 * [Balsamiq](https://balsamiq.com/) - is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.
