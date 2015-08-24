@@ -1613,6 +1613,8 @@
 
 * [Que usamos 10% do cérebro é mito. Mas que usamos 10% do Chrome, é fato! Chrome, a IDE que eu queria! | InfoQ Br](http://www.infoq.com/br/presentations/chrome-ide-que-eu-queria)
 
+* [DevTools Tips For Sublime Text Users | Medium - @addyosmani](https://medium.com/@addyosmani/devtools-tips-for-sublime-text-users-cdd559ee80f8) - 2015/08/24
+
 * [[YouTube Playlist] Segredos do Chrome DevTools](https://www.youtube.com/watch?v=XUgfwYzv-WQ&list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53)
 
 * [DevTools Extensions Gallery](https://developers.google.com/chrome-developer-tools/docs/extensions-gallery)
