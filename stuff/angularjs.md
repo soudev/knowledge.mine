@@ -137,6 +137,10 @@
 
 --
 
+* [Host and Visibility in Angular 2's Dependency Injection | thoughtram](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
+
+--
+
 * [[GitHub] pbastowski / angular2-now](https://github.com/pbastowski/angular2-now) - Code Angular 2 @Component syntax in your Angular 1 apps now
 
 --
