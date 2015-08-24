@@ -255,6 +255,12 @@
 
 --
 
+* [Java EE 7 and JAX-RS 2.0 | Oracle Technology Network](http://www.oracle.com/technetwork/articles/java/jaxrs20-1929352.html)
+
+* [Java EE 7 / JAX-RS 2.0 – CORS on REST | Developers's ScrapPad](http://www.developerscrappad.com/1781/java/java-ee/rest-jax-rs/java-ee-7-jax-rs-2-0-cors-on-rest-how-to-make-rest-apis-accessible-from-a-different-domain/) - How to make REST APIs accessible from a different domain
+
+--
+
 * [Adicionando flexibilidade à sua implementação REST com Yoga | InfoQ Br](http://www.infoq.com/br/articles/json-yoga)
 
 * [Build HATEOAS API in Java with Spring MVC, Jersey (JAX-RS) and VRaptor | ZeroTurnaround](http://zeroturnaround.com/rebellabs/beyond-rest-how-to-build-a-hateoas-api-in-java-with-spring-mvc-jersey-jax-rs-and-vraptor/)
