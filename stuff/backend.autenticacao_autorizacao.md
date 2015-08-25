@@ -83,6 +83,11 @@
 * [[GitHub] lucadegasperi / oauth2-server-laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - A OAuth 2.0 bridge for Laravel and Lumen
 
 
+### Two-Factor Authentication
+
+* [From Theory to Practice: Adding Two-Factor Authentication to Node.js | Auth0 ](https://auth0.com/blog/2015/08/20/from-theory-to-practice-adding-two-factor-to-node-dot-js/) - 2015/08/20
+
+
 ## SAML
 
 *Definição:* _SAML_ - Security Assertion Markup Language
