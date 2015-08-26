@@ -1501,6 +1501,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Ionic, AngularJS and Firebase equals Hybrid Heaven | Budacode](http://blog.budacode.com/2015/06/09/ionic-angularjs-and-firebase-equals-hybrid-heaven/) - 2015/06/09
 
+* [A year using Ionic to build hybrid applications | AirPair](https://www.airpair.com/javascript/posts/a-year-using-ionic-to-build-hybrid-applications)
+
 --
 
 * Christophe Coenraets
