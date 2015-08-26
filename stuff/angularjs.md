@@ -1791,6 +1791,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] danialfarid / angular-file-upload](https://github.com/danialfarid/angular-file-upload) - An AngularJS directive for file upload using HTML5 with FileAPI polyfill for unsupported browsers
 
+* [[GitHub] adonespitogo / angular-base64-upload](https://github.com/adonespitogo/angular-base64-upload) - Converts files from file input into base64 encoded models
+
 * [AngularJS Directive to check that passwords match | Web Development blog](http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 
 --
