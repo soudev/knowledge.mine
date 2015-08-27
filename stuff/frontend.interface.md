@@ -113,9 +113,9 @@
 
   * [[GitHub] djfpaagman / font-awesome-balsamiq](https://github.com/djfpaagman/font-awesome-balsamiq/) - Font Awesome icons as .png, ready for use with [Balsamiq](http://balsamiq.com/)
 
-* [On Web Typography | Jason Santa Maria](http://www.besquare.me/session/on-web-typography/) - Awesome presentation on web typography 
+* [On Web Typography | Jason Santa Maria](http://www.besquare.me/session/on-web-typography/) - Awesome presentation on web typography
 
-* [[GitHub] nodebox / opentype.js](https://github.com/nodebox/opentype.js) - A JavaScript parser for TrueType and OpenType fonts. 
+* [[GitHub] nodebox / opentype.js](https://github.com/nodebox/opentype.js) - A JavaScript parser for TrueType and OpenType fonts.
 
 * [Glyphr](http://glyphrstudio.com/) - the free HTML5 based font editor
 
@@ -218,7 +218,7 @@
 * [[GitHub] webcomponents / webcomponentsjs](https://github.com/WebComponents/webcomponentsjs) - A suite of polyfills supporting the HTML Web Components specs
 
 
-#### X-Tag 
+#### X-Tag
 
 * [X-Tag - Web Components Custom Element Polylib](http://www.x-tags.org/)
 
@@ -264,6 +264,12 @@
 --
 
 * [Web Components, PhoneGap Build and WordPress – A Hybrid App for your Blog | The Jackal of Javascript](http://thejackalofjavascript.com/a-hybrid-app-for-your-blog/)
+
+--
+
+* [[GitHub] robdodson / Atom-PolymerSnippets](https://github.com/robdodson/Atom-PolymerSnippets) - Atom snippets for Polymer and Web Components
+
+* [[GitHub] robdodson / PolymerSnippets](https://github.com/robdodson/PolymerSnippets) - Sublime snippets for Polymer and Web Components
 
 --
 
