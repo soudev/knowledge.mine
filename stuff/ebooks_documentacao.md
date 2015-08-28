@@ -290,7 +290,11 @@
 
 ### Idiomas
 
+> English [Cardinal vowels table | Wikipedia](https://en.wikipedia.org/wiki/Cardinal_vowels)
+
 * [Duolingo](https://www.duolingo.com/) - serviço online e gratuito para aprendizado de idiomas. Possui interface com suporte ao português. As aulas vão do básico ao avançado no aprendizado de um idioma.
+
+* [Sounds of Speech](http://soundsofspeech.uiowa.edu/)
 
 * [engVid](http://www.engvid.com/) - free english video lessons
 
