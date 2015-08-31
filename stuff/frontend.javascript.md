@@ -1299,6 +1299,8 @@
 
 * [[GitHub] fantasyland / fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 
+* [[GitHub] nicolewhite / algebra.js](https://github.com/nicolewhite/algebra.js) - Build, display, and solve algebraic equations
+
 --
 
 * [[GitHub] sloisel / numeric](https://github.com/sloisel/numeric) -  is a javascript library for doing numerical analysis in the browser - [NumericJS](http://www.numericjs.com/)
