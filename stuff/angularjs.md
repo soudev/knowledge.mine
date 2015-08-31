@@ -1961,6 +1961,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] ManifestWebDesign / angular-gridster](https://github.com/ManifestWebDesign/angular-gridster) - An implementation of gridster-like widgets for Angular JS
 
+* [[GitHub] ceolter / angular-grid](https://github.com/ceolter/angular-grid) - An Advanced Datagrid for AngularJS
+
 * [[GitHub] adamalbrecht / ngModal](https://github.com/adamalbrecht/ngModal) - Very basic modal dialog directive for Angular.js
 
   * [How to Create a Simple Modal Dialog Directive in Angular.js | Adam Albrecht](http://adamalbrecht.com/2013/12/12/creating-a-simple-modal-dialog-directive-in-angular-js/)
