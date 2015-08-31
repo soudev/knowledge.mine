@@ -460,6 +460,10 @@
 
   * [Auto-formatting JavaScript Code Style | Medium - by @addyosmani](https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8)
 
+--
+
+* [How to Start Flowing with Flow-based Programming | CoLab Coop](https://colab.coop/blog/how-to-start-flowing-with-flow-based-programming/) - 2015/08/29
+
 
 ### Dicas
 
