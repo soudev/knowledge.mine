@@ -32,6 +32,8 @@
 
 --
 
+* [[Speaker Deck] What's happening in frontend now?](https://speakerdeck.com/koba04/whats-happening-in-frontend-now) - by koba04 (2015/08/20)
+
 * [O que é desenvolvimento FrontEnd? | Tableless](http://tableless.com.br/iniciantes/) - Um guia para iniciantes na área
 
 * [Being A Web Developer - Front end standards](http://www.yellowshoe.com.au/standards/) - This little book is to aid a shared understanding of front-end development best practice
@@ -100,7 +102,7 @@
 ## Browsers antigos
 
 * [Salve a Web](http://salveaweb.com/)
-  
+
   * [[GitHub] globocom / sawpf](https://github.com/globocom/sawpf)
 
 * Happy Browser [en](http://browsehappy.com/) | [pt-Br](http://browsehappy.com/?locale=pt)
@@ -216,7 +218,7 @@
 
 * [favico.js](http://lab.ejci.net/favico.js/) - Make a use of your favicon with badges, images or videos
 
-* [[GitHub] lipka / piecon](https://github.com/lipka/piecon/) - A tiny javascript library for generating progress pie charts in your favicon. 
+* [[GitHub] lipka / piecon](https://github.com/lipka/piecon/) - A tiny javascript library for generating progress pie charts in your favicon.
 
 
 ### SVG
@@ -284,5 +286,3 @@
 ## HTML Email
 
 * [Build an HTML Email Template From Scratch | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/build-an-html-email-template-from-scratch/)
-
-
