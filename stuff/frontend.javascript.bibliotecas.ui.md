@@ -172,6 +172,8 @@
 
 * [React](https://facebook.github.io/react/) - A JavaScript library for building user interfaces
 
+  * [New React Developer Tools | React Blog](https://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html) - 2015/09/02
+
   * [React Components](http://react-components.com/)
 
   * [React.parts](http://react.parts/)  - A catalog of React Native components
@@ -334,9 +336,14 @@
 
   * [[GitHub] scotch-io / react-tweets](https://github.com/scotch-io/react-tweets)
 
-* [Real Time Trader Desktop with React, Node.js, and Socket.io | Christophe Coenraets](http://coenraets.org/blog/2015/03/real-time-trader-desktop-with-react-node-js-and-socket-io/)
+* [Real Time Trader Desktop with React, Node.js, and Socket.io | Christophe Coenraets](http://coenraets.org/blog/2015/03/real-time-trader-desktop-with-react-node-js-and-socket-io/) - 2015/03/24
 
   * [[GitHub] ccoenraets / react-trader](https://github.com/ccoenraets/react-trader) - Sample application built with React and Socket.io
+
+* [Trader Desktop with React and the Lightning Design System on Heroku | Christophe Coenraets](http://coenraets.org/blog/2015/09/trader-desktop-with-react-and-the-lightning-design-system-on-heroku/) - 2015/09/03
+
+  * [[GitHub] ccoenraets / lightning-trader](https://github.com/ccoenraets/lightning-trader) - Sample trader desktop app built with React and the Lightning Design System
+
 
 #### React Native
 
