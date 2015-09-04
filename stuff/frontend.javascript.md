@@ -188,14 +188,6 @@
 
 * [Every Possible Way to Define a Javascript Function | Bryan Braun](http://www.bryanbraun.com/2014/11/27/every-possible-way-to-define-a-javascript-function)
 
-* [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
-
-* [Functional programming with JavaScript, some concepts | dreyacosta](http://dreyacosta.com/functional-javascript/)
-
-* [[SlideShare] Functional Programming Patterns (BuildStuff '14)](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
-
-* [[YouTube Playlist] Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-
 * [Functions Explained | Mark Daggett's Blog](http://markdaggett.com/blog/2013/02/15/functions-explained/)
 
 * [Javascript hoisting explained | Kenneth Truyers](http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/)
@@ -209,6 +201,20 @@
 * [What (function (window, document, undefined) {})(window, document); really means | Todd Motto](http://toddmotto.com/what-function-window-document-undefined-iife-really-means/)
 
 * [Applicative Programming In JavaScript With lodash.js | Tech.Pro](http://tech.pro/tutorial/1611/functional-javascript)
+
+--
+
+* [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
+
+* [Functional programming with JavaScript, some concepts | dreyacosta](http://dreyacosta.com/functional-javascript/)
+
+* [[SlideShare] Functional Programming Patterns (BuildStuff '14)](http://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt)
+
+* [[YouTube Playlist] Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
+* Getting Functional with Javascript | Dave Atchley
+
+  * [part 1](http://www.datchley.name/getting-functional-with-javascript-part-1/) | [part 2](http://www.datchley.name/getting-functional-with-javascript-part-2/) | [part 3](http://www.datchley.name/getting-functional-with-javascript-part-3/)
 
 --
 
