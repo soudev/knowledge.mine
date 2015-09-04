@@ -22,6 +22,8 @@
 
 ## Dicas
 
+* [numi](http://numi.io/) - beautiful calculator for mac
+
 * [16 apps gratuitos para Mac que você não pode deixar de conhecer | BR-Mac.org](http://br-mac.org/2014/01/16-apps-gratuitos-para-mac-que-voce-nao-pode-deixar-de-conhecer.html)
 
 * [Configurando o Terminal no Mac OS X | Simples Ideias](http://simplesideias.com.br/configurando-o-terminal-no-mac-os-x)
@@ -40,7 +42,7 @@
 
   * [BetterTouchTool](http://www.boastr.de/) - BetterTouchTool is a great, feature packed FREE app that allows you to configure many gestures for your Magic Mouse, Macbook Trackpad and Magic Trackpad. It also allows you to configure actions for keyboard shortcuts, normal mice and the Apple Remote.
 
-  * [Spectacle](http://spectacleapp.com/) - Move and resize windows with ease. Free and OpenSource. 
+  * [Spectacle](http://spectacleapp.com/) - Move and resize windows with ease. Free and OpenSource.
 
     * [[GitHub] eczarny / spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to easily organize your windows without using a mouse.
 
@@ -154,7 +156,7 @@
 
 ### Editores de Audio
 
-* [Audacity: Free Audio Editor and Recorder](http://audacity.sourceforge.net/) - é um editor de audio de código aberto, e entre seus recursos estão a reprodução e gravação, importação e exportação de vários formatos de audio (MP3, Ogg, WAV, FLAC e AIFF). 
+* [Audacity: Free Audio Editor and Recorder](http://audacity.sourceforge.net/) - é um editor de audio de código aberto, e entre seus recursos estão a reprodução e gravação, importação e exportação de vários formatos de audio (MP3, Ogg, WAV, FLAC e AIFF).
 
 * [Ardour](http://ardour.org/) - é um editor de código aberto utilizado normalmente por profissionais em audio digital. Para editar, o aplcativo possui recursos como arrastar, cortar, dividir e estender partes de uma trilha de audio. Também é possivel capturar sons e realizar mixagens. Além disso, permite a integração com o Jack OS X e a possibilidade de expostar arquivos TOC e CUE. Está disponível para Mac OS X e Linux.
 
