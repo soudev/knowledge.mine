@@ -355,6 +355,8 @@
 
 * [React Native Fundamentals | Video Tutorial Series - @eggheadio](https://egghead.io/series/react-native-fundamentals)
 
+* [How Facebook Focuses on the Most Important Element of an App  | Airbnb Engineering](http://nerds.airbnb.com/facebook-react-native/) - 2015/08/31
+
 
 ### Template Engine
 
