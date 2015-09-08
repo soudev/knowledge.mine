@@ -1475,6 +1475,8 @@
 
 --
 
+* [[GitHub] sindresorhus / speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
+
 * [[GitHub] sindresorhus / wallpaper](https://github.com/sindresorhus/wallpaper) - Get or set the desktop wallpaper
 
   * [[GitHub] sindresorhus / node-osx-wallpaper](https://github.com/sindresorhus/node-osx-wallpaper) - Get or set the desktop wallpaper on OS X
