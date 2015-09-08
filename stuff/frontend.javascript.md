@@ -1974,6 +1974,8 @@
 
 * [JavaScript ES6 Variable Declarations with let and const | StrongLoop](https://strongloop.com/strongblog/es6-variable-declarations/)
 
+* [ES6 Let, Const and the “Temporal Dead Zone” (TDZ) in Depth | ponyfoo](http://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth) - 2015/09/04
+
 --
 
 * [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
