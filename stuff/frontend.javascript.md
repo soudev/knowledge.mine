@@ -603,6 +603,8 @@
 
 * [Promises and Error Handling | Making Change.org](http://making.change.org/post/69613524472/promises-and-error-handling)
 
+* [[GitHub] mattdesl / promise-cookbook](https://github.com/mattdesl/promise-cookbook) - a brief introduction to using Promises in JavaScript
+
 --
 
 * [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
