@@ -476,6 +476,8 @@
 
   * [A BrowserSync Primer | Pony Foo](http://blog.ponyfoo.com/2014/08/12/a-browsersync-primer)
 
+  * [Browser-sync, indispensável para desenvolver sites em vários dispositivos | caelum blog](http://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/) - 2015/06/17
+
 --
 
 * [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions
