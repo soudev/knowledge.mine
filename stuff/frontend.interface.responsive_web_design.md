@@ -15,7 +15,7 @@
 
 * [8 Guidelines and 1 Rule for Responsive Images](http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/)
 
-* [Adventures in Responsive Navigation](http://responsivenavigation.net/) 
+* [Adventures in Responsive Navigation](http://responsivenavigation.net/)
 
 * [This Is Responsive](http://bradfrost.github.io/this-is-responsive/) - Patterns, resources and news for creating responsive web experiences.
 
@@ -52,7 +52,7 @@
 * [The State Of Responsive Web Design | Smashing Mobile](http://mobile.smashingmagazine.com/2013/05/29/the-state-of-responsive-web-design/)
 
 * [Facing The Challenge: Building A Responsive Web Application | Smashing Mobile](http://mobile.smashingmagazine.com/2013/06/12/building-a-responsive-web-application/)
-  
+
   * [[GitHub] webpro / responsive-web-apps](https://github.com/webpro/responsive-web-apps) - Building Responsive & Hybrid Web Applications
 
 * [How to create a resizing menu bar | Webdesigner Depot](http://www.webdesignerdepot.com/2013/03/how-to-create-a-resizing-menu-bar/)
@@ -94,7 +94,7 @@
 
   * [[GitHub] nghuuphuoc / responsivetest](https://github.com/nghuuphuoc/responsivetest) - Test responsive layout, powered by AngularJS and Bootstrap 3
 
-* [Dimensions Legacy | Google Chrome Extension](https://chrome.google.com/webstore/detail/dimensions/hdmihohhdcbejdkidbfijmfehjbnmifk?utm_source=chrome-ntp-launcher) - Dimensions is a responsive web design testing tool. It is the easiest way to test responsive websites at different viewports. It works offline & is compatible with LiveReload. 
+* [Dimensions | Google Chrome Extension](https://chrome.google.com/webstore/detail/dimensions/oajdmmikmphdckpkjgkdofoegppahcak) - A toolkit to capture & test responsive websites with Google Chrome. (with offline support) [only works with min. resolution 1280x800]
 
 * [Dimensions | Google Chrome Extension](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj) - A tool for designers to measure screen dimensions
 
