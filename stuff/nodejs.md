@@ -1493,6 +1493,12 @@
 
   * [[GitHub] sindresorhus / win-wallpaper](https://github.com/sindresorhus/win-wallpaper) - Get or set the desktop wallpaper on Windows
 
+--
+
+* [[GitHub] chjj / term.js](https://github.com/chjj/term.js) - A terminal written in javascript.
+
+  * [Docker + term.js  = Bash Fiddle | Thinapps  blog](https://thinapps.org/blog/post/128030184289/docker-termjs-bash-fiddle)
+
 
 ### process manager
 
