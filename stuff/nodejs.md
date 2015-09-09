@@ -150,6 +150,8 @@
 
 ## IO.js
 
+> Node.js e IO.js foram unificados, primeio build do merge [Node.js v4.0.0](https://nodejs.org/en/blog/release/v4.0.0/)
+
 * [IO.js - JavaScript I/O](https://iojs.org/)
 
 * [[GitHub] iojs / io.js](https://github.com/iojs/io.js) - A spork of Node.js with an open governance model
@@ -1436,6 +1438,12 @@
 * [[GitHub] shell-jobs: Cron replacement in NodeJS, made for humans](https://github.com/azer/shell-jobs)
 
 * [[GitHub] node-schedule / node-schedule](https://github.com/node-schedule/node-schedule) - A cron-like and not-cron-like job scheduler for Node
+
+* [[GitHub] rschmukler / agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling for node (uses [mongodb](https://www.mongodb.org/) to store jobs)
+
+  * [[GitHub] moudy / agenda-ui](https://github.com/moudy/agenda-ui) - A UI to view Agenda jobs
+
+--
 
 * [Build Custom Shells with Node Shotgun | Code Tunnel](http://codetunnel.com/blog/post/build-custom-shells-with-node-shotgun)
 
