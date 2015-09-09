@@ -405,6 +405,8 @@
 
 * [[GitHub] ellisonleao / clumsy-bird](https://github.com/ellisonleao/clumsy-bird) - A MelonJS port of the famous Flappy Bird Game
 
+* [[GitHub] gloomyson / StarCraft](https://github.com/gloomyson/StarCraft) - HTML5 version for StarCraft game
+
 * [The JavaScript Warrior](http://jswarrior.fusioncharts.com/) - Welcome to the JSWarrior Game. Unlike traditional games, you can't control your character through a keyboard or joystick. The only way you can control your character is through JavaScript.
 
 
