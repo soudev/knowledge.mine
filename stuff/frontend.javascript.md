@@ -1418,6 +1418,10 @@
 
     * [PART II: Property decorators & Class decorators](http://blog.wolksoftware.com/decorators-metadata-reflection-in-typescript-from-novice-to-expert-part-ii)
 
+--
+
+* [[GitHub] danprince / jsxpr](https://github.com/danprince/jsxpr) - Lisp in your language.
+
 
 #### Máquinas Virtuais
 
