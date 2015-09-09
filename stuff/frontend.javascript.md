@@ -378,6 +378,10 @@
 
 --
 
+* [Design Patterns em JavaScript | Front In Brazil](http://frontinbrazil.com.br/design-patterns-em-javascript/) - 2015/08/21
+
+--
+
 * Simples Ideias
 
   * [Design Patterns no JavaScript – Singleton](http://simplesideias.com.br/design-patterns-no-javascript-singleton)
