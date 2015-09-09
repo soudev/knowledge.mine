@@ -52,9 +52,13 @@
 
 * [Quanto vale 1px? | Loop Infinito](http://loopinfinito.com.br/2013/11/12/quanto-vale-1px/)
 
+* [Tudo que você precisa saber sobre resoluções, telas retina, devicePixelRatio, DPI, CSS pixels e etc | Sérgio Lopes](http://sergiolopes.org/resolucoes-dpi-pixel-ratio-retina/)
+
 * [@media queries {nível: 4} | Loop Infinito](http://loopinfinito.com.br/2013/11/26/media-queries-nivel-4/)
 
-* [Tudo que você precisa saber sobre resoluções, telas retina, devicePixelRatio, DPI, CSS pixels e etc | Sérgio Lopes](http://sergiolopes.org/resolucoes-dpi-pixel-ratio-retina/)
+* [Otimizando e organizando as Media Queries | iMasters](http://imasters.com.br/front-end/otimizando-e-organizando-as-media-queries/) - 2015/09/09
+
+--
 
 * [Taking Ems Even Further | Webdesigntuts+](http://webdesign.tutsplus.com/articles/typography-articles/taking-ems-even-further/)
 
