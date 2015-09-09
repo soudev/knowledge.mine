@@ -249,6 +249,10 @@
 
 ## Plataformas de Estudo
 
+* [5 sites gratuitos e descomplicados para estudar matemática | Catraca Livre](https://catracalivre.com.br/geral/web-educacao/indicacao/5-sites-gratuitos-e-descomplicados-para-estudar-matematica/) - 2015/08/11
+
+--
+
 * [Cerebro](https://cerebrobr.github.io/cerebro/) - Projeto bem interessante lançado pela comunidade brasileira. O projeto promete reunir uma série de conteúdos em português. (no GitHub)
 
 
