@@ -166,12 +166,16 @@ rem - context is always based on body context
 
 * [Using CSS Media Queries for Responsive Design | Travis Horn](http://travishorn.com/using-css-media-queries-for-responsive-design/)
 
+* [@media queries {nível: 4} | Loop Infinito](http://loopinfinito.com.br/2013/11/26/media-queries-nivel-4/)
+
+* [Otimizando e organizando as Media Queries | iMasters](http://imasters.com.br/front-end/otimizando-e-organizando-as-media-queries/) - 2015/09/09
+
 --
 
 * [mqa.js : a small, modern library for managing media queries programmatically (i.e. in JavaScript)](https://github.com/peol/mqa.js)
 
 
-### Ferramentas 
+### Ferramentas
 
 #### Ferramentas Online
 
