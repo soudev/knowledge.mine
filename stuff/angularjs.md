@@ -2010,6 +2010,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Adding a weel (spin.js) progress indicator to your AngularJS application](http://blog.xvitcoder.com/adding-a-weel-progress-indicator-to-your-angularjs-application/)
 
+* [Displaying a Loading Spinner | Recipes with Angular.js](https://fdietz.github.io/recipes-with-angular-js/common-user-interface-patterns/displaying-a-loading-spinner.html)
+
+* [AngularJS – Spinner | Mark Vriens](https://www.markvriens.com/angularjs-spinner/)
+
 * [[GitHub] remotty / angular-ladda](https://github.com/remotty/angular-ladda) - An angular directive wrapper for Ladda
 
 * [ngProgress](http://victorbjelkholm.github.io/ngProgress/) - Slim, site-wide progressbar for Angular
