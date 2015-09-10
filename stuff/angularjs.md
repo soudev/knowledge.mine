@@ -519,6 +519,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [AngularJS Corner - Async calls using $http, $q and promises | Chariot Solutions](http://chariotsolutions.com/blog/post/angularjs-corner-using-promises-q-handle-asynchronous-calls/)
 
+  * [[Slides] Angular promises and http](http://slides.com/alexebogdan/angular-promises-and-http) - JavaScript Async, Angular $q service and $http service
+
 --
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
