@@ -133,6 +133,12 @@
 
 --
 
+* [Angular 1 and Angular 2 integration: the path to seamless upgrade | AngularJS Blog](http://angularjs.blogspot.com.br/2015/08/angular-1-and-angular-2-coexistence.html)
+
+* [[Google Doc] AngularJS 1 to Angular 2 Upgrade Strategy](https://docs.google.com/document/d/1xvBZoFuNq9hsgRhPPZOJC-Z48AHEbIBPlOCBTSD8m0Y/edit)
+
+--
+
 * [AtScript (was "ES6 +A") Q&A | Google Doc](https://docs.google.com/document/d/1cUTD8oVzfpwFqX5tMxHTifKO8uJm5VddwmB0aVQMxpI/edit#heading=h.tk8rztcx46y)
 
 --
