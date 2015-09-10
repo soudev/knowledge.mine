@@ -2215,6 +2215,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] jhades / spring-mvc-angularjs-sample-app](https://github.com/jhades/spring-mvc-angularjs-sample-app) - java 8
+
+--
+
 * [Grabs - Front-End Development Environment](http://grabs.in/) - Grunt.js | Angular.js | Bower | Stylus
 
   * [[GitHub] sercaneraslan / grabs](https://github.com/sercaneraslan/grabs) - Front-End Development Environment
