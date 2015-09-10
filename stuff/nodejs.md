@@ -891,6 +891,10 @@
 
 --
 
+* [[GitHub] rjrodger / seneca](https://github.com/rjrodger/seneca) - A micro-services toolkit for Node.js.
+
+--
+
 * [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
 
   * [Introduction to the Harp Web Server | Introductory Screencast - Harp](http://harpjs.com/blog/introductory-screencast)
