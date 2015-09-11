@@ -29,3 +29,5 @@
 * [Laravel - Tuts+ Code Category](http://code.tutsplus.com/categories/laravel)
 
 * [10 formas como Laravel vai aumentar a sua produtividade | Zizaco](http://zizaco.net/formas-como-laravel-vai-aumentar-a-sua-produtividade)
+
+* [Posts sobre Laravel | Fabio Vedovelli](http://www.vedovelli.com.br/tag/laravel/)
