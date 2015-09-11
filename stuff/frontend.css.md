@@ -157,6 +157,8 @@ rem - context is always based on body context
 
 * [There’s more to the CSS rem unit than font sizing | CSS Tricks](https://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/)
 
+* [Equação do font-size | Descomplica Insights — Medium](https://medium.com/descomplica-insights/trigonometria-do-font-size-a104c95fa9a) - Dúvida terrível! Como usar font-size? Pixels(px) ou viewport width (vw)?
+
 
 ### Media Query
 
