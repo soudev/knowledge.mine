@@ -2039,6 +2039,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Building a desktop application with Electron | Developers Writing — Medium](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) - A detailed guide on building your very own sound machine using JavaScript, Node.js and Electron.
 
+* [Primeiros passos com Electron | Medium by @raphaelporto](https://medium.com/@raphaelporto/primeiros-passos-com-electron-2cfbda828f0d) - Não há dúvidas, JavaScript tem crescido muito nos últimos anos. Isso se deve muito ao engine V8, que proporcionou a criação do NodeJS e outras ferramentas incríveis. Entre elas temos o Electron, um framework que nos permite criar aplicações desktop com JavaScript.
+
 
 #### Node Webkit
 
