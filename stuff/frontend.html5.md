@@ -226,9 +226,14 @@
 
 * [Realistic terrain in 130 lines | PlayfulJS](http://www.playfuljs.com/realistic-terrain-in-130-lines/)
 
+
 * [[GitHub] felipenmoura / js-chroma-key](https://github.com/felipenmoura/js-chroma-key) - A chroma key effect made in JavaScript, HTML5 and CSS3 in 100 lines of js
 
   * [O poder do canvas em 100 linhas de JS | InfoQ Br](http://www.infoq.com/br/presentations/o-poder-do-canvas-em-100-linhas-de-js)
+
+* [Building an HTML5 green screen (Chroma key) dynamic video player | Mark Mower - Digital Marketing Agency](http://www.metia.com/london/mark-mower/2012/12/building-an-html5-green-screen-(chroma-key)-dynamic-video-player/)
+
+  * [HTML 5 Real time video chroma key (green screen)](http://www.xindustry.com/html5greenscreen/)
 
 --
 
