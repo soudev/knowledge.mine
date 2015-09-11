@@ -186,7 +186,7 @@
 
 --
 
-* [[GitHub] raphamorim / awesome-canvashttps://github.com/raphamorim/awesome-canvas - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
+* [[GitHub] raphamorim / awesome-canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 Canvas with examples, related articles and posts.
 
 * [All About HTML5 tag canvas | SmartBear](http://blog.smartbear.com/software-quality/bid/283454/All-About-HTML5)
 
@@ -225,6 +225,10 @@
 * [Tiny Raytracer | Gabriel Gambetta](http://www.gabrielgambetta.com/tiny_raytracer.html)
 
 * [Realistic terrain in 130 lines | PlayfulJS](http://www.playfuljs.com/realistic-terrain-in-130-lines/)
+
+* [[GitHub] felipenmoura / js-chroma-key](https://github.com/felipenmoura/js-chroma-key) - A chroma key effect made in JavaScript, HTML5 and CSS3 in 100 lines of js
+
+  * [O poder do canvas em 100 linhas de JS | InfoQ Br](http://www.infoq.com/br/presentations/o-poder-do-canvas-em-100-linhas-de-js)
 
 --
 
