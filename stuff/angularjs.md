@@ -151,6 +151,12 @@
 
 --
 
+* [Iniciando com Angular 2 | Jhon Mike](https://jhonmike.github.io/iniciando-com-angular2/)
+
+  * [[GitHub] jhonmike / blog-posts-example](https://github.com/jhonmike/blog-posts-example) - [01-iniciando-com-angular2](https://github.com/jhonmike/blog-posts-example/tree/master/01-iniciando-com-angular2)
+
+--
+
 * [Creating Container Components, Part 1: Shadow DOM | AirPair](https://www.airpair.com/javascript/posts/creating-container-components-part-1-shadow-dom)
 
 * [Creating Container Components, Part 2: Angular 1.3 Directives | AirPair](https://www.airpair.com/angularjs/posts/creating-container-components-part-2-angular-1-directives)
