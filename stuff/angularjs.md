@@ -177,6 +177,8 @@
 
     * [[GitHub] sitepoint-editors / PinYourAchievements-Angular2-TypeScript](https://github.com/sitepoint-editors/PinYourAchievements-Angular2-TypeScript/) - A demo app using Angular 2 and TypeScript
 
+  * [[GitHub] johnpapa / angular2-there-and-back-again](https://github.com/johnpapa/angular2-there-and-back-again) - A little bit of everything in Angular 2
+
 * ES6
 
   * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
