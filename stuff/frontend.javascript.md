@@ -1968,6 +1968,8 @@
 
 * [JavaScript Modules the ES6 Way | @24ways](http://24ways.org/2014/javascript-modules-the-es6-way/)
 
+* [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
+
 --
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
