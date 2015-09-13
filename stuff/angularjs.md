@@ -1929,6 +1929,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] alexbeletsky / ng-notifications-bar](https://github.com/alexbeletsky/ng-notifications-bar) - Angular.js component for stylish and flexible top bar notifications.
+
 * [[GitHub] Foxandxss / angular-toastr](https://github.com/Foxandxss/angular-toastr) - Angular port of CodeSeven/toastr
 
 --
