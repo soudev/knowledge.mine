@@ -1473,7 +1473,7 @@
 
 * [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
 
-* [[GitHub] visionmedia / commander.js](https://github.com/visionmedia/commander.js) - node.js command-line interfaces made easy
+* [[GitHub] tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 
   * [commander.js - nodejs command-line interfaces made easy | TJ Holowaychuk](http://tjholowaychuk.tumblr.com/post/9103188408/commander-js-nodejs-command-line-interfaces-made)
 
