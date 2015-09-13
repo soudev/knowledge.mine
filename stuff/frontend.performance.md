@@ -100,6 +100,12 @@
 
 --
 
+* [Preloading Images in Parallel with Promises | SitePoint](http://www.sitepoint.com/preloading-images-in-parallel-with-promises/) - 2015/09/10
+
+  * [[GitHub] sitepoint-editors / ImagePreloader](https://github.com/sitepoint-editors/ImagePreloader) - A lightweight JavaScript implementation of an image preloader relying on Promises.
+
+--
+
 * [Web Tracing Framework by Google](http://google.github.io/tracing-framework/) - Rich tools for instrumenting, analyzing, and visualizing web apps | [Github project](http://google.github.io/tracing-framework/)
 
     * [Web Tracing framework do Google ajuda você se livrar do código porco | Igor Costa](http://www.igorcosta.com/web-tracing-framework-do-google-codigo-porco/)
