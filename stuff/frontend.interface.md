@@ -253,6 +253,8 @@
 
 --
 
+* [Polymer | CodeLabs](http://www.code-labs.io/polymer-summit) - Google codelabs provide a guided, tutorial, hands-on coding experience.
+
 * [Google’s Polymer and the future of web UI frameworks | 2ality](http://www.2ality.com/2013/05/google-polymer.html)
 
 * [Getting started with web components and polymer.js | 4waisenkinder](http://4waisenkinder.de/blog/2013/09/21/getting-started-with-web-components-and-polymer-dot-js/)
