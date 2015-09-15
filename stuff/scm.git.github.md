@@ -293,6 +293,8 @@ git clean -fd
 
 * [How to undo (almost) anything with Git | The GitHub Blog](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - 2015/06/08
 
+* [19 Tips For Everyday Git Use | Alex Kras](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+
 --
 
 * [Git Large File Storage (LFS)](https://git-lfs.github.com/) replaces large files such as audio samples, videos, datasets, and graphics with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
