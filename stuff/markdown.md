@@ -47,6 +47,10 @@
 
 * [Editing Markdown for GitHub | Modus Create](http://moduscreate.com/editing-markdown-for-github/)
 
+--
+
+* [DICA - Markdown / HTML para PDF - Quebra de página | Nomadev](http://nomadev.com.br/dica-markdown-html-para-pdf-quebra-de-p%C3%A1gina/) - 2015/09/09
+
 
 ## Markdown editor
 
