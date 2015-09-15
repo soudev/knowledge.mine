@@ -200,6 +200,8 @@
 
 * [What (function (window, document, undefined) {})(window, document); really means | Todd Motto](http://toddmotto.com/what-function-window-document-undefined-iife-really-means/)
 
+* [Os segredos da IIFE | Da2k Blog](http://blog.da2k.com.br/2015/02/20/os-segredos-da-iife/) - 2015/02/20
+
 * [Applicative Programming In JavaScript With lodash.js | Tech.Pro](http://tech.pro/tutorial/1611/functional-javascript)
 
 --
