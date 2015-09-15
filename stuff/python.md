@@ -12,7 +12,7 @@
 <!-- toc stop -->
 
 
-## Sites 
+## Sites
 
 * [Python](http://www.python.org/)
 
@@ -80,6 +80,8 @@
 
 * [[GitHub] burnash / gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
 
+* [[GitHub] jkbrzt / httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
+
 
 ## Frameworks
 
@@ -105,4 +107,3 @@
 * [Developing RESTful Web APIs with Python, Flask and MongoDB | Speaker Deck](https://speakerdeck.com/nicola/developing-restful-web-apis-with-python-flask-and-mongodb)
 
 * [Flask Book](http://flaskbook.com/)
-
