@@ -2,6 +2,8 @@
 
 * [Authentication for Single Page Apps | madhatted.com](http://madhatted.com/2014/6/17/authentication-for-single-page-apps)
 
+* [10 Things You Should Know about Tokens | Auth0](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/) - (2014/01/27) Explore in more detail some of the most common questions around token-based authentication.
+
 
 ## x509
 
