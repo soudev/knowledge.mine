@@ -143,13 +143,16 @@
 * [Qual unidade utilizar - Pixel, EM ou REM | Tableless](http://tableless.com.br/unidade-pixels-em-rem/) - 2012//09/03
 
 ```
+html { font-size: 62.5%; } >> 10px
+
 target px / context px = em
 
-30px (target) ÷ 16px (context [body]) = 1.88em
+30px (target) ÷ 10px (context [body]) = 3em
 
-rem - context is always based on body context
+rem - context is always based on root context (html or body)
 ```
 
+* [Font sizing with rem | Snook.ca](http://snook.ca/archives/html_and_css/font-size-with-rem) - 2011/05/01
 
 * [CSS3 rem units | SitePoint](http://www.sitepoint.com/css3-rem-units/)
 
@@ -158,6 +161,8 @@ rem - context is always based on body context
 * [There’s more to the CSS rem unit than font sizing | CSS Tricks](https://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/)
 
 * [Equação do font-size | Descomplica Insights — Medium](https://medium.com/descomplica-insights/trigonometria-do-font-size-a104c95fa9a) - Dúvida terrível! Como usar font-size? Pixels(px) ou viewport width (vw)?
+
+* [Mixins for Rem Font Sizing | CSS-Tricks](https://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
 
 
 ### Media Query
