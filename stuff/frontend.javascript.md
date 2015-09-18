@@ -1930,6 +1930,10 @@
 
 * [The ES6 Conundrum | SitePoint](http://www.sitepoint.com/the-es6-conundrum/) - 2015/08/10
 
+* [Introduction to ECMAScript 6 Slides | Coenraets](http://coenraets.org/blog/2015/05/introduction-to-ecmascript-6-slides/) - 2015/05/20
+
+  * [[GitHub] ccoenraets / intro-to-es6](https://github.com/ccoenraets/intro-to-es6)
+
 --
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
