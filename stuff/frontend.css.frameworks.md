@@ -218,3 +218,7 @@ for developing fast and powerful web interfaces.
 * [Flatstrap](http://flatstrap.org/) - Flat design bootstrap templates.
 
 * [BootMetro](http://aozora.github.io/bootmetro/) - metro style web framework
+
+--
+
+* [Material Design for Bootstrap](http://mdbootstrap.com/) - Powerful and free Material Design UI KIT
