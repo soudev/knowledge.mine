@@ -175,6 +175,8 @@
 
 * [[GitHub] rockbot / node-for-beginners](https://github.com/rockbot/node-for-beginners) - A list of resources for Node.js Newbies!
 
+* [[GitHub] IonicaBizau / learning-nodejs](https://github.com/IonicaBizau/learning-nodejs) - NodeJS for beginners.
+
 * [An Absolute Beginner's Guide to Node.js | Modulus Blog](http://blog.modulus.io/absolute-beginners-guide-to-nodejs)
 
 * [The Absolute Beginner’s Guide to Node.js | Codeship](http://blog.codeship.io/2014/05/07/nodejs-beginners-guide.html)
