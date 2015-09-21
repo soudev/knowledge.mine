@@ -97,6 +97,8 @@
 
 * [Simple example of retrieving JSON feeds from Spreadsheets Data API | Google Developers](https://developers.google.com/gdata/samples/spreadsheet_sample)
 
+* [sheetsu](http://sheetsu.com/) - Turn Google Spreadsheet into API. Without setup or plugins. Use it anywhere.
+
 --
 
 * [Como usar uma planilha como backend JSON | Blog da Concrete](http://blog.concretesolutions.com.br/2014/07/como-usar-uma-planilha-como-backend-json/) | [exemplo no JSFiddle](http://jsfiddle.net/jfelipesp/eg4PB/)
