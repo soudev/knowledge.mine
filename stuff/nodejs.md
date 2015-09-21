@@ -751,6 +751,8 @@
 
 * [[GitHub] IonicaBizau / git-stats](https://github.com/IonicaBizau/git-stats) - A GitHub-like contributions calendar, but locally, with all your git commits
 
+* [[GitHub] IonicaBizau / github-stats](https://github.com/IonicaBizau/github-stats) - Visualize stats about GitHub users and projects in your terminal.
+
 --
 
 * [[GitHub] typicode / husky](https://github.com/typicode/husky) - Prevents bad commit or push (git hooks, pre-commit, pre-push and all that stuff...)
