@@ -1816,6 +1816,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] google / lovefield](https://github.com/google/lovefield) - A cross-browser, SQL-like, relational query engine for Web in pure JavaScript.
+
+--
+
 * [[GitHub] oracle / node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js
 
   * [Announcing the Official Node.js Connector for the Oracle Database by Oracle | StrongLoop](https://strongloop.com/strongblog/official-node-js-connector-oracle-database/) - 2014/01/27
