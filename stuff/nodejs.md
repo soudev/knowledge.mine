@@ -130,6 +130,11 @@
 
   * [Installing and using different versions of Node.js and IO.js in your development environment using NVM | Node Tuts](http://nodetuts.com/series/tools-tips-tricks/tools-tips-tricks-01.html)
 
+  * [Utilizando versões antigas do Nodejs | William Oliveira](http://woliveiras.com.br/posts/utilizando-versoes-antigas-do-nodejs/)
+
+
+* [[GitHub] tj / n](https://github.com/tj/n) - Node version management
+
 
 ## Sites Oficiais
 
