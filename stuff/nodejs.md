@@ -163,6 +163,14 @@
 
 * [IO.js Overview | RisingStack Engineering](http://blog.risingstack.com/iojs-overview/)
 
+--
+
+* v4.x
+
+  * [Atualizando o Node.JS para sua última versão (4.x) | Medium - by @dleitee](https://medium.com/@dleitee/atualizando-o-node-js-para-sua-%C3%BAltima-vers%C3%A3o-8119a7f872a4) - 2015/09/14
+
+  * [7 Reasons to Upgrade to Node v4 Now | cli-nerd.com](http://www.cli-nerd.com/2015/09/09/7-reasons-to-upgrade-to-node-v4-now.html) - 20150/09/09
+
 
 ## Aprendizado
 
