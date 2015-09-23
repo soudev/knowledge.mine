@@ -1532,10 +1532,12 @@
 
   * [Docker + term.js  = Bash Fiddle | Thinapps  blog](https://thinapps.org/blog/post/128030184289/docker-termjs-bash-fiddle)
 
+* [[GitHub] Kikobeats / oh-my-terminal](https://github.com/Kikobeats/oh-my-terminal) - Simple and unmistakable terminal interface for NodeJS
+
+* [[GitHub] mudasobwa / TermColorBuilder](https://github.com/mudasobwa/TermColorBuilder) - Webpage to quickly generate terminal escape sentenses in human-like manner
+
 
 ### process manager
-
-* [[GitHub] Kikobeats / oh-my-terminal](https://github.com/Kikobeats/oh-my-terminal) - Simple and unmistakable terminal interface for NodeJS
 
 * [Topic: Automatically restart your node.js server after code updates | StrongLoop](http://strongloop.com/node-republic-topics/automatically-restart-your-node-js-server-after-code-updates/)
 
