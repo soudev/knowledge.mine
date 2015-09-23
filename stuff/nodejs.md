@@ -350,6 +350,14 @@
 
 --
 
+* [Runtime.js](http://runtimejs.org/) - javascript operational system for the cloud
+
+  * [[GitHub] runtimejs / runtime](https://github.com/runtimejs/runtime)
+
+  * [runtime.js — JavaScript library OS | Medium by  @iefserge](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
+
+--
+
 * [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
 
 * [[GitHub] thisandagain / sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js
