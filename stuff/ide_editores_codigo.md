@@ -4,6 +4,8 @@
 
 * [Online](#online)
   * [Eclipse Orion](#eclipse-orion)
+* [Cloud](#cloud)
+  * [Eclipse Che](#eclipse-che)
 * [iPad](#ipad)
 * [Desktop](#desktop)
   * [Eclipse IDE](#eclipse-ide)
@@ -51,14 +53,22 @@
 
 * [Code Beautify](http://www.codebeautify.org/) - It’s not a direct JavaScript editor, but it does serve a great purpose, and combined with any of the tools mentioned in the list, it can also be quite powerful. It’s a code beautifier, which will take your piece of code and allow you to minify it, beautify, make it a tree view, etc,. etc,. It’s different for each type.
 
-
 ### Eclipse Orion
 
-* [Eclipse Orion](http://www.eclipse.org/orion/) - Open Source Platform For Cloud Based Development
+* [Eclipse Orion](https://orionhub.org/) - Open Source Platform For Cloud Based Development
 
 * [Eclipse Orion: Um editor baseado em browser para desenvolver aplicações Web | InfoQ BR](http://www.infoq.com/br/news/2012/11/eclipse-orion-editor)
 
 * [OrionHub](http://orionhub.org/)
+
+
+## Cloud
+
+### Eclipse Che
+
+* [Eclipse Che](https://www.eclipse.org/che/) - High performance, open source software developer workspaces in the cloud
+
+* [[GitHub] codenvy / che](https://github.com/codenvy/che) - High performance developer environments in the cloud
 
 
 ## iPad
