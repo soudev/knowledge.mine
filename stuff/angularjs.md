@@ -2058,6 +2058,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] gil / ng-cpf-cnpj](https://github.com/gil/ng-cpf-cnpj) - AngularJS directive to validate CPF/CNPJ numbers
 
+* [[GitHub] monospaced / angular-qrcode](https://github.com/monospaced/angular-qrcode) - QR Code elements for AngularJS
+
 --
 
 * [[GitHub] lnmunhoz / angular-openfb](https://github.com/lnmunhoz/angular-openfb) - OpenFB module for AngularJS Apps
