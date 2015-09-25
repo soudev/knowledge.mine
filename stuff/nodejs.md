@@ -1120,6 +1120,10 @@
 
 * [Arduino and NodeJS Communication With Serial Ports | Danial Khosravi's Blog](http://danialk.github.io/blog/2014/04/12/arduino-and-nodejs-communication-with-serial-ports/)
 
+* [[GitHub] rwaldron / johnny-five](https://github.com/rwaldron/johnny-five) - JavaScript Robotics and IoT programming framework, developed at Bocoup. Based on Arduino Firmata Protocol
+
+  * [How to Program an Arduino with JavaScript | Stack Abuse](http://stackabuse.com/how-to-program-an-arduino-with-javascript/) - 2015/09/23
+
 
 #### RaspberryPi
 
