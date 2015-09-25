@@ -987,6 +987,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Performance in Large Applications | airpair](https://www.airpair.com/angularjs/posts/angularjs-performance-large-applications)
 
+* [AngularJS Performance Tuning for Long Lists | Small Improvements](http://tech.small-improvements.com/2013/09/10/angularjs-performance-with-large-lists/) - 2013/09/10
+
 * [Performance com Angularjs | InfoQ Br](http://www.infoq.com/br/presentations/performance-com-angularjs) - 2015/06/22 - Sua aplicação AngularJS está lenta? Como otimizar a performance? Combinar outras tecnologias como workaround são paliativos, pois não resolvem o problema. Nessa palestra, entenda conceitos do núcleo do AngularJS, várias técnicas para aumentar o desempenho de suas aplicações web, como melhorar os testes unitários e discutiremos conceitos de lazy web.
 
   * [[GitHub] willmendesneto / angular-performance](https://github.com/willmendesneto/angular-performance)
