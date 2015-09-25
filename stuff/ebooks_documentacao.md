@@ -306,6 +306,8 @@
 
 * [BBC Languages](http://www.bbc.co.uk/languages/)
 
+  * [Leraning English | BBC Languages](http://www.bbc.co.uk/learningenglish)
+
 * [VerbLing](https://www.verbling.com/)
 
 * [Livemocha](http://livemocha.com/) - Free Online Language Learning
@@ -317,6 +319,8 @@
 --
 
 * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
+
+* [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
 
 
 #### Idiomas: Dicas
