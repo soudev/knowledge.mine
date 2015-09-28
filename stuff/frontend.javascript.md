@@ -1345,6 +1345,10 @@
 
 * [[GitHub] benvan / lsys](https://github.com/benvan/lsys) - interactive l-system generator (CoffeeScript) | [wiki: L-system](https://en.wikipedia.org/wiki/L-system)
 
+--
+
+* [[GitHub] zenorocha / clipboard.js](https://github.com/zenorocha/clipboard.js) - Modern copy to clipboard. No Flash. Just 2kb
+
 
 #### Upload
 
