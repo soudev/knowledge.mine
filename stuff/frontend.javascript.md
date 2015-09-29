@@ -1909,6 +1909,8 @@
 
 * [Transpiling ES6 Modules to AMD & CommonJS Using Babel & Gulp | SitePoint](http://www.sitepoint.com/transpiling-es6-modules-to-amd-commonjs-using-babel-gulp/) - 2015/09/21
 
+  * [[GitHub] sitepoint-editors / Angular-ES6-BookShelf-Modules](https://github.com/sitepoint-editors/Angular-ES6-BookShelf-Modules)
+
 
 ### ECMAScript 6
 
