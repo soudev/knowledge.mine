@@ -4,6 +4,7 @@
 
 * [Dicas](#dicas)
 * [Mavericks](#mavericks)
+* [El Capitan](#el-capitan)
 * [HDD para SSD](#hdd-para-ssd)
 * [Trocar o DVD por um segundo HD](#trocar-o-dvd-por-um-segundo-hd)
 * [Colors](#colors)
@@ -60,6 +61,11 @@
 * [Como criar um pendrive de instalação do OS X Mavericks | Meio Bit](http://meiobit.com/270071/como-instalar-os-x-mavericks-atraves-do-pendrive-usb/)
 
 * [How to Create an OS X Mavericks USB Installation Drive | Lifehacker](http://lifehacker.com/how-to-create-an-os-x-mavericks-usb-installation-drive-1450280026)
+
+
+## El Capitan
+
+* [How to Burn OS X El Capitan to a USB Flash Drive | Lifehacker](http://lifehacker.com/how-to-burn-os-x-el-capitan-to-a-usb-flash-drive-1733425133) - 2015/09/30
 
 
 ## HDD para SSD
