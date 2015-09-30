@@ -1625,6 +1625,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Simplify Directives with Scope Inheritance in AngularJS | eatcodeplay](http://eatcodeplay.com/dry-directives-with-scope-inheritance-in-angularjs/) - 2015/09/15
+
 * [AngularJS Directives, Using Isolated Scope with Attributes | Umur](https://umur.io/angularjs-directives-using-isolated-scope-with-attributes/)
 
 * Scoping AngularJS Directives | Spectacle Labs Blog - [Part 1](http://spectaclelabs.io/blog/2013/06/22/scoping-angularjs-directives-part-1/) | [Part 2](http://spectaclelabs.io/blog/2013/06/23/scoping-angularjs-directives-part-2/)
