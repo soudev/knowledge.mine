@@ -4,6 +4,8 @@
 
 * [10 Things You Should Know about Tokens | Auth0](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/) - (2014/01/27) Explore in more detail some of the most common questions around token-based authentication.
 
+* [What is and how does Single Sign On work? | Auth0 Blog](https://auth0.com/blog/2015/09/23/what-is-and-how-does-single-sign-on-work/) - (2015/09/23) In this post you will learn about Single Sign On and how to use it for your web apps
+
 
 ## x509
 
