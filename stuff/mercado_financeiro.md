@@ -64,9 +64,9 @@
 >  * Seguir a regra dos 3Gs - [Ganho / Guardo (sempre antes de gastar) / Gasto] e pensar se um gasto agora é realmente importante
 >
 
-* [[YouTube] Bastter: Eu Quero Ser Rico](https://www.youtube.com/watch?v=IpknUNK3jqw) 
+* [[YouTube] Bastter: Eu Quero Ser Rico](https://www.youtube.com/watch?v=IpknUNK3jqw)
 >
->  * procurar poupar no mínimo 20% do que se ganha e investir 
+>  * procurar poupar no mínimo 20% do que se ganha e investir
 >
 >  * aumentar os ganhos, investir em você
 >
@@ -124,7 +124,7 @@
 
 * [[YouTube] Como investir seu dinheiro (REGRA DOS 100)](https://www.youtube.com/watch?v=nuz_1q2gD2Q)
 
-* [[YouTube] Linha D'água](https://www.youtube.com/watch?v=L3TBuvsnyHs) - o que é CDI e SELIC? 
+* [[YouTube] Linha D'água](https://www.youtube.com/watch?v=L3TBuvsnyHs) - o que é CDI e SELIC?
 
 * [[YouTube] XP Investimentos: O Poder dos Juros Nos Seus Investimentos](https://www.youtube.com/watch?v=HgebtNs9gVk)
 
@@ -149,6 +149,8 @@
 * [[YouTube] Tesouro Direto - Investimentos muito além da Poupança](https://www.youtube.com/watch?v=wTW0donQv_k)
 
 * [[YouTube] Tesouro Direto 2 - Investimentos Muito Além da Poupança](https://www.youtube.com/watch?v=h4sg9rTC1VI)
+
+* [Como Ganhar 2x Mais que a Poupança com Menos Risco | Segredos do Tesouro Direto](http://www.segredosdotesourodireto.com.br/como-ganhar-2x-mais-que-a-poupanca/)
 
 
 ### Fundos de Investimento
@@ -184,8 +186,8 @@
 
 * [[YouTube] Como Investir na Bolsa de Valores](https://www.youtube.com/watch?v=XJN962b7gwU)
 
-* [[YouTube] A Matemática do Mercado de Ações](https://www.youtube.com/watch?v=ronNCoyFr-Q) - procurar limitar as perdas, saber a hora de parar e saír 
- 
+* [[YouTube] A Matemática do Mercado de Ações](https://www.youtube.com/watch?v=ronNCoyFr-Q) - procurar limitar as perdas, saber a hora de parar e saír
+
 * [[YouTube] Custódia remunerada](https://www.youtube.com/watch?v=KeJOr7bs3-4#at=29)
 
 * [Tipos de Ações | Como Investir](http://www.comoinvestir.com.br/acoes/guia-de-acoes/tipos-de-acoes/paginas/default.aspx)
