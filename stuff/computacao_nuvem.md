@@ -16,6 +16,13 @@
 01 . IaaS – Infrastructure as a Service (Infraestrutura como Serviço)
 
 
+## Micro Services
+
+* [An Introduction to Microservices, Part 1 | Auth0 Blog](https://auth0.com/blog/2015/09/04/an-introduction-to-microservices-part-1/) - (2015/09/04) Learn what are microservices and how they are used in the industry
+
+* [An Introduction to Microservices, Part 2: The API Gateway | Auth0 Blog](https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/) - (2015/09/13) Learn about API gateways and how they work in a microservice-based architecture
+
+
 ## ScraperWiki
 
 * [ScraperWiki](https://scraperwiki.com/) - We have a web-based platform - or [data hub](http://blog.okfn.org/2012/03/09/from-cms-to-dms-c-is-for-content-d-is-for-data/) - where programmers write scripts to get, clean and analyse data sets.  They can simply schedule code to run automatically, and they can reuse  the structured data with our flexible API.
@@ -57,7 +64,7 @@
 
 ## Eucalyptus
 
-* [Eucalyptus](http://www.eucalyptus.com/) - Open source, AWS compatible, Private Cloud 
+* [Eucalyptus](http://www.eucalyptus.com/) - Open source, AWS compatible, Private Cloud
 
 
 ## Amazon AWS
@@ -76,14 +83,14 @@
 
 * [Estudo de Caso AWS: BigData Corp | iMasters](http://imasters.com.br/infra/cloud/estudo-de-caso-aws-bigdata-corp/)
 
-* [[SlideShare] Escalabilidade para sua solução na Nuvem da AWS de um para centenas de milhões de usuários](http://www.slideshare.net/AmazonWebServicesLATAM/escalabilidade-nuvem-aws) | [[Vimeo] vídeo gravado do webinar](http://vimeo.com/68720156) 
+* [[SlideShare] Escalabilidade para sua solução na Nuvem da AWS de um para centenas de milhões de usuários](http://www.slideshare.net/AmazonWebServicesLATAM/escalabilidade-nuvem-aws) | [[Vimeo] vídeo gravado do webinar](http://vimeo.com/68720156)
 
 * [[SlidesShare] Using AWS to Build a Graph-Based Product Recommendation System (BDT303) | AWS re:Invent 2013](http://www.slideshare.net/AmazonWebServices/using-aws-to-build-a-graphbased-product-recommendation-system-bdt303-aws-reinvent-2013)
 
 
 ## OpenStack
 
-* [OpenStack](http://www.openstack.org/) - Open source software for building private and public clouds. 
+* [OpenStack](http://www.openstack.org/) - Open source software for building private and public clouds.
 
 * [[GitHub] OpenStack](https://github.com/openstack)
 
@@ -124,7 +131,3 @@
 * [Apache CloudStack - Blog](https://blogs.apache.org/cloudstack/)
 
 * [Apache CloudStack 4.1.0 é disponibilizado | iMasters](http://imasters.com.br/noticia/apache-cloudstack-4-1-0-e-disponibilizado/)
-
-
-
-
