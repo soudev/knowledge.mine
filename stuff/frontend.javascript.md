@@ -589,6 +589,8 @@
 
 --
 
+* [[GitHub] bevacqua / promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous
+
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
 
 * [Staying Sane With Asynchronous Programming: Promises and Generators | colintoh.com](http://colintoh.com/blog/staying-sane-with-asynchronous-programming-promises-and-generators) - Callback Hell no more with Promises and its close ally, Generators.
