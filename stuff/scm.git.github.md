@@ -190,7 +190,9 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [Learn Git | GitHub Learn](http://learn.github.com/)
 
-* [git undoing | GitHub Learn](http://learn.github.com/p/undoing.html)
+  * [git undoing | GitHub Learn](http://learn.github.com/p/undoing.html)
+
+  * [How to undo (almost) anything with Git | GitHub Blog](https://github.com/blog/2019-how-to-undo-almost-anything-with-git) - 2015/06/08
 
 * [GitHub Official Teaching Materials | GitHub Teach](http://teach.github.com/)
 
