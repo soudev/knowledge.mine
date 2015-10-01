@@ -515,6 +515,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [$q | Angularjs Docs](http://docs.angularjs.org/api/ng.$q)
 
+  * [$q.defer: You're doing it wrong | codelord.net](http://www.codelord.net/2015/09/24/%24q-dot-defer-youre-doing-it-wrong/)
+
   * [Promises in AngularJS, Explained as a Cartoon | Andy Shora](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
 
   * [A Simple Visual Model for Promises | Flippin' Awesome](http://flippinawesome.org/2013/10/14/a-simple-visual-model-for-promises/)
