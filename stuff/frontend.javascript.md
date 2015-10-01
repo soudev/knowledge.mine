@@ -1984,6 +1984,8 @@
 
 * [JavaScript Modules the ES6 Way | @24ways](http://24ways.org/2014/javascript-modules-the-es6-way/)
 
+* [ES6 Modules in Depth | ponyfoo](http://ponyfoo.com/articles/es6-modules-in-depth)
+
 * [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
 
 --
