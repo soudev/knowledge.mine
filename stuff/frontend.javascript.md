@@ -792,6 +792,8 @@
 
 * [[GitHub] jehna / VerbalExpressions](https://github.com/jehna/VerbalExpressions) - JavaScript Regular expressions made easy
 
+* [[GitHub] slevithan / xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
+
 
 #### Expressões Regulares: Ferramentas online
 
