@@ -203,6 +203,8 @@
 
 * [[GitHub] johnpapa / angular2quickstart](https://github.com/johnpapa/angular2quickstart)
 
+* [[GitHub] johnpapa / angular2-tour-of-heroes](https://github.com/johnpapa/angular2-tour-of-heroes) - Angular 2 - Tour of Heroes - The Next Step after Getting Started
+
 * [[GitHub] auth0 / angular2-the-new-horizon-sample](https://github.com/auth0/angular2-the-new-horizon-sample) - Sample project for Angular 2: The new horizon talk at jQuerySF
 
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
