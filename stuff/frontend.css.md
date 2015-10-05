@@ -116,6 +116,10 @@
 
 --
 
+* [Various CSS Input Text Styles | Call Me Nick](http://callmenick.com/post/various-css-input-text-styles) - 2014/04/22
+
+--
+
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
 * [CSS Box Shadow | CSS-Tricks](https://css-tricks.com/snippets/css/css-box-shadow/)
