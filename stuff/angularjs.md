@@ -1595,6 +1595,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] IgorMinar / directives-workshop](https://github.com/IgorMinar/directives-workshop)
 
+* [[GitHub] suissa / angularjs-directive-manual](https://github.com/suissa/angularjs-directive-manual) - Manual para Directivas no AngularJS
+
 --
 
 * [Hacking Core Directives in AngularJS | Brian Ford](http://briantford.com/blog/angular-hacking-core.html)
