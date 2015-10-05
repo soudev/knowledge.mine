@@ -1829,6 +1829,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS Directive to check that passwords match | Web Development blog](http://blog.brunoscopelliti.com/angularjs-directive-to-check-that-passwords-match)
 
+* [[GitHub] subarroca / ng-password-strength](https://github.com/subarroca/ng-password-strength) - Password strength directive for angular
+
 --
 
 * [[YouTube] Complex forms with Advanced Directives in AngularJS](https://www.youtube.com/watch?v=G5MzkDJQkoQ) - 2014/11/26
