@@ -1917,6 +1917,8 @@
 
   * [[GitHub] sitepoint-editors / Angular-ES6-BookShelf-Modules](https://github.com/sitepoint-editors/Angular-ES6-BookShelf-Modules)
 
+* [[GitHub] CentaurWarchief / babel-plugin-global-require](https://github.com/CentaurWarchief/babel-plugin-global-require) - A simple plugin that allows you to require globally
+
 
 ### ECMAScript 6
 
