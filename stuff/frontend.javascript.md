@@ -1988,6 +1988,8 @@
 
 * [ES6 Modules in Depth | ponyfoo](http://ponyfoo.com/articles/es6-modules-in-depth)
 
+* [ES6 Promises in Depth | ponyfoo](http://ponyfoo.com/articles/es6-promises-in-depth)
+
 * [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
 
 --
