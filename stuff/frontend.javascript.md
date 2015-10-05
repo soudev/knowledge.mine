@@ -1412,7 +1412,9 @@
 
 * [TypeScript](http://www.typescriptlang.org/) - is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
-  * [[CodePlex] TypeScript](https://typescript.codeplex.com/)
+  * [[GitHub] Microsoft / TypeScript](https://github.com/Microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
+  * [[GitHub] DefinitelyTyped / tsd](https://github.com/DefinitelyTyped/tsd) - TypeScript Definition manager for DefinitelyTyped
 
   * [TypeScript for C# Programmers | InfoQ](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 
