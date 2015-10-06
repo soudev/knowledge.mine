@@ -1715,6 +1715,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: Dynamic Directives | Thinktecture Blog](http://weblogs.thinktecture.com/pawel/2014/07/angularjs-dynamic-directives.html)
 
+* [Overriding Directive Definitions In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2926-overriding-directive-definitions-in-angularjs.htm) - 2015/10/06
+
 --
 
 * [Responsive template swapping with Angular Directives | CheapSteak.net](http://cheapsteak.net/posts/responsive-template-swapping-with-angular)
