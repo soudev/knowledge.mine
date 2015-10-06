@@ -1154,6 +1154,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Angular App Structuring Guidelines | John  Papa](http://www.johnpapa.net/angular-app-structuring-guidelines/) - 2014/02/17
 
+* [Sane, scalable Angular apps are tricky, but not impossible. Lessons learned from PayPal Checkout | Medium - by @bluepnume](https://medium.com/@bluepnume/sane-scalable-angular-apps-are-tricky-but-not-impossible-lessons-learned-from-paypal-checkout-c5320558d4ef)
+
 --
 
 * [How to build a large Angular.js application | GoCardless](https://gocardless.com/blog/building-a-large-angular-application/)
