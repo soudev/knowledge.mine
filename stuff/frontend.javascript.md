@@ -98,6 +98,8 @@
 
 * [[GitHub] hr-14-15 / resources](https://github.com/hr-14-15/resources) - JavaScript resources for and by HR 14 & 15
 
+* [[GitHub] ericelliott / essential-javascript-links](https://github.com/ericelliott/essential-javascript-links) - Essential JavaScript website
+
 --
 
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - documentação com recomendações e boas práticas de programação em JavaScript.
