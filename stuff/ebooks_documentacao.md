@@ -368,6 +368,12 @@
 
 --
 
+* [[GitHub] open-source-society / computer-science](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science
+
+* [[GitHub] lucasviola / awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
+
+--
+
 * [[YouTube] BGTSD - Part 23: What do you do when you do not know how to do something?](https://www.youtube.com/watch?v=PounrNJPMkU) - 2015/06/10 - Jesse Warden
 
 --
