@@ -2349,6 +2349,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[GitHub] CleverStack / cleverstack-cli](https://github.com/CleverStack/cleverstack-cli) - CLI for CleverStack
 
+--
+
+* [[GitHub] jhonnymertz / spring-angular-integration](https://github.com/jhonnymertz/spring-angular-integration) - Spring MVC, Rest, Security, Data and AngularJS integration
+
 
 ### With Gulp
 
