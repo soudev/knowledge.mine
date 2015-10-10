@@ -1,6 +1,5 @@
 # Front-End
 
-
 <!-- toc -->
 
 * [Bibliotecas de UI](#bibliotecas-de-ui)
@@ -62,6 +61,8 @@
 * [[GitHub] martinandert / counterpart](https://github.com/martinandert/counterpart) - A translation and localization library for Node.js and the browser.
 
 --
+
+* [[GitHub] t4t5 / sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 
 * [ContextJS](http://lab.jakiestfu.com/contextjs/) - Sweet simple context menu with amazing support!
 
