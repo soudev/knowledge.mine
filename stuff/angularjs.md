@@ -1229,6 +1229,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Home Automation with AngularJS and node.js on a Raspberry Pi | codecentric Blogcodecentric Blog](https://blog.codecentric.de/en/2013/03/home-automation-with-angularjs-and-node-js-on-a-raspberry-pi/)
 
+* [Creating Desktop Applications With AngularJS and GitHub Electron | Scotch.io](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron) - 2015/09/28
+
 
 ### Google
 

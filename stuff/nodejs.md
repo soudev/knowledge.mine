@@ -2076,6 +2076,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Primeiros passos com Electron | Medium by @raphaelporto](https://medium.com/@raphaelporto/primeiros-passos-com-electron-2cfbda828f0d) - Não há dúvidas, JavaScript tem crescido muito nos últimos anos. Isso se deve muito ao engine V8, que proporcionou a criação do NodeJS e outras ferramentas incríveis. Entre elas temos o Electron, um framework que nos permite criar aplicações desktop com JavaScript.
 
+* [Creating Desktop Applications With AngularJS and GitHub Electron | Scotch.io](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron) - 2015/09/28
+
 
 #### Node Webkit
 
