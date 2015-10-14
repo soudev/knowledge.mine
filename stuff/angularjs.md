@@ -1635,6 +1635,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] kirbarn / angularjs-directives-lifecycle](https://github.com/kirbarn/angularjs-directives-lifecycle) - Examples for the Taming Angular JS presentations
+
+  * [[Slides] Taming AngularJS: A Directive's Lifecycles by Kiryl](http://slides.com/kirbarn/angularjs-directives-lifecycle) - 2013-09-03
+
+--
+
 * [Simplify Directives with Scope Inheritance in AngularJS | eatcodeplay](http://eatcodeplay.com/dry-directives-with-scope-inheritance-in-angularjs/) - 2015/09/15
 
 * [AngularJS Directives, Using Isolated Scope with Attributes | Umur](https://umur.io/angularjs-directives-using-isolated-scope-with-attributes/)
