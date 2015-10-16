@@ -354,7 +354,7 @@
 
 * [You Should Learn to Program | Christian Genco](http://christian.gen.co/you-should-learn-to-program)
 
-> "If you have a difficult task to do, give it to a lazy man, he will be find an easier way to do it." - **Henry Ford**
+> "If you have a difficult task to do, give it to a lazy man, he will find an easier way to do it." - **Henry Ford**
 
 --
 
