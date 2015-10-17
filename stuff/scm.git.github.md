@@ -355,6 +355,8 @@ git clean -fd
 
 * [Juntando commits com git rebase - squash commits](http://rodrigopinto.me/2013/03/05/juntando-commits-com-git-rebase-squash-commits/) - Dica para o pessoal que usa o git, basicamente o squash commit é  juntar vários commits referentes a uma mesma tarefa em um só commit.
 
+* [git merge --squash | 365git](http://365git.tumblr.com/post/4364212086/git-merge-squash)
+
 * [Please, use git pull --rebase](https://coderwall.com/p/7aymfa)
 
 * [[GitHub] visionmedia / git-extras](https://github.com/visionmedia/git-extras) - GIT utilities - repo summary, repl, changelog population, author commit percentages and more (for Mac/Unix)
