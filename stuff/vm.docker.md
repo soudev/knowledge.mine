@@ -138,6 +138,8 @@
 
 * [Using Docker & Ansible by John Minnihan @Gluecon 2014 | DevOps.com](http://devops.com/blogs/using-docker-ansible/)
 
+* [Docker na vida real | InfoQ Br](http://www.infoq.com/br/presentations/docker-na-vida-real) - 2015/10/14
+
 
 ### Dockerfile
 
