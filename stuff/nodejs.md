@@ -1976,6 +1976,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] apocas / dockerode](https://github.com/apocas/dockerode) - Not just another Docker.io Remote API node.js module
 
+* [[GitHub] TechnologyAdvice / DevLab](https://github.com/TechnologyAdvice/DevLab) - Containerize your development workflow.
+
 
 ### Nuvem
 
