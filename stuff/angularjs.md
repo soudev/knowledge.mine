@@ -1735,6 +1735,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS: Multi-transclusion | Zach Snow](http://zachsnow.com/#!/blog/2013/angularjs-multi-transclusion/)
 
+* [Creating An Isolate-Scope Directive With Multiple Transclusion Points In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2936-creating-an-isolate-scope-directive-with-multiple-transclusion-points-in-angularjs.htm) - 2015/10/17
+
 * [The nitty-gritty of compile and link functions inside AngularJS directives | jvandemo.com](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/)
 
 * [The nitty-gritty of compile and link functions inside AngularJS directives part 2: transclusion | jvandemo.com](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives-part-2-transclusion/)
