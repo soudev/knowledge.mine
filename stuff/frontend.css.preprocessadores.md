@@ -33,13 +33,13 @@
 * [10 LESS CSS Examples You Should Steal for Your Projects](http://designshack.net/articles/css/10-less-css-examples-you-should-steal-for-your-projects/)
 
 * [LESS Elements: a collection of useful LESS mixins](http://lesselements.com/)
-  
+
 * [Introducing LESS | Desizn Tech](http://desizntech.info/2013/08/introducing-less/)
 
 * [CSS fácil, flexível e dinâmico com LESS | Caelum](http://blog.caelum.com.br/css-facil-flexivel-e-dinamico-com-less/)
 
 * [CSS dinâmico com LESS | Tableless](http://tableless.com.br/css-dinamico-com-less/)
-  
+
 * [Simplificando a vida com LESS | Loop Infinito](http://loopinfinito.com.br/2012/06/19/simplificando-a-vida-com-less/)
 
 * [Compile LESS CSS Files with the LESS App](http://davidwalsh.name/less-css)
@@ -57,6 +57,12 @@
 * [A Few Things You Might Not Know About LESS | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/tutorials/a-few-things-you-might-not-know-about-less--cms-22527)
 
   * [Alguns recursos do LESS que você provavelmente não conhece | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/pt/tutorials/a-few-things-you-might-not-know-about-less--cms-22527)
+
+--
+
+* [[GitHub] JohnCoates / CSSketch](https://github.com/JohnCoates/CSSketch) - Plugin that adds CSS support to Sketch 3 for a faster design workflow.
+
+  * [Programmers Design Differently: Why I Built a CSS Plugin for Sketch 3 | Medium - Design + Sketch App](https://medium.com/sketch-app-sources/programmers-design-differently-why-i-built-a-css-plugin-for-sketch-3-52a1246305a4)
 
 
 #### Stylus
@@ -131,4 +137,3 @@
 * [CodeKit — THE Mac App For Web Developers](http://incident57.com/codekit/)
 
 * [LiveReload](http://livereload.com/) - a happy land where browsers don't need a Refresh button
-
