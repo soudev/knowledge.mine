@@ -2384,6 +2384,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] jhades / angularjs-gulp-todo](https://github.com/jhades/angularjs-gulp-todo) - Angular Gulp baseline build
 
+* [[GitHub] antonsamper / gulp-boilerplate-with-angular](https://github.com/antonsamper/gulp-boilerplate-with-angular) - gulp.js boilerplate with AngularJS
+
 
 ### MEAN Stack
 
