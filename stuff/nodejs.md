@@ -1968,6 +1968,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Getting Started with Docker for the Node.js Developer | AirPair](https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev)
 
+* [[SlideShare] Microservices with Node and Docker](http://www.slideshare.net/subfuzion/microservices-with-node-and-docker) - 2015/10/14
+
 --
 
 * [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
