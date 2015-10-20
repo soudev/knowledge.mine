@@ -332,6 +332,8 @@
 
 * [How we built the new BBC Homepage | BBC](http://www.bbc.co.uk/blogs/internet/entries/47a96d23-ae04-444e-808f-678e6809765d)
 
+* [Node.js for the Real World | eBay Dev Blog](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-real-world) - 2015/10/16
+
 
 ### IBM developerWorks
 
