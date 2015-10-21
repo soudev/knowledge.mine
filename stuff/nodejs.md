@@ -2090,6 +2090,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Building Cross-platform Desktop Apps with Electron | Toptal](http://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easy)
 
+  * [[GitHub] stephanepericat / toptal-electron-loki-demo](https://github.com/stephanepericat/toptal-electron-loki-demo) - Electron: Cross-platform Desktop Apps Made Easy
+
 
 #### Node Webkit
 
