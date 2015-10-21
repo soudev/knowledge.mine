@@ -1,6 +1,5 @@
 # Front-End
 
-
 <!-- toc -->
 * [Visão Geral](#visão-geral)
 * [Browsers antigos](#browsers-antigos)
@@ -14,6 +13,9 @@
 * [HTML Email](#html-email)
 
 <!-- toc stop -->
+
+
+* [Front-end Developer Handbook](http://www.frontendhandbook.com/) - This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
 
 
 ## Visão Geral
