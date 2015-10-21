@@ -2088,6 +2088,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Creating Desktop Applications With AngularJS and GitHub Electron | Scotch.io](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron) - 2015/09/28
 
+* [Building Cross-platform Desktop Apps with Electron | Toptal](http://www.toptal.com/javascript/electron-cross-platform-desktop-apps-easy)
+
 
 #### Node Webkit
 
