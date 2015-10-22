@@ -240,3 +240,13 @@
 * JavaScript
 
   * [[GitHub] dtinth / JXA-Cookbook](https://github.com/dtinth/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
+
+* SQL
+
+  * [[GitHub] sequelpro / sequelpro](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X
+
+  * [SQuirreL SQL Client](http://squirrel-sql.sourceforge.net/) - It is Java / JDBC and supports a very wide range of SQL backends. It is also plugin-based and has a surprising number of plugins.
+
+  * [RazorSQL - Query, Edit, Browse, and Manage Databases](http://www.razorsql.com/) - has been tested on over 30 databases, can connect to databases via either JDBC or ODBC.
+
+  * [GUI Tools for PostgreSQL on the Mac](http://postgresapp.com/documentation/gui-tools.html)
