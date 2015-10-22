@@ -281,6 +281,14 @@
 
 --
 
+* Web Workers
+
+  * [Mais Válvulas para seu Javascript | Tableless](http://tableless.com.br/mais-valvulas-para-seu-javascript/) - 2015/10/15
+
+    * [[GitHub] ganexasi / webworker](https://github.com/ganexasi/webworker) 
+
+--
+
 * [Introduction to WebSockets | Tech.Pro](http://tech.pro/tutorial/1167/introduction-to-websockets)
 
 * [Configuring & Optimizing WebSocket Compression | igvita.com](http://www.igvita.com/2013/11/27/configuring-and-optimizing-websocket-compression/)
