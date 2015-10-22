@@ -154,6 +154,12 @@
 
 --
 
+* [Doc​Blockr | Package Control](https://packagecontrol.io/packages/DocBlockr)
+
+  * [[GitHub] spadgos / sublime-jsdocs](https://github.com/spadgos/sublime-jsdocs) - Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
+
+--
+
 * [[GitHub] - titoBouzout / SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 
 --
@@ -232,5 +238,4 @@
 
   * [cheat sheet | emmet docs](http://docs.emmet.io/cheat-sheet/)
 
-  * [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/) 
-
+  * [Write HTML & CSS Faster with Emmet | Hongkiat.com](http://www.hongkiat.com/blog/html-css-faster-emmet/)
