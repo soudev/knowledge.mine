@@ -285,7 +285,7 @@
 
   * [Mais Válvulas para seu Javascript | Tableless](http://tableless.com.br/mais-valvulas-para-seu-javascript/) - 2015/10/15
 
-    * [[GitHub] ganexasi / webworker](https://github.com/ganexasi/webworker) 
+    * [[GitHub] ganexasi / webworker](https://github.com/ganexasi/webworker)
 
 --
 
@@ -678,6 +678,10 @@
 * [[GitHub] sindresorhus / screenfull.js](https://github.com/sindresorhus/screenfull.js) - Simple wrapper for cross-browser usage of the JavaScript Fullscreen API
 
 * [[GitHub] maxogden / psd.js](https://github.com/maxogden/psd.js) - PSD Parser in JavaScript | [site](http://maxogden.github.io/psd.js/)
+
+--
+
+* [[GitHub] willianjusten / screamer-js](https://github.com/willianjusten/screamer-js) - is a Vanilla Javascript plugin to provide simple yet fully customisable web notifications using Web Notifications API.
 
 
 #### Presentation System
