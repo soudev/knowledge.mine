@@ -1311,6 +1311,8 @@
 
 --
 
+* [[GitHub] rodrigogs / kairos](https://github.com/rodrigogs/kairos) - A non date-based time calculator
+
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
   * [Managing Dates and Times Using Moment.js | SitePoint](http://www.sitepoint.com/managing-dates-times-using-moment-js/) - 2014/04/29
