@@ -209,6 +209,8 @@
 
   * [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
 
+  * [How do I update Java for my Mac? | Java](https://www.java.com/en/download/help/mac_java_update.xml) - Java 7+
+
   * [How to Set $JAVA_HOME environment variable on Mac OS X | mkyong.com](mkyong.com)
 
   * [[GitHub] wonder-mice / mac-java-launcher](https://github.com/wonder-mice/mac-java-launcher) - Launcher for bundled java application on Mac OS
