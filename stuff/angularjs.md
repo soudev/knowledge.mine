@@ -1338,6 +1338,16 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [AngularJS and $scope.$apply() best practices | Medium - by Kamil Lelonek](https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024) - Where and how to invoke $scope.$apply() in AngularJS applications
 
+*  ['Safe' $apply in Angular.JS | CoderWall](https://coderwall.com/p/ngisma/safe-apply-in-angular-js) - by Alex Vanston (2012/09/15)
+
+* [$apply already in progress error | ngroutes.com](http://www.ngroutes.com/questions/11c35f7/apply-already-in-progress-error.html) - 2013/09/03
+
+```javascript
+if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
+    $scope.$apply();
+}
+```
+
 --
 
 * [AngularJS: Listening for $destroy | Ode to Code](http://odetocode.com/blogs/scott/archive/2013/07/16/angularjs-listening-for-destroy.aspx) - 2013/07/16
