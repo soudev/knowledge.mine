@@ -971,6 +971,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Performance
 
+* [11 Tips to Improve AngularJS Performance | Alex Kras](http://www.alexkras.com/11-tips-to-improve-angularjs-performance) - 2015/04/28
+
+* [Improving Angular web app performance example | Better world by better software](http://glebbahmutov.com/blog/improving-angular-web-app-performance-example/) - 2014/10/22
+
 * [[SlideShare] AngularJS performance & production tips](http://www.slideshare.net/nirkaufman/angularjs-performance-production-tips) - 2015/01/13
 
   * [[GitHub] nirkaufman / angularjs-performance-tips](https://github.com/nirkaufman/angularjs-performance-tips) - Reference code for the 'Performance tips' talk on the AngularJS-IL meetup @ google campus TLV
