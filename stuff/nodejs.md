@@ -2159,6 +2159,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] yamalight / HumblePlayer](https://github.com/yamalight/HumblePlayer) - music player for your HumbleBundle soundtracks (made with node-webkit and Angular)
 
+* [[GitHub] jaruba / PowderPlayer](https://github.com/jaruba/PowderPlayer/) - Hybrid between a Torrent Client and a Player (torrent streaming)
+
 * [Popcorn Time](https://popcorntime.io/)
 
   * [[twitter] Popcorn Time App](https://twitter.com/popcorntimetv)
