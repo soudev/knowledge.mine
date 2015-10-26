@@ -13,6 +13,7 @@
 * [Dicas](#dicas)
 * [Fontes](#fontes)
 * [Audio e Vídeo](#audio-e-vídeo)
+  * [Media Center](#media-center)
   * [Editores de Vídeo](#editores-de-vídeo)
   * [Editores de Audio](#editores-de-audio)
 * [Games](#games)
@@ -156,6 +157,12 @@
 ## Audio e Vídeo
 
 * [[GitHub] JadenGeller / Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X
+
+### Media Center
+
+* [Plex](https://plex.tv/) - organizes your video, music, and photo collections and streams them to all of your screens.
+
+* [Stremio](http://www.strem.io/) - Watch videos, movies, TV series and TV channels instantly.
 
 
 ### Editores de Vídeo
