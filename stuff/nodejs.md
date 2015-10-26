@@ -1887,6 +1887,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] Ivshti / linvodb3](https://github.com/Ivshti/linvodb3) - Persistent database for Node.js/NW.js/Electron with MongoDB/Mongoose-like features and interface.
+
+--
+
 * [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
 
 * [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica)
