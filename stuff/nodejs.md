@@ -1321,6 +1321,10 @@
 
 --
 
+* [[GitHub] posthtml / posthtml](https://github.com/posthtml/posthtml) - is a tool to transform HTML/XML with JS plugins.
+
+--
+
 * [[GitHub] Leonidas-from-XIV / node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter
 
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
