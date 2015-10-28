@@ -657,6 +657,8 @@
 
 * [[GitHub] mailru / FileAPI](https://github.com/mailru/FileAPI) - a set of javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation
 
+* [[GitHub] chrisben / imgcache.js](https://github.com/chrisben/imgcache.js/) - JS library based on the File API to cache images for offline recovery (target: cordova/phonegap & chrome)
+
 --
 
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
