@@ -59,6 +59,10 @@
 
 * [PostgreSQL JDBC Driver](http://jdbc.postgresql.org/)
 
+--
+
+* [PostgreSQL Exercises](http://pgexercises.com/)
+
 
 ## MariaDB
 
@@ -72,4 +76,3 @@
 * [HSQLDB](http://hsqldb.org/)
 
 * [H2 Database Engine](http://www.h2database.com/) | [Tutoriais](http://www.h2database.com/html/tutorial.html) | [Links úteis](http://h2database.com/html/links.html)
-
