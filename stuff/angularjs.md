@@ -1795,6 +1795,12 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [[GitHub] omichelsen / angular-clipboard](https://github.com/omichelsen/angular-clipboard) - https://github.com/omichelsen/angular-clipboard
+
+* [[GitHub] sachinchoolur / ngclipboard](https://github.com/sachinchoolur/ngclipboard) - an angularjs directive to copy text to clipboard without using flash
+
+--
+
 * [[jsfiddle] Big Text Directive with AngularJS](http://jsfiddle.net/michaeldausmann/FH9wj/) - Use AngularJS and jquery to make an input with a popup textarea for editing large text values
 
 * [[GitHub] cesardeazevedo / ng-input](https://github.com/cesardeazevedo/ng-input) - Text Input Effects Angular Directives
