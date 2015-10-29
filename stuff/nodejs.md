@@ -571,6 +571,8 @@
 
 --
 
+* [[GitHub] tombenke / kickoff](https://github.com/tombenke/kickoff) - Command line tool to easily create boilerplate code for new projects and other things based on archetypes stored in GitHub repos
+
 * [[GitHub] google / web-starter-kit](https://github.com/google/web-starter-kit)
 
   * [Web Starter Kit | Google Developer](https://developers.google.com/web/starter-kit/) - Boilerplate & Tooling for Multi-Device Development
