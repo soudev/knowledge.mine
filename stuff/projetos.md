@@ -62,6 +62,8 @@
 
   * [LibreBoard project code](http://git.libreboard.com/libreboard/libreboard)
 
+* [Scrumy](https://scrumy.com/) - is a simple and intuitive virtual task board based on some concepts of Scrum that helps organize and manage your projects.
+
 --
 
 * [[GitHub] cjbarber / ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News
