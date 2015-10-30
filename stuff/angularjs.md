@@ -682,6 +682,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Tips & Tricks for debugging unfamiliar AngularJS code | Localytics Engineering Blog](http://eng.localytics.com/tips-and-tricks-for-debugging-unfamiliar-angularjs-code/)
 
+* [AngularJS: Did you know…? From 1.0 to 1.3, part 1 | Medium - @skosno](https://medium.com/@skosno/angularjs-did-you-know-from-1-0-to-1-3-part-1-171fd93b9d4b)
+
 --
 
 * [[GitHub] EwanValentine / SymfonyAngularDocker](https://github.com/EwanValentine/SymfonyAngularDocker) - Symfony angular docker example
