@@ -27,6 +27,32 @@ XS_SHARING_ALLOWED_HEADERS = ['Content-Type', 'X-Requested-With']{code}
 * [Dug.js — A JSONP to HTML Script | Rog.ie](http://rog.ie/blog/dugjs-a-jsonp-to-html-script)
 
 
+# Node.js
+
+## Express
+
+> express 4.x
+
+```javascript
+var express = require('express');
+var app = express();
+...
+app.use(function (req, res, next) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+  res.setHeader('Access-Control-Allow-Headers', 'Origin, X-AUTH-TOKEN, X-Requested-With, Content-Type, Accept');
+  next();
+});
+
+app.options('*', function (req, res) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+  res.setHeader('Access-Control-Allow-Headers', 'Origin, X-AUTH-TOKEN, X-Requested-With, Content-Type, Accept');
+  res.send(200);
+});
+...
+```
+
 # Java
 
 * [CORS Filter](http://software.dzhuvinov.com/cors-filter.html)
@@ -59,4 +85,3 @@ XS_SHARING_ALLOWED_HEADERS = ['Content-Type', 'X-Requested-With']{code}
 * [[Gist] kdonald / CorisFilter.java](https://gist.github.com/kdonald/2232095) - Basic Cross Origin Resource Sharing (CORS) support
 
 * [Spring MVC 3 enable Cross Origin Resource Sharing - 24 Aug 2012](http://vraidsys.com/2012/08/spring-mvc-3-enable-cross-origin-resource-sharing/)
-
