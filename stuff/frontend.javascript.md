@@ -1988,6 +1988,10 @@
 
 * [Variables and scoping in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-scoping.html)
 
+* [Arrow This | getiblog](http://blog.getify.com/arrow-this/)
+
+* [Mastering ES6 higher-order functions for Arrays | airpair](https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays)
+
 * [Iterables and iterators in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-iteration.html)
 
 * [ES6 generators in depth | 2ality](http://www.2ality.com/2015/03/es6-generators.html)
