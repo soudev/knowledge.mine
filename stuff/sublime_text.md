@@ -129,6 +129,8 @@
 
 * [[GitHub] jamiewilson / predawn](https://github.com/jamiewilson/predawn) - Predawn is a dark interface and syntax theme for Sublime Text
 
+* [[GitHub] ctf0 / Seti_ST3](https://github.com/ctf0/Seti_ST3) - Seti_UI Port for ST3
+
 * [Spacegray](http://kkga.github.io/spacegray/) - A Hyperminimal UI Theme for Sublime Text
 
 * [[GitHub] kenwheeler / brogrammer-theme](https://github.com/kenwheeler/brogrammer-theme) - Brogrammer is a flat sexy Sublime Text theme. Pushups not included.
