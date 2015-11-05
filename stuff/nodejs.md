@@ -519,6 +519,8 @@
 
   * [[GitHub] segmentio / nightmare](https://github.com/segmentio/nightmare) - A high level wrapper for Phantomjs
 
+  * [[GitHub] jiahaog / Revenant](https://github.com/jiahaog/Revenant) - A high level PhantomJS headless browser in Node.js ideal for task automation
+
   * [[GitHub] fouber / page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs
 
 --
