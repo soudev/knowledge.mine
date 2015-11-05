@@ -440,6 +440,8 @@
 
   * [Creating a simple Javascript pub sub | Weslley Araujo](https://weslleyaraujo.github.io/javascript/2015/02/11/creating-a-simple-javascript-pub-sub.html)
 
+* [[GitHub] belfz / PurrSub.js](https://github.com/belfz/PurrSub.js) - An ultra-light, pub-sub module.
+
 --
 
 * [A Deep Dive Into JavaScript Modules](http://toshsharma.github.io/presentation-js-modules) - by Ashutosh Sharma / @zorder
