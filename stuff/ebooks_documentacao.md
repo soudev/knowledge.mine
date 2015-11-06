@@ -445,6 +445,8 @@ Share with others around the world
 
 * [Curso Java Básico (Java SE) - Gratuito! | Loiane Groner](http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/)
 
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+
 --
 
 * [Programming | GitBook](https://www.gitbook.io/explore/cat/programming)
