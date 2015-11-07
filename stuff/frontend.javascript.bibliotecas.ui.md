@@ -5,6 +5,7 @@
 * [Bibliotecas de UI](#bibliotecas-de-ui)
   * [PDF Viewer](#pdf-viewer)
   * [JQuery](#jquery)
+  * [Vue.js](#vuejs)
   * [React.js](#reactjs)
     * [React Native](#react-native)
   * [Template Engine](#template-engine)
@@ -167,6 +168,21 @@
 * [FlexNav](http://jasonweaver.name/lab/flexiblenavigation/) - A jQuery Plugin for Responsive Menus
 
 * [DataTables](http://datatables.net/) - is a plug-in for the jQuery. It is a highly flexible tool, based upon the foundations of progressive enhancement, which will add advanced interaction controls to any HTML table.
+
+
+### Vue.js
+
+* [Vue.js](http://vuejs.org/)
+
+  * [[GitHub] vuejs / vue](https://github.com/vuejs/vue) - Simple yet powerful library for building modern web interfaces.
+
+* [Getting Started With Vue.js | SitePoint](http://www.sitepoint.com/getting-started-with-vue-js/) - 2015/07/15
+
+* [Create a GitHub File Explorer Using Vue.js | Scotch](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) - 2015/11/03
+
+  * [[GitHub] scotch-io / vuejs-github-explorer](https://github.com/scotch-io/vuejs-github-explorer)
+
+* [Vue.js | Vedcasts](http://www.vedcasts.com.br/series/vuejs) - Esta série lhe passará um panorama geral sobre os recursos providos pelo Vue.js (www.vuejs.org) uma framework javascript simples e poderoso. Durante as 18 aulas da série, colocaremos recursos adicionais numa tabela HTML para permitir ordenação de dados, filtro da informações, mostrar e esconder colunas e detalhes e por fim, implementaremos paginação de resultados: tudo no browser.
 
 
 ### React.js
