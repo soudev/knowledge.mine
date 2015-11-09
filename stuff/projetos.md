@@ -97,6 +97,10 @@
 
 --
 
+* [Carnê Leão | Receita Federal do Brasil](http://www.receita.fazenda.gov.br/PessoaFisica/Carneleao/Default.htm) - aplicativo para profissionais liberais realizar o recolhimento dos impostos (DARF) do recebimento, também pode ser utilizado para trabalho remoto e tributar o recebimento internacional
+
+--
+
 * [The Remote Manifesto | GitLab](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
 
 * [Highlights to my first remote job | GitLab](https://about.gitlab.com/2015/06/17/highlights-to-my-first-remote-job/)
