@@ -101,6 +101,8 @@
 
 > efetuar lançamento do tipo: `3001` - Rendimento recebido do exterior relativo a trabalho não assalariado
 
+> [VET](http://www.bcb.gov.br/?VETFAQ) - valor efetivo total
+
 --
 
 * [The Remote Manifesto | GitLab](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
