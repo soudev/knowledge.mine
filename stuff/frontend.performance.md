@@ -117,6 +117,8 @@
 
 ### Rendering
 
+* [Todo front-end deveria saber webpage rendering | Blog da Concrete](http://blog.concretesolutions.com.br/2015/11/front-end-webpage-rendering/)
+
 * [[YouTube] Supercharging page load (100 Days of Google Dev)](https://www.youtube.com/watch?t=614&v=d5_6yHixpsQ) - 2015/06/10
 
 * [Solving rendering performance puzzles | JakeArchibald](http://jakearchibald.com/2013/solving-rendering-perf-puzzles/)
@@ -194,7 +196,7 @@
 
 * [[GitHub] mercadolibre / lazy.js](https://github.com/mercadolibre/lazy.js) - A tiny and dependency-free JavaScript library for lazy loading resources.
 
-* [[GitHub] dinbror / blazy](https://github.com/dinbror/blazy/) - Hey, be lazy! bLazy.JS is a lightweight pure JavaScript script for lazy loading and multi-serving images. It's working in all modern browsers including IE7+. 
+* [[GitHub] dinbror / blazy](https://github.com/dinbror/blazy/) - Hey, be lazy! bLazy.JS is a lightweight pure JavaScript script for lazy loading and multi-serving images. It's working in all modern browsers including IE7+.
 
 * [[GitHub] helixten / load-cdn](https://github.com/helixten/load-cdn) - Load Script over CDN with MD5 Checks
 
