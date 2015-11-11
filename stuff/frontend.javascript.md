@@ -691,6 +691,8 @@
 
 * [Combining JS Arrays | David Walsh](http://davidwalsh.name/combining-js-arrays)
 
+* [Fun with Native Arrays | ponyfoo](https://ponyfoo.com/articles/fun-with-native-arrays)
+
 --
 
 * [Understanding recursion in functional JavaScript programming | Integralist BBC News Engineer](http://www.integralist.co.uk/posts/understanding-recursion-in-functional-javascript-programming/)
