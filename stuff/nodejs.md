@@ -135,6 +135,10 @@
 
 * [[GitHub] tj / n](https://github.com/tj/n) - Node version management
 
+--
+
+* [10 Habits of a Happy Node Hacker (2016) | Heroku](https://blog.heroku.com/archives/2015/11/10/node-habits-2016)
+
 
 ## Sites Oficiais
 
