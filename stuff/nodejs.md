@@ -527,6 +527,8 @@
 
   * [[GitHub] fouber / page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs
 
+  * [[GitHub] redco / goose-parser](https://github.com/redco/goose-parser) - PhantomJS/Browser lib which allows to parse webpages on the Internet
+
 --
 
 * [CasperJS](http://casperjs.org/) is a navigation scripting & testing utility for PhantomJS and SlimerJS written in Javascript
