@@ -1843,6 +1843,10 @@ $ sudo chown -R `whoami` .npm
 
 ### Armazenamento
 
+* [[GitHub] nodeadmin / nodeadmin](https://github.com/nodeadmin/nodeadmin) - A fantastically elegant interface for MySQL and Node.js/Express management
+
+--
+
 * [Knex.js](http://knexjs.org/) - An SQL Query Builder for JavaScript. (Covers MySQL, PostgreSQL, SQLite3, and WebSQL.)
 
   * [[GitHub] tgriesser / knex](https://github.com/tgriesser/knex) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use
