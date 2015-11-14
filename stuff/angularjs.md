@@ -1189,6 +1189,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[YouTube] Writing a Massive Angular App at Google NG Conf](https://www.youtube.com/watch?v=62RvRQuMVyg) - Discuss the main technical challenges and solutions for large AngularJS applications. Learn about the main code reuse patterns and when to use them, going beyond AngularJS' $resource service for custom server communication, authorization, conditional feature loading, and more.
 
+* [Anatomy of a large Angular application | Medium - by @bojzi](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994)
+
 --
 
 * [Require.js packages for building large scale angular applications | Jonathan Creamer](http://jonathancreamer.com/require-js-packages-for-building-large-scale-angular-applications/)
