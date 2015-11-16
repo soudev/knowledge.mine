@@ -53,6 +53,10 @@
 
 * [JSON Archetypes: Simple Data Standards | servant](http://blog.servant.co/json-archetypes/)
 
+--
+
+* [[GitHub] SchemaStore / schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files incuding full API
+
 
 ## GeoJSON
 
