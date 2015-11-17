@@ -291,6 +291,8 @@
 
 * [[GitHub] Granze / flip-clock](https://github.com/Granze/flip-clock) - A flip clock, timer and countdown made with Polymer
 
+* [[GitHub] David-Mulder / paper-datatable](https://github.com/David-Mulder/paper-datatable) - A material design implementation of a data table.
+
 
 #### Brick
 
