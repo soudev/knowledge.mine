@@ -133,6 +133,8 @@
 
 * [JSON Generator](http://www.json-generator.com/) - Accounts, templates sharing, forking and more!
 
+  * [JSON Generator (beta)](http://beta.json-generator.com/) – tool for generating random JSON data
+
 --
 
 * [JSONSelect](http://jsonselect.org/) - CSS-like selectors for JSON
@@ -163,7 +165,7 @@
 
 --
 
-* [[GitHub] typicode / json-server](https://github.com/typicode/json-server) - API mocking based on plain JSON
+* [[GitHub] typicode / json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - A fake online REST API for testing and prototyping
 
