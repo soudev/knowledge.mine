@@ -141,6 +141,10 @@
 
 --
 
+* [[GitHub] xdamman / selection-sharer](https://github.com/xdamman/selection-sharer) - Medium like popover menu to share on Twitter or by email any text selected on the page
+
+--
+
 * [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 
 * [[GitHub] evandroeisinger / editore.js](https://github.com/evandroeisinger/editore.js) - A magnific javascript editor
