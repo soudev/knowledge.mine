@@ -2004,11 +2004,15 @@
 
 * [JavaScript Modules the ES6 Way | @24ways](http://24ways.org/2014/javascript-modules-the-es6-way/)
 
-* [ES6 Modules in Depth | ponyfoo](http://ponyfoo.com/articles/es6-modules-in-depth)
+* [ES6 Overview in 350 Bullet Points | ponyfoo](https://ponyfoo.com/articles/es6)
 
-* [ES6 Promises in Depth | ponyfoo](http://ponyfoo.com/articles/es6-promises-in-depth)
+* [ES6 in Depth | ponyfoo](https://ponyfoo.com/articles/tagged/es6-in-depth)
 
-* [ES6 Array Extensions in Depth | ponyfoo](https://ponyfoo.com/articles/es6-array-extensions-in-depth)
+  * [ES6 Modules in Depth | ponyfoo](http://ponyfoo.com/articles/es6-modules-in-depth)
+
+  * [ES6 Promises in Depth | ponyfoo](http://ponyfoo.com/articles/es6-promises-in-depth)
+
+  * [ES6 Array Extensions in Depth | ponyfoo](https://ponyfoo.com/articles/es6-array-extensions-in-depth)
 
 * [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
 
