@@ -863,6 +863,8 @@
 
 * [[GitHub] mafintosh / peerflix-engine](https://github.com/mafintosh/peerflix-engine) - The low level streaming torrent engine that peerflix will use
 
+* [[GitHub] jaruba / multipass-torrent](https://github.com/jaruba/multipass-torrent) - Collects information about torrents from various sources (dump, RSS, HTML pages) and associates the video files within with IMDB ID - stores data in a distributed DB
+
 
 ### Node.js no Servidor
 
