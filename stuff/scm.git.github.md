@@ -559,6 +559,10 @@ git clean -fd
 
 --
 
+* [[Gist] How to show migration guides in GitHub Markdown](https://gist.github.com/staltz/728a18877948f059d570)
+
+--
+
 * [Embed Github Repos | insert.ly](http://www.insert.ly/) - New way to Embed Github Repos to your Blog & Web Sites!
 
 * [Top Github Languages for 2013 (so far) | Adam Bard](http://adambard.com/blog/top-github-languages-for-2013-so-far/)
