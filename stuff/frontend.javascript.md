@@ -1665,6 +1665,8 @@
 
 * [DevTools Extensions Gallery](https://developers.google.com/chrome-developer-tools/docs/extensions-gallery)
 
+* [Chrome extension source viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin)
+
 * [Console | Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/console)
 
 * [Chrome Dev Tools: JavaScript and Performance | Nettuts+](http://net.tutsplus.com/tutorials/tools-and-tips/chrome-dev-tools-javascript-and-performance/)
