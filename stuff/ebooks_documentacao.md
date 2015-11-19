@@ -358,6 +358,10 @@
 
 --
 
+* [16 Best YouTube Channels To Start Learning Web Development | Hongkiat](http://www.hongkiat.com/blog/web-dev-youtube-channels/)
+
+--
+
 * Lógica de Programação
 
   * [[YouTube] Lógica de Programação — Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
