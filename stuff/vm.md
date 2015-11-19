@@ -4,6 +4,8 @@
 
 * [VMWare](http://docs.vagrantup.com/v2/vmware/index.html)
 
+* [Nanobox](https://desktop.nanobox.io/) - Local Development Done Right - [github](https://github.com/nanobox-io)
+
 
 ## Soluções para virtualização de ambiente
 
