@@ -2363,6 +2363,10 @@ $ sudo chown -R `whoami` .npm
 
 #### Test Runner
 
+* [[GitHub] vdemedes / trevor](https://github.com/vdemedes/trevor) - Your own Travis CI to run tests locally
+
+--
+
 * [[GitHub] airportyh / testem](https://github.com/airportyh/testem) - Test'em 'Scripts! A test runner that makes Javascript unit testing fun
 
 * [[GitHub] karma-runner / karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript
