@@ -371,6 +371,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* Angular 1.5
+
+  * [Exploring the Angular 1.5 .component() method | @toddmotto](http://toddmotto.com/exploring-the-angular-1-5-component-method/)
+
+--
+
 * [Recipes with Angular.js](http://fdietz.github.io/recipes-with-angular-js/) - A community project dedicated to collecting resources for the Angular.js framework. You find here easy to follow cookbook style recipes for issues you are likely to face when working with Angular.js.
 
 * [[GitHub] timjacobi / angular-education](https://github.com/timjacobi/angular-education) - A collection of useful resources to learn and improve your AngularJS skills
