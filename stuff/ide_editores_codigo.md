@@ -155,6 +155,8 @@
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Code focused development. Redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
 
+  * [[GitHub] Microsoft / vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
 * [Visual Studio Code ♥ ES6 | MSDN Blogs](http://blogs.msdn.com/b/vscode/archive/2015/07/06/vs-code-es6.aspx)
 
 
