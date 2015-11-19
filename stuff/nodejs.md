@@ -630,6 +630,8 @@
 
 * [Code Protection and Packaging for Node.js Projects with JXCore | Flippin' Awesome](http://flippinawesome.org/2014/04/21/code-protection-and-packaging-for-node-js-projects-with-jxcore/)
 
+* [Node.js / V8 Garbage Collection & Memory Leak analysis](http://apmblog.dynatrace.com/2015/11/04/understanding-garbage-collection-and-hunting-memory-leaks-in-node-js/) - Using Garbage Collection & Memory Leaks to trace Node.js performance issues
+
 
 #### Análise
 
