@@ -2110,6 +2110,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses.
 
+* [[GitHub] dibari / angular-ellipsis](https://github.com/dibari/angular-ellipsis) - Angular directive to truncate multi-line text to visible height
+
 * [[GitHub] gil / ng-cpf-cnpj](https://github.com/gil/ng-cpf-cnpj) - AngularJS directive to validate CPF/CNPJ numbers
 
 * [[GitHub] monospaced / angular-qrcode](https://github.com/monospaced/angular-qrcode) - QR Code elements for AngularJS
