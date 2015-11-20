@@ -1476,6 +1476,8 @@
 
 ### command and shell
 
+* [Building command line tools with Node.js | Atlassian Developers](https://developer.atlassian.com/blog/2015/11/scripting-with-node/) - 2015/11/17
+
 * [Node.js as a build script | Blog - Miller Medeiros](http://blog.millermedeiros.com/node-js-as-a-build-script/)
 
 * [Write your shell scripts in JavaScript, via Node.js | 2 ality](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
