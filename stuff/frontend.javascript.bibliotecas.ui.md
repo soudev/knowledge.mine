@@ -327,6 +327,8 @@
 
 * [reapp : Hybrid apps, fast](http://reapp.io/) - Make beautiful hybrid apps that feel great with React, Webpack and ES6
 
+* [Make your own React production version with webpack | Topheman JS](http://dev.topheman.com/make-your-react-production-minified-version-with-webpack/) - 2015/11/12
+
 --
 
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
