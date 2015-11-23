@@ -286,6 +286,8 @@
 
 * [Closures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
+* [Closures are not magic | Rendered Text](http://renderedtext.com/blog/2015/11/18/closures-are-not-magic/) - 2015/11/18
+
 --
 
 * [An Introduction To DOM Events | Smashing Coding](http://coding.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
