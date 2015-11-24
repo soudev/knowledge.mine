@@ -124,7 +124,7 @@
 
 *Definição:* _CAS_ - Central Authentication Service
 
-* [JaSig CAS](http://www.jasig.org/cas/) OpenSource / Free | [GitHub : code](https://github.com/Jasig/cas)
+* [JaSig CAS](https://jasig.github.io/cas) OpenSource / Free | [GitHub : code](https://github.com/Jasig/cas)
 
 * [[YouTube] CAS in 10 Minutes - Jasig's Central Authentication Service (CAS) Single Sign-On Open Source](https://www.youtube.com/watch?v=wx98IaaBLfw)
 
