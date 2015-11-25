@@ -46,6 +46,8 @@
 
 * [Docker by Docker | Scoop.it](http://www.scoop.it/t/docker-by-docker)
 
+* [[GitHub] wsargent / docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet)
+
 
 ### Informações
 
