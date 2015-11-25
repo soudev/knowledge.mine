@@ -92,6 +92,16 @@
 
 --
 
+* overflow
+
+  * [overflow | CSS-101](http://www.css-101.org/overflow/index.php)
+
+  * [The CSS Overflow Property | CSS-Tricks](https://css-tricks.com/the-css-overflow-property/)
+
+  * [Popping Out of Hidden Overflow | CSS-Tricks](https://css-tricks.com/popping-hidden-overflow/)
+
+--
+
 * [The guide to CSS animations for the web | @ihatetomatoes](http://ihatetomatoes.net/the-guide-to-css-animations-for-the-web)
 
 --
