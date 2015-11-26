@@ -264,6 +264,8 @@
 
 * [Useful Docker Bash functions and aliases | Kartar.Net](http://www.kartar.net/2014/03/some-useful-docker-bash-functions-and-aliases/)
 
+* [Why and How to Use Docker for Development | Iron.io Blog — Medium](https://medium.com/iron-io-blog/why-and-how-to-use-docker-for-development-a156c1de3b24)
+
 --
 
 * A Docker Dev Environment in 24 Hours! | RelateIQ Blog - [Part 1](http://blog.relateiq.com/a-docker-dev-environment-in-24-hours-part-1-of-2/) | [Part 2](http://blog.relateiq.com/a-docker-dev-environment-in-24-hours-part-2-of-2/)
