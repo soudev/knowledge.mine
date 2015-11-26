@@ -167,6 +167,12 @@
 
 --
 
+* [Angular, Immutability and Encapsulation | Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
+
+* [Angular 2 — Introduction to new HTTP module | Google Developer Experts — Medium](https://medium.com/google-developer-experts/angular-2-introduction-to-new-http-module-1278499db2a0)
+
+--
+
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between | Auth0](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/) - 2015/05/14
 
 --
