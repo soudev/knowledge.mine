@@ -974,6 +974,8 @@
 
 * [[GitHub] pazguille / offline-first](https://github.com/pazguille/offline-first) - Everything you need to know to create offline-first web apps
 
+* [[GitHub] offlinefirst / research](https://github.com/offlinefirst/research) - Links, feedback, comments, resources, anything pertaining to offline first research.
+
 --
 
 * [Offline | Dive into HTML5](http://diveintohtml5.info/offline.html)
