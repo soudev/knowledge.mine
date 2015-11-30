@@ -80,6 +80,8 @@
 
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
 
+* [[gist] erkobridee / os-segredos-da-mente-milionaria.txt](https://gist.github.com/erkobridee/b274a02161de4946527f) - Resumo do livro Os Segredos da Mente Milionária
+
 * [[YouTube] Webinário Faça seu Dinheiro Render Mais | InfoMoney](https://www.youtube.com/watch?v=KXDeMNRtAGU) - 2015/05/19
 
 
