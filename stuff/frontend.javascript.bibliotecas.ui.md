@@ -99,9 +99,15 @@
 
 * [[GitHub] component / infinity](https://github.com/component/infinity) - infinite scrolling with loading and unloading
 
+--
+
 * [[GitHub] olivier-m / minislate](https://github.com/olivier-m/minislate/) - A wysiwyg experiment
 
 * [[GitHub] madebymany / sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
+
+* [[GitHub] GetmeUK / ContentTools](https://github.com/GetmeUK/ContentTools) - A JS library for building WYSIWYG editors for HTML content.
+
+--
 
 * [OWL Carousel](http://owlgraphic.com/owlcarousel/) - Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 
