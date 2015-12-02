@@ -807,6 +807,8 @@
 
 * [RegExr](http://regexr.com/) - Create & Test Regular Expressions
 
+* [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Visualizer.
+
 * [Scriptular is a javascript regular expression editor](http://scriptular.com/) - online
 
 * [Regexper](http://www.regexper.com/) - Regular expression visualizer using railroad diagrams
