@@ -146,6 +146,8 @@
 
 ### Títulos do Governo
 
+* [Rentabilidade do Tesouro Direto](http://www.tesouro.fazenda.gov.br/tesouro-direto-rentabilidade-acumulada)
+
 * [[YouTube] Títulos do Governo](https://www.youtube.com/watch?v=i1ics1_um0A)
 
 * [[YouTube] Tesouro Direto - Investimentos muito além da Poupança](https://www.youtube.com/watch?v=wTW0donQv_k)
