@@ -349,6 +349,8 @@
 
 --
 
+* [A productive development environment with Docker on OS X | @brikis98](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/) - (2015/05/19) A productive development environment with Docker on OS X
+
 * [Lightweight Docker experience on OSX | zaiste.net](http://zaiste.net/2014/02/lightweight_docker_experience_on_osx/)
 
 * [Upgrade docker and boot2docker on OSX | Java Bien!](http://blog.javabien.net/2014/03/17/upgrade-docker-and-boot2docker-on-osx/)
