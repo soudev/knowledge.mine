@@ -583,7 +583,7 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[YouTube Playlist] Pluralsight: AngularJS Fundamentals](https://www.youtube.com/playlist?list=PL1yxeQRU9I3TFalCPrYmCptJtCowJNi6C) - Full course
 
-* [[YouTube Playlist] Tudo sobre AngularJS](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) - Rodrigo Branas
+* [[YouTube Playlist] Tudo sobre AngularJS](https://www.youtube.com/watch?v=_y7rKxqPoyg&list=PLQCmSnNFVYnTD5p2fR4EXmtlR6jQJMbPb) - Rodrigo Branas <!-- ._ -->
 
 * [[YouTube Playlist] AngularJS para Zumbis](https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM) - Matheus Lima
 
@@ -2148,6 +2148,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 * [[GitHub] grevory / angular-local-storage](https://github.com/grevory/angular-local-storage) - An Angular module that gives you access to the browsers local storage
 
 * [[GitHub] auth0 / angular-storage](https://github.com/auth0/angular-storage) - A storage library for AngularJS done right
+
+* [[GitHub] fredricrylander / angular-webstorage](https://github.com/fredricrylander/angular-webstorage) - Web Storage Service Module for AngularJS
 
 --
 
