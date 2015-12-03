@@ -846,6 +846,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Rendering Image Previews Using Object URLs vs. Base64 Data URIs In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2966-rendering-image-previews-using-object-urls-vs-base64-data-uris-in-angularjs.htm) - 2015/12/03
+
 * [Angular backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
 
 * [AngularJS e D3, brincando com SVG | JandersonFC](http://jandersonfc.com/angularjs-e-d3-brincando-com-svg/)
