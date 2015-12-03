@@ -271,7 +271,7 @@
 
 --
 
-* A Docker Dev Environment in 24 Hours! | RelateIQ Blog - [Part 1](http://blog.relateiq.com/a-docker-dev-environment-in-24-hours-part-1-of-2/) | [Part 2](http://blog.relateiq.com/a-docker-dev-environment-in-24-hours-part-2-of-2/)
+* A Docker Dev Environment in 24 Hours! | salesforceIQ Blog - [Part 1](https://engineering.salesforceiq.com/2013/10/31/a-docker-dev-environment-in-24-hours-part-1-of-2.html) | [Part 2](https://engineering.salesforceiq.com/2013/11/05/a-docker-dev-environment-in-24-hours-part-2-of-2.html)
 
   * [[GitHub] relateiq / docker_public](https://github.com/relateiq/docker_public) - Instant RelateIQ Development Environment
 
