@@ -76,6 +76,8 @@
 
 * [[YouTube] Usando o Vagrant como ambiente de desenvolvimento Ruby](https://www.youtube.com/watch?v=zg4EMgcb6H8) - Nando Vieira - Rupy 2012, Uma das grandes dificuldades em qualquer plataforma de desenvolvimento é manter um ambiente conciso, principalmente quando o seu time possui muitos desenvolvedores. Junte isso à diferença entre o sistema operacional do desenvolvedor com arquiteturas diferentes, bibliotecas utilizadas com extensões nativas e a probabilidade de dar algo errado em produção aumenta muito! Veja como o Vagrant pode resolver todos esses problemas e ainda servir como uma plataforma de testes para scripts de configuração de servidores usando máquinas virtuais.
 
+* [Scotch Box - A Vagrant LAMP Stack That Just Works](https://box.scotch.io/)
+
 --
 
 * [[GitHub] fideloper / Vaprobash](https://github.com/fideloper/Vaprobash) - Vagrant Provisioning Bash Scripts
