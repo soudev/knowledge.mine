@@ -101,6 +101,8 @@
 
 * [[SpeakerDeck] Introduction to Docker - Ship it with Docker!](https://speakerdeck.com/slok/ship-it-with-docker)
 
+* [[SlideShare] DockerCon EU 2015: Getting Started with Docker](http://www.slideshare.net/Docker/getting-started-with-docker) - 2015/11/23
+
 * [Docker: tudo o que você precisava saber, mas não te contaram | InfoQ Br](http://www.infoq.com/br/presentations/docker-tudo-que-precisava-saber)
 
 * [Docker - Beginner's tutorial | talPor Solutions Blog](https://blog.talpor.com/2015/01/docker-beginners-tutorial/)
