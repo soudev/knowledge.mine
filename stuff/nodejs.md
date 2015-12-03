@@ -798,6 +798,10 @@
 
 --
 
+* [[GitHub] facebook / mention-bot](https://github.com/facebook/mention-bot) - Automatically mention potential reviewers on pull requests
+
+--
+
 * [GitBook](https://www.gitbook.io/) - Modern Publishing, Simply taking your books from ideas to finished, polished books.
 
   * [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) - Utility for generating books and exercises using GitHub/Git and Markdown
