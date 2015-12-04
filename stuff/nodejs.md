@@ -234,6 +234,8 @@
 
 * [Ten Common Mistakes in Node.js Development | Toptal](http://www.toptal.com/nodejs/top-10-common-nodejs-developer-mistakes)
 
+* [Top 10 Mistakes Node.js Developers Make | AirPair](https://www.airpair.com/node.js/posts/top-10-mistakes-node-developers-make)
+
 --
 
 * [[SlideShare] Nodejs Explained with Examples](http://www.slideshare.net/gabriele.lana/nodejs-explained-with-examples)
