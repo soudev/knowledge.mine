@@ -214,6 +214,8 @@
 
 * [Resizing and Cropping Images with Canvas | Codrops](http://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/)
 
+* [[GitHub] fengyuanchen / cropperjs](https://github.com/fengyuanchen/cropperjs) - JavaScript image cropper
+
 * [[GitHub] viliusle / miniPaint](https://github.com/viliusle/miniPaint) - online image editor
 
 * [Build a JavaScript Particle System in 200 Lines | HTML5 Hub](http://html5hub.com/build-a-javascript-particle-system/)
