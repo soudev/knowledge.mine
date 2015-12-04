@@ -231,7 +231,7 @@
 
 ### DevOps
 
-* [[YouTube] What is DevOps? - In Simple English](https://www.youtube.com/watch?v=_I94-tJlovg) - Rackspace (12/12/2013)
+* [[YouTube] What is DevOps? - In Simple English](https://www.youtube.com/watch?v=_I94-tJlovg) - Rackspace (12/12/2013) <!-- ._ -->
 
 * [[YouTube] IBM Hackathon DevOps - O que é DevOps?](https://www.youtube.com/watch?v=3nLS1x3UuRM) - Bruno Souza (30/04/2014)
 
@@ -341,6 +341,8 @@
 * [Jenkins CI](http://jenkins-ci.org/)
 
   * [Jenkins : The Definitive Guide](http://www.wakaleo.com/download-free-document) - eBook (pdf) Gratuíto
+
+  * [[GitHub] afonsof / jenkins-material-theme](https://github.com/afonsof/jenkins-material-theme)
 
   * [Continuous Integration of iOS Projects using Jenkins, CocoaPods, and Kiwi](http://9elements.com/io/index.php/continuous-integration-of-ios-projects-using-jenkins-cocoapods-and-kiwi/)
 
