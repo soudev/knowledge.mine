@@ -1477,6 +1477,8 @@
 
 * [[GitHub] basicallydan / interfake](https://github.com/basicallydan/interfake) - Quickly create fake APIs for use in client-only tests or prototypes
 
+* [[GitHug] adleroliveira / dreamjs](https://github.com/adleroliveira/dreamjs) - A lightweight json data generator.
+
 * [[GitHub] dreyacosta / JSONServer](https://github.com/dreyacosta/JSONServer) - Small JSON file server for REST API mock
 
 
