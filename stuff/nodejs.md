@@ -1835,6 +1835,8 @@ $ sudo chown -R `whoami` .npm
 
 * [How to Use npm as a Build Tool | Keith Cirkel](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/) - 2014/12/09
 
+* [[GitHub] wehkamp / npm-scripts-watcher](https://github.com/wehkamp/npm-scripts-watcher) - Globbing file watcher to automatically run npm scripts.
+
 --
 
 * [NPM for Everything | Alexander Beletsky](http://beletsky.net/2015/04/npm-for-everything.html) - NPM as dependency manager, task runner both for front and back end.
