@@ -1689,6 +1689,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [Using NgModelController with Custom Directives | Christopher Nadeau](http://www.chroder.com/2014/02/01/using-ngmodelcontroller-with-custom-directives/)
 
+* [Passing ngModelController Into A Component Directive Controller In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2969-passing-ngmodelcontroller-into-a-component-directive-controller-in-angularjs.htm) - 2015/12/08
+
 --
 
 * [Angle Brackets, Synergistic Directives | Pony Foo](http://blog.ponyfoo.com/2014/02/19/angle-brackets-synergistic-directives)
