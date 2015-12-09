@@ -1978,6 +1978,8 @@
 
 * [Easing the Transition to ES6 | ifwe](http://www.ifwe.co/code/posts/easing-the-transition-to-es6/)
 
+* [[Speaker Deck] From ES5 to ES6 (ES2015) and ES2016](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016)
+
 --
 
 * [Expert ES6 | tagtree.io](http://tagtree.io/courses/expert-es6/do) - An ES6 Course in the Browser
