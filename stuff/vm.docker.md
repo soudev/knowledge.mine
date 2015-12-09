@@ -143,6 +143,8 @@
 
 * [Using Docker & Ansible by John Minnihan @Gluecon 2014 | DevOps.com](http://devops.com/blogs/using-docker-ansible/)
 
+* [Criando ambientes de forma simples com Docker e Ansible | InfoQ Br](http://www.infoq.com/br/presentations/criando-ambientes-de-forma-simples-com-docker-e-ansible) - 2015/12/04
+
 * [Docker na vida real | InfoQ Br](http://www.infoq.com/br/presentations/docker-na-vida-real) - 2015/10/14
 
 
