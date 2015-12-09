@@ -219,6 +219,10 @@
 
 --
 
+* [Como ter sucesso executando o Docker em produção | InfoQ Br](http://www.infoq.com/br/news/2015/12/docker-producao) - 2015/12/09
+
+--
+
 * [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
 
 * [Docker: Using Linux Containers to Support Portable Application Deployment | InfoQ](http://www.infoq.com/articles/docker-containers)
@@ -278,6 +282,8 @@
   * [[YouTube] Chef Versus Docker at RelateIQ](https://www.youtube.com/watch?v=lS7xVHIl9zU) - Twitter University (26/11/2013)
 
   * [DockerCon video: Docker at RelateIQ | Docker Blog](http://blog.docker.com/2014/07/dockercon-video-docker-at-relateiq/)
+
+  * [[SlideShare] Running Docker in Production - Dockercon EU 2015](http://www.slideshare.net/relateiq/dockercon-eu-2015) - 2015/11/21
 
 * [Building a Development Environment with Docker | Terse Systems](http://tersesystems.com/2013/11/20/building-a-development-environment-with-docker/)
 
