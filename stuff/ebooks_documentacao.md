@@ -447,6 +447,8 @@ Share with others around the world
 
 --
 
+* [Learn to Code HTML & CSS - Beginner & Advanced](http://learn.shayhowe.com/)
+
 * [Ruby Monk](https://rubymonk.com/) - Free, interactive tutorials to help you discover Ruby idioms, in your browser!
 
 * [Curso Java Básico (Java SE) - Gratuito! | Loiane Groner](http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/)
