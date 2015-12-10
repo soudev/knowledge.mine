@@ -2142,6 +2142,10 @@ $ sudo chown -R `whoami` .npm
 
   * [[GitHub] stephanepericat / toptal-electron-loki-demo](https://github.com/stephanepericat/toptal-electron-loki-demo) - Electron: Cross-platform Desktop Apps Made Easy
 
+--
+
+* [Sqlectron](https://sqlectron.github.io/) - One single DB client for any relational DB (initial support MySql and PostgreSQL)
+
 
 #### Node Webkit
 
