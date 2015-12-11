@@ -233,6 +233,8 @@
 
 * [A Practical Guide to SVGs on the web](https://svgontheweb.com/)
 
+* [Tips for Creating and Exporting Better SVGs for the Web | Sara Soueidan](http://sarasoueidan.com/blog/svg-tips-for-designers/)
+
 * [SVG Tutorial and references | Jakob Jenkov](http://tutorials.jenkov.com/svg/index.html)
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
