@@ -916,6 +916,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Formatting CSV Data For JIRA Tables Using AngularJS And Plupload | Ben Nadel](http://www.bennadel.com/blog/2974-formatting-csv-data-for-jira-tables-using-angularjs-and-plupload.htm) - 2015/12/12
+
 * [Displaying json array data with AngularJS and ng-grid | Genlinux.rb](http://www.genlinux.org/2013/08/displaying-json-array-data-with-angular.html)
 
 * [AngularJS - CRUD Grid | Juan Carlos Sanchez](http://softwarejuancarlos.com/2014/09/09/angularjs-crud-grid/)
