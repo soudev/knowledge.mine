@@ -157,6 +157,8 @@
 
   * [[GitHub] jhonmike / blog-posts-example](https://github.com/jhonmike/blog-posts-example) - [01-iniciando-com-angular2](https://github.com/jhonmike/blog-posts-example/tree/master/01-iniciando-com-angular2)
 
+* [The Beginner's Preemptive Guide To AngularJS 2 Alpha | AntJanus](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) - 2015/12/09
+
 --
 
 * [Creating Container Components, Part 1: Shadow DOM | AirPair](https://www.airpair.com/javascript/posts/creating-container-components-part-1-shadow-dom)
