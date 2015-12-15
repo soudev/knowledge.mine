@@ -311,6 +311,8 @@
 
 --
 
+* [Getting Started with Java Development on Docker | The Giant Swarm Blog](http://blog.giantswarm.io/getting-started-with-java-development-on-docker/) - (2015/07/08) Introduction to Java Development on Docker using an example with Spark and Maven
+
 * [Developing with WildFly, JBoss Developer Studio and Docker | Marek Goldmann](http://goldmann.pl/blog/2013/11/20/developing-with-wildfly-jboss-developer-studio-and-docker/)
 
 * [Deploy Java Apps With Docker = Awesome | Atlassian Blogs](https://blogs.atlassian.com/2013/06/deploy-java-apps-with-docker-awesome/)
