@@ -193,6 +193,8 @@
 
   * [[GitHub] johnpapa / angular2-there-and-back-again](https://github.com/johnpapa/angular2-there-and-back-again) - A little bit of everything in Angular 2
 
+  * [[GitHub] AngularClass / angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @AngularClass
+
 * ES6
 
   * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
