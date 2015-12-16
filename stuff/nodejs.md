@@ -1889,6 +1889,14 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] robconery / massive-js](https://github.com/robconery/massive-js) - A simple relational data access tool for NodeJS. (PostgreSQL)
+
+* [Postgres and Node - Hands on using Postgres as a Document Store with MassiveJS | Craig Kerstiens](http://www.craigkerstiens.com/2015/12/08/massive-json/) - 2015/12/08
+
+  * [[GitHub] craigkerstiens / json_node_example](https://github.com/craigkerstiens/json_node_example)
+
+--
+
 * [[GitHub] oracle / node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js
 
   * [Announcing the Official Node.js Connector for the Oracle Database by Oracle | StrongLoop](https://strongloop.com/strongblog/official-node-js-connector-oracle-database/) - 2014/01/27
