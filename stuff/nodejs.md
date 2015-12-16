@@ -906,6 +906,8 @@
 
 * [[GitHub] MaxGfeller / youtube-mp3](https://github.com/MaxGfeller/youtube-mp3) - npm module for downloading a youtube video as mp3 file. Download the audio from Youtube videos as mp3 file. This module uses youtube-mp3.org for the conversion.
 
+* [[GitHub] IrosTheBeggar / mstream-node](https://github.com/IrosTheBeggar/mstream-node) - A nodeJS port of the mStream project
+
 --
 
 * [Nodemailer](http://www.nodemailer.com/) - is an easy to use module to send e-mails with Node.JS (using SMTP or sendmail or Amazon SES or even your own method) and is unicode friendly - You can use any characters you like
