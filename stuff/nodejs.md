@@ -2142,6 +2142,10 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] atom / electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. Formerly known as Atom Shell.
 
+* [Quick Start | Electron](http://electron.atom.io/docs/latest/tutorial/quick-start/)
+
+  * [[GitHub] atom / electron-quick-start](https://github.com/atom/electron-quick-start) - Clone to try a simple Electron app
+
 * [Building a desktop application with Electron | Developers Writing — Medium](https://medium.com/developers-writing/building-a-desktop-application-with-electron-204203eeb658) - A detailed guide on building your very own sound machine using JavaScript, Node.js and Electron.
 
 * [Primeiros passos com Electron | Medium by @raphaelporto](https://medium.com/@raphaelporto/primeiros-passos-com-electron-2cfbda828f0d) - Não há dúvidas, JavaScript tem crescido muito nos últimos anos. Isso se deve muito ao engine V8, que proporcionou a criação do NodeJS e outras ferramentas incríveis. Entre elas temos o Electron, um framework que nos permite criar aplicações desktop com JavaScript.
