@@ -821,8 +821,6 @@
 
 * [regex101](http://regex101.com/#javascript)
 
-* [Regulex](http://jex.im/regulex/) - JavaScript Regular Expression Visualizer
-
 
 ### Performance
 
