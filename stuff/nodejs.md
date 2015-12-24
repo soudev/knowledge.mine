@@ -2374,6 +2374,10 @@ $ sudo chown -R `whoami` .npm
 
   * [[GitHub] devcollectief / express-upload](https://github.com/devcollectief/express-upload) - Streaming multiple large files to AWS S3 with Multipart API, Formidable & Jquery File Upload
 
+--
+
+* [[GitHub] DIMLEO / express-life](https://github.com/DIMLEO/express-life) - ump start a project with express.js
+
 
 #### Meteor
 
