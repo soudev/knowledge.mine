@@ -1425,6 +1425,7 @@
 
   * [Functional CoffeeScript for the impatient | Blog of Cedric Ruiz](http://cedricruiz.me/blog/functional-coffeescript-for-the-impatient/)
 
+* [[GitHub] shift-js / shift-js](https://github.com/shift-js/shift-js) - Swift to JavaScript transpiler
 
 * [TypeScript](http://www.typescriptlang.org/) - is a language for application-scale JavaScript development. TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 
