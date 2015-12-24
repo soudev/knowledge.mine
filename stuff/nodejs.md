@@ -1339,6 +1339,8 @@
 
 * [[GitHub] ctalkington / node-archiver](https://github.com/ctalkington/node-archiver) - Creates Archives (Zip, Tar) via Node Streams
 
+* [[GitHub] antelle / node-stream-zip](https://github.com/antelle/node-stream-zip) - node.js library for fast reading of large ZIPs
+
 * [[GitHub] netroy / image-size](https://github.com/netroy/image-size) - NodeJS module for detecting image dimensions
 
 * [Loading PDFs In PhantomJS Using PDF.JS | Gary Sieling](http://www.garysieling.com/blog/integrating-phantomjs-and-pdf-js-inter-process-communication)
