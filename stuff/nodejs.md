@@ -1805,6 +1805,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Node.js - Como mostrar o que está sendo instalado pelo NPM? | Nomadev](http://nomadev.com.br/node-js-como-mostrar-o-que-est%C3%A1-sendo-instalado-pelo-npm/)
 
+* [Installing past or future versions of npm packages | 2ality](http://www.2ality.com/2015/12/npm-install-tag-version.html) - 2015/12/20
+
 --
 
 * [Introduction to npm | SmallJS](http://smalljs.org/package-managers/npm/)
