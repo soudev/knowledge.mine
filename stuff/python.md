@@ -82,6 +82,10 @@
 
 * [[GitHub] jkbrzt / httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
+--
+
+* [[GitHub] nvbn / thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
+
 
 ## Frameworks
 
