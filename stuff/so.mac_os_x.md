@@ -10,7 +10,6 @@
 * [Colors](#colors)
 * [dotFiles](#dotfiles)
 * [Setup](#setup)
-* [Dicas](#dicas)
 * [Fontes](#fontes)
 * [Audio e Vídeo](#audio-e-vídeo)
   * [Media Center](#media-center)
@@ -23,6 +22,10 @@
 <!-- toc stop -->
 
 ## Dicas
+
+* [Reset the DNS cache in OS X | Apple Support](https://support.apple.com/en-us/HT202516) - Learn how to reset (flush) the DNS cache.
+
+--
 
 * [numi](http://numi.io/) - beautiful calculator for mac
 
@@ -51,6 +54,22 @@
 --
 
 * [[GitHub] jipegit / OSXAuditor](https://github.com/jipegit/OSXAuditor) - is a free Mac OS X computer forensics tool
+
+--
+
+* [[GitHub] prasmussen / chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
+
+* [Como usar o editor iMovie; veja os truques para Mac | Dicas e Tutoriais | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/02/como-usar-o-editor-imovie-veja-os-truques-para-mac.html)
+
+* [Recordit](http://recordit.co/) - Record screencasts fast & free! with GIF Support!
+
+--
+
+* [[Apple Store] Dash (Docs & Snippets)](https://itunes.apple.com/br/app/dash-docs-snippets/id458034879?l=en&mt=12)
+
+--
+
+* [Como saber a condição da bateria do MacBook e aumentar sua vida útil | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/06/como-saber-condicao-da-bateria-do-macbook-e-aumentar-sua-vida-util.html)
 
 
 ## Mavericks
@@ -128,24 +147,6 @@
 * [[Gist] millermedeiros / osx_setup.md](https://gist.github.com/millermedeiros/6615994) - Mac OS X Mountain Lion setup
 
 * [[Gist] zenorocha / osx-setup.md](https://gist.github.com/zenorocha/7159780) - Setup Mac OS X Mavericks (10.9)
-
-
-## Dicas
-
-* [[GitHub] prasmussen / chrome-cli](https://github.com/prasmussen/chrome-cli) - Control Google Chrome from the command line
-
-* [Como usar o editor iMovie; veja os truques para Mac | Dicas e Tutoriais | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/02/como-usar-o-editor-imovie-veja-os-truques-para-mac.html)
-
-* [Recordit](http://recordit.co/) - Record screencasts fast & free! with GIF Support!
-
---
-
-* [[Apple Store] Dash (Docs & Snippets)](https://itunes.apple.com/br/app/dash-docs-snippets/id458034879?l=en&mt=12)
-
---
-
-* [Como saber a condição da bateria do MacBook e aumentar sua vida útil | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/06/como-saber-condicao-da-bateria-do-macbook-e-aumentar-sua-vida-util.html)
-
 
 ## Fontes
 
