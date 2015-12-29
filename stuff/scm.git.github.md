@@ -559,6 +559,8 @@ git clean -fd
 
 * [Automated Deployments with GitHub Webhooks | Toptal](http://www.toptal.com/devops/deploy-web-applications-automatically-using-github-webhooks)
 
+* [How We Organize GitHub Issues - A Styleguide For Tagging | Robin at Work](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+
 --
 
 * [[Gist] How to show migration guides in GitHub Markdown](https://gist.github.com/staltz/728a18877948f059d570)
