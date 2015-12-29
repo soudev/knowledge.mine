@@ -186,6 +186,8 @@
 
 * [OpenTTD](http://www.openttd.org/) - is an open source simulation game based upon Transport Tycoon Deluxe
 
+* [OpenEmu](http://openemu.org/) - Multiple Video Game System
+
 
 ## UNIX - shell
 
