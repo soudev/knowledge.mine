@@ -1815,6 +1815,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [[GitHub] sachinchoolur / angular-trix](https://github.com/sachinchoolur/angular-trix) - A rich WYSIWYG text editor directive for angularjs
 
+* [[GitHub] icattlecoder / ngMeditor](https://github.com/icattlecoder/ngMeditor) - Medium style editor for AngularJS
+
 * [[GitHub] klederson / angular-masonry-directive](https://github.com/klederson/angular-masonry-directive) - A very simple and 100% compatible masonry directive for AngularJS ... do you know how to use masonry? Good! You know how to use this
 
 * [[GitHub] btford / angular-markdown-directive](https://github.com/btford/angular-markdown-directive) - AngularJS markdown directive using Showdown.js
