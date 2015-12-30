@@ -1161,6 +1161,8 @@
 
 * [heimcontrol.js](http://ni-c.github.io/heimcontrol.js/) - Awesome home automation with Raspberry PI and Arduino using Node.js, MongoDB, HTML5 and Websockets
 
+* [[GitHub] GladysProject / Gladys](https://github.com/GladysProject/Gladys) - Your home automation assistant built with Node.js and AngularJS
+
 * [[GitHub] googlecreativelab / coder](https://github.com/googlecreativelab/coder) - A simple way to make web stuff on Raspberry Pi
 
   * [Coder Projects](http://googlecreativelab.github.io/coder-projects/)
