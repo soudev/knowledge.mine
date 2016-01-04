@@ -1931,6 +1931,10 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
   * [[plunkr] ng-chartjs-directive example](http://embed.plnkr.co/QE2TLfiS9zabrTRKM0Vr/preview)
 
+--
+
+* [[GitHub] bladepop / colorpicker](https://github.com/bladepop/colorpicker) - pure Angular.JS circle color-picker similar to google keep's color picker
+
 
 ### Diretivas d3.js
 
