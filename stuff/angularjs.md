@@ -1783,6 +1783,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [Creating An Isolate-Scope Directive With Multiple Transclusion Points In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2936-creating-an-isolate-scope-directive-with-multiple-transclusion-points-in-angularjs.htm) - 2015/10/17
 
+* [[GitHub] mcasimir / angular-multiple-transclusion](https://github.com/mcasimir/angular-multiple-transclusion) - Simple unobtrusive angular multiple transclusion support with ng-transclude
+
 * [The nitty-gritty of compile and link functions inside AngularJS directives | jvandemo.com](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives/)
 
 * [The nitty-gritty of compile and link functions inside AngularJS directives part 2: transclusion | jvandemo.com](http://www.jvandemo.com/the-nitty-gritty-of-compile-and-link-functions-inside-angularjs-directives-part-2-transclusion/)
