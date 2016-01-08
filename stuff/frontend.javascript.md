@@ -571,6 +571,8 @@
 
 * [Capturando erros JS LIKE-A-BOSS | Tableless](http://tableless.com.br/capturando-erros-js-like-a-boss/) - window.onerror
 
+* [Capture and report JavaScript errors with window.onerror | Sentry](http://blog.getsentry.com/2016/01/04/client-javascript-reporting-window-onerror.html) - 2016/01/04
+
 * [Strange JavaScript Errors and How to Fix Them | David Walsh Blog](http://davidwalsh.name/fix-javascript-errors)
 
 * [Rethinking JavaScript's Try/Catch | Flippin Awesome](http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/)
