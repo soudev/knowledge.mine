@@ -1906,7 +1906,9 @@
 
 * [Babel](http://babeljs.io/) is a JavaScript transpiler. Use next generation JavaScript, today.
 
-* [[GitHub] babel / babel](https://github.com/babel/babel) - Babel is a transpiler for writing next generation JavaScript. (Previously 6to5)
+  * [Babel REPL](https://babeljs.io/repl/)
+
+  * [[GitHub] babel / babel](https://github.com/babel/babel) - Babel is a transpiler for writing next generation JavaScript. (Previously 6to5)
 
 * [Not Born to Die | Babel](http://babeljs.io/blog/2015/02/15/not-born-to-die/)
 
