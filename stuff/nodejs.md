@@ -1859,6 +1859,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Stay up-to-date with Node.js packages using npm-onupdate service | Piotr Walczyszyn's Blog](http://outof.me/stay-up-to-date-with-node-js-packages-using-npm-onupdate-service/)
 
+* [[GitHub] tjunnone / npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows
+
 
 ### CORS
 
