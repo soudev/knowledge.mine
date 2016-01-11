@@ -2,6 +2,9 @@
 
 * [Elementary OS](http://elementaryos.org/)
 
+--
+
+* [VIM Adventures](http://vim-adventures.com/) - is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
 
 ## Desenvolvimento
 

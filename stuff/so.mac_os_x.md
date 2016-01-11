@@ -16,7 +16,8 @@
   * [Editores de Vídeo](#editores-de-vídeo)
   * [Editores de Audio](#editores-de-audio)
 * [Games](#games)
-* [UNIX - shell](#unix-shell)
+* [UNIX](#unix)
+  * [Shell](#shell)
 * [Desenvolvimento](#desenvolvimento)
 
 <!-- toc stop -->
@@ -189,7 +190,11 @@
 * [OpenEmu](http://openemu.org/) - Multiple Video Game System
 
 
-## UNIX - shell
+## UNIX
+
+* [VIM Adventures](http://vim-adventures.com/) - is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
+
+### Shell
 
 * [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
 
