@@ -200,6 +200,8 @@
 
 * [.bashrc generator](http://bashrcgenerator.com/) - create your .bashrc PS1 with a drag and drop interface
 
+* [The Bash Guide](http://guide.bash.academy/) - A complete guide for newcomers and advanced users to correct usage and deep understanding of the bash shell language.
+
 
 ## Desenvolvimento
 
