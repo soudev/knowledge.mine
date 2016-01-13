@@ -24,6 +24,10 @@
 
 --
 
+* [dynamically add css rule to the document | JSFiddle](http://fiddle.jshell.net/MDyxg/1/)
+
+--
+
 * [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/) - An extensive CSS reference with all the important properties and info to learn CSS from the basics
 
 --
