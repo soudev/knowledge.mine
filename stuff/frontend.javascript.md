@@ -1271,6 +1271,8 @@
 
 --
 
+* [[GitHub] google / lovefield](https://github.com/google/lovefield) - is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
+
 * [TaffyDB](http://www.taffydb.com/) - The JavaScript Database
 
 * [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
