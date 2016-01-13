@@ -2031,6 +2031,8 @@
 
   * [ES6 Array Extensions in Depth | ponyfoo](https://ponyfoo.com/articles/es6-array-extensions-in-depth)
 
+  * [ES6 Symbols in Depth | ponyfoo](https://ponyfoo.com/articles/es6-symbols-in-depth)
+
 * [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
 
 --
