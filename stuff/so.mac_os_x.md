@@ -28,6 +28,10 @@
 
 --
 
+* [[GitHub] matryer / bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
+
+--
+
 * [numi](http://numi.io/) - beautiful calculator for mac
 
 * [16 apps gratuitos para Mac que você não pode deixar de conhecer | BR-Mac.org](http://br-mac.org/2014/01/16-apps-gratuitos-para-mac-que-voce-nao-pode-deixar-de-conhecer.html)
