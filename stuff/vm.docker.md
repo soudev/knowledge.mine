@@ -87,7 +87,9 @@
 
 * [Docker - training](https://training.docker.com/)
 
-* [[Speaker Deck] Docker, Get used to it !](https://speakerdeck.com/julienvey/docker-get-used-to-it)
+* [[GitHub] prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - (Docker for Beginners) A comprehensive tutorial on getting started with Docker.
+
+* [[Speaker Deck] Docker, Get used to it!](https://speakerdeck.com/julienvey/docker-get-used-to-it)
 
 * [Docker - What is Docker?](https://www.docker.com/whatisdocker)
 
