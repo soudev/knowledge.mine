@@ -1951,6 +1951,8 @@
 
 * [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
+  * [[GitHub] kangax / compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
+
 * [Five to Six — Addy Osmani’s list of ECMAScript 6 tools | Super-Script](http://www.super-script.us/2015/es6-tools.html)
 
 --
