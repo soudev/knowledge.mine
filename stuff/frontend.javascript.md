@@ -2011,6 +2011,8 @@
 
 * [Variables and scoping in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-scoping.html)
 
+* [Managing the private data of ES6 classes | 2ality](http://www.2ality.com/2016/01/private-data-classes.html)
+
 * [Arrow This | getiblog](http://blog.getify.com/arrow-this/)
 
 * [Mastering ES6 higher-order functions for Arrays | airpair](https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays)
