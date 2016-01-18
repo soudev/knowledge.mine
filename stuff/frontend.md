@@ -279,6 +279,8 @@
 
   * [Optimising SVG images | Mozilla Hacks](https://hacks.mozilla.org/2015/03/optimising-svg-images/)
 
+* Optimising SVGs for Web Use | Medium by @larsenwork — [Part 1](https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035) | [Part 2](https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-2-6711cc15df46) | [Part 2½](https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-2-1-598815d74f9c)
+
 
 ## Source Map
 
