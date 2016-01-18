@@ -6,6 +6,9 @@
 
 * [VIM Adventures](http://vim-adventures.com/) - is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
 
+* [Vim para Noobs | William Oliveira](http://woliveiras.com.br/vim-para-noobs/livro/)
+
+
 ## Desenvolvimento
 
 * [[GitHub] caarlos0 / dotfiles](https://github.com/caarlos0/dotfiles) - My dotfiles for Linux and OSX. ZSH, SublimeText 3, Java, Ruby and others.
