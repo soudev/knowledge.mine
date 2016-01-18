@@ -2091,6 +2091,10 @@ $ sudo chown -R `whoami` .npm
 
   * [[GitHub] mozilla / awsbox](https://github.com/mozilla/awsbox)
 
+--
+
+* [[GitHub] serverless / serverless](https://github.com/serverless/serverless) - The Serverless Application Framework – Build and maintain web, mobile and IoT applications running on [AWS Lambda](https://aws.amazon.com/lambda/) and API Gateway (formerly known as JAWS)
+
 
 ##### Amazon S3
 
