@@ -1265,6 +1265,8 @@
 
   * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript | Medium by @keithwhor](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3) - Leveraging User Behavior to Drive Recommendations
 
+* [[GitHub] rse / extraction](https://github.com/rse/extraction) - Tree Extraction for JavaScript Object Graphs
+
 --
 
 * [[GitHub] kripken / sql.js](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten
