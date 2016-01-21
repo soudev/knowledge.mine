@@ -1704,6 +1704,9 @@
 
 ### NPM
 
+* [[GitHub] sindresorhus / awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
+
+
 * [Fixing npm permissions | NPM Getting Started](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 
 > Mac OS X
