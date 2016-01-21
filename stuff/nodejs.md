@@ -2157,6 +2157,8 @@ $ sudo chown -R `whoami` .npm
 
 #### electron
 
+* [[GitHub] sindresorhus / awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+
 * [[GitHub] atom / electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. Formerly known as Atom Shell.
 
 * [Quick Start | Electron](http://electron.atom.io/docs/latest/tutorial/quick-start/)
