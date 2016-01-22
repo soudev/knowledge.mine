@@ -47,6 +47,10 @@
 
 --
 
+* [[GitHub] legomushroom / mojs](https://github.com/legomushroom/mojs) - motion graphics toolbelt for the web
+
+--
+
 * [fragment.js](http://danielrapp.github.com/fragment.js/) - A tiny (625 bytes gzipped) tool for easily loading html fragments and templates.
 
 * [Horwheel](https://github.com/pazguille/horwheel) - Scroll horizontally with mouse wheel
