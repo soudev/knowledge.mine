@@ -487,6 +487,8 @@
 
 ### Dicas
 
+* [[GitHub] loverajoel / jstips](https://github.com/loverajoel/jstips) - This is about one JS tip every day!
+
 * [JS Nice](http://jsnice.org/) - statistical renaming, type inference and deobfuscation
 
 --
