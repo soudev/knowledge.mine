@@ -229,7 +229,11 @@
 
 ## Aprendizado
 
+* [The 37 Best Websites To Learn Something New | Medium by @kristynazdot](https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895e2cb0cad4)
+
 * [700+ Free Stuff on The Internet | Medium by @StartupLLCoolJ](https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66)
+
+--
 
 * [[YouTube] The first 20 hours - how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) - 2013/03/14
 
