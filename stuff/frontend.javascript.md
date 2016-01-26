@@ -2083,3 +2083,5 @@
 * [[YouTube] Netflix JavaScript Talks - Version 7: The Evolution of JavaScript](https://www.youtube.com/watch?v=DqMFX91ToLw)
 
 * [[YouTube] Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://www.youtube.com/watch?v=lil4YCCXRYc) - 2015/06/22
+
+* [2016 - the year of web streams | JakeArchibald.com](https://jakearchibald.com/2016/streams-ftw/) - 2016/01/25
