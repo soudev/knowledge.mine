@@ -305,6 +305,8 @@
 
 * [A sample Docker workflow with Nginx, Node.js and Redis | Anand Mani Sankar](http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/)
 
+* [Waiting for dependencies in Docker Compose | OneGeek](http://www.onegeek.com.au/articles/waiting-for-dependencies-in-docker-compose) - Using Docker Compose to automate your test process is awesome, but waiting for dependent services can result in flakey tests. In this post, I demonstrate the use of Dockerize to simplify this process.
+
 --
 
 * [From Vagrant To Docker | ScaleIt!](http://dahlgren.so/software/2014/05/11/From-Vagrant-To-Docker/) - Speeding up the development cycle
