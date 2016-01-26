@@ -1082,6 +1082,11 @@
   * [Simple Content Management with Node.js and Markdown | Flippin' Awesome](http://flippinawesome.org/2014/05/05/simple-content-management-with-node-js-and-markdown/)
 
 
+* [CMS.js](https://cdmedia.github.io/cms.js/) - Javascript CMS
+
+  * [[GitHub] cdmedia / cms.js](https://github.com/cdmedia/cms.js) - The Javascript Site Generator
+
+
 ### Hardware
 
 * [[GitHub] octalmage / robotjs](https://github.com/octalmage/robotjs) - Node.js Desktop Automation.
