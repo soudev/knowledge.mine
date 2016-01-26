@@ -403,6 +403,8 @@
 
 * [Docker Machine on Windows - How To Setup You Hosts | Enterprise Software Development with Java](http://blog.eisele.net/2015/05/docker-maschine-on-windows-host-setup-howto.html)
 
+* [Running Docker Containers On Windows Server 2016 (Quick Start Guide) | Ashley Poole](http://ashleypoole.co.uk/2016/docker-containers-windows-server-2016-guide/)
+
 --
 
 * [Running .NET apps on Docker | Randoom](http://friism.com/running-net-apps-on-docker)
