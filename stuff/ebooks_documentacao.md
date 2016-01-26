@@ -229,6 +229,8 @@
 
 ## Aprendizado
 
+* [700+ Free Stuff on The Internet | Medium by @StartupLLCoolJ](https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66)
+
 * [[YouTube] The first 20 hours - how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) - 2013/03/14
 
 * [[YouTube] Accelerated Learning: How To Get Good at Anything in 20 Hours](https://www.youtube.com/watch?v=lB6K60mkmho) - 2013/06/26
