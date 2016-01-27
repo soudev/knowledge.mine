@@ -577,6 +577,8 @@
 
 --
 
+* [[GitHub] boblauer / mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
+
 * [[GitHub] moll / node-mitm](https://github.com/moll/node-mitm) - Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing. Intercepts and gives you a Net.Socket, Http.IncomingMessage and Http.ServerResponse to test and respond with. Super useful when testing code that hits remote servers
 
 --
