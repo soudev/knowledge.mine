@@ -102,6 +102,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
   * [Git for Everyone | GitBook](http://anotheruiguy.gitbooks.io/gitforeveryone/) - The Git Workshop Guide
 
+* [Learn Git and GitHub without any code! | GitHub](https://guides.github.com/activities/hello-world/) - Using the Hello World guide, you’ll create a  repository, start a branch, write comments, and open a pull request.
+
 * [Using Git | GitHub:Help](https://help.github.com/categories/19/articles)
 
 * [GitHub Guides](http://guides.github.com/)
