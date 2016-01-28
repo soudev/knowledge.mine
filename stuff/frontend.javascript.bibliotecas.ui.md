@@ -434,6 +434,8 @@
 
 * [ChessBoardJS](http://chessboardjs.com/) is a JavaScript Chess Board Widget
 
+* [[GitHub] ellisonleao / sharer.js](https://github.com/ellisonleao/sharer.js) - Create your own social share buttons
+
 
 ### Gráficos
 
