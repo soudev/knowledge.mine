@@ -23,6 +23,8 @@
 
 * [Os básicos de Python | Cacho.la - Júlia Rizza](http://cacho.la/julia/os-basicos-de-python)
 
+* [Try Phyton | codeschool](https://www.codeschool.com/courses/try-python)
+
 --
 
 * [Por que há tantos Pythons? | toptal](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
