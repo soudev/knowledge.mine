@@ -184,6 +184,8 @@
 
 * [Productivity 101: A Primer to The Pomodoro Technique | Lifehacker](http://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730)
 
+* [Pomodoro: gameficando a vida! | Medium by @nunesf](https://medium.com/@nunesf/pomodoro-gameficando-a-vida-d2040d63169f)
+
 --
 
 * [Tomato Timer](http://tomato-timer.com/)
