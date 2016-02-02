@@ -222,6 +222,8 @@
 
   * [part 1](http://www.datchley.name/getting-functional-with-javascript-part-1/) | [part 2](http://www.datchley.name/getting-functional-with-javascript-part-2/) | [part 3](http://www.datchley.name/getting-functional-with-javascript-part-3/)
 
+* [Functional Refactoring in JavaScript | Medium - Software Craftsman](https://medium.com/software-craftsman/functional-refactoring-in-javascript-c0fe718f4efb) - in too much detail
+
 --
 
 * [Higher-Order Functions | Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
