@@ -583,6 +583,8 @@
 
 * [D3.js Gallery | Christophe Viau](http://christopheviau.com/d3list/gallery.html)
 
+  * [[GitHub] biovisualize / d3visualization](https://github.com/biovisualize/d3visualization) - An alternative gallery for d3.js
+
 --
 
 * [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
