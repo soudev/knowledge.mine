@@ -581,6 +581,10 @@
 
 --
 
+* [D3.js Gallery | Christophe Viau](http://christopheviau.com/d3list/gallery.html)
+
+--
+
 * [Replacing (most of) d3.js with pure SVG + AngularJS | Alexandros Marinos](http://alexandros.resin.io/angular-d3-svg/)
 
 --
