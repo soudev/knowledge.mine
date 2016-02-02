@@ -902,6 +902,10 @@
 
 --
 
+* [Speed up recursive functions with memoization | JSTips](http://www.jstips.co/en/speed-up-recursive-functions-with-memoization/) - 2016/01/29
+
+--
+
 * [NBEAM: How I Wrote an Ultra-Fast DNA Sequence Alignment Algorithm in JavaScript | Medium - Keith Horwood](https://medium.com/@keithwhor/nbeam-how-i-wrote-an-ultra-fast-dna-sequence-alignment-algorithm-in-javascript-c199e936da)
 
   * [[GitHub] keithwhor / NtSeq](https://github.com/keithwhor/NtSeq) - JavaScript (node + browser) bioinformatics library for nucleotide sequence manipulation and analysis.
