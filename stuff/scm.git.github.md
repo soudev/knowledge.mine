@@ -418,6 +418,8 @@ git clean -fd
 
 * [[GitHub] NebuPookins / git-submodule-tutorial](https://github.com/NebuPookins/git-submodule-tutorial) - A tutorial on how to use git submodule to share a model across multiple applications
 
+* [Working with submodules | GitHub Blog](https://github.com/blog/2104-working-with-submodules) - 2016/02/01
+
 --
 
 * [Generate GitHub pages in a submodule](http://blog.blindgaenger.net/generate_github_pages_in_a_submodule.html)
