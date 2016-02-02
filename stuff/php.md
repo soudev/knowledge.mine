@@ -32,4 +32,6 @@
 
 * [Posts sobre Laravel | Fabio Vedovelli](http://www.vedovelli.com.br/tag/laravel/)
 
+* [Por que Laravel? Uma entrevista exclusiva com Vedovelli! | Medium by @andrenba](https://medium.com/@andrenba/por-que-laravel-uma-entrevista-exclusiva-com-vedovelli-b2bf022183dc)
+
 * [[Speaker Deck] 50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes) - 2015/11/19
