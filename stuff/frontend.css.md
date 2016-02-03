@@ -22,6 +22,8 @@
 
     * [posição](http://pt-br.learnlayout.com/position.html)
 
+* [[GitHub] AllThingsSmitty / css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
+
 --
 
 * [dynamically add css rule to the document | JSFiddle](http://fiddle.jshell.net/MDyxg/1/)
