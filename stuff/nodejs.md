@@ -2186,6 +2186,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Sqlectron](https://sqlectron.github.io/) - One single DB client for any relational DB (initial support MySql and PostgreSQL)
 
+* [[GitHub] jiahaog / nativefier](https://github.com/jiahaog/nativefier) - Wrap any web page natively without even thinking, across Windows, OSX and Linux
+
 
 #### Node Webkit
 
