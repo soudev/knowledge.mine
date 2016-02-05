@@ -368,6 +368,8 @@
 
 * [Installing Docker on Mac OS X | Docker](http://docs.docker.io/installation/mac/)
 
+* [[GitHub] nlf / dlite](https://github.com/nlf/dlite) - The simplest way to use Docker on OS X
+
 --
 
 * [A productive development environment with Docker on OS X | @brikis98](http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/) - (2015/05/19) A productive development environment with Docker on OS X
