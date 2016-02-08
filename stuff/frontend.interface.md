@@ -99,6 +99,8 @@
 
   * [Material Design for Bootstrap](http://mdbootstrap.com/) - Powerful and free Material Design UI KIT
 
+  * [Material Design, Daily | MaterialUp](http://www.materialup.com/)
+
 --
 
 * [7 future web design trends | Medium by @jowitaziobro](https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355) - 2015/05/14
