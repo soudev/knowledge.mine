@@ -153,6 +153,8 @@
 
 * [Docker na vida real | InfoQ Br](http://www.infoq.com/br/presentations/docker-na-vida-real) - 2015/10/14
 
+* [Iniciando com o Docker: dicas práticas para começar a usar agora mesmo | Blog do Elasticpush](http://elasticpush.com/blog/iniciando-com-o-docker-dicas-praticas-para-comecar-a-usar-agora-mesmo/) - 2016/02/04
+
 
 ### Dockerfile
 
