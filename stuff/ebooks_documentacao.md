@@ -347,6 +347,8 @@
 
 * [Como melhorar o listening? A dica que você nunca ouviu... | Tecla SAP :: Dicas de Inglês](http://www.teclasap.com.br/como-melhorar-o-listening-a-dica-que-voce-nunca-ouviu/) - Defina expectativas reais antes de tentar melhorar o listening. Lembre-se de que o inglês é idioma falado em muitos países e com muitos sotaques diferentes
 
+* [Tips to Improve Spoken English | Medium by @saileekale3](https://medium.com/@saileekale3/tips-to-improve-spoken-english-ce0b685e64d8) - 2015/05/07
+
 * [An Introduction to the IPA | English Teacher Melanie](http://www.englishteachermelanie.com/an-introduction-to-the-ipa/)
 
 
