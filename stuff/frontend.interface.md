@@ -75,6 +75,10 @@
 
 ### Design
 
+* [75+ Awesome Tools for Designers | Medium by @ConnectBasket](https://medium.com/@ConnectBasket/75-awesome-tools-for-designers-d136d11de436)
+
+--
+
 * [Call to Idea - Get inspired!](http://calltoidea.com/)
 
 --
