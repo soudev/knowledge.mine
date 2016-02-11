@@ -550,6 +550,8 @@
 
 * [Node with Docker - continuous integration and delivery | Michael Herman](http://mherman.org/blog/2015/03/06/node-with-docker-continuous-integration-and-delivery/)
 
+* [Minimal Docker Containers for Node.js | @RisingStack](https://blog.risingstack.com/minimal-docker-containers-for-node-js/) - 2016/02/10
+
 
 ### Oracle
 
