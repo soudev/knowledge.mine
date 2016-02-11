@@ -450,6 +450,8 @@
 
 --
 
+* [[GitHub] typicode / hotel](https://github.com/typicode/hotel) - Removes the need to keep terminal tabs. Access and start your local servers from the browsers.
+
 * [[GitHub] jh3y / sike](https://github.com/jh3y/sike) - a cli tool that reminds you to get up and move around
 
 * [[GitHub] rschmukler / agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling for node
