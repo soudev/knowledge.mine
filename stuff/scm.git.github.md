@@ -372,6 +372,10 @@ git clean -fd
 
 ### SVN para GIT
 
+* [Migrate your code with the GitHub Importer | GitHub Blog](https://github.com/blog/2110-migrate-your-code-with-the-github-importer) - 2016/02/11
+
+--
+
 * [Mudando do Subversion para o Git: antes tarde do que nunca | Pseudo-blog](http://luthiano.com/2012/11/12/mudando-do-subversion-para-o-git-antes-tarde-do-que-nunca/)
 
 * [conversão do svn | git ready](http://pt-br.gitready.com/iniciante/2009/02/04/converting-from-svn.html)
