@@ -493,6 +493,8 @@
 
   * [[GitHub] rancherio / rancher](https://github.com/rancherio/rancher) - A Platform for Operating Docker in Production
 
+  * [Conheça o Rancher, um painel para Docker | iMasters](http://imasters.com.br/desenvolvimento/conheca-o-rancher-um-painel-para-docker/) - 2016/01/20
+
 --
 
 * [[GitHub] phusion / baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
