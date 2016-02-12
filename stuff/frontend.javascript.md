@@ -1666,6 +1666,8 @@
 
 * [[GitHub] andersonweb / DevTools-Learning](https://github.com/andersonweb/DevTools-Learning) - List of resources to learn Chrome DevTools
 
+* [Down and Dirty with Chrome Developer Tools | Bret Little](https://blittle.github.io/chrome-dev-tools/)
+
 --
 
 * [Segredos do Chrome DevTools (Portuguese) | YouTube](https://www.youtube.com/playlist?list=PLOU2XLYxmsILUKyjDYUVYLeq7yyTxM_3d) - Zeno Roch
