@@ -8,6 +8,10 @@
 
 * [Vim para Noobs | William Oliveira](http://woliveiras.com.br/vim-para-noobs/livro/)
 
+--
+
+* [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/)
+
 
 ## Desenvolvimento
 
