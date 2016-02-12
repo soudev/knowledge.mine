@@ -353,6 +353,12 @@
 
 * [Docker + NodeJS Dev Environment: Take 2 - Container Linking | sqldump](http://blog.abhinav.ca/blog/2014/07/25/docker-nodejs-dev-environment-take-2/)
 
+* Link entre containers | iMasters
+
+  * [parte 01](http://imasters.com.br/tecnologia/redes-e-servidores/link-entre-containers-parte-01/) - 2015/11/23
+
+  * [parte 02](http://imasters.com.br/tecnologia/redes-e-servidores/link-entre-containers-parte-02/) - 2015/12/02
+
 --
 
 * [Docker and MongoDB Sharded Cluster | Sebastian Voss](http://sebastianvoss.com/docker-mongodb-sharded-cluster.html)
