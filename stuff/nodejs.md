@@ -956,6 +956,10 @@
 
 --
 
+* [[GitHub] keithwhor / nodal](https://github.com/keithwhor/nodal/) - Web Servers Made Easy With Node.js
+
+  * [Nodal – GraphQL Playground](http://graphql.nodaljs.com/)
+
 * [[GitHub] evantahler / actionhero](https://github.com/evantahler/actionhero) - is a multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
 
 --
