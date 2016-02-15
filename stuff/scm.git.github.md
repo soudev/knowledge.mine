@@ -252,6 +252,10 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 ## Dicas
 
+* [GitLogs Search](http://www.gitlogs.com/) - A better interface for Github's search API
+
+--
+
 > **Commit de um diretório vazio**
 >
 > Dentro do respectivo diretório crie o arquivo **\*.gitkeep**
