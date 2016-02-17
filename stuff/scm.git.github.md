@@ -573,6 +573,8 @@ git clean -fd
 
 * [How We Organize GitHub Issues - A Styleguide For Tagging | Robin at Work](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
+* [Issue and Pull Request templates | GitHub Blog](https://github.com/blog/2111-issue-and-pull-request-templates) - 2016/02/17
+
 --
 
 * [[Gist] How to show migration guides in GitHub Markdown](https://gist.github.com/staltz/728a18877948f059d570)
