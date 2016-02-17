@@ -509,7 +509,9 @@
 
 --
 
-* [[GitHub] shakyShane / browser-sync](https://github.com/shakyShane/browser-sync) - Keep multiple browsers & devices in sync when building websites
+* [[GitHub] BrowserSync / browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites
+
+  * [[GitHub] BrowserSync / recipes](https://github.com/BrowserSync/recipes)
 
   * [A BrowserSync Primer | Pony Foo](http://blog.ponyfoo.com/2014/08/12/a-browsersync-primer)
 
