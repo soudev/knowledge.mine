@@ -167,6 +167,14 @@
 
 --
 
+* Microservices
+
+  * [Microservices | martinfowler.com](http://martinfowler.com/articles/microservices.html) - An in-depth description of the microservice style of architecture. Applications designed as suites of independently deployable services, governed in a decentralized manner.
+
+  * [[YouTube] Microservices • Martin Fowler - GOTO Conferences](https://www.youtube.com/watch?v=wgdBVIX9ifA) - 2015/01/15
+
+--
+
 * FDA - Front-end Driven Applications
 
   * [Front-end Driven Applications – A New Approach to Applications | Telerik Developer Network](http://developer.telerik.com/featured/front-end-driven-applications-new-approach-applications/) - 2014/09/30
