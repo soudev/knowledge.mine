@@ -2262,17 +2262,13 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] jaruba / PowderPlayer](https://github.com/jaruba/PowderPlayer/) - Hybrid between a Torrent Client and a Player (torrent streaming)
 
-* [Popcorn Time](https://popcorntime.io/)
+* [Popcorn Time](https://popcorntime.sh/)
 
   * [[twitter] Popcorn Time App](https://twitter.com/popcorntimetv)
 
   * [[GitHub] popcorn-official](https://github.com/popcorn-official)
 
     * Repository unavailable due to DMCA takedown :: [[GitHub] popcorn-official / popcorn-app](https://github.com/popcorn-official/popcorn-app) - An experiment using the peerflix module of nodejs and connecting a bunch of APIs.
-
-  * [git.popcorntime.io](https://git.popcorntime.io/)
-
-    * [Popcorn App | git.popcorntime.io](https://git.popcorntime.io/stash/projects/PT/repos/popcorn-app/browse)
 
 * [Time 4 Popcorn](http://www.time4popcorn.com/)
 
