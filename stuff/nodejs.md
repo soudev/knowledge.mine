@@ -1566,6 +1566,8 @@
 
 --
 
+* [[GitHub] ruyadorno / ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The missing cli interactive workflow
+
 * [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
 
 * [[GitHub] tj / commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
