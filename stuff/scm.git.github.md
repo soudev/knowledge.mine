@@ -575,6 +575,8 @@ git clean -fd
 
 * [Issue and Pull Request templates | GitHub Blog](https://github.com/blog/2111-issue-and-pull-request-templates) - 2016/02/17
 
+  * [[GitHub] devspace / awesome-github-templates](https://github.com/devspace/awesome-github-templates) - Curated list of GitHub Issues and Pull Requests templates
+
 --
 
 * [[Gist] How to show migration guides in GitHub Markdown](https://gist.github.com/staltz/728a18877948f059d570)
