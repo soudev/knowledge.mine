@@ -1894,6 +1894,8 @@
 
   * [Querying for data in a full Javascript stack | 100PercentJS](http://www.100percentjs.com/querying-data-full-javascript-stack-2/)
 
+* [HospitalRun](http://hospitalrun.io/) - Open source software for developing world hospitals. (Uses ember on UI)
+
 --
 
 * [Knockout.js](http://knockoutjs.com/)
