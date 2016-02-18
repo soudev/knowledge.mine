@@ -1920,6 +1920,10 @@
 
   * [[GitHub] yyx990803 / vue](https://github.com/yyx990803/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 
+  * [[GitHub] vuejs / awesome-vue](https://github.com/vuejs/awesome-vue) - A curated list of awesome things related to Vue.js
+
+  * [Vue MDL](http://posva.net/vue-mdl/)
+
   * [Vue.js: data-binding e components | Fabio Vedovelli](http://www.vedovelli.com.br/web-development/vue-js-data-binding-e-componentes/)
 
 
