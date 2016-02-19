@@ -123,6 +123,10 @@
 
 ### Angular.js 2.0
 
+* [[GitHub] AngularClass / awesome-angular2](https://github.com/AngularClass/awesome-angular2) - A curated list of awesome Angular 2 resources by @AngularClass
+
+--
+
 * [AngularJS 2.0 Status and Preview | ng-learn](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
 
 * [The Future of AngularJS | O'Reilly Radar](http://radar.oreilly.com/2014/09/the-future-of-angularjs.html) - Charting the progress towards AngularJS 2.0
@@ -701,6 +705,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 
 ## Dicas
+
+* [Essential Tools for Building SPAs with AngularJS | Telerik Blog](http://www.telerik.com/blogs/angularjs-developer-tools-list) - 2016/02/17
 
 * [10 Essential AngularJS Interview Questions | Toptal](http://www.toptal.com/angular-js/interview-questions)
 
