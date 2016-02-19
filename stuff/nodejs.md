@@ -2055,6 +2055,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [Dockerizing a Node.js Web Application | Semaphore](https://semaphoreci.com/community/tutorials/dockerizing-a-node-js-web-application)
+
 * [How to create a Docker + Node.js + MongoDB + Varnish environment | Luis Elizondo](http://luiselizondo.net/blogs/luis-elizondo/how-create-docker-nodejs-mongodb-varnish-environment)
 
 * [Getting Started with Docker for the Node.js | CouchDB Programmer - Medium](https://medium.com/code-adventures/35c45ce2a814)
