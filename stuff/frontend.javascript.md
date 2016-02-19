@@ -1980,6 +1980,12 @@
 
 --
 
+* [es6 cheatsheet | Duckduckgo](https://duckduckgo.com/?q=es6+cheatsheet&ia=answer&iax=1)
+
+* [[GitHub] DrkSephy / es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
+
+--
+
 * [[GitHub] airbnb / javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide (ES6)
 
 --
