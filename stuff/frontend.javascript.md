@@ -778,6 +778,10 @@
 
 * [[GitHub] felipernb / algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 
+--
+
+* [Sending Emails with the Gmail JavaScript API | SitePoint](http://www.sitepoint.com/sending-emails-gmail-javascript-api/) - 2016/02/15
+
 
 ### Expressões Regulares
 
