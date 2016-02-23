@@ -196,6 +196,10 @@
 
 * [Tipos de Ações | Como Investir](http://www.comoinvestir.com.br/acoes/guia-de-acoes/tipos-de-acoes/paginas/default.aspx)
 
+--
+
+* [Como Investir na Bolsa de Valores Com Pouco Dinheiro | GuiaInvest](http://blog.guiainvest.com.br/acoes/como-investir-na-bolsa-de-valores-com-pouco-dinheiro/) - 2016/02/22
+
 
 #### Dividendos
 
