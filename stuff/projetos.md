@@ -268,6 +268,10 @@
 
   * Game visto na reportagem: [Wannadoo | Opushere](http://opusphere.com/wannadoo/)
 
+--
+
+* [Habitica](https://habitica.com/) - Your Life the Role Playing Game
+
 
 ## ALM
 
