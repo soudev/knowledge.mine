@@ -557,6 +557,8 @@
 
 * [CamanJS - JavaScript Image Manipulation](http://camanjs.com/)
 
+* [[GitHug] raphamorim / origami.js](https://github.com/raphamorim/origami.js) - HTML5 Canvas for Humans
+
 --
 
 * [Drawingboard.js](http://leimi.github.io/drawingboard.js/) - a simple canvas based drawing app that you can integrate easily on your website.
