@@ -816,6 +816,12 @@
 
 --
 
+* [[GitHub] bookiza / bookiza](https://github.com/bookiza/bookiza) - The book baking tool
+
+  * [Official handbook](https://bubbl.in/book/official-handbook-by-marvin-danig/)
+
+--
+
 * [GitBook](https://www.gitbook.io/) - Modern Publishing, Simply taking your books from ideas to finished, polished books.
 
   * [[GitHub] GitbookIO / gitbook](https://github.com/GitbookIO/gitbook) - Utility for generating books and exercises using GitHub/Git and Markdown
