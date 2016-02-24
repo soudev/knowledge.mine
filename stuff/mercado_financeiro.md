@@ -34,6 +34,10 @@
 
 * [Só controlar os gastos não basta! | Minhas Economias](http://www.minhaseconomias.com.br/blog/dicas-uso/controlar-os-gastos-nao-basta)
 
+--
+
+* [12 ideias para aumentar as chances de seu filho ter um futuro acima da média | Blog Geração de Valor](http://geracaodevalor.com/blog/12-ideias-para-aumentar-as-chances-de-seu-filho-ter-um-futuro-acima-da-media/)
+
 * [20 dicas para ensinar crianças e adolescentes a lidar com dinheiro | Economia - UOL](http://economia.uol.com.br/financas-pessoais/noticias/redacao/2014/08/30/17-dicas-para-ensinar-criancas-a-lidar-com-dinheiro.htm)
 
 --
