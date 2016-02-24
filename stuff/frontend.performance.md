@@ -40,6 +40,8 @@
 
 --
 
+* [12 Steps to a Faster Web App | Auth0](https://auth0.com/blog/2016/02/22/12-steps-to-a-faster-web-app/) - 2016/02/22
+
 * [5 Ways to Make Your Site Smaller and Faster | DWB](http://davidwalsh.name/site-speed) - 2015/02/08
 
 * [9 ways to optimize your front end performance | Tech.Pro](http://tech.pro/tutorial/1254/9-ways-to-optimize-your-front-end-performance)
