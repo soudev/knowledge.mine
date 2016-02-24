@@ -1530,6 +1530,8 @@
 
 * [[GitHub] typicode / shoutjs](https://github.com/typicode/shoutjs) - Make your ShellJS commands explicit and get a beautiful output
 
+* [[GitHub] dthree / cash](https://github.com/dthree/cash) - Cross-platform Linux without the suck
+
 --
 
 * [[GitHub] Cron for NodeJS](https://github.com/ncb000gt/node-cron)
