@@ -272,6 +272,8 @@
 
 * [Habitica](https://habitica.com/) - Your Life the Role Playing Game
 
+  * [Dica do dia - Habitica | Desenvolvedores de Jogos Independentes](http://blog.desenvolvedoresjogosindie.com.br/dica-do-dia-habitica/)
+
 
 ## ALM
 
