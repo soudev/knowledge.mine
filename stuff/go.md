@@ -10,9 +10,13 @@
 
 * [GoDoc](https://godoc.org/) - hosts documentation for Go packages on Bitbucket, GitHub, Google Project Hosting and Launchpad.
 
+* [[GitHub] avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+
+
 ## Use Cases
 
 * [How We Built Uber Engineering’s Highest Query per Second Service Using Go | Uber Engineering Blog](https://eng.uber.com/go-geofence/)
+
 
 ## Cool projects
 
