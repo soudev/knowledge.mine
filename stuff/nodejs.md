@@ -416,6 +416,8 @@
 
 * [[GitHub] yaronn / blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal dashboards using ascii/ansi art and javascript
 
+* [[GitHub] felipenmoura / sos-stackoverflow-search](https://github.com/felipenmoura/sos-stackoverflow-search) - SOS - StackOverflow Search in your terminal
+
 --
 
 * [PhantomJS Screen Capture](http://phantomjs.org/screen-capture.html)
