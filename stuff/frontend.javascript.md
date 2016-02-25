@@ -983,6 +983,10 @@
 
   * [[GitHub] christianalfoni / webpack-express-boilerplate](https://github.com/christianalfoni/webpack-express-boilerplate) - A boilerplate for running a Webpack workflow in Node express
 
+* [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233)
+
+  * [[GitHub] ModusCreateOrg / budgeting-sample-app-webpack2](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - Budgeting - React + Redux + Webpack 2 (tree shaking) Sample App
+
 --
 
 * [Browserify VS Webpack - JS Drama | Naman Goel](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
