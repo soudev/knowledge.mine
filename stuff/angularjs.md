@@ -217,6 +217,10 @@
 
   * [Model pattern for Angular JS | Medium - @tomastrajan](https://medium.com/@tomastrajan/model-pattern-for-angular-js-67494389d6f) - An in-depth guide to different types of reusable models for your Angular JS application
 
+  * [From Angular ES5 Directive To Angular ES2015 Component (ES6) | Oren Farhi](http://orizens.com/wp/topics/from-angular-es5-directive-to-angular-es2015-component/) - 2016/01/01
+
+  * [Setup Karma For Testing Angular 1.x Components With ES2015 & Browserify | Oren Farhi](http://orizens.com/wp/topics/setup-karma-for-testing-angular-1-x-components-with-es2015-browserify/) - 2016/01/08
+
 * [[GitHub] angular-class / NG6-starter](https://github.com/angular-class/NG6-starter) - Starter for Angular + ES6 + (Webpack or JSPM)
 
 * [[GitHub] sitepoint-editors / Angular-ES6-BookShelf-Modules](https://github.com/sitepoint-editors/Angular-ES6-BookShelf-Modules)
