@@ -1410,6 +1410,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [How The $destroy Event Affects The Scope Tree In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2883-how-the-destroy-event-affects-the-scope-tree-in-angularjs.htm) - 2015/08/05
 
+* [How to create giant memory leaks in Angular](http://makandracards.com/makandra/31289-how-to-create-giant-memory-leaks-in-angularjs) - 2016/02/29
+
 --
 
 * [AngularJS: "Controller as" or "$scope"? | Code Tunnel](http://codetunnel.com/angularjs-controller-as-or-scope/)
