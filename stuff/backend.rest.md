@@ -357,6 +357,8 @@
 
 * [Postman - REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm)
 
+  * [API Building and Testing Made Easier with Postman | SitePoint](http://www.sitepoint.com/api-building-and-testing-made-easier-with-postman/) - 2016/02/26
+
 * [Advanced REST client](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo)
 
 * [REST Console](https://chrome.google.com/webstore/detail/rest-console/cokgbflfommojglbmbpenpphppikmonn)
