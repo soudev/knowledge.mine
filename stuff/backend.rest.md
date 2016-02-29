@@ -330,6 +330,10 @@
 
 * [API REST com Laravel | Fabio Vedovelli](http://www.vedovelli.com.br/web-development/api-rest-com-laravel/)
 
+--
+
+* [How to Consume Laravel API with AngularJS | SitePoint](http://www.sitepoint.com/how-to-consume-laravel-api-with-angularjs/) - 2016/02/19
+
 
 ### Node.js
 

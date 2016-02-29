@@ -607,6 +607,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[YouTube Playlist] AngularJS para Zumbis](https://www.youtube.com/playlist?list=PLr6R3Zglau2nXmZHkcl-0pcU1XChEFzZM) - Matheus Lima
 
+* [How to Consume Laravel API with AngularJS | SitePoint](http://www.sitepoint.com/how-to-consume-laravel-api-with-angularjs/) - 2016/02/19
+
 
 ### ng-newsletter: AngularJS from beginner to expert in 7 steps series
 
