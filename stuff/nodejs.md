@@ -376,6 +376,10 @@
 
 --
 
+* [[GitHub] sqren / fb-sleep-stats](https://github.com/sqren/fb-sleep-stats) - Use Facebook to track your friends’ sleeping habits
+
+--
+
 * [VNC client on 200 lines of JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/08/30/vnc-javascript-nodejs/)
 
 --
