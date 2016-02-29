@@ -1449,6 +1449,8 @@
 
   * [Jade Syntax Documentation by example](http://naltatis.github.io/jade-syntax-docs/)
 
+  * [A Jade Tutorial for Beginners | SitePoint](http://www.sitepoint.com/jade-tutorial-for-beginners/) - 2016/02/17
+
 
 ### Streams
 
