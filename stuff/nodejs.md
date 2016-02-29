@@ -547,6 +547,12 @@
 
 --
 
+* [[GitHub] johntitus / node-horseman](https://github.com/johntitus/node-horseman) - Run PhantomJS from Node
+
+  * [Web Crawling with Node, PhantomJS and Horseman | SitePoint](http://www.sitepoint.com/web-crawling-node-phantomjs-horseman/) - 2016/02/22
+
+--
+
 * [[GitHub] MatthewMueller / cheerio](https://github.com/MatthewMueller/cheerio)
 
   * [Web Scraping With Node.js | Smashing Magazine](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - 2015/04/08
