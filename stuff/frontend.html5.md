@@ -669,6 +669,8 @@
 
   * [[GitHub] MrRio / jsPDF](https://github.com/MrRio/jsPDF) - Generate PDF files in JavaScript. HTML5 FTW : [gh-page](https://mrrio.github.io/jsPDF/)
 
+  * [Generating PDFs from Web Pages on the Fly with jsPDF | SitePoint]() - 2016/02/16
+
 * [PDF.js](https://mozilla.github.io/pdf.js/) - A general-purpose, web standards-based platform for parsing and rendering PDFs.
 
   * [How fast is PDF.js? | Mozilla Hacks](https://hacks.mozilla.org/2014/05/how-fast-is-pdf-js/)
