@@ -1398,6 +1398,10 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [Mastering $watch in AngularJS | SitePoint](http://www.sitepoint.com/mastering-watch-angularjs/) - 2016/02/23
+
+--
+
 * [AngularJS: Listening for $destroy | Ode to Code](http://odetocode.com/blogs/scott/archive/2013/07/16/angularjs-listening-for-destroy.aspx) - 2013/07/16
 
 * [Don't Forget To Cancel $timeout Timers In Your $destroy Events In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2548-don-t-forget-to-cancel-timeout-timers-in-your-destroy-events-in-angularjs.htm) - 2013/10/25
