@@ -569,6 +569,8 @@ git clean -fd
 
 ### Dicas: GitHub
 
+* [[GitHub] dbader / readme-template](https://github.com/dbader/readme-template) - README.md template for your open-source project
+
 * [[GitHub] gist-run / gist-run](https://github.com/gist-run/gist-run) - Bring your Gists to life with [GistRun](https://gist.run/)
 
 --
