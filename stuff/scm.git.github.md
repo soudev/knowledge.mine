@@ -569,6 +569,10 @@ git clean -fd
 
 ### Dicas: GitHub
 
+* [[GitHub] gist-run / gist-run](https://github.com/gist-run/gist-run) - Bring your Gists to life with [GistRun](https://gist.run/)
+
+--
+
 * [Automated Deployments with GitHub Webhooks | Toptal](http://www.toptal.com/devops/deploy-web-applications-automatically-using-github-webhooks)
 
 * [How We Organize GitHub Issues - A Styleguide For Tagging | Robin at Work](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
