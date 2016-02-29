@@ -340,6 +340,8 @@
 
 --
 
+* [7 Simple Speed Solutions for MongoDB | SitePoint](http://www.sitepoint.com/7-simple-speed-solutions-mongodb/) - 2016/02/17
+
 * [10 tips to improve your MongoDB security | MongoDirector](http://blog.mongodirector.com/10-tips-to-improve-your-mongodb-security/)
 
 --
