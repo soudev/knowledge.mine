@@ -131,6 +131,8 @@
 
 * [130+ essential vim commands | CatsWhoCode](http://www.catswhocode.com/blog/130-essential-vim-commands)
 
+* [Using Vim as a JavaScript IDE | DotNetSurfers](http://www.dotnetsurfers.com/blog/2016/02/08/using-vim-as-a-javascript-ide/) - 2016/02/08
+
 
 ### Brackets
 
