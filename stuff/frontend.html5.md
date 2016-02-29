@@ -1036,6 +1036,10 @@
 
 --
 
+* [[GitHub] appium / appium](https://github.com/appium/appium) - Automation tests for iOS and Android Apps
+
+--
+
 * [Screensiz.es](http://screensiz.es/phone) is a nifty little database of screen specifications for the most popular devices on the market.
 
 * [List of displays by pixel density | Wikipedia](https://en.wikipedia.org/wiki/List_of_displays_by_pixel_density)
