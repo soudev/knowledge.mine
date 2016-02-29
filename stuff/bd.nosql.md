@@ -371,6 +371,8 @@
 
 * [Robomongo](http://www.robomongo.org/) - Shell-centric cross-platform MongoDB management tool
 
+* [[GitHub] officert / mongotron](https://github.com/officert/mongotron) - Cross platform Mongo DB management
+
 
 #### Palestras
 
