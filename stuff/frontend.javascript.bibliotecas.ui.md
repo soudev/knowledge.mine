@@ -209,7 +209,11 @@
 
   * [React.parts](http://react.parts/)  - A catalog of React Native components
 
+--
+
 * [[GitHub] enaqx / awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome React libraries, resources and shiny things
+
+* [[GitHub] petehunt / react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
 
 --
 
