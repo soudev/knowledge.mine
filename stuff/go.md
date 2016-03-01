@@ -25,3 +25,8 @@
   * [Introducing Apex | Medium by @tjholowaychuk](https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70) - Serverless architecture with AWS Lambda
 
 * [[GitHub] hashicorp / terraform](https://github.com/hashicorp/terraform) - Terraform is a tool for building, changing, and combining infrastructure safely and efficiently
+
+
+## Docker
+
+* [Servidor echo simples escrito em Go, dockerizado! | iMaster](http://imasters.com.br/linguagens/servidor-echo-simples-escrito-em-go-dockerizado/) - 2016/02/26
