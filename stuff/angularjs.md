@@ -1447,6 +1447,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [[GitHub] auth0 / auth0-angular](https://github.com/auth0/auth0-angular) - This AngularJS module will help you implement client-side and server-side (API) authentication. You can use it together with [Auth0](https://auth0.com/) to add username/password authentication, support for enterprise identity like Active Directory or SAML and also for social identities like Google, Facebook or Salesforce among others to your web, API and mobile native apps.
 
+* [[GitHub] jackrabbitsgroup / angular-facebook-auth](https://github.com/jackrabbitsgroup/angular-facebook-auth) - AngularJS Facebook Login service
+
 --
 
 * jwt
