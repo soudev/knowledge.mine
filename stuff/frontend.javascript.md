@@ -74,6 +74,10 @@
 
 --
 
+* [[YouTube] Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+--
+
 * [JavaScript.com](https://www.javascript.com/) - Learn JavaScript and stay connected with the latest news created and curated by the JavaScript community.
 
 --
