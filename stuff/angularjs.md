@@ -237,6 +237,8 @@
 
 * [[GitHub] alexhawkins / angular2-tuber](https://github.com/alexhawkins/angular2-tuber) - A YouTube Search Engine built with Angular2
 
+* [[GitHub] thoughtram / angular2-change-detection-demos](https://github.com/thoughtram/angular2-change-detection-demos) - Demos of our "Angular 2 Change Detection Explained" [talk](http://pascalprecht.github.io/slides/angular-2-change-detection-explained/)
+
 * [[GitHub] angular-class / angular2-webpack-starter](https://github.com/angular-class/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services), TypeScript, and Webpack by AngularClass
 
 * [[GitHub] rogerpadilla / angular2-minimalist-starter](https://github.com/rogerpadilla/angular2-minimalist-starter) - Angular2 Minimalist Starter
