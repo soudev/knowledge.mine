@@ -1719,6 +1719,8 @@
 
 * [Canvas Inspection using Chrome DevTools - HTML5 Rocks](http://www.html5rocks.com/en/tutorials/canvas/inspection/)
 
+* [Evaluate and validate XPath/CSS selectors in Chrome Developer Tools | Yi Zeng](http://yizeng.me/2014/03/23/evaluate-and-validate-xpath-css-selectors-in-chrome-developer-tools/) - 2014/03/23
+
 --
 
 * [Pesticide](http://pesticide.io/) - Kill Your Css Layout Bugs
