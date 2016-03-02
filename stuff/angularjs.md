@@ -227,6 +227,8 @@
 
 --
 
+* [[GitHub] angular / angular2-seed](https://github.com/angular/angular2-seed)
+
 * [[GitHub] rafaelfragosom / angular2-typescript](https://github.com/rafaelfragosom/angular2-typescript) - Angular 2 and TypeScript Initial Project
 
 * [[GitHub] johnpapa / angular2quickstart](https://github.com/johnpapa/angular2quickstart)
