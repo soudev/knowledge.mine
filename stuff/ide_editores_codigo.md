@@ -192,6 +192,10 @@
 
 --
 
+* [[package] graphviz-preview](https://atom.io/packages/graphviz-preview) - Graphviz Preview renders DOT language editor buffers into DOT graphs the same way Graphviz would.
+
+--
+
 * [AtomPair, The Ultimate Pair Programming Experience for Atom.IO | Pusher Blog](https://blog.pusher.com/atom-pair/)
 
 --
