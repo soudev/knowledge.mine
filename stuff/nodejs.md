@@ -996,6 +996,8 @@
 
   * [hapi – Building apps and services in Node.js | Frederic Hemberger](https://frederic-hemberger.de/talks/hapi/)
 
+  * [Introduction to Node Servers with Hapi.js - Course by @mikefrey | egghead.io](https://egghead.io/series/introduction-to-node-servers-with-hapi-js)
+
 --
 
 * [Express.js](http://expressjs.com/)
