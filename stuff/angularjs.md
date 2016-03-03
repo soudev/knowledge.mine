@@ -187,6 +187,10 @@
 
 --
 
+* [Angular 2 — Unit Testing recipes — Google Developer Experts | Medium](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584)
+
+--
+
 * TypeScript
 
   * [Writing Angular 2 in TypeScript | Victor Savkin](http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)
