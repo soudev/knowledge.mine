@@ -221,6 +221,8 @@
 
 --
 
+* [Learn React](http://learnreact.com/)
+
 * [React in 7 Minutes - React Video Tutorial #free | @eggheadio](https://egghead.io/lessons/react-react-in-7-minutes)
 
 * [ReactJS For Stupid People | Andrew Ray's Blog](http://blog.andrewray.me/reactjs-for-stupid-people/)
