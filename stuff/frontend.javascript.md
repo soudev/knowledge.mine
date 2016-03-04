@@ -234,6 +234,8 @@
 
 * [Functional and Object Oriented Programming with Higher Order Functions | Zsolt Nagy](http://www.zsoltnagy.eu/functional-and-object-oriented-programming-with-higher-order-functions/)
 
+* [Entendendo Programação Funcional em JavaScript de uma vez | Medium - by @matheusml](https://medium.com/@matheusml/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b)
+
 --
 
 * Functional JavaScript | Tech Pro
