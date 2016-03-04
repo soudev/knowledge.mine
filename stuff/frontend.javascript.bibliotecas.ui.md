@@ -271,6 +271,8 @@
 
 --
 
+* [[GitHub] richardkall / react-starter](https://github.com/richardkall/react-starter) - Boilerplate for universal React applications
+
 * [[GitHub] este / este](https://github.com/este/este) - The best dev stack and starter kit for React universal web/mobile apps.
 
 --
