@@ -46,6 +46,10 @@
 
 --
 
+* [AppCleaner | freemacsoft](http://freemacsoft.net/appcleaner/) - is a small application which allows you to thoroughly uninstall unwanted apps.
+
+--
+
 * Move windows
 
   * [Moom](http://manytricks.com/moom/) - Do you spend a lot of time moving and zooming windows, so you can better see and work with all the content on your Mac? Instead of doing that work yourself, let Moom handle the task for you. - U$ 10
