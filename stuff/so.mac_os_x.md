@@ -126,6 +126,10 @@
 
 ## dotFiles
 
+* [[GitHub] webpro / awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+
+--
+
 * [dotfiles.github.io](http://dotfiles.github.io/)
 
 * [[GitHub] mathiasbynens / dotfiles](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
