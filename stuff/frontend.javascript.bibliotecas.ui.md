@@ -227,6 +227,8 @@
 
 * [ReactJS For Stupid People | Andrew Ray's Blog](http://blog.andrewray.me/reactjs-for-stupid-people/)
 
+* [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals) - If you're new to React.js, there's no better place to learn React.js and the React ecosystem than with this React.js fundamentals course
+
 --
 
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
