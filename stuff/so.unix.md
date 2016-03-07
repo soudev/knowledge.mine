@@ -1,6 +1,11 @@
 # sh
 Shell scripts and tools.
 
+--
+
+* [[GitHub] alebcay / awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+
+
 ## man pages
 ```
   1   User Commands
