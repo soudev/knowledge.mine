@@ -651,6 +651,8 @@
 
 * [[GitHub] rrrene / inchjs](https://github.com/rrrene/inchjs) - A documentation tool for JavaScript/NodeJS
 
+* [[GitHub] yui / yuidoc](https://github.com/yui/yuidoc) - YUI Javascript Documentation Tool
+
 
 #### Performance, Proteção e Otimização
 
