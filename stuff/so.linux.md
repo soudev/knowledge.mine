@@ -12,6 +12,8 @@
 
 * [An A-Z Index of the Bash command line for Linux](http://ss64.com/bash/)
 
+* [[GitHub] awesome-lists / awesome-bash](https://github.com/awesome-lists/awesome-bash) - A curated list of delightful Bash scripts and resources.
+
 
 ## Desenvolvimento
 
