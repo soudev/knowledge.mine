@@ -231,6 +231,8 @@
 
 * [Como ter sucesso executando o Docker em produção | InfoQ Br](http://www.infoq.com/br/news/2015/12/docker-producao) - 2015/12/09
 
+* [Deploy ágil com Docker | iMasters](http://imasters.com.br/desenvolvimento/deploy-agil-com-docker/) - 2016/03/07
+
 --
 
 * [Introducing Trusted Builds | Docker Blog](http://blog.docker.io/2013/11/introducing-trusted-builds/)
