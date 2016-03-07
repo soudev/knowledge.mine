@@ -251,6 +251,8 @@
 
 * [[GitHub] johnlindquist / ng-hackathon-starter](https://github.com/johnlindquist/ng-hackathon-starter) - An Angular 2 starter project for the ng-hackathon [SystemJS, TypeScript, Angular 2]
 
+* [[GitHub] amcdnl / angular2-demo](https://github.com/amcdnl/angular2-demo) - Angular2 + SASS + TypeScript + SystemJS + NPM Builds
+
 
 ### Estatísticas
 
