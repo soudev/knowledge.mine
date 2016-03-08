@@ -497,6 +497,12 @@
 
 ### Dicas
 
+* [Learning to Use Google Analytics More Effectively at CodePen | CSS-Tricks](https://css-tricks.com/learning-use-google-analytics-effectively-codepen/)
+
+* [[YouTube] CSS-Tricks Screencast #146: Getting More from Analytics](https://www.youtube.com/watch?v=jSHqlFkJiBI) - 2016/03/07
+
+--
+
 * [[GitHub] loverajoel / jstips](https://github.com/loverajoel/jstips) - This is about one JS tip every day!
 
 * [JS Nice](http://jsnice.org/) - statistical renaming, type inference and deobfuscation
