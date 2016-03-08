@@ -181,6 +181,12 @@
 
 --
 
+* [[YouTube] Don't Create Objects That End With -ER](https://www.youtube.com/watch?v=WpP4rIhh5e4) - 2015/08/05
+
+  * [Don't Create Objects That End With -ER | yegor256](http://www.yegor256.com/2015/03/09/objects-end-with-er.html) - 2015/03/09
+
+--
+
 * [Multi Sensory Application](https://multisensory.github.io/) - Principles of Multi-Sensory Applications. Your CRUDy Software Needs a New Brain.
 
 
