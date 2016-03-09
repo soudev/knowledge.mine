@@ -321,6 +321,8 @@
 
 * [Creating a Docker Container to run PHP, NGINX and Hip Hop VM (HHVM) | SEED Official Blog](http://blog.seedtech.io/post/91801062414/creating-a-docker-container-to-run-php-nginx-and-hip)
 
+* [Criando um Lamp com seu Docker | iMasters](http://imasters.com.br/desenvolvimento/criando-um-lamp-com-seu-docker/) - 2016/03/09
+
 --
 
 * [Getting Started with Java Development on Docker | The Giant Swarm Blog](http://blog.giantswarm.io/getting-started-with-java-development-on-docker/) - (2015/07/08) Introduction to Java Development on Docker using an example with Spark and Maven
