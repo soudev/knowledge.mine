@@ -111,6 +111,8 @@
 
 * [Getting Started with Docker: Simplifying Devops | Toptal](http://www.toptal.com/devops/getting-started-with-docker-simplifying-devops)
 
+* [[YouTube] Docker em 20 minutos](https://www.youtube.com/watch?v=caGS9EztYlc) - 2016/02/25
+
 --
 
 * [Visualizing Docker Containers and Images | Probably Done Before](http://merrigrove.blogspot.in/2015/10/visualizing-docker-containers-and-images.html)
