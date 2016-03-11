@@ -161,6 +161,8 @@
 
 * [Next Generation Web Layout: National Geographic Forest Giant | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/casestudies/natgeo/)
 
+* [Chrome Music Lab](https://musiclab.chromeexperiments.com/)
+
 
 ### Dicas
 
