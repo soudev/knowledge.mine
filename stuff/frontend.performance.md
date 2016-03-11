@@ -129,6 +129,8 @@
 
 * [[Speaker Deck] CSS Performance Tooling](https://speakerdeck.com/addyosmani/css-performance-tooling) - by Addy Osmani [2014/09/13]
 
+* [[Gist] paulirish / what-forces-layout.md](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) - What forces layout/reflow. The comprehensive list.
+
 
 ### CDN
 
