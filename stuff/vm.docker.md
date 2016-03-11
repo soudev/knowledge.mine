@@ -111,7 +111,11 @@
 
 * [Getting Started with Docker: Simplifying Devops | Toptal](http://www.toptal.com/devops/getting-started-with-docker-simplifying-devops)
 
+--
+
 * [[YouTube] Docker em 20 minutos](https://www.youtube.com/watch?v=caGS9EztYlc) - 2016/02/25
+
+* [[YouTube] Docker do básico à orquestração de containers - Wellington Silva | Laravel Brasil](https://www.youtube.com/watch?v=mR2px-mKjd0) - 2015/05/12
 
 --
 
