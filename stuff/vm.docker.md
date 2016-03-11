@@ -325,6 +325,8 @@
 
 * [Criando um Lamp com seu Docker | iMasters](http://imasters.com.br/desenvolvimento/criando-um-lamp-com-seu-docker/) - 2016/03/09
 
+* [[YouTube] Configurando ambiente PHP no Windows com Docker](https://www.youtube.com/watch?v=xVHa4eLmork) - 2016/02/26
+
 --
 
 * [Getting Started with Java Development on Docker | The Giant Swarm Blog](http://blog.giantswarm.io/getting-started-with-java-development-on-docker/) - (2015/07/08) Introduction to Java Development on Docker using an example with Spark and Maven
