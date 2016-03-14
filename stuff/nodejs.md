@@ -948,6 +948,8 @@
 
   * [[GitHub] andris9 / Nodemailer](https://github.com/andris9/Nodemailer) - Send e-mails with Node.JS - easy as cake!
 
+  * [Emails with "View in Browser" link in Node.js | Adam Niedzielski](http://blog.sundaycoding.com/blog/2016/03/03/emails-with-view-in-browser-link-in-node-dot-js/)
+
 * [[GitHub] vdemedes / mailman](https://github.com/vdemedes/mailman) - Send emails in a comfortable way via models
 
 --
