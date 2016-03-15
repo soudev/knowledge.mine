@@ -211,6 +211,10 @@
 
     * [The State of TypeScript Packages | AngularClass](https://angularclass.com/the-state-of-typescript-packages/) - 2015/11/24
 
+  * [Crafting an Angular 2 application using auto-generated APIs | Dream Factory](http://blog.dreamfactory.com/crafting-an-angular-2-application-using-auto-generated-apis) - (2016/03/10) The new Angular 2 address book app is a great way to get started with Angular 2 and learn how easy it is to call DreamFactory’s REST API. In this post, I'll go over some important things to know about the Angular 2 example app.
+
+    * [[GitHub] dreamfactorysoftware / angular2-sdk](https://github.com/dreamfactorysoftware/angular2-sdk) - An address book app for Angular 2 showing user registration, user login, and CRUD
+
 * ES6
 
   * [Writing AngularJS Apps Using ES6 | SitePoint](http://www.sitepoint.com/writing-angularjs-apps-using-es6/) -This article explains how ECMAScript 6 can be used to write AngularJS applications
