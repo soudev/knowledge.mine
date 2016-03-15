@@ -988,6 +988,8 @@
 
   * [Nodal – GraphQL Playground](http://graphql.nodaljs.com/)
 
+  * [Realtime Doesn’t Belong Everywhere — Build Scalable API Services in Node.js with Nodal | Medium by @keithwhor](https://medium.com/@keithwhor/realtime-doesn-t-belong-everywhere-build-scalable-api-services-in-node-js-with-nodal-10d0adfb66d) - 2016/03/08
+
 * [[GitHub] evantahler / actionhero](https://github.com/evantahler/actionhero) - is a multi-transport nodejs API Server with integrated cluster capabilities and delayed tasks
 
 --
