@@ -81,6 +81,8 @@
 
 * [Call to Idea - Get inspired!](http://calltoidea.com/)
 
+* [Payment Page Inspiration Muzli - Design Inspiration | Medium ](https://medium.com/muzli-design-inspiration/payment-page-inspiration-4b200b33d213)
+
 --
 
 * [Velositey - Website Layout Builder for Photoshop](http://dandkagency.com/velositey/)
