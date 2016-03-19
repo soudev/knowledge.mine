@@ -989,6 +989,8 @@
 
 * [[GitHub] ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 
+* [[GitHub] topheman / webpack-babel-starter](https://github.com/topheman/webpack-babel-starter) - Webpack / Babel starter kit with full development & build workflow
+
 --
 
 * [The ultimate webpack setup | christianalfoni](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup) - 2015/04/19
