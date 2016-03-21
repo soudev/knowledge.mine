@@ -2034,6 +2034,8 @@
 
   * [[GitHub] ccoenraets / intro-to-es6](https://github.com/ccoenraets/intro-to-es6)
 
+* [O Guia do ES6: TUDO que você precisa saber |  Medium by @matheusml](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
+
 --
 
 * [Replace CoffeeScript with ES6 | thoughtbot](http://robots.thoughtbot.com/replace-coffeescript-with-es6)
