@@ -91,6 +91,8 @@
 
 * [Google Design](http://www.google.com/design/)
 
+  * [Resizer - Google Design](http://design.google.com/resizer/)
+
   * [Material Design](http://www.google.com/design/spec/material-design/)
 
     * [[GitHub] google / material-design-lite](https://github.com/google/material-design-lite) - Material Design Lite Components in HTML/CSS/JS
