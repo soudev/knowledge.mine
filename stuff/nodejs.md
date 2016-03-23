@@ -2264,6 +2264,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite | Clube dos Geeks](http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite) - 2016/03/18
 
+  * [[GitHub] ClubeDosGeeksCoding / nwjs-angularjs-sqlite](https://github.com/ClubeDosGeeksCoding/nwjs-angularjs-sqlite) - Aplicação exemplo com AngularJS, NwJS, SQLite e Bootstrap
+
 --
 
 * [[GitHub] mllrsohn / node-webkit-builder](https://github.com/mllrsohn/node-webkit-builder) - npm module to create a node-webkit build
