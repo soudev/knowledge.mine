@@ -756,6 +756,8 @@
 
 * [Get Most Out of JavaScript Data Structures | JSter Javascript Catalog](http://jster.net/blog/javascript-data-structures)
 
+* [Sorting Algorithms in JavaScript | Ben's Blog](http://blog.benoitvallon.com/category/sorting-algorithms-in-javascript/)
+
 * [Sorted Maps in JavaScript | JSter Javascript Catalog](http://jster.net/blog/sorted-maps-in-javascript)
 
 * [Protecting objects in JavaScript | 2ality](http://www.2ality.com/2013/08/protecting-objects.html)
