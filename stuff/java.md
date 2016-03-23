@@ -10,8 +10,8 @@
 
 * [[GitHub] winterbe / java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
 
---
+## Maven
 
 * [Nexus OSS | Sonatype](http://www.sonatype.org/nexus/go/) - maven server
 
---
+* [[GitHub] cko / predefined_maven_properties](https://github.com/cko/predefined_maven_properties) - List of predefined Maven properties
