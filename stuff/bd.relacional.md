@@ -12,6 +12,9 @@
 
 * [Sqlectron](https://sqlectron.github.io/) - One single DB client for any relational DB (initial support MySql and PostgreSQL)
 
+* [SQLiteStudio](http://sqlitestudio.pl/) - portable sqlite db manager
+
+
 ## Informações Gerais
 
 * [Try SQL | Code School](http://campus.codeschool.com/courses/try-sql) - Learn basic database manipulation with SQL.
