@@ -527,6 +527,8 @@
 
   * [Browser-sync, indispensável para desenvolver sites em vários dispositivos | caelum blog](http://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/) - 2015/06/17
 
+  * [How to Use BrowserSync for Faster Development | Scotch](https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development)
+
 --
 
 * [[GitHub] sindresorhus / pageres](https://github.com/sindresorhus/pageres) - Get screenshots of websites in different resolutions
