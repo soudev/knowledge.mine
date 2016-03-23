@@ -93,6 +93,10 @@
 
 * [How to Install and Use Redis | DigitalOcean](https://www.digitalocean.com/community/articles/how-to-install-and-use-redis)
 
+--
+
+* [[GitHub] luin / medis](https://github.com/luin/medis) - is a beautiful, easy-to-use Mac database management application for Redis
+
 
 ##### Caso de Uso
 
