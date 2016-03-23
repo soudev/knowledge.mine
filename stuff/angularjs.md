@@ -1295,6 +1295,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Creating Desktop Applications With AngularJS and GitHub Electron | Scotch.io](https://scotch.io/tutorials/creating-desktop-applications-with-angularjs-and-github-electron) - 2015/09/28
 
+* [Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite | Clube dos Geeks](http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite) - 2016/03/18
+
 
 ### Google
 

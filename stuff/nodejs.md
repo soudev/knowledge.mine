@@ -2262,6 +2262,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Iniciando com Node Webkit | Beto Muniz](http://betomuniz.com/blog/iniciando-com-node-webkit/)
 
+* [Aplicativo Desktop com Nwjs + AngularJS + Bootstrap + Sqlite | Clube dos Geeks](http://clubedosgeeks.com.br/programacao/node-js/aplicativo-desktop-com-nwjs-angularjs-bootstrap-sqlite) - 2016/03/18
+
 --
 
 * [[GitHub] mllrsohn / node-webkit-builder](https://github.com/mllrsohn/node-webkit-builder) - npm module to create a node-webkit build
