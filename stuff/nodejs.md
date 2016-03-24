@@ -2249,6 +2249,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] romannurik / MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - A handy little Mac app that gives you quick access to the standard material design color palette
 
+* [[GitHub] appetizermonster / hain](https://github.com/appetizermonster/hain) - An 'alt+space' launcher for Windows, built with Electron
+
 
 #### Node Webkit
 
