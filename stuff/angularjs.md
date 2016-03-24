@@ -1735,7 +1735,7 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
-* [Sobre Diretivas e Como usar corretamente plugins jQuery com AngularJS | pedronauck.com](http://pedronauck.com/angularjs/sobre-diretivas-e-como-usar-corretamente-plugins-jquery-com-angularjs)
+* [Sobre Diretivas e como usar corretamente plugins jQuery com AngularJS | Medium by @fabyoguimaraes](https://medium.com/@fabyoguimaraes/sobre-diretivas-e-como-usar-corretamente-plugins-jquery-com-angularjs-8bcc5a07e371#.e5h0ce3ki)
 
 --
 
