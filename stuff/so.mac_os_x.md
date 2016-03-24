@@ -96,6 +96,7 @@
 
 * [How to Burn OS X El Capitan to a USB Flash Drive | Lifehacker](http://lifehacker.com/how-to-burn-os-x-el-capitan-to-a-usb-flash-drive-1733425133) - 2015/09/30
 
+  * [PSA: An Expired Certificate Means You'll Need to Remake Any OS X USB Boot Drives | Lifehacker](http://lifehacker.com/psa-an-expired-certificate-means-youll-need-to-remake-1762704972)
 
 ## HDD para SSD
 
