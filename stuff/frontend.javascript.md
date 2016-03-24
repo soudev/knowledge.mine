@@ -1490,6 +1490,8 @@
 
   * [[GitHub] Microsoft / TypeScript-Sublime-Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins
 
+  * [When should I use TypeScript? | Medium by @alexewerlof](https://medium.com/@alexewerlof/when-should-i-use-typescript-311cb5fe801b)
+
 * [Blog | Wolk Software Engineering](http://blog.wolksoftware.com/)
 
   * Decorators & metadata reflection in TypeScript: From Novice to Expert
