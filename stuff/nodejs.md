@@ -2247,6 +2247,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] jiahaog / nativefier](https://github.com/jiahaog/nativefier) - Wrap any web page natively without even thinking, across Windows, OSX and Linux
 
+* [[GitHub] romannurik / MaterialColorsApp](https://github.com/romannurik/MaterialColorsApp) - A handy little Mac app that gives you quick access to the standard material design color palette
+
 
 #### Node Webkit
 
