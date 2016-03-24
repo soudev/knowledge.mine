@@ -291,6 +291,8 @@
 
 * [Why and How to Use Docker for Development | Iron.io Blog — Medium](https://medium.com/iron-io-blog/why-and-how-to-use-docker-for-development-a156c1de3b24)
 
+* [Docker for Mac and Windows Beta: the simplest way to use Docker on your laptop | Docker Blog](https://blog.docker.com/2016/03/docker-for-mac-windows-beta/) - 2016/03/24
+
 --
 
 * A Docker Dev Environment in 24 Hours! | salesforceIQ Blog - [Part 1](https://engineering.salesforceiq.com/2013/10/31/a-docker-dev-environment-in-24-hours-part-1-of-2.html) | [Part 2](https://engineering.salesforceiq.com/2013/11/05/a-docker-dev-environment-in-24-hours-part-2-of-2.html)
