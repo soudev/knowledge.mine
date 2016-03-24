@@ -338,6 +338,8 @@
 
 * [Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
+* [Adeus jQuery.ajax. Olá Fetch API. | VivaReal Engenharia](http://engenharia.vivareal.com.br/adeus-jquery-ajax-ola-fetch-api/)
+
 
 ### OOP
 
