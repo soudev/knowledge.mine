@@ -743,6 +743,8 @@
 
   * [[GitHub] cht8687 / You-Dont-Need-Lodash-Underscore](https://github.com/cht8687/You-Dont-Need-Lodash-Underscore) - Lists of Javascript methods which you can use natively
 
+  * [You Might Not Need Underscore | Reindex](https://www.reindex.io/blog/you-might-not-need-underscore/)
+
 
 * [[GitHub] elclanrs / essential.js](https://github.com/elclanrs/essential.js) - Functional JavaScript "the right way"
 
