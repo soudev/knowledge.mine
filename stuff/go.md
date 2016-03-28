@@ -14,6 +14,8 @@
 
 * [Go by Example](https://gobyexample.com/) - is a hands-on introduction to Go using annotated example programs.
 
+* [Build web application with Golang | GitBooks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+
 --
 
 * [[Speaker Deck] Advanced Testing with Go](https://speakerdeck.com/mitchellh/advanced-testing-with-go) - by Mitchell Hashimoto (2016/03/15)
