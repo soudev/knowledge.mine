@@ -9,6 +9,7 @@
   * [Pomodoro](#pomodoro)
   * [GTD - Getting Things Done](#gtd-getting-things-done)
   * [Atomic Design](#atomic-design)
+  * [Minimum Loveable Product](#minimum-loveable-product)
   * [Minimum Viable Products](#minimum-viable-products)
   * [DevOps](#devops)
   * [Gamification](#gamification)
@@ -237,6 +238,11 @@
 * [Atomic Design: redesenhando os entregáveis de designers e desenvolvedores | iMasters](http://imasters.com.br/design-ux/atomic-design-redesenhando-os-entregaveis-de-designers-e-desenvolvedores/)
 
 * [Pattern Lab - Build Atomic Design Systems](http://patternlab.io/)
+
+
+### Minimum Loveable Product
+
+*  [So long MVP. Hello Minimum Loveable Product | Medium by The Happy Startup School](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c)
 
 
 ### Minimum Viable Products
