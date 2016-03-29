@@ -745,6 +745,8 @@
 
   * [You Might Not Need Underscore | Reindex](https://www.reindex.io/blog/you-might-not-need-underscore/)
 
+    * [Lodash ou Underscore? Talvez, nenhum! | Medium by @oieduardorabelo](https://medium.com/@oieduardorabelo/lodash-ou-underscore-talvez-nenhum-4d1534775a2d)
+
 
 * [[GitHub] elclanrs / essential.js](https://github.com/elclanrs/essential.js) - Functional JavaScript "the right way"
 
