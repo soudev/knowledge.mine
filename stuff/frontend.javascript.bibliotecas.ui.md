@@ -379,6 +379,10 @@
 
 --
 
+* [Building Chrome Extensions in React+Redux | goguardian](http://blog.goguardian.com/nerds/chrome-extensions-in-react)
+
+--
+
 * [Build A Real-Time Twitter Stream with Node and React.js | Scotch](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
 
   * [[GitHub] scotch-io / react-tweets](https://github.com/scotch-io/react-tweets)
