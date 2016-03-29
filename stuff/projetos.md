@@ -242,7 +242,7 @@
 
 ### Minimum Loveable Product
 
-*  [So long MVP. Hello Minimum Loveable Product | Medium by The Happy Startup School](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c)
+* [So long MVP. Hello Minimum Loveable Product | Medium by The Happy Startup School](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c)
 
 
 ### Minimum Viable Products
