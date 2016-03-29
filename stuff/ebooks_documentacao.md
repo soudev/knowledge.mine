@@ -295,6 +295,10 @@
 
 --
 
+* [10 podcasts úteis para quem tem pouco tempo para estudar | Exame](http://exame.abril.com.br/carreira/noticias/10-podcasts-uteis-para-quem-tem-pouco-tempo-para-estudar)
+
+--
+
 * [Tecnologia em Sistemas de Computação | Fundação CECIERJ/Consórcio CEDERJ](http://www.cederj.edu.br/videoaulas/) - videoaulas do curso
 
 
