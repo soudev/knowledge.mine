@@ -111,6 +111,8 @@
 
 * [Getting Started with Docker: Simplifying Devops | Toptal](http://www.toptal.com/devops/getting-started-with-docker-simplifying-devops)
 
+* [Docker's - Beginner Guide | hack.guides()](http://tutorials.pluralsight.com/devops/docker-s-beginner-guide)
+
 --
 
 * [[YouTube] Docker em 20 minutos](https://www.youtube.com/watch?v=caGS9EztYlc) - 2016/02/25
