@@ -1838,7 +1838,11 @@ $ sudo chown -R `whoami` .npm
 
 * [The Node Toolbox - Node.js happiness](http://nodetoolbox.com/) - is a catalogue of Node.js packages, tools and resources with popularity ratings based on Github watchers and forks
 
+--
+
 * [David, a dependency management tool for Node.js projects](https://david-dm.org)
+
+* [[GitHub] dylang / npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies
 
 --
 
