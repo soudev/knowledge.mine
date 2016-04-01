@@ -397,6 +397,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[SlideShare] Beginner workshop to angularjs presentation at Google](http://www.slideshare.net/therealauser/beginner-workshop-to-angularjs-presentation-at-google)
 
+* [AngularJS for complete beginners | Coding is Love](https://codingislove.com/angularjs-for-complete-beginners/) - 2016/02/24
+
 --
 
 * [Angular Docs Guide](http://docs.angularjs.org/guide/)
