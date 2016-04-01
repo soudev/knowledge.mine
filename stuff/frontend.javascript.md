@@ -2114,6 +2114,8 @@
 
 * [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
 
+* [Constructive destructuring | krasimirtsonev.com](http://krasimirtsonev.com/blog/article/constructive-destructuring-es6-assignment)
+
 --
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
