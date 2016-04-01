@@ -54,6 +54,8 @@
 
   * [API de consulta de CEP grátis | Aviso Brasil](http://avisobrasil.com.br/correio-control/api-de-consulta-de-cep/) - Finalmente, um serviço de consulta de CEP gratuito criado por uma empresa sólida, cujo negócio é lidar com Correios. Um presente para você desenvolvedor.
 
+* [[GitHub] toddmotto / public-apis](https://github.com/toddmotto/public-apis) - A collective list of public JSON APIs for use in web development
+
 --
 
 * [Forecast.io](http://forecast.io/)
