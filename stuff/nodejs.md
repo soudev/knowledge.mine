@@ -1909,6 +1909,8 @@ $ sudo chown -R `whoami` .npm
 
 * [How to Create and Publish Your First Node.js Module | Medium by @jdaudier](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
 
+* [[YouTube] How to use bundleDependencies (to avoid unpublish blues)](https://www.youtube.com/watch?v=qOGRUfdSiaM)
+
 --
 
 * [how npm handles the "scripts" field | npm docs](https://docs.npmjs.com/misc/scripts)
