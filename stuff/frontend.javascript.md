@@ -567,8 +567,6 @@
 
 * [An interesting kind of JavaScript memory leak | Meteor Blog](http://www.meteor.com/blog/2013/08/13/an-interesting-kind-of-javascript-memory-leak)
 
-* [parseUri - Split URLs in JavaScript](http://stevenlevithan.com/demo/parseuri/js/)
-
 * [Native equivalents of jQuery functions | Lee Brimelow](http://www.leebrimelow.com/native-methods-jquery/)
 
 * [Useful JavaScript Libraries and jQuery Plugins](http://coding.smashingmagazine.com/2012/09/23/useful-javascript-libraries-jquery-plugins-web-developers/)
@@ -1267,6 +1265,12 @@
 * [[GitHub] medialize / URI.js](https://github.com/medialize/URI.js) - Javascript URL mutation library
 
 * [[GitHub] loadfive / Knwl.js](https://github.com/loadfive/knwl.js) - Scan through text for data that may be of interest
+
+--
+
+* [parseUri - Split URLs in JavaScript](http://blog.stevenlevithan.com/archives/parseuri)
+
+* [[GitHub] QubitProducts / urlite](https://github.com/QubitProducts/urlite) - A very small, fast, dependency free url parser and formatter for nodejs and the web
 
 --
 
