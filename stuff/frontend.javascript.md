@@ -956,6 +956,8 @@
 
 --
 
+* [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015 | Auth0](https://auth0.com/blog/2016/03/15/javascript-module-systems-showdown/) - 2016/03/15
+
 * [Javascript Modules, AMD, and the road ahead. | Yahoo Engineering](http://yahooeng.tumblr.com/post/62383009835/javascript-modules-amd-and-the-road-ahead)
 
 * [[GitHub] wilmoore / frontend-packagers](https://github.com/wilmoore/frontend-packagers) - Front-End Package Manager Comparison
