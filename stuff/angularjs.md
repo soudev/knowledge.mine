@@ -1277,6 +1277,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] basti1302 / angular-browserify](https://github.com/basti1302/angular-browserify) - Example/seed project for AngularJS with Browserify
 
+* [Environment Configuration with Angular.js, ES2015 / ES6 & Browserify | Thoughts On Javascript and Development](http://orizens.com/wp/topics/environment-configuration-with-angular-js-es2015-es6-browserify/) - 2016/03/25
+
+  * [[GitHub] orizens / echoes](https://github.com/orizens/echoes) - Echoes is a media player based on youtube which provides a great user experience (no ads!). Overall, it's a web application that is based on angular.js & bootstrap
+
 --
 
 * [Simple Blog Application with AngularJS and Play Framework | Toptal](http://www.toptal.com/java/building-modern-web-applications-with-angularjs-and-play-framework)
