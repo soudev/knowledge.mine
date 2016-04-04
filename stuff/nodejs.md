@@ -601,6 +601,8 @@
 
 * [How to debug Node.js? What is the best way to debug Node.js? | { 100PercentJS }](http://www.100percentjs.com/best-way-debug-node-js/)
 
+* [Debugging with Node | Krasimir Tsonev](http://krasimirtsonev.com/blog/article/debugging-with-node)
+
 --
 
 * [[GitHub] boblauer / mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
