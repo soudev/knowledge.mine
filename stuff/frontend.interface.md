@@ -109,6 +109,8 @@
 
   * [Material Design, Daily | MaterialUp](http://www.materialup.com/)
 
+  * [Material Design Colors](http://www.materialui.co/colors)
+
 --
 
 * [7 future web design trends | Medium by @jowitaziobro](https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355) - 2015/05/14
