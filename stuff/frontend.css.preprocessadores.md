@@ -90,6 +90,8 @@
 
 * [Seja bem-vindo Sass 3.3 | Eduardo Matos](http://eduardomatos.me/seja-bem-vindo-sass-3-3/)
 
+* [Sass Reference | SitePoint](http://www.sitepoint.com/sass-reference/)
+
 --
 
 * [SassME](http://sassme.arc90.com/) - Essa ferramenta proporciona uma interface para ajudar a descobrir novas cores usando as funções de cores do Sass
