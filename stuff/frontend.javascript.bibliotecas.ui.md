@@ -635,6 +635,10 @@
 
 * [D3.js Geo fun | maori.geek](http://maori.geek.nz/post/d3_js_geo_fun)
 
+--
+
+* [[GitHub] PMSI-AlignAlytics / dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics powered by d3
+
 
 ##### bl.ocks.org
 
