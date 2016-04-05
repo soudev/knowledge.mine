@@ -1,6 +1,5 @@
 # Python
 
-
 <!-- toc -->
 * [Sites](#sites)
 * [Aprendizado](#aprendizado)
@@ -10,7 +9,6 @@
   * [Flask](#flask)
 
 <!-- toc stop -->
-
 
 ## Sites
 
@@ -65,6 +63,10 @@
 
 
 ## Dicas
+
+* [How Web Scraping is Revealing Lobbying and Corruption in Peru | The Scrapinghub Blog](https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/) - 2016/03/09
+
+--
 
 * [Exploring Python Code Objects | pyvideo.org](http://pyvideo.org/video/1372/exploring-python-code-objects)
 
