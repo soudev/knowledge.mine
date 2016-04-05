@@ -3,6 +3,7 @@
 <!-- toc -->
 
 * [Geral](#geral)
+* [Trabalho no exterior](#trabalho-no-exterior)
 * [Trabalho remoto](#trabalho-remoto)
 * [Time Traking](#time-traking)
 * [Conceitos](#conceitos)
@@ -25,7 +26,6 @@
   * [iMasters](#imasters)
 
 <!-- toc stop -->
-
 
 ## Geral
 
@@ -92,6 +92,15 @@
   * [DCEVM](https://dcevm.github.io/) - Enhanced class redefinition for Java
 
   * [Alternativa gratuita ao JRebel | Boaglio.com](http://www.boaglio.com/index.php/2015/01/22/alternativa-gratuita-ao-jrebel/)
+
+
+## Trabalho no exterior
+
+* [Programando no exterior | Nerdcast - JovemNerd](https://jovemnerd.com.br/nerdcast/nerdtech-02-programando-no-exterior/) - 2016/04/01
+
+* [#013 – Trabalhando no Exterior (Parte 1 de 2) | PODebug](http://www.podebug.com/2016/01/013-trabalhando-no-exterior-parte-1-de-2/) - 2016/01/20
+
+* [#014 – Trabalhando no Exterior (Parte 2 de 2) | PODebug](http://www.podebug.com/2016/01/014-trabalhando-no-exterior-parte-2-de-2/) - 2016/01/27
 
 
 ## Trabalho remoto
