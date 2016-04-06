@@ -2120,6 +2120,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[SlideShare] Microservices with Node and Docker](http://www.slideshare.net/subfuzion/microservices-with-node-and-docker) - 2015/10/14
 
+* [How to Dockerize your Node application | Luca Mezzalira](http://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
+
 --
 
 * [[GitHub] adamalex / docker-urlarchiver](https://github.com/adamalex/docker-urlarchiver) - Use Docker to package a Node.js script with all its dependencies, including Node
