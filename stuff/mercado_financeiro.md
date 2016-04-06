@@ -152,6 +152,8 @@
 
 * [Rentabilidade do Tesouro Direto](http://www.tesouro.fazenda.gov.br/tesouro-direto-rentabilidade-acumulada)
 
+* [Tesouro Direto - Invistir com Rentabiliade: O Guia Completo | Eu Quero Investir](http://www.euqueroinvestir.com/tesouro-direto-investir-rentabilidade/) - Aprenda a Investir nos Títulos do Tesouro: LFT, LTN, NTN B, NTN F. Entenda Títulos Pré-Fixados e Pós FIxados.
+
 * [[YouTube] Títulos do Governo](https://www.youtube.com/watch?v=i1ics1_um0A)
 
 * [[YouTube] Tesouro Direto - Investimentos muito além da Poupança](https://www.youtube.com/watch?v=wTW0donQv_k)
