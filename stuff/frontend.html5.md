@@ -285,6 +285,8 @@
 
 --
 
+* [[GitHub] delapuente / service-workers-101](https://github.com/delapuente/service-workers-101) - An infographic to summarize the most important parts of the Service Workers' API
+
 * Web Workers
 
   * [Mais Válvulas para seu Javascript | Tableless](http://tableless.com.br/mais-valvulas-para-seu-javascript/) - 2015/10/15
