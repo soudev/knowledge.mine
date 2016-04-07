@@ -20,6 +20,8 @@
 
 * [[Speaker Deck] Advanced Testing with Go](https://speakerdeck.com/mitchellh/advanced-testing-with-go) - by Mitchell Hashimoto (2016/03/15)
 
+* [[YouTube] NewStore TechTalk - Advanced Testing with Go by Mitchell Hashimoto](https://www.youtube.com/watch?v=yszygk1cpEc) - 2016/04/07
+
 
 ## Use Cases
 
