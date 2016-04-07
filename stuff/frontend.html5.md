@@ -285,7 +285,13 @@
 
 --
 
-* [[GitHub] delapuente / service-workers-101](https://github.com/delapuente/service-workers-101) - An infographic to summarize the most important parts of the Service Workers' API
+* Service Workers
+
+  * [[GitHub] delapuente / service-workers-101](https://github.com/delapuente/service-workers-101) - An infographic to summarize the most important parts of the Service Workers' API
+
+  * [ServiceWorker: A revolução da plataforma Web | BrasilJS](https://braziljs.org/blog/service-worker-a-revolucao-da-plataforma-web/) - 2016/04/04
+
+  * [Making a Simple Site Work Offline with ServiceWorker | ponyfoo](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
 
 * Web Workers
 
