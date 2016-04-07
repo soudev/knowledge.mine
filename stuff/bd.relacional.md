@@ -14,6 +14,8 @@
 
 * [SQLiteStudio](http://sqlitestudio.pl/) - portable sqlite db manager
 
+* [DB patterns](http://dbpatterns.com/) - is a service that allows you to create, share, explore database models on the web
+
 
 ## Informações Gerais
 
