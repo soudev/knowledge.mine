@@ -29,6 +29,8 @@
 
   * [JSON Resume](http://jsonresume.org/)
 
+  * [[GitHub] voronianski / is-my-schema-valid](https://github.com/voronianski/is-my-schema-valid) - Simple function that validates data according to JSONSchema
+
 --
 
 * [JSON - De gambiarra a padrão | Loop Infinito](http://loopinfinito.com.br/2013/06/18/json-de-gambiarra-a-padrao/)
