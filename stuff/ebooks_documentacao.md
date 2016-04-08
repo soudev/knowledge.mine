@@ -330,6 +330,8 @@
 
 --
 
+* [Deutsch Interaktiv | DW.COM](http://www.dw.com/pt/aprender-alem%C3%A3o/deutsch-interaktiv/s-9660) - Aprenda alemão com o curso interativo e multimídia da DW
+
 * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 
 * [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
