@@ -118,6 +118,8 @@
 
 * [[YouTube] How Much Money is There on Earth? - VSauce](https://www.youtube.com/watch?v=w2tKg3E53DM)
 
+* [[YouTube] Banking Explained – Money and Credit | Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=fTTGALaRZoc) - 2015/03/12
+
 
 ## Informações úteis sobre investimentos
 
