@@ -268,6 +268,8 @@
 
 * [Rico com vc](http://www.rico.com.vc/)
 
+* [Easynvest](https://www.easynvest.com.br/)
+
 
 ## Simuladores
 
