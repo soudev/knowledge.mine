@@ -169,6 +169,10 @@
 
 --
 
+* [Six months of dev, we launched project on top of Angular 2 | m12.io](http://m12.io/blog/we-launched-angular-2-project)
+
+--
+
 * [Creating Container Components, Part 1: Shadow DOM | AirPair](https://www.airpair.com/javascript/posts/creating-container-components-part-1-shadow-dom)
 
 * [Creating Container Components, Part 2: Angular 1.3 Directives | AirPair](https://www.airpair.com/angularjs/posts/creating-container-components-part-2-angular-1-directives)
