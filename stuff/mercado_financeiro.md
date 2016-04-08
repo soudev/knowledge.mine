@@ -112,11 +112,13 @@
 
 --
 
+* [[YouTube] How Much Money is There on Earth? - VSauce](https://www.youtube.com/watch?v=w2tKg3E53DM)
+
+* [[YouTube] How The Stock Exchange Works (For Dummies) | Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=F3QpgXBtDeo) - 2013/11/28
+
 * [[YouTube] How do banks make money for you](https://www.youtube.com/watch?v=iamVNMuVJMQ)
 
 * [[YouTube] How do banks create credit? - MoneyWeek Investment Tutorials](https://www.youtube.com/watch?v=cs1bkpxzBZI)
-
-* [[YouTube] How Much Money is There on Earth? - VSauce](https://www.youtube.com/watch?v=w2tKg3E53DM)
 
 * [[YouTube] Banking Explained – Money and Credit | Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=fTTGALaRZoc) - 2015/03/12
 
