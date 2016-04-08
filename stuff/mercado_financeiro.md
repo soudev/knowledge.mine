@@ -20,6 +20,7 @@
 * [APIs](#apis)
   * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
+* [Imposto de Renda](#imposto-de-renda)
 
 <!-- toc stop -->
 
@@ -318,3 +319,10 @@
 * [[GitHub] dgtostes / cpp_study / py_codes / finance](https://github.com/dgtostes/cpp_study/tree/master/py_codes/finance) - python
 
 * [[Bitbuckets] ghost_br / bmfstock](https://bitbucket.org/ghost_br/bmfstock/) - python
+
+
+## Imposto de Renda
+
+* [Guia IRPF 2016 de EXAME.com explica como declarar o Imposto de Renda](http://exame.abril.com.br/seu-dinheiro/ferramentas/guia-do-imposto-de-renda/)
+
+* [Imposto de Renda 2016: a hora de encarar o Leão | Conta Azul](https://blog.contaazul.com/imposto-de-renda-2016-a-hora-de-encarar-o-leao)
