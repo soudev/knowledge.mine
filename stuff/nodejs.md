@@ -687,6 +687,8 @@
 
 * [[GitHub] gmetais / grunt-devperf](https://github.com/gmetais/grunt-devperf/) - Helps front-end developers to maintain a good quality, based on phantomas and grunt-phantomas
 
+* [[GitHub] pmdartus / speedline](https://github.com/pmdartus/speedline) - Calculate the speed index and visual performance metrics from chrome dev tool timeline
+
 
 ### Monitoramento e Logs
 
