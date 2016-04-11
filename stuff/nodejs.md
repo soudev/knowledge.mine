@@ -212,6 +212,12 @@
 
 --
 
+* [You Don't Know Node: Quick Intro to Core Features | webapplog](http://webapplog.com/you-dont-know-node/)
+
+  * [[GitHub] azat-co / you-dont-know-node](https://github.com/azat-co/you-dont-know-node) - You Don't Know Node.js
+
+--
+
 * [Node.js | Underground WebDev](http://udgwebdev.com/nodejs/)
 
 * [Node.js para leigos (Versão completa) | Underground WebDev](http://www.udgwebdev.com/nodejs-para-leigos/)
