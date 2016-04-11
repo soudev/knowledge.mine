@@ -340,6 +340,8 @@
 
 * [Adeus jQuery.ajax. Olá Fetch API. | VivaReal Engenharia](http://engenharia.vivareal.com.br/adeus-jquery-ajax-ola-fetch-api/)
 
+* [Fetch API e o JavaScript | BrazilJS](https://braziljs.org/blog/fetch-api-e-o-javascript/) - 2016/04/10
+
 
 ### OOP
 
