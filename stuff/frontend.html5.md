@@ -293,6 +293,8 @@
 
   * [Making a Simple Site Work Offline with ServiceWorker | ponyfoo](https://ponyfoo.com/articles/simple-offline-site-serviceworker)
 
+  * [Asset caching with service worker | Medium by @philipp.schaechtele](https://medium.com/@philipp.schaechtele/asset-caching-with-service-worker-c40dcda43842)
+
 * Web Workers
 
   * [Mais Válvulas para seu Javascript | Tableless](http://tableless.com.br/mais-valvulas-para-seu-javascript/) - 2015/10/15
