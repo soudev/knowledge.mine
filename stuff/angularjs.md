@@ -2435,6 +2435,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [[GitHub] marmelab / ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
 
+* [[GitHub] akveo / blur-admin](https://github.com/akveo/blur-admin) - Free Angular Bootstrap Admin Dashboard Template
+
 --
 
 * games
