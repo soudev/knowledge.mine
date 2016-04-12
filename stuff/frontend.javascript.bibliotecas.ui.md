@@ -408,6 +408,8 @@
 
 * [How Facebook Focuses on the Most Important Element of an App  | Airbnb Engineering](http://nerds.airbnb.com/facebook-react-native/) - 2015/08/31
 
+* [Why You Should Consider React Native For Your Mobile App | Smashing Magazine](https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/) - 2016/04/07
+
 
 ### Template Engine
 
