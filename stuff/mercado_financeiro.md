@@ -31,6 +31,8 @@
 
 --
 
+* [Economia e finanças | Khan Academy](https://pt.khanacademy.org/economics-finance-domain/) - recursos economia e finanças gratuitos da Khan Academy. Assista a vídeos, leia artigos e expanda seu conhecimento em qualquer tópico economia e finanças.
+
 * [Educação Financeira | Minhas Economias](http://www.minhaseconomias.com.br/educacao-financeira)
 
 * [Só controlar os gastos não basta! | Minhas Economias](http://www.minhaseconomias.com.br/blog/dicas-uso/controlar-os-gastos-nao-basta)
