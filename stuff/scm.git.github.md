@@ -14,6 +14,7 @@
 * [Dicas](#dicas)
   * [Workflow](#workflow)
   * [Merge](#merge)
+    * [Squash commits](#squash-commits)
   * [SVN para GIT](#svn-para-git)
     * [Problema conhecido](#problema-conhecido)
   * [git submodule](#git-submodule)
@@ -363,10 +364,6 @@ git clean -fd
 
 * [More Git and GitHub Secrets | Zach Holman](http://zachholman.com/talk/more-git-and-github-secrets/)
 
-* [Juntando commits com git rebase - squash commits](http://rodrigopinto.me/2013/03/05/juntando-commits-com-git-rebase-squash-commits/) - Dica para o pessoal que usa o git, basicamente o squash commit é  juntar vários commits referentes a uma mesma tarefa em um só commit.
-
-* [git merge --squash | 365git](http://365git.tumblr.com/post/4364212086/git-merge-squash)
-
 * [Please, use git pull --rebase](https://coderwall.com/p/7aymfa)
 
 * [[GitHub] visionmedia / git-extras](https://github.com/visionmedia/git-extras) - GIT utilities - repo summary, repl, changelog population, author commit percentages and more (for Mac/Unix)
@@ -374,6 +371,44 @@ git clean -fd
 * [Using Sublime Text 2 as your default editor | github:help](https://help.github.com/articles/using-sublime-text-2-as-your-default-editor)
 
 * [glog - a git log alias for a decent view of your repo : by Jed Schneider | Coder Wall](https://coderwall.com/p/syqplg)
+
+
+#### Squash commits
+
+* [Squash your commits | GitHub Blog](https://github.com/blog/2141-squash-your-commits) - 2016/04/01
+
+* [Juntando commits com git rebase - squash commits](http://rodrigopinto.me/2013/03/05/juntando-commits-com-git-rebase-squash-commits/) - Dica para o pessoal que usa o git, basicamente o squash commit é  juntar vários commits referentes a uma mesma tarefa em um só commit.
+
+* [git merge --squash | 365git](http://365git.tumblr.com/post/4364212086/git-merge-squash)
+
+--
+
+* Manual steps
+
+```
+git checkout target/branch
+
+git checkout -b merge/branch
+
+git merge --squash feature/branch
+
+git add .
+
+git commit -m "squash feature/branch commits
+
+closes #{pull request number}
+"
+
+git checkout target/branch
+
+git merge merge/branch
+
+git push origin target/branch
+
+git branch -D merge/branch
+
+git branch -D feature/branch
+```
 
 
 ### SVN para GIT
