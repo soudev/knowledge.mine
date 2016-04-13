@@ -385,7 +385,7 @@ git clean -fd
 
 * Manual steps
 
-```
+```sh
 git checkout target/branch
 
 git checkout -b merge/branch
@@ -394,10 +394,7 @@ git merge --squash feature/branch
 
 git add .
 
-git commit -m "squash feature/branch commits
-
-closes #{pull request number}
-"
+git commit -m $'squash feature/branch commits\ncloses #{pull request number}'
 
 git checkout target/branch
 
