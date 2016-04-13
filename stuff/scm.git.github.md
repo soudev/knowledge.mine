@@ -404,6 +404,8 @@ git push origin target/branch
 
 git branch -D merge/branch
 
+git push origin :feature/branch
+
 git branch -D feature/branch
 ```
 
