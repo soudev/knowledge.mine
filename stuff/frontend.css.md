@@ -161,6 +161,8 @@
 
 * [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
 
+* [Almost complete guide to flexbox (without flexbox) | Kenan Yusuf](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
+
 --
 
 * [[GitHub] philipwalton / flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
