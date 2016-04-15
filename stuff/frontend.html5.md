@@ -295,6 +295,8 @@
 
   * [Asset caching with service worker | Medium by @philipp.schaechtele](https://medium.com/@philipp.schaechtele/asset-caching-with-service-worker-c40dcda43842)
 
+  * [Service Workers replacing AppCache: a sledgehammer to crack a nut | Medium by @firt](https://medium.com/@firt/service-workers-replacing-appcache-a-sledgehammer-to-crack-a-nut-5db6f473cc9b)
+
 * Web Workers
 
   * [Mais Válvulas para seu Javascript | Tableless](http://tableless.com.br/mais-valvulas-para-seu-javascript/) - 2015/10/15
