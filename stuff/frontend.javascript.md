@@ -1504,7 +1504,7 @@
 
   * [Getting Started with TypeScript | Treehouse Blog](http://blog.teamtreehouse.com/getting-started-typescript)
 
-  * [The Case for TypeScript | InfoQ](http://www.infoq.com/presentations/tpescript-language-tools)
+  * [The Case for TypeScript | InfoQ](http://www.infoq.com/presentations/tpescript-language-tools) - 2016/04/17
 
   * [[GitHub] Microsoft / TypeScript-Sublime-Plugin](https://github.com/Microsoft/TypeScript-Sublime-Plugin) - IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins
 
