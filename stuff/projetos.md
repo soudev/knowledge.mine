@@ -109,14 +109,6 @@
 
 --
 
-* [Carnê Leão | Receita Federal do Brasil](http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/2016/programa-carne-leao-2016) - aplicativo para profissionais liberais realizar o recolhimento dos impostos (DARF) do recebimento, também pode ser utilizado para trabalho remoto e tributar o recebimento internacional
-
-> efetuar lançamento do tipo: `3001` - Rendimento recebido do exterior relativo a trabalho não assalariado
-
-> [VET](http://www.bcb.gov.br/?VETFAQ) - valor efetivo total
-
---
-
 * [The Remote Manifesto | GitLab](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
 
 * [Highlights to my first remote job | GitLab](https://about.gitlab.com/2015/06/17/highlights-to-my-first-remote-job/)
@@ -134,6 +126,20 @@
   * [Harvest](https://www.getharvest.com/) - Simple Online Time Tracking Software
 
   * [Free Invoice Generator by Invoiced](https://invoice-generator.com/)
+
+--
+
+* [TransferWise](https://transferwise.com) - transferências internacionais pagando menos taxas
+
+  * [Transferir dinheiro do Brasil para o exterior: encontramos a melhor forma! | Pequenos Monstros](http://www.pequenosmonstros.com/2016/04/transferir-dinheiro-do-brasil-para-o-exterior/)
+
+--
+
+  * [Carnê Leão | Receita Federal do Brasil](http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/2016/programa-carne-leao-2016) - aplicativo para profissionais liberais realizar o recolhimento dos impostos (DARF) do recebimento, também pode ser utilizado para trabalho remoto e tributar o recebimento internacional
+
+  > efetuar lançamento do tipo: `3001` - Rendimento recebido do exterior relativo a trabalho não assalariado
+
+  > [VET](http://www.bcb.gov.br/?VETFAQ) - valor efetivo total
 
 
 ## Time Traking
