@@ -189,6 +189,8 @@
 
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between | Auth0](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/) - 2015/05/14
 
+* [Angular 2 authentication with Auth0 and Node.js | Todd Motto](https://toddmotto.com/angular-2-authentication) - 2016/04/19
+
 --
 
 * [Angular 2 — Unit Testing recipes — Google Developer Experts | Medium](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584)
