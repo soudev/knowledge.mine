@@ -120,6 +120,8 @@
 
 * [Angular 1.5 is close - here's the interesting parts | codelord.net](http://www.codelord.net/2015/12/10/angular-1-dot-5-is-close-heres-the-interesting-parts/) - 2015/12/10
 
+* [Angular 1.5 new component lifecycle hooks | codelord.net](http://www.codelord.net/2016/04/14/angular-1-dot-5-new-component-lifecycle-hooks/) - 2016/04/14
+
 
 ### Angular.js 2.0
 
