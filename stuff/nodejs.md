@@ -760,6 +760,8 @@
 
 * [[GitHub] punkave / sluggo](https://github.com/punkave/sluggo) - High-speed, unicode-aware, browser-friendly slug generator
 
+* [[GitHub] QubitProducts / urlite](https://github.com/QubitProducts/urlite) - A very small, fast, dependency free url parser and formatter for nodejs and the web
+
 
 ### Encurtador de URLs
 
