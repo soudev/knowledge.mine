@@ -118,6 +118,8 @@
 
 --
 
+* [How Letterspacing Can Make All Caps Easier to Read | UX Movement](http://uxmovement.com/content/how-letterspacing-can-make-all-caps-easier-to-read/) - (2016/04/19) How Letterspacing Can Make All Caps Easier to Read
+
 * [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
 
 --
