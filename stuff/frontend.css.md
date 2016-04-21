@@ -122,6 +122,8 @@
 
 * [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
 
+* [Glyphs | CSS-Tricks](https://css-tricks.com/snippets/html/glyphs/) - Special characters codes
+
 --
 
 * [Creative Button Styles | Codrops](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
