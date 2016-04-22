@@ -1198,6 +1198,8 @@
 
 * [[GitHub] arasatasaygin / is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 
+* [[GitHub] dleitee / strman](https://github.com/dleitee/strman) - A Javascript string manipulation library without npm dependences
+
 * [[GitHub] RadLikeWhoa / helpers.js](https://github.com/RadLikeWhoa/helpers.js) - Small JavaScript functions for common use cases.
 
 * [[GitHub] dankogai / js-combinatorics](https://github.com/dankogai/js-combinatorics) - power set, combination, and permutation in JavaScript
