@@ -395,6 +395,10 @@
 
   * [[GitHub] ccoenraets / lightning-trader](https://github.com/ccoenraets/lightning-trader) - Sample trader desktop app built with React and the Lightning Design System
 
+* [Build a Peer-to-Peer File Sharing Component in React & PeerJS | SitePoint](http://www.sitepoint.com/file-sharing-component-react/) - 2016/04/11
+
+  * [[GitHub] sitepoint-editors / react-filesharer](https://github.com/sitepoint-editors/react-filesharer) - A React peer-to-peer file sharing component, using PeerJS
+
 
 #### React Native
 
