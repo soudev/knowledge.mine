@@ -1127,6 +1127,8 @@
 
   * [Migrando de WordPress para Hexo | William Oliveira](http://woliveiras.com.br/posts/Migrando-de-Wordpress-para-Hexo/)
 
+  * [How to Create a Blog with Hexo On Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - 2016/02/04
+
 
 * [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
 
