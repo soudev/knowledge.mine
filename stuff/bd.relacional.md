@@ -25,6 +25,8 @@
 
 --
 
+* [A Visual Explanation of SQL Joins | Coding Horror](https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/) - 2007/10/11
+
 * [Trabalhando com junções de tabelas (JOINs) | iMasters](http://imasters.com.br/banco-de-dados/trabalhando-com-juncoes-de-tabelas-joins/)
 
 * [10 Easy Steps to a Complete Understanding of SQL | Tech Pro](http://tech.pro/tutorial/1555/10-easy-steps-to-a-complete-understanding-of-sql?utm_source=newsletter22&utm_medium=email)
