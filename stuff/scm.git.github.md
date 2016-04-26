@@ -741,6 +741,8 @@ git branch -D feature/branch
 
 * [Git-SCM : Indicações](http://git-scm.com/downloads/guis)
 
+* [GitKraken](https://www.gitkraken.com/)
+
 
 ### Gestão de servidor Git
 
