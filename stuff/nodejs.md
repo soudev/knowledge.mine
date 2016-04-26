@@ -1437,6 +1437,10 @@
 
 --
 
+* [[GitHub] substack / node-resolve](https://github.com/substack/node-resolve) - Implements the node.js require.resolve() algorithm
+
+--
+
 * [[GitHub] Sendanor / nor-fs](https://github.com/Sendanor/nor-fs) - chainable asynchronous file system library for Node.js
 
 * [[GitHub] vesln / fine](https://github.com/vesln/fine) - Tiny, recursive and synchronous file finder utility
