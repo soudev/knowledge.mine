@@ -263,6 +263,10 @@
 
 --
 
+* [Migrating your Gitlab infrastructure into Docker | Jscrambler Blog](https://blog.jscrambler.com/migrating-your-gitlab-infrastructure-into-docker/)
+
+--
+
 * [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
 
 * [[GitHub] spotify / docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - A maven plugin for docker
