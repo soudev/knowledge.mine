@@ -581,6 +581,8 @@
 
   * [Using Cheerio and MongoDB to scrape a large website | Qawelesizwe Mlilo](http://blog.ragingflame.co.za/2014/6/27/using-cheerio-and-mongodb-to-scrap-a-large-website) - (27/06/2014) Scrapping websites using node.js
 
+  * [[YouTube] Web crawler com Node.js - Capturando informações de um site](https://www.youtube.com/watch?v=2B6MpQvsQp0) - 2016/04/27
+
   * [[GitHub] ruipgil / scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper
 
   * [[GitHub] molekilla / menio](https://github.com/molekilla/menio) - production-quality template convention to scrap web sites based on cheerio
