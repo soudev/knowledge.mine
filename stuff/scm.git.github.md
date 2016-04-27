@@ -763,6 +763,10 @@ git branch -D feature/branch
 
 * [GitX](http://gitx.frim.nl/)
 
+* [GitUp](http://gitup.co/) - lets you see your entire labyrinth of branches and merges with perfect clarity.
+
+  * [[GitHub] git-up / GitUp](https://github.com/git-up/GitUp) - The Git interface you've been missing all your life has finally arrived
+
 
 ### Windows
 
