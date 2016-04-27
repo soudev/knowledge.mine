@@ -348,6 +348,8 @@
 
 * [Node.js for the Real World | eBay Dev Blog](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-real-world) - 2015/10/16
 
+* [[YouTube] Node.js at Uber](https://www.youtube.com/watch?v=ElI5QtUISWM) - 2015/12/09
+
 
 ### IBM developerWorks
 
