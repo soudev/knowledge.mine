@@ -25,6 +25,8 @@
 
 ## Use Cases
 
+* [Por que Go? | Coderockr Way - Medium](https://medium.com/coderockr-way/por-que-go-a04175bee0e6)
+
 * [How We Built Uber Engineering’s Highest Query per Second Service Using Go | Uber Engineering Blog](https://eng.uber.com/go-geofence/)
 
 
