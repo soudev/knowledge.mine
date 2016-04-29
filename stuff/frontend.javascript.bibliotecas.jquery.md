@@ -87,6 +87,10 @@
 
 * [jQuery Internationalization (i18n) Plugin by Chris Johnson](https://github.com/edgeui/i18n.js)
 
+* [jScrollPane](jscrollpane.kelvinluck.com) - cross browser styleable scrollbars with jQuery and CSS
+
+  * [[GitHub] vitch / jScrollPane](https://github.com/vitch/jScrollPane) - Pretty, customisable, cross browser replacement scrollbars
+
 * [SlidesJS](http://slidesjs.com/) - is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.
 
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - menu-aim is a jQuery plugin for dropdown menus that can differentiate between a user trying hover over a dropdown item vs trying to navigate into a submenu's contents.
