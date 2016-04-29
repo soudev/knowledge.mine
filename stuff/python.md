@@ -25,6 +25,10 @@
 
 --
 
+* [Python Cheat Sheet | BSD MAG](https://bsdmag.org/python-cheat-sheet/)
+
+--
+
 * [Por que há tantos Pythons? | toptal](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
 
 * [[Speaker Deck] Aprendendo Python de forma produtiva gratuitamente](https://speakerdeck.com/erichideki/aprendendo-python-de-forma-produtiva-gratuitamente) - by Eric Hideki
