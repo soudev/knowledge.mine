@@ -53,6 +53,8 @@
 
 * [[GitHub] erichideki / video-aulas-gratuitas](https://github.com/erichideki/video-aulas-gratuitas)
 
+* [Curso de Python e Django | osantana.me](https://osantana.me/curso-de-python-e-django)
+
 --
 
 * [10 Resources to Learn Python Programming Language | CodeCondo](http://codecondo.com/10-ways-to-learn-python/)
