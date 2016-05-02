@@ -239,6 +239,8 @@
 
 * [[GitHub] angular-class / NG6-starter](https://github.com/angular-class/NG6-starter) - Starter for Angular + ES6 + (Webpack or JSPM)
 
+* [[GitHub] blacksonic / angular2-esnext-starter](https://github.com/blacksonic/angular2-esnext-starter) - Angular 2 development in Javascript with ES6/ES7 syntax powered by Babel
+
 * [[GitHub] sitepoint-editors / Angular-ES6-BookShelf-Modules](https://github.com/sitepoint-editors/Angular-ES6-BookShelf-Modules)
 
 --
