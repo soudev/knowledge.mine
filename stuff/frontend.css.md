@@ -6,9 +6,9 @@
   * [Flexbox](#flexbox)
   * [Font Size and Units](#font-size-and-units)
   * [Media Query](#media-query)
-  * [Ferramentas](#ferramentas)
-    * [Ferramentas Online](#ferramentas-online)
-    * [Ferramentas Desktop](#ferramentas-desktop)
+  * [Tools](#tools)
+    * [Online Tools](#online-tools)
+    * [Desktop Tools](#desktop-tools)
 
 <!-- toc stop -->
 
@@ -21,6 +21,12 @@
   * [português](http://pt-br.learnlayout.com/)
 
     * [posição](http://pt-br.learnlayout.com/position.html)
+
+* [HTML/CSS Path | Code School](https://www.codeschool.com/learn/html-css) - Learn the fundamentals of design, front-end development, and crafting user experiences that are easy on the eyes
+
+* [HTML & CSS | CodeCademy](https://www.codecademy.com/learn/web) - Learn how to create websites by structuring and styling your pages with HTML and CSS
+
+* [Intro to HTML/CSS: Making webpages | KhanAcademy](https://www.khanacademy.org/computing/computer-programming/html-css) - Learn how to use HTML and CSS to make webpages. HTML is the markup language that you surround content with, to tell browsers about headings, lists, tables, etc. CSS is the stylesheet language that you style the page with, to tell browsers to change the color, font, layout, and more.
 
 --
 
@@ -220,9 +226,9 @@ rem - context is always based on root context (html or body)
 * [mqa.js : a small, modern library for managing media queries programmatically (i.e. in JavaScript)](https://github.com/peol/mqa.js)
 
 
-### Ferramentas
+### Tools
 
-#### Ferramentas Online
+#### Online Tools
 
 * [colourcode](http://colourco.de) - find your colour scheme
 
@@ -233,7 +239,7 @@ rem - context is always based on root context (html or body)
 * [extractCSS](http://extractcss.com/) - is an online tool which can extract ids, classes and inline styles from HTML document and output them as CSS stylesheet
 
 
-#### Ferramentas Desktop
+#### Desktop Tools
 
 * [SC5 Style Guide](http://styleguide.sc5.io/) - A tool to build living style guides from CSS/SASS/LESS source
 
