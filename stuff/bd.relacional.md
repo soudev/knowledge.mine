@@ -1,8 +1,10 @@
 # Relacional
 
 <!-- toc -->
+
 * [Informações Gerais](#informações-gerais)
 * [Oracle](#oracle)
+* [MySQL](#mysql)
 * [PostgreSQL](#postgresql)
 * [MariaDB](#mariadb)
 * [Base em memória - Java](#base-em-memória-java)
@@ -57,6 +59,15 @@
   * [MySQL Joins | Browse Tutorials](http://browse-tutorials.com/tutorial/mysql-joins) - Full guide for MySQL joins
 
 * [Oracle Berkeley DB](http://www.oracle.com/us/products/database/berkeley-db/overview/index.htm)
+
+
+## MySQL
+
+* [MySQL](https://www.mysql.com/)
+
+* [MySQL 5.7 Introduces a JSON Data Type | LornaJane](http://www.lornajane.net/posts/2016/mysql-5-7-json-features) - 2016/04/21
+
+* [MySQL + JSON da casamento SIM! | Blog do PerformanceDB](http://performancedb.com.br/blog/archives/176) - 2016/02/15
 
 
 ## PostgreSQL
