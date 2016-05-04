@@ -265,6 +265,10 @@
 
 * [[GitHub] amcdnl / angular2-demo](https://github.com/amcdnl/angular2-demo) - Angular2 + SASS + TypeScript + SystemJS + NPM Builds
 
+--
+
+* [[GitHub] angular-redux / ng2-redux](https://github.com/angular-redux/ng2-redux) - Angular 2 bindings for Redux
+
 
 ### Estatísticas
 
