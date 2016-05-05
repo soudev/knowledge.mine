@@ -423,6 +423,12 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[PDF] The Ultimate AngularJS CheatSheet | dncmagazine](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
 
+* The Ultimate AngularJS Cheat Sheet | dotnetcurry.com
+
+  * [Part 1](http://www.dotnetcurry.com/angularjs/1114/angularjs-cheatsheet-beginner-developers-part1) - 2015/09/04
+
+  * [Part 2 (Intermediate to Advanced Developers)](http://www.dotnetcurry.com/angularjs/1115/angularjs-cheatsheet-intermediate-advanced-developers-part2) - 2015/11/04
+
 --
 
 * Angular 1.5
