@@ -2060,6 +2060,10 @@
 
   * [[GitHub] ccoenraets / intro-to-es6](https://github.com/ccoenraets/intro-to-es6)
 
+* [ECMAScript 2015 (ES6) Tutorial | Coenraets](https://ccoenraets.github.io/es6-tutorial/) - with Babel 6 and Webpack
+
+  * [[GitHub] ccoenraets / es6-tutorial](https://github.com/ccoenraets/es6-tutorial)
+
 * [O Guia do ES6: TUDO que você precisa saber |  Medium by @matheusml](https://medium.com/@matheusml/o-guia-do-es6-tudo-que-voc%C3%AA-precisa-saber-8c287876325f)
 
 --
