@@ -335,6 +335,8 @@
 
 --
 
+* [Dockerizing a PHP Application | Semaphore](https://semaphoreci.com/community/tutorials/dockerizing-a-php-application)
+
 * [Creating a Docker Container to run PHP, NGINX and Hip Hop VM (HHVM) | SEED Official Blog](http://blog.seedtech.io/post/91801062414/creating-a-docker-container-to-run-php-nginx-and-hip)
 
 * [Criando um Lamp com seu Docker | iMasters](http://imasters.com.br/desenvolvimento/criando-um-lamp-com-seu-docker/) - 2016/03/09
