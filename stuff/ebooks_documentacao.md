@@ -423,6 +423,8 @@ Share with others around the world
 
   * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/cs/programming)
 
+* [Google Computer Science Education](https://www.google.com/edu/cs/)
+
 * [Skill Tests | MetaBright](http://www.metabright.com)
 
   * [Python](http://www.metabright.com/challenges/python) | [JavaScript](http://www.metabright.com/challenges/javascript) | ...
