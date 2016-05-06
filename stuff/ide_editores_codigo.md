@@ -168,7 +168,7 @@
 
   * [[GitHub] atom](https://github.com/atom)
 
-  * [Atom Flight Manual](https://atom.io/docs/latest/)
+  * [Atom Flight Manual](http://flight-manual.atom.io/)
 
 * [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
 
