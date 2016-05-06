@@ -283,6 +283,10 @@
 
 * Optimising SVGs for Web Use | Medium by @larsenwork — [Part 1](https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-1-67e8f2d4035) | [Part 2](https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-2-6711cc15df46) | [Part 2½](https://medium.com/@larsenwork/optimising-svgs-for-web-use-part-2-1-598815d74f9c)
 
+--
+
+* [Harnessing Vector Awesomeness in Sketch | Medium - sketch-app](https://medium.com/sketch-app/harnessing-vector-awesomeness-in-sketch-3c9621408138) - Vector shapes are Sketch’s flagship feature. Learn how to master them
+
 
 ## Source Map
 
