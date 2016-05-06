@@ -309,7 +309,11 @@
 
 * [Habitica](https://habitica.com/) - Your Life the Role Playing Game
 
-  * [Dica do dia - Habitica | Desenvolvedores de Jogos Independentes](http://blog.desenvolvedoresjogosindie.com.br/dica-do-dia-habitica/)
+  * [[GitHub] HabitRPG / habitrpg](https://github.com/HabitRPG/habitrpg) - A habit tracker app which treats your goals like a Role Playing Game
+
+  * [Faça todas as suas tarefas transformando sua vida em um RPG | Engenharia Livre](http://engenharialivre.com/faca-todas-as-suas-tarefas-transformando-sua-vida-em-um-rpg/) - 2015/03/14
+
+  * [Dica do dia - Habitica | Desenvolvedores de Jogos Independentes](http://blog.desenvolvedoresjogosindie.com.br/dica-do-dia-habitica/) - 2016/02/17
 
 
 ## ALM
