@@ -156,6 +156,8 @@
 
 * [15 JavaScript Hacks | Underground WebDev](http://udgwebdev.com/15-javascript-hacks/)
 
+* [12 extremely useful hacks for JavaScript | Jscrambler Blog](https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/)
+
 --
 
 * [Code Academy - JavaScript](http://www.codecademy.com/pt/tracks/javascript-combined)
