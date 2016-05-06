@@ -195,6 +195,8 @@
 
 * [Building Desktop apps with Angular2 and Electron | Joao Garin](https://www.joaogarin.com/blog/building-desktop-apps-with-angular2-and-electron) - 2016/05/06
 
+  * [[GitHub] joaogarin / angular2-electron](https://github.com/joaogarin/angular2-electron) - Electron app running with angular2 and webpack
+
 --
 
 * [Angular 2 — Unit Testing recipes — Google Developer Experts | Medium](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584)
