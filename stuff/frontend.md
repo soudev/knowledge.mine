@@ -64,6 +64,8 @@
 
 * [Client-Side Security Best Practices | Nettuts+](http://net.tutsplus.com/tutorials/client-side-security-best-practices/)
 
+* [Target blank — the most underestimated vulnerability ever | Medium by @jitbit](https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c)
+
 --
 
 * [353 ways to reload your page : location](http://www.phpied.com/files/location-location/location-location.html)
