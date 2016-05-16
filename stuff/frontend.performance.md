@@ -20,6 +20,8 @@
 
   * [[Speaker Deck] Como Perder Peso (no browser)](https://speakerdeck.com/zenorocha/como-perder-peso-no-browser/) - Apresentação do Zeno Rocha no Rio.js
 
+  * [Browser Calories](https://browserdiet.com/calories/) - The easiest way to measure your performance budget
+
 * [Let's talk about Web Performance | PonyFoo](http://ponyfoo.com/articles/talk-about-web-performance)
 
 * [[GitHub] bevacqua / perfschool](https://github.com/bevacqua/perfschool) - Navigate the #perfmatters salt marsh waters in this NodeSchool workshopper
