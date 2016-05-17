@@ -929,6 +929,10 @@
 
 * [[GitHub] jaruba / multipass-torrent](https://github.com/jaruba/multipass-torrent) - Collects information about torrents from various sources (dump, RSS, HTML pages) and associates the video files within with IMDB ID - stores data in a distributed DB
 
+* [[GitHub] feross / webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for the web
+
+* [[GitHub] feross / webtorrent-desktop](https://github.com/feross/webtorrent-desktop) - Streaming torrent client for OS X, Windows, and Linux
+
 
 ### Node.js no Servidor
 
