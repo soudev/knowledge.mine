@@ -26,6 +26,8 @@
 
 * [Reset the DNS cache in OS X | Apple Support](https://support.apple.com/en-us/HT202516) - Learn how to reset (flush) the DNS cache.
 
+* [Find (and kill) process locking port 3000 on Mac | StackOverflow](https://stackoverflow.com/questions/3855127/find-and-kill-process-locking-port-3000-on-mac)
+
 --
 
 * [[GitHub] matryer / bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
