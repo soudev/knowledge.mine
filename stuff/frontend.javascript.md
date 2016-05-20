@@ -2038,9 +2038,13 @@
 
 --
 
-* [es6 cheatsheet | Duckduckgo](https://duckduckgo.com/?q=es6+cheatsheet&ia=answer&iax=1)
+* [es6 cheatsheet | Duckduckgo](https://duckduckgo.com/?q=es6+cheat+sheet&ia=cheatsheet&iax=1)
 
 * [[GitHub] DrkSephy / es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
+
+* [JavaScript (ES6 and Beyond) Cheat Sheet | TopTal](https://www.toptal.com/javascript/javascript-es6-cheat-sheet)
+
+* [[Gist] ES6 cheat sheet, with very tasty examples](https://gist.github.com/mwitek/aa37e47b2546f994e387)
 
 --
 
