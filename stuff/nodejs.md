@@ -1495,6 +1495,12 @@
 
   * [A Jade Tutorial for Beginners | SitePoint](http://www.sitepoint.com/jade-tutorial-for-beginners/) - 2016/02/17
 
+--
+
+* [[GitHub] fdaciuk / hmh](https://github.com/fdaciuk/hmh) - How many hours? Calculate hours, using time spaces.
+
+* [[GitHub] fdaciuk / hmh-cli](https://github.com/fdaciuk/hmh-cli) - How many hours? Calculate hours, using time spaces on terminal.
+
 
 ### Streams
 
