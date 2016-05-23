@@ -1693,6 +1693,8 @@
 
 * [NiDIUM](http://www.nidium.com/) - A new browser engine
 
+* [Easier Web Application Debugging with the Command Line API | Telerik](http://developer.telerik.com/content-types/tutorials/easier-web-application-debugging-command-line-api/) - 2016/05/17
+
 
 ##### Firefox
 
