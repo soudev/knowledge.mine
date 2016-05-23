@@ -347,6 +347,8 @@
 
 * [An Introduction to the Web Notifications API | Site Point](http://www.sitepoint.com/introduction-web-notifications-api/)
 
+* [[GitHub] Nickersoft / push.js](https://github.com/Nickersoft/push.js) - A compact, cross-browser solution for using the JavaScript Notifications API
+
 --
 
 * [12 Awesome CSS3 Features That You Can Finally Start Using | Tutorialzine](http://tutorialzine.com/2013/10/12-awesome-css3-features-you-can-finally-use/)
