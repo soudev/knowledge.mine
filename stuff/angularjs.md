@@ -143,6 +143,8 @@
 
 * [Creating Cross-Platform Apps with Angular 2 | Channel 9](https://channel9.msdn.com/Events/Build/2016/T627) - 2016/03/31
 
+* [Things that Excite Me about Angular 2 | Tero Parviainen](http://teropa.info/blog/2016/05/19/things-that-excite-me-about-angular-2.html) - 2016/05/19
+
 --
 
 * [Angular 1 and Angular 2 integration: the path to seamless upgrade | AngularJS Blog](http://angularjs.blogspot.com.br/2015/08/angular-1-and-angular-2-coexistence.html)
