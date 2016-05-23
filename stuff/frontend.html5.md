@@ -691,6 +691,8 @@
 
   * [How fast is PDF.js? | Mozilla Hacks](https://hacks.mozilla.org/2014/05/how-fast-is-pdf-js/)
 
+  * [Custom PDF Rendering in JavaScript with Mozilla’s PDF.Js | SitePoint](https://www.sitepoint.com/custom-pdf-rendering/) - 2016/05/16
+
 * [[GitHub] bpampuch / pdfmake](https://github.com/bpampuch/pdfmake) - Client/server side PDF printing in pure JavaScript
 
 --
