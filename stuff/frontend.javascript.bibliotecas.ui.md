@@ -275,12 +275,6 @@
 
 --
 
-* [[GitHub] richardkall / react-starter](https://github.com/richardkall/react-starter) - Boilerplate for universal React applications
-
-* [[GitHub] este / este](https://github.com/este/este) - The best dev stack and starter kit for React universal web/mobile apps.
-
---
-
 * [Creating AngularJS-Inspired "Directive" Components In ReactJS | Ben Nadel](http://www.bennadel.com/blog/2890-creating-angularjs-inspired-directive-components-in-reactjs.htm) - 2015/08/17
 
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
@@ -312,6 +306,12 @@
 * [Publishing your first React component on NPM | Cameron Nokes](http://cameronnokes.com/blog/publishing-your-first-react-component-on-npm) - 2015/07/16
 
 --
+
+* [[GitHub] richardkall / react-starter](https://github.com/richardkall/react-starter) - Boilerplate for universal React applications
+
+* [[GitHub] este / este](https://github.com/este/este) - The best dev stack and starter kit for React universal web/mobile apps.
+
+* [[GitHub] mxstbr / react-boilerplate](https://github.com/mxstbr/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices
 
 * [[GitHub] kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Facebook React Starter Kit - a skeleton for a typical web application / single-page application (SPA). Technology stack: Gulp, Webpack, BrowserSync, React.js, Bootstrap
 
