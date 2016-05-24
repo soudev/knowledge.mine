@@ -222,6 +222,8 @@
 
 ## Desenvolvimento
 
+* [Make your app extensible with JavaScript Core | iOS App Development - Medium](https://medium.com/ios-os-x-development/make-your-app-extensible-with-javascript-core-7074061f2b05)
+
 * [Swift](https://developer.apple.com/swift/)
 
   * [Swift Blog | Apple Developer](https://developer.apple.com/swift/blog/)
@@ -231,7 +233,6 @@
   * [Swift Cheat Sheet and Quick Reference | Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
 
   * [[GitHub] fullstackio / FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at [fullstackedu.com](https://www.fullstackedu.com/)
-
 
 * Ruby
 
