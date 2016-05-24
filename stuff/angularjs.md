@@ -195,6 +195,8 @@
 
 * [Angular 2 authentication with Auth0 and Node.js | Todd Motto](https://toddmotto.com/angular-2-authentication) - 2016/04/19
 
+* [Implementing the Missing "resolve" Feature of the Angular 2 Router | Minko Gechev](http://blog.mgechev.com/2016/05/21/angular2-router-implementing-missing-resolve-feature-deprecated-defer/) - 2016/05/21
+
 --
 
 * [Building Desktop apps with Angular2 and Electron | Joao Garin](https://www.joaogarin.com/blog/building-desktop-apps-with-angular2-and-electron) - 2016/05/06
