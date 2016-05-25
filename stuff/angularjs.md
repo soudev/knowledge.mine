@@ -122,6 +122,8 @@
 
 * [Angular 1.5 new component lifecycle hooks | codelord.net](http://www.codelord.net/2016/04/14/angular-1-dot-5-new-component-lifecycle-hooks/) - 2016/04/14
 
+* [Upgrade Your App to Angular 1.5 Components and Beyond! | SitePoint](https://www.sitepoint.com/upgrade-to-angular-components/) - 2016/05/17
+
 
 ### Angular.js 2.0
 
