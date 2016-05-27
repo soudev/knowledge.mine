@@ -263,6 +263,10 @@
 
 * [[GitHub] sitepoint-editors / Angular-ES6-BookShelf-Modules](https://github.com/sitepoint-editors/Angular-ES6-BookShelf-Modules)
 
+* [[GitHub] AngularClass / NG6-starter](https://github.com/AngularClass/NG6-starter) - An AngularJS Starter repo for Angular + ES6 + (Webpack or JSPM) by @AngularClass
+
+* [[GitHub] asleepinglion / ng6-cli](https://github.com/asleepinglion/ng6-cli) - Extensible CLI Tools for the Component-Driven Development of Large-Scale Angular Apps built with ES6
+
 --
 
 * [[GitHub] angular / angular2-seed](https://github.com/angular/angular2-seed)
