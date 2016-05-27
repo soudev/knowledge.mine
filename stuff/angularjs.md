@@ -211,6 +211,8 @@
 
   * [[GitHub] joaogarin / angular2-electron](https://github.com/joaogarin/angular2-electron) - Electron app running with angular2 and webpack
 
+* [Build Your Own Chrome Extension Using Angular 2 & TypeScript | SitePoint](https://www.sitepoint.com/chrome-extension-angular-2/) - 2016/05/09
+
 --
 
 * [Angular 2 — Unit Testing recipes — Google Developer Experts | Medium](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584)
