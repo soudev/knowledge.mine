@@ -124,6 +124,8 @@
 
 * [Upgrade Your App to Angular 1.5 Components and Beyond! | SitePoint](https://www.sitepoint.com/upgrade-to-angular-components/) - 2016/05/17
 
+* [Exploring the Angular 1.5 .component() method | @toddmotto](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
+
 
 ### Angular.js 2.0
 
