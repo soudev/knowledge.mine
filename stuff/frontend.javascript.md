@@ -2104,6 +2104,8 @@
 
 --
 
+* [six tricks enabled by new ES6 features | 2ality](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
+
 * [Deploying ECMAScript 6 | 2ality](http://www.2ality.com/2015/04/deploying-es6.html)
 
 * [ECMAScript 6 modules: the final syntax | 2ality](http://www.2ality.com/2014/09/es6-modules-final.html)
