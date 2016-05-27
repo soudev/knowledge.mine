@@ -127,6 +127,8 @@
 
 ### Angular.js 2.0
 
+* [Angular 2 TypeScript Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+
 * [[GitHub] AngularClass / awesome-angular2](https://github.com/AngularClass/awesome-angular2) - A curated list of awesome Angular 2 resources by @AngularClass
 
 --
@@ -146,6 +148,10 @@
 * [Creating Cross-Platform Apps with Angular 2 | Channel 9](https://channel9.msdn.com/Events/Build/2016/T627) - 2016/03/31
 
 * [Things that Excite Me about Angular 2 | Tero Parviainen](http://teropa.info/blog/2016/05/19/things-that-excite-me-about-angular-2.html) - 2016/05/19
+
+* [[YouTube] An Angular 2 Force Awakens - John Papa | ng-conf](https://www.youtube.com/watch?v=WAPQF_GA7Qg) - 2016/05/04
+
+  * [[GitHub] johnpapa / angular2-force](https://github.com/johnpapa/angular2-force) - ngConf 2016 live coding demo
 
 --
 
