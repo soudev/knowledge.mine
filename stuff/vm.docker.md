@@ -571,6 +571,12 @@
 
 * [Gandalf.io](https://gandalf.io/) -  Affordable Docker Private Registries
 
+--
+
+* [Flocker](https://clusterhq.com/flocker/) -  is an open-source container data volume manager for your Dockerized applications
+
+  * [Persistindo dados – Flocker | iMasters](http://imasters.com.br/desenvolvimento/devops/persistindo-dados-flocker/) - 2016/05/30
+
 
 ### Node.js
 
