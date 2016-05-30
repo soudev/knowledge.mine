@@ -1153,6 +1153,11 @@
 
 * [JSLint](http://www.jslint.com/)
 
+* [ESLint](https://eslint.org/) - The pluggable linting utility for JavaScript and JSX
+
+  * [[GitHub] eslint / eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
+
+  * [Writing custom EsLint rules | Kenneth Truyers](https://www.kenneth-truyers.net/2016/05/27/writing-custom-eslint-rules/) - 2016/05/27
 
 
 ### Integração Contínua
