@@ -1157,6 +1157,8 @@
 
   * [[GitHub] eslint / eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 
+  * [Working with Rules | ESLint](http://eslint.org/docs/developer-guide/working-with-rules)
+
   * [Writing custom EsLint rules | Kenneth Truyers](https://www.kenneth-truyers.net/2016/05/27/writing-custom-eslint-rules/) - 2016/05/27
 
 
