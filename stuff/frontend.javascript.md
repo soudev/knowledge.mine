@@ -1528,6 +1528,8 @@
 
 * [[GitHub] danprince / jsxpr](https://github.com/danprince/jsxpr) - Lisp in your language.
 
+* [Fable](https://fsprojects.github.io/Fable/) - (F# |> BABEL) The compiler that emits JavaScript you can be proud of!
+
 
 #### Máquinas Virtuais
 
