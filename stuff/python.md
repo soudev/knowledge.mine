@@ -92,6 +92,8 @@
 
 * [[GitHub] jkbrzt / httpie](https://github.com/jkbrzt/httpie) - CLI HTTP client; user-friendly cURL replacement featuring intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.
 
+* [[GitHub] eliangcs / http-prompt](https://github.com/eliangcs/http-prompt) - HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting
+
 --
 
 * [[GitHub] nvbn / thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
