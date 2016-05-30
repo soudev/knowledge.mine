@@ -1929,6 +1929,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] inikulin / publish-please](https://github.com/inikulin/publish-please) - Safe and highly functional replacement for `npm publish`
+
 * [How to Build an npm Package | Treehouse Blog](http://blog.teamtreehouse.com/build-npm-package)
 
 * [How to Build a Node npm Package From Scratch | Decodize](http://decodize.com/javascript/build-nodejs-npm-installation-package-scratch/)
