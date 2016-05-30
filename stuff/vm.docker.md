@@ -267,6 +267,12 @@
 
 --
 
+* [Sonatype Nexus](http://www.sonatype.org/nexus/)
+
+  * [[GitHub] sonatype / docker-nexus](https://github.com/sonatype/docker-nexus) - Docker image for Sonatype Nexus
+
+  * [[GitHub] sonatype / docker-nexus3](https://github.com/sonatype/docker-nexus3) - Dockerized version of Nexus Repo Manager 3
+
 * [Integration testing with Maven and Docker | Java Code Geeks](http://www.javacodegeeks.com/2014/03/integration-testing-with-maven-and-docker.html)
 
 * [[GitHub] spotify / docker-maven-plugin](https://github.com/spotify/docker-maven-plugin) - A maven plugin for docker
