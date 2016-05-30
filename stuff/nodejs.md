@@ -2005,6 +2005,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] WebReflection / dblite](https://github.com/WebReflection/dblite) - sqlite for node.js without gyp problems
 
+* [[GitHub] kriasoft / node-sqlite](https://github.com/kriasoft/node-sqlite) - SQLite client library for Node.js applications (SQlite3, ES6 Promise, ES7 async/await, Babel) and SQL-based migrations API
+
 --
 
 * [[GitHub] google / lovefield](https://github.com/google/lovefield) - A cross-browser, SQL-like, relational query engine for Web in pure JavaScript.
