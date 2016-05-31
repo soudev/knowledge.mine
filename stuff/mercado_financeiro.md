@@ -155,6 +155,10 @@
 
 * [[YouTube] CDB x Poupança - Tudo Sobre Renda Fixa](https://www.youtube.com/watch?v=0eXYDsYPYgI)
 
+* [[YouTube] O que são CDBs e LCs e como investir? -  Easyinvest](https://www.youtube.com/watch?v=zjNRx-q5GFI)
+
+* [[YouTube] O que são LCIs e LCAs e como investir? - Easyinvest](https://www.youtube.com/watch?v=IJflAekfzKo)
+
 
 ### Títulos do Governo
 
