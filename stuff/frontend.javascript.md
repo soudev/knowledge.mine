@@ -182,6 +182,8 @@
 
   * [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
 
+* [[GitHub] cezaraugusto / You-Dont-Know-JS](https://github.com/cezaraugusto/You-Dont-Know-JS) - (PT-BR translation) JS Book Series
+
 --
 
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
