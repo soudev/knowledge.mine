@@ -161,6 +161,10 @@
 
 * [Visual Studio Code ♥ ES6 | MSDN Blogs](http://blogs.msdn.com/b/vscode/archive/2015/07/06/vs-code-es6.aspx)
 
+--
+
+* [[GitHug] Microsoft / vscode-spell-check](https://github.com/Microsoft/vscode-spell-check) - An extension to VSCode for spell and grammar checking
+
 
 ### Atom
 
