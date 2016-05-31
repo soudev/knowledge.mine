@@ -500,6 +500,10 @@
 
   * [Structuring and validating business rules in JavaScript | Medium - by Grigoriy Chudnov](https://medium.com/@gchudnov/structuring-and-validating-business-rules-in-javascript-fbaa1019902a)
 
+--
+
+* [[GitHub] vesln / teacher](https://github.com/vesln/teacher) - Spell check for Node.js
+
 
 ### Desenvolvimento
 
