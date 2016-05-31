@@ -416,6 +416,10 @@
 
 * [Why You Should Consider React Native For Your Mobile App | Smashing Magazine](https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/) - 2016/04/07
 
+--
+
+* [Deco IDE](https://www.decosoftware.com/) - the React Native IDE
+
 
 ### Template Engine
 
