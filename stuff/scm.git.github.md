@@ -170,6 +170,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [[GitHub] agis- / git-style-guide](https://github.com/agis-/git-style-guide) - A Git Style Guide
 
+* [[GitHub] theandersonn / comandos-git](https://github.com/theandersonn/comandos-git) - Guia com seleção de comandos para o trabalho com Git e GitHub
+
 
 ### Curso online
 
