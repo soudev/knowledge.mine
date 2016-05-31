@@ -47,6 +47,10 @@
 
 --
 
+* [[YouTube] 5 dicas para uma aposentadoria sem INSS - Easyinvest](https://www.youtube.com/watch?v=NR4eEkc6avI)
+
+--
+
 * [[YouTube] XP Investimentos: Como Montar o Orçamento Doméstico?](https://www.youtube.com/watch?v=itqLOX3hQlA)
 
 * [[YouTube] XP Investimentos: Como se Planejar Financeiramente?](https://www.youtube.com/watch?v=3Sucd6VrbtU)
