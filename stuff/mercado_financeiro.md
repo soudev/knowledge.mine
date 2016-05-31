@@ -141,6 +141,7 @@
 
 * [[YouTube] XP Investimentos: O Poder dos Juros Nos Seus Investimentos](https://www.youtube.com/watch?v=HgebtNs9gVk)
 
+* [[YouTube] O que são ETFs e como investir? - Easyinvest](https://www.youtube.com/watch?v=mxth2EVw6H8)
 
 ### Renda Fixa
 
