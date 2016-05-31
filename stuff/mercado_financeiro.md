@@ -145,6 +145,9 @@
 
 * [[YouTube] O que são ETFs e como investir? - Easyinvest](https://www.youtube.com/watch?v=mxth2EVw6H8)
 
+* [[YouTube] Saiba o que é o COE - Easyinvest](https://www.youtube.com/watch?v=klQz8SFmVTE)
+
+
 ### Renda Fixa
 
 * [[YouTube] XP Investimentos: Introdução à Renda Fixa](https://www.youtube.com/watch?v=Xb6vI9xZJOk)
