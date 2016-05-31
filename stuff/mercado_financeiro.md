@@ -196,6 +196,8 @@
 
 ### Ações
 
+* [[YouTube] O que são Ações e como investir? - Easyinvest](https://www.youtube.com/watch?v=y-ilmLcogB0)
+
 * [[YouTube] Rico com vc: Como investir em ações?](https://www.youtube.com/watch?v=qJlvR8BgHLs)
 
 * [[YouTube] XP Investimentos: Quanto devo investir em ações?](https://www.youtube.com/watch?v=BkzLS-v3eSs)
