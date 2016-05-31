@@ -37,6 +37,8 @@
 
 * [Só controlar os gastos não basta! | Minhas Economias](http://www.minhaseconomias.com.br/blog/dicas-uso/controlar-os-gastos-nao-basta)
 
+* [Me poupe](http://mepoupenaweb.com/) - Finanças pessoais, economia simplificada, consumo consciente e enriquecimento lícito sem frescura
+
 --
 
 * [12 ideias para aumentar as chances de seu filho ter um futuro acima da média | Blog Geração de Valor](http://geracaodevalor.com/blog/12-ideias-para-aumentar-as-chances-de-seu-filho-ter-um-futuro-acima-da-media/)
