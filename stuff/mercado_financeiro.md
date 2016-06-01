@@ -154,6 +154,10 @@
 
 ### Renda Fixa
 
+* [[YouTube] 10 Como Escolher a Melhor Renda Fixa | Trovó Academy](https://www.youtube.com/watch?v=jUAM9KYD4LM)
+
+* [[YouTube] 9 - tipos de renda fixa | Trovó Academy](https://www.youtube.com/watch?v=1CrLVNRyOUE)
+
 * [[YouTube] XP Investimentos: Introdução à Renda Fixa](https://www.youtube.com/watch?v=Xb6vI9xZJOk)
 
   * [Renda Fixa | XP Investimentos](http://www.xpi.com.br/produtos/renda-fixa.aspx)
