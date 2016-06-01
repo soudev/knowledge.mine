@@ -97,6 +97,24 @@
 
 * [[YouTube] Webinário Faça seu Dinheiro Render Mais | InfoMoney](https://www.youtube.com/watch?v=KXDeMNRtAGU) - 2015/05/19
 
+--
+
+* [[YouTube] Trovó Academy](https://www.youtube.com/channel/UC-k3bhmFH97pBfRXiPGRwVg)
+
+  * [1 - É assim que funciona a pobreza - Genial!](https://www.youtube.com/watch?v=eJOvC0tON8Q)
+
+    * `riqueza = quanto você ganha > quanto você gasta = sobra` -> investe para receber juros
+
+    * `pobreza = quanto você gasta > quando você ganha = falta` -> você paga juros
+
+  * [2 - Pare de reclamar da vida e faça acontecer!](https://www.youtube.com/watch?v=0ZG-iuaNBsQ)
+
+    * regra de ouro para quem está endividado : `saiba quanto você deve`. Do que você ganha: 70% -> gastos gerais | 20% -> pagar dívidas | 10% -> investir
+
+  * [3 - Ganhar pouco não significa ser pobre!](https://www.youtube.com/watch?v=4mx17ZrIS6I)
+
+  * [4 - Está atolado até o pescoço? Respire e saia da dívida](https://www.youtube.com/watch?v=CnRA9FXNp-E)
+
 
 ### Curiosidades
 
@@ -154,9 +172,9 @@
 
 ### Renda Fixa
 
-* [[YouTube] 10 Como Escolher a Melhor Renda Fixa | Trovó Academy](https://www.youtube.com/watch?v=jUAM9KYD4LM)
-
 * [[YouTube] 9 - tipos de renda fixa | Trovó Academy](https://www.youtube.com/watch?v=1CrLVNRyOUE)
+
+* [[YouTube] 10 - Como Escolher a Melhor Renda Fixa | Trovó Academy](https://www.youtube.com/watch?v=jUAM9KYD4LM)
 
 * [[YouTube] XP Investimentos: Introdução à Renda Fixa](https://www.youtube.com/watch?v=Xb6vI9xZJOk)
 
