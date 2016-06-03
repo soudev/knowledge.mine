@@ -148,6 +148,14 @@
 
 * [[YouTube] Banking Explained – Money and Credit | Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=fTTGALaRZoc) - 2015/03/12
 
+--
+
+* [Nerdcast 82 - Nerd Rico, Nerd Pobre | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-82-nerd-rico-nerd-pobre/)
+
+* [Nerdcast 160 - Nerd Rico, Nerd Pobre 2 | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-160-nerd-rico-nerd-pobre-2/)
+
+* [Nerdcast 519 - Nerd Rico, Nerd Pobre 3 | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-519-nerd-rico-nerd-pobre-3/)
+
 
 ## Informações úteis sobre investimentos
 
