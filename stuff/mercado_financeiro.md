@@ -156,6 +156,8 @@
 
 * [Nerdcast 519 - Nerd Rico, Nerd Pobre 3 | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-519-nerd-rico-nerd-pobre-3/)
 
+* [Tecnocast 042 – Independência Financeira | Tecnoblog](https://tecnoblog.net/196498/tecnocast-042-independencia-financeira/)
+
 
 ## Informações úteis sobre investimentos
 
