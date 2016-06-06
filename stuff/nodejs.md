@@ -1445,6 +1445,8 @@
 
 * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder
 
+* [[GitHub] SheetJS / js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer
+
 * [[GitHub] jlord / sheetdown](https://github.com/jlord/sheetdown) - Convert a Google Spreadsheet into a table in Markdown
 
   * [Introducing Sheetdown | Source](https://source.opennews.org/en-US/articles/introducing-sheetdown/)
