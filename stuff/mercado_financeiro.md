@@ -337,6 +337,8 @@
 
 ## Ferramentas
 
+* [Simulador de Juros Compostos | Clube dos Poupadores](https://www.clubedospoupadores.com/simulador-de-juros-compostos)
+
 * [Eclipse Trader](http://www.eclipsetrader.org/)
 
 
