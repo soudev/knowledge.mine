@@ -129,6 +129,8 @@
 
   * [Free Invoice Generator by Invoiced](https://invoice-generator.com/)
 
+    * [[GitHub] Invoiced / invoice-generator-api](A free API for generating invoice PDFs)
+
 --
 
 * [TransferWise](https://transferwise.com) - transferências internacionais pagando menos taxas
