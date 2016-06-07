@@ -1251,6 +1251,8 @@
 
 --
 
+* [Convert CSV to JSON in JavaScript | TechSlides](http://techslides.com/convert-csv-to-json-in-javascript)
+
 * [[GitHub] gkindel / CSV-JS](https://github.com/gkindel/CSV-JS) - A Comma-Separated Values parser for JavaScript. Standards-based, stand alone, and no regular expressions
 
 * [[GitHub] knrz / CSV.js](https://github.com/knrz/CSV.js) - A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance

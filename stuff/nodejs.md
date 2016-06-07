@@ -1439,6 +1439,8 @@
 
 * [[GitHub] Leonidas-from-XIV / node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter
 
+* [Convert CSV to JSON in JavaScript | TechSlides](http://techslides.com/convert-csv-to-json-in-javascript)
+
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
 
 * [[GitHub] gkindel / CSV-JS](https://github.com/gkindel/CSV-JS) - A Comma-Separated Values parser for JavaScript. Standards-based, stand alone, and no regular expressions
