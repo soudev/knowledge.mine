@@ -1180,6 +1180,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [How to make AngularJS awesome with SEO | Ultimate web tips](http://www.tweetganic.com/a/331717)
 
+* [Pretty URLs in AngularJS: Removing the # | Scotch](https://scotch.io/tutorials/pretty-urls-in-angularjs-removing-the-hashtag) - 2014-01-29
+
 
 ### HTML5 offline
 
