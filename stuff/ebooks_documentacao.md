@@ -489,6 +489,8 @@ Share with others around the world
 
 --
 
+* [CodeCasts](https://codecasts.com.br)
+
 * [Edukee :: Tornando o ensino fácil e real!](http://www.edukee.com/)
 
 * [Code Squad - Treinamento de Elite](http://code-squad.com/)
