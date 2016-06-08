@@ -927,6 +927,8 @@
 
 ### Torrent
 
+* [[GitHub] maxogden / torrent](https://github.com/maxogden/torrent) - download torrents with node from the CLI
+
 * [[GitHub] mafintosh / peerflix](https://github.com/mafintosh/peerflix) - a streaming torrent client
 
 * [[GitHub] mafintosh / peerflix-engine](https://github.com/mafintosh/peerflix-engine) - The low level streaming torrent engine that peerflix will use
