@@ -504,6 +504,12 @@
 
 * [How to Start Flowing with Flow-based Programming | CoLab Coop](https://colab.coop/blog/how-to-start-flowing-with-flow-based-programming/) - 2015/08/29
 
+--
+
+* Redux
+
+  * [Conhecendo o básico do Redux | Coderockr Way — Medium](https://medium.com/coderockr-way/conhecendo-o-básico-do-redux-7315bcf09cef) - 2016/06/02
+
 
 ### Dicas
 
