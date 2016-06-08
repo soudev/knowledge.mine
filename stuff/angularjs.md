@@ -1488,6 +1488,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [A better way to $scope, angular.extend, no more “vm = this” | @toddmotto](https://toddmotto.com/a-better-way-to-scope-angular-extend-no-more-vm-this/) - 2016/04/20
+
 * [AngularJS: "Controller as" or "$scope"? | Code Tunnel](http://codetunnel.com/angularjs-controller-as-or-scope/)
 
 * [Start naming your Angular models with the property name ‘model’ | Medium - Elise Chant](https://medium.com/@elisechant/start-naming-your-angular-models-with-the-property-name-model-3911ea15d63)
