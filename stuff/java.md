@@ -15,3 +15,16 @@
 * [Nexus OSS | Sonatype](http://www.sonatype.org/nexus/go/) - maven server
 
 * [[GitHub] cko / predefined_maven_properties](https://github.com/cko/predefined_maven_properties) - List of predefined Maven properties
+
+
+## Microservices
+
+* [WildFly-Swarm - New player in microservices world | thecookiezen blog](http://thecookiezen.com/blog/2016/01/10/wildfly-swarm-new-player-in-microservices-world/) - 2016/01/10
+
+* [Monolithic to Microservices Refactoring for Java EE Applications | Miles to go 3.0 ...](http://blog.arungupta.me/monolithic-microservices-refactoring-javaee-applications/) - 2015/06/10
+
+* [WildFly Swarm: Criando Microservices com Java EE 7 | SlidesShare](http://www.slideshare.net/gastaldi/wildfly-swarm-criando-microservices-com-java-ee-7) - 2016/05/16
+
+* [[GitHub] emmanuelneri / arquitetura-microservices](https://github.com/emmanuelneri/arquitetura-microservices) - Arquitetura microservices JavaEE 7 desenvolvida para experimentos durante o mestrado
+
+* [Down-to-Earth Microservices with Java EE | Oracle Docs](https://community.oracle.com/docs/DOC-996673) - 2016/04/05
