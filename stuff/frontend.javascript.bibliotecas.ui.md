@@ -561,6 +561,12 @@
 
 * [[GitHub] kamisama / cal-heatmap](https://github.com/kamisama/cal-heatmap) - Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data
 
+--
+
+* [[GitHug] IonicaBizau / github-calendar](https://github.com/IonicaBizau/github-calendar) - Embed your GitHub calendar everywhere
+
+* [[GitHub] 2016rshah / githubchart-api](https://github.com/2016rshah/githubchart-api) - Embed github contributions chart as image
+
 
 #### Mapas
 
