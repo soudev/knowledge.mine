@@ -14,6 +14,7 @@
     * [PhantomJS](#phantomjs)
     * [SmilerJS](#smilerjs)
     * [Cobertura](#cobertura)
+    * [CodeceptJS](#codeceptjs)
 
 <!-- toc stop -->
 
@@ -197,3 +198,10 @@
 * [JSCoverage](http://siliconforks.com/jscoverage/)
 
 * [Saga](http://timurstrekalov.github.io/saga/) - Better code coverage tool for JavaScript
+
+
+#### CodeceptJS
+
+* [CodeceptJS](http://codecept.io/) - Modern Era Acceptance Testing for NodeJS
+
+* [[GitHub] Codeception / CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Aceptance Testing Framework for NodeJS
