@@ -1650,6 +1650,10 @@
 
 --
 
+* [[GitHug] SamVerschueren / listr](https://github.com/SamVerschueren/listr) - Terminal task list
+
+--
+
 * [[GitHub] ruyadorno / ipt](https://github.com/ruyadorno/ipt) - Interactive Pipe To: The missing cli interactive workflow
 
 * [[GitHub] stephanepericat / cmdl](https://github.com/stephanepericat/cmdl) - A simple, yet powerful command-line interface builder
