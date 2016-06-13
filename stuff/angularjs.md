@@ -122,6 +122,8 @@
 
 * [Angular 1.5 new component lifecycle hooks | codelord.net](http://www.codelord.net/2016/04/14/angular-1-dot-5-new-component-lifecycle-hooks/) - 2016/04/14
 
+* [Comprehensive dive into Angular 1.5 lifecycle hooks | @toddmotto](https://toddmotto.com/angular-1-5-lifecycle-hooks) - 2016/06/03
+
 * [Upgrade Your App to Angular 1.5 Components and Beyond! | SitePoint](https://www.sitepoint.com/upgrade-to-angular-components/) - 2016/05/17
 
 * [Exploring the Angular 1.5 .component() method | @toddmotto](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
