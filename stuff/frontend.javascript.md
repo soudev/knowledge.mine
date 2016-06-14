@@ -825,6 +825,8 @@
 
 --
 
+* [Regular Expressions in JavaScript | SitePoint](https://www.sitepoint.com/expressions-javascript/) - 2016/06/02
+
 * [JavaScript RegExp Object | w3schools.com](http://www.w3schools.com/jsref/jsref_obj_regexp.asp)
 
 * [Regular expressions in JavaScript - Dive Into JavaScript](http://www.diveintojavascript.com/articles/javascript-regular-expressions)
