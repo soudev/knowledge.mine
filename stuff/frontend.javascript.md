@@ -1221,6 +1221,10 @@
 
 * [[GitHub] arasatasaygin / is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 
+* [[GitHub] pwnn / is.js](https://github.com/pwnn/is.js) - Minimalistic predicate library
+
+* [[GitHub] pwnn / tagOf](https://github.com/pwnn/tagOf) - typeof alternative
+
 * [[GitHub] dleitee / strman](https://github.com/dleitee/strman) - A Javascript string manipulation library without npm dependences
 
 * [[GitHub] RadLikeWhoa / helpers.js](https://github.com/RadLikeWhoa/helpers.js) - Small JavaScript functions for common use cases.
