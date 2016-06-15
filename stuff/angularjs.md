@@ -776,6 +776,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ## Dicas
 
+* [Angular Code Review Checklists](https://angularcodereview.com/) - Collection of free checklists you can use to perform a code review of your Angular application
+
 * [Essential Tools for Building SPAs with AngularJS | Telerik Blog](http://www.telerik.com/blogs/angularjs-developer-tools-list) - 2016/02/17
 
 * [10 Essential AngularJS Interview Questions | Toptal](http://www.toptal.com/angular-js/interview-questions)
