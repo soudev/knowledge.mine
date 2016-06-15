@@ -14,6 +14,10 @@
 
 * [Go by Example](https://gobyexample.com/) - is a hands-on introduction to Go using annotated example programs.
 
+--
+
+* [Go Tooling in Action | Google Cloud Platform — Community — Medium](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc)
+
 * [Build web application with Golang | GitBooks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
 --
