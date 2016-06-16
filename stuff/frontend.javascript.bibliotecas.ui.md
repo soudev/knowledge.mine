@@ -231,6 +231,8 @@
 
 * [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
 
+* [Começando com React.js | jscasts](http://jscasts.teachable.com/courses/comecando-com-react-js) - O tutorial que você queria, mostrando de forma simplificada suas principais características e vantagens
+
 --
 
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
