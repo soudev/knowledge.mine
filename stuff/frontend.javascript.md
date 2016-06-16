@@ -1529,6 +1529,8 @@
 
   * [[GitHub] DanWahlin / TypeScriptDemos](https://github.com/DanWahlin/TypeScriptDemos) - A set of TypeScript demos showing various features of the language
 
+  * [[YouTube] Typescript - Daniel Rosenwasser | ng-conf 2016](https://www.youtube.com/watch?v=dzPjBWLdGz0)
+
   * [TypeScript for C# Programmers | InfoQ](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 
   * [The Rise of TypeScript? | Telerik Developer Network](http://developer.telerik.com/featured/the-rise-of-typescript/)
