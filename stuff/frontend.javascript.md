@@ -2193,6 +2193,8 @@
 
 * [ES6 Let, Const and the “Temporal Dead Zone” (TDZ) in Depth | ponyfoo](http://ponyfoo.com/articles/es6-let-const-and-temporal-dead-zone-in-depth) - 2015/09/04
 
+* [How three dots changed JavaScript: spread operator and rest parameter | Rainsoft](http://rainsoft.io/how-three-dots-changed-javascript/) - (2016/06/17) Spread operator and rest parameter are great additions. The article explains how they improve array literals, array destruction and function arguments handling.
+
 --
 
 * [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
