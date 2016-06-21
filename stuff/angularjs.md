@@ -485,6 +485,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [[GitHub] johnpapa / angularjs-styleguide](https://github.com/johnpapa/angularjs-styleguide) - AngularJS Style Guide: A starting point for AngularJS development teams to provide consistency through good practices
 
+* [A new Angular 1.x ES2015 styleguide, the path to Angular 2 | @toddmotto](https://toddmotto.com/rewriting-angular-styleguide-angular-2) - 2016/06/13
+
 --
 
 * [Single Page Apps com AngularJS | Matheus Azzi](http://matheusazzi.com/single-page-apps/)
