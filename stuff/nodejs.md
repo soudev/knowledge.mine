@@ -2162,6 +2162,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [Dockerizing a Node.js web app | Node.js](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
 * [How to Dockerize your Node application | Luca Mezzalira](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
 
 * [Dockerizing a Node.js Web Application | Semaphore](https://semaphoreci.com/community/tutorials/dockerizing-a-node-js-web-application)
