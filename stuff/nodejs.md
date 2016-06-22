@@ -1903,6 +1903,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [npms](https://npms.io/) - was built to empower the javascript community by providing a better and open source search for node modules.
+
+  * [[GitHub] npms-io](https://github.com/npms-io) - A better and open source search for node modules
+
 * [npm Search](http://npmsearch.com/)
 
   * [[GitHub] solids / npmsearch](https://github.com/solids/npmsearch) - blazing fast npm search utility
