@@ -141,6 +141,8 @@
 
   * [[YouTube] Receba pagamentos do exterior por Bitcoin - Bitwage | Ideias Radicais](https://www.youtube.com/watch?v=fxP0lc42xIY) - 2016/06/19
 
+  * [[YouTube] Como trampar como free lancer nos EUA - BitWage | Rodrigo Souza](https://www.youtube.com/watch?v=0v3Oe7spihs) - 2016/03/18
+
   * [FoxBit](https://foxbit.com.br/) - Negocie na maior corretora de bitcoins do Brasil
 
 --
