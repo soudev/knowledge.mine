@@ -137,6 +137,12 @@
 
   * [Transferir dinheiro do Brasil para o exterior: encontramos a melhor forma! | Pequenos Monstros](http://www.pequenosmonstros.com/2016/04/transferir-dinheiro-do-brasil-para-o-exterior/)
 
+* [bitwage](https://www.bitwage.com/) - para recebimento de pagamentos e salários no exterior (EUA e Europa) em bitcoin
+
+  * [[YouTube] Receba pagamentos do exterior por Bitcoin - Bitwage | Ideias Radicais](https://www.youtube.com/watch?v=fxP0lc42xIY) - 2016/06/19
+
+  * [FoxBit](https://foxbit.com.br/) - Negocie na maior corretora de bitcoins do Brasil
+
 --
 
   * [Carnê Leão | Receita Federal do Brasil](http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/pagamento-do-imposto-de-renda-de-pessoa-fisica/carne-leao/2016/programa-carne-leao-2016) - aplicativo para profissionais liberais realizar o recolhimento dos impostos (DARF) do recebimento, também pode ser utilizado para trabalho remoto e tributar o recebimento internacional
