@@ -1635,6 +1635,14 @@
 
 --
 
+* [CodePen](http://codepen.io/) - is a playground for the front end web.
+
+  * [[GitHub] CodePen](https://github.com/CodePen)
+
+  * [10 Cool Things You Can Do with CodePen and JavaScript | SitePoint](https://www.sitepoint.com/cool-things-codepen-javascript/) - 2016/06/13
+
+--
+
 * [A List of Foundational JavaScript Tools](https://www.codefellows.org/blogs/complete-list-of-javascript-tools)
 
 * [[GitHub] tooling / book-of-modern-frontend-tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - The Little Book Of Modern Front-end Tooling
