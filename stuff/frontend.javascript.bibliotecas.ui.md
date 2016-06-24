@@ -157,11 +157,21 @@
 
 * [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 
-* [[GitHub] evandroeisinger / editore.js](https://github.com/evandroeisinger/editore.js) - A magnific javascript editor
-
 * [[GitHub] guardian / scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform
 
 * [[GitHub] quilljs / quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
+
+--
+
+* [[GitHub] evandroeisinger / editore.js](https://github.com/evandroeisinger/editore.js) - A magnific javascript editor
+
+* [CodeMirror](http://codemirror.com/) - is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with a number of language modes and addons that implement more advanced editing functionality.
+
+  * [[GitHub] codemirror / CodeMirror](https://github.com/codemirror/codemirror) - In-browser code editor
+
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/) - is the code editor that powers VS Code.
+
+  * [[GitHub] Microsoft / monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 
 
 ### PDF Viewer
