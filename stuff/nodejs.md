@@ -687,6 +687,8 @@
 
 #### Análise
 
+* [[GitHub] fullstackio / cq](https://github.com/fullstackio/cq) - extract code snippets using selectors (instead of line numbers)
+
 * [Automating Web Performance Measurement | HTML5Rocks](http://updates.html5rocks.com/2014/06/Automating-Web-Performance-Measurement)
 
 * [[GitHub] t32k / stylestats](https://github.com/t32k/stylestats) - StyleStats is Node.js library to collect CSS statistics!
