@@ -667,6 +667,8 @@
 
 --
 
+* [[GitHub] c3js / c3](https://github.com/c3js/c3) - A D3-based reusable chart library
+
 * [[GitHub] PMSI-AlignAlytics / dimple](https://github.com/PMSI-AlignAlytics/dimple) - An object-oriented API for business analytics powered by d3
 
 
