@@ -139,6 +139,8 @@
 
 * [AngularJS 2.0 Status and Preview | ng-learn](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
 
+* [Angular 2.0 Overview | Universal Mind](http://www.universalmind.com/blog/angular-2-0-overview/) - 2016/05/06
+
 * [The Future of AngularJS | O'Reilly Radar](http://radar.oreilly.com/2014/09/the-future-of-angularjs.html) - Charting the progress towards AngularJS 2.0
 
 * [Can AngularJS Maintain Its Dominance? | Telerik Developer Network](http://developer.telerik.com/featured/can-angularjs-maintain-dominance/)
