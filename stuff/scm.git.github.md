@@ -569,6 +569,12 @@ git branch -D feature/branch
 
 * [Conduct a Git pull request on Visual Studio Online | Microsoft Application Lifecycle Management - Site Home - MSDN Blogs](http://blogs.msdn.com/b/visualstudioalm/archive/2014/06/10/git-pull-request-visual-studio-online.aspx)
 
+--
+
+* [Browse & review code on GitHub like in an IDE, with the Sourcegraph Chrome extension | Medium - Sourcegraph](https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9)
+
+  * [Sourcegraph Chrome extension | Google Chrome Extension](https://chrome.google.com/webstore/detail/sourcegraph-chrome-extens/dgjhfomjieaadpoljlnidmbgkdffpack) - Browse GitHub like an IDE, with jump-to-definition links, semantic code search, and documentation tooltips.
+
 
 #### patch
 
