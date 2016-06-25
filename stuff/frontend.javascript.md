@@ -1195,6 +1195,8 @@
 
 * [Microjs](http://microjs.com/) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! | [[GiHub] madrobby / microjs.com](https://github.com/madrobby/microjs.com)
 
+* [Vanilla List: The Vanilla Javascript Repository](http://www.vanillalist.com/) - Coz' sometimes you feel guilty for using jQuery.
+
 --
 
 * [[GitHub] angular / zone.js](https://github.com/angular/zone.js) - Implements Zones for JavaScript. A Zone is an execution context that persists across async tasks. You can think of it as thread-local storage for JavaScript VMs.
