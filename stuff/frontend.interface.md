@@ -125,6 +125,10 @@
 
 ### Fonts
 
+* [Google Fonts](https://fonts.google.com/)
+
+  * [The new Google Fonts database is a design geek's paradise | The Verge](http://www.theverge.com/2016/6/15/11950320/google-fonts-website-redesign-2016) - 2016/06/15
+
 * [Font Awesome](http://fontawesome.io/)
 
   * [[GitHub] FortAwesome / Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic font and CSS toolkit
