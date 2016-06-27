@@ -215,6 +215,8 @@
 
 * [[YouTube] Aplicações mensais no Tesouro Direto - Easynvest](https://www.youtube.com/watch?v=V4u9TG_8ZSg) - 2016/05/17
 
+* [[YouTube] Saiba tudo sobre os tipos de títulos públicos do Tesouro Direto - Easynvest](https://www.youtube.com/watch?v=dXyyQH7B2J0) - 2016/06/07
+
 * [[YouTube] Tesouro Direto - Investimentos muito além da Poupança](https://www.youtube.com/watch?v=wTW0donQv_k)
 
 * [[YouTube] Tesouro Direto 2 - Investimentos Muito Além da Poupança](https://www.youtube.com/watch?v=h4sg9rTC1VI)
