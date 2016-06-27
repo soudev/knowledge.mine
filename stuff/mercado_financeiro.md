@@ -213,6 +213,8 @@
 
 * [[YouTube] O que é Tesouro Direto e como investir? - Easynvest](https://www.youtube.com/watch?v=SH1952jTfZ8)
 
+* [[YouTube] Aplicações mensais no Tesouro Direto - Easynvest](https://www.youtube.com/watch?v=V4u9TG_8ZSg) - 2016/05/17
+
 * [[YouTube] Tesouro Direto - Investimentos muito além da Poupança](https://www.youtube.com/watch?v=wTW0donQv_k)
 
 * [[YouTube] Tesouro Direto 2 - Investimentos Muito Além da Poupança](https://www.youtube.com/watch?v=h4sg9rTC1VI)
