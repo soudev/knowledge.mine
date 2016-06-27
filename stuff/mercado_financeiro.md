@@ -184,6 +184,8 @@
 
 ### Renda Fixa
 
+* [[YouTube] Tudo sobre a RENDA FIXA! LCI, LCA, CDB e LC (ISSO NINGUÉM TE CONTA) -  Me poupe!](https://www.youtube.com/watch?v=OsyaD6eJBNY) - 2016/05/30
+
 * [[YouTube] 9 - tipos de renda fixa | Trovó Academy](https://www.youtube.com/watch?v=1CrLVNRyOUE)
 
 * [[YouTube] 10 - Como Escolher a Melhor Renda Fixa | Trovó Academy](https://www.youtube.com/watch?v=jUAM9KYD4LM)
