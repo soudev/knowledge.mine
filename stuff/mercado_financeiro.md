@@ -351,6 +351,8 @@
 
   * [[YouTube] O que é uma corretora de valores? - Easyinvest](https://www.youtube.com/watch?v=RTi0fhU6Ly8) - 2016/01/26
 
+  * [[YouTube playlist] Como usar o Portal Easynvest](https://www.youtube.com/playlist?list=PLJGPBSvUf2Rr60tYtZDT6ws8nOWoarpM2)
+
 
 ## Simuladores
 
