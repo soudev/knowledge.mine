@@ -9,6 +9,7 @@
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
   * [Fundos de Investimento](#fundos-de-investimento)
+  * [COE](#coe)
   * [Ações](#ações)
     * [Dividendos](#dividendos)
     * [Análise Técnica](#análise-técnica)
@@ -247,6 +248,15 @@
 * [[YouTube] Aprenda a investir em Fundos Imobiliários](https://www.youtube.com/watch?v=4SLHC1FPJ0o)
 
 * [Fundos imobiliários são uma boa opção de investimento? | Minhas Economias](http://www.minhaseconomias.com.br/blog/investimentos/fundos-imobiliarios-sao-uma-boa-opcao-de-investimento) - 24/09/2013
+
+
+### COE
+
+> COE - Certificados de operações estruturadas
+
+* [[YouTube] Como colocar o PÉ NA BOLSA DE VALORES?! - Me Poupe!](https://www.youtube.com/watch?v=QyIhmhllmzQ) - 2016/03/28
+
+* [Tudo sobre COE | Me Poupe!](http://mepoupenaweb.com/dicas-de-riqueza/coe-saiba-como-ele-pode-te-deixar-rica/) - a melhor maneira de colocar o pé na bolsa
 
 
 ### Ações
