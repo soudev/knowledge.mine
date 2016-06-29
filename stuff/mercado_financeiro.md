@@ -182,9 +182,9 @@
 
 * [[YouTube] XP Investimentos: O Poder dos Juros Nos Seus Investimentos](https://www.youtube.com/watch?v=HgebtNs9gVk)
 
-* [[YouTube] O que são ETFs e como investir? - Easyinvest](https://www.youtube.com/watch?v=mxth2EVw6H8)
+--
 
-* [[YouTube] Saiba o que é o COE - Easyinvest](https://www.youtube.com/watch?v=klQz8SFmVTE)
+* [[YouTube] O que são ETFs e como investir? - Easyinvest](https://www.youtube.com/watch?v=mxth2EVw6H8)
 
 
 ### Renda Fixa
@@ -255,6 +255,8 @@
 ### COE
 
 > COE - Certificados de operações estruturadas
+
+* [[YouTube] Saiba o que é o COE - Easyinvest](https://www.youtube.com/watch?v=klQz8SFmVTE)
 
 * [[YouTube] Como colocar o PÉ NA BOLSA DE VALORES?! - Me Poupe!](https://www.youtube.com/watch?v=QyIhmhllmzQ) - 2016/03/28
 
