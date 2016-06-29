@@ -21,6 +21,8 @@
   * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
 * [Imposto de Renda](#imposto-de-renda)
+* [BitCoins](#bitcoins)
+  * [Carteira de BitCoins](#carteira-de-bitcoins)
 
 <!-- toc stop -->
 
@@ -392,3 +394,31 @@
 * [Guia IRPF 2016 de EXAME.com explica como declarar o Imposto de Renda](http://exame.abril.com.br/seu-dinheiro/ferramentas/guia-do-imposto-de-renda/)
 
 * [Imposto de Renda 2016: a hora de encarar o Leão | Conta Azul](https://blog.contaazul.com/imposto-de-renda-2016-a-hora-de-encarar-o-leao)
+
+
+## BitCoins
+
+* [Bitcoin](https://bitcoin.org/pt_BR/) -  é uma rede de pagamento inovadora e um novo tipo de dinheiro.
+
+* [Bitcoin.com](https://www.bitcoin.com/)
+
+* [We use bitcoins](https://www.weusecoins.com/)
+
+* [FoxBit](https://foxbit.com.br/) - Compre e venda Bitcoins no Brasil
+
+--
+
+* [[YouTube] What is Bitcoin? - WeUseCoins](https://www.youtube.com/watch?v=Gc2en3nHxA4)
+
+* [[YouTube] The real value of bitcoin and crypto currency technology - The Blockchain explained](https://www.youtube.com/watch?v=YIVAluSL9SU)
+
+* [[YouTube] How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+
+
+### Carteira de BitCoins
+
+* [Escolha sua carteira Bitcoin | Bitcoin](https://bitcoin.org/pt_BR/escolha-sua-carteira)
+
+* [Wallet | Blockchain.info](https://blockchain.info/wallet/)
+
+* [xapo](https://xapo.com/) - combines the convenience of an everyday bitcoin wallet with the security of a deep cold storage vault
