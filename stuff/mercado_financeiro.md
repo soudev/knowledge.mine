@@ -349,6 +349,8 @@
 
 * [Easynvest](https://www.easynvest.com.br/)
 
+  * [[YouTube] O que é uma corretora de valores? - Easyinvest](https://www.youtube.com/watch?v=RTi0fhU6Ly8) - 2016/01/26
+
 
 ## Simuladores
 
