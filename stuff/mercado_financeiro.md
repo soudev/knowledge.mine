@@ -100,6 +100,8 @@
 
 * [[YouTube] 3 Segredos da MENTE MILIONÁRIA e a fórmula do sucesso da Nath! | Me poupe!](https://www.youtube.com/watch?v=--eP6oj_gkA) - 2016/06/27
 
+* [[YouTube] 5 passos para ser rica(o) de verdade! | Me poupe!](https://www.youtube.com/watch?v=Nn0hQIynEgw) - 2016/02/22
+
 * [[YouTube] Webinário Faça seu Dinheiro Render Mais | InfoMoney](https://www.youtube.com/watch?v=KXDeMNRtAGU) - 2015/05/19
 
 --
