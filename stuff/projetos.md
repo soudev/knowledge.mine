@@ -135,6 +135,10 @@
 
 * [TransferWise](https://transferwise.com) - transferências internacionais pagando menos taxas
 
+  * [[YouTube] How to TransferWise](https://www.youtube.com/watch?v=yai_ipibIsA)
+
+  * [[YouTube] Send money for free - Transferwise Tutorial](https://www.youtube.com/watch?v=tLkXyHFOEe8)
+
   * [Transferir dinheiro do Brasil para o exterior: encontramos a melhor forma! | Pequenos Monstros](http://www.pequenosmonstros.com/2016/04/transferir-dinheiro-do-brasil-para-o-exterior/)
 
 * [bitwage](https://www.bitwage.com/) - para recebimento de pagamentos e salários no exterior (EUA e Europa) em bitcoin
