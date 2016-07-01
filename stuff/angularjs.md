@@ -1567,6 +1567,10 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [AngularJS Basic HTTP Authentication Example | Jason Watmore's Blog](http://jasonwatmore.com/post/2014/05/26/AngularJS-Basic-HTTP-Authentication-Example.aspx) - 2016/05/26
+
+  * [[GitHub] cornflourblue / angular-authentication-example](https://github.com/cornflourblue/angular-authentication-example) - AngularJS Basic HTTP Authentication Example
+
 * [Deal with users authentication in an AngularJS web app](http://blog.brunoscopelliti.com/deal-with-users-authentication-in-an-angularjs-web-app)
 
 * [Authentication in Single Page Applications with Angular.js - A Modest Proposal](http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/)
