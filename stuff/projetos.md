@@ -275,6 +275,8 @@
 
 * [So long MVP. Hello Minimum Loveable Product | Medium by The Happy Startup School](https://medium.com/the-happy-startup-school/beyond-mvp-10-steps-to-make-your-product-minimum-loveable-51800164ae0c)
 
+* [MVP é coisa do passado a moda agora é MLP | Medium by @marcobrunobr](https://medium.com/@marcobrunobr/mvp-é-coisa-do-passado-a-moda-agora-é-mlp-4446fc476006)
+
 
 ### Minimum Viable Products
 
