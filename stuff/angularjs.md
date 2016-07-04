@@ -183,6 +183,8 @@
 
 * [The Beginner's Preemptive Guide To AngularJS 2 Alpha | AntJanus](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) - 2015/12/09
 
+* [[GitHub] loiane / curso-angular2](https://github.com/loiane/curso-angular2) - Código fonte apresentado no curso de Angular 2 gratuito do [blog loiane.com](http://loiane.training/curso/angular-2/)
+
 --
 
 * [Six months of dev, we launched project on top of Angular 2 | m12.io](http://m12.io/blog/we-launched-angular-2-project)
