@@ -98,6 +98,10 @@
 
 --
 
+* [Writing for all people: how to use alternative text well | Shopify UX — Medium](https://medium.com/shopify-ux/writing-for-all-people-how-to-use-alternative-text-well-1205a18307a1)
+
+--
+
 * [Chris Coyier’s Favorite CodePen Demos | DWB](http://davidwalsh.name/chris-coyiers-favorite-pens)
 
 * [Chris Coyier’s Favorite CodePen Demos II | DWB](http://davidwalsh.name/chris-coyiers-favorite-demos-ii)
