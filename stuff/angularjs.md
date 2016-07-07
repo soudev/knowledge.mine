@@ -217,6 +217,8 @@
 
 * [Implementing the Missing "resolve" Feature of the Angular 2 Router | Minko Gechev](http://blog.mgechev.com/2016/05/21/angular2-router-implementing-missing-resolve-feature-deprecated-defer/) - 2016/05/21
 
+* [Getting Started Using Angular Material 2 in an Angular 2 Angular-CLI application | Medium by @ladyleet](https://medium.com/@ladyleet/getting-started-using-angular-material-2-in-an-angular-2-angular-cli-application-bbeecdf6bfe2)
+
 --
 
 * [Building Desktop apps with Angular2 and Electron | Joao Garin](https://www.joaogarin.com/blog/building-desktop-apps-with-angular2-and-electron) - 2016/05/06
