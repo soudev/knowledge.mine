@@ -941,6 +941,10 @@
 
 * [[GitHub] feross / webtorrent-desktop](https://github.com/feross/webtorrent-desktop) - Streaming torrent client for OS X, Windows, and Linux
 
+--
+
+* [How to make your own bittorrent client | Allen's Adventures in Tech](https://allenkim67.github.io/bittorrent/2016/05/04/how-to-make-your-own-bittorrent-client.html)
+
 
 ### Node.js no Servidor
 
