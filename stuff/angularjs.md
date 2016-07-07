@@ -137,6 +137,8 @@
 
 --
 
+* [[Slides] Desbravando AngularJS 2 e TypeScript by William Grasel](http://slides.com/williamgrasel/desbravando-angularjs-2-e-typescript)
+
 * [AngularJS 2.0 Status and Preview | ng-learn](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
 
 * [Angular 2.0 Overview | Universal Mind](http://www.universalmind.com/blog/angular-2-0-overview/) - 2016/05/06
