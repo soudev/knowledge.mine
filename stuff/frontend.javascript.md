@@ -543,6 +543,10 @@
 
 --
 
+* [[object Object] Things You Didn’t Know About valueOf | Medium by @kevincennis](https://medium.com/@kevincennis/object-object-things-you-didn-t-know-about-valueof-38f2a88dfb33)
+
+--
+
 * [Javascript Char Codes (Key Codes)](http://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
 
 * [Unicode and JavaScript | 2 ality](http://www.2ality.com/2013/09/javascript-unicode.html)
