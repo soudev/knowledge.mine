@@ -169,6 +169,8 @@
 
 * [Upgrading apps to Angular 2 using ngUpgrade | Blog - thoughtram](http://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html) - 2015/10/24
 
+* [ngMigrate: A resource of Angular 1.x concepts for Angular 2](http://ngmigrate.telerik.com/)
+
 --
 
 * [Host and Visibility in Angular 2's Dependency Injection | thoughtram](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
