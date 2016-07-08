@@ -44,6 +44,8 @@
 
 * [[GitHub] kataras / iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) earth
 
+* [[GitHub] gizak / termui](https://github.com/gizak/termui) - Golang terminal dashboard
+
 
 ## Docker
 
