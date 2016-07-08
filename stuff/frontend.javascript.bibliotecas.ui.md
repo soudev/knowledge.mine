@@ -208,6 +208,10 @@
 
 * [Vue.js | Vedcasts](http://www.vedcasts.com.br/series/vuejs) - Esta série lhe passará um panorama geral sobre os recursos providos pelo Vue.js (www.vuejs.org) uma framework javascript simples e poderoso. Durante as 18 aulas da série, colocaremos recursos adicionais numa tabela HTML para permitir ordenação de dados, filtro da informações, mostrar e esconder colunas e detalhes e por fim, implementaremos paginação de resultados: tudo no browser.
 
+* [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
+
+  * [Comunicação com web services](http://www.vuejs-brasil.com.br/comunicacao-com-web-services/)
+
 
 ### React.js
 
