@@ -233,6 +233,12 @@
 
 --
 
+* ES5
+
+  * [Angular 2 with Handcrafted Tools, Century-Old Techniques and ES5 | One Hungry Mind](http://onehungrymind.com/build-angular-2-app-es5/)
+
+    * [[GitHub] onehungrymind / angular2-es5-website-routes](https://github.com/onehungrymind/angular2-es5-website-routes) - An Angular 2 website built in ES5
+
 * TypeScript
 
   * [Writing Angular 2 in TypeScript | Victor Savkin](http://victorsavkin.com/post/123555572351/writing-angular-2-in-typescript)
