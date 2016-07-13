@@ -8,6 +8,10 @@
 
 --
 
+* [[GitHub] rzwitserloot / lombok](https://github.com/rzwitserloot/lombok) - Very spicy additions to the Java programming language
+
+--
+
 * [[GitHub] winterbe / java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
 
 ## Maven
