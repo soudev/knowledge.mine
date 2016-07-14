@@ -291,6 +291,8 @@
 
 * [[GitHub] angular / angular2-seed](https://github.com/angular/angular2-seed)
 
+* [[GitHub] NathanWalker / angular2-seed-advanced](https://github.com/NathanWalker/angular2-seed-advanced) - An advanced Angular2 seed project with support for ngrx/store, ng2-translate, angulartics2, lodash, NativeScript (*native* mobile), Electron (Mac, Windows and Linux desktop) and more
+
 * [[GitHub] rafaelfragosom / angular2-typescript](https://github.com/rafaelfragosom/angular2-typescript) - Angular 2 and TypeScript Initial Project
 
 * [[GitHub] johnpapa / angular2quickstart](https://github.com/johnpapa/angular2quickstart)
