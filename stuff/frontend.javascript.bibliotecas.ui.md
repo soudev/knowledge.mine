@@ -210,6 +210,8 @@
 
 * [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
 
+  * [Por que VueJS é uma boa opção?](http://www.vuejs-brasil.com.br/por-que-vuejs-e-uma-boa-opcao/)
+
   * [Comunicação com web services](http://www.vuejs-brasil.com.br/comunicacao-com-web-services/)
 
 
