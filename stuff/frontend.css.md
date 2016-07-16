@@ -14,6 +14,8 @@
 
 ## CSS
 
+* [Elevando seu nível no CSS | Medium by @oieduardorabelo](https://medium.com/@oieduardorabelo/elevando-seu-nível-no-css-b2acbb220248)
+
 * [CSS Tricks](http://css-tricks.com/)
 
 * [learn css layout](http://learnlayout.com/)
