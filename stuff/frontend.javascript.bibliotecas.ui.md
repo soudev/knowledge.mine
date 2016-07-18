@@ -214,6 +214,8 @@
 
   * [Comunicação com web services](http://www.vuejs-brasil.com.br/comunicacao-com-web-services/)
 
+  * [Testando sua aplicação Vue.js](http://www.vuejs-brasil.com.br/testando-sua-aplicacao-vue-js/)
+
 
 ### React.js
 
