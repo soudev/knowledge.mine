@@ -2851,6 +2851,12 @@ describe('testing something...', function() {
 
 * [[StackOverflow] how to use Protractor on non angularjs website?](https://stackoverflow.com/questions/20927652/how-to-use-protractor-on-non-angularjs-website)
 
+--
+
+* TypeScript
+
+  * [Protractor with TypeScript | Medium by @cnishina](https://medium.com/@cnishina/protractor-with-typescript-2eae05016929) - 2016/07/19
+
 
 ### Mock
 
