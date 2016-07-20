@@ -98,6 +98,12 @@
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
 
+* [RethinkDB](https://rethinkdb.com/) - pushes JSON to your apps in realtime
+
+  * [[GitHub] rethinkdb / rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web
+
+  * [Realtime com RethinkDB | Underground WebDev](https://udgwebdev.com/realtime-com-rethinkdb) - 2016/07/19
+
 
 ### Google SpreadSheet
 
