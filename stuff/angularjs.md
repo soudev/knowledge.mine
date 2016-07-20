@@ -195,6 +195,10 @@
 
 --
 
+* [How to Deal with Different Form Controls in Angular 2 | Scotch](https://scotch.io/tutorials/how-to-deal-with-different-form-controls-in-angular-2) - 2016/07/18
+
+--
+
 * [Creating Container Components, Part 1: Shadow DOM | AirPair](https://www.airpair.com/javascript/posts/creating-container-components-part-1-shadow-dom)
 
 * [Creating Container Components, Part 2: Angular 1.3 Directives | AirPair](https://www.airpair.com/angularjs/posts/creating-container-components-part-2-angular-1-directives)
