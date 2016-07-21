@@ -216,6 +216,12 @@
 
   * [Testando sua aplicação Vue.js](http://www.vuejs-brasil.com.br/testando-sua-aplicacao-vue-js/)
 
+  * router
+
+    * [Vue-router](http://www.vuejs-brasil.com.br/vue-router/) - 2016/06/30
+
+    * [Carregando dados assíncronos com o Vue-router](http://www.vuejs-brasil.com.br/carregando-dados-assincronos-com-o-vue-router/) - 2016/07/01
+
 
 ### React.js
 
