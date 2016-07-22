@@ -222,6 +222,8 @@
 
     * [Carregando dados assíncronos com o Vue-router](http://www.vuejs-brasil.com.br/carregando-dados-assincronos-com-o-vue-router/) - 2016/07/01
 
+* [Create an App in VueJS 2 | Auth0](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/) - (2016/07/14) VueJS is coming out with a new version. Learn what's changed by building a simple application.
+
 
 ### React.js
 
