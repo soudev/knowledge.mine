@@ -161,6 +161,8 @@
 
 * [Visual Studio Code ♥ ES6 | MSDN Blogs](http://blogs.msdn.com/b/vscode/archive/2015/07/06/vs-code-es6.aspx)
 
+* [Visual Studio Code – Apresentando o editor multiplataforma da Microsoft | iMasters](http://imasters.com.br/desenvolvimento/visual-studio-code-apresentando-o-editor-multiplataforma-da-microsoft/) - 2016/07/22
+
 --
 
 * [[GitHug] Microsoft / vscode-spell-check](https://github.com/Microsoft/vscode-spell-check) - An extension to VSCode for spell and grammar checking
