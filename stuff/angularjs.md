@@ -960,6 +960,10 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [Angular — Introduction to Reactive Extensions (RxJS) | Google Developer Experts — Medium](https://medium.com/google-developer-experts/angular-introduction-to-reactive-extensions-rxjs-a86a7430a61f) - 2015/09/19
+
+--
+
 * [Rendering Image Previews Using Object URLs vs. Base64 Data URIs In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2966-rendering-image-previews-using-object-urls-vs-base64-data-uris-in-angularjs.htm) - 2015/12/03
 
 * [Angular backed SVGs](http://gaslight.co/blog/angular-backed-svgs)
