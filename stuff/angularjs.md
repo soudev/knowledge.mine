@@ -128,6 +128,8 @@
 
 * [Exploring the Angular 1.5 .component() method | @toddmotto](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
 
+* [Writing component based app with angular 1.5 | Dima Grossman](http://blog.grossman.io/angular-1-component-based-architecture-2/) - 2016/07/21
+
 
 ### Angular.js 2.0
 
