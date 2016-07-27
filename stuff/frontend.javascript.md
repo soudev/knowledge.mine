@@ -635,6 +635,8 @@
 
 --
 
+* [JavaScript Promises 101 | bitsofcode](https://bitsofco.de/javascript-promises-101/) - 2016/07/13
+
 * [[GitHub] bevacqua / promisees](https://github.com/bevacqua/promisees) - Promise visualization playground for the adventurous
 
 * [Callback Hell](http://callbackhell.com/) - A guide to writing elegant asynchronous javascript programs
