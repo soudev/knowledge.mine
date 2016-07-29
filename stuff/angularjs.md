@@ -175,6 +175,8 @@
 
 * [ngMigrate: A resource of Angular 1.x concepts for Angular 2](http://ngmigrate.telerik.com/)
 
+* [Angular 2 Upgrade Strategies from Angular 1.x | Telerik Developer Network](http://developer.telerik.com/featured/angular-2-upgrade-strategies-angular-1-x/) - 2016/07/27
+
 --
 
 * [Host and Visibility in Angular 2's Dependency Injection | thoughtram](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
