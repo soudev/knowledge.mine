@@ -139,6 +139,8 @@
 
 --
 
+* [Angular 2: Why TypeScript? | vsavkin.com](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
+
 * [[Slides] Desbravando AngularJS 2 e TypeScript by William Grasel](http://slides.com/williamgrasel/desbravando-angularjs-2-e-typescript)
 
 * [AngularJS 2.0 Status and Preview | ng-learn](http://ng-learn.org/2014/03/AngularJS-2-Status-Preview/)
