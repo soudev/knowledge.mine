@@ -469,6 +469,8 @@ Share with others around the world
 
 * [Ruby Monk](https://rubymonk.com/) - Free, interactive tutorials to help you discover Ruby idioms, in your browser!
 
+* [Ruby on Rails Tutorial by Michael Hartl](https://www.railstutorial.org/book)
+
 * [Curso Java Básico (Java SE) - Gratuito! | Loiane Groner](http://www.loiane.com/2013/10/curso-java-basico-java-se-gratuito/)
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
