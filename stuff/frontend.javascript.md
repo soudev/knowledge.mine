@@ -2213,6 +2213,10 @@
 
 --
 
+* [Trabalhando com serviços no Javascript | Medium by Luiz Vinicius](https://medium.com/by-vinicius-reis/trabalhando-com-servicos-no-javascript-864310cf386c) - 2016/07/31
+
+--
+
 * [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
 
 --
