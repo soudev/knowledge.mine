@@ -18,6 +18,8 @@
 
 * [Gophers, please tag your releases | Dave Cheney](http://dave.cheney.net/2016/06/24/gophers-please-tag-your-releases)
 
+* [Go best practices (2016), six years in | Peter Bourgon](http://peter.bourgon.org/go-best-practices-2016/)
+
 --
 
 * [Go Tooling in Action | Google Cloud Platform — Community — Medium](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc)
