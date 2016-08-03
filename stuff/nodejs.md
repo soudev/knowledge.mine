@@ -742,6 +742,8 @@
 
 * [[GitHub] sindresorhus / hasha](https://github.com/sindresorhus/hasha) - Get the hash of a buffer/string/stream/file
 
+* [[GitHub] planttheidea / hash-it](https://github.com/planttheidea/hash-it) - Hash any object type based on its values
+
 --
 
 * [uuid | node.js modules](https://nodejsmodules.org/tags/uuid)
