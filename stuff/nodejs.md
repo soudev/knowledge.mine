@@ -2548,6 +2548,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] PixelsCommander / ViralJS](https://github.com/PixelsCommander/ViralJS) - Express.JS middleware to enable P2P distribution for your app. Your decentralized CDN made easy.
+
+--
+
 * [[GitHub] DIMLEO / express-life](https://github.com/DIMLEO/express-life) - ump start a project with express.js
 
 
