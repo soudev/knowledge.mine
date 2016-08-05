@@ -200,11 +200,11 @@
 
   * [[GitHub] vuejs / vue](https://github.com/vuejs/vue) - Simple yet powerful library for building modern web interfaces.
 
+* [Consider VueJS for Your Next Web Project | @codeship](https://blog.codeship.com/consider-vuejs-next-web-project/) - 2016/06/30
+
+--
+
 * [Getting Started With Vue.js | SitePoint](http://www.sitepoint.com/getting-started-with-vue-js/) - 2015/07/15
-
-* [Create a GitHub File Explorer Using Vue.js | Scotch](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) - 2015/11/03
-
-  * [[GitHub] scotch-io / vuejs-github-explorer](https://github.com/scotch-io/vuejs-github-explorer)
 
 * [Vue.js | Vedcasts](http://www.vedcasts.com.br/series/vuejs) - Esta série lhe passará um panorama geral sobre os recursos providos pelo Vue.js (www.vuejs.org) uma framework javascript simples e poderoso. Durante as 18 aulas da série, colocaremos recursos adicionais numa tabela HTML para permitir ordenação de dados, filtro da informações, mostrar e esconder colunas e detalhes e por fim, implementaremos paginação de resultados: tudo no browser.
 
@@ -224,7 +224,13 @@
 
     * [Algumas dicas para usar no VueRouter](http://www.vuejs-brasil.com.br/algumas-dicas-para-usar-no-vuerouter/) - 2016/07/26
 
+--
+
 * [Create an App in VueJS 2 | Auth0](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/) - (2016/07/14) VueJS is coming out with a new version. Learn what's changed by building a simple application.
+
+* [Create a GitHub File Explorer Using Vue.js | Scotch](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) - 2015/11/03
+
+  * [[GitHub] scotch-io / vuejs-github-explorer](https://github.com/scotch-io/vuejs-github-explorer)
 
 
 ### React.js
