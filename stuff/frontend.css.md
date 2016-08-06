@@ -18,6 +18,8 @@
 
 * [CSS Tricks](http://css-tricks.com/)
 
+  * [CSS Almanac - cursor](https://css-tricks.com/almanac/properties/c/cursor/)
+
 * [learn css layout](http://learnlayout.com/)
 
   * [português](http://pt-br.learnlayout.com/)
