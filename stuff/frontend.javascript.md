@@ -388,6 +388,8 @@
 
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwldrn/idiomatic.js)
 
+* [15 Ways to Write Self-documenting JavaScript | SitePoint](https://www.sitepoint.com/self-documenting-javascript/) - (2016/06/21) Jani demonstrates techniques for writing self-documenting code that make it easier to understand, reduce the need for comments, and improve program design.
+
 * [JavaScript Best Practices | CodeProject](http://www.codeproject.com/Articles/580165/JavaScript-Best-Practices)
 
 * [JavaScript Patterns Collection](http://shichuan.github.com/javascript-patterns/)
