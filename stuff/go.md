@@ -22,6 +22,10 @@
 
 --
 
+* [How Goroutines Work | Krishna's blog](http://blog.nindalf.com/how-goroutines-work/) - 2014/02/24
+
+--
+
 * [Go Tooling in Action | Google Cloud Platform — Community — Medium](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc)
 
 * [Build web application with Golang | GitBooks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
