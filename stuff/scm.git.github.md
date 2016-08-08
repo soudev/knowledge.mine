@@ -613,6 +613,10 @@ git branch -D feature/branch
 
 ### Dicas: GitHub
 
+* [Search wiki pages | GitHub Blog](https://github.com/blog/2219-search-wiki-pages)
+
+--
+
 * [[GitHub] dbader / readme-template](https://github.com/dbader/readme-template) - README.md template for your open-source project
 
 * [[GitHub] gist-run / gist-run](https://github.com/gist-run/gist-run) - Bring your Gists to life with [GistRun](https://gist.run/)
