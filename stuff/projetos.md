@@ -131,6 +131,8 @@
 
     * [[GitHub] Invoiced / invoice-generator-api](A free API for generating invoice PDFs)
 
+  * [Billdogg](http://billdogg.com/) – Beautifully simple invoice generator. Free.
+
 --
 
 * [TransferWise](https://transferwise.com) - transferências internacionais pagando menos taxas
