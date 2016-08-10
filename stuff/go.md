@@ -24,6 +24,8 @@
 
 * [How Goroutines Work | Krishna's blog](http://blog.nindalf.com/how-goroutines-work/) - 2014/02/24
 
+* [Why Go's design is a disservice to intelligent programmers | Nomad Software](http://nomad.so/2015/03/why-gos-design-is-a-disservice-to-intelligent-programmers/) - 2015/03/25
+
 --
 
 * [Go Tooling in Action | Google Cloud Platform — Community — Medium](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc)
