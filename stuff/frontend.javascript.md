@@ -693,6 +693,8 @@
 
 * [Reducing Filter and Map Down to Reduce | Web Dev .NET](http://www.elijahmanor.com/2013/08/reducing-filter-and-map-down-to-reduce.html)
 
+* [How to Use Map, Filter, Reduce in JavaScript | Code Envato Tuts+](http://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209) - 2016/08/09
+
 --
 
 * [Fun with Javascript and function tracing](http://ebobby.org/2013/05/18/Fun-with-Javascript-and-function-tracing.html)
