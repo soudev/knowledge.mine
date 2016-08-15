@@ -237,6 +237,8 @@
 
 * [FIIs.com.br](http://fiis.com.br/) - Acompanhamento dos Fundos de Investimento Imobiliários
 
+* [Receba 3 aluguéis mesmo em tempos de crise | Empiricus](http://sl.empiricus.com.br/fixa-fi/)
+
 --
 
 * [[YouTube] Conheça melhor os Fundos de Investimento](https://www.youtube.com/watch?v=Q_DBkSGbbEM)
