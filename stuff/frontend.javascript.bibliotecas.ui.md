@@ -210,6 +210,8 @@
 
 * [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
 
+  * [Vue.js 2: O que mudou?](http://www.vuejs-brasil.com.br/vue-js-2-o-que-mudou/) - 2016/08/16
+
   * [Por que VueJS é uma boa opção?](http://www.vuejs-brasil.com.br/por-que-vuejs-e-uma-boa-opcao/)
 
   * [Comunicação com web services](http://www.vuejs-brasil.com.br/comunicacao-com-web-services/)
