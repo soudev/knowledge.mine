@@ -2135,6 +2135,8 @@
 
 * [[Speaker Deck] From ES5 to ES6 (ES2015) and ES2016](https://speakerdeck.com/rauschma/from-es5-to-es6-es2015-and-es2016)
 
+* [Make your JavaScript code shine: knockout old ES5 hacks | Dmitri Pavlutin](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/) - 2016/08/10
+
 --
 
 * [Expert ES6 | tagtree.io](http://tagtree.io/courses/expert-es6/do) - An ES6 Course in the Browser
