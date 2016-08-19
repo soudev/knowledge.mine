@@ -669,6 +669,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [[Slides] Angular promises and http](http://slides.com/alexebogdan/angular-promises-and-http) - JavaScript Async, Angular $q service and $http service
 
+  * [All about $q and Promises in Angular | @toddmotto](https://toddmotto.com/promises-angular-q) - 2016/08/15
+
 --
 
 * [Creating a Single Page Todo App with Node and Angular | Scotch](http://scotch.io/tutorials/javascript/creating-a-single-page-todo-app-with-node-and-angular)
