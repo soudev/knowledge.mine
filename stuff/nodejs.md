@@ -1953,6 +1953,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Installing past or future versions of npm packages | 2ality](http://www.2ality.com/2015/12/npm-install-tag-version.html) - 2015/12/20
 
+* [[GitHub] nolanlawson / slow-deps](https://github.com/nolanlawson/slow-deps) - Measure which dependencies in a project are slowest to npm install
+
 --
 
 * [Introduction to npm | SmallJS](http://smalljs.org/package-managers/npm/)
