@@ -1481,6 +1481,8 @@
 
 #### Emulator
 
+* [100+ Emulators Written in JavaScript | Hacker Lists](https://hackerlists.com/javascript-emulators/) - 2016/08/15
+
 * [Emulators written in JavaScript | Frederic Cambus](http://www.cambus.net/emulators-written-in-javascript/)
 
   * [[GitHub] fcambus / jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
