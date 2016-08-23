@@ -219,6 +219,8 @@
 
 ### Shell
 
+* [[GitHub] herrbischoff / awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things
+
 * [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
 
 * [.bashrc generator](http://bashrcgenerator.com/) - create your .bashrc PS1 with a drag and drop interface
