@@ -796,6 +796,8 @@
 
 * [Currying in Javascript — The JavaScript Collection | Medium](https://medium.com/the-javascript-collection/ce6da2d324fe)
 
+* [No ifs…alternatives to statement branching in JavaScript | JavaScript, JavaScript...](https://javascriptweblog.wordpress.com/2010/07/26/no-more-ifs-alternatives-to-statement-branching-in-javascript/) - 2010/07/26
+
 --
 
 * [Determining if a String Contains a Substring | Design Pepper](http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches)
