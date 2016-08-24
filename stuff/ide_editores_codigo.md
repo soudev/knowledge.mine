@@ -180,6 +180,8 @@
 
 * [Atom: o novo editor by Github | Tableless](http://tableless.com.br/atom-o-novo-editor-github/)
 
+* [Building your first Atom plugin | GitHub Blog](https://github.com/blog/2231-building-your-first-atom-plugin) - 2016/08/19
+
 --
 
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
