@@ -1031,6 +1031,8 @@
 
 --
 
+* [[YouTube] Webpack from First Principles | Front End Center](https://www.youtube.com/watch?v=WQue1AN93YU)
+
 * [The ultimate webpack setup | christianalfoni](http://www.christianalfoni.com/articles/2015_04_19_The-ultimate-webpack-setup) - 2015/04/19
 
   * [[GitHub] christianalfoni / webpack-express-boilerplate](https://github.com/christianalfoni/webpack-express-boilerplate) - A boilerplate for running a Webpack workflow in Node express
