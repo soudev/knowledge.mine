@@ -2340,6 +2340,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] appetizermonster / hain](https://github.com/appetizermonster/hain) - An 'alt+space' launcher for Windows, built with Electron
 
+* [[GitHub] mafintosh / playback](https://github.com/mafintosh/playback) - Video player built using electron and node.js
+
 
 #### Node Webkit
 
