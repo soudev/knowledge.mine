@@ -182,6 +182,8 @@
 
 * [Building your first Atom plugin | GitHub Blog](https://github.com/blog/2231-building-your-first-atom-plugin) - 2016/08/19
 
+* [Atom for Web Developers | Michael Herman](http://mherman.org/blog/2016/08/16/atom-for-web-developers/) - 2016/08/16
+
 --
 
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
