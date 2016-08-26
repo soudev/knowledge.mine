@@ -32,6 +32,10 @@
 
 --
 
+* [[GitHub] jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md) - collection of awesome Mac applications and tools for developers and designers.
+
+--
+
 * [[GitHub] matryer / bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 
 --
