@@ -376,6 +376,10 @@
 
 --
 
+* [[GitHub] froskie / toggl-to-timesheet](https://github.com/froskie/toggl-to-timesheet) - Generate a timesheet from a [Toggl](toggl.com) Detailed Report
+
+--
+
 * [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
 
 * [[GitHub] thisandagain / sentiment](https://github.com/thisandagain/sentiment) - AFINN-based sentiment analysis for Node.js
