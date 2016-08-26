@@ -131,6 +131,10 @@
 
 --
 
+* [[YouTube] Crash - Como o FGTS te rouba](https://www.youtube.com/watch?v=Hq-XKYdr5D4) - 2015/07/17
+
+--
+
 * ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
 
 * [[YouTube] Billionaire Mathematician - Numberphile](https://www.youtube.com/watch?v=gjVDqfUhXOY) - 2015/05/13
