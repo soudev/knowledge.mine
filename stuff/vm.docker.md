@@ -267,6 +267,10 @@
 
 --
 
+* [Reducing Deploy Risk With Docker’s New Health Check Instruction | New Relic blog](https://blog.newrelic.com/2016/08/24/docker-health-check-instruction/) - 2016/08/24
+
+--
+
 * [Sonatype Nexus](http://www.sonatype.org/nexus/)
 
   * [[GitHub] sonatype / docker-nexus](https://github.com/sonatype/docker-nexus) - Docker image for Sonatype Nexus
