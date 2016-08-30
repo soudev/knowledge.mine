@@ -106,6 +106,10 @@
 
 --
 
+* [[GitHub] holidaypirates / nucleus](https://github.com/holidaypirates/nucleus) - is a living style guide generator for atomic css based components. It's a Node application parsing the source SCSS files and reading information from DocBlock annotations.
+
+--
+
 * [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
 
 * [[GitHub] davidtheclark / scut](https://github.com/davidtheclark/scut/) - Sass utilities for the frontend laborer
