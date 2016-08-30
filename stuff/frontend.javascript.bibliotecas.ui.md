@@ -645,6 +645,12 @@
 
 #### D3.js
 
+* [d3js](https://d3js.org/)
+
+* [[GitHub] D3](https://github.com/d3) - Data-Driven Documents
+
+  * [[GitHub] d3 / d3-shape](https://github.com/d3/d3-shape) - Graphical primitives for visualization, such as lines and areas
+
 * [[GitHub] wbkd / awesome-d3](https://github.com/wbkd/awesome-d3) - A list of D3 libraries, plugins and utilities
 
 * [Introduction to d3.js](http://ireneros.com/conf/nicar/introduction-to-d3.html)
