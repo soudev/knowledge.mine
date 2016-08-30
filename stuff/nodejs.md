@@ -498,6 +498,10 @@
 
 --
 
+* [Building a Slack Bot with Node.js and Chuck Norris Super Powers | Scotch](https://scotch.io/tutorials/building-a-slack-bot-with-node-js-and-chuck-norris-super-powers) - 2015/09/14
+
+--
+
 * [[GitHub] C2FO / nools](https://github.com/C2FO/nools) - Rete based rules engine written in javascript
 
 * [[GitHub] gchudnov / bspec](https://github.com/gchudnov/bspec) - A JavaScript library for structuring business rules
