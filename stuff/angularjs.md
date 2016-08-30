@@ -189,6 +189,8 @@
 
 --
 
+* [19 Tips to Make Learning Angular 2 Easier | Telerik Developer Network](http://developer.telerik.com/featured/19-tips-to-make-learning-angular-2-easier/) - 2016/08/25
+
 * [Iniciando com Angular 2 | Jhon Mike](https://jhonmike.github.io/iniciando-com-angular2/)
 
   * [[GitHub] jhonmike / blog-posts-example](https://github.com/jhonmike/blog-posts-example) - [01-iniciando-com-angular2](https://github.com/jhonmike/blog-posts-example/tree/master/01-iniciando-com-angular2)
