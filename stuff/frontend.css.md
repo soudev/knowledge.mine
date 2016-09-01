@@ -122,6 +122,36 @@
 
   * [Popping Out of Hidden Overflow | CSS-Tricks](https://css-tricks.com/popping-hidden-overflow/)
 
+* ellipsis
+
+  * [text-overflow | CSS-Tricks](https://css-tricks.com/almanac/properties/t/text-overflow/)
+
+  * [Elegant Overflow with CSS Ellipsis | David Walsh Blog](https://davidwalsh.name/css-ellipsis)
+
+  * [CSS Riddle: reverse ellipsis](http://hugogiraudel.com/2014/12/16/css-riddle-reverse-ellipsis/)
+
+  * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses
+
+  * Multiple Line Ellipsis
+
+    * [Multiple Line Ellipsis CSS Effect | consolelog.io](https://www.consolelog.io/multiple-line-ellipsis-css-effect)
+
+    * [Line Clampin’ (Truncating Multiple Line Text) | CSS-Tricks](https://css-tricks.com/line-clampin/)
+
+    * [How to (kinda) "mimic" -webkit-line-clamp in other browsers | CSS MOJO](http://www.cssmojo.com/line-clamp_for_non_webkit-based_browsers/)
+
+    * [Pure CSS for multiline truncation with ellipsis | Hacking UI](http://hackingui.com/front-end/a-pure-css-solution-for-multiline-text-truncation/)
+
+      * [[CodePen] Cross browser multiline ellipsis/SCSS](https://codepen.io/natonischuk/pen/QbGWBa)
+
+    * [[GitHub] AlirezaAsadi / truncatie](https://github.com/AlirezaAsadi/truncatie) - is a jquery plugin that limit size of text by lines within a html container
+
+    * [[GitHub] jjenzz / jquery.ellipsis](https://github.com/jjenzz/jquery.ellipsis) - add ellipsis to multiline text
+
+      * [[CodePen] jQuery.ellipsis](https://codepen.io/jjenzz/pen/liAfz)
+
+    * [[GitHub] dibari / angular-ellipsis](https://github.com/dibari/angular-ellipsis) - Angular directive to truncate multi-line text to visible height
+
 --
 
 * [The guide to CSS animations for the web | @ihatetomatoes](http://ihatetomatoes.net/the-guide-to-css-animations-for-the-web)
