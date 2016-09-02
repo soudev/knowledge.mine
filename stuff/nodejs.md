@@ -2317,6 +2317,10 @@ $ sudo chown -R `whoami` .npm
 
 * [Vivaldi](https://vivaldi.com/) - has a powerful feature set, but thats not all. One of the things that makes Vivaldi unique is that it’s built on modern Web technologies. We use JavaScript and React to create the user interface — with the help of Node.js, Browserify and a long list of NPM modules. Vivaldi is the web built with the web.
 
+--
+
+* [NW.js & Electron Compared (2016 Edition) | TangibleJS](http://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition)
+
 
 #### electron
 
