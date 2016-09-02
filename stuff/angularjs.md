@@ -130,6 +130,10 @@
 
 * [Writing component based app with angular 1.5 | Dima Grossman](http://blog.grossman.io/angular-1-component-based-architecture-2/) - 2016/07/21
 
+--
+
+* [Using Angular 2 Patterns in Angular 1.x Apps by @simpulton](http://www.angular2patterns.com/)
+
 
 ### Angular.js 2.0
 
