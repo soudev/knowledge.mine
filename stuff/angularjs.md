@@ -1114,6 +1114,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Set headers for all $http calls in AngularJS | Make It Easy](http://angulartutorial.blogspot.com.br/2014/05/set-headers-for-all-http-calls-in.html)
 
+* [Access HTTP Response Headers - AngularJS | Strange Milk](http://strangemilk.com/access-http-response-headers-angularjs/) - 2015/04/16
+
 --
 
 * [Posting Form Data With $http In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2615-posting-form-data-with-http-in-angularjs.htm)
