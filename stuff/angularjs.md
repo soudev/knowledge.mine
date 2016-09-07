@@ -930,6 +930,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 * [Entendendo os tipos de Serviços do AngularJS | pedronauck.com](http://pedronauck.com/angularjs/entendendo-os-tipos-de-servico-do-angularjs)
 
+* [[Gist] AngularJS Providers: Constant/Value/Service/Factory/Decorator/Provider](https://gist.github.com/demisx/9605099)
+
 * [[YouTube] AngularJS Factory vs. Service](https://www.youtube.com/watch?v=A6cJasNBkyI)
 
 * [Angular service or factory? | Iffy Can](http://iffycan.blogspot.com.br/2013/05/angular-service-or-factory.html)
