@@ -40,6 +40,10 @@
 
 --
 
+* [[GitHub] vutran / dext](https://github.com/vutran/dext) - A smart launcher for Mac. Powered by JavaScript
+
+--
+
 * [numi](http://numi.io/) - beautiful calculator for mac
 
 * [16 apps gratuitos para Mac que você não pode deixar de conhecer | BR-Mac.org](http://br-mac.org/2014/01/16-apps-gratuitos-para-mac-que-voce-nao-pode-deixar-de-conhecer.html)
