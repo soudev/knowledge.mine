@@ -293,6 +293,10 @@
 
 * [[YouTube] Crash Course](https://www.youtube.com/user/crashcourse/videos) - canal educacional no YouTube. Crash Course é uma gíria que significa mais ou menos "resumão". seria um cursinho bem rápido que te dá todos os conceitos fundamentais de um assunto. E é isso que o Hank faz no seu canal, com aulinhas super interessantes e detalhadas sobre história, psicologia, química, economia, e outros.
 
+* [[YouTube] Fisica Universitária - USP](https://www.youtube.com/channel/UCF5qm-yrOeDq1sSmE-gCh0w/playlists)
+
+  * [Docentes do Instituto de Física da USP criam canal no YouTube para ensinar conceitos | Universo Racionalista](http://www.universoracionalista.org/docentes-do-instituto-de-fisica-da-usp-criam-canal-no-youtube-para-ensinar-conceitos/)
+
 * [TED Ed Lessons Worth Sharing](http://ed.ted.com/)
 
 --
