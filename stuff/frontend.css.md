@@ -96,6 +96,8 @@
 
 * [The 30 CSS Selectors you Must Memorize | Nettuts+](http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/)
 
+* [nth-child vs nth-of-type | bitsofcode](https://bitsofco.de/nth-child-vs-nth-of-type/) - 2016/09/06
+
 --
 
 * [Top 5 CSS Tutorial Videos You Must Watch | CSSReflex](http://www.cssreflex.com/css-tutorial-videos/) - Learn a few new tips and tricks with these handpicked 5 CSS tutorial videos
