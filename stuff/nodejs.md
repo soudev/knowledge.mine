@@ -378,6 +378,8 @@
 
 * [[GitHub] froskie / toggl-to-timesheet](https://github.com/froskie/toggl-to-timesheet) - Generate a timesheet from a [Toggl](toggl.com) Detailed Report
 
+* [[GitHub] filipedeschamps / cep-promise](https://github.com/filipedeschamps/cep-promise) - Busca por CEP integrado diretamente aos serviços dos correios
+
 --
 
 * [Node Twitter Sentiment | Michael Herman](http://mherman.org/blog/2014/02/19/node-twitter-sentiment/)
