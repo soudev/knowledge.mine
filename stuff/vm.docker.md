@@ -407,6 +407,10 @@
 
   * [Running Angularjs and Symfony2 on Docker | Ewan Valentine](http://ewanvalentine.io/running-angularjs-and-symfony-projects-on-docker/)
 
+--
+
+* [[GitHub] c0b / chrome-in-docker](https://github.com/c0b/chrome-in-docker) - run Google Chrome in container (as a perfect headless browser)
+
 
 #### Mac OS X
 
