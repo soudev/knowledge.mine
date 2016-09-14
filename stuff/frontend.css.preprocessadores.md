@@ -106,6 +106,10 @@
 
 --
 
+* [Efficient Sass Mixins For DRY Stylesheets | Toptal](https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry)
+
+--
+
 * [[GitHub] holidaypirates / nucleus](https://github.com/holidaypirates/nucleus) - is a living style guide generator for atomic css based components. It's a Node application parsing the source SCSS files and reading information from DocBlock annotations.
 
 --
