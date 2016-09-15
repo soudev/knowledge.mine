@@ -1025,6 +1025,12 @@
 
 --
 
+* [webpack analyze](https://webpack.github.io/analyse/)
+
+* [webpack visualizer](https://chrisbateman.github.io/webpack-visualizer/)
+
+--
+
 * [[GitHub] ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 
 * [[GitHub] topheman / webpack-babel-starter](https://github.com/topheman/webpack-babel-starter) - Webpack / Babel starter kit with full development & build workflow
