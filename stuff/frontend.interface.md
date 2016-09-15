@@ -75,6 +75,8 @@
 
 ### Design
 
+* [[GitHub] gztchan / awesome-design](https://github.com/gztchan/awesome-design) - Best UI/UX Design Resources For Developer & Designer Ever
+
 * [75+ Awesome Tools for Designers | Medium by @ConnectBasket](https://medium.com/@ConnectBasket/75-awesome-tools-for-designers-d136d11de436)
 
 --
