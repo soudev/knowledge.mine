@@ -52,9 +52,11 @@
 
 --
 
-* [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/) -  Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS.
-
 * [Architecting Scalable CSS | Speaker Deck](https://speakerdeck.com/csswizardry/architecting-scalable-css)
+
+* [ARQUITETURA CSS | Tableless - Medium](https://medium.com/tableless/arquitetura-css-d344fb01dd18) - 2015/03/29
+
+* [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/) -  Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS.
 
 * CSS escalável - Da filosofia à metodologia
 
