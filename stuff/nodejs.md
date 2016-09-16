@@ -284,6 +284,8 @@
 
 * [Node.js Best Practices | RisingStack Engineering](http://blog.risingstack.com/node-js-best-practices/)
 
+* [Node.js Best Practices | Codementor](https://www.codementor.io/nodejs/tutorial/nodejs-best-practices)
+
 * [[GitHub] RisingStack / node-style-guide](https://github.com/RisingStack/node-style-guide) - A mostly reasonable approach to JavaScript - how we write Node.js at RisingStack
 
 
