@@ -241,6 +241,10 @@
 
 --
 
+* [Optimize your Angular 2 Application with Tree Shaking | Rangle.io Blog](http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/) - 2016/09/02
+
+--
+
 * [Building Desktop apps with Angular2 and Electron | Joao Garin](https://www.joaogarin.com/blog/building-desktop-apps-with-angular2-and-electron) - 2016/05/06
 
   * [[GitHub] joaogarin / angular2-electron](https://github.com/joaogarin/angular2-electron) - Electron app running with angular2 and webpack
