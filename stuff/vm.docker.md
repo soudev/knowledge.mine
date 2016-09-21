@@ -604,6 +604,8 @@
 
 --
 
+* [Uma breve introdução ao Docker com Node.js | BrasilJS](https://braziljs.org/blog/uma-breve-introducao-ao-docker-com-nodejs/) - 2016/09/21
+
 * [How to Dockerize your Node application | Luca Mezzalira](https://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
 
 * [Getting Started with Docker for the Node.js Developer | AirPair](https://www.airpair.com/node.js/posts/getting-started-with-docker-for-the-nodejs-dev)
