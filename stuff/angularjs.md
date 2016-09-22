@@ -239,6 +239,8 @@
 
 * [Getting Started Using Angular Material 2 in an Angular 2 Angular-CLI application | Medium by @ladyleet](https://medium.com/@ladyleet/getting-started-using-angular-material-2-in-an-angular-2-angular-cli-application-bbeecdf6bfe2)
 
+* [Angular 2 Animations - Foundation Concepts | thoughtram](http://blog.thoughtram.io/angular/2016/09/16/angular-2-animation-important-concepts.html) - 2016/09/16
+
 --
 
 * [Optimize your Angular 2 Application with Tree Shaking | Rangle.io Blog](http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/) - 2016/09/02
