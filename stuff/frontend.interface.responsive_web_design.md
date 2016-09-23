@@ -88,7 +88,7 @@
 
 ### Ferramentas
 
-* [Screenfly](https://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
+* [Screenfly](http://quirktools.com/screenfly/) - Test Your Website at Different Screen Resolutions
 
 * [Responsive Test](http://responsivetest.net/) - Testing responsive web design in various resolutions
 
