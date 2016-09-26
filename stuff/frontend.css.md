@@ -266,6 +266,9 @@ rem - context is always based on root context (html or body)
 
 ### Tools
 
+* [[Gist] CSS Layout Debugger - by addyosmani](https://gist.github.com/addyosmani/fd3999ea7fce242756b1) - 108 byte CSS Layout Debugger
+
+
 #### Online Tools
 
 * [colourcode](http://colourco.de) - find your colour scheme
