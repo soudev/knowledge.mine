@@ -115,11 +115,13 @@
 
 --
 
+* [[GitHub] lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
+
 * [[GitHub] diegopolido / remote-jobs-compilation-of-compilation](https://github.com/diegopolido/remote-jobs-compilation-of-compilation)
 
 * [[GitHub] pragmaticivan / guia-do-trabalho-remoto](https://github.com/pragmaticivan/guia-do-trabalho-remoto) - Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
 
-* [[GitHub] lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
+* [[GitHub] DyegoCosta / trabalhando-remoto](https://github.com/DyegoCosta/trabalhando-remoto) - Informações para quem trabalha ou quer trabalhar remoto
 
 --
 
