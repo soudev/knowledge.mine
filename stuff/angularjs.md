@@ -1536,6 +1536,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [The Three Watch Depths of AngularJS | teropa.info](http://teropa.info/blog/2014/01/26/the-three-watch-depths-of-angularjs.html) - 2014/01/26
+
 * [Mastering $watch in AngularJS | SitePoint](http://www.sitepoint.com/mastering-watch-angularjs/) - 2016/02/23
 
 --
