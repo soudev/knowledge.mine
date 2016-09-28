@@ -123,6 +123,8 @@
 
 * [[GitHub] DyegoCosta / trabalhando-remoto](https://github.com/DyegoCosta/trabalhando-remoto) - Informações para quem trabalha ou quer trabalhar remoto
 
+* [[GitHub] tapajos / trabalhando_fora](https://github.com/tapajos/trabalhando_fora) - Descomplicando o trabalhar para fora
+
 --
 
 * Invoice
