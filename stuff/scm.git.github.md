@@ -613,6 +613,8 @@ git branch -D feature/branch
 
 ### Dicas: GitHub
 
+* [Profissionalizando seus projetos no GitHub | BrasilJS](https://braziljs.org/blog/profissionalizando-seus-projetos-no-github-2/) - 2016/09/22
+
 * [Search wiki pages | GitHub Blog](https://github.com/blog/2219-search-wiki-pages)
 
 --
