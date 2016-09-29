@@ -161,6 +161,8 @@
 
 * [[GitHub] luanmuniz / dotfiles](https://github.com/luanmuniz/dotfiles) - Script de configuração de workspace
 
+* [[GitHub] holman / dotfiles](https://github.com/holman/dotfiles)
+
 --
 
 * [[GitHub] alrra / dotfiles](https://github.com/alrra/dotfiles) - OS X / Ubuntu dotfiles
