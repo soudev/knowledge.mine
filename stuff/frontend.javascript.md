@@ -2149,6 +2149,8 @@
 
 * [Make your JavaScript code shine: knockout old ES5 hacks | Dmitri Pavlutin](https://rainsoft.io/make-your-javascript-code-shide-knockout-old-es5-hack/) - 2016/08/10
 
+* [[YouTube] "Things You Can Do In ES6 That Can't Be Done In ES5" - View Source talk by Dan Shappir | Mozilla Hacks](https://www.youtube.com/watch?v=GbVAMgU3Jj0)
+
 --
 
 * [Expert ES6 | tagtree.io](http://tagtree.io/courses/expert-es6/do) - An ES6 Course in the Browser
