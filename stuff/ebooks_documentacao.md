@@ -245,6 +245,10 @@
 
 * [MIT Challenge | Scott H Young](http://www.scotthyoung.com/blog/myprojects/mit-challenge-2/) - Over the next 12 months, I’m going to learn the entire 4-year MIT curriculum for computer science.
 
+--
+
+* [[GitHub] terryum / awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
+
 
 ## Criatividade e Idéias
 
