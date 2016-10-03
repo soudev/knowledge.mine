@@ -234,6 +234,8 @@
 
   * [[GitHub] scotch-io / vuejs-github-explorer](https://github.com/scotch-io/vuejs-github-explorer)
 
+* [[GitHub] webpack-academy / starter-page](https://github.com/webpack-academy/starter-page) - VueJS (Self-grokked) Homepage for webpack-academy
+
 
 ### React.js
 
