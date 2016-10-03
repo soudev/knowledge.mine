@@ -82,6 +82,8 @@
 
 * [transitions | CSS-Tricks](https://css-tricks.com/almanac/properties/t/transition/) - 2013/08/28
 
+* [Transition Effect with CSS Masks | Codrops](http://tympanus.net/codrops/2016/09/29/transition-effect-with-css-masks/) - (2016/09/29) A tutorial on how to use CSS Masks to create some interesting looking slide transitions. Highly experimental!
+
 --
 
 * [Star Wars 3D Scrolling Text in CSS3 | Site Point](http://www.sitepoint.com/css3-starwars-scrolling-text/)
