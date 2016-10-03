@@ -54,6 +54,8 @@
 
 ## Markdown editor
 
+* [Typora](https://www.typora.io/) - a minimal markdown reading & writing app
+
 * [Mou - Markdown editor for web developers](http://mouapp.com/) - on Mac OS X
 
 * [Haroopad - Multimarkdown editor based on node-webkit](http://pad.haroopress.com/) - Windows / Linux / Mac [[GitHub] code](https://github.com/rhiokim/haroopad)
