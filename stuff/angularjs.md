@@ -341,6 +341,8 @@
 
 * [[GitHub] amcdnl / angular2-demo](https://github.com/amcdnl/angular2-demo) - Angular2 + SASS + TypeScript + SystemJS + NPM Builds
 
+* [[GitHub] jaxio / celerio-angular-quickstart](https://github.com/jaxio/celerio-angular-quickstart) - Generate an Angular 2.0 CRUD application from an existing database schema
+
 --
 
 * [[GitHub] angular-redux / ng2-redux](https://github.com/angular-redux/ng2-redux) - Angular 2 bindings for Redux
