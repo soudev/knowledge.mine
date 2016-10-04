@@ -66,6 +66,8 @@
 
 --
 
+* [[GitHub] Eun / DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac
+
 * Move windows
 
   * [Moom](http://manytricks.com/moom/) - Do you spend a lot of time moving and zooming windows, so you can better see and work with all the content on your Mac? Instead of doing that work yourself, let Moom handle the task for you. - U$ 10
