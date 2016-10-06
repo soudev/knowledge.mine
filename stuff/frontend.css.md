@@ -56,6 +56,8 @@
 
 * [ARQUITETURA CSS | Tableless - Medium](https://medium.com/tableless/arquitetura-css-d344fb01dd18) - 2015/03/29
 
+* [Por que usar classes para estilizar elementos? | iMasters](http://imasters.com.br/desenvolvimento/por-que-usar-classes-para-estilizar-elementos/) - 2016/10/06
+
 * [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/) -  Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS.
 
 * CSS escalável - Da filosofia à metodologia
