@@ -85,6 +85,12 @@
 
 --
 
+* [Criando um media center com Raspberry Pi | Medium by @crp_underground](https://medium.com/@crp_underground/criando-um-media-center-com-raspberry-pi-7841917464c0)
+
+* [How to Install Android TV in Raspberry Pi 3 | Make Tech Easier](https://www.maketecheasier.com/install-android-tv-in-raspbery-pi/)
+
+--
+
 * Java
 
   * [Dynamic Code Evolution VM](http://ssw.jku.at/dcevm/) - A modification of the Java HotSpot(TM) VM that allows unlimited class redefinition at runtime
