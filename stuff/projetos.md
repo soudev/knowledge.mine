@@ -71,6 +71,8 @@
 
 * [[GitHub] cjbarber / ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News
 
+* [[GitHub] detailyang / awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+
 --
 
 * [NinjaMock](http://ninjamock.com/) - free tool for mobile app wireframes and website mockups.
