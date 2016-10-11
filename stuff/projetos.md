@@ -91,6 +91,8 @@
 
 * [How to Install Android TV in Raspberry Pi 3 | Make Tech Easier](https://www.maketecheasier.com/install-android-tv-in-raspbery-pi/)
 
+* [Dualboot no raspberry com berryboot | Medium by @crp_underground](https://medium.com/@crp_underground/dualboot-no-raspberry-com-berryboot-56a9cdcd4b6e)
+
 --
 
 * Java
