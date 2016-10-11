@@ -374,6 +374,8 @@
 >
 >   * [Things I Wish Someone Had Told Me When I Was Learning How to Code | Medium by @cecilycarver](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
 
+* [A primeira linguagem que todo programador deve aprender | LF Bittencourt](https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26)
+
 --
 
 * [[YouTube] You should learn to program: Christian Genco at TEDxUTA](https://www.youtube.com/watch?v=cALAPK2ZSrw) - 2014/02/03
