@@ -57,6 +57,7 @@
   * [url rewrite proxy](#url-rewrite-proxy)
   * [Módulo](#módulo)
   * [NPM](#npm)
+  * [Yarn](#yarn)
   * [CORS](#cors)
   * [Armazenamento](#armazenamento)
   * [Virtualização](#virtualização)
@@ -2018,6 +2019,16 @@ $ sudo chown -R `whoami` .npm
 * [Stay up-to-date with Node.js packages using npm-onupdate service | Piotr Walczyszyn's Blog](http://outof.me/stay-up-to-date-with-node-js-packages-using-npm-onupdate-service/)
 
 * [[GitHub] tjunnone / npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json or bower.json allows
+
+### Yarn
+
+* [[GitHub] yarnpkg / yarn](Fast, reliable, and secure dependency management)
+
+--
+
+* [Yarn: A new package manager for JavaScript | Engineering Blog - Facebook Code](https://code.facebook.com/posts/1840075619545360) - 2016/10/11
+
+* [Facebook launches Yarn, a JavaScript package manager built for speed | The Next Web](http://thenextweb.com/dd/2016/10/12/facebook-launches-yarn-a-faster-npm-client/) - 2016/10/12
 
 
 ### CORS
