@@ -61,6 +61,10 @@
 
 * [[GitHub] SchemaStore / schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files incuding full API
 
+--
+
+* [[GitHub] jdorfman / awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets) - A curated list of awesome JSON datasets that don't require authentication.
+
 
 ## GeoJSON
 
