@@ -2030,6 +2030,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Facebook launches Yarn, a JavaScript package manager built for speed | The Next Web](http://thenextweb.com/dd/2016/10/12/facebook-launches-yarn-a-faster-npm-client/) - 2016/10/12
 
+* [Yarn Roundup: What you need to know about Facebook’s new JS Package Manager | StatusCode](https://medium.com/statuscode/roundup-of-yarn-links-npm-javascript-abad6a5ddbf6)
+
 
 ### CORS
 
