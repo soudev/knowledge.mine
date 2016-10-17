@@ -2026,6 +2026,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [NPM vs Yarn Cheat Sheet | Red Shift](https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc) - 2016/10/16
+
+--
+
 * [Yarn: A new package manager for JavaScript | Engineering Blog - Facebook Code](https://code.facebook.com/posts/1840075619545360) - 2016/10/11
 
 * [Facebook launches Yarn, a JavaScript package manager built for speed | The Next Web](http://thenextweb.com/dd/2016/10/12/facebook-launches-yarn-a-faster-npm-client/) - 2016/10/12
