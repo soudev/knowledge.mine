@@ -517,6 +517,8 @@
 
 * [12 JavaScript Libraries for Data Visualization | Site Point](http://www.sitepoint.com/twelve-javascript-libraries-data-visualization/)
 
+* [SVG Charting Libraries | Media Temple](http://mediatemple.net/blog/tips/svg-charting-libraries/) - 2016/10/12
+
 --
 
 * [Data Visualization | Showcases | GitHub](https://github.com/showcases/data-visualization)
