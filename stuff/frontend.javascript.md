@@ -2213,6 +2213,8 @@
 
 * [My New Favorite ES6 Toy: Destructured Objects as Parameters | CSS-Tricks](https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/) - 2016/09/06
 
+* [Recursion in JavaScript with ES6, destructuring and rest/spread | @hackernoon](https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-spread-4b22ae5998fa) - 2016/10/10
+
 --
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
