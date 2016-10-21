@@ -1669,6 +1669,8 @@
 
 * [Construindo ferramentas de linha de comando com node.js | @millermedeiros / Abril 2015](http://slides.millermedeiros.com/nodebr/cli/) - Dicas de como estruturar ferramentas de linha de comando, facilitando a manutenção e aumentando a flexibilidade dos programas. Introdução básica sobre princípios de design do UNIX, principalmente sobre modularidade, composição e boas práticas.
 
+* [Simple build tools: npm scripts vs Makefile vs runjs | @hackernoon](https://hackernoon.com/simple-build-tools-npm-scripts-vs-makefile-vs-runjs-31e578278162) - 2016/10/03
+
 --
 
 * [[GitHug] SamVerschueren / listr](https://github.com/SamVerschueren/listr) - Terminal task list
