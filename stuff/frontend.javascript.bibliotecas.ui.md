@@ -230,6 +230,8 @@
 
 * [Create an App in VueJS 2 | Auth0](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/) - (2016/07/14) VueJS is coming out with a new version. Learn what's changed by building a simple application.
 
+* [[GitHub] marcosmoura / vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
+
 * [Create a GitHub File Explorer Using Vue.js | Scotch](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) - 2015/11/03
 
   * [[GitHub] scotch-io / vuejs-github-explorer](https://github.com/scotch-io/vuejs-github-explorer)
