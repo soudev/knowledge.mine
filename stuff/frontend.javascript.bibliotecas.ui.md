@@ -271,6 +271,8 @@
 
 * [Começando com React.js | jscasts](http://jscasts.teachable.com/courses/comecando-com-react-js) - O tutorial que você queria, mostrando de forma simplificada suas principais características e vantagens
 
+* [React: do básico ao avançado - Parte 1 | BrasilJS](https://braziljs.org/blog/react-do-basico-ao-avancado-parte-1/) - 2016/10/17
+
 --
 
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
