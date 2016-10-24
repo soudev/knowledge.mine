@@ -229,6 +229,10 @@
 
 --
 
+* [How to create & use components in Angular 2 | Medium by @ladyleet](https://medium.com/@ladyleet/simple-use-of-components-in-angular-2-with-v-2-0-0-beta-17-271abdbd203b) - 2016/10/18
+
+--
+
 * [Angular, Immutability and Encapsulation | Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
 
 * [Angular 2 — Introduction to new HTTP module | Google Developer Experts — Medium](https://medium.com/google-developer-experts/angular-2-introduction-to-new-http-module-1278499db2a0)
