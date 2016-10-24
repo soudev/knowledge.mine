@@ -186,6 +186,8 @@
 
 --
 
+* [Atom: os 10 pacotes para otimizar sua produtividade | Binariux](http://binariux.com/pacotes-atom-otimizar-sua-produtividade/) - 2016/10/18
+
 * [[package] merge-conflicts](https://atom.io/packages/merge-conflicts) - Resolve git conflicts within Atom
 
 * [[package] gulp-control](https://atom.io/packages/gulp-control) - Displays a list of gulp tasks and allows execution within Atom
