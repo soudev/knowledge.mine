@@ -239,6 +239,8 @@
 
 * [Providing data via Angular 2 Services | Arroyo Labs](http://blog.arroyolabs.com/2016/10/providing-data-via-angular-2-services/) - 2016/10/10
 
+* [Resolving route data in Angular 2 | thoughtram](http://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html) - 2016/10/10
+
 --
 
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between | Auth0](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/) - 2015/05/14
