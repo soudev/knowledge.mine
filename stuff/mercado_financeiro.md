@@ -271,7 +271,9 @@
 
 ### Ações
 
-* [[YouTube] O que são Ações e como investir? - Easyinvest](https://www.youtube.com/watch?v=y-ilmLcogB0)
+* [[YouTube] Aprenda a investir em ações | Easynvest](https://www.youtube.com/watch?v=1LhiYSaEz3U) - 2016/10/19
+
+* [[YouTube] O que são Ações e como investir? | Easyinvest](https://www.youtube.com/watch?v=y-ilmLcogB0)
 
 * [[YouTube] Rico com vc: Como investir em ações?](https://www.youtube.com/watch?v=qJlvR8BgHLs)
 
