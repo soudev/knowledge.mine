@@ -302,3 +302,7 @@
 ## HTML Email
 
 * [Build an HTML Email Template From Scratch | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/build-an-html-email-template-from-scratch/)
+
+* [Construa um Modelo de E-mail em HTML a Partir do Zero | Tuts+ Web Design](http://webdesign.tutsplus.com/pt/articles/build-an-html-email-template-from-scratch--webdesign-12770) - A melhor forma de entender qualquer processo é realizá-lo desde o começo Hoje, faremos isso com o design de e-mails, construindo um modelo de e-mail em HTML, do zero
+
+* [Coding mobile-first emails | Campaign Monitor Engineering – Medium](https://medium.com/cm-engineering/coding-mobile-first-emails-1513ac4673e) - 2016/07/12
