@@ -38,6 +38,8 @@
 
 * [22 Essential CSS Recipes | Ilya Pestov](http://ipestov.com/22-essential-css-recipes/) - (2016/01/22)
 
+* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
+
 --
 
 * [dynamically add css rule to the document | JSFiddle](http://fiddle.jshell.net/MDyxg/1/)
