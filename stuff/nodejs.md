@@ -2369,6 +2369,8 @@ $ sudo chown -R `whoami` .npm
 
   * [[GitHub] stephanepericat / toptal-electron-loki-demo](https://github.com/stephanepericat/toptal-electron-loki-demo) - Electron: Cross-platform Desktop Apps Made Easy
 
+* [Building Hybrid Applications with Electron | Several People Are Coding - Medium](https://slack.engineering/building-hybrid-applications-with-electron-dc67686de5fb) - 2016/10/26
+
 --
 
 * [[GitHub] JamesTheHacker / Neuron](https://github.com/JamesTheHacker/Neuron) - Neuron - Electron, ES6, React, PouchDB, Sass, Webpack
