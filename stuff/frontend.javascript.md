@@ -1045,6 +1045,8 @@
 
 * [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233)
 
+* [Getting Started with Webpack 2 | Thinking in Code – Medium](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783) - 2016/10/24
+
   * [[GitHub] ModusCreateOrg / budgeting-sample-app-webpack2](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - Budgeting - React + Redux + Webpack 2 (tree shaking) Sample App
 
 * [Webpack FTW!!!! | k94n](https://k94n.com/webpack-ftw) - 2016/03/14
