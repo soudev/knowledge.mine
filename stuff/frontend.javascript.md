@@ -2211,6 +2211,8 @@
 
 * [ES6 for Now: Template Strings | SitePoint](http://www.sitepoint.com/es6-now-template-strings/) - 2015/09/09
 
+* [ES6 Template Strings, the Handlebars killer? | Keith Cirkel](https://www.keithcirkel.co.uk/es6-template-strings/) - 2016/10/26
+
 * [Constructive destructuring | krasimirtsonev.com](http://krasimirtsonev.com/blog/article/constructive-destructuring-es6-assignment)
 
 * [My New Favorite ES6 Toy: Destructured Objects as Parameters | CSS-Tricks](https://css-tricks.com/new-favorite-es6-toy-destructured-objects-parameters/) - 2016/09/06
