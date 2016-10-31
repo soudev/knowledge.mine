@@ -2268,6 +2268,8 @@
 
 * [[YouTube] Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://www.youtube.com/watch?v=lil4YCCXRYc) - 2015/06/22
 
+* [Javascript's async and await - what problem do they solve? | Jack Preston](http://unwttng.com/javascripts-async-and-await-what-problem-do-they-solve/) - 2016/10/27
+
 * [2016 - the year of web streams | JakeArchibald.com](https://jakearchibald.com/2016/streams-ftw/) - 2016/01/25
 
 * [The final feature set of ECMAScript 2016 (ES7) | 2ality](http://www.2ality.com/2016/01/ecmascript-2016.html) - 2016/01/30
