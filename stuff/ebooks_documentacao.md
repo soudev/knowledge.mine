@@ -272,6 +272,8 @@
 
   * [Aplicativos gratuitos auxiliam na hora de estudar para o Enem | G1](http://g1.globo.com/educacao/enem/2014/noticia/2014/09/aplicativos-gratuitos-auxiliam-na-hora-de-estudar-para-o-enem-veja-video.html) - veja vídeo - notícias em Enem 2014
 
+* [Harvard Online Learning](http://online-learning.harvard.edu/) - Explore Harvard’s extensive, world-class online learning opportunities. We invite you to follow your intellectual curiosity, from podcasts and lectures to fully interactive courses and programs.
+
 
 ### Conhecimentos gerais
 
