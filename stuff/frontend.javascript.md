@@ -1029,6 +1029,8 @@
 
 * [webpack visualizer](https://chrisbateman.github.io/webpack-visualizer/)
 
+* [[GitHub] th0r / webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
+
 --
 
 * [[GitHub] ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
