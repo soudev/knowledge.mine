@@ -73,6 +73,8 @@
 
 * [[GitHub] detailyang / awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
 
+* [[GitHub] leereilly / games](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+
 --
 
 * [NinjaMock](http://ninjamock.com/) - free tool for mobile app wireframes and website mockups.
