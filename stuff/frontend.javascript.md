@@ -348,6 +348,7 @@
 
 * [Fetch API e o JavaScript | BrazilJS](https://braziljs.org/blog/fetch-api-e-o-javascript/) - 2016/04/10
 
+* [[GitHub] Swizec / better-fetch](https://github.com/Swizec/better-fetch) - A tiny ES6 fetch() wrapper that makes your life easier without drastic changes to the API
 
 ### OOP
 
