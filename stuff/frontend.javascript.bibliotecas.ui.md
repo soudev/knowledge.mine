@@ -226,6 +226,8 @@
 
     * [Algumas dicas para usar no VueRouter](http://www.vuejs-brasil.com.br/algumas-dicas-para-usar-no-vuerouter/) - 2016/07/26
 
+* [Vue.js: Trabalhando com Serviços | CodeCasts](https://blog.codecasts.com.br/vue-js-e-servicos-4d4439320a2)
+
 --
 
 * [Create an App in VueJS 2 | Auth0](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/) - (2016/07/14) VueJS is coming out with a new version. Learn what's changed by building a simple application.
