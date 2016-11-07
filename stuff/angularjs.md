@@ -297,9 +297,13 @@
 
   * [[GitHub] johnpapa / angular2-there-and-back-again](https://github.com/johnpapa/angular2-there-and-back-again) - A little bit of everything in Angular 2
 
+  * [[GitHub] blinfo / angular2-webpack-seed](https://github.com/blinfo/angular2-webpack-seed) - Angular2 webpack typescript
+
   * Angular Class
 
     * [[GitHub] AngularClass / angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @AngularClass
+
+      * [[GitHub] ghillert / angular2-webpack-starter-bootstrap](https://github.com/ghillert/angular2-webpack-starter-bootstrap) - An Angular 2 Webpack Starter kit (WITH BOOTSTRAP SUPPORT)
 
     * [The State of TypeScript Packages | AngularClass](https://angularclass.com/the-state-of-typescript-packages/) - 2015/11/24
 
