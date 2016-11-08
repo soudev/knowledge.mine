@@ -51,6 +51,10 @@
 
 * [DICA - Markdown / HTML para PDF - Quebra de página | Nomadev](http://nomadev.com.br/dica-markdown-html-para-pdf-quebra-de-p%C3%A1gina/) - 2015/09/09
 
+--
+
+* [[GitHub] noffle / art-of-readme](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
+
 
 ## Markdown editor
 
