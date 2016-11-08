@@ -157,6 +157,8 @@
 
 * [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
 
+* [[GitHub] brijeshb42 / medium-draft](https://github.com/brijeshb42/medium-draft) - A medium like Rich Text Editor built on draft-js with a focus on keyboard shortcuts.
+
 * [[GitHub] guardian / scribe](https://github.com/guardian/scribe) - A rich text editor framework for the web platform
 
 * [[GitHub] quilljs / quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
