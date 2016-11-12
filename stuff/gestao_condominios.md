@@ -57,6 +57,10 @@ Todas as reuniões devem ser registradas em atas, após a reunião esta deve ser
 
 * [Rateio de água. Critério mais justo | Viva o Condomínio](http://www.vivaocondominio.com.br/noticias/vida-em-condominio/rateio-de-agua-criterio-mais-justo) - 2014/05/12
 
+* [Mudança no Rateio de Água em Condomínios | Estasa](http://estasa.com.br/estasa-news/index.php/rateio-de-agua-em-condominios/) - 2016/07/20
+
+> No último dia 12 de julho, o presidente em exercício Michel Temer sancionou a [Lei Federal No. 13.312](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13312.htm). Sua principal atribuição é a mudança no rateio de água em condomínios. A nova torna obrigatória a medição individualizada do consumo hídrico nas novas edificações condominiais. O principal benefício da adoção da nova lei é a preocupação com o meio ambiente e o uso sustentável de água pelo condomínio.
+
 
 ## Sistemas Online
 
