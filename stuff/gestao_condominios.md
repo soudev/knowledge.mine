@@ -4,6 +4,10 @@
 
   * [5 passos para uma boa administração de condomínio](http://www.blogcondominio.com.br/administracao/5-passos-para-uma-boa-administracao-de-condominio/) - 2014/10/08
 
+  * [Como gerir a inadimplência](http://www.blogcondominio.com.br/administracao/como-gerir-a-inadimplencia/) - 2016/02/02
+
+  * [Como funciona a remuneração do síndico](http://www.blogcondominio.com.br/administracao/como-funciona-a-remuneracao-do-sindico/) - 2015/07/16
+
   * [Lidando com problemas de barulho no condomínio](http://www.blogcondominio.com.br/dicas-2/lidando-com-problemas-de-barulho-no-condominio/) - 2015/07/30
 
 
