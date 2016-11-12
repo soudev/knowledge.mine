@@ -27,6 +27,12 @@
 
   * [O que um condomínio precisa para abrir uma conta bancaria em seu nome? E o titular em nome de quem?](https://www.sindiconet.com.br/tiraduvidas/6/juridico/32357/o-que-um-condominio-precisa-para-abrir-uma-conta-bancaria-em-seu-nome-e-o-titular-em-nome-de-quem)
 
+## Ata de Assembléia
+
+> ordinária ou extraordinária
+
+Todas as reuniões devem ser registradas em atas, após a reunião esta deve ser registrada em cartório para que seja considerada pública (nos quesitos legais), então o síndico deve disponibilizar/distribuir a cópia para todos os condôminos.
+
 
 ## Sistemas Online
 
