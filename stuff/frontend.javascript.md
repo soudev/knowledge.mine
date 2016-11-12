@@ -1052,7 +1052,7 @@
 
   * [[GitHub] ModusCreateOrg / budgeting-sample-app-webpack2](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - Budgeting - React + Redux + Webpack 2 (tree shaking) Sample App
 
-* [Moving to Webpack 2](javascriptplayground.com/blog/2016/10/moving-to-webpack-2)
+* [Migrating to Webpack 2 | JavaScript Playground](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/) - 2016/10/21
 
 * [Webpack FTW!!!! | k94n](https://k94n.com/webpack-ftw) - 2016/03/14
 
