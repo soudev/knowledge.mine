@@ -6,6 +6,8 @@
 
   * [Como gerir a inadimplência](http://www.blogcondominio.com.br/administracao/como-gerir-a-inadimplencia/) - 2016/02/02
 
+  * [Como organizar um condomínio](http://www.blogcondominio.com.br/blog-do-condominio/como-organizar-um-condominio/) - 2015/05/26
+
   * [Como funciona a remuneração do síndico](http://www.blogcondominio.com.br/administracao/como-funciona-a-remuneracao-do-sindico/) - 2015/07/16
 
   * [Lidando com problemas de barulho no condomínio](http://www.blogcondominio.com.br/dicas-2/lidando-com-problemas-de-barulho-no-condominio/) - 2015/07/30
