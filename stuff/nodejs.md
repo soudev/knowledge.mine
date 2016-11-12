@@ -1954,6 +1954,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [10 Tips and Tricks That Will Make You an npm Ninja | SitePoint](https://www.sitepoint.com/10-npm-tips-and-tricks/) - 2016/11/09
+
 * [NPM tricks | Devthought](http://www.devthought.com/2012/02/17/npm-tricks/)
 
 * [Npm Tips | fiveisprime](http://fiveisprime.com/2014/04/06/npm-tips/)
