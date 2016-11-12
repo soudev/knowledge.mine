@@ -53,7 +53,12 @@
 Todas as reuniões devem ser registradas em atas, após a reunião esta deve ser registrada em cartório para que seja considerada pública (nos quesitos legais), então o síndico deve disponibilizar/distribuir a cópia para todos os condôminos.
 
 
-## Rateio de água
+## Rateio de despesas
+
+* [Justiça precisa rever rateio de despesas em condomínios | Emorar](http://www.emorar.com.br/justica-precisa-rever-rateio-de-despesas-em-condominios/) - 2011/10/13
+
+
+### Água
 
 * [Rateio de água. Critério mais justo | Viva o Condomínio](http://www.vivaocondominio.com.br/noticias/vida-em-condominio/rateio-de-agua-criterio-mais-justo) - 2014/05/12
 
