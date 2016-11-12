@@ -924,6 +924,8 @@
 
 * [[GitHub] PixelsCommander / HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
 
+* [[GitHub] turbo / js](https://github.com/turbo/js) - perform massive parallel computations in your browser with GPGPU
+
 
 #### Games
 
