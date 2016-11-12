@@ -55,6 +55,8 @@ Todas as reuniões devem ser registradas em atas, após a reunião esta deve ser
 
 ## Rateio de despesas
 
+> O Código Civil, no artigo 1336, prevê que na inexistência de disposição em contrário na Convenção Condominial, as despesas devem ser suportadas pelos condôminos na proporção de sua fração ideal. É dizer, quem tem áreas privativas maiores (incluindo terraços de coberturas e gardens), pagam mais pelas despesas.
+
 * [Justiça precisa rever rateio de despesas em condomínios | Emorar](http://www.emorar.com.br/justica-precisa-rever-rateio-de-despesas-em-condominios/) - 2011/10/13
 
 
