@@ -2,7 +2,9 @@
 
 * [Blog do Condomínio](http://www.blogcondominio.com.br/)
 
-* [5 passos para uma boa administração de condomínio | Blog do Condomínio](http://www.blogcondominio.com.br/administracao/5-passos-para-uma-boa-administracao-de-condominio/) - 2014/10/08
+  * [5 passos para uma boa administração de condomínio](http://www.blogcondominio.com.br/administracao/5-passos-para-uma-boa-administracao-de-condominio/) - 2014/10/08
+
+  * [Lidando com problemas de barulho no condomínio](http://www.blogcondominio.com.br/dicas-2/lidando-com-problemas-de-barulho-no-condominio/) - 2015/07/30
 
 
 ## Sistemas Online
