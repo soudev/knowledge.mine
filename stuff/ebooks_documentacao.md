@@ -489,6 +489,8 @@ Share with others around the world
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
+* [Elixir School](http://elixirschool.com/lessons/basics/basics/) - Lessons about the Elixir programming language
+
 --
 
 * [Programming | GitBook](https://www.gitbook.io/explore/cat/programming)
