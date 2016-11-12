@@ -21,6 +21,24 @@
 
 ## Abertura de conta
 
+* Necessário
+
+  * ter:
+
+    * Nome do Condomínio
+
+    * CNPJ do Condomínio (disponivel no site da receita federal)
+
+  * definir:
+
+    * uma convenção
+
+    * regulamento interno
+
+    * ata de assembléia (ordinário ou extraordinária) contendo as definições de forma/limites de utilização da conta corrente, por parte do síncido/sub-síndico
+
+--
+
 * Portal SindicoNet - Tira Dúvidas
 
   * [Que documentos do condomínio é preciso para abrir uma conta bancária?](https://www.sindiconet.com.br/tiraduvidas/5/finanas/20687/que-documentos-do-condominio-e-preciso-para-abrir-uma-conta-bancaria)
