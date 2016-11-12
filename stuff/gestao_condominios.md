@@ -4,6 +4,8 @@
 
   * [5 passos para uma boa administração de condomínio](http://www.blogcondominio.com.br/administracao/5-passos-para-uma-boa-administracao-de-condominio/) - 2014/10/08
 
+  * [Como administrar um condomínio – Dicas de organização para simplificar a gestão do seu condomínio](http://www.blogcondominio.com.br/administracao/como-administrar-um-condominio/) - 2014/12/19
+
   * [Como gerir a inadimplência](http://www.blogcondominio.com.br/administracao/como-gerir-a-inadimplencia/) - 2016/02/02
 
   * [Como organizar um condomínio](http://www.blogcondominio.com.br/blog-do-condominio/como-organizar-um-condominio/) - 2015/05/26
