@@ -1,5 +1,9 @@
 # Gestão de Condomínios
 
+* [Estabelecer o condomínio em prédios novos é tarefa difícil | Secovi-PR](http://www.secovipr.com.br/Estabelecer+o+condominio+em+predios+novos+e+tarefa+dificil+104+863.shtml) - 2014/02/10
+
+--
+
 * [Blog do Condomínio](http://www.blogcondominio.com.br/)
 
   * [5 passos para uma boa administração de condomínio](http://www.blogcondominio.com.br/administracao/5-passos-para-uma-boa-administracao-de-condominio/) - 2014/10/08
