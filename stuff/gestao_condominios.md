@@ -14,6 +14,19 @@
 
   * [Lidando com problemas de barulho no condomínio](http://www.blogcondominio.com.br/dicas-2/lidando-com-problemas-de-barulho-no-condominio/) - 2015/07/30
 
+--
+
+* [Portal SindicoNet](https://www.sindiconet.com.br/)
+
+
+## Abertura de conta
+
+* Portal SindicoNet - Tira Dúvidas
+
+  * [Que documentos do condomínio é preciso para abrir uma conta bancária?](https://www.sindiconet.com.br/tiraduvidas/5/finanas/20687/que-documentos-do-condominio-e-preciso-para-abrir-uma-conta-bancaria)
+
+  * [O que um condomínio precisa para abrir uma conta bancaria em seu nome? E o titular em nome de quem?](https://www.sindiconet.com.br/tiraduvidas/6/juridico/32357/o-que-um-condominio-precisa-para-abrir-uma-conta-bancaria-em-seu-nome-e-o-titular-em-nome-de-quem)
+
 
 ## Sistemas Online
 
@@ -29,6 +42,6 @@
 
 * [Seu condomínio](https://www.seucondominio.com.br/)
 
-* [Acolweb](http://www.acolweb.com.br/) - sistema de gestão de condomínios 
+* [Acolweb](http://www.acolweb.com.br/) - sistema de gestão de condomínios
 
 * [SIN - Sistema Condomínio OnLine](http://www.sistemacondominioonline.com.br/)
