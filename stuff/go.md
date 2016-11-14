@@ -58,6 +58,8 @@
 
 * [[GitHub] gizak / termui](https://github.com/gizak/termui) - Golang terminal dashboard
 
+* [[GitHub] caarlos0 / ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports
+
 
 ## Docker
 
