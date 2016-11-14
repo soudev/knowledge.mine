@@ -72,6 +72,8 @@
 
 * [[YouTube] O fantástico mundo do JavaScript - Jean Carlo Emer](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
 
+* [[GitHub] javascript-society / javascript-path](https://github.com/javascript-society/javascript-path) - List of books to master JavaScript Development
+
 --
 
 * [[YouTube] Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - [loupe tool](http://latentflip.com/loupe/)
