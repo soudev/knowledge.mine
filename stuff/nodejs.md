@@ -1180,11 +1180,16 @@
 
   * [Simple Content Management with Node.js and Markdown | Flippin' Awesome](http://flippinawesome.org/2014/05/05/simple-content-management-with-node-js-and-markdown/)
 
+
 * [[GitHub] Crossbow-js / crossbow](https://github.com/Crossbow-js/crossbow) - Static Site Generator API - built for speed & extensibility
+
 
 * [CMS.js](https://cdmedia.github.io/cms.js/) - Javascript CMS
 
   * [[GitHub] cdmedia / cms.js](https://github.com/cdmedia/cms.js) - The Javascript Site Generator
+
+
+* [[GitHub] gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
 
 
 ### Hardware
