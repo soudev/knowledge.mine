@@ -232,6 +232,10 @@
 
 * [Polymer vs. X-Tag - Here's the difference | Pascal Precht](https://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/)
 
+--
+
+* [[GitHub] felipeccastro / html-component](https://github.com/felipeccastro/html-component/) - Component-based UIs with vanilla ES6 and Custom Elements
+
 
 #### Polyfills
 
