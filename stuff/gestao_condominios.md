@@ -61,6 +61,21 @@ Todas as reuniões devem ser registradas em atas, após a reunião esta deve ser
 
 > O Código Civil, no artigo 1336, prevê que na inexistência de disposição em contrário na Convenção Condominial, as despesas devem ser suportadas pelos condôminos na proporção de sua fração ideal. É dizer, quem tem áreas privativas maiores (incluindo terraços de coberturas e gardens), pagam mais pelas despesas.
 
+```
+Fração Ideal da unidade = FI
+A Área total do terreno - Ater
+Área da Unidade Residencial em questão - Aund
+Área total construída das unidades - At und
+
+FI = (Ater x Aund)/ At und
+
+Se quiser a Fração Ideal em Porcentagem, pegue o FI da equação acima, divida pela área total do terreno e multiplique por 100. Ou a área da unidade em questão, dividida pela área total construída e multiplique por 100.
+```
+> * [Fração Ideal | Dicionário Informal](http://www.dicionarioinformal.com.br/fra%C3%A7%C3%A3o%20ideal/)
+>
+> * [O que é fração ideal | Portal SíndicoNet](https://www.sindiconet.com.br/informese/6882/divisao-de-despesas/o-que-e-fraao-ideal) - Significado e como é calculada
+
+
 * [Justiça precisa rever rateio de despesas em condomínios | Emorar](http://www.emorar.com.br/justica-precisa-rever-rateio-de-despesas-em-condominios/) - 2011/10/13
 
 
