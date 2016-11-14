@@ -78,6 +78,8 @@ Se quiser a Fração Ideal em Porcentagem, pegue o FI da equação acima, divida
 
 * [Justiça precisa rever rateio de despesas em condomínios | Emorar](http://www.emorar.com.br/justica-precisa-rever-rateio-de-despesas-em-condominios/) - 2011/10/13
 
+* [Taxa de Condomínio: Fração ideal ou por unidade? | CondomínioSC](http://condominiosc.com.br/jornal-dos-condominios/financas/2101-taxa-de-condominio-fracao-ideal-ou-por-unidade) - 2015/06/30
+
 
 ### Água
 
