@@ -371,6 +371,10 @@
 
 --
 
+* [[GitHub] parro-it / awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages
+
+--
+
 * [Runtime.js](http://runtimejs.org/) - javascript operational system for the cloud
 
   * [[GitHub] runtimejs / runtime](https://github.com/runtimejs/runtime)
