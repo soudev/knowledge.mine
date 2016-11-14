@@ -83,6 +83,13 @@ Se quiser a Fração Ideal em Porcentagem, pegue o FI da equação acima, divida
 
 ### Água
 
+> * 1 litro de água = 1 cm3
+> * 1 m3 = 1000 listros de água
+
+* [Aprenda a calcular sua conta de água | O que você fez pelo planeta hoje?](http://www.oquevocefezpeloplanetahoje.com.br/calculo-de-consumo-de-agua/)
+
+--
+
 * [Rateio de água. Critério mais justo | Viva o Condomínio](http://www.vivaocondominio.com.br/noticias/vida-em-condominio/rateio-de-agua-criterio-mais-justo) - 2014/05/12
 
 * [Mudança no Rateio de Água em Condomínios | Estasa](http://estasa.com.br/estasa-news/index.php/rateio-de-agua-em-condominios/) - 2016/07/20
