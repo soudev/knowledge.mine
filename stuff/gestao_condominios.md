@@ -96,6 +96,10 @@ Se quiser a Fração Ideal em Porcentagem, pegue o FI da equação acima, divida
 
 > No último dia 12 de julho, o presidente em exercício Michel Temer sancionou a [Lei Federal No. 13.312](http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Lei/L13312.htm). Sua principal atribuição é a mudança no rateio de água em condomínios. A nova torna obrigatória a medição individualizada do consumo hídrico nas novas edificações condominiais. O principal benefício da adoção da nova lei é a preocupação com o meio ambiente e o uso sustentável de água pelo condomínio.
 
+* [Você sabe como sua administradora calcula sua água e gás em Curitiba? | Syndikos - Gestão de Condomínios em Curitiba](http://gestaocondominioscuritiba.com.br/administracao-de-condominios-em-curitiba/2015/09/24/voce-sabe-como-sua-administradora-calcula-sua-agua-e-gas-em-curitiba/)
+
+> ...a companhia de água cobra uma cota mínima de 10m3 por unidade do condomínio...
+
 
 ## Sistemas Online
 
