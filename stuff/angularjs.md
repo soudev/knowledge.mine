@@ -2190,6 +2190,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 * [[GitHub] ritz078 / ngEmoticons](https://github.com/ritz078/ngEmoticons) - An angularjs filter for converting text into emoticons
 
+* [AngularJS: Different ways of using Array Filters | SivaLabs](http://sivalabs.in/2014/09/angularjs-different-ways-of-using-array-filters/)
+
 
 ## Módulos
 
