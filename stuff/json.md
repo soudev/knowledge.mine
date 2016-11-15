@@ -190,3 +190,5 @@
 * [[GitHub] serkanyersen / jsonplus](https://github.com/serkanyersen/jsonplus) - JSON parser that supports self reference and comments
 
 * [[GitHub] nature / shunter](https://github.com/nature/shunter) - A Node.js application built to read JSON and translate it into HTML
+
+* [[GitHub] FGRibreau / gron](https://github.com/FGRibreau/gron) - Make JSON greppable
