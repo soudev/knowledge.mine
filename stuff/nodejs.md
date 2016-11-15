@@ -1793,6 +1793,8 @@
 
 * [[GitHub] Mashape / unirest-nodejs](https://github.com/mashape/unirest-nodejs) - Node.js Unirest library built on-top of request and modeled after superagent.
 
+* [Developing a RESTful API With Node and TypeScript | Michael Herman](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/) - 2016/11/05
+
 
 ### Authentication
 
