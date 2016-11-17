@@ -149,6 +149,8 @@
 
 * [[GitHub] jmcunningham / AngularJS2-Learning](https://github.com/jmcunningham/AngularJS2-Learning) - A list of resources for learning Angular2
 
+* [[GitHub] vmware / clarity](https://github.com/vmware/clarity) - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences
+
 --
 
 * [Angular 2: Why TypeScript? | vsavkin.com](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
