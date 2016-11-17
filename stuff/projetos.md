@@ -29,6 +29,10 @@
 
 ## Geral
 
+* [10 documentários para empreendedores escondidos na Netflix | Endeavor Brasil](https://endeavor.org.br/documentario-empreendedorismo-netflix/)
+
+--
+
 * [[YouTube] Paradigma dos Macacos](https://www.youtube.com/watch?v=g5G0qE7Lf0A)
 
 --
