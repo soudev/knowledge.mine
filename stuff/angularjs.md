@@ -136,6 +136,10 @@
 
 * [Using Angular 2 Patterns in Angular 1.x Apps by @simpulton](http://www.angular2patterns.com/)
 
+--
+
+* [Please stop worrying about Angular 3 | Todd Motto](https://toddmotto.com/please-stop-worrying-about-angular-3)
+
 
 ### Angular.js 2.0
 
