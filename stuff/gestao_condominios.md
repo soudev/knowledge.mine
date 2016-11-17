@@ -88,6 +88,10 @@ Se quiser a Fração Ideal em Porcentagem, pegue o FI da equação acima, divida
 
 * [Aprenda a calcular sua conta de água | O que você fez pelo planeta hoje?](http://www.oquevocefezpeloplanetahoje.com.br/calculo-de-consumo-de-agua/)
 
+* [Tarifas | Sanepar](http://site.sanepar.com.br/clientes/nossas-tarifas)
+
+  * [[pdf] tarifas válidas nas contas emitidas a partir de 01/04/2016](http://site.sanepar.com.br/sites/site.sanepar.com.br/files/clientes2012/06decreto35762016tabelatarifas.pdf)
+
 --
 
 * [Rateio de água. Critério mais justo | Viva o Condomínio](http://www.vivaocondominio.com.br/noticias/vida-em-condominio/rateio-de-agua-criterio-mais-justo) - 2014/05/12
