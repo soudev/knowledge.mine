@@ -26,6 +26,12 @@
 
 --
 
+* [Visual Hunt](http://visualhunt.com/)
+
+* [Visual Hunt, buscador com mais de 350 milhões de imagens gratuitas em alta resolução | Designers Brasileiros](https://www.designersbrasileiros.com.br/visual-hunt-buscador-com-mais-de-350-milhoes-de-imagens-gratuitas-em-alta-resolucao/)
+
+--
+
 * [Browser Hacks](http://browserhacks.com/)
 
 * [How–to: Use TITLE attributes](http://a11yproject.com/posts/title-attributes/)
