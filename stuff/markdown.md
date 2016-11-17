@@ -155,6 +155,8 @@
 
 --
 
+* [[GitHub] yhatt / marp](https://github.com/yhatt/marp/) - Markdown presentation writer, powered by Electron
+
 * [[GitHub] scottstanfield / grunt-markdown-to-json](https://github.com/scottstanfield/grunt-markdown-to-json)
 
 * [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF.
