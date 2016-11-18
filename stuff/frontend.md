@@ -162,7 +162,7 @@
 
 * [[GitHub] mohicanlove / reaction-gifs](https://github.com/mohicanlove/reaction-gifs)
 
-* [[GitHub] Rydgel / Fake-images-please](https://github.com/Rydgel/Fake-images-please) - Fakeimg.pl is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free
+* [[GitHub] Rydgel / Fake-images-please](https://github.com/Rydgel/Fake-images-please) - [Fakeimg.pl](http://fakeimg.pl/) is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free
 
 --
 
