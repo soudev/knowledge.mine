@@ -6,6 +6,8 @@
 
   * [[GitHub] golang / go](https://github.com/golang/go) - The Go programming language
 
+--
+
 * [Go Resources](http://www.golang-book.com/)
 
 * [GoDoc](https://godoc.org/) - hosts documentation for Go packages on Bitbucket, GitHub, Google Project Hosting and Launchpad.
@@ -13,6 +15,8 @@
 * [[GitHub] avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 * [Go by Example](https://gobyexample.com/) - is a hands-on introduction to Go using annotated example programs.
+
+* [Go In 5 Minutes](https://www.goin5minutes.com/) is a screencast series with the most concise, practical Go screencasts on the web.
 
 --
 
