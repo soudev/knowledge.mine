@@ -520,6 +520,8 @@
 
 * [The Realities of Docker in Production | Heavybit Blog](http://blog.heavybit.com/blog/2015/3/23/dockermeetup) - Docker seems like a fundamentally better abstraction for packaging and deploying applications in a persistent way across multiple environments. Amongst individual developers and sys admins it's praised, but at a recent Docker in Production Meetup at Heavybit -- engineers from ClusterHQ, Iron.io, RelateIQ and Docker gathered to talk about what it looks like in production.
 
+* [Lessons learned running Docker in production | Treehouse Engineering – Medium](https://medium.com/treehouse-engineering/lessons-learned-running-docker-in-production-5dce99ece770) - 2016/04/05
+
 --
 
 * [[GitHub] remie / YouTransfer](https://github.com/remie/YouTransfer) - The simple but elegant self-hosted file transfer & sharing solution
