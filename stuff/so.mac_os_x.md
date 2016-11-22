@@ -176,6 +176,8 @@
 
 ## Setup
 
+* [Setup a Mac Dev Machine From Scratch | Laracasts](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch)
+
 * [SublimeText, iTerm, and Chrome setup | Damian Le Nouaille](http://www.damln.com/log/setup/)
 
 * [[Gist] millermedeiros / osx_setup.md](https://gist.github.com/millermedeiros/6615994) - Mac OS X Mountain Lion setup
