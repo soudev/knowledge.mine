@@ -524,3 +524,5 @@ Share with others around the world
 --
 
 * [[GitHub] lowescott / learning-tools](https://github.com/lowescott/learning-tools) - A collection of tools and files for learning new technologies
+
+* [[GitHub] andrew--r / channels](https://github.com/andrew--r/channels) - A collection of useful YouTube channels for javascript developers and web designers
