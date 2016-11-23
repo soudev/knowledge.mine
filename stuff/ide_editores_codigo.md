@@ -122,9 +122,11 @@
 
 * [Light Table](http://www.lighttable.com/)
 
-* [Learn | Light Table](http://www.chris-granger.com/lighttable/)
+  * [[GitHub] LightTable / LightTable](https://github.com/LightTable/LightTable) - The Light Table IDE
 
-* [Light Table 0.4](http://www.chris-granger.com/2013/04/28/light-table-040/)
+* [Learn - Light Table | Chris Granger](http://www.chris-granger.com/lighttable/)
+
+  * [Light Table is open source (0.6.0)](http://www.chris-granger.com/2014/01/07/light-table-is-open-source/)
 
 
 ### Vim
