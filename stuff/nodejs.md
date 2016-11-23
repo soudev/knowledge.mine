@@ -536,6 +536,8 @@
 
 * [Writing Node.js Addons | Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/writing-nodejs-addons--cms-21771)
 
+* [Running NodeJS on Linux on Windows (with no VM) | Hacker Noon - Medium](https://hackernoon.com/running-nodejs-on-linux-on-windows-88bd12993bae) - 2016/11/16
+
 --
 
 * [Node Console](http://www.node-console.com/script/code) - test node.js apps online
