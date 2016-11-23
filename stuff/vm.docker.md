@@ -622,9 +622,6 @@
 
 * [How to Dockerize your Node application | Luca Mezzalira](http://lucamezzalira.com/2016/04/03/how-to-dockerize-your-node-application/) - 2016/04/03
 
-* [Running NodeJS on Linux on Windows (with no VM) | Hacker Noon - Medium](https://hackernoon.com/running-nodejs-on-linux-on-windows-88bd12993bae) - 2016/11/16
-
-
 ### Oracle
 
 * [[GitHut] oracle / docker-images](https://github.com/oracle/docker-images) - Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products
