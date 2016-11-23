@@ -74,6 +74,8 @@
 
 * [[GitHub] javascript-society / javascript-path](https://github.com/javascript-society/javascript-path) - List of books to master JavaScript Development
 
+* [A Study Plan To Cure JavaScript Fatigue | Free Code Camp - Medium](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1) - 2016/10/31
+
 --
 
 * [[YouTube] Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - [loupe tool](http://latentflip.com/loupe/)
