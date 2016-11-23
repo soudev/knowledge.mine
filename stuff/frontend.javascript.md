@@ -2178,6 +2178,10 @@
 
 --
 
+* [ES6 is great, but use it cautiously | Medium by @sAbakumoff](https://medium.com/@sAbakumoff/es6-is-great-until-its-not-f398339d0af6) - 2016/11/16
+
+--
+
 * [six tricks enabled by new ES6 features | 2ality](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
 
 * [Deploying ECMAScript 6 | 2ality](http://www.2ality.com/2015/04/deploying-es6.html)
