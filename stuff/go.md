@@ -18,6 +18,8 @@
 
 * [Go In 5 Minutes](https://www.goin5minutes.com/) is a screencast series with the most concise, practical Go screencasts on the web.
 
+* [Resources for new Go programmers | Dave Cheney](https://dave.cheney.net/resources-for-new-go-programmers)
+
 --
 
 * [Gophers, please tag your releases | Dave Cheney](http://dave.cheney.net/2016/06/24/gophers-please-tag-your-releases)
