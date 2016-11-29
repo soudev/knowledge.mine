@@ -211,6 +211,8 @@
 
 * [Node.js Archives - Tutorials | socialchai.com](http://socialchai.com/tuts/free-online-course/node-js/)
 
+* [[YouTube] Zero to Hero with Node.js - Code Geek](https://www.youtube.com/watch?v=jzFdRTgveXY) - 2016/11/13
+
 --
 
 * [You Don't Know Node: Quick Intro to Core Features | webapplog](http://webapplog.com/you-dont-know-node/)
