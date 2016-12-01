@@ -232,6 +232,8 @@
 
 --
 
+* [Getting up and Running with the Vue.js 2.0 Framework | SitePoint](https://www.sitepoint.com/up-and-running-vue-js-2-0/) - 2016/11/29
+
 * [Create an App in VueJS 2 | Auth0](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/) - (2016/07/14) VueJS is coming out with a new version. Learn what's changed by building a simple application.
 
 * [[GitHub] marcosmoura / vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
