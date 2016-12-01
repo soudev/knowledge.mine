@@ -14,6 +14,8 @@
 
 ## CSS
 
+* [CSS Reference](http://cssreference.io/) - A free visual guide to the most popular CSS properties
+
 * [Elevando seu nível no CSS | Medium by @oieduardorabelo](https://medium.com/@oieduardorabelo/elevando-seu-nível-no-css-b2acbb220248)
 
 * [CSS Tricks](http://css-tricks.com/)
