@@ -975,6 +975,8 @@
 
   * [[Github] IonicaBizau / node-cobol](https://github.com/IonicaBizau/node-cobol) - COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS
 
+* [[GitHub] (pdf) Implementing HTTP/2 for Node.js Core](https://github.com/jasnell/presentations/blob/master/http2/NI.pdf)
+
 --
 
 * [[GitHub] indutny / node-spdy](https://github.com/indutny/node-spdy) - SPDY server on Node.js
