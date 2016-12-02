@@ -246,6 +246,8 @@
 
 * [[GitHub] webpack-academy / starter-page](https://github.com/webpack-academy/starter-page) - VueJS (Self-grokked) Homepage for webpack-academy
 
+* [[GitHub] monterail / vuelidate](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js
+
 
 ### React.js
 
