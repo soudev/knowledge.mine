@@ -269,6 +269,8 @@
 
 --
 
+* [[Github] angular / angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
+
 * [Create a Desktop App with Angular 2 and Electron | Auth0](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/) - Build a simple image calculator app with Angular 2 and Electron
 
 * [Building Desktop apps with Angular2 and Electron | Joao Garin](https://www.joaogarin.com/blog/building-desktop-apps-with-angular2-and-electron) - 2016/05/06
