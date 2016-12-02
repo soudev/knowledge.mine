@@ -414,6 +414,8 @@
 
 * [[GitHub] lucasviola / awesome-tech-videos](https://github.com/lucasviola/awesome-tech-videos) - A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
 
+* [[GitHub] hagata / 30daysofHelloWorld](https://github.com/hagata/30daysofHelloWorld) - Nov 2016, 30 days of 30 hello worlds using new (to me) technology
+
 --
 
 * [[YouTube] BGTSD - Part 23: What do you do when you do not know how to do something?](https://www.youtube.com/watch?v=PounrNJPMkU) - 2015/06/10 - Jesse Warden
