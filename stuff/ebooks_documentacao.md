@@ -354,7 +354,7 @@
 
 * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 
-* [YouTube] Pula Muralha
+* [YouTube] [Pula Muralha](http://pulamuralha.com.br/)
 
   * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
 
@@ -365,6 +365,12 @@
   * [Como Falar Obrigado e De Nada em Chinês](https://www.youtube.com/watch?v=eyRAuL6FRlU)
 
   * [Desculpa, Meu Chinês Não é Bom!](https://www.youtube.com/watch?v=sxcTvWsyMz4)
+
+  * [Como Brasileiro Se Apresenta Em Chinês :)](https://www.youtube.com/watch?v=BXwiJtxkRvg)
+
+  * [Como Se Apresentar em Chinês](https://www.youtube.com/watch?v=IevorCARDgk)
+
+  * [Muito Prazer em Conhecer Você Em Chinês](https://www.youtube.com/watch?v=V_tICJDfv_E)
 
 
 #### Idiomas: Dicas
