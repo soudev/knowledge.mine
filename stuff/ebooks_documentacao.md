@@ -350,9 +350,21 @@
 
 * [Deutsch Interaktiv | DW.COM](http://www.dw.com/pt/aprender-alem%C3%A3o/deutsch-interaktiv/s-9660) - Aprenda alemão com o curso interativo e multimídia da DW
 
+* [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
+
 * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 
-* [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
+* [YouTube] Pula Muralha
+
+  * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
+
+  * [Como Contar de 1 a 10 em Chinês! + Música Especial](https://www.youtube.com/watch?v=Qew-Umiz6Gc)
+
+  * [As Duas Palavras Mais Úteis em Chinês: Oi e Tchau](https://www.youtube.com/watch?v=9JSLvm1GjMg)
+
+  * [Como Falar Obrigado e De Nada em Chinês](https://www.youtube.com/watch?v=eyRAuL6FRlU)
+
+  * [Desculpa, Meu Chinês Não é Bom!](https://www.youtube.com/watch?v=sxcTvWsyMz4)
 
 
 #### Idiomas: Dicas
