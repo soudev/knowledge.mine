@@ -230,6 +230,8 @@
 
 * [Vue.js: Trabalhando com Serviços | CodeCasts](https://blog.codecasts.com.br/vue-js-e-servicos-4d4439320a2)
 
+* [Clean up your Vue modules with ES6 Arrow Functions | dotdev](https://dotdev.co/clean-up-your-vue-modules-with-es6-arrow-functions-2ef65e348d41) - 2016/11/26
+
 --
 
 * [[YouTube] Vue.js Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) - Learn Vue.js 2.0 with this tutorial series.
