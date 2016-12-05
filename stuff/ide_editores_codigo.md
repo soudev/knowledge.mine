@@ -167,6 +167,8 @@
 
 --
 
+* [[Github] Microsoft/vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+
 * [[GitHub] viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources
 
 * [[GitHug] Microsoft / vscode-spell-check](https://github.com/Microsoft/vscode-spell-check) - An extension to VSCode for spell and grammar checking
