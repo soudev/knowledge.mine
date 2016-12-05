@@ -2202,6 +2202,8 @@
 
 * [ES6: arrow functions em 5 minutos | Raphael Fabeni](http://www.raphaelfabeni.com.br/es6-arrow-functions/) - 2016/01/12
 
+* [When 'not' to use arrow functions | Thoughts on JavaScript &  Swift](https://rainsoft.io/when-not-to-use-arrow-functions-in-javascript/) - 2016/06/06
+
 * [Mastering ES6 higher-order functions for Arrays | airpair](https://www.airpair.com/javascript/posts/mastering-es6-higher-order-functions-for-arrays)
 
 * [Iterables and iterators in ECMAScript 6 | 2ality](http://www.2ality.com/2015/02/es6-iteration.html)
