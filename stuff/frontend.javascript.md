@@ -840,6 +840,10 @@
 
 * [Regex #1: CheatSheet for JavaScript | Gentlenode Studio - Journal](http://journal.gentlenode.com/regex-1-cheatsheet-for-javascript/)
 
+* [Useful Regex Patterns](https://projects.lukehaas.me/regexhub/)
+
+  * [[GitHub] lukehaas / RegexHub](https://github.com/lukehaas/RegexHub) - A collection of useful regex patterns
+
 --
 
 * [Regular Expressions in JavaScript | SitePoint](https://www.sitepoint.com/expressions-javascript/) - 2016/06/02
