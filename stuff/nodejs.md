@@ -2648,6 +2648,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] dareid / chakram](https://github.com/dareid/chakram) - REST API test framework. BDD and exploits promises
 
+* [[GitHub] shoreditch-ops / artillery](https://github.com/shoreditch-ops/artillery) - Modern load testing toolkit for HTTP, Socket.io, WebSockets and more.
+
 
 #### Test Runner
 
