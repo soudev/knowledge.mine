@@ -66,6 +66,8 @@
 
 * [[GitHub] caarlos0 / ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports
 
+* [[GitHub] simeji / jid](https://github.com/simeji/jid) - json incremental digger
+
 
 ## Docker
 
