@@ -70,6 +70,10 @@
 
 ## Dicas
 
+* [[GitHub] faif / python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+
+--
+
 * [How Web Scraping is Revealing Lobbying and Corruption in Peru | The Scrapinghub Blog](https://blog.scrapinghub.com/2016/03/09/how-web-scraping-is-revealing-lobbying-and-corruption-in-peru/) - 2016/03/09
 
 --
