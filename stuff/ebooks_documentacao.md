@@ -348,6 +348,8 @@
 
 --
 
+* [101 Ways to Learn English](http://www.ecenglish.com/en/101-ways-to-learn-english)
+
 * [Deutsch Interaktiv | DW.COM](http://www.dw.com/pt/aprender-alem%C3%A3o/deutsch-interaktiv/s-9660) - Aprenda alemão com o curso interativo e multimídia da DW
 
 * [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
