@@ -883,6 +883,8 @@
 
 * [Turn.js](http://www.turnjs.com/) - The page flip effect in HTML5
 
+* [[GitHub] thednp / kute.js](https://github.com/thednp/kute.js) - is a native Javascript animation engine featuring great code quality, badass performance, morphSVG, drawSVG, 2D and 3D transforms, SVG transforms, colors, as well as other CSS3 properties or presentation attributes.
+
 
 #### Physics
 
