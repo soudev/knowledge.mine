@@ -244,6 +244,12 @@
 
 * [[GitHub] felipeccastro / html-component](https://github.com/felipeccastro/html-component/) - Component-based UIs with vanilla ES6 and Custom Elements
 
+--
+
+* [[GitHub] grmlin / gremlins](https://github.com/grmlin/gremlins) - dead simple web components
+
+  * [An Intro to Monkey Testing with Gremlins.js | CSS-Tricks](https://css-tricks.com/intro-monkey-testing-gremlins-js/) - 2016/11/14
+
 
 #### Polyfills
 
