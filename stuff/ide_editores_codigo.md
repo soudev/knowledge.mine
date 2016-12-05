@@ -107,6 +107,8 @@
 
 * [WebStorm](https://www.jetbrains.com/webstorm/)
 
+  * [How to speed up WebStorm | StackOverflow](https://stackoverflow.com/questions/29388626/how-to-speed-up-webstorm)
+
   * [Project and IDE Settings | WebStorm Help](https://www.jetbrains.com/webstorm/help/project-and-ide-settings.html)
 
   * [Live Templates | WebStorm Help](https://www.jetbrains.com/webstorm/help/live-templates-2.html)
