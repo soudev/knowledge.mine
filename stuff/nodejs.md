@@ -1053,12 +1053,6 @@
 
 --
 
-* [Harp - An open-source web server with built-in pre-processing](http://harpjs.com/) - Harp serves Jade, Markdown, EJS, CoffeeScript, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary. It makes front-end development a treat
-
-  * [Introduction to the Harp Web Server | Introductory Screencast - Harp](http://harpjs.com/blog/introductory-screencast)
-
---
-
 * [Hapi : server framework for Node.js](http://spumko.github.io/)
 
   * [Node.js and Hapi - Creating a REST API | Modulus Blog](http://blog.modulus.io/nodejs-and-hapi-create-rest-api)
@@ -1200,6 +1194,11 @@
 
 
 * [[GitHub] gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
+
+
+* [[GitHub] sintaxi / harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
+
+  * [Introduction to the Harp Web Server | Introductory Screencast - Harp](http://harpjs.com/blog/introductory-screencast)
 
 
 ### Hardware
