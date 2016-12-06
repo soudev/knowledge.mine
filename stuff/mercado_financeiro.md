@@ -125,6 +125,10 @@
 
 ### Curiosidades
 
+* [[YouTube] Economia Compartilhada! - Sicoob Oficial](https://www.youtube.com/watch?v=jVXuJStW-sE) - 2016/11/28
+
+--
+
 * [Como Cobrar O Quanto Você Quiser - E Ainda Parecer Ridiculamente Barato | Empreendedor Digital](http://www.empreendedor-digital.com/como-cobrar-o-quanto-voce-quiser) - Aprenda aqui como cobrar o preço que você quiser - e ainda ter as pessoas achando que seu preço é ESTUPIDAMENTE barato.
 
 * [[YouTube] Where are all the Billionaires? & Why should We Care?: Victor Haghani at TEDxSPS](https://www.youtube.com/watch?v=1yJWABvUXiU) - 2013/03/08
