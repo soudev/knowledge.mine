@@ -372,6 +372,12 @@
 
     * [Aula 6 Ideogramas São Apaixonantes - Origem dos Ideogramas #4 Mais exemplos](https://www.youtube.com/watch?v=fMweZNXlqHI)
 
+    * [Aula 7 - As possíveis dificuldades da língua chinesa - Os inesperados](https://www.youtube.com/watch?v=ZN-TYFEjx7Q)
+
+    * [Aula 7 - PINYIN - O Alfabeto Chinês - A pronúncia dos ideogramas - PARTE I - VOGAIS](https://www.youtube.com/watch?v=Aja0PbQtyws)
+
+    * [Aula 7 - PINYIN - O Alfabeto Chinês - A pronúncia dos ideogramas - PARTE II - Consoantes](https://www.youtube.com/watch?v=XroFV8hBMZs)
+
   * [[YouTube] Pula Muralha](https://www.youtube.com/channel/UC6qjUYfE_cG4PHWVs9MMBlA) | [site](http://pulamuralha.com.br/)
 
     * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
