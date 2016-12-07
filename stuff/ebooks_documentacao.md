@@ -354,25 +354,33 @@
 
 * [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
 
-* [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
+* Chinese
 
-* [YouTube] [Pula Muralha](http://pulamuralha.com.br/)
+  * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 
-  * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
+  * [[YouTube] Aula de Chinês](https://www.youtube.com/channel/UC3lM0AIkVJozi6Fe08BAd7w) | [site](http://www.auladechines.com.br/)
 
-  * [Como Contar de 1 a 10 em Chinês! + Música Especial](https://www.youtube.com/watch?v=Qew-Umiz6Gc)
+    * [Aula 1 - Diferença entre Chinês, Mandarim & Cantonês](https://www.youtube.com/watch?v=FPYsHvggWvQ)
 
-  * [As Duas Palavras Mais Úteis em Chinês: Oi e Tchau](https://www.youtube.com/watch?v=9JSLvm1GjMg)
+    * [Aula 2 - Chinês é simples e impressionante!](https://www.youtube.com/watch?v=Hvca0GqWPIg)
 
-  * [Como Falar Obrigado e De Nada em Chinês](https://www.youtube.com/watch?v=eyRAuL6FRlU)
+  * [[YouTube] Pula Muralha](https://www.youtube.com/channel/UC6qjUYfE_cG4PHWVs9MMBlA) | [site](http://pulamuralha.com.br/)
 
-  * [Desculpa, Meu Chinês Não é Bom!](https://www.youtube.com/watch?v=sxcTvWsyMz4)
+    * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
 
-  * [Como Brasileiro Se Apresenta Em Chinês :)](https://www.youtube.com/watch?v=BXwiJtxkRvg)
+    * [Como Contar de 1 a 10 em Chinês! + Música Especial](https://www.youtube.com/watch?v=Qew-Umiz6Gc)
 
-  * [Como Se Apresentar em Chinês](https://www.youtube.com/watch?v=IevorCARDgk)
+    * [As Duas Palavras Mais Úteis em Chinês: Oi e Tchau](https://www.youtube.com/watch?v=9JSLvm1GjMg)
 
-  * [Muito Prazer em Conhecer Você Em Chinês](https://www.youtube.com/watch?v=V_tICJDfv_E)
+    * [Como Falar Obrigado e De Nada em Chinês](https://www.youtube.com/watch?v=eyRAuL6FRlU)
+
+    * [Desculpa, Meu Chinês Não é Bom!](https://www.youtube.com/watch?v=sxcTvWsyMz4)
+
+    * [Como Brasileiro Se Apresenta Em Chinês :)](https://www.youtube.com/watch?v=BXwiJtxkRvg)
+
+    * [Como Se Apresentar em Chinês](https://www.youtube.com/watch?v=IevorCARDgk)
+
+    * [Muito Prazer em Conhecer Você Em Chinês](https://www.youtube.com/watch?v=V_tICJDfv_E)
 
 
 #### Idiomas: Dicas
