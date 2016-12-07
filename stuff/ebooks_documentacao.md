@@ -364,6 +364,14 @@
 
     * [Aula 2 - Chinês é simples e impressionante!](https://www.youtube.com/watch?v=Hvca0GqWPIg)
 
+    * [Aula 3 Ideogramas São Apaixonantes - Origem dos Ideogramas #1 Pictográficos](https://www.youtube.com/watch?v=der1fst_CFA)
+
+    * [Aula 4 - Ideogramas São Apaixonantes - Origem dos Ideogramas #2 Picto-ideológicos](https://www.youtube.com/watch?v=u8Ub1i4EkMQ)
+
+    * [Aula 5 - Ideogramas São Apaixonantes - Origem dos Ideogramas #3 Pictofonéticos](https://www.youtube.com/watch?v=KC4B2-P5wgU)
+
+    * [Aula 6 Ideogramas São Apaixonantes - Origem dos Ideogramas #4 Mais exemplos](https://www.youtube.com/watch?v=fMweZNXlqHI)
+
   * [[YouTube] Pula Muralha](https://www.youtube.com/channel/UC6qjUYfE_cG4PHWVs9MMBlA) | [site](http://pulamuralha.com.br/)
 
     * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
