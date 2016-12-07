@@ -354,11 +354,15 @@
 
 * [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
 
+* [[YouTube] Chinês Mandarim? Japonês? Qual diferença? - Aula de Chinês](https://www.youtube.com/watch?v=VvCYkFOUaA8)
+
 * Chinese
 
   * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 
   * [[YouTube] Aula de Chinês](https://www.youtube.com/channel/UC3lM0AIkVJozi6Fe08BAd7w) | [site](http://www.auladechines.com.br/)
+
+    * [Chinês - Mandarim para viagem - Frases para não passar aperto na China](https://www.youtube.com/watch?v=RWYICxyiahM)
 
     * [Aula 1 - Diferença entre Chinês, Mandarim & Cantonês](https://www.youtube.com/watch?v=FPYsHvggWvQ)
 
