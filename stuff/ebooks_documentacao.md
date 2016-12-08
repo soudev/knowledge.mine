@@ -390,6 +390,8 @@
 
     * [Aula 7 - PINYIN - O Alfabeto Chinês - A pronúncia dos ideogramas - PARTE II - Consoantes](https://www.youtube.com/watch?v=XroFV8hBMZs)
 
+    * [Aula 8 - PINYIN - Treinamento de pronúncia - an en ang eng in ing](https://www.youtube.com/watch?v=3xvklMKCYws)
+
   * [[YouTube] Pula Muralha](https://www.youtube.com/channel/UC6qjUYfE_cG4PHWVs9MMBlA) | [site](http://pulamuralha.com.br/)
 
     * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
