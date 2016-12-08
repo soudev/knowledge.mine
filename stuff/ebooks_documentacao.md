@@ -368,6 +368,10 @@
 
     * [Chinês - Mandarim para viagem - Frases para não passar aperto na China](https://www.youtube.com/watch?v=RWYICxyiahM)
 
+    * [As 7 formas de cumprimentar em chinês (não só "nihao!")](https://www.youtube.com/watch?v=tC5ZRcGbNYI)
+
+    * [Básico - Aula 6 - Os tons do pinyin - Os truque para uma entonação correta](https://www.youtube.com/watch?v=1eS47ihT58c&t=812s)
+
     * [Aula 1 - Diferença entre Chinês, Mandarim & Cantonês](https://www.youtube.com/watch?v=FPYsHvggWvQ)
 
     * [Aula 2 - Chinês é simples e impressionante!](https://www.youtube.com/watch?v=Hvca0GqWPIg)
