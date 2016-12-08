@@ -360,6 +360,10 @@
 
   * [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 
+  * [[YouTube] Chineasy](https://www.youtube.com/channel/UCBNzhTi3AbfUxjbVY_n029g) | [site](http://www.chineasy.com/)
+
+    * [[YouTube] ShaoLan's Chineasy: Lesson 1](https://www.youtube.com/watch?v=T5FNvW19GbA)
+
   * [[YouTube] Aula de Chinês](https://www.youtube.com/channel/UC3lM0AIkVJozi6Fe08BAd7w) | [site](http://www.auladechines.com.br/)
 
     * [Chinês - Mandarim para viagem - Frases para não passar aperto na China](https://www.youtube.com/watch?v=RWYICxyiahM)
