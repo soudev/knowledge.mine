@@ -1958,6 +1958,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] 720kb / ndm](https://github.com/720kb/ndm) - Npm Desktop Manager
+
 * [[GitHub] travishorn / npm-package-store](https://github.com/travishorn/npm-package-store) - A web app that displays updates for your globally installed NPM modules
 
 --
