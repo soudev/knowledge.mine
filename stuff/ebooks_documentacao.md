@@ -346,6 +346,8 @@
 
 * [Você Aprende Agora](http://www.voceaprendeagora.com/) - É um curso de inglês online, com Felipe Dib onde você aprenda rápido e usa o inglês a seu favor.
 
+* [[GitHub] igorcosta / Elly](https://github.com/igorcosta/Elly) - Elly learns english
+
 --
 
 * [101 Ways to Learn English](http://www.ecenglish.com/en/101-ways-to-learn-english)
