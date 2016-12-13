@@ -78,6 +78,8 @@
 
     * [[GitHub] eczarny / spectacle](https://github.com/eczarny/spectacle) - Spectacle allows you to easily organize your windows without using a mouse.
 
+  * [[GitHub] fikovnik / ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position in OSX
+
 --
 
 * [[GitHub] jipegit / OSXAuditor](https://github.com/jipegit/OSXAuditor) - is a free Mac OS X computer forensics tool
