@@ -387,6 +387,10 @@
 
 * [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design
 
+* [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+
+* [[GitHub] rtsao / styletron](https://github.com/rtsao/styletron) - Universal, high-performance JavaScript styles
+
 --
 
 * [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React
