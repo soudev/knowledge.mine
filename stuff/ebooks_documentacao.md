@@ -460,6 +460,14 @@
 
 --
 
+* [DevNewsletters](https://devnewsletters.github.io/) - [github](https://github.com/devnewsletters/devnewsletters.github.io)
+
+* [DevFreeBooks](https://devfreebooks.github.io/) - [github](https://github.com/devfreebooks/devfreebooks.github.io)
+
+* [DevFreeCasts](https://devfreecasts.github.io/) - [github](https://github.com/devfreecasts/devfreecasts.github.io)
+
+--
+
 * Lógica de Programação
 
   * [[YouTube] Lógica de Programação — Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd)
