@@ -2077,6 +2077,8 @@
 
 * [Learn ES6 | Babel](http://babeljs.io/docs/learn-es6/) - A detailed overview of ECMAScript 6 features.
 
+* [[GitHub] thejameskyle / babel-handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md) - A guided handbook on how to use Babel and how to create plugins for Babel
+
 --
 
 * [From JSXTransformer to Babel | Stoyan's phpied.com](http://www.phpied.com/from-jsxtransformer-to-babel/) - 2015/06/22
