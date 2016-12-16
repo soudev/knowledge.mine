@@ -521,6 +521,8 @@
 
   * [Practical Redux | Mark's Dev Blog](http://blog.isquaredsoftware.com/series/practical-redux/)
 
+  * [Getting Started with Redux - Course by @dan_abramov | @eggheadio](https://egghead.io/courses/getting-started-with-redux)
+
 
 ### Dicas
 
