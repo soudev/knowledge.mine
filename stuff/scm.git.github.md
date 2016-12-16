@@ -664,6 +664,8 @@ git branch -D feature/branch
 
 * [GitHub Pages](https://pages.github.com/)
 
+* [Publishing with GitHub Pages, now as easy as 1, 2, 3 | GitHub Blog](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3) - 2016/12/08
+
 --
 
 * [[GitHub] js-org / dns](https://github.com/js-org/dns) - free and short JS.ORG domains for GitHub Pages
