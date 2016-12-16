@@ -372,6 +372,8 @@ git clean -fd
 
 ### Merge
 
+* [Resolve simple merge conflicts on GitHub | GitHub Blog](https://github.com/blog/2293-resolve-simple-merge-conflicts-on-github) - 2016/12/12
+
 * [Five advanced Git merge techniques](http://blog.ezyang.com/2010/01/advanced-git-merge/)
 
 * [More Git and GitHub Secrets | Zach Holman](http://zachholman.com/talk/more-git-and-github-secrets/)
