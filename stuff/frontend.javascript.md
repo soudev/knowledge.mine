@@ -1588,6 +1588,8 @@
 
   * [When should I use TypeScript? | Medium by @alexewerlof](https://medium.com/@alexewerlof/when-should-i-use-typescript-311cb5fe801b)
 
+  * [[GitHub] typeorm / typeorm](https://github.com/typeorm/typeorm) - Data-Mapper ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in Node.js and Browser.
+
 * [Blog | Wolk Software Engineering](http://blog.wolksoftware.com/)
 
   * Decorators & metadata reflection in TypeScript: From Novice to Expert
