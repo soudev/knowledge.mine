@@ -41,6 +41,8 @@
 
 * [[GitHub] ripienaar / free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+* [[GitHub] 255kb / stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
+
 --
 
 * [Why Do Developers Contribute to Open Source Projects? - Website Magazine](http://www.websitemagazine.com/m/Blog/Post/27064?name=why-developers-contribute-to-open-source-projects)
