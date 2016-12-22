@@ -66,6 +66,12 @@
 
 --
 
+* [Alfred](https://www.alfredapp.com/)
+
+* [Lacona](https://www.lacona.io/)
+
+--
+
 * [[GitHub] Eun / DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac
 
 * Move windows
