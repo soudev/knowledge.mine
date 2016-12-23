@@ -431,6 +431,8 @@
 
 * [[GitHub] Chrisui / react-hotkeys](https://github.com/Chrisui/react-hotkeys) - Declarative hotkey and focus area management for React
 
+* [[GitHub] gilbarbara / react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps.
+
 --
 
 * [[GitHub] Flipboard / react-canvas](https://github.com/flipboard/react-canvas) - High performance <canvas> rendering for React components
