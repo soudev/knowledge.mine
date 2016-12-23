@@ -75,9 +75,13 @@
 
 --
 
-* [[GitHub] cjbarber / ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News
+* [Awesome Party](http://awesomeawesome.party/)
 
 * [[GitHub] detailyang / awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+
+--
+
+* [[GitHub] cjbarber / ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News
 
 * [[GitHub] leereilly / games](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
