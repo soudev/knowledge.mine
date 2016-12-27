@@ -176,6 +176,8 @@
 
 --
 
+* [[GitHub] webkul / csspin](https://github.com/webkul/csspin) - CSS Spinners and Loaders - Modular, Customizable and Single HTML Element Code for Pure CSS Loader and Spinner
+
 * [Creative Button Styles | Codrops](http://tympanus.net/codrops/2013/06/13/creative-button-styles/)
 
 * [Troubleshooting CSS | Codrops](http://tympanus.net/codrops/2013/07/17/troubleshooting-css/) - Sometimes CSS can be frustrating. Learn about some tricky properties, the common issues they can cause and how to solve them.
