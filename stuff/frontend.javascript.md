@@ -526,6 +526,10 @@
 
 ### Dicas
 
+* [[GitHub] sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+
+--
+
 * [Learning to Use Google Analytics More Effectively at CodePen | CSS-Tricks](https://css-tricks.com/learning-use-google-analytics-effectively-codepen/)
 
 * [[YouTube] CSS-Tricks Screencast #146: Getting More from Analytics](https://www.youtube.com/watch?v=jSHqlFkJiBI) - 2016/03/07
