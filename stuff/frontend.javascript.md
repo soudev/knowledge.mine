@@ -1062,6 +1062,12 @@
 
   * [[GitHub] christianalfoni / webpack-express-boilerplate](https://github.com/christianalfoni/webpack-express-boilerplate) - A boilerplate for running a Webpack workflow in Node express
 
+--
+
+* [[GitHub] kalcifer / webpack-library-example](https://github.com/kalcifer/webpack-library-example) - An example of how to author libraries using webpack.
+
+--
+
 * [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233)
 
 * [Getting Started with Webpack 2 | Thinking in Code – Medium](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783) - 2016/10/24
