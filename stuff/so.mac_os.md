@@ -241,6 +241,8 @@
 
 ### Shell
 
+* [[GitHub] guarinogabriel / Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
+
 * [[GitHub] herrbischoff / awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line) - Use your OS X terminal shell to do awesome things
 
 * [Unix: a base de tudo! | Blog - Vitor Britto](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
