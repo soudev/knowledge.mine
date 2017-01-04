@@ -250,6 +250,10 @@
 
 * [[GitHub] monterail / vuelidate](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js
 
+--
+
+* [Criando um template com o vue-cli | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/criando-um-template-com-o-vue-cli/) - 2017/01/03
+
 
 ### React.js
 
