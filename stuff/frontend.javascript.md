@@ -2307,6 +2307,8 @@
 
 * [Javascript's async and await - what problem do they solve? | Jack Preston](http://unwttng.com/javascripts-async-and-await-what-problem-do-they-solve/) - 2016/10/27
 
+* [Async Await, JS assincronamente síncrono | BrazilJS](https://braziljs.org/blog/async-await-js-assincronamente-sincrono/) - 2016/11/08
+
 * [2016 - the year of web streams | JakeArchibald.com](https://jakearchibald.com/2016/streams-ftw/) - 2016/01/25
 
 * [The final feature set of ECMAScript 2016 (ES7) | 2ality](http://www.2ality.com/2016/01/ecmascript-2016.html) - 2016/01/30
