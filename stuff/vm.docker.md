@@ -79,6 +79,8 @@
 
 ### Aprendizado
 
+* [Docker Playground](http://play-with-docker.com/)
+
 * [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
 
 * [[YouTube] Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) - Twitter University (02/10/2013).
