@@ -79,8 +79,6 @@
 
 ### Aprendizado
 
-* [Docker Playground](http://play-with-docker.com/)
-
 * [[SlideShare] Docker](http://www.slideshare.net/anildigital/docker-31242748)
 
 * [[YouTube] Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0) - Twitter University (02/10/2013).
@@ -90,6 +88,14 @@
 * [Docker - docs](https://docs.docker.com/)
 
 * [Docker - training](https://training.docker.com/)
+
+--
+
+* [Docker Playground](http://play-with-docker.com/)
+
+* [Putting a UI around Docker with Portainer | Containerizers](https://cntnr.io/putting-a-ui-around-docker-with-portainer-c8ba07874f9d) - 2017/01/09
+
+--
 
 * [[GitHub] prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - (Docker for Beginners) A comprehensive tutorial on getting started with Docker.
 
