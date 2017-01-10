@@ -503,6 +503,8 @@
 
 * [How to use Docker Compose to run complex multi container apps on your Raspberry Pi | Docker Pirates ARMed with explosive stuff](http://blog.hypriot.com/post/docker-compose-nodejs-haproxy/)
 
+* [OpenVpn rodando com Docker no Raspberry Pi | iMasters](http://imasters.com.br/open-hardware-2/openvpn-rodando-com-docker-no-raspberry-pi/) - 2017/01/05
+
 
 ### Caso de Uso
 
