@@ -1064,6 +1064,10 @@
 
 --
 
+* [Migrating a legacy frontend build system to Webpack | OICR Softeng Blog](http://softeng.oicr.on.ca/chang_wang/2017/01/03/Legacy-Build-Tool-Migration/) - 2017/01/03
+
+--
+
 * [[GitHub] kalcifer / webpack-library-example](https://github.com/kalcifer/webpack-library-example) - An example of how to author libraries using webpack.
 
 --
