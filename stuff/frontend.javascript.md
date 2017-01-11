@@ -2154,6 +2154,8 @@
 
 * [[GitHub] airbnb / javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide (ES6)
 
+* [[GitHub] ryanmcdermott / clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
+
 --
 
 * [es6rocks.com](http://es6rocks.com/) : new site dedicated to articles and talks about the next version of JavaScript
