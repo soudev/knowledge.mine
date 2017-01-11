@@ -1066,6 +1066,8 @@
 
 * [Migrating a legacy frontend build system to Webpack | OICR Softeng Blog](http://softeng.oicr.on.ca/chang_wang/2017/01/03/Legacy-Build-Tool-Migration/) - 2017/01/03
 
+* [A Guide to Managing Webpack Dependencies | Toptal](https://www.toptal.com/javascript/a-guide-to-managing-webpack-dependencies)
+
 --
 
 * [[GitHub] kalcifer / webpack-library-example](https://github.com/kalcifer/webpack-library-example) - An example of how to author libraries using webpack.
