@@ -354,6 +354,9 @@
 
 * [[GitHub] Swizec / better-fetch](https://github.com/Swizec/better-fetch) - A tiny ES6 fetch() wrapper that makes your life easier without drastic changes to the API
 
+* [[GitHub] Huemul / trae](https://github.com/Huemul/trae) - Minimalistic Fetch based HTTP client for the browser
+
+
 ### OOP
 
 * [Prototypes Are Not Classes](http://raganwald.com/2014/01/19/prototypes-are-not-classes.html)
