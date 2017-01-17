@@ -305,6 +305,8 @@
 
   * [Parallel Processing in JS | Advanced Web Machinery](https://advancedweb.hu/2016/08/09/parallel-processing-in-js/) - 2016/08/09
 
+  * [[GitHub] mchaov / WebWorkers](https://github.com/mchaov/WebWorkers) - Demos with and without web workers
+
 --
 
 * [Introduction to WebSockets | Tech.Pro](http://tech.pro/tutorial/1167/introduction-to-websockets)
