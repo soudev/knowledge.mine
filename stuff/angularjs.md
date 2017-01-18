@@ -155,6 +155,8 @@
 
 * [[GitHub] vmware / clarity](https://github.com/vmware/clarity) - Clarity Design System: UX guidelines, HTML/CSS framework, and Angular 2 components working together to craft exceptional experiences
 
+* [[GitHub] UltimateAngular / angular-fundamentals-src](https://github.com/UltimateAngular/angular-fundamentals-src) - Source code for the "Angular 2 Fundamentals" course
+
 --
 
 * [Angular 2: Why TypeScript? | vsavkin.com](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
