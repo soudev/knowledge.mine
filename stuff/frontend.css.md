@@ -211,6 +211,8 @@
 
 * [[GitHub] afonsopacifer / awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - A curated list of CSS Flexible Box Layout Module or only Flexbox.
 
+* [[GitHub] cjcenizal / flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components
+
 * [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 * [Getting Dicey With Flexbox | David Walsh Blog](http://davidwalsh.name/flexbox-dice) - In this article, I'll walk you through the basics of flexbox by showing you how to build the faces of a die.
