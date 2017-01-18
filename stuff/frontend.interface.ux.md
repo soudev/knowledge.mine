@@ -104,6 +104,8 @@
 
 * [Color Wheel - Color Calculator | Sessions College](http://www.sessions.edu/color-calculator)
 
+* [[GitHub] yeun / open-color](https://github.com/yeun/open-color) - Color scheme for UI design
+
 
 ### Samples
 
