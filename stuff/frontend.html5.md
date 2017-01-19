@@ -758,6 +758,16 @@
 
   * [Bespoke.js: The Road to 1KB (Slides)](http://markdalgleish.github.io/presentation-bespoke.js-the-road-to-1kb/)
 
+--
+
+* [[GitHub] viniciusalmeida / ninja-presentation](https://github.com/viniciusalmeida/ninja-presentation) - Do not be fooled. You do not have to be a ninja to use this toolkit for slides presentation!
+
+--
+
+* [WebSlides](https://webslides.tv/)
+
+  * [[GitHub] jlantunez / webslides] - Making HTML presentations easy
+
 
 #### WebRTC
 
