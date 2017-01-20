@@ -1093,6 +1093,10 @@
 
 --
 
+* [[GitHub] gdborton / webpack-parallel-uglify-plugin](https://github.com/gdborton/webpack-parallel-uglify-plugin) - A faster uglifyjs plugin
+
+--
+
 * [Browserify VS Webpack - JS Drama | Naman Goel](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
 
 
