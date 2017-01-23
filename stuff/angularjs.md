@@ -241,6 +241,8 @@
 
 --
 
+* [Angular in Production | Minko Gechev's blog](http://blog.mgechev.com/2017/01/17/angular-in-production/) - (2017/01/17) In this informal essay I’ll go through a case study of my experience in using Angular (2 and above) in production.
+
 * [Angular, Immutability and Encapsulation | Victor Savkin](http://victorsavkin.com/post/133936129316/angular-immutability-and-encapsulation)
 
 * [Angular 2 — Introduction to new HTTP module | Google Developer Experts — Medium](https://medium.com/google-developer-experts/angular-2-introduction-to-new-http-module-1278499db2a0)
