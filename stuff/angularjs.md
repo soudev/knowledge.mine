@@ -197,6 +197,8 @@
 
 * [Angular 2 Upgrade Strategies from Angular 1.x | Telerik Developer Network](http://developer.telerik.com/featured/angular-2-upgrade-strategies-angular-1-x/) - 2016/07/27
 
+* [Angular 2 Patterns for Angular 1.x Apps | Telerik Developer Network](http://developer.telerik.com/featured/angular-2-patterns-angular-1-x-apps/) - 2016/10/10
+
 --
 
 * [Host and Visibility in Angular 2's Dependency Injection | thoughtram](http://blog.thoughtram.io/angular/2015/08/20/host-and-visibility-in-angular-2-dependency-injection.html)
