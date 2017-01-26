@@ -210,6 +210,8 @@
 
 * [Vue.js | Vedcasts](http://www.vedcasts.com.br/series/vuejs) - Esta série lhe passará um panorama geral sobre os recursos providos pelo Vue.js (www.vuejs.org) uma framework javascript simples e poderoso. Durante as 18 aulas da série, colocaremos recursos adicionais numa tabela HTML para permitir ordenação de dados, filtro da informações, mostrar e esconder colunas e detalhes e por fim, implementaremos paginação de resultados: tudo no browser.
 
+* [[SlideShare] Vuejs for Angular developers](http://www.slideshare.net/michailkuznetsov/vuejs-for-angular-developers) - 2017/01/20
+
 * [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
 
   * [Vue.js 2: O que mudou?](http://www.vuejs-brasil.com.br/vue-js-2-o-que-mudou/) - 2016/08/16
