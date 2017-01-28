@@ -68,6 +68,8 @@
 
 * [[GitHub] simeji / jid](https://github.com/simeji/jid) - json incremental digger
 
+* [[GitHub] ponzu-cms / ponzu](https://github.com/ponzu-cms/ponzu) - CMS with automatic JSON API for "thick client" front-ends. Featuring auto HTTPS, HTTP/2 Server Push, and flexible CMS written in Go.
+
 
 ## Docker
 
