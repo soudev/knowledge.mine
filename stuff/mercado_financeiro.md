@@ -438,6 +438,10 @@
 
 --
 
+* [WatchCoins](https://watchcoins.herokuapp.com) - Acompanhe valores em tempo real das principais traders de cryptocoins do Brasil.
+
+--
+
 * [[YouTube] What is Bitcoin? - WeUseCoins](https://www.youtube.com/watch?v=Gc2en3nHxA4)
 
 * [[YouTube] The real value of bitcoin and crypto currency technology - The Blockchain explained](https://www.youtube.com/watch?v=YIVAluSL9SU)
