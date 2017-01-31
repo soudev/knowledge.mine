@@ -2960,6 +2960,8 @@ describe('testing something...', function() {
 
 * [Supplying Mocks for Services via $provide | Tech Pro](http://tech.pro/tutorial/1517/supplying-mocks-for-services-via-provide)
 
+* [Unit Testing $log in AngularJS - ngMock Fundamentals | Bradley Braithwaite](http://www.bradoncode.com/blog/2015/06/08/ngmock-fundamentals-log/) - 2015/06/08
+
 * [[StackOverlfow] inject mocks into service or factory by using $provider](https://stackoverflow.com/questions/14773269/injecting-a-mock-into-an-angularjs-service/18756347#18756347)
 
 * [Mocking Server Dependencies in JavaScript and AngularJS | Flippin' Awesome](http://flippinawesome.org/2013/09/09/mocking-server-dependencies-in-javascript-and-angularjs/)
