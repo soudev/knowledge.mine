@@ -1862,6 +1862,8 @@
 
 * [[GitHub] ericdouglas / rooted](https://github.com/ericdouglas/rooted) - Requiring modules/folders/files in the right way
 
+* [Writing Native Node.js Modules - Node.js at Scale | @RisingStack](https://blog.risingstack.com/writing-native-node-js-modules/) - (2016/11/28) This article explains how native Node.js modules work, and how you can use them to increase the performance of your application.
+
 
 ### NPM
 
