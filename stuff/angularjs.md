@@ -245,6 +245,8 @@
 
 * [How to create & use components in Angular 2 | Medium by @ladyleet](https://medium.com/@ladyleet/simple-use-of-components-in-angular-2-with-v-2-0-0-beta-17-271abdbd203b) - 2016/10/18
 
+* [Angular ngFor, <template> and the compiler | Todd Motto](https://toddmotto.com/angular-ngfor-template-element) - 2017/02/01
+
 --
 
 * [Testing Angular Directives with Custom Matchers | thoughtram](https://blog.thoughtram.io/angular/2016/12/27/angular-2-advance-testing-with-custom-matchers.html) - 2016/12/27
