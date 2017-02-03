@@ -126,6 +126,10 @@
 
 --
 
+* [[YouTube] Trabalhando com custom properties | Quick Tips - Css CastShow](https://www.youtube.com/playlist?list=PLgcWRW66amTnK9RhsViFHd3B7-pUW02U1)
+
+--
+
 * overflow
 
   * [overflow | CSS-101](http://www.css-101.org/overflow/index.php)
