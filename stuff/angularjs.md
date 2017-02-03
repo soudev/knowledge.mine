@@ -281,6 +281,8 @@
 
 * [Optimize your Angular 2 Application with Tree Shaking | Rangle.io Blog](http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/) - 2016/09/02
 
+* [Making your Angular apps fast | thoughtram](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html) - 2017/02/02
+
 --
 
 * [[Github] angular / angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
