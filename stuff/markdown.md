@@ -58,6 +58,8 @@
 
 ## Markdown editor
 
+* [Bear](http://www.bear-writer.com/) -  is a beautiful, flexible writing app for crafting notes and prose. (Write beautifully on iPhone, iPad, and Mac)
+
 * [Typora](https://www.typora.io/) - a minimal markdown reading & writing app
 
 * [Mou - Markdown editor for web developers](http://mouapp.com/) - on Mac OS X
