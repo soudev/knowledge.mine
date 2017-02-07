@@ -1091,6 +1091,8 @@
 
 * [Migrating to Webpack 2 | JavaScript Playground](http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/) - 2016/10/21
 
+* [The Fine Art of the Webpack 2 Config | Flennik.com](https://blog.flennik.com/the-fine-art-of-the-webpack-2-config-dc4d19d7f172) - 2017/02/01
+
 * [Webpack FTW!!!! | k94n](https://k94n.com/webpack-ftw) - 2016/03/14
 
   * [[Speaker Dev] Webpack FTW](https://speakerdeck.com/k9ordon/webpack-ftw)
