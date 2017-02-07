@@ -236,6 +236,10 @@
 
 --
 
+* [[GitHub] pablohpsilva / vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
+
+--
+
 * [[YouTube] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0](https://www.youtube.com/watch?v=VPUdtEf3oXI) - 2017/01/17
 
 * [[YouTube] Vue.js Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) - Learn Vue.js 2.0 with this tutorial series.
