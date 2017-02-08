@@ -354,7 +354,13 @@
 
 * [Deutsch Interaktiv | DW.COM](http://www.dw.com/pt/aprender-alem%C3%A3o/deutsch-interaktiv/s-9660) - Aprenda alemão com o curso interativo e multimídia da DW
 
+--
+
 * [Lean Japanese | NHK](http://www.nhk.or.jp/lesson/)
+
+* [Japanese Resources | Enboard.co](https://enboard.co/japanese/) - Organized links about everything Japanese.
+
+--
 
 * [[YouTube] Chinês Mandarim? Japonês? Qual diferença? - Aula de Chinês](https://www.youtube.com/watch?v=VvCYkFOUaA8)
 
