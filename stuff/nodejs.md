@@ -2042,6 +2042,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] nolanlawson / slow-deps](https://github.com/nolanlawson/slow-deps) - Measure which dependencies in a project are slowest to npm install
+
 * [[GitHub] cmtt / depwalk](https://github.com/cmtt/depwalk) - Walk through and verify your bower and npm dependencies
 
 * [Stay up-to-date with Node.js packages using npm-onupdate service | Piotr Walczyszyn's Blog](http://outof.me/stay-up-to-date-with-node-js-packages-using-npm-onupdate-service/)
