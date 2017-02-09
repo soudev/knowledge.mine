@@ -219,6 +219,8 @@
 
 * [[GitHub] cjcenizal / flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components
 
+* [How Flexbox works — explained with big, colorful, animated gifs | freeCodeCamp](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35) - 2017/01/31
+
 * [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 * [Getting Dicey With Flexbox | David Walsh Blog](http://davidwalsh.name/flexbox-dice) - In this article, I'll walk you through the basics of flexbox by showing you how to build the faces of a die.
