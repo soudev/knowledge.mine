@@ -1081,6 +1081,8 @@
 
 * [[GitHub] kalcifer / webpack-library-example](https://github.com/kalcifer/webpack-library-example) - An example of how to author libraries using webpack.
 
+* [[GitHub] NYTimes / kyt](https://github.com/NYTimes/kyt) - Drowning in Webpack configs? Try this build, test and development tool for advanced JavaScript apps.
+
 --
 
 * [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233)
