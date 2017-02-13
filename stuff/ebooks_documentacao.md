@@ -330,6 +330,10 @@
 
 * [Sounds of Speech](http://soundsofspeech.uiowa.edu/)
 
+* [Cambridge English Language Assessment | Brasil](http://www.cambridgeenglish.org/br/) - ajuda você a aprender inglês e a comprovar suas habilidades na língua inglesa.
+
+  * [[YouTube] Cambridge English](https://www.youtube.com/CambridgeEnglishTV)
+
 * [engVid](http://www.engvid.com/) - free english video lessons
 
   * [JamesESL](https://www.youtube.com/user/JamesESL) - English Lessons (engVid)
