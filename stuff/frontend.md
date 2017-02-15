@@ -15,6 +15,8 @@
 <!-- toc stop -->
 
 
+* [HTML Reference](http://htmlreference.io/) - A free guide to all HTML elements and attributes.
+
 * [Front-end Developer Handbook](http://www.frontendhandbook.com/) - This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
 
 * [Front End Resources](https://enboard.co/frontend/) - Organized resources about front end development.
