@@ -36,6 +36,8 @@
 
 --
 
+* [iStats Menu | bjango](https://bjango.com/mac/istatmenus/) - an advance mac system monitor for your menubar
+
 * [[GitHub] matryer / bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 
 --
