@@ -1101,6 +1101,8 @@
 
 --
 
+* [[GitHub] NekR / offline-plugin](https://github.com/NekR/offline-plugin) - Offline plugin (ServiceWorker, AppCache) for webpack
+
 * [[GitHub] gdborton / webpack-parallel-uglify-plugin](https://github.com/gdborton/webpack-parallel-uglify-plugin) - A faster uglifyjs plugin
 
 --
