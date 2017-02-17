@@ -2285,6 +2285,8 @@
 
 * [Recursion in JavaScript with ES6, destructuring and rest/spread | @hackernoon](https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-spread-4b22ae5998fa) - 2016/10/10
 
+* [What You Should Know About Numbers in ES6 JavaScript | Hacker Noon](https://hackernoon.com/what-you-should-know-about-numbers-in-es6-javascript-7370be6b3469) - 2017/02/06
+
 --
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
