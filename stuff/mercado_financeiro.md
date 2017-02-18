@@ -425,6 +425,8 @@
 
 * [Imposto de Renda 2016: a hora de encarar o Leão | Conta Azul](https://blog.contaazul.com/imposto-de-renda-2016-a-hora-de-encarar-o-leao)
 
+* [Como declarar LCI, LCA e poupança na sua declaração de IR? | parMais](https://www.parmais.com.br/blog/como-declarar-lci-lca-e-poupanca-no-ir/) - 2017/02/15
+
 
 ## BitCoins
 
