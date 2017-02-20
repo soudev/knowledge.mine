@@ -292,7 +292,13 @@
 
 --
 
+* [Sketch](https://www.sketchapp.com/) - Professional Digital Design for Mac
+
 * [Harnessing Vector Awesomeness in Sketch | Medium - sketch-app](https://medium.com/sketch-app/harnessing-vector-awesomeness-in-sketch-3c9621408138) - Vector shapes are Sketch’s flagship feature. Learn how to master them
+
+* [“I didn’t know Sketch could do that!” | UX Power Tools – Medium](https://medium.com/ux-power-tools/i-didnt-know-sketch-could-do-that-182f2f2d811e) - 2017/02/02
+
+* [A Better Way to Make Buttons in Sketch | UX Power Tools – Medium](https://medium.com/ux-power-tools/a-better-way-to-make-buttons-in-sketch-6c23470f27c) - 2017/02/15
 
 
 ## Source Map
