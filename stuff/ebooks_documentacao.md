@@ -309,6 +309,8 @@
 
 * [TED Ed Lessons Worth Sharing](http://ed.ted.com/)
 
+* [[YouTube] Univesp TV](https://www.youtube.com/user/univesptv) -  é uma das ferramentas de tecnologia de informação e comunicação da Universidade Virtual do Estado de São Paulo (Univesp), e visa a formação integral do cidadão. 
+
 --
 
 * [10 podcasts úteis para quem tem pouco tempo para estudar | Exame](http://exame.abril.com.br/carreira/noticias/10-podcasts-uteis-para-quem-tem-pouco-tempo-para-estudar)
