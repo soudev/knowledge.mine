@@ -234,6 +234,10 @@
 
 * [OpenTTD](http://www.openttd.org/) - is an open source simulation game based upon Transport Tycoon Deluxe
 
+* [OpenRA](http://www.openra.net/) - is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).
+
+  * [[GitHub] OpenRA / OpenRA](https://github.com/OpenRA/OpenRA)
+
 * [OpenEmu](http://openemu.org/) - Multiple Video Game System
 
 
