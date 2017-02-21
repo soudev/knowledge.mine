@@ -1041,6 +1041,12 @@
 
 * [[GitHub] webpack / webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.
 
+--
+
+* [A Detailed Introduction To Webpack | Smashing Magazine](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/) - 2017/02/21
+
+--
+
 * [[GitHub] shama / gulp-webpack](https://github.com/shama/gulp-webpack) - webpack plugin for gulp
 
 --
