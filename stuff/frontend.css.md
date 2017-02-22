@@ -290,6 +290,10 @@ rem - context is always based on root context (html or body)
 
 * [[Gist] CSS Layout Debugger - by addyosmani](https://gist.github.com/addyosmani/fd3999ea7fce242756b1) - 108 byte CSS Layout Debugger
 
+--
+
+* [[GitHub] purifycss / purifycss](https://github.com/purifycss/purifycss) - Remove unused CSS. Also works with single-page apps.
+
 
 #### Online Tools
 
