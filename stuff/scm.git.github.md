@@ -558,6 +558,10 @@ git branch -D feature/branch
 
 * [git: fetch and merge, don’t pull](http://longair.net/blog/2009/04/16/git-fetch-and-merge/)
 
+--
+
+* [[GitHub] IonicaBizau / git-stats](https://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars.
+
 
 #### pull request
 
