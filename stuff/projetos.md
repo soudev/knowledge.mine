@@ -163,6 +163,8 @@
 
 --
 
+* [Payoneer](https://www.payoneer.com/)
+
 * [TransferWise](https://transferwise.com) - transferências internacionais pagando menos taxas
 
   * [[YouTube] How to TransferWise](https://www.youtube.com/watch?v=yai_ipibIsA)
