@@ -260,6 +260,8 @@
 
 * [[GitHub] monterail / vuelidate](https://github.com/monterail/vuelidate) - Simple, lightweight model-based validation for Vue.js
 
+* [[GitHub] posva / vue-plugin-template](https://github.com/posva/vue-plugin-template) - Solid foundation to start a Vue plugin with the best developer experience and a focus on performance
+
 --
 
 * [Criando um template com o vue-cli | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/criando-um-template-com-o-vue-cli/) - 2017/01/03
