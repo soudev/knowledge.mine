@@ -258,6 +258,8 @@ rem - context is always based on root context (html or body)
 
 * [There’s more to the CSS rem unit than font sizing | CSS Tricks](https://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/)
 
+* [The Unexpected Power of Viewport Units in CSS | Lullabot](https://www.lullabot.com/articles/unexpected-power-of-viewport-units-in-css) - 2017/02/22
+
 * [Equação do font-size | Descomplica Insights — Medium](https://medium.com/descomplica-insights/trigonometria-do-font-size-a104c95fa9a) - Dúvida terrível! Como usar font-size? Pixels(px) ou viewport width (vw)?
 
 * [Mixins for Rem Font Sizing | CSS-Tricks](https://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
