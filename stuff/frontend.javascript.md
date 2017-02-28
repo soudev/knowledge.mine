@@ -2165,6 +2165,8 @@
 
 * [Five to Six — Addy Osmani’s list of ECMAScript 6 tools | Super-Script](http://www.super-script.us/2015/es6-tools.html)
 
+* [[GitHub] alexmoreno / ES6-para-humanos](https://github.com/alexmoreno/ES6-para-humanos) - Um guia de fácil compreensão pra começar a escrever ES6
+
 --
 
 * [es6 cheatsheet | Duckduckgo](https://duckduckgo.com/?q=es6+cheat+sheet&ia=cheatsheet&iax=1)
