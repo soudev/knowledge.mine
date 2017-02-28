@@ -44,6 +44,10 @@
 
 * [[YouTube] NewStore TechTalk - Advanced Testing with Go by Mitchell Hashimoto](https://www.youtube.com/watch?v=yszygk1cpEc) - 2016/04/07
 
+--
+
+* [Calling Go Functions from Other Languages | The Practical Dev](https://dev.to/vladimirvivien/calling-go-functions-from-other-languages) - (2017/02/27) Expose your Go APIs to languages such as Python, Node, Java, etc
+
 
 ## Use Cases
 
