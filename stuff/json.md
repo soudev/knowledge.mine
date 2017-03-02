@@ -98,6 +98,8 @@
 
 ## Base de Dados
 
+* [[GitHub] marcuswestin / store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases • Used across the web.
+
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
 
   * [LokiJS](http://lokijs.org/) - A lightweight javascript document oriented database
