@@ -1740,6 +1740,8 @@
 
 ### process manager
 
+* [[GitHub] sindresorhus / fkill-cli](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
+
 * [[GitHub] flipace / whoport](https://github.com/flipace/whoport) - A simple CLI tool to check if and which PID uses a given port number and optionally kill it.
 
 * [[GitHub] zzarcon / psaux](https://github.com/zzarcon/psaux) - Process status in Node.js as you've always wanted
