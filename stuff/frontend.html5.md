@@ -533,6 +533,8 @@
 
 #### dicas: Performance
 
+* [What makes WebAssembly fast? | Mozilla Hacks](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/) - 2017/02/28
+
 * [Five things you can do to make HTML5 perform better](http://christianheilmann.com/2013/01/25/five-things-you-can-do-to-make-html5-perform-better/)
 
 * [Native Speed on the Web: JavaScript and asm.js | Alon Zakai](http://kripken.github.io/mloc_emscripten_talk/sloop.html)
