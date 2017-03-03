@@ -741,6 +741,8 @@
 
 * [D3.js Geo fun | maori.geek](http://maori.geek.nz/post/d3_js_geo_fun)
 
+* [[GitHub] susielu / d3-annotation](https://github.com/susielu/d3-annotation)
+
 --
 
 * [[GitHub] c3js / c3](https://github.com/c3js/c3) - A D3-based reusable chart library
