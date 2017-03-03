@@ -117,6 +117,10 @@
 
   * [Alternativa gratuita ao JRebel | Boaglio.com](http://www.boaglio.com/index.php/2015/01/22/alternativa-gratuita-ao-jrebel/)
 
+--
+
+* [Who is hiring - whoishiring.io](https://whoishiring.io/) - The map with the collection of jobs for Software Engineers, Developers
+
 
 ## Trabalho no exterior
 
