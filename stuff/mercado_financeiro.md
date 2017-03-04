@@ -429,7 +429,19 @@
 
 * [Imposto de Renda 2016: a hora de encarar o Leão | Conta Azul](https://blog.contaazul.com/imposto-de-renda-2016-a-hora-de-encarar-o-leao)
 
+--
+
 * [Como declarar LCI, LCA e poupança na sua declaração de IR? | parMais](https://www.parmais.com.br/blog/como-declarar-lci-lca-e-poupanca-no-ir/) - 2017/02/15
+
+--
+
+* [Guia para cálculo de IR na venda de ações | Valor Econômico](http://www.valor.com.br/valor-investe/o-estrategista/1121864/guia-para-calculo-de-ir-na-venda-de-acoes)
+
+* [IR sobre ações: como calcular, abater prejuízos e fazer a declaração anual | InfoMoney](http://www.infomoney.com.br/onde-investir/acoes/noticia/2700226/sobre-acoes-como-calcular-abater-prejuizos-fazer-declaracao-anual)
+
+* [Como calcular IR sobre vendas de ações e fundos imobiliários | EXAME.com](http://exame.abril.com.br/seu-dinheiro/como-calcular-ir-sobre-vendas-de-acoes-e-fundos-imobiliarios/)
+
+* [IR 2016: Entenda como declarar seus investimentos em ações - Imposto de Renda | UOL Economia](https://economia.uol.com.br/imposto-de-renda/duvidas/ir-2016-entenda-como-declarar-seus-investimentos-em-acoes.htm)
 
 
 ## BitCoins
