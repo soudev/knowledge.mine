@@ -912,6 +912,10 @@
 
 * [[GitHub] projectodd / nodyn](https://github.com/projectodd/nodyn) - A node.js compatible framework, running on the JVM. Powered by Vert.x and the DynJS Javascript runtime.s
 
+* [[GitHub] joeferner / node-java](https://github.com/joeferner/node-java) - Bridge API to connect with existing Java APIs.
+
+* [[GitHub] joeferner / node-java-maven](https://github.com/joeferner/node-java-maven) - Utility for Node's java module to load mvn dependencies.
+
 --
 
 * [[GitHub] YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js

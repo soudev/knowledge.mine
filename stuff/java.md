@@ -38,3 +38,10 @@
 * [[GitHub] emmanuelneri / arquitetura-microservices](https://github.com/emmanuelneri/arquitetura-microservices) - Arquitetura microservices JavaEE 7 desenvolvida para experimentos durante o mestrado
 
 * [Down-to-Earth Microservices with Java EE | Oracle Docs](https://community.oracle.com/docs/DOC-996673) - 2016/04/05
+
+
+## node.js
+
+* [[GitHub] joeferner / node-java](https://github.com/joeferner/node-java) - Bridge API to connect with existing Java APIs.
+
+* [[GitHub] joeferner / node-java-maven](https://github.com/joeferner/node-java-maven) - Utility for Node's java module to load mvn dependencies.
