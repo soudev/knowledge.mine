@@ -253,6 +253,8 @@
 
 * [Making HTML5 audio actually work on mobile](http://pupunzi.open-lab.com/2013/03/13/making-html5-audio-actually-work-on-mobile/)
 
+* [Introduction to Web Audio API | CSS-Tricks](https://css-tricks.com/introduction-web-audio-api/) - 2017/03/06
+
 * [How to Generate Noise with the Web Audio API | Noisehack](http://noisehack.com/generate-noise-web-audio-api/)
 
 * [Custom Audio Effects in JavaScript with the Web Audio API | Noisehack](http://noisehack.com/custom-audio-effects-javascript-web-audio-api/)
