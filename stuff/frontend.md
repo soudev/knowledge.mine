@@ -21,6 +21,9 @@
 
 * [Front End Resources](https://enboard.co/frontend/) - Organized resources about front end development.
 
+* [[GitHub] LFeh / frontend-tools](https://github.com/LFeh/frontend-tools) - Useful tools to frontenders
+
+
 ## Visão Geral
 
 * [Como perder peso (no browser)](http://browserdiet.com/pt/) - O guia definitivo de performance front-end
