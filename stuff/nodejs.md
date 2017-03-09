@@ -1693,6 +1693,8 @@
 
 * [Simple build tools: npm scripts vs Makefile vs runjs | @hackernoon](https://hackernoon.com/simple-build-tools-npm-scripts-vs-makefile-vs-runjs-31e578278162) - 2016/10/03
 
+* [How to Use npm Scripts as Your Build Tool - Course by @elijahmanor | @eggheadio](https://egghead.io/courses/how-to-use-npm-scripts-as-your-build-tool)
+
 --
 
 * [[GitHug] SamVerschueren / listr](https://github.com/SamVerschueren/listr) - Terminal task list
