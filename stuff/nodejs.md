@@ -1731,6 +1731,10 @@
 
 --
 
+* [[GitHub] node-modules / detect-port](https://github.com/node-modules/detect-port) - JavaScript Implementation of Port Detector
+
+--
+
 * [[GitHub] theuves / dicio](https://github.com/theuves/dicio) - Dicionário de Português via Linha de Comando
 
 --
