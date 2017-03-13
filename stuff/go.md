@@ -74,6 +74,8 @@
 
 * [[GitHub] ponzu-cms / ponzu](https://github.com/ponzu-cms/ponzu) - CMS with automatic JSON API for "thick client" front-ends. Featuring auto HTTPS, HTTP/2 Server Push, and flexible CMS written in Go.
 
+* [[GitHub] jung-kurt / gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
+
 
 ## Docker
 
