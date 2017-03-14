@@ -231,6 +231,8 @@
 
 ## Aprendizado
 
+* [[GitHub] kdn251 / interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+
 * [The 37 Best Websites To Learn Something New | Medium by @kristynazdot](https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895e2cb0cad4)
 
 * [700+ Free Stuff on The Internet | Medium by @StartupLLCoolJ](https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66)
@@ -309,7 +311,7 @@
 
 * [TED Ed Lessons Worth Sharing](http://ed.ted.com/)
 
-* [[YouTube] Univesp TV](https://www.youtube.com/user/univesptv) -  é uma das ferramentas de tecnologia de informação e comunicação da Universidade Virtual do Estado de São Paulo (Univesp), e visa a formação integral do cidadão. 
+* [[YouTube] Univesp TV](https://www.youtube.com/user/univesptv) -  é uma das ferramentas de tecnologia de informação e comunicação da Universidade Virtual do Estado de São Paulo (Univesp), e visa a formação integral do cidadão.
 
 --
 
