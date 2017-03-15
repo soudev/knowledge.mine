@@ -233,6 +233,10 @@
 
 * [[GitHub] kdn251 / interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 
+* [[GitHub] poteto / hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards) - Companies that don't do typical CS based whiteboard interviews. The whiteboard is metaphorical.
+
+--
+
 * [The 37 Best Websites To Learn Something New | Medium by @kristynazdot](https://medium.com/life-learning/the-37-best-websites-to-learn-something-new-895e2cb0cad4)
 
 * [700+ Free Stuff on The Internet | Medium by @StartupLLCoolJ](https://medium.com/free-stuff/500-free-things-on-the-internet-to-start-your-new-year-11ae72266b66)
