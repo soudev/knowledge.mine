@@ -301,6 +301,8 @@
 
 * [UDACITY](https://www.udacity.com/) - Discover online classes taught by top instructors and industry experts. Take courses at your own pace.
 
+* [Udemy Online Courses](https://www.udemy.com/) - Learn Anything, On Your Schedule
+
 --
 
 * [YouTube Educação](https://www.youtube.com/educacao)
