@@ -141,6 +141,8 @@
 
 * ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
 
+* [O Warren Buffett brasileiro te ensina a enriquecer (e muito!) | GuiaInvest](http://blog.guiainvest.com.br/investimentos/warren-buffett-brasileiro/) - (2017/03/05) O Warren Buffett brasileiro é o exemplo da conquista da liberdade financeira. Mensalmente ele recebe milhões de reais das empresas que é acionista.
+
 * [[YouTube] Billionaire Mathematician - Numberphile](https://www.youtube.com/watch?v=gjVDqfUhXOY) - 2015/05/13
 
   * [[YouTube] James Simons (full length interview) - Numberphile](https://www.youtube.com/watch?v=QNznD9hMEh0) - 2015/05/13
