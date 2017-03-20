@@ -620,6 +620,10 @@
 
   * [[GitHub] facundoolano / google-play-scraper](https://github.com/facundoolano/google-play-scraper) - scrapes basic app data from google play store
 
+* [[GitHub] rchipka / node-osmosis](https://github.com/rchipka/node-osmosis) - Web scraper for NodeJS
+
+  * [Web Scraping in Node.js with Multiple Examples | Hack Programming](https://hackprogramming.com/web-scraping-in-node-js-with-multiple-examples/) - 2017/03/08
+
 * [[GitHub] inikulin / ineed](https://github.com/inikulin/ineed) - Web scraping and HTML-reprocessing. The easy way.
 
 * [[GitHub] missinglink / huntsman](https://github.com/missinglink/huntsman) - Super configurable async web spider
