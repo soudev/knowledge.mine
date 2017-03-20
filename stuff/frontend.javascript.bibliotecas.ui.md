@@ -266,6 +266,10 @@
 
 * [Criando um template com o vue-cli | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/criando-um-template-com-o-vue-cli/) - 2017/01/03
 
+--
+
+* [[GitHub] Zulko / eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js
+
 
 ### React.js
 
