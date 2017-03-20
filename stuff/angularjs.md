@@ -251,6 +251,8 @@
 
 * [Testing Angular Directives with Custom Matchers | thoughtram](https://blog.thoughtram.io/angular/2016/12/27/angular-2-advance-testing-with-custom-matchers.html) - 2016/12/27
 
+* [Angular testing made easy | Clarity Design System – Medium](https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129) - (2017/03/15) This article is about Angular, as opposed to AngularJS. This means it applies for Angular 2.x, 4.x, and hopefully future versions.
+
 --
 
 * [Angular in Production | Minko Gechev's blog](http://blog.mgechev.com/2017/01/17/angular-in-production/) - (2017/01/17) In this informal essay I’ll go through a case study of my experience in using Angular (2 and above) in production.
