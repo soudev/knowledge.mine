@@ -329,6 +329,8 @@
 
   * [[GitHub] blinfo / angular2-webpack-seed](https://github.com/blinfo/angular2-webpack-seed) - Angular2 webpack typescript
 
+  * [[GitHub] seanlandsman / webpack-ngtools-blog](https://github.com/seanlandsman/webpack-ngtools-blog) - Understanding and Using @ngtools/webpack
+
   * Angular Class
 
     * [[GitHub] AngularClass / angular2-webpack-starter](https://github.com/AngularClass/angular2-webpack-starter) - An Angular 2 Webpack Starter kit featuring Angular 2 (Router, Http, Forms, Services, Tests, E2E), Karma, Protractor, Jasmine, TypeScript, and Webpack by @AngularClass
