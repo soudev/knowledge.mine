@@ -476,6 +476,8 @@
 
 --
 
+* [[GitHub] papers-we-love / papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+
 * [Free Programming Ebooks | O'Reilly Media](http://www.oreilly.com/programming/free/)
 
 * [16 Best YouTube Channels To Start Learning Web Development | Hongkiat](http://www.hongkiat.com/blog/web-dev-youtube-channels/)
