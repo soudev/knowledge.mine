@@ -253,6 +253,8 @@
 
 --
 
+* [[GitHub] off99555 / machine-learning-curriculum](https://github.com/off99555/machine-learning-curriculum) - Make machines learn so that you don't have to program them; The ultimate list
+
 * [Deep Learning Gallery](http://deeplearninggallery.com/) - a curated list of awesome deep learning projects
 
 * [[GitHub] terryum / awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers)
