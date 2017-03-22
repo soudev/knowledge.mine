@@ -1,5 +1,9 @@
 # Linux
 
+* [Linus Torvalds: The mind behind Linux | TED Talk](https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux) - 2016/02
+
+--
+
 * [Elementary OS](http://elementaryos.org/)
 
 --
