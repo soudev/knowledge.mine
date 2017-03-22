@@ -468,6 +468,10 @@
 
 * [[YouTube] How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 
+--
+
+* [Don Tapscott: How the blockchain is changing money and business | TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) - 2016/06
+
 
 ### Carteira de BitCoins
 
