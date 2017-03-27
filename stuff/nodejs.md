@@ -2431,6 +2431,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] mafintosh / playback](https://github.com/mafintosh/playback) - Video player built using electron and node.js
 
+* [[GitHub] hackjutsu / Lepton](https://github.com/hackjutsu/Lepton) - Cross-platform snippet/note manager based on GitHub Gist.
+
 
 #### Node Webkit
 
