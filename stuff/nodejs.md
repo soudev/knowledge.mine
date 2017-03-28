@@ -2433,6 +2433,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] hackjutsu / Lepton](https://github.com/hackjutsu/Lepton) - Cross-platform snippet/note manager based on GitHub Gist.
 
+* [[GitHub] buttercup-pw / buttercup](https://github.com/buttercup-pw/buttercup) - Javascript Password Vault - Multi-Platform Desktop Application
+
 
 #### Node Webkit
 
