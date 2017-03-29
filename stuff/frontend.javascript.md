@@ -330,6 +330,8 @@
 
 --
 
+* [The Promise of a Burger Party | Mariko Kosaka](http://kosamari.com/notes/the-promise-of-a-burger-party) - (2017/01/25) An illustrated guide to understanding JavaScript Promise
+
 * [Javascript - entendendo e criando suas próprias Promises | Da2k Blog](http://blog.da2k.com.br/2015/03/05/javascript-entendendo-e-criando-suas-proprias-promises/)
 
 * [Javascript - Criando um módulo Ajax com Promises - Parte 1 | Da2k Blog](http://blog.da2k.com.br/2015/03/06/javascript-criando-um-modulo-ajax-com-promises/)
