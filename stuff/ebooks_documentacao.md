@@ -545,6 +545,8 @@ Share with others around the world
 
 * [Google Computer Science Education](https://www.google.com/edu/cs/)
 
+* [[YouTube] Computer Science - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
 * [Skill Tests | MetaBright](http://www.metabright.com)
 
   * [Python](http://www.metabright.com/challenges/python) | [JavaScript](http://www.metabright.com/challenges/javascript) | ...
