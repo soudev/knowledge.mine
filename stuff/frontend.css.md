@@ -38,6 +38,10 @@
 
 --
 
+* [Learning from Lego: A Step Forward in Modular Web Design | A List Apart](https://alistapart.com/article/learning-from-lego-a-step-forward-in-modular-web-design) - 2016/12/22
+
+--
+
 * [[GitHub] AllThingsSmitty / css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro
 
 * [22 Essential CSS Recipes | Ilya Pestov](http://ipestov.com/22-essential-css-recipes/) - (2016/01/22)
