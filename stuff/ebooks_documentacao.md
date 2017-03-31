@@ -368,6 +368,12 @@
 
 --
 
+* [Pimsleur Method](http://www.pimsleur.com/) - Learn a second or foreign language using the programs designed by Dr. Pimsleur. The Pimsleur method is a totally integrated language learning program.
+
+  * [Amazon.com: pimsleur - audio](https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias=aps&field-keywords=pimsleur%20audible&linkCode=ur2&tag=languagede03-21)
+
+--
+
 * [101 Ways to Learn English](http://www.ecenglish.com/en/101-ways-to-learn-english)
 
 * [Deutsch Interaktiv | DW.COM](http://www.dw.com/pt/aprender-alem%C3%A3o/deutsch-interaktiv/s-9660) - Aprenda alemão com o curso interativo e multimídia da DW
