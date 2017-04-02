@@ -163,6 +163,8 @@
 
 * [[GitHub] alanshaw / grunt-markdown-pdf](https://github.com/alanshaw/grunt-markdown-pdf) - Grunt plugin to convert markdown documents to PDF.
 
+* [[GitHub] BlueHatbRit / mdpdf](https://github.com/BlueHatbRit/mdpdf) - Markdown to PDF command line app with support for stylesheets
+
 * [[GitHub] treasonx / grunt-markdown](https://github.com/treasonx/grunt-markdown) - Markdown gruntjs task with code highlighting
 
 * [[GitHub] bylexus / grunt-md2html](https://github.com/bylexus/grunt-md2html) - Small Grunt MultiTask to convert Markdown files to HTML, supporting Grunt >= 0.4.0
