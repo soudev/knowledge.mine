@@ -100,6 +100,8 @@
 
 * [[gist] erkobridee / os-segredos-da-mente-milionaria.txt](https://gist.github.com/erkobridee/b274a02161de4946527f) - Resumo do livro Os Segredos da Mente Milionária
 
+* [[YouTube] Os segredos da mente milionária | Principais lições do livro](https://www.youtube.com/watch?v=ZYclh68XaO8)
+
 * [[YouTube] 3 Segredos da MENTE MILIONÁRIA e a fórmula do sucesso da Nath! | Me poupe!](https://www.youtube.com/watch?v=--eP6oj_gkA) - 2016/06/27
 
 * [[YouTube] 5 passos para ser rica(o) de verdade! | Me poupe!](https://www.youtube.com/watch?v=Nn0hQIynEgw) - 2016/02/22
