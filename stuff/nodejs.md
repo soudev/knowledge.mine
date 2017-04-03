@@ -2362,6 +2362,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Build Desktop Application Using Node.js | Shift8Creative](http://www.shift8creative.com/posts/view/build-desktop-application-using-node-js) - A Quickstart using AppJs
 
+* [Beyond The Browser: From Web Apps To Desktop Apps | Smashing Magazine](https://www.smashingmagazine.com/2017/03/beyond-browser-web-desktop-apps/) - 2017/03/21
+
 --
 
 * [[GitHub] appjs / appjs](https://github.com/appjs/appjs) - SDK on top of nodejs to build desktop apps using HTML5/CSS/JS
