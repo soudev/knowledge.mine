@@ -303,6 +303,8 @@
 
 * [20 Things You Must Learn Before Writing Your First React App | Medium by @jdan](https://medium.com/@jdan/20-things-you-must-learn-before-writing-your-first-react-app-c9cc08246ec7) - 2016/11/17
 
+* [Fullstack React: 30 Days of React](https://www.fullstackreact.com/30-days-of-react/) - 2017/01/13
+
 * [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
 
 * [Começando com React.js | jscasts](http://jscasts.teachable.com/courses/comecando-com-react-js) - O tutorial que você queria, mostrando de forma simplificada suas principais características e vantagens
