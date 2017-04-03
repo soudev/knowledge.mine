@@ -71,6 +71,8 @@
 
 * [[YouTube] Pai Rico Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
 
+* [[YouTube] Pai Rico Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
+
 * [[YouTube] Resumo: O Homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
 
 * [[YouTube] Você quer ser um Milionário?](https://www.youtube.com/watch?v=FTVA0u0MZzU)
