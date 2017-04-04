@@ -575,6 +575,8 @@ Share with others around the world
 
   * [[YouTube Playlists] Curso em Vídeo](https://www.youtube.com/user/cursosemvideo/playlists)
 
+  * [[YouTube Playlist] Curso de Python 3 pra quem quer MESMO aprender Python](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&disable_polymer=true)
+
   * [Plataforma brasileira usa vídeos para ensinar a programar gratuitamente | Tecnoblog](https://tecnoblog.net/161403/plataforma-brasileira-usa-videos-ensinar-a-programar-gratuitamente/)
 
 --
