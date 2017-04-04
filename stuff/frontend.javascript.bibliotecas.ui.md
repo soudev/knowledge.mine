@@ -311,6 +311,10 @@
 
 * [React: do básico ao avançado - Parte 1 | BrasilJS](https://braziljs.org/blog/react-do-basico-ao-avancado-parte-1/) - 2016/10/17
 
+* [[GitBook] React com ES6: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/)
+
+  * [[GitHub] skilloio / react-es6-padawan-to-jedi-book](https://github.com/skilloio/react-es6-padawan-to-jedi-book) - Uma introdução simples e completa para React usando ES6 e Babel
+
 --
 
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
