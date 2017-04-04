@@ -223,6 +223,8 @@
 
 * [The Beginner's Preemptive Guide To AngularJS 2 Alpha | AntJanus](http://antjanus.com/blog/tutorials/the-beginners-preemptive-guide-to-angularjs-2-alpha/) - 2015/12/09
 
+* [[YouTube Playlist] Angular 4 (e Angular 2) - Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G)
+
 * [[GitHub] loiane / curso-angular2](https://github.com/loiane/curso-angular2) - Código fonte apresentado no curso de Angular 2 gratuito do [blog loiane.com](http://loiane.training/curso/angular-2/)
 
 --
