@@ -946,6 +946,8 @@
 
 * [[GitHub] turbo / js](https://github.com/turbo/js) - perform massive parallel computations in your browser with GPGPU
 
+* [[GitHub] patriciogonzalezvivo / glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
+
 
 #### Games
 
