@@ -338,6 +338,8 @@
 
 * [[GitHub] eugenerzhavtsev / learning-english](https://github.com/eugenerzhavtsev/learning-english) - Global list of resources for learning English across the web
 
+* [+Babbel](https://www.babbel.com/) - The shortest path to real-life conversations in a new language
+
 * [Duolingo](https://www.duolingo.com/) - serviço online e gratuito para aprendizado de idiomas. Possui interface com suporte ao português. As aulas vão do básico ao avançado no aprendizado de um idioma.
 
 * [LinguaLeo](https://lingualeo.com/) - Aprenda Inglês Jogando
