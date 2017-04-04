@@ -291,6 +291,8 @@
 
 --
 
+* [[GitHub] maximegris / angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload)
+
 * [[Github] angular / angular-electron](https://github.com/angular/angular-electron) - Angular2 + Electron
 
 * [Create a Desktop App with Angular 2 and Electron | Auth0](https://auth0.com/blog/create-a-desktop-app-with-angular-2-and-electron/) - Build a simple image calculator app with Angular 2 and Electron
