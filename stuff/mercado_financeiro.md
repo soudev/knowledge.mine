@@ -73,7 +73,9 @@
 
 * [[YouTube] Pai Rico Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
 
-* [[YouTube] Resumo: O Homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
+* [[YouTube] Resumo: O homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
+
+* [[YouTube] Como ficar rico? - O homem mais rico da Babilônia](https://www.youtube.com/watch?v=JM2GD1UJwIA)
 
 * [[YouTube] Você quer ser um Milionário?](https://www.youtube.com/watch?v=FTVA0u0MZzU)
 >
