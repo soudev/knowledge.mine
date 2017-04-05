@@ -289,6 +289,8 @@
 
 * [Making your Angular apps fast | thoughtram](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html) - 2017/02/02
 
+* [[GitHub] mgechev / angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - Cheatsheet for developing lightning fast Angular applications.
+
 --
 
 * [[GitHub] maximegris / angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload)
