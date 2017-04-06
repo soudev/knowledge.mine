@@ -27,6 +27,8 @@
 
 --
 
+* [Little Stuff about Markdown I Always Forget and have to Google | CSS-Tricks](https://css-tricks.com/little-stuff-markdown-always-forget-google/) - 2017/04/05
+
 * [Markdown Cheatsheet - adam-p/markdown-here Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * [Markdown | Wikipedia](https://en.wikipedia.org/wiki/Markdown)
