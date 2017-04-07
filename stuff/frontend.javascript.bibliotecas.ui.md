@@ -315,6 +315,8 @@
 
   * [[GitHub] skilloio / react-es6-padawan-to-jedi-book](https://github.com/skilloio/react-es6-padawan-to-jedi-book) - Uma introdução simples e completa para React usando ES6 e Babel
 
+* [React Tips](http://react.tips/) - Best React.js tips and tricks.
+
 --
 
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
