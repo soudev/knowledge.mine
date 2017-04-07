@@ -281,6 +281,8 @@
 
 * [[GitHub] SamHerbert / SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built purely in SVG, no CSS or JS
 
+* [SVG `text` and Small, Scalable, Accessible Typographic Designs | CSS-Tricks](https://css-tricks.com/svg-text-typographic-designs/) - 2014/05/27
+
 --
 
 * [Love Generating SVG With JavaScript? Move It To The Server! | Smashing Magazine](http://www.smashingmagazine.com/2014/05/26/love-generating-svg-javascript-move-to-server/)
