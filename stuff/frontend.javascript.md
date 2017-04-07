@@ -1335,6 +1335,8 @@
 
 * [[GitHub] allouis / minivents](https://github.com/allouis/minivents) - Small event system for javascript
 
+* [[GitHub] scottcorgan / tiny-emitter](https://github.com/scottcorgan/tiny-emitter) - A tiny (less than 1k) event emitter library
+
 * [[GitHub] philbooth / trier.js](https://github.com/philbooth/trier.js) - Conditional and repeated function invocation for node and browser
 
 --
