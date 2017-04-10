@@ -625,6 +625,12 @@ Share with others around the world
 
 --
 
+* [[YouTube] freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/) - We're an open source community of busy people who learn to code and build projects for nonprofits.
+
+  * [My giant JavaScript Basics course is now live on YouTube. And it’s 100% free. | freeCodeCamp](https://medium.freecodecamp.com/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27)
+
+--
+
 * [CodeCasts](https://codecasts.com.br)
 
 * [Edukee :: Tornando o ensino fácil e real!](http://www.edukee.com/)
