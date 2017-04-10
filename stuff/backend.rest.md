@@ -171,6 +171,10 @@
 
 * [[SlideShare] The RESTful Soa Datagrid with Oracle](http://www.slideshare.net/EmilianoPecis/the-restful-soa-datagrid-with-oracle) - It transforms and caches any SOA based application in REST. A proxy "soap to rest" is provided, using Oracle Service Bus and Oracle Coherence.(22/04/2009) [Slide 11 é interessante]
 
+--
+
+* [Morte à sessão! Entenda esse tal de stateless session com tokens | Caelum](http://blog.caelum.com.br/morte-a-sessao-entenda-esse-tal-de-stateless-session-com-tokens/) - 2017/04/03
+
 
 ## i18n
 
