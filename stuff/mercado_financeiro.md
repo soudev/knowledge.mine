@@ -468,6 +468,8 @@
 
 --
 
+* [[YouTube] BITCOINS PARA LEIGOS! É investimento?| Como comprar? - Me Poupe!](https://www.youtube.com/watch?v=8kP1jo-jVp8) - 2017/04/10
+
 * [[YouTube] What is Bitcoin? - WeUseCoins](https://www.youtube.com/watch?v=Gc2en3nHxA4)
 
 * [[YouTube] The real value of bitcoin and crypto currency technology - The Blockchain explained](https://www.youtube.com/watch?v=YIVAluSL9SU)
