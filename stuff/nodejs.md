@@ -2696,6 +2696,8 @@ $ sudo chown -R `whoami` .npm
 
   * [Getting started with Node.js and Mocha | Semaphore](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 
+* [[GitHub] Codeception / CodeceptJS](https://github.com/codeception/codeceptjs/) - Modern Era Aceptance Testing Framework for NodeJS
+
 
 ### Ferramentas
 
