@@ -206,6 +206,8 @@
 
 * [Consider VueJS for Your Next Web Project | @codeship](https://blog.codeship.com/consider-vuejs-next-web-project/) - 2016/06/30
 
+* [[GitHub] Justineo / vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
+
 --
 
 * [Getting Started With Vue.js | SitePoint](http://www.sitepoint.com/getting-started-with-vue-js/) - 2015/07/15
