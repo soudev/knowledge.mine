@@ -240,6 +240,8 @@
 
 --
 
+* [[GitHub] vuejs-tips / cheatsheet](https://github.com/vuejs-tips/cheatsheet/) - Vue.js 2.2 complete API cheatsheet 
+
 * [[GitHub] pablohpsilva / vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 
 --
