@@ -493,6 +493,10 @@
 
   * [[GitHub] sitepoint-editors / react-filesharer](https://github.com/sitepoint-editors/react-filesharer) - A React peer-to-peer file sharing component, using PeerJS
 
+--
+
+* [Twitter Lite and High Performance React Progressive Web Apps at Scale | Medium by @paularmstrong](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) - 2017/04/11
+
 
 #### React Native
 
