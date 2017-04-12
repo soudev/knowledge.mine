@@ -251,6 +251,8 @@
 
 * [VIM Adventures](http://vim-adventures.com/) - is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
 
+* [Desvendando o editor Vim | Blog Caelum](http://blog.caelum.com.br/desvendando-o-editor-vim/)
+
 ### Shell
 
 * [[GitHub] guarinogabriel / Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - OS X command line tools for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your OS X system.
