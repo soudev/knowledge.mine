@@ -35,6 +35,10 @@
 
 * [RAML](http://raml.org/) - RESTful API Modeling Language
 
+--
+
+* [So what’s this GraphQL thing I keep hearing about? | freeCodeCamp](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) - 2017/04/11
+
 
 ## API
 
