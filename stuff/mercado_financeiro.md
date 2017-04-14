@@ -468,6 +468,8 @@
 
 --
 
+* [[YouTube] Bitcoin e Blockchain - A Revolução do Dinheiro | Cursos FIAP X](https://www.youtube.com/watch?v=rHZB6qpWHLY)
+
 * [[YouTube] BITCOINS PARA LEIGOS! É investimento?| Como comprar? - Me Poupe!](https://www.youtube.com/watch?v=8kP1jo-jVp8) - 2017/04/10
 
 * [[YouTube] What is Bitcoin? - WeUseCoins](https://www.youtube.com/watch?v=Gc2en3nHxA4)
