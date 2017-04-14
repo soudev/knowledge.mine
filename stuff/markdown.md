@@ -114,6 +114,8 @@
 
 * [[GitHub] jtrussell / bedecked](https://github.com/jtrussell/bedecked) - Turn markdown files into html presentations you can share with dropbox (or S3, or...)
 
+* [[GitHub] sinedied / backslide](https://github.com/sinedied/backslide) - CLI tool for making HTML presentations with Remark.js using Markdown
+
 * [[GitHub] laktek / punch](https://github.com/laktek/punch) - A fun and easy way to build modern websites. Punch is a simple, intuitive web publishing framework that will delight both designers and developers.
 
   * [Generate Websites from JSON, Markdown, and Mustache Templates using Punch | Web Builder Zone](http://css.dzone.com/articles/generate-websites-json)
