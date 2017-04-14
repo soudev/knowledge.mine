@@ -277,6 +277,7 @@
 
 * [Cerebro](https://cerebrobr.github.io/cerebro/) - Projeto bem interessante lançado pela comunidade brasileira. O projeto promete reunir uma série de conteúdos em português. (no GitHub)
 
+* [FIAP X - Cursos](https://www.fiap.com.br/FIAPx/cursos)
 
 * Material para suporte aos estudos (aplicativos)
 
