@@ -1095,6 +1095,8 @@
 
 --
 
+* [[YouTube Playlist] Webpack 2 Tutorial](https://www.youtube.com/watch?v=JdGnYNtuEtE&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
+
 * [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233)
 
 * [Getting Started with Webpack 2 | Thinking in Code – Medium](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783) - 2016/10/24
