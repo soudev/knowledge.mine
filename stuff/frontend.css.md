@@ -235,6 +235,8 @@
 
 * [Almost complete guide to flexbox (without flexbox) | Kenan Yusuf](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 
+* [[YouTube] Guía Completa de Flexbox desde 0 - FalconMasters](https://www.youtube.com/watch?v=F-KCncXMPk0) - (2015/06/23) Aprende como crear sitios web flexibles y (responsive) adaptables a dispositivos móviles mediante flexbox CSS3.
+
 --
 
 * [[GitHub] philipwalton / flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
