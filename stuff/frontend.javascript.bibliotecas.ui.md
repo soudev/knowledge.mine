@@ -210,6 +210,8 @@
 
 --
 
+* [Saindo do zero a zero com o Vue.js | Magnetis Backstage – Medium](https://medium.com/magnetis-backstage/saindo-do-zero-a-zero-com-o-vue-js-85d4cdce0556) - 2016/12/01
+
 * [Getting Started With Vue.js | SitePoint](http://www.sitepoint.com/getting-started-with-vue-js/) - 2015/07/15
 
 * [Vue.js | Vedcasts](http://www.vedcasts.com.br/series/vuejs) - Esta série lhe passará um panorama geral sobre os recursos providos pelo Vue.js (www.vuejs.org) uma framework javascript simples e poderoso. Durante as 18 aulas da série, colocaremos recursos adicionais numa tabela HTML para permitir ordenação de dados, filtro da informações, mostrar e esconder colunas e detalhes e por fim, implementaremos paginação de resultados: tudo no browser.
@@ -240,7 +242,7 @@
 
 --
 
-* [[GitHub] vuejs-tips / cheatsheet](https://github.com/vuejs-tips/cheatsheet/) - Vue.js 2.2 complete API cheatsheet 
+* [[GitHub] vuejs-tips / cheatsheet](https://github.com/vuejs-tips/cheatsheet/) - Vue.js 2.2 complete API cheatsheet
 
 * [[GitHub] pablohpsilva / vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 
