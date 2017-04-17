@@ -715,6 +715,8 @@
 
 * [How to Use Map, Filter, Reduce in JavaScript | Code Envato Tuts+](http://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209) - 2016/08/09
 
+* [Reduce, mais um dia sem loops | CODECASTS](https://blog.codecasts.com.br/reduce-mais-um-dia-sem-loops-92682c5ffde8) - 2017/04/16
+
 --
 
 * [Fun with Javascript and function tracing](http://ebobby.org/2013/05/18/Fun-with-Javascript-and-function-tracing.html)
