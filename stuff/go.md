@@ -78,6 +78,8 @@
 
 * [[GitHub] jung-kurt / gofpdf](https://github.com/jung-kurt/gofpdf) - A PDF document generator with high level support for text, drawing and images
 
+* [[GitHub] Masterminds / semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
+
 
 ## Docker
 
