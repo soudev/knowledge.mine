@@ -218,6 +218,8 @@
 
 * [[SlideShare] Vuejs for Angular developers](http://www.slideshare.net/michailkuznetsov/vuejs-for-angular-developers) - 2017/01/20
 
+* [A Vue.js introduction for people who know just enough jQuery to get by | freeCodeCamp](https://medium.freecodecamp.com/vue-js-introduction-for-people-who-know-just-enough-jquery-to-get-by-eab5aa193d77) - 2017/04/10
+
 * [Vue.js Brasil](http://www.vuejs-brasil.com.br/)
 
   * [Vue.js 2: O que mudou?](http://www.vuejs-brasil.com.br/vue-js-2-o-que-mudou/) - 2016/08/16
