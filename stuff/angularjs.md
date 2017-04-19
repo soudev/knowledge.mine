@@ -199,6 +199,8 @@
 
 * [Get Your Angular 2 On: Upgrading from 1.5 | Toptal](https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5)
 
+* [Upgrading Angular apps using ngUpgrade | thoughtram](https://blog.thoughtram.io/angular/2015/10/24/upgrading-apps-to-angular-2-using-ngupgrade.html) - (2015/10/24) In this article you'll learn how to upgrade your Angular 1 applications to Angular 2+ using ngUpgrade.
+
 * [[YouTube] Back from the past: A tale of helping others upgrade from Angular 1.x - Sergio Cruz | NG-CONF-2017](https://www.youtube.com/watch?v=FFhJSkI35U8) - 2017/04/06
 
 * [[YouTube] Upgrading Enterprise Angular Applications - Victor Savkin | NG-CONF-2017](https://www.youtube.com/watch?v=izpqQpD8RQ0) - 2017/04/11
