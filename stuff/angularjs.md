@@ -577,6 +577,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Exploring the Angular 1.5 .component() method | @toddmotto](http://toddmotto.com/exploring-the-angular-1-5-component-method/)
 
+  * [[YouTube] Using Components in Angular 1.5 - Jennifer Bland | NG-CONF-2017](https://www.youtube.com/watch?v=7eQbQN-Dzm0) - 2017/04/06
+
 --
 
 * [Recipes with Angular.js](http://fdietz.github.io/recipes-with-angular-js/) - A community project dedicated to collecting resources for the Angular.js framework. You find here easy to follow cookbook style recipes for issues you are likely to face when working with Angular.js.
