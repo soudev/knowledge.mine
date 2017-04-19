@@ -199,6 +199,8 @@
 
 * [Get Your Angular 2 On: Upgrading from 1.5 | Toptal](https://www.toptal.com/angular-js/angular-2-upgrading-from-1-5)
 
+* [[YouTube] Back from the past: A tale of helping others upgrade from Angular 1.x - Sergio Cruz | NG-CONF-2017](https://www.youtube.com/watch?v=FFhJSkI35U8) - 2017/04/06
+
 * [[YouTube] Upgrading Enterprise Angular Applications - Victor Savkin | NG-CONF-2017](https://www.youtube.com/watch?v=izpqQpD8RQ0) - 2017/04/11
 
 --
