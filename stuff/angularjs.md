@@ -577,6 +577,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Exploring the Angular 1.5 .component() method | @toddmotto](http://toddmotto.com/exploring-the-angular-1-5-component-method/)
 
+  * [[YouTube] Components, Components, Components!...and Angular 1.5 - Pete Bacon Darwin | NG-CONF-2016](https://www.youtube.com/watch?v=AMwjDibFxno)
+
   * [[YouTube] Using Components in Angular 1.5 - Jennifer Bland | NG-CONF-2017](https://www.youtube.com/watch?v=7eQbQN-Dzm0) - 2017/04/06
 
 --
