@@ -468,6 +468,8 @@
 
 --
 
+* [Bitcoin: O guia básico definitivo para iniciantes da moeda virtual | Guia do Bitcoin](http://guiadobitcoin.com.br/bitcoin-o-guia-basico-definitivo-para-iniciantes-da-moeda-virtual/) - 2016/11/12
+
 * [[YouTube] Bitcoin e Blockchain - A Revolução do Dinheiro | Cursos FIAP X](https://www.youtube.com/watch?v=rHZB6qpWHLY)
 
 * [[YouTube] BITCOINS PARA LEIGOS! É investimento?| Como comprar? - Me Poupe!](https://www.youtube.com/watch?v=8kP1jo-jVp8) - 2017/04/10
