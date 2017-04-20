@@ -918,6 +918,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Running Angularjs and Symfony2 on Docker | Ewan Valentine](http://ewanvalentine.io/running-angularjs-and-symfony-projects-on-docker/)
 
+* [[YouTube] Docker: What Every Angular Developer Should Know About It! - Dan Wahlin | NG-CONF-2017](https://www.youtube.com/watch?v=socWfhPJptE) - 2017/04/07
+
 --
 
 * [Top 25 Best AngularJS Tools | Devzum](http://devzum.com/2015/02/28/bestl-angularjs-tools/)
