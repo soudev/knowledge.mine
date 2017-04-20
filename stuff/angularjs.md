@@ -373,6 +373,8 @@
 
 * [Using AngularJS with ES6 and Webpack | Angular tips](http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/) - 2015/06/22
 
+  * [[GitHub] angular-tips / webpack-demo](https://github.com/angular-tips/webpack-demo)
+
 * [[GitHub] angular-class / NG6-starter](https://github.com/angular-class/NG6-starter) - Starter for Angular + ES6 + (Webpack or JSPM)
 
 * [[GitHub] blacksonic / angular2-esnext-starter](https://github.com/blacksonic/angular2-esnext-starter) - Angular 2 development in Javascript with ES6/ES7 syntax powered by Babel
