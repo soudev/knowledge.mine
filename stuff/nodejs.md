@@ -1820,6 +1820,8 @@
 
 * [Developing a RESTful API With Node and TypeScript | Michael Herman](http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/) - 2016/11/05
 
+  * [[GitHub] mjhea0 / typescript-node-api](https://github.com/mjhea0/typescript-node-api)
+
 
 ### Authentication
 
