@@ -110,6 +110,8 @@
 
 * [Bye Bye Compass | Medium by @luisfmsouza](https://medium.com/@luisfmsouza/bye-bye-compass-576d424ff092)
 
+* [Increasing Sass Compiling Performance or &quot;When Every Second Counts” | Devbridge](https://www.devbridge.com/articles/increasing-sass-compiling-performance-or-when-every-second-counts/)
+
 --
 
 * [[GitHub] holidaypirates / nucleus](https://github.com/holidaypirates/nucleus) - is a living style guide generator for atomic css based components. It's a Node application parsing the source SCSS files and reading information from DocBlock annotations.
