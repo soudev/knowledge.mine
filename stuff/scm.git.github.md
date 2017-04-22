@@ -616,6 +616,8 @@ git branch -D feature/branch
 
 * [GitHub & BitBucket HTML Preview](http://htmlpreview.github.io/)
 
+* [Usando git-ftp como alternativa de deploy | Medium - by @diegohyenna](https://medium.com/@diegohyenna/usando-git-ftp-como-alternativa-de-deploy-2368ed33d9d5) - 2017/04/22
+
 * [NodeJS + Nginx + Deploy pelo git](http://pablocantero.com/blog/2012/01/04/configurando-o-node-js-no-amazon-ec2/)
 
 * [How to use Google Drive or Dropbox to host your private Git repositories](http://kahthong.com/2012/05/how-use-google-drive-or-dropbox-host-your-private-git-repositories)
