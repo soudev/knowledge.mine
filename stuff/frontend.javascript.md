@@ -1051,6 +1051,8 @@
 
 * [A Detailed Introduction To Webpack | Smashing Magazine](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/) - 2017/02/21
 
+* [As partes confusas do Webpack | Medium by @oieduardorabelo](https://medium.com/@oieduardorabelo/as-partes-confusas-do-webpack-f218cfb2d673) - 2016/07/12
+
 --
 
 * [[GitHub] shama / gulp-webpack](https://github.com/shama/gulp-webpack) - webpack plugin for gulp
