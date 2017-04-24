@@ -425,6 +425,8 @@
 
 * [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 
+  * [Quick Tip: How to Style React Components with styled-components | SitePoint](https://www.sitepoint.com/style-react-components-styled-components/) - 2017/04/20
+
 * [[GitHub] rtsao / styletron](https://github.com/rtsao/styletron) - Universal, high-performance JavaScript styles
 
 --
