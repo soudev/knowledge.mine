@@ -1121,6 +1121,8 @@
 
 * [[YouTube] Everything is a plugin! Mastering webpack from the inside out - Sean Larkin | NG-CONF-2017](https://www.youtube.com/watch?v=4tQiJaFzuJ8) - 2017/04/07
 
+  * [[GitHub] TheLarkInn / everything-is-a-plugin](https://github.com/thelarkinn/everything-is-a-plugin) - Everything is a Plugin: Mastering webpack from the inside out. NgConf 2017
+
 --
 
 * [[GitHub] NekR / offline-plugin](https://github.com/NekR/offline-plugin) - Offline plugin (ServiceWorker, AppCache) for webpack
