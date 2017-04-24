@@ -1119,6 +1119,8 @@
 
   * [[Speaker Dev] Webpack FTW](https://speakerdeck.com/k9ordon/webpack-ftw)
 
+* [[YouTube] Everything is a plugin! Mastering webpack from the inside out - Sean Larkin | NG-CONF-2017](https://www.youtube.com/watch?v=4tQiJaFzuJ8) - 2017/04/07
+
 --
 
 * [[GitHub] NekR / offline-plugin](https://github.com/NekR/offline-plugin) - Offline plugin (ServiceWorker, AppCache) for webpack
