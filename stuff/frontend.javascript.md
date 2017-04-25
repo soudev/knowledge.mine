@@ -2187,6 +2187,8 @@
 
 * [[GitHub] alexmoreno / ES6-para-humanos](https://github.com/alexmoreno/ES6-para-humanos) - Um guia de fácil compreensão pra começar a escrever ES6
 
+* [[GitHub] nzakas / understandinges6](https://github.com/nzakas/understandinges6) - Content for the ebook "Understanding ECMAScript 6"
+
 --
 
 * [es6 cheatsheet | Duckduckgo](https://duckduckgo.com/?q=es6+cheat+sheet&ia=cheatsheet&iax=1)
