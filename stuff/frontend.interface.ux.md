@@ -106,6 +106,8 @@
 
 * [[GitHub] yeun / open-color](https://github.com/yeun/open-color) - Color scheme for UI design
 
+* [[GitHub] gka / chroma.js](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations
+
 
 ### Samples
 
