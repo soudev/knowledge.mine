@@ -116,6 +116,8 @@
 
 * [ng-wat And The Story Behind It | airpair](https://www.airpair.com/angularjs/posts/ng-wat-and-the-story-behind-it)
 
+* [[GitHub] angular-pakistan / ng-conf-2017](https://github.com/angular-pakistan/ng-conf-2017) - Everything #ngConf2017 - talks - slides - resources
+
 --
 
 * [Angular 1.5 is close - here's the interesting parts | codelord.net](http://www.codelord.net/2015/12/10/angular-1-dot-5-is-close-heres-the-interesting-parts/) - 2015/12/10
