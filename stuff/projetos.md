@@ -53,6 +53,8 @@
 
 * [Writing Code for Humans | Medium - @ilyoTheHorrid](https://medium.com/@wbinnssmith/why-version-control-isnt-package-management-a-brief-history-5d40c524ba3e) - Zen JavaScript, or why should your code be as easy to read as Harry Potter
 
+* [[GitHub] gothinkster / realworld](https://github.com/gothinkster/realworld) - A Collection & Specification for Exemplary Frontend and Backend Codebases
+
 --
 
 * [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
