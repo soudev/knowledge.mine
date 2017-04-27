@@ -587,6 +587,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
   * [Exploring the Angular 1.5 .component() method | @toddmotto](http://toddmotto.com/exploring-the-angular-1-5-component-method/)
 
+    * [[YouTube] Angular 1.5 component method (directive helper) - Todd Motto](https://www.youtube.com/watch?v=JGMeu1bYGC0) - 2016/08/15
+
   * [[YouTube] Components, Components, Components!...and Angular 1.5 - Pete Bacon Darwin | NG-CONF-2016](https://www.youtube.com/watch?v=AMwjDibFxno)
 
   * [[YouTube] Using Components in Angular 1.5 - Jennifer Bland | NG-CONF-2017](https://www.youtube.com/watch?v=7eQbQN-Dzm0) - 2017/04/06
@@ -2010,6 +2012,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 * [When Do You Need To Compile A Directive In AngularJS | Ben Nadel](http://www.bennadel.com/blog/2794-when-do-you-need-to-compile-a-directive-in-angularjs.htm)
 
 * [Compile, Pre, and Post Linking in AngularJS | Ode To Code](http://odetocode.com/blogs/scott/archive/2014/05/28/compile-pre-and-post-linking-in-angularjs.aspx)
+
+* [[YouTube] AngularJS link and compile functions - Todd Motto](https://www.youtube.com/watch?v=l-onax0OFiY) - 2016/08/15
 
 * [AngularJS Directives Tutorial | Fundoo Solutions](http://www.befundoo.com/university/tutorials/angularjs-directives-tutorial/)
 
