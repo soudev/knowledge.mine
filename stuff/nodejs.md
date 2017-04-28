@@ -646,6 +646,8 @@
 
 * [Debugging with Node | Krasimir Tsonev](http://krasimirtsonev.com/blog/article/debugging-with-node)
 
+* [How to Debug Node.js with the Best Tools Available | @RisingStack](https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/) - 2017/04/25
+
 --
 
 * [[GitHub] boblauer / mock-require](https://github.com/boblauer/mock-require) - Simple, intuitive mocking of Node.js modules.
