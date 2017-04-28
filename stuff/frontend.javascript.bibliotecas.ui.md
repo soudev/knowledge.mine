@@ -507,6 +507,8 @@
 
 * [Twitter Lite and High Performance React Progressive Web Apps at Scale | Medium by @paularmstrong](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) - 2017/04/11
 
+* [Testing React Components Best Practices | selleo – Medium](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) - 2017/03/03
+
 
 #### React Native
 
