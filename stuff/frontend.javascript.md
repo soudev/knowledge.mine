@@ -533,6 +533,12 @@
 
 ### Dicas
 
+* [[YouTube] Dependency Injection basics - Fun Fun Function](https://www.youtube.com/watch?v=0X1Ns2NRfks) - 2017/01/16 ([code of this episode](https://gist.github.com/mpj/c55dc66bc2cfd389dbbd25ab5092d4f3))
+
+* [[YouTube] Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc) - 2017/01/30 ([code of this episode](https://gist.github.com/mpj/a4a7d784a396b5a4d18add7606ab77ce))
+
+--
+
 * [[GitHub] sorrycc / awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
 * [[GitHub] vasanthk / js-bits](https://github.com/vasanthk/js-bits) - JavaScript concepts with code!
