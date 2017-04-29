@@ -149,6 +149,10 @@
 
 --
 
+* [The Ultimate Angular CLI Reference Guide | SitePoint](https://www.sitepoint.com/ultimate-angular-cli-reference/) - 2017/05/25
+
+--
+
 * [[GitHub] AngularClass / awesome-angular2](https://github.com/AngularClass/awesome-angular2) - A curated list of awesome Angular 2 resources by @AngularClass
 
 * [[GitHub] timjacobi / angular2-education](https://github.com/timjacobi/angular2-education) - A curated list of helpful material to get started with education on Angular 2
