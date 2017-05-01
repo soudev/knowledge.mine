@@ -114,6 +114,10 @@
 
 --
 
+* [[GitHub] Igosuki / compass-mixins](https://github.com/Igosuki/compass-mixins) - A collection of compass' stylesheet for bower dependencies and libsass
+
+--
+
 * [[GitHub] holidaypirates / nucleus](https://github.com/holidaypirates/nucleus) - is a living style guide generator for atomic css based components. It's a Node application parsing the source SCSS files and reading information from DocBlock annotations.
 
 --
