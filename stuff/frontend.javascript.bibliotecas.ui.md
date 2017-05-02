@@ -244,6 +244,12 @@
 
 --
 
+* [Our Guide To Learning Vue | CSS-Tricks](https://css-tricks.com/guides/vue/)
+
+* [The Power of Custom Directives in Vue | CSS-Tricks](https://css-tricks.com/power-custom-directives-vue/) - 2017/04/20
+
+--
+
 * [[GitHub] vuejs-tips / cheatsheet](https://github.com/vuejs-tips/cheatsheet/) - Vue.js 2.2 complete API cheatsheet
 
 * [[GitHub] pablohpsilva / vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
