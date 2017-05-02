@@ -344,9 +344,11 @@
 
 --
 
+* [[GitHub] github / fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill
+
 * [[YouTube] Fetch API (100 Days of Google Dev) - Google Developers](https://www.youtube.com/watch?v=g6-ZwZmRncs) - 2015/07/05
 
-* [[GitHub] github / fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill
+* [Using Fetch | CSS-Tricks](https://css-tricks.com/using-fetch/) - 2017/05/02
 
 * [Introduction to the Fetch API | SitePoint](http://www.sitepoint.com/introduction-to-the-fetch-api/) - 2015/07/02
 
