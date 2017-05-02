@@ -344,11 +344,17 @@
 
 --
 
+* [[GitHub] whatwg / fetch](https://github.com/whatwg/fetch) - Fetch Standard
+
 * [[GitHub] github / fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill
+
+  * [upload progress? #89](https://github.com/github/fetch/issues/89)
 
 * [[YouTube] Fetch API (100 Days of Google Dev) - Google Developers](https://www.youtube.com/watch?v=g6-ZwZmRncs) - 2015/07/05
 
 * [Using Fetch | CSS-Tricks](https://css-tricks.com/using-fetch/) - 2017/05/02
+
+  * [[GitHub] zellwk / zl-fetch](https://github.com/zellwk/zl-fetch) - Fetch helper that returns a JSON string for both responses and errors
 
 * [Introduction to the Fetch API | SitePoint](http://www.sitepoint.com/introduction-to-the-fetch-api/) - 2015/07/02
 
@@ -358,9 +364,9 @@
 
 * [Fetch API e o JavaScript | BrazilJS](https://braziljs.org/blog/fetch-api-e-o-javascript/) - 2016/04/10
 
-* [[GitHub] Swizec / better-fetch](https://github.com/Swizec/better-fetch) - A tiny ES6 fetch() wrapper that makes your life easier without drastic changes to the API
-
 * [[GitHub] Huemul / trae](https://github.com/Huemul/trae) - Minimalistic Fetch based HTTP client for the browser
+
+* [[GitHub] Swizec / better-fetch](https://github.com/Swizec/better-fetch) - A tiny ES6 fetch() wrapper that makes your life easier without drastic changes to the API
 
 
 ### OOP
