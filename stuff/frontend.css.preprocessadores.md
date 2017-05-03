@@ -15,6 +15,13 @@
 
 ## CSS
 
+* [[GitHub] stylelint / stylelint](https://github.com/stylelint/stylelint) - A mighty, modern CSS linter
+
+  * [How to lint your Sass/CSS properly with Stylelint | Creative Nightly](http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/) - 2016/02/27
+
+  * [Lint your CSS with stylelint | CSS-Tricks](https://css-tricks.com/stylelint/) - 2016/04/20
+
+
 ### Preprocessadores
 
 * [[SlideShare] Deep Dive Into CSS Preprocessors](http://www.slideshare.net/verekia/deep-dive-into-css-preprocessors)
@@ -125,6 +132,27 @@
 * [Buttons - A CSS button library built with Sass and Compass](http://alexwolfe.github.io/Buttons/)
 
 * [[GitHub] davidtheclark / scut](https://github.com/davidtheclark/scut/) - Sass utilities for the frontend laborer
+
+--
+
+* scss lint (runs over Ruby)
+
+* [[GitHub] brigade / scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS
+
+  * [[GitHub] ahmednuaman / grunt-scss-lint](https://github.com/ahmednuaman/grunt-scss-lint) - A Grunt task to lint your SCSS
+
+  * [[GitHub] juanfran / gulp-scss-lint](https://github.com/juanfran/gulp-scss-lint) - Gulp plugin to lint scss files with `scss-lint`
+
+
+* sass lint (runs over Node.js)
+
+  * [[GitHub] sasstools / sass-lint](https://github.com/sasstools/sass-lint) - Pure Node.js Sass linting
+
+  * [[GitHub] sasstools / make-sass-lint-config](https://github.com/sasstools/make-sass-lint-config) - Convert your  `.scss-lint.yml` config file into the equivalent `.sass-lint.yml`
+
+  * [[GitHub] sasstools / grunt-sass-lint](https://github.com/sasstools/grunt-sass-lint) - Grunt plugin for Sass Lint
+
+  * [[GitHub] sasstools/gulp-sass-lint](https://github.com/sasstools/gulp-sass-lint) - Gulp plugin for Sass Lint
 
 
 #### Comparações
