@@ -452,6 +452,12 @@
 
 #### Idiomas: Dicas
 
+* [Grammarly](https://www.grammarly.com/) - Free Grammar Checker and Writing Assistant
+
+  * [[Google Chrome Extension] Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - Check your spelling and grammar as you type. Boost your credibility everywhere you write!
+
+--
+
 * [Three Secrets You Need to Know About Spoken English | Judy Thompson | TEDxOakville](https://www.youtube.com/watch?v=NcX2AwH3cG8) - 2010/10/26
 
 * [[YouTube] How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0) - 2013/11/20
