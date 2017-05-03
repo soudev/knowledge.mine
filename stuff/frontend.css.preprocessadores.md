@@ -21,6 +21,8 @@
 
   * [Lint your CSS with stylelint | CSS-Tricks](https://css-tricks.com/stylelint/) - 2016/04/20
 
+* [[GitHub] morishitter / stylefmt](https://github.com/morishitter/stylefmt) - stylefmt is a tool that automatically formats stylesheets.
+
 
 ### Preprocessadores
 
