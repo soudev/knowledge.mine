@@ -824,6 +824,10 @@
 
 ### Controle de Fluxo de Execução
 
+* [[GitHub] sindresorhus / promise-fun](https://github.com/sindresorhus/promise-fun) - Promise packages, patterns, chat, and tutorials
+
+--
+
 * [async](http://bredele.github.io/async/) - A collection of asynchronous patterns for nodejs and browsers
 
 * [Async - utilities for node and the browser](https://github.com/caolan/async)
