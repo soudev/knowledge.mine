@@ -1009,6 +1009,10 @@
 
   * [[GitHub] keithwhor / NtSeq](https://github.com/keithwhor/NtSeq) - JavaScript (node + browser) bioinformatics library for nucleotide sequence manipulation and analysis.
 
+--
+
+* [[GitHub] facebook / prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
+
 
 #### Compressão
 
