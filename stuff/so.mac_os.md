@@ -38,6 +38,8 @@
 
 * [iStats Menu | bjango](https://bjango.com/mac/istatmenus/) - an advance mac system monitor for your menubar
 
+* [[GitHub] gjiazhe / Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds
+
 * [[GitHub] matryer / bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
 
 --
