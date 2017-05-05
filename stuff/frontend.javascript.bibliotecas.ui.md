@@ -256,6 +256,8 @@
 
 --
 
+* [Vue.js e Single Page Applications: O que saber antes de começar (Vídeo) | Diego Brocanelli](http://www.diegobrocanelli.com.br/vuejs/vue-js-e-single-page-applications-o-que-saber-antes-de-comecar-video/) - 2017/03/29
+
 * [[YouTube] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0](https://www.youtube.com/watch?v=VPUdtEf3oXI) - 2017/01/17
 
 * [[YouTube] Vue.js Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) - Learn Vue.js 2.0 with this tutorial series.
