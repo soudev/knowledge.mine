@@ -297,6 +297,8 @@
 
   * [React.parts](http://react.parts/)  - A catalog of React Native components
 
+* [CodeSandbox](https://codesandbox.io/) - Online playground for React
+
 --
 
 * [[GitHub] enaqx / awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome React libraries, resources and shiny things
@@ -366,6 +368,10 @@
 * [React Components for Cat Videos | David and Suzi](http://davidandsuzi.com/react-components-for-cat-videos/)
 
 * [React Tutorial: Two way data binding | Void Canvas](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
+
+--
+
+* [45% Faster React Functional Components, Now | Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) - 2017/05/03
 
 --
 
