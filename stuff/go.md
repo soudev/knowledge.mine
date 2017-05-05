@@ -82,6 +82,8 @@
 
 * [[GitHub] Masterminds / semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 
+* [[GitHub] davecheney / httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
+
 
 ## Docker
 
