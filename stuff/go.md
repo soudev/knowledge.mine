@@ -60,6 +60,8 @@
 
 ## Cool projects
 
+* [[GitHub] KyleBanks / goggles](https://github.com/KyleBanks/goggles) - Goggles is a cross-platform GUI for your $GOPATH!
+
 * [[GitHub] apex / apex](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support
 
   * [Introducing Apex | Medium by @tjholowaychuk](https://medium.com/@tjholowaychuk/introducing-apex-800824ffaa70) - Serverless architecture with AWS Lambda
