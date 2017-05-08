@@ -1067,6 +1067,8 @@
 
 * [[GitHub] webpack / webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.
 
+* [Announcing the new webpack CLI | webpack – Medium](https://medium.com/webpack/announcing-the-new-webpack-cli-75ce1d9b8663) - 2017/05/07
+
 --
 
 * [A Detailed Introduction To Webpack | Smashing Magazine](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/) - 2017/02/21
