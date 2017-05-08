@@ -177,6 +177,10 @@
 
   * [[GitHub] Microsoft / monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 
+--
+
+* [[GitHub] developit/preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+
 
 ### PDF Viewer
 
