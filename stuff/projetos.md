@@ -155,6 +155,8 @@
 
 * [[GitHub] tapajos / trabalhando_fora](https://github.com/tapajos/trabalhando_fora) - Descomplicando o trabalhar para fora
 
+* [[GitHub] nomadsonrails / guia-do-trabalho-remoto](https://github.com/nomadsonrails/guia-do-trabalho-remoto) - Conjunto de informações, experiências e burocracias para poder trabalhar remotamente para empresas do mundo todo
+
 --
 
 * Invoice
