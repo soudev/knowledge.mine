@@ -544,6 +544,10 @@
 
 --
 
+* [[GitHub] Microsoft / reactxp](https://github.com/Microsoft/reactxp) - Library for cross-platform app development.
+
+--
+
 * [Deco IDE](https://www.decosoftware.com/) - the React Native IDE
 
 
