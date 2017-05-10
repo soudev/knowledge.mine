@@ -429,6 +429,8 @@
 
 * [[GitHub] Granze / react-starterify](https://github.com/Granze/react-starterify) - React JS application skeleton using Browserify and other awesome tools
 
+* [[GitHub] obetomuniz / reeakt](https://github.com/obetomuniz/reeakt) - A modern React boilerplate to awesome web applications
+
 --
 
 * [Flux](https://facebook.github.io/flux/)
