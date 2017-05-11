@@ -2397,3 +2397,5 @@
 * [2016 - the year of web streams | JakeArchibald.com](https://jakearchibald.com/2016/streams-ftw/) - 2016/01/25
 
 * [The final feature set of ECMAScript 2016 (ES7) | 2ality](http://www.2ality.com/2016/01/ecmascript-2016.html) - 2016/01/30
+
+* [Exploring EcmaScript Decorators | Google Developers – Medium](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) - 2017/05/11
