@@ -795,6 +795,8 @@
 
 * [[GitHub] susielu / d3-annotation](https://github.com/susielu/d3-annotation)
 
+* [[GitHub] eventbrite / britecharts](https://github.com/eventbrite/britecharts/) - Client-side reusable Charting Library based on D3.js v4 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
+
 --
 
 * [[GitHub] c3js / c3](https://github.com/c3js/c3) - A D3-based reusable chart library
