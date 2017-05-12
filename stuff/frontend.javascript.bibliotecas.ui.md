@@ -373,6 +373,8 @@
 
 * [React Tutorial: Two way data binding | Void Canvas](http://voidcanvas.com/react-tutorial-two-way-data-binding/)
 
+* [How to Organize a Large React Application and Make It Scale | SitePoint](https://www.sitepoint.com/organize-large-react-application/) - 2017/04/26
+
 --
 
 * [45% Faster React Functional Components, Now | Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) - 2017/05/03
