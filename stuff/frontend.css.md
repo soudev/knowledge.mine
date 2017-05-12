@@ -208,6 +208,10 @@
 
 --
 
+* [Design Considerations: Text on Images | CSS-Tricks](https://css-tricks.com/design-considerations-text-images/) - 2014/12/12
+
+--
+
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
 * [CSS Box Shadow | CSS-Tricks](https://css-tricks.com/snippets/css/css-box-shadow/)
