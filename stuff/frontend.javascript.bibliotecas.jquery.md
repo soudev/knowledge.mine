@@ -4,6 +4,8 @@
 
 * [You might not need jQuery plugins](http://youmightnotneedjqueryplugins.com/) – When youmightnotneedjquery you also might not need jQuery plugins
 
+* [Altering the DOM with JavaScript | Zell Liew](https://zellwk.com/blog/js-in-dom/) - 2017/04/26
+
 
 ## jQuery
 
