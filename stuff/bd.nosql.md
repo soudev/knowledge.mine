@@ -39,7 +39,11 @@
 
 * [ArangoDB](http://www.arangodb.org/) - An open-source database with a flexible data model for documents, graphs, and key-values. Build high performance applications using a convenient sql-like query language or JavaScript/Ruby extensions
 
+  * [[GitHub] arangodb / arangodb](https://github.com/arangodb/arangodb)
+
   * [ArangoDB Foxx](http://www.arangodb.org/foxx) - Lean Application Server for Single Page Applications
+
+  * [ArangoDB Graph Course](https://www.arangodb.com/arangodb-graph-course/)
 
 --
 
