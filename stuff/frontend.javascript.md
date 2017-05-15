@@ -1083,6 +1083,10 @@
 
 * [[GitHub] shama / gulp-webpack](https://github.com/shama/gulp-webpack) - webpack plugin for gulp
 
+* [Combine Webpack with Gulp 4 | CSS-Tricks](https://css-tricks.com/combine-webpack-gulp-4/) - 2017/05/15
+
+  * [[GitHub] PascalAOMS / gulp4-webpack](https://github.com/PascalAOMS/gulp4-webpack) - A modern ES6 Gulp workflow combined with Webpack
+
 --
 
 * [webpack analyze](https://webpack.github.io/analyse/)
