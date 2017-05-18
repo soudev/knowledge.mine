@@ -327,6 +327,12 @@
 
 --
 
+* [[Slides] Web components & Angular 2 by Evgeniy Safronov](http://slides.com/evgeniyjs/wc-and-angular2) - 2016/04/07
+
+* [Custom Element Inter-op with Angular | Danny Blue – Medium](https://medium.com/@dee_bloo/custom-element-inter-op-with-angular-2-ed75f013a9ba) - 2016/07/01
+
+--
+
 * ES5
 
   * [Angular 2 with Handcrafted Tools, Century-Old Techniques and ES5 | One Hungry Mind](http://onehungrymind.com/build-angular-2-app-es5/)
