@@ -1020,6 +1020,8 @@
 
   * [Better Compression with UglifyJS | David Walsh Blog](http://davidwalsh.name/compress-uglify)
 
+* [[GitHub] Rich-Harris / butternut](https://github.com/Rich-Harris/butternut) - The fast, future-friendly minifier
+
 
 #### Ordenação
 
