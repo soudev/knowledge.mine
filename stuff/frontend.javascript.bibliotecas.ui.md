@@ -421,6 +421,14 @@
 
 --
 
+* [[GitHub] facebookincubator / create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+
+  * [Create Apps with No Configuration | React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) - 2016/07/22
+
+  * [What's New in Create React App | React Blog](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html) - 2017/05/18
+
+--
+
 * [[GitHub] richardkall / react-starter](https://github.com/richardkall/react-starter) - Boilerplate for universal React applications
 
 * [[GitHub] este / este](https://github.com/este/este) - The best dev stack and starter kit for React universal web/mobile apps.
