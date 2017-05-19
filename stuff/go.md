@@ -38,7 +38,11 @@
 
 * [Go Tooling in Action | Google Cloud Platform — Community — Medium](https://medium.com/google-cloud/go-tooling-in-action-eca6882ff3bc)
 
+--
+
 * [Build web application with Golang | GitBooks](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+
+* [Rewriting our web analytics tracking infrastructure in Go | Skroutz Engineering](https://engineering.skroutz.gr/blog/rewriting-web-analytics-tracking-in-go/) - 2017/05/17
 
 --
 
