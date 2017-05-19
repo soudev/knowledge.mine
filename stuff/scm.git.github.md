@@ -783,6 +783,8 @@ git branch -D feature/branch
 
   * [How Four Native Developers Wrote An Electron App | GitHub Engineering](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/) - 2017/05/16
 
+  * [[GitHub] desktop / desktop](https://github.com/desktop/desktop) - is an open source Electron-based GitHub app. It is written in TypeScript and uses React.
+
 
 ### Gestão de servidor Git
 
