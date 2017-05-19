@@ -1352,6 +1352,14 @@
 
 * [NodeCloud](http://www.nodecloud.org/) - Node.js resources directory
 
+--
+
+* [[GitHub] zeit / pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable
+
+  * [Standalone Express API Binaries with pkg | The Code Barbarian](http://thecodebarbarian.com/standalone-express-apis-binaries-with-pkg.html) - 2017/05/03
+
+--
+
 * [Managing Node.js Virtual Environments with Nave](http://forge.zeunic.com/development/2013/managing-node-js-virtual-environments-with-nave)
 
 * [[GitHub] keremc / nodevers](https://github.com/keremc/nodevers) - a Node.js version manager
