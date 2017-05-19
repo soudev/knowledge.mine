@@ -1065,6 +1065,11 @@
   * [Duo.js: módulos no frontend de forma simples e direta | Fabio Vedovelli](http://www.vedovelli.com.br/web-development/duo-js-modulos-no-frontend-de-forma-simples-e-direta/)
 
 
+* [rollup.js](https://rollupjs.org) -  is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application.
+
+  * [[GitHub] rollup / rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
+
+
 #### Webpack
 
 * [[GitHub] webpack / webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.
