@@ -2443,6 +2443,8 @@ $ sudo chown -R `whoami` .npm
 
 * [Building Hybrid Applications with Electron | Several People Are Coding - Medium](https://slack.engineering/building-hybrid-applications-with-electron-dc67686de5fb) - 2016/10/26
 
+* [Automatically Build and Publish Node and Electron Applications for Linux  | Sessions by Pusher](https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux) - Martin Wimpress speaking at London Node User Group in April, 2017
+
 --
 
 * [[GitHub] JamesTheHacker / Neuron](https://github.com/JamesTheHacker/Neuron) - Neuron - Electron, ES6, React, PouchDB, Sass, Webpack
