@@ -1480,11 +1480,13 @@
 
 * [[GitHub] antelle / node-stream-zip](https://github.com/antelle/node-stream-zip) - node.js library for fast reading of large ZIPs
 
-* [[GitHub] netroy / image-size](https://github.com/netroy/image-size) - NodeJS module for detecting image dimensions
-
 * [Loading PDFs In PhantomJS Using PDF.JS | Gary Sieling](http://www.garysieling.com/blog/integrating-phantomjs-and-pdf-js-inter-process-communication)
 
 * [Como adicionar marca d'água com Node.js e ffmpeg | Nomadev](http://nomadev.com.br/como-adicionar-marca-d%C3%A1gua-com-node-js-e-ffmpeg/)
+
+* [[GitHub] netroy / image-size](https://github.com/netroy/image-size) - NodeJS module for detecting image dimensions
+
+* [[GitHub] lovell / sharp](https://github.com/lovell/sharp) - High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP and TIFF images. Uses the libvips library.
 
 --
 
