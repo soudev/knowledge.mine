@@ -779,6 +779,10 @@ git branch -D feature/branch
 
 * [GitKraken](https://www.gitkraken.com/)
 
+* [GitHub Desktop](https://desktop.github.com/) - Simple collaboration from your desktop
+
+  * [How Four Native Developers Wrote An Electron App | GitHub Engineering](https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/) - 2017/05/16
+
 
 ### Gestão de servidor Git
 
