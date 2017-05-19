@@ -40,6 +40,10 @@
 
 * [[GitHub] afonsopacifer / learning-css-grid-layout](https://github.com/afonsopacifer/learning-css-grid-layout) - List of resources to learn CSS Grid Layout Module or only CSS Grid.
 
+* [Learn CSS Grid - A Guide to Learning CSS Grid | Jonathan Suh](http://learncssgrid.com/)
+
+* [Learn CSS Grid | Varun Vachhar](http://varun.ca/css-grid/) - 2017/05/16
+
 
 ### Dicas
 
@@ -92,7 +96,7 @@
 
 --
 
-* [CSS3 Keyframes Animation Generator](http://cssanimate.com/) - Online tool for creating native CSS3 Keyframes Animation. You can easy and fast generate consistent CSS3 animation using simple UI without any coding. 
+* [CSS3 Keyframes Animation Generator](http://cssanimate.com/) - Online tool for creating native CSS3 Keyframes Animation. You can easy and fast generate consistent CSS3 animation using simple UI without any coding.
 
 --
 
