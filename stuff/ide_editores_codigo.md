@@ -190,6 +190,8 @@
 
 * [Atom for Web Developers | Michael Herman](http://mherman.org/blog/2016/08/16/atom-for-web-developers/) - 2016/08/16
 
+* [GitHub for Atom](https://github.atom.io/)
+
 --
 
 * [Atom: os 10 pacotes para otimizar sua produtividade | Binariux](http://binariux.com/pacotes-atom-otimizar-sua-produtividade/) - 2016/10/18
