@@ -1138,10 +1138,6 @@
 
 * [[YouTube Playlist] Webpack 2 Tutorial](https://www.youtube.com/watch?v=JdGnYNtuEtE&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
 
-* [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233) - 2016/02/15
-
-* [How to do proper tree-shaking in Webpack 2 | Emarsys Craftlab](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21) - 2017/04/24
-
 * [Getting Started with Webpack 2 | Thinking in Code – Medium](https://medium.com/written-with-envy/getting-started-with-webpack-2-ed2b86c68783) - 2016/10/24
 
   * [[GitHub] ModusCreateOrg / budgeting-sample-app-webpack2](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - Budgeting - React + Redux + Webpack 2 (tree shaking) Sample App
@@ -1157,6 +1153,14 @@
 * [[YouTube] Everything is a plugin! Mastering webpack from the inside out - Sean Larkin | NG-CONF-2017](https://www.youtube.com/watch?v=4tQiJaFzuJ8) - 2017/04/07
 
   * [[GitHub] TheLarkInn / everything-is-a-plugin](https://github.com/thelarkinn/everything-is-a-plugin) - Everything is a Plugin: Mastering webpack from the inside out. NgConf 2017
+
+--
+
+* [Webpack 2 Tree Shaking Configuration | Modus Create: Front End Development - Medium](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233) - 2016/02/15
+
+* [How to do proper tree-shaking in Webpack 2 | Emarsys Craftlab](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21) - 2017/04/24
+
+* [3 ways to reduce webpack bundle size | Jakob Lind](http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/) - 2017/05/18
 
 --
 
