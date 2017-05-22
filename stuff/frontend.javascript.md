@@ -1164,6 +1164,8 @@
 
 * [[GitHub] gdborton / webpack-parallel-uglify-plugin](https://github.com/gdborton/webpack-parallel-uglify-plugin) - A faster uglifyjs plugin
 
+* [[GitHub] amireh / happypack](https://github.com/amireh/happypack) - Happiness in the form of faster webpack build times.
+
 --
 
 * [Browserify VS Webpack - JS Drama | Naman Goel](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
