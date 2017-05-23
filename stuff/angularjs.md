@@ -1235,6 +1235,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 ### Performance
 
+* [[GitHub] mgechev / angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - Cheatsheet for developing lightning fast progressive Angular applications.
+
 * [[YouTube] ngular Performance: Tuning the Engine](https://www.youtube.com/watch?v=LoIuokh6NUI) - 2016/05/05
 
 * [11 Tips to Improve AngularJS Performance | Alex Kras](http://www.alexkras.com/11-tips-to-improve-angularjs-performance) - 2015/04/28
