@@ -125,6 +125,8 @@
 
 * [7 future web design trends | Medium by @jowitaziobro](https://medium.com/@jowitaziobro/7-future-web-design-trends-fba93eba6355) - 2015/05/14
 
+* [How to not suck at design, a 5 minute guide for the non-designer | Startup Grind – Medium](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037) - 2017/04/30
+
 
 ### Look and Feel
 
