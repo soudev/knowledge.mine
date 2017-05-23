@@ -269,6 +269,8 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [GitLogs Search](http://www.gitlogs.com/) - A better interface for Github's search API
 
+* [Little Things I Like to Do with Git | CSS Wizardry](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/) - 2017/05/23
+
 --
 
 > **Commit de um diretório vazio**
