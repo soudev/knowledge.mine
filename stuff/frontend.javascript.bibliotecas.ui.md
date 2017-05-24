@@ -560,6 +560,8 @@
 
 * [[GitHub] Microsoft / reactxp](https://github.com/Microsoft/reactxp) - Library for cross-platform app development.
 
+* [[GitHub] garthenweb / react-native-e2etest](https://github.com/garthenweb/react-native-e2etest)
+
 --
 
 * [Deco IDE](https://www.decosoftware.com/) - the React Native IDE
