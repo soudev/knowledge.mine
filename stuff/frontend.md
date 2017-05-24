@@ -181,6 +181,8 @@
 
 ### Icon
 
+* [Simple Icons](https://simpleicons.org/) - Free SVG icons from popular brands 
+
 * [Icon Finder](http://www.iconfinder.com/)
 
 * [svg icons! | raphaeljs.com](http://raphaeljs.com/icons/)
