@@ -2056,6 +2056,8 @@ $ sudo chown -R `whoami` .npm
 
 * [How to Create and Publish Your First Node.js Module | Medium by @jdaudier](https://medium.com/@jdaudier/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
 
+* [How to publish your package on npm | Hacker Noon](https://hackernoon.com/how-to-publish-your-package-on-npm-7fc1f5aae600) - 2017/04/08
+
 * [[YouTube] How to use bundleDependencies (to avoid unpublish blues)](https://www.youtube.com/watch?v=qOGRUfdSiaM)
 
 --
