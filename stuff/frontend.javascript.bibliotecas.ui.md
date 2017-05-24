@@ -181,6 +181,8 @@
 
 * [[GitHub] developit/preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
+  * [[GitHub] developit / preact-cli](https://github.com/developit/preact-cli) - Your next Preact PWA starts in 30 seconds.
+
 
 ### PDF Viewer
 
