@@ -124,7 +124,11 @@
 
 * [Add Rules to Stylesheets with JavaScript | David Walsh Blog](http://davidwalsh.name/add-rules-stylesheets)
 
+--
+
 * [A Unified Styling Language | SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) - 2017/05/22
+
+* [[GitHub] MicheleBertoli / css-in-js](https://github.com/MicheleBertoli/css-in-js) - React: CSS in JS techniques comparison.
 
 --
 
