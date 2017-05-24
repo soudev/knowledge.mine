@@ -321,6 +321,10 @@
 
 --
 
+* [Debugging Angular Using Visual Studio Code (VSCode) | C# Corner](http://www.c-sharpcorner.com/article/debugging-angular-using-visual-studio-code-vscode/) - 2017/05/22
+
+--
+
 * [Angular 2 — Unit Testing recipes — Google Developer Experts | Medium](https://medium.com/google-developer-experts/angular-2-unit-testing-with-jasmine-defe20421584)
 
 * [Getting Started with Angular 2 End To End Testing | Jscrambler Blog](https://blog.jscrambler.com/getting-started-with-angular-2-end-to-end-testing/) - (2016/10/12) In this article, we will be testing an existing Angular 2 todo application. We will be using integration tests and will cover several scenarios.
