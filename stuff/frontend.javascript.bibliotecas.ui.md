@@ -288,6 +288,10 @@
 
 * [Criando um template com o vue-cli | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/criando-um-template-com-o-vue-cli/) - 2017/01/03
 
+* [[GitHub] vuejs / vue-cli](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects
+
+* [[GitHub] vuejs-templates](https://github.com/vuejs-templates)
+
 --
 
 * [[GitHub] Zulko / eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js
