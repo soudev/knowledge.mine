@@ -124,6 +124,8 @@
 
 * [Add Rules to Stylesheets with JavaScript | David Walsh Blog](http://davidwalsh.name/add-rules-stylesheets)
 
+* [A Unified Styling Language | SEEK blog – Medium](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660) - 2017/05/22
+
 --
 
 * [Detecting CSS Style Support | Ryan Morr](http://ryanmorr.com/detecting-css-style-support/)
