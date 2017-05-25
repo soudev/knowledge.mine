@@ -285,8 +285,16 @@
 
 --
 
+* [Angular Ngrx Crash Course Part 1: NgrxStore - Why Use a Store ? | Angular University](http://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/) - 2017/05/08
+
 * [[YouTube] Victor Savkin - Tackling State in Angular Applications | Jazoon TechDays
-](https://www.youtube.com/watch?v=brCGZ8Lk-HY) - 2017/05/03 
+](https://www.youtube.com/watch?v=brCGZ8Lk-HY) - 2017/05/03
+
+* [Managing State in Angular 2 Apps with ngrx/store | SitePoint](https://www.sitepoint.com/managing-state-angular-2-ngrx/) - 2016/12/14
+
+* [@ngrx/store in 10 minutes - angular2 Video Tutorial #free | @eggheadio](https://egghead.io/lessons/angular-2-ngrx-store-in-10-minutes) - 2016/04/28
+
+* [Build a Better Angular 2 Application with Redux and ngrx | One Hungry Mind](http://onehungrymind.com/build-better-angular-2-application-redux-ngrx/) - 2016/02/03
 
 --
 
