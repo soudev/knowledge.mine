@@ -285,6 +285,11 @@
 
 --
 
+* [[YouTube] Victor Savkin - Tackling State in Angular Applications | Jazoon TechDays
+](https://www.youtube.com/watch?v=brCGZ8Lk-HY) - 2017/05/03 
+
+--
+
 * [Creating your first Angular 2 app: From authentication to calling an API and everything in between | Auth0](https://auth0.com/blog/2015/05/14/creating-your-first-real-world-angular-2-app-from-authentication-to-calling-an-api-and-everything-in-between/) - 2015/05/14
 
 * [Authentication in Angular 2 | Medium by @blacksonic86](https://medium.com/@blacksonic86/authentication-in-angular-2-958052c64492) - 2016/03/06
