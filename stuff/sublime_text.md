@@ -154,6 +154,8 @@
 
 * [Sublime Text packages for Front-end web development](http://martineau.tv/2014/07/sublime-text-for-front-end-development/)
 
+* [[GitHub] jfilter / Sublime-Text-Plugins-for-Frontend-Web-Development](https://github.com/jfilter/Sublime-Text-Plugins-for-Frontend-Web-Development) - A Collection of Plugins for Frontend Web Development
+
 --
 
 * [Doc​Blockr | Package Control](https://packagecontrol.io/packages/DocBlockr)
