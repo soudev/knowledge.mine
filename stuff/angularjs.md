@@ -344,9 +344,11 @@
 
 --
 
-* [[Slides] Web components & Angular 2 by Evgeniy Safronov](http://slides.com/evgeniyjs/wc-and-angular2) - 2016/04/07
+* [[YouTube] Using Web Components with Angular (Google I/O '17)](https://www.youtube.com/watch?v=Ucq9F-7Xp8I) - 2017/05/19
 
 * [Custom Element Inter-op with Angular | Danny Blue – Medium](https://medium.com/@dee_bloo/custom-element-inter-op-with-angular-2-ed75f013a9ba) - 2016/07/01
+
+* [[Slides] Web components & Angular 2 by Evgeniy Safronov](http://slides.com/evgeniyjs/wc-and-angular2) - 2016/04/07
 
 --
 
