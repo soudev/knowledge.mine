@@ -97,6 +97,8 @@
 
 * [Docker Playground](http://play-with-docker.com/)
 
+  * [Play with docker classroom](http://training.play-with-docker.com/)
+
 * [Putting a UI around Docker with Portainer | Containerizers](https://cntnr.io/putting-a-ui-around-docker-with-portainer-c8ba07874f9d) - 2017/01/09
 
 --
