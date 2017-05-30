@@ -354,6 +354,10 @@ git clean -fd
 
 * [9.7 Git Internamente - Manutenção e Recuperação de Dados | Pro Git](http://git-scm.com/book/pt-br/Git-Internamente-Manuten%C3%A7%C3%A3o-e-Recupera%C3%A7%C3%A3o-de-Dados)
 
+--
+
+* [Git as a NoSql database | Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - 2016/10/13
+
 
 ### Workflow
 
