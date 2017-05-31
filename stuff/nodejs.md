@@ -640,6 +640,8 @@
 
 --
 
+* [Debugging Node.js with Google Chrome | Node.js Collection - Medium](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4) - 2017/05/25
+
 * [Running and debugging Node.js application | JetBrains WebStorm Blog](http://blog.jetbrains.com/webstorm/2014/02/running-and-debugging-node-js-application/)
 
 * [How to debug Node.js? What is the best way to debug Node.js? | { 100PercentJS }](http://www.100percentjs.com/best-way-debug-node-js/)
