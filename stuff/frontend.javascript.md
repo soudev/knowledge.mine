@@ -1082,6 +1082,8 @@
 
 * [A Detailed Introduction To Webpack | Smashing Magazine](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/) - 2017/02/21
 
+* [Webpack: The Basics | Hacker Noon](https://hackernoon.com/webpack-the-basics-2712a7ad640b) - 2017/05/23
+
 --
 
 * [Webpack — The Confusing Parts | Medium by @rajaraodv](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9) - 2016/04/10
