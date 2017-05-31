@@ -271,6 +271,8 @@
 
 * [Polymer.js Cheat Sheet](http://www.cheatography.com/jonathanberi/cheat-sheets/polymer-js/) - by jonathanberi
 
+* [Polymer 2.x Cheat Sheet | Monica Dinculescu](https://meowni.ca/posts/polymer-2-cheatsheet/) - 2017/05/31
+
 * [[YouTube] Componentize the Web - Google Developers](https://www.youtube.com/watch?v=2toYLLcoY14) - (25/06/2014) Polymer is a library that uses the latest web technologies to let you create custom HTML elements. Build anything from a button to a complete application as an encapsulated, reusable element that works across desktop and mobile.
 
 * [Desmistificando o Polymer : Olá Polymer! | Beto Muniz](http://betomuniz.com/blog/desmistificando-o-polymer-parte-1/)
