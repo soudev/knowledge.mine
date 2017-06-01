@@ -464,6 +464,10 @@
 
 --
 
+* [[GitHub] felipemx / CryptoKnowledge](https://github.com/felipemx/CryptoKnowledge) - A simple project to store useful links for whose want to get more information about Cryptocurrencies.
+
+--
+
 * [WatchCoins](https://watchcoins.herokuapp.com) - Acompanhe valores em tempo real das principais traders de cryptocoins do Brasil.
 
 --
