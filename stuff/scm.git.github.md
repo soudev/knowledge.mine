@@ -645,6 +645,12 @@ git branch -D feature/branch
 
 --
 
+* [[Gist] Using <details> in GitHub](https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d)
+
+* [[GitHub] dear-github / dear-github : #166 Collapsible contents (code block) in comments / spoiler tag](https://github.com/dear-github/dear-github/issues/166)
+
+--
+
 * [[GitHub] dbader / readme-template](https://github.com/dbader/readme-template) - README.md template for your open-source project
 
 * [[GitHub] gist-run / gist-run](https://github.com/gist-run/gist-run) - Bring your Gists to life with [GistRun](https://gist.run/)
