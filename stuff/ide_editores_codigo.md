@@ -175,6 +175,10 @@
 
 * [[GitHug] Microsoft / vscode-spell-check](https://github.com/Microsoft/vscode-spell-check) - An extension to VSCode for spell and grammar checking
 
+* [Code Runner | Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+  * [Code Runner supports Kotlin in Visual Studio Code now! | formulahendry](https://blogs.msdn.microsoft.com/formulahendry/2017/05/21/code-runner-supports-kotlin-in-visual-studio-code-now/) - 2017/05/21
+
 
 ### Atom
 
