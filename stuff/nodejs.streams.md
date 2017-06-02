@@ -310,7 +310,13 @@ function (msg) {
 ## Testing streams
 [tbi]
 
+
 ## See Also
+
 - [stream handbook](https://github.com/substack/stream-handbook) - stream guide by substack
+
 - [mississippi](https://github.com/maxogden/mississippi) - a collection of useful stream utility modules
+
 - [iojs/api/streams](https://iojs.org/api/stream.html) - iojs streams documentation
+
+- [Whats new for streams in Node 8 | Calvin Metcalf – Medium](https://medium.com/@CWMma/whats-new-for-streams-in-node-8-736d431083df) - 2017/05/31
