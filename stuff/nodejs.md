@@ -1510,6 +1510,8 @@
 
 --
 
+* [[GitHub] open-xml-templating / docxtemplater](https://github.com/open-xml-templating/docxtemplater) - Generate docx and pptx (microsoft word documents) from templates, from Node.js, the Browser and the command line
+
 * [[GitHub] Leonidas-from-XIV / node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter
 
 * [Convert CSV to JSON in JavaScript | TechSlides](http://techslides.com/convert-csv-to-json-in-javascript)
