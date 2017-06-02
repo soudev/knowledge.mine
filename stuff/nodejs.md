@@ -2437,6 +2437,10 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [Announcing TypeScript support in Electron | Electron](https://electron.atom.io/blog/2017/06/01/typescript) - 2017/06/01
+
+--
+
 * [15 Essential Packages to Get Started With Electron | NodeSource](https://nodesource.com/blog/fifteen-essential-packages-to-get-started-with-electron/) - 2016/09/02
 
 --
