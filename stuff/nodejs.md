@@ -2469,6 +2469,8 @@ $ sudo chown -R `whoami` .npm
 
 * [[GitHub] buttercup-pw / buttercup](https://github.com/buttercup-pw/buttercup) - Javascript Password Vault - Multi-Platform Desktop Application
 
+* [[GitHub] antonycourtney / tad](https://github.com/antonycourtney/tad) - A desktop application for viewing and analyzing tabular data
+
 
 #### Node Webkit
 
