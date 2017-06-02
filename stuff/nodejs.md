@@ -123,6 +123,10 @@
 
 --
 
+* [Updating NodeJS on Windows - Some Tips | Raymond Camden](https://www.raymondcamden.com/2017/05/31/updating-nodejs-on-windows-some-tips/) - 2017/05/31
+
+--
+
 * NVM - node version manager
 
   * [[GitHub] brianloveswords / nvm](https://github.com/brianloveswords/nvm) - Install and managing different versions of node and linking local versions into specific directories. Very simple setup and no need for a special shell [ `npm install -g nvm` ]
