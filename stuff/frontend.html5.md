@@ -287,6 +287,8 @@
 
 --
 
+* [Using Web Workers - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+
 * Service Workers
 
   * [[GitHub] delapuente / service-workers-101](https://github.com/delapuente/service-workers-101) - An infographic to summarize the most important parts of the Service Workers' API
