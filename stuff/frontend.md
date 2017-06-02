@@ -181,7 +181,9 @@
 
 ### Icon
 
-* [Simple Icons](https://simpleicons.org/) - Free SVG icons from popular brands 
+* [[GitHub] colebemis / feather](https://github.com/colebemis/feather) - Simply beautiful open source icons
+
+* [Simple Icons](https://simpleicons.org/) - Free SVG icons from popular brands
 
 * [Icon Finder](http://www.iconfinder.com/)
 
@@ -218,8 +220,6 @@
 * [Font Custom](http://fontcustom.com/) - Generate custom icon webfonts from the comfort of the command line.
 
 * [Super semantic multicolor font icons in pure CSS | Pixelambacht](http://pixelambacht.nl/2014/multicolor-icons/)
-
-* [The Art Of The SVG Filter And Why It Is Awesome | Smashing Magazine](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/)
 
 
 ### FavIcon
@@ -284,6 +284,8 @@
 * [[GitHub] SamHerbert / SVG-Loaders](https://github.com/SamHerbert/SVG-Loaders) - Loading icons and small animations built purely in SVG, no CSS or JS
 
 * [SVG `text` and Small, Scalable, Accessible Typographic Designs | CSS-Tricks](https://css-tricks.com/svg-text-typographic-designs/) - 2014/05/27
+
+* [The Art Of The SVG Filter And Why It Is Awesome | Smashing Magazine](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/)
 
 --
 
