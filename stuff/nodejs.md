@@ -129,6 +129,8 @@
 
   * [[GitHub] creationix / nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
 
+  * [[GitHub] coreybutler / nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
+
   * [Installing and using different versions of Node.js and IO.js in your development environment using NVM | Node Tuts](http://nodetuts.com/series/tools-tips-tricks/tools-tips-tricks-01.html)
 
   * [Utilizando versões antigas do Nodejs | William Oliveira](http://woliveiras.com.br/posts/utilizando-versoes-antigas-do-nodejs/)
