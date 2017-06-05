@@ -2256,6 +2256,8 @@
 
   * [ES6: Brincando com o novo Javascript | ES6 Rocks](http://es6rocks.com/pt-br/2014/11/es6-playing-with-the-new-javascript/)
 
+* [Introduction to commonly used ES6 features | Zell Liew](https://zellwk.com/blog/es6/) - 2017/05/10
+
 * [Introduction to ECMAScript 6 | Christophe Coenraets](http://coenraets.org/present/es6/)
 
 * [ES6 In Depth Articles | Mozilla Hacks](https://hacks.mozilla.org/category/es6-in-depth/)
