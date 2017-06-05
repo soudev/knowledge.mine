@@ -375,7 +375,13 @@
 
   * Ubuntu repository - [PPA - Chris Lea](https://launchpad.net/~chris-lea/+archive/ubuntu/node.js)
 
-  * The powers of [@chrislea](https://twitter.com/chrislea) and [@nodesource](https://twitter.com/nodesource) combine to provide a new, solid *Ubuntu* and *Debian* binary repo for Node.js [blog post](https://nodesource.com/blog/chris-lea-joins-forces-with-nodesource) (09/07/2014)
+  * [[GitHub] nodesource / distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+
+  * The powers of [@chrislea](https://twitter.com/chrislea) and [@nodesource](https://twitter.com/nodesource) combine to provide a new, solid *Ubuntu* and *Debian* binary repo for Node.js [blog post](https://nodesource.com/blog/chris-lea-joins-forces-with-nodesource) - 2014/07/09
+
+  * [Installing Node.js Tutorial: Using nvm on macOS and Ubuntu | Node Source](https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/) - 2017/02/16
+
+  * [Installing the latest Node.js on Ubuntu via nvm | SmallData](https://smalldata.tech/blog/2016/08/02/ubuntu-nodejs-nvm) - 2016/08/02
 
 --
 
