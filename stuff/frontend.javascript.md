@@ -1071,6 +1071,8 @@
 
   * [[GitHub] rollup / rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
 
+* [[GitHub] gardenhq / o](https://github.com/gardenhq/o) - An in-browser loader/bundler for javascript. No Node required. No CLI required. Use with @gardenhq/willow for a flexible, 'unobtrusive' dependency injection builder to decouple your codebase. Grow a tree don't shake it.
+
 
 #### Webpack
 
