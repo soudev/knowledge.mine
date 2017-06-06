@@ -298,6 +298,9 @@
 
 * [[GitHub] Zulko / eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js
 
+* [[GitHub] hilongjw / vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) - Mastering Large Lists with the vue-recyclerview
+
+
 
 ### React.js
 
