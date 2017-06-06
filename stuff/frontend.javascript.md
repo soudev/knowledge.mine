@@ -2221,6 +2221,9 @@
 
 * [[GitHub] CentaurWarchief / babel-plugin-global-require](https://github.com/CentaurWarchief/babel-plugin-global-require) - A simple plugin that allows you to require globally
 
+* [[GitHub] JonAbrams / elsa](https://github.com/JonAbrams/elsa) - A babel plugin for replacing object and array literals with immutable versions
+
+
 
 ### ECMAScript 6
 
