@@ -480,7 +480,11 @@
 
 * [[YouTube] What is Bitcoin? - WeUseCoins](https://www.youtube.com/watch?v=Gc2en3nHxA4)
 
+* [[YouTube] Bitcoin explained and made simple | Guardian Animations](https://www.youtube.com/watch?v=s4g1XFU8Gto)
+
 * [[YouTube] The real value of bitcoin and crypto currency technology - The Blockchain explained](https://www.youtube.com/watch?v=YIVAluSL9SU)
+
+* [[YouTube] How Bitcoin Works in 5 Minutes (Technical)](https://www.youtube.com/watch?v=l9jOJk30eQs)
 
 * [[YouTube] How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 
