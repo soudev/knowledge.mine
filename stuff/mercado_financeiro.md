@@ -490,6 +490,10 @@
 
 --
 
+* [[YouTube] Why do Banks Fear Bitcoin? (Bitcoin Documentary) - [FutureMoneyTrends.com]](https://www.youtube.com/watch?v=T_hBhymFfm8)
+
+--
+
 * [[YouTube] Como Transformar Bitcoin em Dinheiro de Verdade!](https://www.youtube.com/watch?v=d9RyFqvbH6o)
 
 --
