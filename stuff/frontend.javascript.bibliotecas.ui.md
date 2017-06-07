@@ -183,6 +183,8 @@
 
   * [[GitHub] developit / preact-cli](https://github.com/developit/preact-cli) - Your next Preact PWA starts in 30 seconds.
 
+  * [[GitHub] synacor / wiretie](https://github.com/synacor/wiretie) - A Higher Order Component for Preact that resolves (async) values from a model and passes them down as props.
+
 
 ### PDF Viewer
 
