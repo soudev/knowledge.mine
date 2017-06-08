@@ -508,3 +508,9 @@
 * [Wallet | Blockchain.info](https://blockchain.info/wallet/)
 
 * [xapo](https://xapo.com/) - combines the convenience of an everyday bitcoin wallet with the security of a deep cold storage vault
+
+* [coinbase](https://www.coinbase.com) - The easiest place to buy, use, and accept bitcoin, ethereum, and litecoin. Using digital currency has never been so safe and easy.
+
+* [poloniex](https://www.poloniex.com/) - Bitcoin/Digital Asset Exchange
+
+  * [[YouTube] Criar carteira poloniex](https://www.youtube.com/watch?v=TmJw9Ubaq-o)
