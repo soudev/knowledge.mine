@@ -383,6 +383,8 @@
 
   * [Installing the latest Node.js on Ubuntu via nvm | SmallData](https://smalldata.tech/blog/2016/08/02/ubuntu-nodejs-nvm) - 2016/08/02
 
+  * [Installing Node.js 8 on Linux via Package Manager | NodeSource](https://nodesource.com/blog/installing-node-js-8-tutorial-linux-via-package-manager) - 2017/05/31
+
 --
 
 * [[GitHub] parro-it / awesome-micro-npm-packages](https://github.com/parro-it/awesome-micro-npm-packages) - A curated list of small, focused npm packages
