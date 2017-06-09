@@ -942,6 +942,10 @@
 
 * [[GitHub] joeferner / node-java-maven](https://github.com/joeferner/node-java-maven) - Utility for Node's java module to load mvn dependencies.
 
+* [[GitHub] auth0-blog / nodejs-maven](https://github.com/auth0-blog/nodejs-maven) - Integrating Node.js build tools with Maven
+
+  * [Integrating Node.js Build Tools with Maven | Auth0](https://auth0.com/blog/integrating-node-dot-js-build-tools-with-maven/) - 2017/06/07
+
 --
 
 * [[GitHub] YaroslavGaponov / node-jvm](https://github.com/YaroslavGaponov/node-jvm) - java virtual machine in pure node.js
