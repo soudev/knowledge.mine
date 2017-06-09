@@ -27,6 +27,10 @@
 
   * [HNPWA](https://hnpwa.com/) - Hacker News readers as Progressive Web Apps
 
+* [Progressive Web Apps | Google Developers](https://developers.google.com/web/progressive-web-apps/)
+
+* [Getting started with Progressive Web Apps | Addy Osmani](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
+
 --
 
 * [[GitHub] Fooidge / PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
