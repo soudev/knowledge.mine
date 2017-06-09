@@ -521,6 +521,8 @@
 
 * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
 
+* [Biscoint](https://biscoint.io/) - compare and find realtime the best effective prices exchanges
+
 --
 
 * [Bittrex.com](https://bittrex.com/) - Bittrex, The Next Generation Digital Currency Exchange
