@@ -22,8 +22,9 @@
   * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
 * [Imposto de Renda](#imposto-de-renda)
-* [BitCoins](#bitcoins)
-  * [Carteira de BitCoins](#carteira-de-bitcoins)
+* [CryptoCurrencies](#cryptocurrencies)
+  * [Wallets](#wallets)
+  * [Exchanges](#exchanges)
 
 <!-- toc stop -->
 
@@ -452,15 +453,13 @@
 * [IR 2016: Entenda como declarar seus investimentos em ações - Imposto de Renda | UOL Economia](https://economia.uol.com.br/imposto-de-renda/duvidas/ir-2016-entenda-como-declarar-seus-investimentos-em-acoes.htm)
 
 
-## BitCoins
+## CryptoCurrencies
 
 * [Bitcoin](https://bitcoin.org/pt_BR/) -  é uma rede de pagamento inovadora e um novo tipo de dinheiro.
 
 * [Bitcoin.com](https://www.bitcoin.com/)
 
 * [We use bitcoins](https://www.weusecoins.com/)
-
-* [FoxBit](https://foxbit.com.br/) - Compre e venda Bitcoins no Brasil
 
 --
 
@@ -501,16 +500,39 @@
 * [Don Tapscott: How the blockchain is changing money and business | TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) - 2016/06
 
 
-### Carteira de BitCoins
+### Wallets
 
 * [Escolha sua carteira Bitcoin | Bitcoin](https://bitcoin.org/pt_BR/escolha-sua-carteira)
 
 * [Wallet | Blockchain.info](https://blockchain.info/wallet/)
 
+* [coinbase](https://www.coinbase.com) - The easiest place to buy, use, and accept bitcoin, ethereum, and litecoin. Using digital currency has never been so safe and easy.
+
 * [xapo](https://xapo.com/) - combines the convenience of an everyday bitcoin wallet with the security of a deep cold storage vault
 
-* [coinbase](https://www.coinbase.com) - The easiest place to buy, use, and accept bitcoin, ethereum, and litecoin. Using digital currency has never been so safe and easy.
+* [BitGo](https://www.bitgo.com/) - Making Digital Currencies Usable for Business.
+
+
+### Exchanges
+
+* [[YouTube] Como escolher uma exchange Bitcoin](https://www.youtube.com/watch?v=HdD2rW2ZU5Y)
+
+--
+
+* [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
+
+--
+
+* [Bittrex.com](https://bittrex.com/) - Bittrex, The Next Generation Digital Currency Exchange
 
 * [poloniex](https://www.poloniex.com/) - Bitcoin/Digital Asset Exchange
 
   * [[YouTube] Criar carteira poloniex](https://www.youtube.com/watch?v=TmJw9Ubaq-o)
+
+  * [[YouTube] Ethereum Poloniex - Melhor Carteira para Ethereum 2016](https://www.youtube.com/watch?v=f-vL8AXhM3k)
+
+--
+
+* [FoxBit](https://foxbit.com.br/) - Compre e venda Bitcoins no Brasil
+
+* [BitCambio](https://bitcambio.com.br/) - oferece a facilidade de comprar e vender a moeda virtual bitcoin de forma direta e segura no Brasil
