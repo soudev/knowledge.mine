@@ -504,13 +504,27 @@
 
 * [Escolha sua carteira Bitcoin | Bitcoin](https://bitcoin.org/pt_BR/escolha-sua-carteira)
 
+* [[YouTube] Tipos de Carteiras Bitcoin](https://www.youtube.com/watch?v=Hoqh8yAHnh0)
+
+* [Best Bitcoin Wallet (23 Hardware & Software Wallets Reviewed) | 99bitcoins](https://99bitcoins.com/best-bitcoin-wallet-2015-bitcoin-wallets-comparison-review/)
+
+--
+
 * [Wallet | Blockchain.info](https://blockchain.info/wallet/)
 
 * [coinbase](https://www.coinbase.com) - The easiest place to buy, use, and accept bitcoin, ethereum, and litecoin. Using digital currency has never been so safe and easy.
 
 * [xapo](https://xapo.com/) - combines the convenience of an everyday bitcoin wallet with the security of a deep cold storage vault
 
+* [GreenAddress](https://greenaddress.it) - Wallet brings the most advanced protection level to your bitcoins without sacrificing usability or control.
+
 * [BitGo](https://www.bitgo.com/) - Making Digital Currencies Usable for Business.
+
+--
+
+* [Jaxx](https://jaxx.io/) - Your Blockchain Interface. Bye-bye gatekeepers. With Jaxx, you have the keys to control the new digital world.
+
+* [Exodus](https://www.exodus.io/) - Manage Blockchain Assets
 
 
 ### Exchanges
@@ -532,6 +546,8 @@
   * [[YouTube] Criar carteira poloniex](https://www.youtube.com/watch?v=TmJw9Ubaq-o)
 
   * [[YouTube] Ethereum Poloniex - Melhor Carteira para Ethereum 2016](https://www.youtube.com/watch?v=f-vL8AXhM3k)
+
+* [ShapeShift](https://shapeshift.io) - Cryptocurrency Exchange. Simple Coin Conversion.
 
 --
 
