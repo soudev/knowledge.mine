@@ -497,6 +497,8 @@
 
 --
 
+* [[YouTube] Blockchain: Massively Simplified | Richie Etwaru | TEDxMorristown](https://www.youtube.com/watch?v=k53LUZxUF50) - 2017/05/15
+
 * [Don Tapscott: How the blockchain is changing money and business | TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) - 2016/06
 
 
