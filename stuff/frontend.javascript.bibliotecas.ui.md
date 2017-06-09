@@ -23,6 +23,12 @@
 
 ## Bibliotecas de UI
 
+* [[GitHub] tastejs / hacker-news-pwas](https://github.com/tastejs/hacker-news-pwas)
+
+  * [HNPWA](https://hnpwa.com/) - Hacker News readers as Progressive Web Apps
+
+--
+
 * [[GitHub] Fooidge / PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
 
   * [Please JS](http://www.checkman.io/please/) - The Polite Javascript Color Library
