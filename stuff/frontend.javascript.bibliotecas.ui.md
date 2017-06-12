@@ -680,6 +680,14 @@
 
     * [Criando um dashboard dinâmico com o ChartJS | Tuts+ Web Design Tutorial](http://webdesign.tutsplus.com/pt/tutorials/build-a-dynamic-dashboard-with-chartjs--webdesign-14363)
 
+* [C3.js](http://c3js.org/) - D3-based reusable chart library
+
+  * [[GitHub] c3js / c3](https://github.com/c3js/c3)
+
+* [billboard.js](https://naver.github.io/billboard.js/) - Re-usable easy interface JavaScript chart library, based on D3 v4+
+
+  * [[GitHub] naver / billboard.js](https://github.com/naver/billboard.js)
+
 --
 
 * [Raphaël](http://raphaeljs.com/) - JavaScript Library
