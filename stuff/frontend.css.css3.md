@@ -44,6 +44,8 @@
 
 * [Learn CSS Grid | Varun Vachhar](http://varun.ca/css-grid/) - 2017/05/16
 
+* [Basics of CSS grid layout | Labcodes Software Studio – Medium](https://medium.com/labcodes/basics-of-css-grid-layout-3a47aea089dc) - 2017/05/23
+
 
 ### Dicas
 
