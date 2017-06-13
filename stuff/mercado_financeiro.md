@@ -463,6 +463,10 @@
 
 --
 
+* [[YouTube] How I built a bitcoin empire | Marco Streng | TEDxTrinityCollegeDublin](https://www.youtube.com/watch?v=cVxi2CQcXZo) - 2017/05/19
+
+--
+
 * [[GitHub] felipemx / CryptoKnowledge](https://github.com/felipemx/CryptoKnowledge) - A simple project to store useful links for whose want to get more information about Cryptocurrencies.
 
 --
