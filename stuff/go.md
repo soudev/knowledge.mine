@@ -88,6 +88,8 @@
 
 * [[GitHub] davecheney / httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 
+* [[GitHub] minio / minio](https://github.com/minio/minio) - is an open source object storage server compatible with Amazon S3 APIs
+
 
 ## Docker
 
