@@ -285,6 +285,8 @@
 
 --
 
+* [Angular and RxJS: Create an API Service to Talk to a REST Backend | SitePoint](https://www.sitepoint.com/angular-rxjs-create-api-service-rest-backend/) - 2017/06/05
+
 * [Angular Ngrx Crash Course Part 1: NgrxStore - Why Use a Store ? | Angular University](http://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/) - 2017/05/08
 
 * [[YouTube] Victor Savkin - Tackling State in Angular Applications | Jazoon TechDays
