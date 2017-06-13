@@ -63,6 +63,8 @@
 
 * [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
 
+* [[YouTube] Why the Rich are Getting Richer | Robert Kiyosaki | TEDxUCSD](https://www.youtube.com/watch?v=abMQhaMdQu0) - 2016/07/21
+
 
 ## Informações gerais
 
