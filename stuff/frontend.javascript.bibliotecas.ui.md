@@ -189,11 +189,13 @@
 
 --
 
-* [[GitHub] developit/preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+* [[GitHub] developit / preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
   * [[GitHub] developit / preact-cli](https://github.com/developit/preact-cli) - Your next Preact PWA starts in 30 seconds.
 
   * [[GitHub] synacor / wiretie](https://github.com/synacor/wiretie) - A Higher Order Component for Preact that resolves (async) values from a model and passes them down as props.
+
+  * [Getting started with PreactJS — A Step By Step Guide | Codeinfuse](https://blog.codeinfuse.com/getting-started-with-preactjs-a-step-by-step-guide-f3197f871753) - (2017/06/08) PreactJS is a fast 3kB alternative to React with the same ES6 API
 
 
 ### PDF Viewer
