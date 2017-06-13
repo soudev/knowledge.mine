@@ -541,6 +541,8 @@
 
 * [Why WebAssembly is Faster Than asm.js | Mozilla Hacks](https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/) - 2017/03/15
 
+* [WebAssembly 101: a developer's first steps | Openbloc](http://blog.openbloc.fr/webassembly-first-steps/) - 2017/06/04
+
 * [Five things you can do to make HTML5 perform better](http://christianheilmann.com/2013/01/25/five-things-you-can-do-to-make-html5-perform-better/)
 
 * [Native Speed on the Web: JavaScript and asm.js | Alon Zakai](http://kripken.github.io/mloc_emscripten_talk/sloop.html)
