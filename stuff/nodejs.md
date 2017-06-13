@@ -1759,6 +1759,10 @@
 
 * [[GitHub] bucaran / parsec](https://github.com/bucaran/parsec) - is a lovingly crafted command line options parser using ES6 generators in around 100 LOC.
 
+* [[GitHub] yargs / yargs](https://github.com/yargs/yargs) - yargs the modern, pirate-themed successor to optimist.
+
+* [[GitHub] lukeed / mri](https://github.com/lukeed/mri) - Quickly scan for CLI flags and arguments
+
 --
 
 * [[GitHub] sindresorhus / speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI
