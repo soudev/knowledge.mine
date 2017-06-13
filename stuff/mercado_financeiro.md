@@ -65,6 +65,8 @@
 
 * [[YouTube] Why the Rich are Getting Richer | Robert Kiyosaki | TEDxUCSD](https://www.youtube.com/watch?v=abMQhaMdQu0) - 2016/07/21
 
+* [[YouTube] When money isn’t real: the $10,000 experiment | Adam Carroll | TEDxLondonBusinessSchool](https://www.youtube.com/watch?v=_VB39Jo8mAQ) - 2015/07/09
+
 
 ## Informações gerais
 
