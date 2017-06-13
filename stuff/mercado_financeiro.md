@@ -23,6 +23,7 @@
 * [Códigos](#códigos)
 * [Imposto de Renda](#imposto-de-renda)
 * [CryptoCurrencies](#cryptocurrencies)
+  * [TED Talks](#ted-talks)
   * [Wallets](#wallets)
   * [Exchanges](#exchanges)
 
@@ -467,12 +468,6 @@
 
 --
 
-* [[YouTube] How I built a bitcoin empire | Marco Streng | TEDxTrinityCollegeDublin](https://www.youtube.com/watch?v=cVxi2CQcXZo) - 2017/05/19
-
-* [[YouTube] Blockchain is Eating Wall Street | Alex Tapscott | TEDxSanFrancisco](https://www.youtube.com/watch?v=WnEYakUxsHU) - 2016/10/26
-
---
-
 * [[GitHub] felipemx / CryptoKnowledge](https://github.com/felipemx/CryptoKnowledge) - A simple project to store useful links for whose want to get more information about Cryptocurrencies.
 
 --
@@ -505,11 +500,18 @@
 
 * [[YouTube] Como Transformar Bitcoin em Dinheiro de Verdade!](https://www.youtube.com/watch?v=d9RyFqvbH6o)
 
---
+
+### TED Talks
+
+* [[YouTube] How I built a bitcoin empire | Marco Streng | TEDxTrinityCollegeDublin](https://www.youtube.com/watch?v=cVxi2CQcXZo) - 2017/05/19
 
 * [[YouTube] Blockchain: Massively Simplified | Richie Etwaru | TEDxMorristown](https://www.youtube.com/watch?v=k53LUZxUF50) - 2017/05/15
 
+* [[YouTube] Blockchain is Eating Wall Street | Alex Tapscott | TEDxSanFrancisco](https://www.youtube.com/watch?v=WnEYakUxsHU) - 2016/10/26
+
 * [Don Tapscott: How the blockchain is changing money and business | TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) - 2016/06
+
+* [[YouTube] New Kids on the Blockchain | Lorne Lantz | TEDxHamburgSalon](https://www.youtube.com/watch?v=A1Vbrxkqjwc) - 2016/05/24
 
 
 ### Wallets
