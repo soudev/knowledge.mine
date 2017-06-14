@@ -518,6 +518,10 @@
 
 * [[YouTube] What Is A Bitcoin Wallet The Best Explanation EVER](https://www.youtube.com/watch?v=_e7iu5ig27Q) - 2017/05/25
 
+* [[YouTube] What is a Bitcoin Wallet](https://www.youtube.com/watch?v=WGpatcqhArU) - 2015/08/04
+
+* [[YouTube] What is a Bitcoin Wallet? Bitcoin wallet basics](https://www.youtube.com/watch?v=Kw0CWLPTDT8) - 2014/03/14
+
 * [[YouTube] Top 5 Best Cryptocurrency Wallets](https://www.youtube.com/watch?v=NI0OsEL92_0) - 2017/05/05
 
 --
