@@ -492,6 +492,8 @@
 
 * [[YouTube] How Bitcoin Works Under the Hood](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 
+* [[YouTube] How Does BitCoin Work?](https://www.youtube.com/watch?v=LuA3xb-L8r8) - 2014/04/21
+
 --
 
 * [[YouTube] Why do Banks Fear Bitcoin? (Bitcoin Documentary) - [FutureMoneyTrends.com]](https://www.youtube.com/watch?v=T_hBhymFfm8)
