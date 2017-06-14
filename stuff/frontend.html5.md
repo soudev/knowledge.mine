@@ -496,6 +496,8 @@
 
 * [Web SQL DB vs. IndexedDB | JavassCrypt](http://www.javasscrypt.com/html5/web-sql-db-vs-indexeddb/)
 
+--
+
 * [IndexedDB Basic concepts - Web API Interfaces | MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB)
 
 * [An Introduction to IndexedDB | Dev.Opera](http://dev.opera.com/articles/introduction-to-indexeddb/)
@@ -513,6 +515,10 @@
 * [indexeddb file system | mode·switch](http://blog.modeswitch.org/indexeddb-file-system.html)
 
 * [Indexed: Query IndexedDB Like Mongo | fluidbyte](http://fluidbyte.net/indexed-query-inexeddb-like-mongo/)
+
+* [[GitHub] erikolson186 / zangodb](https://github.com/erikolson186/zangodb) - MongoDB-like interface for HTML5 IndexedDB
+
+--
 
 * [Client-Side Storage Options | Tech Pro](http://tech.pro/blog/1486/client-side-storage-options)
 
