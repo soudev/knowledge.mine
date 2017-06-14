@@ -516,6 +516,10 @@
 
 ### Wallets
 
+* [[YouTube] What Is A Bitcoin Wallet The Best Explanation EVER](https://www.youtube.com/watch?v=_e7iu5ig27Q) - 2017/05/25
+
+--
+
 * [Escolha sua carteira Bitcoin | Bitcoin](https://bitcoin.org/pt_BR/escolha-sua-carteira)
 
 * [[YouTube] Tipos de Carteiras Bitcoin](https://www.youtube.com/watch?v=Hoqh8yAHnh0)
@@ -536,9 +540,23 @@
 
 --
 
+* [Exodus](https://www.exodus.io/) - Manage Blockchain Assets
+
 * [Jaxx](https://jaxx.io/) - Your Blockchain Interface. Bye-bye gatekeepers. With Jaxx, you have the keys to control the new digital world.
 
-* [Exodus](https://www.exodus.io/) - Manage Blockchain Assets
+* [Copay](https://copay.io/) - Secure, Shared Bitcoin Wallet
+
+--
+
+* Bitcoin Wallet
+
+  * [[GitHub] pointbiz / bitaddress.org](https://github.com/pointbiz/bitaddress.org) - JavaScript Client-Side Bitcoin Wallet Generator
+
+  * [[YouTube] HOW TO: Bitcoin Paper Wallet 2017 (encryption edition)](https://www.youtube.com/watch?v=1Vnt1NwQfxc) - 2017/04/22
+
+  * [[YouTube] How to make a Bitcoin Paper Wallet](https://www.youtube.com/watch?v=VTsHeiBhPIM) - 2016/08/15
+
+  * [[YouTube] Bitcoin 101 Intro to Paper Wallets & Cold Storage Bitcoin Security & Fun with Sloppy Wallets](https://www.youtube.com/watch?v=4TmN4STr_ug) - 2016/02/16
 
 
 ### Exchanges
