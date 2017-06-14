@@ -518,6 +518,8 @@
 
 * [[YouTube] What Is A Bitcoin Wallet The Best Explanation EVER](https://www.youtube.com/watch?v=_e7iu5ig27Q) - 2017/05/25
 
+* [[YouTube] Top 5 Best Cryptocurrency Wallets](https://www.youtube.com/watch?v=NI0OsEL92_0) - 2017/05/05
+
 --
 
 * [Escolha sua carteira Bitcoin | Bitcoin](https://bitcoin.org/pt_BR/escolha-sua-carteira)
@@ -548,7 +550,7 @@
 
 --
 
-* Bitcoin Wallet
+* Bitcoin Paper Wallet
 
   * [[GitHub] pointbiz / bitaddress.org](https://github.com/pointbiz/bitaddress.org) - JavaScript Client-Side Bitcoin Wallet Generator
 
