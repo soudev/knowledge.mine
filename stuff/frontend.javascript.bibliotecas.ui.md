@@ -31,6 +31,8 @@
 
 * [Getting started with Progressive Web Apps | Addy Osmani](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/)
 
+* [The Ultimate Guide to Progressive Web Applications | Scotch](https://scotch.io/tutorials/the-ultimate-guide-to-progressive-web-applications) - 2017/06/13
+
 --
 
 * [[GitHub] Fooidge / PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
