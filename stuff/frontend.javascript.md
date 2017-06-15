@@ -1108,6 +1108,8 @@
 
 * [[GitHub] pinterest / bonsai](https://github.com/pinterest/bonsai) - is a JavaScript code analyzer that helps speed up your website by focusing on module size and the cumulative size of all downstream dependencies.
 
+  * [Introducing Bonsai: an open source Webpack analyzer | Pinterest Engineering - Medium](https://medium.com/@Pinterest_Engineering/introducing-bonsai-an-open-source-webpack-analyzer-6bdfe22f8984) - 2017/06/02
+
 * [[GitHub] th0r / webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
 --
