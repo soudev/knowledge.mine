@@ -268,6 +268,8 @@
 
 * [Our Guide To Learning Vue | CSS-Tricks](https://css-tricks.com/guides/vue/)
 
+  * [Using Mixins in Vue.js | CSS-Tricks](https://css-tricks.com/using-mixins-vue-js/) - 2017/06/14
+
   * [Using Filters in Vue.js | CSS-Tricks](https://css-tricks.com/using-filters-vue-js/) - 2017/06/03
 
 * [The Power of Custom Directives in Vue | CSS-Tricks](https://css-tricks.com/power-custom-directives-vue/) - 2017/04/20
