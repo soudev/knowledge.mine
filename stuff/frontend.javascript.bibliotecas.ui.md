@@ -362,6 +362,10 @@
 
 * [Começando com React.js | jscasts](http://jscasts.teachable.com/courses/comecando-com-react-js) - O tutorial que você queria, mostrando de forma simplificada suas principais características e vantagens
 
+* [Como começar a sua aplicação React em poucos minutos | Code Prestige - Medium](https://medium.com/code-prestige/configurando-aplica%C3%A7%C3%B5es-react-em-2-minutos-894025cbef82) - 2016/08/04
+
+  * [[GitHub] facebookincubator / create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+
 * [React: do básico ao avançado - Parte 1 | BrasilJS](https://braziljs.org/blog/react-do-basico-ao-avancado-parte-1/) - 2016/10/17
 
 * [[GitBook] React com ES6: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/)
