@@ -593,4 +593,6 @@
 
 * [FoxBit](https://foxbit.com.br/) - Compre e venda Bitcoins no Brasil
 
+* [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) - Negocie na maior empresa de moedas  digitais do Brasil e da América Latina!
+
 * [BitCambio](https://bitcambio.com.br/) - oferece a facilidade de comprar e vender a moeda virtual bitcoin de forma direta e segura no Brasil
