@@ -1106,6 +1106,8 @@
 
 * [webpack visualizer](https://chrisbateman.github.io/webpack-visualizer/)
 
+* [[GitHub] pinterest / bonsai](https://github.com/pinterest/bonsai) - is a JavaScript code analyzer that helps speed up your website by focusing on module size and the cumulative size of all downstream dependencies.
+
 * [[GitHub] th0r / webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
 --
