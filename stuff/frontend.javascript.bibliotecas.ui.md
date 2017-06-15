@@ -197,6 +197,8 @@
 
   * [Getting started with PreactJS — A Step By Step Guide | Codeinfuse](https://blog.codeinfuse.com/getting-started-with-preactjs-a-step-by-step-guide-f3197f871753) - (2017/06/08) PreactJS is a fast 3kB alternative to React with the same ES6 API
 
+  * [Up and running with Preact - Course by @shaneosbourne | @eggheadio](https://egghead.io/courses/up-and-running-with-preact)
+
 
 ### PDF Viewer
 
