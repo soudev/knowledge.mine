@@ -591,6 +591,10 @@
 
 --
 
+* [rippex](https://rippex.net/) - Join the World's First Decentralized Exchange (has support to BRL)
+
+* [Walltime](https://walltime.info) - Digital Assets Exchange. Infraestrutura sólida para a economia digital.
+
 * [FoxBit](https://foxbit.com.br/) - Compre e venda Bitcoins no Brasil
 
 * [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) - Negocie na maior empresa de moedas  digitais do Brasil e da América Latina!
