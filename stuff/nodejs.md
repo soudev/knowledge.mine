@@ -1526,6 +1526,8 @@
 
 * [[GitHub] Leonidas-from-XIV / node-xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter
 
+* [[GitHub] tuananh / camaro](https://github.com/tuananh/camaro) - is an utility to transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.
+
 * [Convert CSV to JSON in JavaScript | TechSlides](http://techslides.com/convert-csv-to-json-in-javascript)
 
 * [Parsing CSV Files With NodeJS | James Carr](http://blog.james-carr.org/2010/07/07/parsing-csv-files-with-nodejs/)
