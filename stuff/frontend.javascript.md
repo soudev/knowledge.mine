@@ -1071,7 +1071,14 @@
 
   * [[GitHub] rollup / rollup](https://github.com/rollup/rollup) - Next-generation ES6 module bundler
 
+
 * [[GitHub] gardenhq / o](https://github.com/gardenhq/o) - An in-browser loader/bundler for javascript. No Node required. No CLI required. Use with @gardenhq/willow for a flexible, 'unobtrusive' dependency injection builder to decouple your codebase. Grow a tree don't shake it.
+
+* [fuse-box](http://fuse-box.org/) - is a bundler/module loader with super powers - Blazing speed, simplicity and ultimate flexibility.
+
+  * [[GitHub] fuse-box / fuse-box](https://github.com/fuse-box/fuse-box) - A blazing fast js bundler/loader with a comprehensive API
+
+  * [Introduction to FuseBox — a Faster, Simpler Webpack Alternative | SitePoint](https://www.sitepoint.com/fusebox-faster-webpack-alternative/) - 2017/06/13
 
 
 #### Webpack
