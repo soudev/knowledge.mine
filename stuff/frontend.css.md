@@ -3,14 +3,16 @@
 <!-- toc -->
 
 * [CSS](#css)
+  * [Font](#font)
+    * [Font Size and Units](#font-size-and-units)
   * [Flexbox](#flexbox)
-  * [Font Size and Units](#font-size-and-units)
   * [Media Query](#media-query)
   * [Tools](#tools)
     * [Online Tools](#online-tools)
     * [Desktop Tools](#desktop-tools)
 
 <!-- toc stop -->
+
 
 ## CSS
 
@@ -226,33 +228,18 @@
 
 * [The Simpsons in CSS | pattle - GitHub](https://pattle.github.io/simpsons-in-css/)
 
+### Font
 
-### Flexbox
+* @font-face rule
 
-* [[GitHub] afonsopacifer / awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - A curated list of CSS Flexible Box Layout Module or only Flexbox.
+  * [CSS3 @font-face Rule | w3schools](https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp)
 
-* [[GitHub] cjcenizal / flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components
+  * [@font-face - CSS | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
 
-* [How Flexbox works — explained with big, colorful, animated gifs | freeCodeCamp](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35) - 2017/01/31
-
-* [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-* [Getting Dicey With Flexbox | David Walsh Blog](http://davidwalsh.name/flexbox-dice) - In this article, I'll walk you through the basics of flexbox by showing you how to build the faces of a die.
-
-* [Free Flexbox Starter Course | Unraveling Flexbox](https://unravelingflexbox.com/subscribe) - With Unraveling Flexbox, you'll learn how to unlock the full potential of modern CSS to create responsive application layouts in hours, not days.
-
-* [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
-
-* [Almost complete guide to flexbox (without flexbox) | Kenan Yusuf](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
-
-* [[YouTube] Guía Completa de Flexbox desde 0 - FalconMasters](https://www.youtube.com/watch?v=F-KCncXMPk0) - (2015/06/23) Aprende como crear sitios web flexibles y (responsive) adaptables a dispositivos móviles mediante flexbox CSS3.
-
---
-
-* [[GitHub] philipwalton / flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+  * [Using @font-face | CSS-Tricks](https://css-tricks.com/snippets/css/using-font-face/)
 
 
-### Font Size and Units
+#### Font Size and Units
 
 * [Qual unidade utilizar - Pixel, EM ou REM | Tableless](http://tableless.com.br/unidade-pixels-em-rem/) - 2012//09/03
 
@@ -281,6 +268,31 @@ rem - context is always based on root context (html or body)
 * [Mixins for Rem Font Sizing | CSS-Tricks](https://css-tricks.com/snippets/css/less-mixin-for-rem-font-sizing/)
 
 * [Building Resizeable Components with Relative CSS Units | CSS-Tricks](https://css-tricks.com/building-resizeable-components-relative-css-units/) - 2016/09/09
+
+
+### Flexbox
+
+* [[GitHub] afonsopacifer / awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - A curated list of CSS Flexible Box Layout Module or only Flexbox.
+
+* [[GitHub] cjcenizal / flexbox-patterns](https://github.com/cjcenizal/flexbox-patterns) - Patterns for using flexbox CSS to build awesome UI components
+
+* [How Flexbox works — explained with big, colorful, animated gifs | freeCodeCamp](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35) - 2017/01/31
+
+* [A Complete Guide to Flexbox | CSS-Tricks](http://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+* [Getting Dicey With Flexbox | David Walsh Blog](http://davidwalsh.name/flexbox-dice) - In this article, I'll walk you through the basics of flexbox by showing you how to build the faces of a die.
+
+* [Free Flexbox Starter Course | Unraveling Flexbox](https://unravelingflexbox.com/subscribe) - With Unraveling Flexbox, you'll learn how to unlock the full potential of modern CSS to create responsive application layouts in hours, not days.
+
+* [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
+
+* [Almost complete guide to flexbox (without flexbox) | Kenan Yusuf](http://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
+
+* [[YouTube] Guía Completa de Flexbox desde 0 - FalconMasters](https://www.youtube.com/watch?v=F-KCncXMPk0) - (2015/06/23) Aprende como crear sitios web flexibles y (responsive) adaptables a dispositivos móviles mediante flexbox CSS3.
+
+--
+
+* [[GitHub] philipwalton / flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 
 
 ### Media Query
