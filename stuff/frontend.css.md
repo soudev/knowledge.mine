@@ -142,6 +142,8 @@
 
 --
 
+* [Handling Long and Unexpected Content in CSS | CSS-Tricks](https://css-tricks.com/handling-long-unexpected-content-css/) - 2017/06/16
+
 * overflow
 
   * [overflow | CSS-101](http://www.css-101.org/overflow/index.php)
