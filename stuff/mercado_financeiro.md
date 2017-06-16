@@ -468,6 +468,14 @@
 
 --
 
+* Satoshi Nakamoto is the name used by the unknown person or persons who designed bitcoin and created its original reference implementation. As a part of the implementation, he also devised the first blockchain database. In the process he was the first to solve the double spending problem for digital currency. He was active in the development of bitcoin up until December 2010.
+
+* [Bitcoin Satoshi](http://www.btcsatoshi.com/)
+
+  * A Satoshi is the smallest fraction of a Bitcoin that can currently be sent: 0.00000001 BTC, that is, a hundredth of a millionth BTC.
+
+--
+
 * [[GitHub] felipemx / CryptoKnowledge](https://github.com/felipemx/CryptoKnowledge) - A simple project to store useful links for whose want to get more information about Cryptocurrencies.
 
 --
