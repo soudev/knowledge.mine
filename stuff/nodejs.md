@@ -2110,6 +2110,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [[GitHub] siddharthkp / cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which of your dependencies are slowing you down
+
 * [[GitHub] nolanlawson / slow-deps](https://github.com/nolanlawson/slow-deps) - Measure which dependencies in a project are slowest to npm install
 
 * [[GitHub] cmtt / depwalk](https://github.com/cmtt/depwalk) - Walk through and verify your bower and npm dependencies
