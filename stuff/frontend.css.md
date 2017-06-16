@@ -224,6 +224,8 @@
 
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
+* [Trendy CSS Text Shadows | MIXFONT](https://www.mixfont.com/shadows)
+
 * [CSS Box Shadow | CSS-Tricks](https://css-tricks.com/snippets/css/css-box-shadow/)
 
 * [Modos de Mesclagem em CSS | Tableless](http://tableless.com.br/modos-de-mesclagem-em-css/) - Neste artigo entenda como funcionam os modos de mesclagem e saiba como utilizar cada um deles através de simples parâmetros de CSS.
