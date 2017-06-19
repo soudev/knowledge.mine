@@ -6,6 +6,7 @@
   * [PDF Viewer](#pdf-viewer)
   * [JQuery](#jquery)
   * [Vue.js](#vuejs)
+  * [preact](#preact)
   * [React.js](#reactjs)
     * [React Native](#react-native)
   * [Template Engine](#template-engine)
@@ -189,18 +190,6 @@
 
   * [[GitHub] Microsoft / monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
 
---
-
-* [[GitHub] developit / preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
-
-  * [[GitHub] developit / preact-cli](https://github.com/developit/preact-cli) - Your next Preact PWA starts in 30 seconds.
-
-  * [[GitHub] synacor / wiretie](https://github.com/synacor/wiretie) - A Higher Order Component for Preact that resolves (async) values from a model and passes them down as props.
-
-  * [Getting started with PreactJS — A Step By Step Guide | Codeinfuse](https://blog.codeinfuse.com/getting-started-with-preactjs-a-step-by-step-guide-f3197f871753) - (2017/06/08) PreactJS is a fast 3kB alternative to React with the same ES6 API
-
-  * [Up and running with Preact - Course by @shaneosbourne | @eggheadio](https://egghead.io/courses/up-and-running-with-preact)
-
 
 ### PDF Viewer
 
@@ -322,6 +311,24 @@
 
 * [[GitHub] hilongjw / vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) - Mastering Large Lists with the vue-recyclerview
 
+
+### preact
+
+* [[GitHub] developit / preact](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+
+* [[GitHub] developit / preact-cli](https://github.com/developit/preact-cli) - Your next Preact PWA starts in 30 seconds.
+
+--
+
+* [Getting started with PreactJS — A Step By Step Guide | Codeinfuse](https://blog.codeinfuse.com/getting-started-with-preactjs-a-step-by-step-guide-f3197f871753) - (2017/06/08) PreactJS is a fast 3kB alternative to React with the same ES6 API
+
+* [Up and running with Preact - Course by @shaneosbourne | @eggheadio](https://egghead.io/courses/up-and-running-with-preact)
+
+--
+
+* [[GitHub] synacor / wiretie](https://github.com/synacor/wiretie) - A Higher Order Component for Preact that resolves (async) values from a model and passes them down as props.
+
+* [[GitHub] synacor / preact-i18n](https://github.com/synacor/preact-i18n) - Simple localization for Preact
 
 
 ### React.js
