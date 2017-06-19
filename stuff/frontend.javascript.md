@@ -713,11 +713,15 @@
 
 --
 
-* [[GitHub] Reactive-Extensions / RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
-
 * [[YouTube] Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
 
 * [[Gist]  staltz / introrx.md](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing
+
+* [[GitHub] Reactive-Extensions / RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
+
+  * [A semi quick guide to Reliable Stream Processing with RxJS | Hacker Noon](https://hackernoon.com/a-semi-quick-guide-to-reliable-stream-processing-with-rxjs-77cd8cb47f38) - 2017/06/15
+
+    * [[GitHub] hendrikswan / rxsync](https://github.com/hendrikswan/rxsync) - A lightweight library that operates on rxjs to reliably execute a stream of promises
 
 --
 
