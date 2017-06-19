@@ -1577,6 +1577,10 @@
 
 * [[GitHub] rodrigogs / kairos](https://github.com/rodrigogs/kairos) - A non date-based time calculator
 
+* [js-joda](https://js-joda.github.io/js-joda/) - Immutable date and time library for javascript
+
+  * [[GitHub] js-joda / js-joda](https://github.com/js-joda/js-joda)
+
 * [Moment.js](http://momentjs.com/) - A javascript date library for parsing, validating, manipulating, and formatting dates.
 
   * [Managing Dates and Times Using Moment.js | SitePoint](http://www.sitepoint.com/managing-dates-times-using-moment-js/) - 2014/04/29
