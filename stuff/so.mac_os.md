@@ -38,6 +38,10 @@
 
 * [iStats Menu | bjango](https://bjango.com/mac/istatmenus/) - an advance mac system monitor for your menubar
 
+* [[GitHub] Chris911 / iStats](https://github.com/Chris911/iStats) - Ruby gem for your mac stats
+
+* [[GitHub] DanielStormApps / Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature from your Notification Center.
+
 * [[GitHub] gjiazhe / Up-Down](https://github.com/gjiazhe/Up-Down) - A menu bar widget for OS X that monitors upload and download speeds
 
 * [[GitHub] matryer / bitbar](https://github.com/matryer/bitbar) - Put the output from any script or program in your Mac OS X Menu Bar
