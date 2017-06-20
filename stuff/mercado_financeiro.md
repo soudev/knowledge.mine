@@ -26,6 +26,7 @@
   * [TED Talks](#ted-talks)
   * [Wallets](#wallets)
   * [Exchanges](#exchanges)
+  * [Mining](#mining)
 
 <!-- toc stop -->
 
@@ -616,3 +617,10 @@
 * [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) - Negocie na maior empresa de moedas  digitais do Brasil e da América Latina!
 
 * [BitCambio](https://bitcambio.com.br/) - oferece a facilidade de comprar e vender a moeda virtual bitcoin de forma direta e segura no Brasil
+
+
+### Mining
+
+* [[YouTube] Bitcoin Mining Explained](https://www.youtube.com/watch?v=iyq4od8MBoE) - 2016/12/05
+
+* [[YouTube] A look inside America's largest Bitcoin mining operation](https://www.youtube.com/watch?v=ELA91d_mx80) - 2014/03/10
