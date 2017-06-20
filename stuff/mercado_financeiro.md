@@ -504,6 +504,8 @@
 
 --
 
+* [[YouTube] Blockchain Demystified](https://www.youtube.com/watch?v=LdOcXXB48fI) - 2016/11/02
+
 * [[YouTube] Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8) - 2016/11/05
 
   * [[GitHub] anders94 / blockchain-demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
