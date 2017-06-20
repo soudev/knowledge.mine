@@ -176,3 +176,23 @@
 * [[YouTube] Bitcoin Mining Explained](https://www.youtube.com/watch?v=iyq4od8MBoE) - 2016/12/05
 
 * [[YouTube] A look inside America's largest Bitcoin mining operation](https://www.youtube.com/watch?v=ELA91d_mx80) - 2014/03/10
+
+--
+
+* [Beginner's Guide to Mining Bitcoins | 99bitcoins](https://99bitcoins.com/beginners-guide-to-mining/)
+
+* [[YouTube] How to start Bitcoin mining for beginners (Super Easy With NiceHash Miner)](https://www.youtube.com/watch?v=lAW5fqkL-Fo) - 2017/06/06
+
+* Raspberry Pi Miner Project
+
+  * [YouTube] DIY Bitcoin Mining: Hardware [part 1](https://www.youtube.com/watch?v=fJSITD0sPVY) [part 2](https://www.youtube.com/watch?v=MH2i9pudQgk)
+
+## Mining Pool
+
+* [MinerGate](https://minergate.com/) - is a mining pool created by a group of cryptocoin enthusiasts
+
+* [NiceHash](https://www.nicehash.com/) - the most advanced crypto currency cloud mining, hash rental service and multipool
+
+* [Bitminter](https://bitminter.com/) - is a bitcoin mining pool that aims to make it easy for anyone to make bitcoins
+
+* [Slush Pool](https://slushpool.com/)
