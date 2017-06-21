@@ -59,5 +59,3 @@
 * [Crypto | Node.js API Doc](http://nodejs.org/api/crypto.html)
 
 * [[GitHub] dshaw / checksum](https://github.com/dshaw/checksum) - Checksum utility for node
-
-
