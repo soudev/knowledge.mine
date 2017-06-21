@@ -1,15 +1,19 @@
 # CryptoCurrencies
 
+
+
 <!-- toc -->
 
 * [Infos](#infos)
 * [TED Talks](#ted-talks)
 * [Wallets](#wallets)
+* [Quotes and Prices](#quotes-and-prices)
 * [Exchanges](#exchanges)
 * [Mining](#mining)
 * [Mining Pool](#mining-pool)
 
 <!-- toc stop -->
+
 
 
 ## Infos
@@ -31,10 +35,6 @@
 --
 
 * [[GitHub] felipemx / CryptoKnowledge](https://github.com/felipemx/CryptoKnowledge) - A simple project to store useful links for whose want to get more information about Cryptocurrencies.
-
---
-
-* [WatchCoins](https://watchcoins.herokuapp.com) - Acompanhe valores em tempo real das principais traders de cryptocoins do Brasil.
 
 --
 
@@ -135,6 +135,15 @@
   * [[YouTube] How to make a Bitcoin Paper Wallet](https://www.youtube.com/watch?v=VTsHeiBhPIM) - 2016/08/15
 
   * [[YouTube] Bitcoin 101 Intro to Paper Wallets & Cold Storage Bitcoin Security & Fun with Sloppy Wallets](https://www.youtube.com/watch?v=4TmN4STr_ug) - 2016/02/16
+
+
+## Quotes and Prices
+
+* [WatchCoins](https://watchcoins.herokuapp.com) - Acompanhe valores em tempo real das principais traders de cryptocoins do Brasil.
+
+* [CoinCap](http://coincap.io/)
+
+* [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
 
 
 ## Exchanges
