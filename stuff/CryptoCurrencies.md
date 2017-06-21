@@ -188,6 +188,8 @@
 
 * [[YouTube] A look inside America's largest Bitcoin mining operation](https://www.youtube.com/watch?v=ELA91d_mx80) - 2014/03/10
 
+* [[YouTube] What Is BitCoin Mining? and Should You Mine?](https://www.youtube.com/watch?v=deXR9V1eUY0) - 2014/02/20
+
 --
 
 * [Beginner's Guide to Mining Bitcoins | 99bitcoins](https://99bitcoins.com/beginners-guide-to-mining/)
