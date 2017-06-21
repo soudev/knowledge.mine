@@ -200,6 +200,10 @@
 
   * [YouTube] DIY Bitcoin Mining: Hardware [part 1](https://www.youtube.com/watch?v=fJSITD0sPVY) [part 2](https://www.youtube.com/watch?v=MH2i9pudQgk)
 
+  * [[YouTube] Setting Up Bitcoin Fullnode on Raspberry Pi 2 - Bitcoin Core 0.12](https://www.youtube.com/watch?v=SGh3X2e8J2Y) - 2016/02/24
+
+    * [[GitHub] MrChrisJ / fullnode](https://github.com/MrChrisJ/fullnode) - How to setup a Bitcoin Fullnode on a Raspberry Pi 2
+
 --
 
 * [How To Build a 6 GPU Zcash Headless Mining Rig on Ubuntu 16.04 Using Claymore | Block Operations](https://blockoperations.com/build-6-gpu-zcash-headless-mining-rig-ubuntu-16-04-using-claymore/) - 2017/01/11
