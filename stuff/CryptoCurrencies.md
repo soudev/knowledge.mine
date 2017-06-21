@@ -1,7 +1,5 @@
 # CryptoCurrencies
 
-
-
 <!-- toc -->
 
 * [Infos](#infos)
@@ -13,7 +11,6 @@
 * [Mining Pool](#mining-pool)
 
 <!-- toc stop -->
-
 
 
 ## Infos
@@ -186,6 +183,8 @@
 ## Mining
 
 * [[YouTube] Bitcoin Mining Explained](https://www.youtube.com/watch?v=iyq4od8MBoE) - 2016/12/05
+
+* [[YouTube] How to BitCoin mine using fast ASIC mining hardware](https://www.youtube.com/watch?v=JqnbtFHlOsA) - 2014/12/20
 
 * [[YouTube] A look inside America's largest Bitcoin mining operation](https://www.youtube.com/watch?v=ELA91d_mx80) - 2014/03/10
 
