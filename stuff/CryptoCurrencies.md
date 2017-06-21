@@ -197,4 +197,6 @@
 
 * [Bitminter](https://bitminter.com/) - is a bitcoin mining pool that aims to make it easy for anyone to make bitcoins
 
+* [Genesis Mining](https://www.genesis-mining.com/) - Largest Cloud Bitcoin Mining Company
+
 * [Slush Pool](https://slushpool.com/)
