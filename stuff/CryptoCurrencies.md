@@ -154,6 +154,8 @@
 
   * [[YouTube] Criar carteira poloniex](https://www.youtube.com/watch?v=TmJw9Ubaq-o)
 
+  * [[YouTube] Poloniex - Análise de Bollinger](https://www.youtube.com/watch?v=OK-ndLSPz0s) - (2016/02/19) Ative a opção de Bollinger em seu gráfico, vai lhe auxiliar nos seus próximos trades
+
   * [[YouTube] Ethereum Poloniex - Melhor Carteira para Ethereum 2016](https://www.youtube.com/watch?v=f-vL8AXhM3k)
 
 * [ShapeShift](https://shapeshift.io) - Cryptocurrency Exchange. Simple Coin Conversion.
