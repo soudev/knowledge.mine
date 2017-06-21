@@ -3,12 +3,15 @@
 <!-- toc -->
 
 * [Infos](#infos)
-* [TED Talks](#ted-talks)
+* [Learn](#learn)
+  * [TED Talks](#ted-talks)
 * [Wallets](#wallets)
-* [Quotes and Prices](#quotes-and-prices)
-* [Exchanges](#exchanges)
+* [Prices Rankings](#prices-rankings)
+* [Buy and Sell](#buy-and-sell)
+  * [p2p](#p2p)
+  * [Exchanges](#exchanges)
 * [Mining](#mining)
-* [Mining Pool](#mining-pool)
+  * [Mining Pool](#mining-pool)
 
 <!-- toc stop -->
 
@@ -17,9 +20,17 @@
 
 * [Bitcoin](https://bitcoin.org/pt_BR/) -  é uma rede de pagamento inovadora e um novo tipo de dinheiro.
 
+  * [[GitHub] bitcoin / bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
 * [Bitcoin.com](https://www.bitcoin.com/)
 
 * [We use bitcoins](https://www.weusecoins.com/)
+
+--
+
+* [Ethereum](https://www.ethereum.org/) - is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.
+
+  * [[GitHub] ethereum](https://github.com/ethereum/)
 
 --
 
@@ -33,7 +44,8 @@
 
 * [[GitHub] felipemx / CryptoKnowledge](https://github.com/felipemx/CryptoKnowledge) - A simple project to store useful links for whose want to get more information about Cryptocurrencies.
 
---
+
+## Learn
 
 * [Bitcoin: O guia básico definitivo para iniciantes da moeda virtual | Guia do Bitcoin](http://guiadobitcoin.com.br/bitcoin-o-guia-basico-definitivo-para-iniciantes-da-moeda-virtual/) - 2016/11/12
 
@@ -55,6 +67,10 @@
 
 --
 
+* [[YouTube] Os full nodes e o consenso no bitcoin](https://www.youtube.com/watch?v=BhNL3a1b_MA) - 2017/06/20
+
+--
+
 * [[YouTube] Blockchain Demystified](https://www.youtube.com/watch?v=LdOcXXB48fI) - 2016/11/02
 
 * [[YouTube] Blockchain 101 - A Visual Demo](https://www.youtube.com/watch?v=_160oMzblY8) - 2016/11/05
@@ -70,7 +86,7 @@
 * [[YouTube] Como Transformar Bitcoin em Dinheiro de Verdade!](https://www.youtube.com/watch?v=d9RyFqvbH6o)
 
 
-## TED Talks
+### TED Talks
 
 * [[YouTube] How I built a bitcoin empire | Marco Streng | TEDxTrinityCollegeDublin](https://www.youtube.com/watch?v=cVxi2CQcXZo) - 2017/05/19
 
@@ -134,7 +150,7 @@
   * [[YouTube] Bitcoin 101 Intro to Paper Wallets & Cold Storage Bitcoin Security & Fun with Sloppy Wallets](https://www.youtube.com/watch?v=4TmN4STr_ug) - 2016/02/16
 
 
-## Quotes and Prices
+## Prices Rankings
 
 * [WatchCoins](https://watchcoins.herokuapp.com) - Acompanhe valores em tempo real das principais traders de cryptocoins do Brasil.
 
@@ -143,7 +159,17 @@
 * [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
 
 
-## Exchanges
+## Buy and Sell
+
+* [Onde Comprar Bitcoin | Portal do Bitcoin](https://portaldobitcoin.com/onde-comprar-bitcoin/) - 2017/06/06
+
+
+### p2p
+
+* [LocalBitcoins](https://localbitcoins.com/)
+
+
+### Exchanges
 
 * [[YouTube] Como escolher uma exchange Bitcoin](https://www.youtube.com/watch?v=HdD2rW2ZU5Y)
 
@@ -209,7 +235,7 @@
 * [How To Build a 6 GPU Zcash Headless Mining Rig on Ubuntu 16.04 Using Claymore | Block Operations](https://blockoperations.com/build-6-gpu-zcash-headless-mining-rig-ubuntu-16-04-using-claymore/) - 2017/01/11
 
 
-## Mining Pool
+### Mining Pool
 
 * [MinerGate](https://minergate.com/) - is a mining pool created by a group of cryptocoin enthusiasts
 
