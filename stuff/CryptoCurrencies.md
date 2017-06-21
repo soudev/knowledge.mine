@@ -189,6 +189,11 @@
 
   * [YouTube] DIY Bitcoin Mining: Hardware [part 1](https://www.youtube.com/watch?v=fJSITD0sPVY) [part 2](https://www.youtube.com/watch?v=MH2i9pudQgk)
 
+--
+
+* [How To Build a 6 GPU Zcash Headless Mining Rig on Ubuntu 16.04 Using Claymore | Block Operations](https://blockoperations.com/build-6-gpu-zcash-headless-mining-rig-ubuntu-16-04-using-claymore/) - 2017/01/11
+
+
 ## Mining Pool
 
 * [MinerGate](https://minergate.com/) - is a mining pool created by a group of cryptocoin enthusiasts
