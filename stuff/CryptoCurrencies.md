@@ -170,6 +170,8 @@
 
 * [Paxful](https://paxful.com/) - Buy bitcoin instantly, sell bitcoin, spend and accept bitcoin
 
+  * [[YouTube] Buying/Selling Bitcoin with Paxful](https://www.youtube.com/watch?v=N4R_3-kN3sg) - 2017/01/16
+
 
 ### Exchanges
 
