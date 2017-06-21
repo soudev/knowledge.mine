@@ -191,6 +191,8 @@
 
   * [[YouTube] Ethereum Poloniex - Melhor Carteira para Ethereum 2016](https://www.youtube.com/watch?v=f-vL8AXhM3k)
 
+* [Paxful](https://paxful.com/) - Buy bitcoin instantly, sell bitcoin, spend and accept bitcoin
+
 * [ShapeShift](https://shapeshift.io) - Cryptocurrency Exchange. Simple Coin Conversion.
 
 --
