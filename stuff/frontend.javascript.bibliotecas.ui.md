@@ -487,6 +487,16 @@
 
 --
 
+* Using RxJS with React.js: – Fahad Ibnay Heylaal – Medium
+
+  * [Part I — Introduction](https://medium.com/@fahad19/using-rxjs-with-react-js-part-i-introduction-4d027ef55aa6) - 2017/03/19
+
+  * [Part 2— Streaming props to Component](https://medium.com/@fahad19/using-rxjs-with-react-js-part-2-streaming-props-to-component-c7792bc1f40f) - 2017/03/19
+
+  * [Part 3 — Dispatching events from Component](https://medium.com/@fahad19/using-rxjs-with-react-js-part-3-dispatching-events-from-component-1808d383cbf0) - 2017/03/22
+
+--
+
 * [Flux](https://facebook.github.io/flux/)
 
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
