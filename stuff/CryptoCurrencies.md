@@ -7,6 +7,7 @@
 * [Wallets](#wallets)
 * [Exchanges](#exchanges)
 * [Mining](#mining)
+* [Mining Pool](#mining-pool)
 
 <!-- toc stop -->
 
