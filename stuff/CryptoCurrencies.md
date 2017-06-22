@@ -183,8 +183,6 @@
 
 --
 
-* [CryptoCurrency Market Capitalizations](https://coinmarketcap.com/)
-
 * [Biscoint](https://biscoint.io/) - compare and find realtime the best effective prices exchanges
 
 --
@@ -215,6 +213,8 @@
 * [Mercado Bitcoin](https://www.mercadobitcoin.com.br/) - Negocie na maior empresa de moedas  digitais do Brasil e da América Latina!
 
 * [BitCambio](https://bitcambio.com.br/) - oferece a facilidade de comprar e vender a moeda virtual bitcoin de forma direta e segura no Brasil
+
+* [CoinBR](https://coinbr.net/) - Somos uma plataforma completa de bitcoin e outras moedas digitais, as mais moderna tecnologia em serviços financeiros.
 
 
 ## Mining
