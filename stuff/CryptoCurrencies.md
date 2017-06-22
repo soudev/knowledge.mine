@@ -187,6 +187,8 @@
 
 --
 
+* [ShapeShift](https://shapeshift.io) - Cryptocurrency Exchange. Simple Coin Conversion.
+
 * [Bittrex.com](https://bittrex.com/) - Bittrex, The Next Generation Digital Currency Exchange
 
 * [poloniex](https://www.poloniex.com/) - Bitcoin/Digital Asset Exchange
@@ -197,7 +199,8 @@
 
   * [[YouTube] Ethereum Poloniex - Melhor Carteira para Ethereum 2016](https://www.youtube.com/watch?v=f-vL8AXhM3k)
 
-* [ShapeShift](https://shapeshift.io) - Cryptocurrency Exchange. Simple Coin Conversion.
+* [Bitfinex](https://www.bitfinex.com/) - is a full-featured spot trading platform for the major cryptocurrencies such as Bitcoin, Ethereum, Ethereum Classic, Zcash, Monero, Litecoin, Dash, Iota, and Ripple. The platform offers leveraged margin trading through our peer-to-peer funding market.
+
 
 --
 
