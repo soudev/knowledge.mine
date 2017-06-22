@@ -1191,6 +1191,8 @@
 
 --
 
+* [[GitHub] geowarin / friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) - Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them to provide a better Developer Experience
+
 * [[GitHub] NekR / offline-plugin](https://github.com/NekR/offline-plugin) - Offline plugin (ServiceWorker, AppCache) for webpack
 
 * [[GitHub] gdborton / webpack-parallel-uglify-plugin](https://github.com/gdborton/webpack-parallel-uglify-plugin) - A faster uglifyjs plugin
