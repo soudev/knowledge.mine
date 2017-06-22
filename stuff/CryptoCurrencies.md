@@ -167,6 +167,8 @@
 
 * [Onde Comprar Bitcoin | Portal do Bitcoin](https://portaldobitcoin.com/onde-comprar-bitcoin/) - 2017/06/06
 
+* [Pague Com Bitcoin](https://paguecombitcoin.com/) - Pagar boletos e recarregar celular com Bitcoin nunca foi tão fácil
+
 
 ### p2p
 
