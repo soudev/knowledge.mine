@@ -25,6 +25,8 @@
 
 * [ConEmu - Handy Windows Terminal](https://conemu.github.io/) - ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
 
+* [Learn About Bash on Windows Subsystem For Linux - Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/learn-about-bash-on-windows-subsystem-for-linux/)
+
 
 ## Jogos
 
