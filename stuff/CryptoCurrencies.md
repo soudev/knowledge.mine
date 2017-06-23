@@ -12,6 +12,7 @@
   * [Exchanges](#exchanges)
 * [Mining](#mining)
   * [Mining Pool](#mining-pool)
+* [Tips](#tips)
 
 <!-- toc stop -->
 
@@ -259,3 +260,16 @@
 * [Genesis Mining](https://www.genesis-mining.com/) - Largest Cloud Bitcoin Mining Company
 
 * [Slush Pool](https://slushpool.com/)
+
+
+## Tips
+
+* TwoTon Hasher
+
+  * [[YouTube] Two-Ton Mining Rig Tour](https://www.youtube.com/watch?v=4a2b96d2gxw) - 2017/06/17
+
+  * [[YouTube] How I remote manage my mining rigs](https://www.youtube.com/watch?v=d2UYiJmsTKs) - 2017/06/13
+
+    * [Remote Desktop Manager](https://remotedesktopmanager.com/Home/Download)
+
+  * [[YouTube] How to Keep Your Mining Rigs cool in the Summer](https://www.youtube.com/watch?v=E-_9F8R_PFU) - 2017/06/11
