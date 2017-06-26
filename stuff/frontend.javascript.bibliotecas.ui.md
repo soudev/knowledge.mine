@@ -311,6 +311,8 @@
 
 * [[GitHub] hilongjw / vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) - Mastering Large Lists with the vue-recyclerview
 
+* [[GitHub] ilyagru / Space-Snake](https://github.com/ilyagru/Space-Snake) - A Desktop game built with Electron and Vue.js
+
 
 ### preact
 
