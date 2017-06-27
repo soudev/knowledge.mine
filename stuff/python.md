@@ -102,6 +102,10 @@
 
 * [[GitHub] nvbn / thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
+--
+
+* [[GitHub] wolever / wayslack](https://github.com/wolever/wayslack) - The Wayslack Machine: incrementally archive Slack messages and files using Slack's team export format
+
 
 ## Frameworks
 
