@@ -703,6 +703,10 @@
 
 * [[GitHub] mattdesl / promise-cookbook](https://github.com/mattdesl/promise-cookbook) - a brief introduction to using Promises in JavaScript
 
+* [Javascript Promises Explained | theDevNotebook](http://www.thedevnotebook.com/2017/02/javascript-promises.html)
+
+* [JavaScript Promises Explained By Gambling At A Casino | freeCodeCamp](https://medium.freecodecamp.org/javascript-promises-explained-by-gambling-at-a-casino-28ad4c5b2573) - 2016/05/26
+
 --
 
 * [[GitHub] kriskowal / q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript
