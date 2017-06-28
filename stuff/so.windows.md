@@ -1,5 +1,9 @@
 # Windows
 
+* [[GitHub] felixrieseberg / windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) - Turning Windows into an environment ready for modern development
+
+--
+
 * [[Git] igorcosta / converter_images.bat](https://gist.github.com/igorcosta/008173b435e0309d4773) - Convert Images from your Camera SD card into web size pictures for Windows Users
 
 --
