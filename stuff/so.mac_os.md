@@ -271,6 +271,8 @@
 
 * [The Bash Guide](http://guide.bash.academy/) - A complete guide for newcomers and advanced users to correct usage and deep understanding of the bash shell language.
 
+* [[GitHub] alexanderepstein / Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+
 
 ## Desenvolvimento
 
