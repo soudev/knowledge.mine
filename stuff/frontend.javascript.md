@@ -68,6 +68,8 @@
 
 * [Happy 18th Birthday JavaScript! | Resin.io](http://resin.io/happy-18th-birthday-javascript/) -  A look at an unlikely past and bright future
 
+* [[GitHub] dexteryy / spellbook-of-modern-webdev](https://github.com/dexteryy/spellbook-of-modern-webdev) - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development
+
 * [[GitHub] coodict / javascript-in-one-pic](https://github.com/coodict/javascript-in-one-pic) - Learn javascript in one picture
 
 * [[YouTube] O fantástico mundo do JavaScript - Jean Carlo Emer](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
