@@ -1147,6 +1147,8 @@
 
 --
 
+* [Unambiguous Webpack config with Typescript | webpack – Medium](https://medium.com/webpack/unambiguous-webpack-config-with-typescript-8519def2cac7) - 2017/06/18
+
 * [Advanced Webpack | SurviveJS](https://presentations.survivejs.com/advanced-webpack/)
 
 * [Migrating a legacy frontend build system to Webpack | OICR Softeng Blog](http://softeng.oicr.on.ca/chang_wang/2017/01/03/Legacy-Build-Tool-Migration/) - 2017/01/03
