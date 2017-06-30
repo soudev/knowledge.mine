@@ -168,6 +168,8 @@
 
 * [[GitHub] xdamman / selection-sharer](https://github.com/xdamman/selection-sharer) - Medium like popover menu to share on Twitter or by email any text selected on the page
 
+* [[GitHub] MaxArt2501 / share-this](https://github.com/MaxArt2501/share-this) - Medium-like text selection sharing without dependencies 
+
 --
 
 * [[GitHub] jakiestfu / Medium.js](https://github.com/jakiestfu/Medium.js) - A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor).
