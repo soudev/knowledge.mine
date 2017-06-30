@@ -74,6 +74,8 @@
 
 * [FillText](http://www.filltext.com/) - generates JSON datasets for testing or demonstration purposes
 
+* [Mockaroo](https://www.mockaroo.com/)  - Random Data Generator | CSV / JSON / SQL / Excel
+
 
 #### Intern
 
