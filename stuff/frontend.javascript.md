@@ -2405,6 +2405,8 @@
 
 * [What You Should Know About Numbers in ES6 JavaScript | Hacker Noon](https://hackernoon.com/what-you-should-know-about-numbers-in-es6-javascript-7370be6b3469) - 2017/02/06
 
+* [Let’s explore ES6 Generators | freeCodeCamp](https://medium.freecodecamp.org/lets-explore-es6-generators-5e58ed23b0f1) - 2017/06/21
+
 --
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
