@@ -2256,6 +2256,7 @@
 
 * [[GitHub] JonAbrams / elsa](https://github.com/JonAbrams/elsa) - A babel plugin for replacing object and array literals with immutable versions
 
+* [[GitHub] matthewp / babel-plugin-modules-web-compat](https://github.com/matthewp/babel-plugin-modules-web-compat) - A Babel plugin that makes modules web compatible
 
 
 ### ECMAScript 6
