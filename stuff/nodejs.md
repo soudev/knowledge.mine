@@ -1550,6 +1550,10 @@
 
 --
 
+* [Processing a large dataset in less than 100 lines of Node.js with async.queue | Node.js Collection - Medium](https://medium.com/the-node-js-collection/processing-a-large-dataset-in-less-than-100-lines-of-node-js-with-async-queue-9766a78fa088) - 2017/06/12
+
+--
+
 * [[GitHub] substack / node-resolve](https://github.com/substack/node-resolve) - Implements the node.js require.resolve() algorithm
 
 --
