@@ -147,6 +147,8 @@
 
 * [Angular 2 TypeScript Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
+* [Angular JavaScript Tutorial in VS Code | Visual Studio Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial) - Angular JavaScript tutorial showing IntelliSense, debugging, and code navigation support in the Visual Studio Code editor
+
 --
 
 * [The Ultimate Angular CLI Reference Guide | SitePoint](https://www.sitepoint.com/ultimate-angular-cli-reference/) - 2017/05/25
