@@ -2228,6 +2228,8 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [Getting Started with Node.js and MongoDB | NodeSource](https://nodesource.com/blog/getting-started-with-node-js-and-mongodb) - 2017/06/21
+
 * [Intro to MongoDB on Node.js | OpenShift by Red Hat](https://www.openshift.com/blogs/intro-to-mongodb-on-nodejs)
 
 * [Um pouco de Node.js e MongoDB na prática | Underground WebDev](http://udgwebdev.com/um-pouco-de-node-js-e-mongodb-na-pratica)
