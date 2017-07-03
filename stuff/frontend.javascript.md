@@ -2407,6 +2407,8 @@
 
 * [Let’s explore ES6 Generators | freeCodeCamp](https://medium.freecodecamp.org/lets-explore-es6-generators-5e58ed23b0f1) - 2017/06/21
 
+* [Introduction to Sets in JavaScript | Alligator.io](https://alligator.io/js/sets-introduction/)
+
 --
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
