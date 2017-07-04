@@ -2236,6 +2236,8 @@
 
 --
 
+* [[GitHub] babel / babylon](https://github.com/babel/babylon) - A JavaScript parser
+
 * [[GitHub] 6to5 / 6to5-sublime](https://github.com/6to5/6to5-sublime) - Syntax definitions for ES6 JavaScript with React JSX extensions
 
 * [[GitHub] voronianski / oceanic-next-theme](https://github.com/voronianski/oceanic-next-theme) - Sublime Text theme ready for ES6, optimized for 6to5-sublime package
