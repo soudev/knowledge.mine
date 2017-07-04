@@ -216,6 +216,8 @@
 
 * [[package] file-type-icons](https://atom.io/packages/file-type-icons) - Changes the icon for files in the Tree View and Tabs to reflect the file's type
 
+* [[package] autocomplete-module-import](https://atom.io/packages/autocomplete-module-import) - Search & install npm packages from import/require statements powered by Algolia
+
 --
 
 * [[package] graphviz-preview](https://atom.io/packages/graphviz-preview) - Graphviz Preview renders DOT language editor buffers into DOT graphs the same way Graphviz would.
