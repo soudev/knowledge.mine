@@ -11,6 +11,7 @@
     * [Protractor](#protractor)
     * [Karma](#karma)
     * [Testem](#testem)
+    * [Headless Chrome](#headless-chrome)
     * [PhantomJS](#phantomjs)
     * [SmilerJS](#smilerjs)
     * [Cobertura](#cobertura)
@@ -147,6 +148,13 @@
   * [[GitHub] joe-zim-javascript-blog / Jasmine-Testem-Boilerplate](https://github.com/joe-zim-javascript-blog/Jasmine-Testem-Boilerplate) - Boilerplate code for projects using Jasmine with Testem for unit testing
 
 * [Configurando um ambiente de teste unitário Jasmine com Testem | iMasters](http://imasters.com.br/front-end/javascript/configurando-um-ambiente-de-teste-unitario-jasmine-com-testem/)
+
+
+#### Headless Chrome
+
+* [Getting Started with Headless Chrome  | Google Developers](https://developers.google.com/web/updates/2017/04/headless-chrome) - 2017/06/23
+
+* [Automated testing with Headless Chrome | Google Developers](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - 2017/06/15
 
 
 #### PhantomJS
