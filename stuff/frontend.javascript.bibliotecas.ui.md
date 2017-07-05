@@ -168,7 +168,7 @@
 
 * [[GitHub] xdamman / selection-sharer](https://github.com/xdamman/selection-sharer) - Medium like popover menu to share on Twitter or by email any text selected on the page
 
-* [[GitHub] MaxArt2501 / share-this](https://github.com/MaxArt2501/share-this) - Medium-like text selection sharing without dependencies 
+* [[GitHub] MaxArt2501 / share-this](https://github.com/MaxArt2501/share-this) - Medium-like text selection sharing without dependencies
 
 --
 
@@ -191,6 +191,10 @@
 * [Monaco Editor](https://microsoft.github.io/monaco-editor/) - is the code editor that powers VS Code.
 
   * [[GitHub] Microsoft / monaco-editor](https://github.com/Microsoft/monaco-editor) - A browser based code editor
+
+--
+
+* [[GitHub] pakastin / redom](https://github.com/pakastin/redom) - Tiny (2 KB) turboboosted JavaScript library for creating user interfaces.
 
 
 ### PDF Viewer
