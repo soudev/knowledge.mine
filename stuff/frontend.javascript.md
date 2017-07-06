@@ -1733,6 +1733,10 @@
 
   * [[GitHub] typeorm / typeorm](https://github.com/typeorm/typeorm) - Data-Mapper ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in Node.js and Browser.
 
+  * [[GitHub] szokodiakos / typegoose](https://github.com/szokodiakos/typegoose) - Define Mongoose models using TypeScript classes.
+
+    * [Define Mongoose Models Using TypeScript Classes | Coding Sans](http://codingsans.com/blog/mongoose-models-using-typescript-classes) - 2017/06/12
+
 * [Blog | Wolk Software Engineering](http://blog.wolksoftware.com/)
 
   * Decorators & metadata reflection in TypeScript: From Novice to Expert
