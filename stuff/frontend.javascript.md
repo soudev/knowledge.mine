@@ -1169,6 +1169,8 @@
 
 * [webpack 3: Official Release!! – webpack – Medium](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) - 2017/06/19
 
+* [Getting started with Webpack 3 | Liquid Light](https://www.liquidlight.co.uk/blog/article/getting-started-with-webpack-3/) - 2017/06/26
+
 --
 
 * [[YouTube Playlist] Webpack 2 Tutorial](https://www.youtube.com/watch?v=JdGnYNtuEtE&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
