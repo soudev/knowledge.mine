@@ -1824,6 +1824,8 @@
 
 * [[GitHub] Unitech / pm2](https://github.com/Unitech/pm2) - CLI process manager for Node.js with native clusterization
 
+  * [Launching Production Node Apps With PM2 | DailyDrip](https://www.dailydrip.com/blog/launching-production-node-apps-with-pm2.html) - 2017/07/04
+
   * [PM2 – mantendo o node.js no ar | iMasters](http://imasters.com.br/front-end/javascript/pm2-mantendo-o-node-js-no-ar/)
 
   * [Goodbye node-forever, hello PM2 | devo.ps](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
