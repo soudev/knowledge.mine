@@ -263,6 +263,8 @@
 
 * [Clean up your Vue modules with ES6 Arrow Functions | dotdev](https://dotdev.co/clean-up-your-vue-modules-with-es6-arrow-functions-2ef65e348d41) - 2016/11/26
 
+* [7 Ways To Define A Component Template in Vue.js | Codementor](https://www.codementor.io/vuejsdevelopers/7-ways-to-define-a-component-template-in-vue-js-8wxxhmxo6) - 2017/07/03
+
 --
 
 * [Our Guide To Learning Vue | CSS-Tricks](https://css-tricks.com/guides/vue/)
