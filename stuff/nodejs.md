@@ -1966,6 +1966,12 @@ $ sudo chown -R `whoami` .npm
 
 --
 
+* [npx | npm](https://www.npmjs.com/package/npx)
+
+  * [Introducing npx: an npm package runner | Kat Marchán – Medium](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) - 2017/07/11
+
+--
+
 * [npm: how-to-npm](https://www.npmjs.com/package/how-to-npm) - A module to teach you how to module
 
 * [[GitHub] opreaadrian / packo](https://github.com/opreaadrian/packo) - node module (npm module) CLI generator
