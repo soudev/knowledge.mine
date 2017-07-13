@@ -767,6 +767,8 @@
 
 * [Random Number Generation in JavaScript | Bocoup](http://weblog.bocoup.com/random-numbers/)
 
+* [[GitHub] DavidAnson / math-random-polyfill](https://github.com/DavidAnson/math-random-polyfill) - A browser-based polyfill for JavaScript's Math.random() that tries to make it more random
+
 * [Prime Numbers, Factorial, and Fibonacci Series with JavaScript Array](http://ariya.ofilabs.com/2013/07/prime-numbers-factorial-and-fibonacci-series-with-javascript-array.html)
 
 --
