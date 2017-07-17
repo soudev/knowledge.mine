@@ -41,8 +41,10 @@
   * [Single Page Application](#single-page-application)
   * [Frameworks](#frameworks)
   * [Babel](#babel)
-  * [ECMAScript 6](#ecmascript-6)
-  * [ECMAScript 7](#ecmascript-7)
+  * [ECMAScript](#ecmascript)
+    * [ECMAScript 6](#ecmascript-6)
+    * [ECMAScript 7](#ecmascript-7)
+    * [ECMAScript 8](#ecmascript-8)
 
 <!-- toc stop -->
 
@@ -2270,8 +2272,9 @@
 
 * [[GitHub] matthewp / babel-plugin-modules-web-compat](https://github.com/matthewp/babel-plugin-modules-web-compat) - A Babel plugin that makes modules web compatible
 
+### ECMAScript
 
-### ECMAScript 6
+#### ECMAScript 6
 
 > ECMAScript 6 -> ECMAScript 2015
 
@@ -2462,7 +2465,7 @@
 * [[GitHub] barbarosa / ECMAScript6_architecture](https://github.com/barbarosa/ECMAScript6_architecture) - Workshop and example of architecture with testable, maintainable, decoupled components written in ES6
 
 
-### ECMAScript 7
+#### ECMAScript 7
 
 > ECMAScript 7 -> ECMAScript 2016
 
@@ -2481,3 +2484,12 @@
 * [The final feature set of ECMAScript 2016 (ES7) | 2ality](http://www.2ality.com/2016/01/ecmascript-2016.html) - 2016/01/30
 
 * [Exploring EcmaScript Decorators | Google Developers – Medium](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) - 2017/05/11
+
+
+#### ECMAScript 8
+
+> ECMAScript 8 -> ECMAScript 2017
+
+* [ES8 was Released and here are its Main New Features | @hackernoon](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66) - 2017/07/10
+
+* [EcmaScript 8 é lançado e essas são as principais novidades! | Felipe Orlando](https://felipeorlando.github.io/2017/07/17/es8-lancado-e-essas-sao-as-principais-novidades/) - 2017/07/17
