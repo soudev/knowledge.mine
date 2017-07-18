@@ -926,6 +926,23 @@
 * [[GitHub] slevithan / xregexp](https://github.com/slevithan/xregexp) - Extended JavaScript regular expressions
 
 
+* Entendendo de uma vez por todas Expressões Regulares | Training Center
+
+  * [Parte 1 - Introdução](https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-1-introdu%C3%A7%C3%A3o-dfe63e289dc3)
+
+  * [Parte 2 - Metacharacters](https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-3538d42870f3)
+
+  * [Parte 3 - Classes de Caractere](https://medium.com/trainingcenter/expressoes-regulares-parte-3-8fbd6b20a5f6)
+
+  * [Parte 4 - Quantifiers](https://medium.com/trainingcenter/expressoes-regulares-parte-4-92c41516e80c)
+
+  * [Parte 5 - Capturando Grupos](https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-5-5ffd39138f2)
+
+  * [Parte 6 - Âncoras](https://medium.com/trainingcenter/expressoes-regulares-parte-6-85804a357767)
+
+  * [Parte 7 - Regex no mundo JavaScript](https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-7-66be1ac1f72d)
+
+
 #### Expressões Regulares: Ferramentas online
 
 * [RegExr](http://regexr.com/) - Create & Test Regular Expressions
