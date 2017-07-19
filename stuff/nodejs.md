@@ -2723,6 +2723,8 @@ $ sudo chown -R `whoami` .npm
 
 * [List All REST Endpoints built using Express or Restify | The Jackal of Javascript](http://thejackalofjavascript.com/list-all-rest-endpoints/)
 
+* [Simple server side cache for Express.js with Node.js | Node.js Collection - Medium](https://medium.com/the-node-js-collection/simple-server-side-cache-for-express-js-with-node-js-45ff296ca0f0) - 2017/07/18
+
 --
 
 * [[GitHub] felixge / node-formidable](https://github.com/felixge/node-formidable) - A node.js module for parsing form data, especially file uploads
