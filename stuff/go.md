@@ -92,6 +92,12 @@
 
 * [[GitHub] caarlos0 / go-web-api-example](https://github.com/caarlos0/go-web-api-example)
 
+* [Hugo](https://gohugo.io/) - A Fast and Flexible Website Generator
+
+  * [[GitHub] gohugoio / hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
+
+  * [Migrando para o Hugo | Jaydson Gomes](https://jaydson.com/migrando-para-o-hugo/)
+
 
 ## Docker
 
