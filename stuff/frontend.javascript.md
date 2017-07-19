@@ -1126,6 +1126,8 @@
 
 * [Webpack: The Basics | Hacker Noon](https://hackernoon.com/webpack-the-basics-2712a7ad640b) - 2017/05/23
 
+* [The Core Concepts | webpack learning academy](https://webpack.academy/p/the-core-concepts)
+
 --
 
 * [Webpack — The Confusing Parts | Medium by @rajaraodv](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9) - 2016/04/10
