@@ -2510,3 +2510,5 @@
 * [ES8 was Released and here are its Main New Features | @hackernoon](https://hackernoon.com/es8-was-released-and-here-are-its-main-new-features-ee9c394adf66) - 2017/07/10
 
 * [EcmaScript 8 é lançado e essas são as principais novidades! | Felipe Orlando](https://felipeorlando.github.io/2017/07/17/es8-lancado-e-essas-sao-as-principais-novidades/) - 2017/07/17
+
+* [ES8 foi lançado em Junho, cadê as novidades? | BrazilJS](https://braziljs.org/blog/es8-foi-lancado-em-junho-cade-novidades/) - 2017/07/19
