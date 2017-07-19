@@ -88,6 +88,8 @@
 
 --
 
+* [Reducing CSS bundle size 70% by cutting the class names and using scope isolation | freeCodeCamp](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b) - 2017/07/12
+
 * [Seu código CSS pode ser mais limpo, flexível e reaproveitável | Caelum](http://blog.caelum.com.br/seu-codigo-css-pode-ser-mais-limpo-flexivel-e-reaproveitavel/)
 
 * [Repensando CSS Resets | Tableless](http://tableless.com.br/repensando-css-resets/) - Como melhorar seu CSS Reset
