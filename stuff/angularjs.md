@@ -330,6 +330,8 @@
 
 * [[GitHub] mgechev / angular-performance-checklist](https://github.com/mgechev/angular-performance-checklist) - Cheatsheet for developing lightning fast Angular applications.
 
+* [Lazy loading: code splitting NgModules with Webpack | @toddmotto](https://toddmotto.com/lazy-loading-angular-code-splitting-webpack) - 2017/07/17
+
 --
 
 * [[GitHub] maximegris / angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular 4 and Electron (Typescript + SASS + Hot Reload)
