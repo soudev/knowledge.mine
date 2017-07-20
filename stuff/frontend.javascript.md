@@ -2319,6 +2319,10 @@
 
 --
 
+* [[GitHub] addyosmani / es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
+
+--
+
 * [[GitHub] airbnb / javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide (ES6)
 
 * [[GitHub] ryanmcdermott / clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
