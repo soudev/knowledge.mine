@@ -219,6 +219,8 @@
 
 * [[YouTube] Zero to Hero with Node.js - Code Geek](https://www.youtube.com/watch?v=jzFdRTgveXY) - 2016/11/13
 
+* [[GitHub] azat-co / practicalnode](https://github.com/azat-co/practicalnode) - Practical Node.js, 1st and 2nd Editions [Apress]
+
 --
 
 * [You Don't Know Node: Quick Intro to Core Features | webapplog](http://webapplog.com/you-dont-know-node/)
