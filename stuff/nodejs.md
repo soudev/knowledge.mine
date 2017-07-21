@@ -1940,6 +1940,8 @@
 
 * [Writing Native Node.js Modules - Node.js at Scale | @RisingStack](https://blog.risingstack.com/writing-native-node-js-modules/) - (2016/11/28) This article explains how native Node.js modules work, and how you can use them to increase the performance of your application.
 
+* [Writing a Node.js module in TypeScript | The Practical Dev](https://dev.to/dkundel/writing-a-nodejs-module-in-typescript) - (2017/07/21) Learn how to write a module using TypeScript that can be consumed with both JavaScript and TypeScript in Node.js or the browser.
+
 
 ### NPM
 
