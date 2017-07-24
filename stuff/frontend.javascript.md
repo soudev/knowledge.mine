@@ -2477,6 +2477,8 @@
 
 * [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
 
+* [JavaScript Factory Functions with ES6+ | JavaScript Scene – Medium](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1) - 2017/07/20
+
 --
 
 * [[GitHub] metagrover / ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
