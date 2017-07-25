@@ -219,6 +219,9 @@
 
 * [[GitHub] JadenGeller / Helium](https://github.com/JadenGeller/Helium) - A floating browser window for OS X
 
+* [[GitHub] romankisil / eqMac2](https://github.com/romankisil/eqMac2) - System-wide Audio Equalizer for the Mac
+
+
 ### Media Center
 
 * [Plex](https://plex.tv/) - organizes your video, music, and photo collections and streams them to all of your screens.
