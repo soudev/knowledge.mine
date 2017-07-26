@@ -897,6 +897,8 @@
 
 --
 
+* [[GitHub] zeeshanu / learn-regex](https://github.com/zeeshanu/learn-regex) - Learn regex the easy way
+
 * [Regular Expressions in JavaScript | SitePoint](https://www.sitepoint.com/expressions-javascript/) - 2016/06/02
 
 * [JavaScript RegExp Object | w3schools.com](http://www.w3schools.com/jsref/jsref_obj_regexp.asp)
