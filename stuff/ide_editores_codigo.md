@@ -167,6 +167,8 @@
 
 * [Visual Studio Code – Apresentando o editor multiplataforma da Microsoft | iMasters](http://imasters.com.br/desenvolvimento/visual-studio-code-apresentando-o-editor-multiplataforma-da-microsoft/) - 2016/07/22
 
+* [Migrei para o VSCode e estou feliz! | Willian Justen](https://willianjusten.com.br/migrei-para-o-vscode-e-estou-feliz/) - (2017/07/27) Um pouco da minha experiência com esse editor que me fez aposentar o Sublime e plugins que uso.
+
 --
 
 * [[Github] Microsoft/vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
