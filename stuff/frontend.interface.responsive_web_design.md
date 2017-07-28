@@ -11,6 +11,8 @@
 
 ## Responsive Web Design
 
+* [Learn Responsive Design | Codeacademy](https://www.codecademy.com/learn/learn-responsive-design) - Level up your design skills, or prepare to move into a design career. Learn responsive design techniques, like relative sizing units and media queries, to create websites viewable on devices of all sizes.
+
 * [The Ultimate Responsive Web Design Beginners Resource List | Target Local](http://www.targetlocal.co.uk/responsive-web-design-resources/)
 
 * [8 Guidelines and 1 Rule for Responsive Images](http://blog.cloudfour.com/8-guidelines-and-1-rule-for-responsive-images/)
