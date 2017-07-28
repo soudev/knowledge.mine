@@ -31,6 +31,10 @@
 
 * [Ubuntu Linux como ambiente de desenvolvimento PHP | Fabio Vedovelli](http://www.vedovelli.com.br/desevolvimento-web/ubuntu-linux-como-ambiente-de-desenvolvimento-php)
 
+* [deepin](https://www.deepin.org/)
+
+  * [[GitHub] linux deepin](https://github.com/linuxdeepin)
+
 --
 
 * [GIMP como alternativa ao Photoshop | iMasters](http://imasters.com.br/design-ux/gimp-como-alternativa-ao-photoshop/)
