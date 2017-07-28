@@ -839,6 +839,8 @@
 
 * [Introduction to d3.js](http://ireneros.com/conf/nicar/introduction-to-d3.html)
 
+* [D3 in Depth](http://d3indepth.com/)
+
 --
 
 * [D3.js Gallery | Christophe Viau](http://christopheviau.com/d3list/gallery.html)
