@@ -1050,6 +1050,10 @@
 
 * [[GitHub] facebook / prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
 
+--
+
+* [[GitHub] siddharthkp / bundlesize](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check
+
 
 #### Compressão
 
