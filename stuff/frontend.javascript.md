@@ -749,6 +749,8 @@
 
 * [Reduce, mais um dia sem loops | CODECASTS](https://blog.codecasts.com.br/reduce-mais-um-dia-sem-loops-92682c5ffde8) - 2017/04/16
 
+* [A Quick Practical Example of JavaScript’s Reduce Function | codeburst](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4) - 2017/07/21
+
 --
 
 * [Fun with Javascript and function tracing](http://ebobby.org/2013/05/18/Fun-with-Javascript-and-function-tracing.html)
