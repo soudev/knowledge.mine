@@ -349,6 +349,8 @@
 
 * [Cambridge English Language Assessment | Brasil](http://www.cambridgeenglish.org/br/) - ajuda você a aprender inglês e a comprovar suas habilidades na língua inglesa.
 
+  * [Learn English | Cambridge](http://www.cambridgeenglish.org/learning-english)
+
   * [[YouTube] Cambridge English](https://www.youtube.com/CambridgeEnglishTV)
 
 * [engVid](http://www.engvid.com/) - free english video lessons
