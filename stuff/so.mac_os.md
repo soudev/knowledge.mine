@@ -283,6 +283,12 @@
 
 * [Make your app extensible with JavaScript Core | iOS App Development - Medium](https://medium.com/ios-os-x-development/make-your-app-extensible-with-javascript-core-7074061f2b05)
 
+
+* AWS
+
+  * [[GitHub] kwent / aws-launcher](https://github.com/kwent/aws-launcher) - AWS Launcher. Launch AWS Services from your macOS dock.
+
+
 * [Swift](https://developer.apple.com/swift/)
 
   * [Swift Blog | Apple Developer](https://developer.apple.com/swift/blog/)
@@ -292,6 +298,7 @@
   * [Swift Cheat Sheet and Quick Reference | Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
 
   * [[GitHub] fullstackio / FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at [fullstackedu.com](https://www.fullstackedu.com/)
+
 
 * Ruby
 
@@ -336,9 +343,11 @@
 
   * [[gist] Mac OS X uninstall script for packaged install of node.js](https://gist.github.com/nicerobot/2697848)
 
+
 * JavaScript
 
   * [[GitHub] dtinth / JXA-Cookbook](https://github.com/dtinth/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
+
 
 * SQL
 
