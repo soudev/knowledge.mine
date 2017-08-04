@@ -8,6 +8,12 @@
 
 --
 
+* Style Guide
+
+  * [[GitHub] bahlo / go-styleguide](https://github.com/bahlo/go-styleguide) - Opinionated Styleguide for the Go language
+
+--
+
 * [Go por Exemplo](http://goporexemplo.golangbr.org/)
 
   * [[GitHub] golangbr / goporexemplo](https://github.com/golangbr/goporexemplo)
