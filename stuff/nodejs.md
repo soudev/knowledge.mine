@@ -817,6 +817,8 @@
 
 * [[GitHub] UmbraEngineering / short-id](https://github.com/UmbraEngineering/short-id) - Short ID String Generation for Node.js
 
+* [[GitHub] ai / nanoid](https://github.com/ai/nanoid) - A tiny, secure URL-friendly unique string ID generator for JavaScript
+
 --
 
 * [[GitHub] punkave / sluggo](https://github.com/punkave/sluggo) - High-speed, unicode-aware, browser-friendly slug generator
