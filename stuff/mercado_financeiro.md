@@ -42,6 +42,10 @@
 
 --
 
+* [Orçamento inteligente | Gustavo Cerbasi](https://www.youtube.com/watch?v=y016b7NXlpQ) -2016/09/01
+
+--
+
 * [12 ideias para aumentar as chances de seu filho ter um futuro acima da média | Blog Geração de Valor](http://geracaodevalor.com/blog/12-ideias-para-aumentar-as-chances-de-seu-filho-ter-um-futuro-acima-da-media/)
 
 * [20 dicas para ensinar crianças e adolescentes a lidar com dinheiro | Economia - UOL](http://economia.uol.com.br/financas-pessoais/noticias/redacao/2014/08/30/17-dicas-para-ensinar-criancas-a-lidar-com-dinheiro.htm)
