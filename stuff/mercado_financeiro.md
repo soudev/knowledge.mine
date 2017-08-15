@@ -71,6 +71,12 @@
 
 --
 
+* [[YouTube] Enriqueça com o seu parceiro(a) - Casais Inteligentes Enriquecem Juntos | Seja Uma Pessoa Melhor](https://www.youtube.com/watch?v=4KH6IfRnvDA) - 2016/08/03
+
+* [[YouTube] 5 dicas para os casais enriquecerem juntos - com Gustavo Cerbasi | Organize sem Frescuras!](https://www.youtube.com/watch?v=gQD0uKtbEp4) - 2017/08/06
+
+--
+
 * [[YouTube] Pai Rico Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
 
 * [[YouTube] Pai Rico Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
