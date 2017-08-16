@@ -122,6 +122,8 @@
 
 * [[YouTube] Webinário Faça seu Dinheiro Render Mais | InfoMoney](https://www.youtube.com/watch?v=KXDeMNRtAGU) - 2015/05/19
 
+* [[YouTube] Passo a passo rumo ao 1º milhão | Gustavo Cerbasi](https://www.youtube.com/watch?v=xJe3egF_eH4) - 2017/08/16
+
 --
 
 * [[YouTube] Trovó Academy](https://www.youtube.com/channel/UC-k3bhmFH97pBfRXiPGRwVg)
