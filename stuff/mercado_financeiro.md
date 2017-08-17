@@ -204,6 +204,8 @@
 
 * [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
 
+* [[YouTube] Como investir com POUCO DINHEIRO e ter BOA rentabilidade! | EconoMirna](https://www.youtube.com/watch?v=q7ueT3nEIHA) - 2017/08/11
+
 * [[YouTube] Bastter: Poupando e Investindo Valores Pequenos](https://www.youtube.com/watch?v=4AXJd_V3JdU)
 
 * [[YouTube] Como investir seu dinheiro (REGRA DOS 100)](https://www.youtube.com/watch?v=nuz_1q2gD2Q)
