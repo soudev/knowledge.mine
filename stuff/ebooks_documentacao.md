@@ -535,6 +535,10 @@
 
 --
 
+* [[GitHub] dgadelha / Portugol-Webstudio](https://github.com/dgadelha/Portugol-Webstudio) - IDE online para o Portugol (UNIVALI)
+
+--
+
 * [Scratch](https://scratch.mit.edu/) - Create stories, games, and animations
 Share with others around the world
 
