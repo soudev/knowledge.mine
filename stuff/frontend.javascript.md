@@ -1164,6 +1164,10 @@
 
 --
 
+* [[GitHub] FormidableLabs / electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
+
+--
+
 * [[GitHub] ruanyf / webpack-demos](https://github.com/ruanyf/webpack-demos) - a collection of simple demos of Webpack
 
 * [[GitHub] topheman / webpack-babel-starter](https://github.com/topheman/webpack-babel-starter) - Webpack / Babel starter kit with full development & build workflow
