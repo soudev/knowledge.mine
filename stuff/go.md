@@ -18,6 +18,8 @@
 
   * [[GitHub] golangbr / goporexemplo](https://github.com/golangbr/goporexemplo)
 
+* [Go Language Programs, Tutorial, Articles and Examples](http://www.golangprograms.com/)
+
 * [Go Resources](http://www.golang-book.com/)
 
 * [GoDoc](https://godoc.org/) - hosts documentation for Go packages on Bitbucket, GitHub, Google Project Hosting and Launchpad.
