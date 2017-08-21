@@ -36,6 +36,8 @@
 
 * [A Beginner’s Guide to Progressive Web Apps & the Frontend Web | @hackernoon](https://hackernoon.com/a-beginners-guide-to-progressive-web-apps-the-frontend-web-424b6d697e35) - 2017/07/17
 
+* [What Progressive Web Apps can do for you | The Official Ionic Blog](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/) - 2017/08/21
+
 --
 
 * [[GitHub] Fooidge / PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
