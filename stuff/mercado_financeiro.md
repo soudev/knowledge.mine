@@ -145,6 +145,8 @@
 
 ### Curiosidades
 
+* [Como descobrir o seu SCORE? | Me Poupe!](http://mepoupenaweb.uol.com.br/dicas-de-riqueza/como-descobrir-o-seu-score/)
+
 * [[YouTube] Economia Compartilhada! - Sicoob Oficial](https://www.youtube.com/watch?v=jVXuJStW-sE) - 2016/11/28
 
 --
