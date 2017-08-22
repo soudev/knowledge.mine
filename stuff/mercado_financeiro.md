@@ -165,6 +165,16 @@
 
 * [O Warren Buffett brasileiro te ensina a enriquecer (e muito!) | GuiaInvest](http://blog.guiainvest.com.br/investimentos/warren-buffett-brasileiro/) - (2017/03/05) O Warren Buffett brasileiro é o exemplo da conquista da liberdade financeira. Mensalmente ele recebe milhões de reais das empresas que é acionista.
 
+--
+
+* [[YouTube] Alberto Dines entrevista Warren Buffett](https://www.youtube.com/watch?v=v_u348BjO3w)
+
+* [[YouTube] Entrevista histórica com Warren Buffett, o 2º homem mais rico no mundo | Patricia Meirelles](https://www.youtube.com/watch?v=UbdDxOdYD4A) - 2017/08/17
+
+* [O Investidor Inteligente – Benjamin Graham | e-Livros](https://www.e-livros.xyz/ver/o-investidor-inteligente-benjamin-graham)
+
+--
+
 * [[YouTube] Billionaire Mathematician - Numberphile](https://www.youtube.com/watch?v=gjVDqfUhXOY) - 2015/05/13
 
   * [[YouTube] James Simons (full length interview) - Numberphile](https://www.youtube.com/watch?v=QNznD9hMEh0) - 2015/05/13
