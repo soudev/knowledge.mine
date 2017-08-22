@@ -167,11 +167,17 @@
 
 --
 
-* [[YouTube] Alberto Dines entrevista Warren Buffett](https://www.youtube.com/watch?v=v_u348BjO3w)
+* [[YouTube] Alberto Dines entrevista Warren Buffett | Grande Pequena Imprensa](https://www.youtube.com/watch?v=v_u348BjO3w) - 2013/11/05
+
+* [[YouTube] Warren Buffett - HBO Documentary 2017 (HD) | Art of Money](https://www.youtube.com/watch?v=ridk6OvkgGM) - 2017/03/18
 
 * [[YouTube] Entrevista histórica com Warren Buffett, o 2º homem mais rico no mundo | Patricia Meirelles](https://www.youtube.com/watch?v=UbdDxOdYD4A) - 2017/08/17
 
+--
+
 * [O Investidor Inteligente – Benjamin Graham | e-Livros](https://www.e-livros.xyz/ver/o-investidor-inteligente-benjamin-graham)
+
+* [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
 
 --
 
