@@ -292,6 +292,14 @@
 
   * [[YouTube] O que meus livros ensinam: "Pais inteligentes enriquecem seus filhos"](https://www.youtube.com/watch?v=ps1RB0vQRl4) - 2017/06/29
 
+--
+
+* Cerbasi Responde
+
+  * [YouTube playlist](https://www.youtube.com/watch?v=SLJhnDFJ02o&list=PLPBLaFNYOx7saTlwu4d-CjsLBrTJhFBYK)
+
+  * [[YouTube] #CerbasiResponde 37 - Casamento é sinônimo de conta conjunta?](https://www.youtube.com/watch?v=RULZyGJ5SgU) - 2017/04/17
+
 
 #### Jorge Paulo Lemann
 
