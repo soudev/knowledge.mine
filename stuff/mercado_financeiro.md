@@ -6,6 +6,7 @@
 * [Informações gerais](#informações-gerais)
   * [Curiosidades](#curiosidades)
   * [Livros](#livros)
+    * [Os Axiomas de Zurique](#os-axiomas-de-zurique)
     * [O investidor inteligente](#o-investidor-inteligente)
     * [Pai Rico, Pai Pobre](#pai-rico-pai-pobre)
     * [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilônia)
@@ -187,6 +188,15 @@
 
 
 ### Livros
+
+#### Os Axiomas de Zurique
+
+> Max Gunther
+
+* [Axiomas De Zurique – Max Gunther | Le Livros](http://lelivros.stream/book/download-axiomas-de-zurique-max-gunther-em-epub-mobi-e-pdf/)
+
+* [[YouTube] Os Axiomas de Zurique (em áudio) - Max Gunther](https://www.youtube.com/watch?v=RbSdt64fXtE)
+
 
 #### O investidor inteligente
 
