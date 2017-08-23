@@ -161,11 +161,43 @@
 
 --
 
-* ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml)
+> Luiz Barsi Filho
+
+* ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml) - 2014/03
+
+* [[YouTube] Luiz Barsi e o Segredo do Sucesso em Investimentos](https://www.youtube.com/watch?v=97-2U6AQ_JQ) - 2016/06/25
+
+* [[YouTube] Como ganhar dinheiro investindo em Ações? Entrevista com o bilionário Luiz Barsi Filho](https://www.youtube.com/watch?v=ajQCet57hPI) - 2016/06/27
 
 * [O Warren Buffett brasileiro te ensina a enriquecer (e muito!) | GuiaInvest](http://blog.guiainvest.com.br/investimentos/warren-buffett-brasileiro/) - (2017/03/05) O Warren Buffett brasileiro é o exemplo da conquista da liberdade financeira. Mensalmente ele recebe milhões de reais das empresas que é acionista.
 
+* [[YouTube] Luiz Barsi explica como faz para avaliar o preço de uma ação](https://www.youtube.com/watch?v=D9kEchbF5pw) - 2017/03/23
+
+* [[YouTube] Barsi responde: O método de investimento proposto por Décio Bazin é válido nos dias atuais?](https://www.youtube.com/watch?v=zIqhbEH7XE0) - 2017/03/30
+
+* [[YouTube] Luiz Barsi explica porque não vende suas ações](https://www.youtube.com/watch?v=liUnLWuChBM) - 2017/04/04
+
+* [[YouTube] Barsi explica como a deve ser feita a diversificação da carteira](https://www.youtube.com/watch?v=b8eb6aSQ_n4) - 2017/04/06
+
+* [[YouTube] Luiz Barsi explica quais os principais indicadores utiliza em suas análises](https://www.youtube.com/watch?v=Gr9Iyvlo69k) - 2017/04/18
+
+* [[YouTube] Por que Luiz Barsi mantém suas ações em seu nome, na pessoa física?](https://www.youtube.com/watch?v=e_IckYTnb7o) - 2017/04/25
+
+* [[YouTube] Luiz Barsi explica como programar os gastos mensais com dividendos](https://www.youtube.com/watch?v=aPJOsAAJYvk) - 2017/05/01
+
+* [[YouTube] Luiz Barsi responde se o investidor deve diversificar seus investimentos](https://www.youtube.com/watch?v=lNc6zIaCnEE) - 2017/05/04
+
+* [[YouTube] Luiz Barsi explica como montar uma reserva financeira](https://www.youtube.com/watch?v=ERySPvuss_c) - 2017/05/09
+
+* [[YouTube] Luiz Barsi explica aonde aplica seu dinheiro enquanto espera por uma oportunidade em ações](https://www.youtube.com/watch?v=gU3XMwFjb6Q) - 2017/05/11
+
+* [[YouTube] Como Luiz Barsi faz para encontrar novas oportunidades?](https://www.youtube.com/watch?v=FjPTC-Nbz58) - 2017/05/23
+
+* [[YouTube] Luiz Barsi responde se deve comprar ações preferenciais, ordinárias ou units](https://www.youtube.com/watch?v=zkItUakdv-U) - 2017/06/06 (ações do tipo ON)
+
 --
+
+> Warren Buffett
 
 * [[YouTube] Alberto Dines entrevista Warren Buffett | Grande Pequena Imprensa](https://www.youtube.com/watch?v=v_u348BjO3w) - 2013/11/05
 
@@ -357,6 +389,10 @@
 * [[YouTube] XP Investimentos: Carteira de Dividendos](https://www.youtube.com/watch?v=exMZsSPeU44)
 
 * [[YouTube] Sua aposentadoria em ações: monte sua carteira de dividendos](https://www.youtube.com/watch?v=GYhFh4I9Q5c)
+
+* [[YouTube] Desmistificando os Dividendos | Bastter.com](https://www.youtube.com/watch?v=7-xpfEKjCak) - 2011/05/31
+
+* [[YouTube] Como selecionar ações que pagam dividendos? | Suno Research](https://www.youtube.com/watch?v=7A6T3N4PcYQ) - 2017/08/17
 
 
 #### Análise Técnica
