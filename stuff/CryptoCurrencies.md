@@ -124,6 +124,8 @@
 
 * [Best Bitcoin Wallet (23 Hardware & Software Wallets Reviewed) | 99bitcoins](https://99bitcoins.com/best-bitcoin-wallet-2015-bitcoin-wallets-comparison-review/)
 
+* [Qual é a melhor carteira para guardar meus Bitcoins? Cold Wallet vs Hot Wallet vs Exchange | Medium by @jaonoctus](https://medium.com/@jaonoctus/qual-%C3%A9-a-melhor-carteira-para-guardar-meus-bitcoins-cold-wallet-vs-hot-wallet-vs-exchange-a02d5217f9fd) - 2017/08/16
+
 --
 
 * [Wallet | Blockchain.info](https://blockchain.info/wallet/)
