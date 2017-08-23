@@ -254,13 +254,43 @@
 
 * [[YouTube playlist] Drops de Inteligência Financeira](https://www.youtube.com/watch?v=0xbeLPqWLS4&list=PLPBLaFNYOx7sYjwWY_NzRtlMfPs4dwG5i)
 
+* [[YouTube] Independência Financeira é mais do que poupar](https://www.youtube.com/watch?v=ITWInAUKUo4) - 2016/06/09
+
 * [[YouTube] Seja otimista e pense grande, sem medo](https://www.youtube.com/watch?v=0B7TOl-B3Gc) - 2016/07/12
 
 * [[YouTube] Receita para realizar sonhos](https://www.youtube.com/watch?v=KAZ44V7rb7g) - 2016/07/28
 
+* [[YouTube] Ser rico não é ter muito dinheiro](https://www.youtube.com/watch?v=h0fs_aI3lhI) - 2016/08/11
+
 * [[YouTube] Orçamento inteligente](https://www.youtube.com/watch?v=y016b7NXlpQ) - 2016/09/01
 
+* [[YouTube] O que você não pode cortar em tempos de crise](https://www.youtube.com/watch?v=6VxBfMz8G8c) - 2016/10/20
+
+* [[YouTube] O Custo Brasil que você não percebe](https://www.youtube.com/watch?v=fme9OnMud2k) - 2016/10/27
+
+* [[YouTube] Não sabemos comprar](https://www.youtube.com/watch?v=wYj1qLrSdUI) - 2016/11/25
+
+* [[YouTube] Vale a pena viver fora do Brasil?](https://www.youtube.com/watch?v=lDtaNhCjKx0) - 2017/01/19
+
+* [[YouTube] O 13º salário deveria ser extinto](https://www.youtube.com/watch?v=7fJeLZ2_IvI) - 2017/02/09
+
 * [[YouTube] Os ingredientes fundamentais para construir sua riqueza](https://www.youtube.com/watch?v=o4bWqzgBhVM) - 2017/03/30
+
+* [[YouTube] Como se adaptar a um mundo sem dinheiro](https://www.youtube.com/watch?v=ZqOGOh8qQi0) - 2017/05/04
+
+* [[YouTube] Como transformar a crise em oportunidade](https://www.youtube.com/watch?v=bq9dJEAXWuw) - 2017/05/11
+
+* [[YouTube] Prevenção Inteligente contra os imprevistos](https://www.youtube.com/watch?v=GXAup0tq_4s) - 2017/06/01
+
+--
+
+* resenhas de livros
+
+  * [[YouTube] O que meus livros ensinam: "Dinheiro - Os segredos de quem tem"](https://www.youtube.com/watch?v=2_vTJTNtq14) - 2017/04/27
+
+  * [[YouTube] O que meus livros ensinam: "Casais Inteligentes Enriquecem Juntos"](https://www.youtube.com/watch?v=QosGskol7ZA) - 2017/05/25
+
+  * [[YouTube] O que meus livros ensinam: "Pais inteligentes enriquecem seus filhos"](https://www.youtube.com/watch?v=ps1RB0vQRl4) - 2017/06/29
 
 
 #### Jorge Paulo Lemann
