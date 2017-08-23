@@ -5,6 +5,16 @@
 * [Educação Financeira](#educação-financeira)
 * [Informações gerais](#informações-gerais)
   * [Curiosidades](#curiosidades)
+  * [Livros](#livros)
+    * [O investidor inteligente](#o-investidor-inteligente)
+    * [Pai Rico, Pai Pobre](#pai-rico-pai-pobre)
+    * [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilônia)
+    * [Os segredos da mente milionária](#os-segredos-da-mente-milionária)
+  * [Pessoas](#pessoas)
+    * [Gustavo Cerbasi](#gustavo-cerbasi)
+    * [Jorge Paulo Lemann](#jorge-paulo-lemann)
+    * [Luiz Barsi Filho](#luiz-barsi-filho)
+    * [Warren Buffett](#warren-buffett)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
@@ -39,10 +49,6 @@
 * [Só controlar os gastos não basta! | Minhas Economias](http://www.minhaseconomias.com.br/blog/dicas-uso/controlar-os-gastos-nao-basta)
 
 * [Me poupe](http://mepoupenaweb.com/) - Finanças pessoais, economia simplificada, consumo consciente e enriquecimento lícito sem frescura
-
---
-
-* [Orçamento inteligente | Gustavo Cerbasi](https://www.youtube.com/watch?v=y016b7NXlpQ) -2016/09/01
 
 --
 
@@ -81,14 +87,6 @@
 
 --
 
-* [[YouTube] Pai Rico Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
-
-* [[YouTube] Pai Rico Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
-
-* [[YouTube] Resumo: O homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
-
-* [[YouTube] Como ficar rico? - O homem mais rico da Babilônia](https://www.youtube.com/watch?v=JM2GD1UJwIA)
-
 * [[YouTube] Você quer ser um Milionário?](https://www.youtube.com/watch?v=FTVA0u0MZzU)
 >
 >  * Não existe milágre, o segredo é guardar dinheiro e o tempo que se guarda o dinheiro
@@ -111,10 +109,6 @@
 * [[YouTube] 15 steps to become a millionaire: Manuel Forjaz at TEDxCascais](https://www.youtube.com/watch?v=vuAEIkIGxcg) - 2012/03/16
 
 * [11 segredos para se tornar um milionário que (talvez) você não saiba | UOL Economia](http://economia.uol.com.br/noticias/infomoney/2014/03/13/11-segredos-para-se-tornar-um-milionario-que-talvez-voce-nao-saiba.htm)
-
-* [[gist] erkobridee / os-segredos-da-mente-milionaria.txt](https://gist.github.com/erkobridee/b274a02161de4946527f) - Resumo do livro Os Segredos da Mente Milionária
-
-* [[YouTube] Os segredos da mente milionária | Principais lições do livro](https://www.youtube.com/watch?v=ZYclh68XaO8)
 
 * [[YouTube] 3 Segredos da MENTE MILIONÁRIA e a fórmula do sucesso da Nath! | Me poupe!](https://www.youtube.com/watch?v=--eP6oj_gkA) - 2016/06/27
 
@@ -149,67 +143,13 @@
 
 * [[YouTube] Economia Compartilhada! - Sicoob Oficial](https://www.youtube.com/watch?v=jVXuJStW-sE) - 2016/11/28
 
+* [[YouTube] Crash - Como o FGTS te rouba](https://www.youtube.com/watch?v=Hq-XKYdr5D4) - 2015/07/17
+
 --
 
 * [Como Cobrar O Quanto Você Quiser - E Ainda Parecer Ridiculamente Barato | Empreendedor Digital](http://www.empreendedor-digital.com/como-cobrar-o-quanto-voce-quiser) - Aprenda aqui como cobrar o preço que você quiser - e ainda ter as pessoas achando que seu preço é ESTUPIDAMENTE barato.
 
 * [[YouTube] Where are all the Billionaires? & Why should We Care?: Victor Haghani at TEDxSPS](https://www.youtube.com/watch?v=1yJWABvUXiU) - 2013/03/08
-
---
-
-* [[YouTube] Crash - Como o FGTS te rouba](https://www.youtube.com/watch?v=Hq-XKYdr5D4) - 2015/07/17
-
---
-
-> Luiz Barsi Filho
-
-* ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml) - 2014/03
-
-* [[YouTube] Luiz Barsi e o Segredo do Sucesso em Investimentos](https://www.youtube.com/watch?v=97-2U6AQ_JQ) - 2016/06/25
-
-* [[YouTube] Como ganhar dinheiro investindo em Ações? Entrevista com o bilionário Luiz Barsi Filho](https://www.youtube.com/watch?v=ajQCet57hPI) - 2016/06/27
-
-* [O Warren Buffett brasileiro te ensina a enriquecer (e muito!) | GuiaInvest](http://blog.guiainvest.com.br/investimentos/warren-buffett-brasileiro/) - (2017/03/05) O Warren Buffett brasileiro é o exemplo da conquista da liberdade financeira. Mensalmente ele recebe milhões de reais das empresas que é acionista.
-
-* [[YouTube] Luiz Barsi explica como faz para avaliar o preço de uma ação](https://www.youtube.com/watch?v=D9kEchbF5pw) - 2017/03/23
-
-* [[YouTube] Barsi responde: O método de investimento proposto por Décio Bazin é válido nos dias atuais?](https://www.youtube.com/watch?v=zIqhbEH7XE0) - 2017/03/30
-
-* [[YouTube] Luiz Barsi explica porque não vende suas ações](https://www.youtube.com/watch?v=liUnLWuChBM) - 2017/04/04
-
-* [[YouTube] Barsi explica como a deve ser feita a diversificação da carteira](https://www.youtube.com/watch?v=b8eb6aSQ_n4) - 2017/04/06
-
-* [[YouTube] Luiz Barsi explica quais os principais indicadores utiliza em suas análises](https://www.youtube.com/watch?v=Gr9Iyvlo69k) - 2017/04/18
-
-* [[YouTube] Por que Luiz Barsi mantém suas ações em seu nome, na pessoa física?](https://www.youtube.com/watch?v=e_IckYTnb7o) - 2017/04/25
-
-* [[YouTube] Luiz Barsi explica como programar os gastos mensais com dividendos](https://www.youtube.com/watch?v=aPJOsAAJYvk) - 2017/05/01
-
-* [[YouTube] Luiz Barsi responde se o investidor deve diversificar seus investimentos](https://www.youtube.com/watch?v=lNc6zIaCnEE) - 2017/05/04
-
-* [[YouTube] Luiz Barsi explica como montar uma reserva financeira](https://www.youtube.com/watch?v=ERySPvuss_c) - 2017/05/09
-
-* [[YouTube] Luiz Barsi explica aonde aplica seu dinheiro enquanto espera por uma oportunidade em ações](https://www.youtube.com/watch?v=gU3XMwFjb6Q) - 2017/05/11
-
-* [[YouTube] Como Luiz Barsi faz para encontrar novas oportunidades?](https://www.youtube.com/watch?v=FjPTC-Nbz58) - 2017/05/23
-
-* [[YouTube] Luiz Barsi responde se deve comprar ações preferenciais, ordinárias ou units](https://www.youtube.com/watch?v=zkItUakdv-U) - 2017/06/06 (ações do tipo ON)
-
---
-
-> Warren Buffett
-
-* [[YouTube] Alberto Dines entrevista Warren Buffett | Grande Pequena Imprensa](https://www.youtube.com/watch?v=v_u348BjO3w) - 2013/11/05
-
-* [[YouTube] Warren Buffett - HBO Documentary 2017 (HD) | Art of Money](https://www.youtube.com/watch?v=ridk6OvkgGM) - 2017/03/18
-
-* [[YouTube] Entrevista histórica com Warren Buffett, o 2º homem mais rico no mundo | Patricia Meirelles](https://www.youtube.com/watch?v=UbdDxOdYD4A) - 2017/08/17
-
---
-
-* [O Investidor Inteligente – Benjamin Graham | e-Livros](https://www.e-livros.xyz/ver/o-investidor-inteligente-benjamin-graham)
-
-* [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
 
 --
 
@@ -244,6 +184,122 @@
 * [Nerdcast 519 - Nerd Rico, Nerd Pobre 3 | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-519-nerd-rico-nerd-pobre-3/)
 
 * [Tecnocast 042 – Independência Financeira | Tecnoblog](https://tecnoblog.net/196498/tecnocast-042-independencia-financeira/)
+
+
+### Livros
+
+#### O investidor inteligente
+
+> Benjamin Graham
+
+* [O Investidor Inteligente – Benjamin Graham | e-Livros](https://www.e-livros.xyz/ver/o-investidor-inteligente-benjamin-graham)
+
+* [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
+
+
+#### Pai Rico, Pai Pobre
+
+> Robert Kiyosaki
+
+* [[YouTube] Audiobook: Pai Rico, Pai Pobre](https://www.youtube.com/watch?v=I3m7KXJ7l1s)
+
+* [[YouTube] Pai Rico, Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
+
+* [[YouTube] Pai Rico, Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
+
+* [[YouTube] Pai Rico, Pai Pobre - Robert Kiyosaki - resumo animado](https://www.youtube.com/watch?v=USwqPoFfgfw)
+
+
+#### O homem mais rico da Babilônia
+
+> autor: George Clason
+
+* [[YouTube] Como ficar rico? - O homem mais rico da Babilônia](https://www.youtube.com/watch?v=JM2GD1UJwIA)
+
+* [[YouTube] Resumo: O homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
+
+* [[YouTube] O homem mais rico da Babilônia - George Clason - resumo animado](https://www.youtube.com/watch?v=d6CI30Y_iSU)
+
+* [[YouTube] O homem mais rico da Babilonia - Resumo Arata Academy](https://www.youtube.com/watch?v=BwuRcC7q44A)
+
+
+#### Os segredos da mente milionária
+
+> autor: T. Harv Eker
+
+* [[gist] erkobridee / os-segredos-da-mente-milionaria.txt](https://gist.github.com/erkobridee/b274a02161de4946527f) - Resumo do livro Os Segredos da Mente Milionária
+
+* [[YouTube] Os segredos da mente milionária | Principais lições do livro](https://www.youtube.com/watch?v=ZYclh68XaO8)
+
+* [[YouTube] Os segredos da mente milionária - T. Harv Eker - resumo animado](https://www.youtube.com/watch?v=_FPxHuA5A68)
+
+
+### Pessoas
+
+#### Gustavo Cerbasi
+
+* [Gustavo Cerbasi](http://www.gustavocerbasi.com.br/)
+
+* [[YouTube playlist] Drops de Inteligência Financeira](https://www.youtube.com/watch?v=0xbeLPqWLS4&list=PLPBLaFNYOx7sYjwWY_NzRtlMfPs4dwG5i)
+
+* [[YouTube] Seja otimista e pense grande, sem medo](https://www.youtube.com/watch?v=0B7TOl-B3Gc) - 2016/07/12
+
+* [[YouTube] Receita para realizar sonhos](https://www.youtube.com/watch?v=KAZ44V7rb7g) - 2016/07/28
+
+* [[YouTube] Orçamento inteligente](https://www.youtube.com/watch?v=y016b7NXlpQ) - 2016/09/01
+
+* [[YouTube] Os ingredientes fundamentais para construir sua riqueza](https://www.youtube.com/watch?v=o4bWqzgBhVM) - 2017/03/30
+
+
+#### Jorge Paulo Lemann
+
+* [[YouTube] BIllionaire Jorge Paulo Lemann on Business and Brazil](https://www.youtube.com/watch?v=d469KrJz0xg) - 2016/10/09
+
+* [[YouTube] O que nunca perguntaram para Jorge Paulo Lemann? | Patricia Meirelles](https://www.youtube.com/watch?v=9DgIMkcvW4A) - 2017/02/25
+
+
+#### Luiz Barsi Filho
+
+* ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml) - 2014/03
+
+* [[YouTube] Luiz Barsi e o Segredo do Sucesso em Investimentos](https://www.youtube.com/watch?v=97-2U6AQ_JQ) - 2016/06/25
+
+* [[YouTube] Como ganhar dinheiro investindo em Ações? Entrevista com o bilionário Luiz Barsi Filho](https://www.youtube.com/watch?v=ajQCet57hPI) - 2016/06/27
+
+* [O Warren Buffett brasileiro te ensina a enriquecer (e muito!) | GuiaInvest](http://blog.guiainvest.com.br/investimentos/warren-buffett-brasileiro/) - (2017/03/05) O Warren Buffett brasileiro é o exemplo da conquista da liberdade financeira. Mensalmente ele recebe milhões de reais das empresas que é acionista.
+
+* [[YouTube] Luiz Barsi explica como faz para avaliar o preço de uma ação](https://www.youtube.com/watch?v=D9kEchbF5pw) - 2017/03/23
+
+* [[YouTube] Barsi responde: O método de investimento proposto por Décio Bazin é válido nos dias atuais?](https://www.youtube.com/watch?v=zIqhbEH7XE0) - 2017/03/30
+
+* [[YouTube] Luiz Barsi explica porque não vende suas ações](https://www.youtube.com/watch?v=liUnLWuChBM) - 2017/04/04
+
+* [[YouTube] Barsi explica como a deve ser feita a diversificação da carteira](https://www.youtube.com/watch?v=b8eb6aSQ_n4) - 2017/04/06
+
+* [[YouTube] Luiz Barsi explica quais os principais indicadores utiliza em suas análises](https://www.youtube.com/watch?v=Gr9Iyvlo69k) - 2017/04/18
+
+* [[YouTube] Por que Luiz Barsi mantém suas ações em seu nome, na pessoa física?](https://www.youtube.com/watch?v=e_IckYTnb7o) - 2017/04/25
+
+* [[YouTube] Luiz Barsi explica como programar os gastos mensais com dividendos](https://www.youtube.com/watch?v=aPJOsAAJYvk) - 2017/05/01
+
+* [[YouTube] Luiz Barsi responde se o investidor deve diversificar seus investimentos](https://www.youtube.com/watch?v=lNc6zIaCnEE) - 2017/05/04
+
+* [[YouTube] Luiz Barsi explica como montar uma reserva financeira](https://www.youtube.com/watch?v=ERySPvuss_c) - 2017/05/09
+
+* [[YouTube] Luiz Barsi explica aonde aplica seu dinheiro enquanto espera por uma oportunidade em ações](https://www.youtube.com/watch?v=gU3XMwFjb6Q) - 2017/05/11
+
+* [[YouTube] Como Luiz Barsi faz para encontrar novas oportunidades?](https://www.youtube.com/watch?v=FjPTC-Nbz58) - 2017/05/23
+
+* [[YouTube] Luiz Barsi responde se deve comprar ações preferenciais, ordinárias ou units](https://www.youtube.com/watch?v=zkItUakdv-U) - 2017/06/06 (ações do tipo ON)
+
+
+#### Warren Buffett
+
+* [[YouTube] Alberto Dines entrevista Warren Buffett | Grande Pequena Imprensa](https://www.youtube.com/watch?v=v_u348BjO3w) - 2013/11/05
+
+* [[YouTube] Warren Buffett - HBO Documentary 2017 (HD) | Art of Money](https://www.youtube.com/watch?v=ridk6OvkgGM) - 2017/03/18
+
+* [[YouTube] Entrevista histórica com Warren Buffett, o 2º homem mais rico no mundo | Patricia Meirelles](https://www.youtube.com/watch?v=UbdDxOdYD4A) - 2017/08/17
 
 
 ## Informações úteis sobre investimentos
