@@ -197,6 +197,8 @@
 
 * [[YouTube] Os Axiomas de Zurique (em áudio) - Max Gunther](https://www.youtube.com/watch?v=RbSdt64fXtE)
 
+* [[YouTube playlist] Os Axiomas de Zurique - resenhas](https://www.youtube.com/watch?v=UwSm1Ygw90o&list=PLS1nXzTLGEYdz6QTP_zhNed26XdFVnw1G)
+
 
 #### O investidor inteligente
 
