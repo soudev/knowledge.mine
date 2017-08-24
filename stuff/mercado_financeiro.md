@@ -358,7 +358,9 @@
 
 * [Como investir pouco dinheiro? | Minhas Economias](http://www.minhaseconomias.com.br/blog/investimentos/como-investir-pouco-dinheiro)
 
-* [[YouTube] Como investir com pouco dinheiro?](https://www.youtube.com/watch?v=5kkzU81WtsE)
+* [[YouTube] Como investir com pouco dinheiro? | Arata Academy](https://www.youtube.com/watch?v=5kkzU81WtsE) - 2013/04/04
+
+* [[YouTube] Como Investir com Pouco Dinheiro – e da forma Correta! (Aprenda ONDE aplicar!) | O primo rico](https://www.youtube.com/watch?v=PBcLwHklucM) - 2016/09/29
 
 * [[YouTube] Como investir com POUCO DINHEIRO e ter BOA rentabilidade! | EconoMirna](https://www.youtube.com/watch?v=q7ueT3nEIHA) - 2017/08/11
 
@@ -366,9 +368,13 @@
 
 * [[YouTube] Como investir seu dinheiro (REGRA DOS 100)](https://www.youtube.com/watch?v=nuz_1q2gD2Q)
 
+* [[YouTube] XP Investimentos: O Poder dos Juros Nos Seus Investimentos](https://www.youtube.com/watch?v=HgebtNs9gVk)
+
+--
+
 * [[YouTube] Linha D'água](https://www.youtube.com/watch?v=L3TBuvsnyHs) - o que é CDI e SELIC?
 
-* [[YouTube] XP Investimentos: O Poder dos Juros Nos Seus Investimentos](https://www.youtube.com/watch?v=HgebtNs9gVk)
+* [[YouTube] A SELIC CAIU! O Que vai RENDER MAIS DAQUI PRA FRENTE? | O primo rico](https://www.youtube.com/watch?v=MfYt3GPIN7o) - 2017/02/10
 
 --
 
