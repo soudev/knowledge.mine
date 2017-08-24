@@ -234,7 +234,9 @@
 
 #### O homem mais rico da Babilônia
 
-> autor: George Clason
+> autor: George S. Clason
+
+* [O Homem Mais Rico da Babilônia – George S. Clason | Le Livros](http://lelivros.stream/book/download-o-homem-mais-rico-da-babilonia-george-s-clason-em-epub-mobi-e-pdf/)
 
 * [[YouTube] Como ficar rico? - O homem mais rico da Babilônia](https://www.youtube.com/watch?v=JM2GD1UJwIA)
 
