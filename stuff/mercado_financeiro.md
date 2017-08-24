@@ -262,6 +262,8 @@
 
 * [[YouTube] Ser rico não é ter muito dinheiro](https://www.youtube.com/watch?v=h0fs_aI3lhI) - 2016/08/11
 
+* [[YouTube] Por que a aposentadoria não funciona](https://www.youtube.com/watch?v=aN49QYbIxBc) - 2016/08/18
+
 * [[YouTube] Orçamento inteligente](https://www.youtube.com/watch?v=y016b7NXlpQ) - 2016/09/01
 
 * [[YouTube] O que você não pode cortar em tempos de crise](https://www.youtube.com/watch?v=6VxBfMz8G8c) - 2016/10/20
@@ -271,6 +273,8 @@
 * [[YouTube] Não sabemos comprar](https://www.youtube.com/watch?v=wYj1qLrSdUI) - 2016/11/25
 
 * [[YouTube] Vale a pena viver fora do Brasil?](https://www.youtube.com/watch?v=lDtaNhCjKx0) - 2017/01/19
+
+* [[YouTube] Não deixe o dinheiro acabar com seu casamento](https://www.youtube.com/watch?v=rrq-RFMoxTE) - 2017/01/26
 
 * [[YouTube] O 13º salário deveria ser extinto](https://www.youtube.com/watch?v=7fJeLZ2_IvI) - 2017/02/09
 
@@ -632,3 +636,5 @@
 * [Como calcular IR sobre vendas de ações e fundos imobiliários | EXAME.com](http://exame.abril.com.br/seu-dinheiro/como-calcular-ir-sobre-vendas-de-acoes-e-fundos-imobiliarios/)
 
 * [IR 2016: Entenda como declarar seus investimentos em ações - Imposto de Renda | UOL Economia](https://economia.uol.com.br/imposto-de-renda/duvidas/ir-2016-entenda-como-declarar-seus-investimentos-em-acoes.htm)
+
+* [[YouTube] Gustavo Cerbasi - Obtenha o máximo de vantagens de seu Imposto de Renda](https://www.youtube.com/watch?v=-qmu_fOV9IY) - 2017/02/16
