@@ -340,6 +340,8 @@
 
 * [Up and running with Preact - Course by @shaneosbourne | @eggheadio](https://egghead.io/courses/up-and-running-with-preact)
 
+* [Introduction to Preact — a smaller, faster React alternative | @LogRocketJS](https://blog.logrocket.com/introduction-to-preact-a-smaller-faster-react-alternative-ad5532eb6d79) - 2017/08/14
+
 --
 
 * [[GitHub] synacor / wiretie](https://github.com/synacor/wiretie) - A Higher Order Component for Preact that resolves (async) values from a model and passes them down as props.
