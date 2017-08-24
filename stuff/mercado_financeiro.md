@@ -223,6 +223,8 @@
 
 > Robert Kiyosaki
 
+* Pai Rico Pai Pobre - Robert Kiyosaki - [e-Livros](https://www.e-livros.xyz/ver/pai-rico-pai-pobre-robert-kiyosaki) | [Le Livros](http://lelivros.stream/book/download-pai-rico-pai-pobre-robert-kiyosaki-em-epub-mobi-pdf/)
+
 * [[YouTube] Audiobook: Pai Rico, Pai Pobre](https://www.youtube.com/watch?v=I3m7KXJ7l1s)
 
 * [[YouTube] Pai Rico, Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
@@ -246,7 +248,7 @@
 
 * [[YouTube] O homem mais rico da Babilonia - Resumo Arata Academy](https://www.youtube.com/watch?v=BwuRcC7q44A)
 
-* [[YouTube] O Homem Mais Rico da Babilônia | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/09/19
+* [[YouTube] 037 - O Homem Mais Rico da Babilônia | Resumocast](https://www.youtube.com/watch?v=0vyV4UJ21vY) - 2016/09/19
 
 
 #### Os segredos da mente milionária
@@ -258,6 +260,10 @@
 * [[YouTube] Os segredos da mente milionária | Principais lições do livro](https://www.youtube.com/watch?v=ZYclh68XaO8)
 
 * [[YouTube] Os segredos da mente milionária - T. Harv Eker - resumo animado](https://www.youtube.com/watch?v=_FPxHuA5A68)
+
+* [[YouTube] 002 - Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=Wsu2X-HYmI8) - 2016/04/06
+
+* [[YouTube] 002 - [Complement] Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=mCqmKGqzNAw) - 2016/04/12
 
 
 ### Pessoas
