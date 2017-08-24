@@ -1,5 +1,7 @@
 # Mercado Financeiro
 
+
+
 <!-- toc -->
 
 * [Educação Financeira](#educação-financeira)
@@ -8,6 +10,7 @@
   * [Livros](#livros)
     * [Os Axiomas de Zurique](#os-axiomas-de-zurique)
     * [O investidor inteligente](#o-investidor-inteligente)
+    * [Warren Buffett: A bola de Neve](#warren-buffett-a-bola-de-neve)
     * [Pai Rico, Pai Pobre](#pai-rico-pai-pobre)
     * [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilônia)
     * [Os segredos da mente milionária](#os-segredos-da-mente-milionária)
@@ -35,6 +38,7 @@
 * [Imposto de Renda](#imposto-de-renda)
 
 <!-- toc stop -->
+
 
 
 ## Educação Financeira
@@ -207,6 +211,15 @@
 * [O Investidor Inteligente – Benjamin Graham | e-Livros](https://www.e-livros.xyz/ver/o-investidor-inteligente-benjamin-graham)
 
 * [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
+
+
+#### Warren Buffett: A bola de Neve
+
+> Alice Schroeder
+
+* [A Bola de Neve – Alice Schroeder | Le Livros](http://lelivros.stream/book/download-a-bola-de-neve-alice-schroeder-em-epub-mobi-e-pdf)
+
+* [[YouTube] Livro Warren Buffett A bola de Neve - Alice Schroeder #32 | Livros & Negócios](https://www.youtube.com/watch?v=79Wna828Xco) - 2016/08/20
 
 
 #### Pai Rico, Pai Pobre
