@@ -278,6 +278,8 @@
 
 * [[YouTube] O 13º salário deveria ser extinto](https://www.youtube.com/watch?v=7fJeLZ2_IvI) - 2017/02/09
 
+* [[YouTube] O que o impede de alcançar grandes conquistas?](https://www.youtube.com/watch?v=BArCc_YT0Tc) - 2017/03/02
+
 * [[YouTube] Os ingredientes fundamentais para construir sua riqueza](https://www.youtube.com/watch?v=o4bWqzgBhVM) - 2017/03/30
 
 * [[YouTube] Como se adaptar a um mundo sem dinheiro](https://www.youtube.com/watch?v=ZqOGOh8qQi0) - 2017/05/04
