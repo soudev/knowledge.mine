@@ -348,6 +348,8 @@
 
 * [[YouTube] Luiz Barsi responde se deve comprar ações preferenciais, ordinárias ou units](https://www.youtube.com/watch?v=zkItUakdv-U) - 2017/06/06 (ações do tipo ON)
 
+* [[YouTube] Economista Luiz Barsi Filho orienta estudantes da FEA/USP, sobre mercado acionário](https://www.youtube.com/watch?v=dvuuObd2UA0) - 2017/06/29
+
 
 #### Warren Buffett
 
