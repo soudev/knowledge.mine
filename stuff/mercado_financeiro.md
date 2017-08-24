@@ -453,7 +453,11 @@
 
 * [[YouTube] Aprenda a investir em Fundos Imobiliários](https://www.youtube.com/watch?v=4SLHC1FPJ0o)
 
-* [Fundos imobiliários são uma boa opção de investimento? | Minhas Economias](http://www.minhaseconomias.com.br/blog/investimentos/fundos-imobiliarios-sao-uma-boa-opcao-de-investimento) - 24/09/2013
+* [Fundos imobiliários são uma boa opção de investimento? | Minhas Economias](http://www.minhaseconomias.com.br/blog/investimentos/fundos-imobiliarios-sao-uma-boa-opcao-de-investimento) - 2013/09/24
+
+* [[YouTube] Fundo Imobiliário: Invista em Imóveis de forma Inteligente e tenha uma RENDA! (FII) | O primo rico](https://www.youtube.com/watch?v=LaJ8hGZVzD4) - 2016/07/12
+
+* [[YouTube] FUNDOS IMOBILIÁRIOS X IMÓVEL! Qual é o melhor investimento? | Me poupe!](https://www.youtube.com/watch?v=yO34UYx86tU) - 2017/05/29
 
 
 ### COE
