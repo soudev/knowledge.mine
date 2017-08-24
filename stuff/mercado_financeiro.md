@@ -551,11 +551,17 @@
 
 ## Shopping Financeiro e Corretoras
 
+* [Rico com vc](http://www.rico.com.vc/)
+
+* [Oi Warren](https://oiwarren.com/) - O Warren é uma plataforma online de investimentos onde os usuários podem investir com eficiência, simplicidade e custo baixo.
+
+  * [Doze motivos do “por que o Warren?” | Oi Warren Blog](https://blog.oiwarren.com/doze-motivos-por-que-o-warren/)
+
+  * [Como Funciona | Oi Warren](https://oiwarren.com/como-funciona/)
+
 * [XP Investimentos](http://www.xpi.com.br/) | [Canal no YouTube](https://www.youtube.com/user/canalXPTV?feature=watch)
 
   * [Custos Operacionais](http://www.xpi.com.br/opere/custos-operacionais.aspx)
-
-* [Rico com vc](http://www.rico.com.vc/)
 
 * [Easynvest](https://www.easynvest.com.br/)
 
