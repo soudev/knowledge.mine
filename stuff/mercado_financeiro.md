@@ -1,7 +1,5 @@
 # Mercado Financeiro
 
-
-
 <!-- toc -->
 
 * [Educação Financeira](#educação-financeira)
@@ -38,7 +36,6 @@
 * [Imposto de Renda](#imposto-de-renda)
 
 <!-- toc stop -->
-
 
 
 ## Educação Financeira
@@ -246,6 +243,8 @@
 * [[YouTube] O homem mais rico da Babilônia - George Clason - resumo animado](https://www.youtube.com/watch?v=d6CI30Y_iSU)
 
 * [[YouTube] O homem mais rico da Babilonia - Resumo Arata Academy](https://www.youtube.com/watch?v=BwuRcC7q44A)
+
+* [[YouTube] O Homem Mais Rico da Babilônia | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/09/19
 
 
 #### Os segredos da mente milionária
