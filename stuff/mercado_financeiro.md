@@ -411,6 +411,8 @@
 
 ### Robos de Investimento
 
+* [Tecnocast 050 – Investindo com Robôs | Tecnoblog](https://tecnoblog.net/202030/tecnocast-050-investindo-com-robos/) - 2016/10/06
+
 * [[YouTube] Investir com ROBÔS | E lucrar MUITO MAIS !! (Será que dá??) | O primo rico](https://www.youtube.com/watch?v=8rFo5a1D3aw) - 2017/01/31
 
 * [[YouTube] Tudo sobre robôs de investimento - comparação Vérios, Magnetis e Oi Warren | Me poupe!](https://www.youtube.com/watch?v=8w8iht6cP-k) - 2017/07/20
