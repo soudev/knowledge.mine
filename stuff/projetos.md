@@ -145,6 +145,8 @@
 
 * [Highlights to my first remote job | GitLab](https://about.gitlab.com/2015/06/17/highlights-to-my-first-remote-job/)
 
+* [JS Remotely](http://jsremotely.com/)
+
 --
 
 * [[GitHub] lukasz-madon / awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources
