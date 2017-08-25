@@ -1206,6 +1206,8 @@
 
 * [Getting started with Webpack 3 | Liquid Light](https://www.liquidlight.co.uk/blog/article/getting-started-with-webpack-3/) - 2017/06/26
 
+* [Webpack 3 Tutorial For Beginners From Scratch | AppDividend](https://appdividend.com/2017/08/17/webpack-3-tutorial-from-scratch/) - (2017/08/17) Simple beginner's guide to learn webpack. Webpack tutorial for beginner. Webpack 3.5 tutorial with the demo.
+
 --
 
 * [[YouTube Playlist] Webpack 2 Tutorial](https://www.youtube.com/watch?v=JdGnYNtuEtE&list=PLkEZWD8wbltnRp6nRR8kv97RbpcUdNawY)
