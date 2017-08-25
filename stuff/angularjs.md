@@ -136,6 +136,10 @@
 
 --
 
+* [Angular 1.6's Possibly unhandled rejection errors | codelord.net](http://www.codelord.net/2017/08/20/angular-1-dot-6-s-possibly-unhandled-rejection-errors/) - 2017/08/20
+
+--
+
 * [Using Angular 2 Patterns in Angular 1.x Apps by @simpulton](http://www.angular2patterns.com/)
 
 --
