@@ -1586,6 +1586,8 @@
 
 * [SpahQL](http://danski.github.io/spahql/) - Query, manipulate and manage JSON data effortlessly.
 
+* [[GitHub] deitch / searchjs](https://github.com/deitch/searchjs) - A library for filtering JavaScript objects based on a json SQL-like language, jsql
+
 * [[GitHub] tuxracer / simple-storage](https://github.com/tuxracer/simple-storage) - Simple localStorage / sessionStorage supporting objects and arrays
 
 * [[GitHub] techfort / LokiJS](https://github.com/techfort/LokiJS) - javascript embedded / in-memory database
