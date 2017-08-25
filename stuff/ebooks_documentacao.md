@@ -121,6 +121,8 @@
 
 * [Como salvar tuítes marcados com hashtags do Twitter em uma planilha | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/07/como-salvar-tuites-marcados-com-hashtags-do-twitter-em-uma-planilha.html)
 
+* [Normas ABNT no Google Docs: organize referências bibliográficas | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/2017/08/normas-abnt-no-google-docs-organize-referencias-bibliograficas.ghtml)
+
 
 ## Cheat Sheets
 
