@@ -18,6 +18,7 @@
     * [Luiz Barsi Filho](#luiz-barsi-filho)
     * [Warren Buffett](#warren-buffett)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
+  * [Robos de Investimento](#robos-de-investimento)
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
   * [Fundos de Investimento](#fundos-de-investimento)
@@ -26,7 +27,8 @@
     * [Dividendos](#dividendos)
     * [Análise Técnica](#análise-técnica)
     * [Queda](#queda)
-* [Shopping Financeiro e Corretoras](#shopping-financeiro-e-corretoras)
+* [Por onde investir](#por-onde-investir)
+  * [Robos](#robos)
 * [Simuladores](#simuladores)
 * [Ferramentas](#ferramentas)
 * [Cotações Online](#cotações-online)
@@ -407,6 +409,13 @@
 * [[YouTube] O que são ETFs e como investir? - Easyinvest](https://www.youtube.com/watch?v=mxth2EVw6H8)
 
 
+### Robos de Investimento
+
+* [[YouTube] Investir com ROBÔS | E lucrar MUITO MAIS !! (Será que dá??) | O primo rico](https://www.youtube.com/watch?v=8rFo5a1D3aw) - 2017/01/31
+
+* [[YouTube] Tudo sobre robôs de investimento - comparação Vérios, Magnetis e Oi Warren | Me poupe!](https://www.youtube.com/watch?v=8w8iht6cP-k) - 2017/07/20
+
+
 ### Renda Fixa
 
 * [[YouTube] Tudo sobre a RENDA FIXA! LCI, LCA, CDB e LC (ISSO NINGUÉM TE CONTA) -  Me poupe!](https://www.youtube.com/watch?v=OsyaD6eJBNY) - 2016/05/30
@@ -573,17 +582,9 @@
 * [[YouTube] Estratégias para Ganhar com o Mercado em Queda](https://www.youtube.com/watch?v=4neAWsHV4QI)
 
 
-## Shopping Financeiro e Corretoras
+## Por onde investir
 
 * [Rico com vc](http://www.rico.com.vc/)
-
-* [Oi Warren](https://oiwarren.com/) - O Warren é uma plataforma online de investimentos onde os usuários podem investir com eficiência, simplicidade e custo baixo.
-
-  * [[YouTube] Conheça o Warren](https://www.youtube.com/watch?v=aNOytqlQiHQ)
-
-  * [Doze motivos do “por que o Warren?” | Oi Warren Blog](https://blog.oiwarren.com/doze-motivos-por-que-o-warren/)
-
-  * [Como Funciona | Oi Warren](https://oiwarren.com/como-funciona/)
 
 * [XP Investimentos](http://www.xpi.com.br/) | [Canal no YouTube](https://www.youtube.com/user/canalXPTV?feature=watch)
 
@@ -594,6 +595,17 @@
   * [[YouTube] O que é uma corretora de valores? - Easyinvest](https://www.youtube.com/watch?v=RTi0fhU6Ly8) - 2016/01/26
 
   * [[YouTube playlist] Como usar o Portal Easynvest](https://www.youtube.com/playlist?list=PLJGPBSvUf2Rr60tYtZDT6ws8nOWoarpM2)
+
+
+### Robos
+
+* [Oi Warren](https://oiwarren.com/) - O Warren é uma plataforma online de investimentos onde os usuários podem investir com eficiência, simplicidade e custo baixo.
+
+  * [[YouTube] Conheça o Warren](https://www.youtube.com/watch?v=aNOytqlQiHQ)
+
+  * [Doze motivos do “por que o Warren?” | Oi Warren Blog](https://blog.oiwarren.com/doze-motivos-por-que-o-warren/)
+
+  * [Como Funciona | Oi Warren](https://oiwarren.com/como-funciona/)
 
 
 ## Simuladores
