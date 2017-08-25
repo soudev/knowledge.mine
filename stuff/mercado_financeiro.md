@@ -225,8 +225,6 @@
 
 * Pai Rico Pai Pobre - Robert Kiyosaki - [e-Livros](https://www.e-livros.xyz/ver/pai-rico-pai-pobre-robert-kiyosaki) | [Le Livros](http://lelivros.stream/book/download-pai-rico-pai-pobre-robert-kiyosaki-em-epub-mobi-pdf/)
 
-* [[YouTube] Audiobook: Pai Rico, Pai Pobre](https://www.youtube.com/watch?v=I3m7KXJ7l1s)
-
 * [[YouTube] Pai Rico, Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
 
 * [[YouTube] Pai Rico, Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
