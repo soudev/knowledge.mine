@@ -579,6 +579,8 @@
 
 * [Oi Warren](https://oiwarren.com/) - O Warren é uma plataforma online de investimentos onde os usuários podem investir com eficiência, simplicidade e custo baixo.
 
+  * [[YouTube] Conheça o Warren](https://www.youtube.com/watch?v=aNOytqlQiHQ)
+
   * [Doze motivos do “por que o Warren?” | Oi Warren Blog](https://blog.oiwarren.com/doze-motivos-por-que-o-warren/)
 
   * [Como Funciona | Oi Warren](https://oiwarren.com/como-funciona/)
