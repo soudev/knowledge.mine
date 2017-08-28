@@ -268,6 +268,9 @@
 
 ### Pessoas
 
+* [[YouTube] Os 3 investidores bilionários da bolsa e suas estratégias (E o que eles tem em comum) | O primo rico](https://www.youtube.com/watch?v=mTUvfKgpDrA) - 2017/04/27
+
+
 #### Gustavo Cerbasi
 
 * [Gustavo Cerbasi](http://www.gustavocerbasi.com.br/)
