@@ -44,6 +44,8 @@
 
 * [Why Go's design is a disservice to intelligent programmers | Nomad Software](http://nomad.so/2015/03/why-gos-design-is-a-disservice-to-intelligent-programmers/) - 2015/03/25
 
+* [Why Go is my favorite programming language | Michael Stapelberg](https://michael.stapelberg.de/Artikel/golang_favorite) - 2017/08/19
+
 --
 
 * [Writing cli applications with Golang | Carlos Alexandro Becker](https://carlosbecker.com/posts/golang-cli-apps/) - 2017/04/13
