@@ -480,6 +480,14 @@
 
 * [An Introduction to the IPA | English Teacher Melanie](http://www.englishteachermelanie.com/an-introduction-to-the-ipa/)
 
+--
+
+* [[YouTube] The benefits of a bilingual brain - Mia Nacamulli | TED-ed](https://www.youtube.com/watch?v=MMmOLN5zBLY) - 2015/06/23
+
+* [[YouTube] How Does Language Change Your Brain?](https://www.youtube.com/watch?v=aGITqiG-Ips) - 2015/08/11
+
+* [[YouTube] 4 reasons to learn a new language - John McWhorter | TED](https://www.youtube.com/watch?v=VQRjouwKDlU) - 2016/08/28
+
 
 ### Codificação
 
