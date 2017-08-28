@@ -14,6 +14,7 @@
     * [Os segredos da mente milionária](#os-segredos-da-mente-milionária)
   * [Pessoas](#pessoas)
     * [Gustavo Cerbasi](#gustavo-cerbasi)
+    * [Carlos Wizard Martins](#carlos-wizard-martins)
     * [Jorge Paulo Lemann](#jorge-paulo-lemann)
     * [Luiz Barsi Filho](#luiz-barsi-filho)
     * [Warren Buffett](#warren-buffett)
