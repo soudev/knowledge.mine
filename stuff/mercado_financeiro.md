@@ -181,6 +181,14 @@
 
 --
 
+* Forex - Foreign Exchange / Mercado de Câmbio
+
+  * [[YouTube] Forex - O que é, definição e conceito de FOREX | Forex Social](https://www.youtube.com/watch?v=72osyHGMlZ4) - 2015/08/31
+
+  * [[YouTube] Conceitos básicos do Forex - Vídeo Introdução | Outspoken Market](https://www.youtube.com/watch?v=21BlzYdojik) - 2016/11/26
+
+--
+
 * [Nerdcast 82 - Nerd Rico, Nerd Pobre | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-82-nerd-rico-nerd-pobre/)
 
 * [Nerdcast 160 - Nerd Rico, Nerd Pobre 2 | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-160-nerd-rico-nerd-pobre-2/)
