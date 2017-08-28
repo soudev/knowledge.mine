@@ -200,6 +200,8 @@
 
 ## Setup
 
+* [[GitHub] sb2nov / mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on Mac OS X
+
 * [Setup a Mac Dev Machine From Scratch | Laracasts](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch)
 
 * [SublimeText, iTerm, and Chrome setup | Damian Le Nouaille](http://www.damln.com/log/setup/)
