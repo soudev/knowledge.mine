@@ -340,6 +340,13 @@
   * [[YouTube] #CerbasiResponde 37 - Casamento é sinônimo de conta conjunta?](https://www.youtube.com/watch?v=RULZyGJ5SgU) - 2017/04/17
 
 
+#### Carlos Wizard Martins
+
+* [[YouTube] O inicio de Carlos Wizard Martins](https://www.youtube.com/watch?v=qxmPrLM0pSE) - 2013/02/18
+
+* [[YouTube] Carlos Wizard - Como me tornei um bilionário](https://www.youtube.com/watch?v=5OS7c0M0uqs) - 2013/07/05
+
+
 #### Jorge Paulo Lemann
 
 * [[YouTube] BIllionaire Jorge Paulo Lemann on Business and Brazil](https://www.youtube.com/watch?v=d469KrJz0xg) - 2016/10/09
