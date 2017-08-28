@@ -276,6 +276,8 @@
 
 ### Pessoas
 
+* [[YouTube] Entrevista com dois bilionários da Bolsa: Luiz Barsi Filho e Guilherme Afonso Ferreira](https://www.youtube.com/watch?v=b72yedzSxjc) - 2014/05/16
+
 * [[YouTube] Os 3 investidores bilionários da bolsa e suas estratégias (E o que eles tem em comum) | O primo rico](https://www.youtube.com/watch?v=mTUvfKgpDrA) - 2017/04/27
 
 
