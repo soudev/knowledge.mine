@@ -707,3 +707,11 @@
 * [IR 2016: Entenda como declarar seus investimentos em ações - Imposto de Renda | UOL Economia](https://economia.uol.com.br/imposto-de-renda/duvidas/ir-2016-entenda-como-declarar-seus-investimentos-em-acoes.htm)
 
 * [[YouTube] Gustavo Cerbasi - Obtenha o máximo de vantagens de seu Imposto de Renda](https://www.youtube.com/watch?v=-qmu_fOV9IY) - 2017/02/16
+
+--
+
+* Receita Federal / Fisco monitora transações bancárias
+
+  * [Receita Federal aumenta controle sobre as movimentações financeiras | Jornal Nacional](http://g1.globo.com/jornal-nacional/noticia/2016/02/receita-federal-aumenta-controle-sobre-movimentacoes-financeiras.html) - 2016/02/03
+
+  * [Fisco vai monitorar transações mensais acima de R$ 2 mil | Jornal O Globo](https://oglobo.globo.com/economia/fisco-vai-monitorar-transacoes-mensais-acima-de-2-mil-18595543) - 2016/02/03
