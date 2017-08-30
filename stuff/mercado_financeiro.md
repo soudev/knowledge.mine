@@ -547,6 +547,14 @@
 
 * [Como Investir na Bolsa de Valores Com Pouco Dinheiro | GuiaInvest](http://blog.guiainvest.com.br/acoes/como-investir-na-bolsa-de-valores-com-pouco-dinheiro/) - 2016/02/22
 
+--
+
+* [[YouTube] What are stocks | Soni Bros](https://www.youtube.com/watch?v=xaJ3UtTjFSY) - 2014/01/15
+
+* [[YouTube] What Are Dividends | Soni Bros](https://www.youtube.com/watch?v=8s_8O99dNC0) - 2014/04/07
+
+* [[YouTube] Dividend Yield Explained | Soni Bros](https://www.youtube.com/watch?v=hE_rfu3v3Po) - 2014/05/17
+
 
 #### Dividendos
 
