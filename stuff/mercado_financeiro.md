@@ -549,6 +549,26 @@
 
 --
 
+* [[YouTube] Trading 101: How to Buy Stocks | ClayTrader](https://www.youtube.com/watch?v=DF23jO8Y0n0) - 2016/06/30
+
+* [[YouTube] Trading 101: What is the Stock Market? | ClayTrader](https://www.youtube.com/watch?v=ixF_wB2uvOs) - 2016/08/18
+
+* [[YouTube] Trading 101: How Does the Stock Market Work? | ClayTrader](https://www.youtube.com/watch?v=bl797s8u0QQ) - 2016/09/09
+
+* [[YouTube] Trading 101: Trading vs. Investing | ClayTrader](https://www.youtube.com/watch?v=9zObNjqtEuI) - 2016/09/16
+
+* [[YouTube] Trading 101: How to Get Started Trading | ClayTrader](https://www.youtube.com/watch?v=Z94tNTsQnb4) - 2016/10/13
+
+* [[YouTube] Trading 101: How to Choose a Broker | ClayTrader](https://www.youtube.com/watch?v=vQROV2uPBus) - 2016/10/21
+
+* [[YouTube] Trading 101: What is a Dividend? | ClayTrader](https://www.youtube.com/watch?v=_sPVwmGFAiA) - 2016/11/04
+
+* [[YouTube] Trading 101: The Best Stocks to Buy | ClayTrader](https://www.youtube.com/watch?v=ocj3E2cjszM) - 2016/12/30
+
+* [[YouTube] Trading 101: How Does a Stock Make You Money? | ClayTrader](https://www.youtube.com/watch?v=nNLod9H6uhQ) - 2017/01/13
+
+--
+
 * [[YouTube] What are stocks | Soni Bros](https://www.youtube.com/watch?v=xaJ3UtTjFSY) - 2014/01/15
 
 * [[YouTube] What Are Dividends | Soni Bros](https://www.youtube.com/watch?v=8s_8O99dNC0) - 2014/04/07
