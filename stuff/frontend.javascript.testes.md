@@ -12,6 +12,7 @@
     * [Karma](#karma)
     * [Testem](#testem)
     * [Headless Chrome](#headless-chrome)
+    * [Headless Firefox](#headless-firefox)
     * [PhantomJS](#phantomjs)
     * [SmilerJS](#smilerjs)
     * [Cobertura](#cobertura)
@@ -155,6 +156,11 @@
 * [Getting Started with Headless Chrome  | Google Developers](https://developers.google.com/web/updates/2017/04/headless-chrome) - 2017/06/23
 
 * [Automated testing with Headless Chrome | Google Developers](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - 2017/06/15
+
+
+#### Headless Firefox
+
+* [Headless mode - Mozilla | MDN](https://developer.mozilla.org/en-US/Firefox/Headless_mode)
 
 
 #### PhantomJS
