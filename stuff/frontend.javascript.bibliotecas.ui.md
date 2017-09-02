@@ -279,6 +279,8 @@
 
 * [The Power of Custom Directives in Vue | CSS-Tricks](https://css-tricks.com/power-custom-directives-vue/) - 2017/04/20
 
+* [Writing Abstract Components With Vue.js | @alligatorio](https://alligator.io/vuejs/vue-abstract-components/)
+
 --
 
 * [[GitHub] vuejs-tips / cheatsheet](https://github.com/vuejs-tips/cheatsheet/) - Vue.js 2.2 complete API cheatsheet
