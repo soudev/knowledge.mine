@@ -127,7 +127,13 @@
 
 * [[YouTube] 10 Things the Rich Do (That The Poor Don't)](https://www.youtube.com/watch?v=NQhTXyu7d5s) - 2017/08/31
 
-* [[YouTube] 15 Things Poor People Do That The Rich Don’t](https://www.youtube.com/watch?v=nllZrOoxpzc) - 2017/06/18
+* [[YouTube] 15 Signs You Are RICH | Alux.com](https://www.youtube.com/watch?v=Pucmmb_uLCo) - 2017/08/07
+
+* [[YouTube] 15 Signs You Are POOR | Alux.com](https://www.youtube.com/watch?v=p818CSLg87Q) - 2017/08/07
+
+* [[YouTube] 15 Things That Change Once You Get Rich | Alux.com](https://www.youtube.com/watch?v=qrvW6BQiVos) - 2017/06/20
+
+* [[YouTube] 15 Things Poor People Do That The Rich Don’t | Alux.com](https://www.youtube.com/watch?v=nllZrOoxpzc) - 2017/06/18
 
 --
 
