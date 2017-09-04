@@ -439,6 +439,8 @@
 
 * [How to Organize a Large React Application and Make It Scale | SitePoint](https://www.sitepoint.com/organize-large-react-application/) - 2017/04/26
 
+* [Writing Scalable React Apps with the Component Folder Pattern | Styled Components - Medium](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68) - 2017/08/28 
+
 --
 
 * [45% Faster React Functional Components, Now | Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) - 2017/05/03
