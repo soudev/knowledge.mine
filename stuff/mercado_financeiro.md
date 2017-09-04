@@ -123,7 +123,11 @@
 
 * [[YouTube] Passo a passo rumo ao 1º milhão | Gustavo Cerbasi](https://www.youtube.com/watch?v=xJe3egF_eH4) - 2017/08/16
 
+--
+
 * [[YouTube] 10 Things the Rich Do (That The Poor Don't)](https://www.youtube.com/watch?v=NQhTXyu7d5s) - 2017/08/31
+
+* [[YouTube] 15 Things Poor People Do That The Rich Don’t](https://www.youtube.com/watch?v=nllZrOoxpzc) - 2017/06/18
 
 --
 
