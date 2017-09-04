@@ -137,6 +137,10 @@
 
 --
 
+* [[YouTube playlist] Billionaires Only | Alux.com](https://www.youtube.com/watch?v=pT50F7u0TAI&list=PLP35LyTOQVIsO8kOTx8-YOgwkGvrPtJ3M)
+
+--
+
 * [[YouTube] Trovó Academy](https://www.youtube.com/channel/UC-k3bhmFH97pBfRXiPGRwVg)
 
   * [1 - É assim que funciona a pobreza - Genial!](https://www.youtube.com/watch?v=eJOvC0tON8Q)
