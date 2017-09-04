@@ -123,6 +123,8 @@
 
 * [[YouTube] Passo a passo rumo ao 1º milhão | Gustavo Cerbasi](https://www.youtube.com/watch?v=xJe3egF_eH4) - 2017/08/16
 
+* [[YouTube] 10 Things the Rich Do (That The Poor Don't)](https://www.youtube.com/watch?v=NQhTXyu7d5s) - 2017/08/31
+
 --
 
 * [[YouTube] Trovó Academy](https://www.youtube.com/channel/UC-k3bhmFH97pBfRXiPGRwVg)
