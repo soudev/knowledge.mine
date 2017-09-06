@@ -23,6 +23,8 @@
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
   * [Fundos de Investimento](#fundos-de-investimento)
+    * [Fundos de Índice](#fundos-de-índice)
+    * [Fundos Imobiliários](#fundos-imobiliários)
   * [COE](#coe)
   * [Ações](#ações)
     * [Dividendos](#dividendos)
@@ -442,10 +444,6 @@
 
 * [[YouTube] A SELIC CAIU! O Que vai RENDER MAIS DAQUI PRA FRENTE? | O primo rico](https://www.youtube.com/watch?v=MfYt3GPIN7o) - 2017/02/10
 
---
-
-* [[YouTube] O que são ETFs e como investir? - Easyinvest](https://www.youtube.com/watch?v=mxth2EVw6H8)
-
 
 ### Robos de Investimento
 
@@ -502,6 +500,22 @@
 
 ### Fundos de Investimento
 
+* [[YouTube] Conheça melhor os Fundos de Investimento](https://www.youtube.com/watch?v=Q_DBkSGbbEM)
+
+
+#### Fundos de Índice
+
+> ETFs - Exchange Traded Funds
+
+* [[YouTube] ETF! O que é isso e como investir? - Para iniciantes | Me poupe!](https://www.youtube.com/watch?v=iEIBMnrpnWk) - 2017/03/23
+
+* [[YouTube] O que são ETFs e como investir? - Easyinvest](https://www.youtube.com/watch?v=mxth2EVw6H8) - 2015/04/07
+
+* [[YouTube] ETF (Fundo de Índice): O que é? Como Investir em Ações pelos ETFs? | Blog do Valor](https://www.youtube.com/watch?v=i78lShddLnQ) - 2014/09/02
+
+
+#### Fundos Imobiliários
+
 * [Fundos Imobiliários | BM&F BOVESPA](http://www.bmfbovespa.com.br/fundos-listados/fundoslistados.aspx?Idioma=pt-br&tipoFundo=imobiliario)
 
 * [FIIs.com.br](http://fiis.com.br/) - Acompanhamento dos Fundos de Investimento Imobiliários
@@ -509,8 +523,6 @@
 * [Receba 3 aluguéis mesmo em tempos de crise | Empiricus](http://sl.empiricus.com.br/fixa-fi/)
 
 --
-
-* [[YouTube] Conheça melhor os Fundos de Investimento](https://www.youtube.com/watch?v=Q_DBkSGbbEM)
 
 * [[YouTube] Fundo Imobiliário](https://www.youtube.com/watch?v=sSn5q6FlkXk)
 
