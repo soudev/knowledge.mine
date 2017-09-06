@@ -651,6 +651,8 @@
 
 ## Por onde investir
 
+* [Modal Mais](https://www.modalmais.com.br/)
+
 * [Rico com vc](http://www.rico.com.vc/)
 
 * [XP Investimentos](http://www.xpi.com.br/) | [Canal no YouTube](https://www.youtube.com/user/canalXPTV?feature=watch)
