@@ -701,6 +701,8 @@
 * [[YouTube] Homebroker: A Mordomia de todo Investidor! (Entenda O que é e como Funciona)
  | O primo rico](https://www.youtube.com/watch?v=m_ReW4_C9_s) - 2016/05/31
 
+* [[YouTube] Passo a passo Home Broker - Tutorial | Perspective](https://www.youtube.com/watch?v=zZGvJPk-ysM) - 2016/09/22
+
 
 ## Cotações Online
 
