@@ -777,6 +777,8 @@
 
 --
 
+* [Como declarar investimentos no imposto de renda: passo a passo | Clube do Valor](https://clubedovalor.com.br/como-declarar-investimentos-imposto-de-renda/) - 2017/04/25
+
 * [Como declarar LCI, LCA e poupança na sua declaração de IR? | parMais](https://www.parmais.com.br/blog/como-declarar-lci-lca-e-poupanca-no-ir/) - 2017/02/15
 
 --
