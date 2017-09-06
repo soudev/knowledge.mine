@@ -32,6 +32,7 @@
   * [Robos](#robos)
 * [Simuladores](#simuladores)
 * [Ferramentas](#ferramentas)
+  * [Home Broker](#home-broker)
 * [Cotações Online](#cotações-online)
 * [APIs](#apis)
   * [Yahoo Finance](#yahoo-finance)
@@ -693,6 +694,12 @@
 --
 
 * [Onde coloco meu $](https://www.ondecolocomeudinheiro.com/) - Você já sabe que na poupança está perdendo dinheiro, mas não sabe onde colocar seu dinheiro. Nós vamos te ajudar!
+
+
+### Home Broker
+
+* [[YouTube] Homebroker: A Mordomia de todo Investidor! (Entenda O que é e como Funciona)
+ | O primo rico](https://www.youtube.com/watch?v=m_ReW4_C9_s) - 2016/05/31
 
 
 ## Cotações Online
