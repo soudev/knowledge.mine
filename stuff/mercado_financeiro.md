@@ -432,6 +432,8 @@
 
 * [[YouTube] Poupança não é Investimento!!!](https://www.youtube.com/watch?v=ROJxDm_P4BU) - o que é investimento?
 
+--
+
 * [Como investir pouco dinheiro? | Minhas Economias](http://www.minhaseconomias.com.br/blog/investimentos/como-investir-pouco-dinheiro)
 
 * [[YouTube] Como investir com pouco dinheiro? | Arata Academy](https://www.youtube.com/watch?v=5kkzU81WtsE) - 2013/04/04
@@ -439,6 +441,10 @@
 * [[YouTube] Como Investir com Pouco Dinheiro – e da forma Correta! (Aprenda ONDE aplicar!) | O primo rico](https://www.youtube.com/watch?v=PBcLwHklucM) - 2016/09/29
 
 * [[YouTube] Como investir com POUCO DINHEIRO e ter BOA rentabilidade! | EconoMirna](https://www.youtube.com/watch?v=q7ueT3nEIHA) - 2017/08/11
+
+* [[YouTube] How to Invest: Invest Your First $1000](https://www.youtube.com/watch?v=lgsMp1hflrM) - 2016/08/04
+
+--
 
 * [[YouTube] Bastter: Poupando e Investindo Valores Pequenos](https://www.youtube.com/watch?v=4AXJd_V3JdU)
 
