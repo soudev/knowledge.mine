@@ -1,5 +1,6 @@
 # Mercado Financeiro
 
+
 <!-- toc -->
 
 * [Educação Financeira](#educação-financeira)
@@ -19,6 +20,7 @@
     * [Luiz Barsi Filho](#luiz-barsi-filho)
     * [Warren Buffett](#warren-buffett)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
+  * [Investir no Exterior](#investir-no-exterior)
   * [Robos de Investimento](#robos-de-investimento)
   * [Renda Fixa](#renda-fixa)
   * [Títulos do Governo](#títulos-do-governo)
@@ -450,9 +452,12 @@
 
 * [[YouTube] A SELIC CAIU! O Que vai RENDER MAIS DAQUI PRA FRENTE? | O primo rico](https://www.youtube.com/watch?v=MfYt3GPIN7o) - 2017/02/10
 
---
+
+### Investir no Exterior
 
 * [[YouTube] Como investir no exterior legalmente (mesmo com pouco dinheiro) | Clube do Valor](https://www.youtube.com/watch?v=YfNMfcix9uY) - 2017/05/10
+
+* [[YouTube] Quer investir no mercado internacional? Saiba isso antes! | Blod do Valor]() - 2016/12/20
 
 
 ### Robos de Investimento
