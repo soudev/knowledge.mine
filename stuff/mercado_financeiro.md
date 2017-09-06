@@ -450,6 +450,10 @@
 
 * [[YouTube] A SELIC CAIU! O Que vai RENDER MAIS DAQUI PRA FRENTE? | O primo rico](https://www.youtube.com/watch?v=MfYt3GPIN7o) - 2017/02/10
 
+--
+
+* [[YouTube] Como investir no exterior legalmente (mesmo com pouco dinheiro) | Clube do Valor](https://www.youtube.com/watch?v=YfNMfcix9uY) - 2017/05/10
+
 
 ### Robos de Investimento
 
