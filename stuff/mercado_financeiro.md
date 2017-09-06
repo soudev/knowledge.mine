@@ -713,6 +713,8 @@
 
 ## Ferramentas
 
+* [Juros Compostos: Fórmula, Calculadora Online Grátis + Planilha Excel | Clube do Valor](https://clubedovalor.com.br/juros-compostos/)
+
 * [Simulador de Juros Compostos | Clube dos Poupadores](https://www.clubedospoupadores.com/simulador-de-juros-compostos)
 
 * [Eclipse Trader](http://www.eclipsetrader.org/)
