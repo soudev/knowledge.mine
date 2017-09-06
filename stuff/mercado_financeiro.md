@@ -566,6 +566,10 @@
 
 --
 
+* [[YouTube playlist] Ações | O primo rico](https://www.youtube.com/watch?v=7l_IaGxUP4g&list=PLHvsswG2Q9jLLUq0TxBiai3TgP2helJf8)
+
+--
+
 * [[YouTube] Trading 101: How to Buy Stocks | ClayTrader](https://www.youtube.com/watch?v=DF23jO8Y0n0) - 2016/06/30
 
 * [[YouTube] Trading 101: What is the Stock Market? | ClayTrader](https://www.youtube.com/watch?v=ixF_wB2uvOs) - 2016/08/18
