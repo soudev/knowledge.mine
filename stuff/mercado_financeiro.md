@@ -56,7 +56,13 @@
 
 * [Só controlar os gastos não basta! | Minhas Economias](http://www.minhaseconomias.com.br/blog/dicas-uso/controlar-os-gastos-nao-basta)
 
+--
+
+* [Suicide Squad Traders](http://suicidesquadtraders.com/) - Um esquadrão de traders que se formou para revolucionar a forma como o mercado financeiro enxerga o pequeno trader! #WEARESST
+
 * [Me poupe](http://mepoupenaweb.com/) - Finanças pessoais, economia simplificada, consumo consciente e enriquecimento lícito sem frescura
+
+* [Clube do Valor](https://clubedovalor.com.br/) - Seu Caminho Rumo à Independência Financeira
 
 --
 
