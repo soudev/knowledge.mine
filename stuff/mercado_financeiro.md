@@ -656,6 +656,10 @@
 
 * [[YouTube] Como selecionar ações que pagam dividendos? | Suno Research](https://www.youtube.com/watch?v=7A6T3N4PcYQ) - 2017/08/17
 
+* [[YouTube] Empresas pagadoras de dividendos | Blog do Valor](https://www.youtube.com/watch?v=E2NbLd5X910) - 2017/08/31
+
+* [[YouTube] Como viver de renda com dividendos | Rafael Seabra](https://www.youtube.com/watch?v=KSMNximuOQM) - 2017/09/04
+
 
 #### Análise Técnica
 
