@@ -90,6 +90,12 @@
 
 * [[YouTube] When money isn’t real: the $10,000 experiment | Adam Carroll | TEDxLondonBusinessSchool](https://www.youtube.com/watch?v=_VB39Jo8mAQ) - 2015/07/09
 
+--
+
+* [[YouTube] The 20 Rules of Money | Valuetainment](https://www.youtube.com/watch?v=D9cPAuZIigs) - 2017/03/14
+
+* [[YouTube] How to Double Your Money | Valuetainment](https://www.youtube.com/watch?v=eh5VcbLHMeI) - 2017/05/23
+
 
 ## Informações gerais
 
