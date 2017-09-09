@@ -275,6 +275,8 @@
 
 * [[YouTube] Pai Rico, Pai Pobre - Robert Kiyosaki - resumo animado](https://www.youtube.com/watch?v=USwqPoFfgfw)
 
+* [[YouTube] 5 melhores lições do livro Pai Rico, Pai Pobre | Rafael Seabra](https://www.youtube.com/watch?v=XvOwJm3fKaA) - 2017/08/28
+
 
 #### O homem mais rico da Babilônia
 
