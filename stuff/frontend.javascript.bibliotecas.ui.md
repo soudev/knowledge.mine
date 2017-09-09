@@ -329,6 +329,10 @@
 
 * [[GitHub] ilyagru / Space-Snake](https://github.com/ilyagru/Space-Snake) - A Desktop game built with Electron and Vue.js
 
+--
+
+* [Code splitting com Vue.js e Webpack | Comunidade Brasileira de Vue.js](http://vuejs-brasil.com.br/code-splitting-com-vue-js-e-webpack/) - 2017/09/07
+
 
 ### preact
 
@@ -439,7 +443,7 @@
 
 * [How to Organize a Large React Application and Make It Scale | SitePoint](https://www.sitepoint.com/organize-large-react-application/) - 2017/04/26
 
-* [Writing Scalable React Apps with the Component Folder Pattern | Styled Components - Medium](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68) - 2017/08/28 
+* [Writing Scalable React Apps with the Component Folder Pattern | Styled Components - Medium](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68) - 2017/08/28
 
 --
 
