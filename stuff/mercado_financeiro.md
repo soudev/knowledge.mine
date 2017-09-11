@@ -277,6 +277,8 @@
 
 * [[YouTube] 5 melhores lições do livro Pai Rico, Pai Pobre | Rafael Seabra](https://www.youtube.com/watch?v=XvOwJm3fKaA) - 2017/08/28
 
+* [[YouTube] 5 Lições que EU APRENDI com Pai Rico, Pai Pobre! | O primo rico](https://www.youtube.com/watch?v=0RpwPpcw3iU) - 2017/09/08
+
 
 #### O homem mais rico da Babilônia
 
