@@ -639,6 +639,10 @@
 
 * [[YouTube] Dividend Yield Explained | Soni Bros](https://www.youtube.com/watch?v=hE_rfu3v3Po) - 2014/05/17
 
+--
+
+* [[YouTube] Dividend Ratios - Payout And Retention | Investopedia](https://www.youtube.com/watch?v=6wUsVZsRKfw) - 2013/12/12
+
 
 #### Dividendos
 
