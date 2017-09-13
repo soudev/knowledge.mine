@@ -253,6 +253,8 @@
 
 * [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
 
+* [[YouTube] The Intelligent Investor - Benjamin Graham - Animated Book Review | Practical Psychology](https://www.youtube.com/watch?v=7B72GjlKKPY) - 2016/05/11
+
 
 #### Warren Buffett: A bola de Neve
 
