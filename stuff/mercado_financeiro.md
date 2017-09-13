@@ -613,6 +613,10 @@
 
 --
 
+* [[YouTube] How The Stock Exchange Works (For Dummies) | Kurzgesagt – In a Nutshell](https://www.youtube.com/watch?v=F3QpgXBtDeo) - 2013/11/28
+
+--
+
 * [[YouTube] Trading 101: How to Buy Stocks | ClayTrader](https://www.youtube.com/watch?v=DF23jO8Y0n0) - 2016/06/30
 
 * [[YouTube] Trading 101: What is the Stock Market? | ClayTrader](https://www.youtube.com/watch?v=ixF_wB2uvOs) - 2016/08/18
