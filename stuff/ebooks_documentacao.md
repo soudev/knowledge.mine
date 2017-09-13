@@ -391,6 +391,8 @@
 
 * [Japanese Resources | Enboard.co](https://enboard.co/japanese/) - Organized links about everything Japanese.
 
+* [Learn Japanese - Free Japanese Language Beginner Course | Alison](https://alison.com/courses/japanese)
+
 --
 
 * [[YouTube] Chinês Mandarim? Japonês? Qual diferença? - Aula de Chinês](https://www.youtube.com/watch?v=VvCYkFOUaA8)
