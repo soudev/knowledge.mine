@@ -175,6 +175,10 @@
 
   * [4 - Está atolado até o pescoço? Respire e saia da dívida](https://www.youtube.com/watch?v=CnRA9FXNp-E)
 
+--
+
+* [[YouTube] What Is The 4% Rule? How Much Money Do I Need To Retire? | Video School Online](https://www.youtube.com/watch?v=0GpC8U0tF0M) - 2015/09/14
+
 
 ### Curiosidades
 
