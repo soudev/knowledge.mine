@@ -201,6 +201,8 @@
 
 * [[YouTube] Money & Debt: Crash Course World History 202](https://www.youtube.com/watch?v=94BtOtGVqLw)
 
+* [[YouTube] Economy (Money system) explained in 30 minutes | akkrz](https://www.youtube.com/watch?v=2zY4eHLdODI) - 2016/10/19
+
 --
 
 * [[YouTube] How Much Money is There on Earth? - VSauce](https://www.youtube.com/watch?v=w2tKg3E53DM)
@@ -253,6 +255,8 @@
 
 * [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
 
+--
+
 * [[YouTube] The Intelligent Investor - Benjamin Graham - Animated Book Review | Practical Psychology](https://www.youtube.com/watch?v=7B72GjlKKPY) - 2016/05/11
 
 
@@ -280,6 +284,12 @@
 * [[YouTube] 5 melhores lições do livro Pai Rico, Pai Pobre | Rafael Seabra](https://www.youtube.com/watch?v=XvOwJm3fKaA) - 2017/08/28
 
 * [[YouTube] 5 Lições que EU APRENDI com Pai Rico, Pai Pobre! | O primo rico](https://www.youtube.com/watch?v=0RpwPpcw3iU) - 2017/09/08
+
+--
+
+* [[YouTube] HOW TO GET RICH - Rich Dad Poor Dad by Robert Kiyosaki- Animated Book Review | The Better Men Project](https://www.youtube.com/watch?v=S0kTWPCVaT4) - 2016/06/17
+
+* [[YouTube] How to Create Passive Income - Rich Dad Poor Dad by Robert Kiyosaki Animated | The Better Men Project](https://www.youtube.com/watch?v=qdtzLMrb8zQ) - 2016/06/21
 
 
 #### O homem mais rico da Babilônia
