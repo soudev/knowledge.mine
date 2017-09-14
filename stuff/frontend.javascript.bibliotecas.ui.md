@@ -295,6 +295,8 @@
 
 * [[YouTube] Vue.js Fundamentals](https://www.youtube.com/playlist?list=PLwAKR305CRO_1yAao-8aZiQnBqJeyng4O) - Learn Vue.js 2.0 with this tutorial series.
 
+* [Learn Vue 2: Step By Step | @laracasts](https://laracasts.com/series/learn-vue-2-step-by-step/)
+
 * [Getting up and Running with the Vue.js 2.0 Framework | SitePoint](https://www.sitepoint.com/up-and-running-vue-js-2-0/) - 2016/11/29
 
 * [Create an App in VueJS 2 | Auth0](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/) - (2016/07/14) VueJS is coming out with a new version. Learn what's changed by building a simple application.
