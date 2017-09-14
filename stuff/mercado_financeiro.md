@@ -277,6 +277,8 @@
 #### Pai Rico, Pai Pobre
 
 > Robert Kiyosaki
+>
+> * [[YouTube] 15 Things You Didn't Know About Robert Kiyosaki | Alux.com](https://www.youtube.com/watch?v=ZA27mBm8wjM) - 2017/07/27
 
 * Pai Rico Pai Pobre - Robert Kiyosaki - [e-Livros](https://www.e-livros.xyz/ver/pai-rico-pai-pobre-robert-kiyosaki) | [Le Livros](http://lelivros.stream/book/download-pai-rico-pai-pobre-robert-kiyosaki-em-epub-mobi-pdf/)
 
