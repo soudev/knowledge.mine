@@ -3,7 +3,7 @@
 <!-- toc -->
 
 * [Visão Geral](#visão-geral)
-  * [Angular.js 2.0](#angularjs-20)
+  * [Angular (2.0+)](#angular-20)
   * [Estatísticas](#estatísticas)
   * [Por que utilizar o AngularJS?](#por-que-utilizar-o-angularjs)
   * [5 Características impressionantes](#5-características-impressionantes)
@@ -147,7 +147,7 @@
 * [Please stop worrying about Angular 3 | Todd Motto](https://toddmotto.com/please-stop-worrying-about-angular-3)
 
 
-### Angular.js 2.0
+### Angular (2.0+)
 
 * [Angular 2 TypeScript Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 
@@ -276,6 +276,12 @@
 * [Testing Angular Directives with Custom Matchers | thoughtram](https://blog.thoughtram.io/angular/2016/12/27/angular-2-advance-testing-with-custom-matchers.html) - 2016/12/27
 
 * [Angular testing made easy | Clarity Design System – Medium](https://medium.com/claritydesignsystem/angular-testing-made-easy-4e11f6044129) - (2017/03/15) This article is about Angular, as opposed to AngularJS. This means it applies for Angular 2.x, 4.x, and hopefully future versions.
+
+* Testing Components in Angular Using Jasmine | @tutsplus
+
+  * [part 1](https://code.tutsplus.com/tutorials/testing-components-in-angular-using-jasmine--cms-29165) - 2017/09/06
+
+  * [part 2 - services](https://code.tutsplus.com/tutorials/testing-components-in-angular-using-jasmine-part-2-services--cms-28933) - 2017/09/08
 
 --
 
