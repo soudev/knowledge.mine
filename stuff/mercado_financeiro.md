@@ -19,6 +19,7 @@
     * [Jorge Paulo Lemann](#jorge-paulo-lemann)
     * [Luiz Barsi Filho](#luiz-barsi-filho)
     * [Warren Buffett](#warren-buffett)
+    * [Peter Jonathan Adeney](#peter-jonathan-adeney)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Investir no Exterior](#investir-no-exterior)
   * [Robos de Investimento](#robos-de-investimento)
@@ -448,6 +449,17 @@
 * [[YouTube] Warren Buffett - HBO Documentary 2017 (HD) | Art of Money](https://www.youtube.com/watch?v=ridk6OvkgGM) - 2017/03/18
 
 * [[YouTube] Entrevista histórica com Warren Buffett, o 2º homem mais rico no mundo | Patricia Meirelles](https://www.youtube.com/watch?v=UbdDxOdYD4A) - 2017/08/17
+
+
+#### Peter Jonathan Adeney
+
+* [Mr. Money Mustache](http://www.mrmoneymustache.com/)
+
+* [[YouTube Channel] Mr. Money Mustache](https://www.youtube.com/channel/UCP9SHxSBAyeYP81Ea2iFoAA)
+
+* [[YouTube] How 'Mr. Money Moustache' Retired at Age 30 | ABC News](https://www.youtube.com/watch?v=vvJ4bwnAHnE) - 2015/05/13
+
+* [[YouTube] The Power Of Belief - The man who retired before age 30 | Limitless](https://www.youtube.com/watch?v=FEBe7ZEfORc) - 2017/03/05
 
 
 ## Informações úteis sobre investimentos
