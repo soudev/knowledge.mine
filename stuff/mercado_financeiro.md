@@ -143,6 +143,10 @@
 
 --
 
+* [[YouTube] 12 Habits of Millionaires - Money Making Habits and Mindset of the Wealthy | Practical Psychology](https://www.youtube.com/watch?v=RzA7R4mzxEM) - 2017/08/27
+
+--
+
 * [[YouTube] 10 Things the Rich Do (That The Poor Don't)](https://www.youtube.com/watch?v=NQhTXyu7d5s) - 2017/08/31
 
 * [[YouTube] 15 Signs You Are RICH | Alux.com](https://www.youtube.com/watch?v=Pucmmb_uLCo) - 2017/08/07
