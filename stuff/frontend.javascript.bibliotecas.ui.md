@@ -301,6 +301,15 @@
 
 * [Create an App in VueJS 2 | Auth0](https://auth0.com/blog/2016/07/14/create-an-app-in-vuejs-2/) - (2016/07/14) VueJS is coming out with a new version. Learn what's changed by building a simple application.
 
+* Aplicação SPA com VueJs 2 | Medium by @wesleysaraujo
+
+  * [Parte 1 — Agora é pra valer](https://medium.com/@wesleysaraujo/redesocial-spa-com-vuejs-2-parte-1-95549f49d755) - 2017/09/14
+
+  * [Parte 2 — Conhecendo a estrutura do nosso projeto e adicionando o Bootstrap e Bootswatch nele](https://medium.com/@wesleysaraujo/aplica%C3%A7%C3%A3o-spa-com-vuejs-2-parte-2-conhecendo-a-estrutura-do-nosso-projeto-e-adicionando-o-9195ec1f8794)
+
+  * [Parte 3 — Shell de aplicativo e começando os trabalhos com componentes](https://medium.com/@wesleysaraujo/aplica%C3%A7%C3%A3o-spa-com-vuejs-2-parte-3-shell-de-aplicativo-e-come%C3%A7ando-os-trabalhos-com-componentes-519c13e153d0)
+
+
 * [[GitHub] marcosmoura / vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
 
 * [Create a GitHub File Explorer Using Vue.js | Scotch](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) - 2015/11/03
