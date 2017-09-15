@@ -1,6 +1,5 @@
 # Mercado Financeiro
 
-
 <!-- toc -->
 
 * [Educação Financeira](#educação-financeira)
@@ -501,6 +500,8 @@
 * [[YouTube] Linha D'água](https://www.youtube.com/watch?v=L3TBuvsnyHs) - o que é CDI e SELIC?
 
 * [[YouTube] A SELIC CAIU! O Que vai RENDER MAIS DAQUI PRA FRENTE? | O primo rico](https://www.youtube.com/watch?v=MfYt3GPIN7o) - 2017/02/10
+
+* [[YouTube] ONDE investir com a Selic em QUEDA? | Rico](https://www.youtube.com/watch?v=QyB6TOFLrz4) - 2017/09/13
 
 
 ### Investir no Exterior
