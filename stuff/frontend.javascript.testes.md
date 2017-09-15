@@ -157,6 +157,8 @@
 
 * [Automated testing with Headless Chrome | Google Developers](https://developers.google.com/web/updates/2017/06/headless-karma-mocha-chai) - 2017/06/15
 
+* [Automating Google Chrome with Node.js | Tutorialzine](https://tutorialzine.com/2017/08/automating-google-chrome-with-node-js) - 2017/08/31
+
 
 #### Headless Firefox
 
