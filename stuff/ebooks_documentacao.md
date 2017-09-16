@@ -55,6 +55,8 @@
 
 --
 
+* [[YouTube] Regra de três, a conta mais importante da sua vida | Manual do Mundo](https://www.youtube.com/watch?v=ls6YLVn4_1o) - 2017/09/15
+
 * [Essential Math for Games Programmers | Essential Math](http://www.essentialmath.com/tutorial.htm)
 
 --
