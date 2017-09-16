@@ -72,6 +72,8 @@
 
 * [[YouTube] How Does BitCoin Work?](https://www.youtube.com/watch?v=LuA3xb-L8r8) - 2014/04/21
 
+* [[YouTube] Bitcoin: How Cryptocurrencies Work | SciShow](https://www.youtube.com/watch?v=kubGCSj5y3k) - 2016/12/21
+
 --
 
 * [[YouTube] Os full nodes e o consenso no bitcoin](https://www.youtube.com/watch?v=BhNL3a1b_MA) - 2017/06/20
