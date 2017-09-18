@@ -516,6 +516,9 @@
   * [[YouTube] The Four Money Beliefs That Are Holding You Back Financially | Dan Lok](https://www.youtube.com/watch?v=Oq_ycUpHPm4) - 2016/11/28
 
 
+* [[YouTube] Why School Sucks! Why School Kills Creativity - An Entrepreneur's Perspective | Dan Lok](https://www.youtube.com/watch?v=jUFIpvSbExw) - 2016/01/09
+
+
 ## Informações úteis sobre investimentos
 
 * [[YouTube] Poupança não é Investimento!!!](https://www.youtube.com/watch?v=ROJxDm_P4BU) - o que é investimento?
