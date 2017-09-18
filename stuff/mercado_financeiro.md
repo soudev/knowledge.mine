@@ -19,6 +19,7 @@
     * [Luiz Barsi Filho](#luiz-barsi-filho)
     * [Warren Buffett](#warren-buffett)
     * [Peter Jonathan Adeney](#peter-jonathan-adeney)
+    * [Dan Lok](#dan-lok)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Investir no Exterior](#investir-no-exterior)
   * [Robos de Investimento](#robos-de-investimento)
@@ -95,16 +96,6 @@
 * [[YouTube] The 20 Rules of Money | Valuetainment](https://www.youtube.com/watch?v=D9cPAuZIigs) - 2017/03/14
 
 * [[YouTube] How to Double Your Money | Valuetainment](https://www.youtube.com/watch?v=eh5VcbLHMeI) - 2017/05/23
-
---
-
-* [[YouTube] The Wealth Triangle | Dan Lok](https://www.youtube.com/watch?v=hjgN-K_b7nk) - 2017/09/05
-
-* [[YouTube] How To Live Like The Rich On A Budget | Dan Lok](https://www.youtube.com/watch?v=8W18qcAkVjU) - 2017/09/07
-
-* [[YouTube] How The Rich Invest Their Money - The 7 Levels of Investors | Dan Lok](https://www.youtube.com/watch?v=quSZnRcLWhs) - 2017/09/10
-
-* [[YouTube] What The Rich Won't Tell You | Dan Lok](https://www.youtube.com/watch?v=ZfgYB64guZs) - 2017/09/12
 
 
 ## Informações gerais
@@ -419,7 +410,7 @@
 
 #### Jorge Paulo Lemann
 
-* [[YouTube] BIllionaire Jorge Paulo Lemann on Business and Brazil](https://www.youtube.com/watch?v=d469KrJz0xg) - 2016/10/09
+* [[YouTube] Billionaire Jorge Paulo Lemann on Business and Brazil](https://www.youtube.com/watch?v=d469KrJz0xg) - 2016/10/09
 
 * [[YouTube] O que nunca perguntaram para Jorge Paulo Lemann? | Patricia Meirelles](https://www.youtube.com/watch?v=9DgIMkcvW4A) - 2017/02/25
 
@@ -479,6 +470,50 @@
 * [[YouTube] How 'Mr. Money Moustache' Retired at Age 30 | ABC News](https://www.youtube.com/watch?v=vvJ4bwnAHnE) - 2015/05/13
 
 * [[YouTube] The Power Of Belief - The man who retired before age 30 | Limitless](https://www.youtube.com/watch?v=FEBe7ZEfORc) - 2017/03/05
+
+
+#### Dan Lok
+
+* [Site](http://www.danlok.com/)
+
+* [YouTube channel](https://www.youtube.com/user/vanentrepreneurgroup/)
+
+
+* [[YouTube] The Unstoppable Force - The Real Difference Between Success and Failure | Dan Lok | TEDxSFU](https://www.youtube.com/watch?v=qvNyo1-AK6o) - 2017/03/08
+
+
+* [[YouTube playlist] Millionaire Productivity Habits | Dan Lok](https://www.youtube.com/watch?v=_sy12jNd4fM&list=PLEmTTOfet46OmSXIUKmbHe1acy6u-fIVX)
+
+* [[YouTube playlist] Millionaire Mindset | Dan Lok](https://www.youtube.com/watch?v=1Q-nK8XMS48&list=PLEmTTOfet46O591glMGzRMoHaIJB-bQiq)
+
+
+* The Wealth Triangle
+
+  * [[YouTube] How to Invest Like A Millionaire | Dan Lok](https://www.youtube.com/watch?v=bDWpmvlfUgg) - 2017/09/03
+
+  * [[YouTube] The Wealth Triangle | Dan Lok](https://www.youtube.com/watch?v=hjgN-K_b7nk) - 2017/09/05
+
+  * [[YouTube] How To Live Like The Rich On A Budget | Dan Lok](https://www.youtube.com/watch?v=8W18qcAkVjU) - 2017/09/07
+
+  * [[YouTube] How The Rich Invest Their Money - The 7 Levels of Investors | Dan Lok](https://www.youtube.com/watch?v=quSZnRcLWhs) - 2017/09/10
+
+  * [[YouTube] What The Rich Won't Tell You | Dan Lok](https://www.youtube.com/watch?v=ZfgYB64guZs) - 2017/09/12
+
+  * [[YouTube] Act As If You'll Become Successful | Dan Lok](https://www.youtube.com/watch?v=VX07XjBoXeE) - 2017/09/17
+
+
+* Rich Dad Poor Dad
+
+  * [[YouTube] Why Most People Misunderstood The Rich Dad Poor Dad Message | Wealth Principle #7 | Dan Lok](https://www.youtube.com/watch?v=yoXxKzHtImg) - 2016/12/31
+
+  * [[YouTube] Rich Dad Poor Dad: What Robert Kiyosaki Taught Me About Money and Business Success | Dan Lok](https://www.youtube.com/watch?v=ZB8jZ8UB-5I) - 2015/09/20
+
+
+* How Millionaires Think
+
+  * [[YouTube] Why The Law of Attraction Doesn't Work If You.... | Dan Lok](https://www.youtube.com/watch?v=1Q-nK8XMS48) - 2016/11/26
+
+  * [[YouTube] The Four Money Beliefs That Are Holding You Back Financially | Dan Lok](https://www.youtube.com/watch?v=Oq_ycUpHPm4) - 2016/11/28
 
 
 ## Informações úteis sobre investimentos
