@@ -96,6 +96,16 @@
 
 * [[YouTube] How to Double Your Money | Valuetainment](https://www.youtube.com/watch?v=eh5VcbLHMeI) - 2017/05/23
 
+--
+
+* [[YouTube] The Wealth Triangle | Dan Lok](https://www.youtube.com/watch?v=hjgN-K_b7nk) - 2017/09/05
+
+* [[YouTube] How To Live Like The Rich On A Budget | Dan Lok](https://www.youtube.com/watch?v=8W18qcAkVjU) - 2017/09/07
+
+* [[YouTube] How The Rich Invest Their Money - The 7 Levels of Investors | Dan Lok](https://www.youtube.com/watch?v=quSZnRcLWhs) - 2017/09/10
+
+* [[YouTube] What The Rich Won't Tell You | Dan Lok](https://www.youtube.com/watch?v=ZfgYB64guZs) - 2017/09/12
+
 
 ## Informações gerais
 
