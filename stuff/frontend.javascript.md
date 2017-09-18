@@ -1236,6 +1236,10 @@
 
 * [3 ways to reduce webpack bundle size | Jakob Lind](http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/) - 2017/05/18
 
+* [Tech Talk Recap: How to Improve Webpack Performance in Large Projects | REDFIN Engineering](https://redfin.engineering/tech-talk-recap-how-to-improve-webpack-performance-in-large-projects-5435bb18dd18) - 2017/09/11
+
+  * [[YouTube] Redfin Tech Talk: How to Improve Webpack Performance in Large Projects | Redfin](https://www.youtube.com/watch?v=AifDI71uqF0) - 2017/08/30
+
 --
 
 * [[GitHub] geowarin / friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) - Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them to provide a better Developer Experience
