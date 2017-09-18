@@ -511,6 +511,8 @@
 
 * How Millionaires Think
 
+  * [[YouTube] Why You Shouldn't Chase Money - Millionaire Mindset Wealth Principle #2 | Dan Lok](https://www.youtube.com/watch?v=hc1fklci3Gc) - 2016/12/07
+
   * [[YouTube] Why The Law of Attraction Doesn't Work If You.... | Dan Lok](https://www.youtube.com/watch?v=1Q-nK8XMS48) - 2016/11/26
 
   * [[YouTube] The Four Money Beliefs That Are Holding You Back Financially | Dan Lok](https://www.youtube.com/watch?v=Oq_ycUpHPm4) - 2016/11/28
