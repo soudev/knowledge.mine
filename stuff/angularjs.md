@@ -3146,6 +3146,8 @@ describe('testing something...', function() {
 
 * [Visual Studio Code](https://code.visualstudio.com//) - Code focused development. Redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform - Linux, Mac OSX, and Windows.
 
+* [6 Essential VSCode Extensions for Angular Developers | Programming with Mosh](https://programmingwithmosh.com/angular/essential-vscode-extensions-for-angular-developers/)
+
 * [Visual Studio Code for Angular developers - Visual Studio Code for Angular developers | Channel 9](https://channel9.msdn.com/Events/JavaScript-Webinar-Series/Visual-Studio-Code-for-Angular-developers/Visual-Studio-Code-for-Angular-developers)
 
 * [[GitHub] johnpapa / hottowel-angular-typescript](https://github.com/johnpapa/hottowel-angular-typescript) - As seen at //Build 2015 presented by Erich Gamma, Chris Dias and John Papa.
