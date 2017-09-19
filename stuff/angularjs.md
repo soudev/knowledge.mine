@@ -197,6 +197,8 @@
 
   * [[GitHub] johnpapa / angular2-force](https://github.com/johnpapa/angular2-force) - ngConf 2016 live coding demo
 
+* [The Missing Introduction to Angular and Modern Design Patterns | Medium by @sinedied](https://medium.com/@sinedied/the-missing-introduction-to-angular-and-modern-design-patterns-43e8815c2801) - 2017/09/18
+
 --
 
 * [Angular 1 and Angular 2 integration: the path to seamless upgrade | AngularJS Blog](http://angularjs.blogspot.com.br/2015/08/angular-1-and-angular-2-coexistence.html)
