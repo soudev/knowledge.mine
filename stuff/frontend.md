@@ -1,16 +1,18 @@
 # Front-End
 
 <!-- toc -->
+
 * [Visão Geral](#visão-geral)
 * [Browsers antigos](#browsers-antigos)
 * [Emmet](#emmet)
-* [HTML Codes / Unicode](#html-codes-unicode)
 * [Imagens](#imagens)
   * [Icon](#icon)
   * [FavIcon](#favicon)
   * [SVG](#svg)
 * [Source Map](#source-map)
-* [HTML Email](#html-email)
+* [HTML](#html)
+  * [HTML Codes / Unicode](#html-codes-unicode)
+  * [HTML Email](#html-email)
 
 <!-- toc stop -->
 
@@ -139,13 +141,6 @@
 * [Build Bootstrap in Minutes Using Emmet | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/applications/build-bootstrap-in-minutes-using-emmet/)
 
 * [Write HTML Crazy Fast with Emmet: An Interactive Guide | Scotch](http://scotch.io/bar-talk/write-html-crazy-fast-with-emmet-an-interactive-guide)
-
-
-## HTML Codes / Unicode
-
-* [HTML Codes - Characters and symbols](http://www.ascii.cl/htmlcodes.htm)
-
-* [Unicode Character Table](http://unicode-table.com/) - Very extensive table showing all existing unicode characters, along with their respective names, numbers and codes.
 
 
 ## Imagens
@@ -321,7 +316,21 @@
 * [Introduction to JavaScript Source Maps | HTML5 Rocks](http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/)
 
 
-## HTML Email
+## HTML
+
+* [<head> cheatsheet - A free guide to <head> elements](http://gethead.info/)
+
+  * [[GitHub] joshbuchea / HEAD](https://github.com/joshbuchea/head) - A list of everything that could go in the <head> of your document
+
+
+### HTML Codes / Unicode
+
+* [HTML Codes - Characters and symbols](http://www.ascii.cl/htmlcodes.htm)
+
+* [Unicode Character Table](http://unicode-table.com/) - Very extensive table showing all existing unicode characters, along with their respective names, numbers and codes.
+
+
+### HTML Email
 
 * [Build an HTML Email Template From Scratch | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/build-an-html-email-template-from-scratch/)
 
