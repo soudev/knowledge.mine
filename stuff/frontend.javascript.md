@@ -949,6 +949,17 @@
   * [Parte 7 - Regex no mundo JavaScript](https://medium.com/trainingcenter/entendendo-de-uma-vez-por-todas-express%C3%B5es-regulares-parte-7-66be1ac1f72d)
 
 
+* Expressões Regulares em Javascript - Libere o poder oculto na prática | Medium by @felipemonobe
+
+  * [Parte 1 - Introdução](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-1-2e22910f7af2) - 2017/06/05
+
+  * [2 - Metacharacters](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-2-66db21827352) - 2017/06/15
+
+  * [3 - Character Sets & Quantifiers](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-3-character-sets-2c1be7455ab9) - 2017/07/05
+
+  * [4 - Anchors](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-4-%C3%A2ncoras-77561c659154) - 2017/08/19
+
+
 #### Expressões Regulares: Ferramentas online
 
 * [RegExr](http://regexr.com/) - Create & Test Regular Expressions
