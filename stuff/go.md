@@ -58,6 +58,10 @@
 
 * [Rewriting our web analytics tracking infrastructure in Go | Skroutz Engineering](https://engineering.skroutz.gr/blog/rewriting-web-analytics-tracking-in-go/) - 2017/05/17
 
+* [Buffalo](https://www.gobuffalo.io/) - Rapid Web Development in Go
+
+  * [[Github] Buffalo](https://github.com/gobuffalo) - The Go Web Eco-System
+
 --
 
 * [[Speaker Deck] Advanced Testing with Go](https://speakerdeck.com/mitchellh/advanced-testing-with-go) - by Mitchell Hashimoto (2016/03/15)
