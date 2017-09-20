@@ -194,6 +194,8 @@
 
 --
 
+* [JavaScript Data Types Explained | codeburst](https://codeburst.io/javascript-data-types-explained-347555cd2d4d) - 2017/09/11
+
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
 
 * [It's time to start using JavaScript strict mode | NCZOnline](http://www.nczonline.net/blog/2012/03/13/its-time-to-start-using-javascript-strict-mode/)
