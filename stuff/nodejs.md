@@ -1944,6 +1944,8 @@
 
 * [Writing a Node.js module in TypeScript | The Practical Dev](https://dev.to/dkundel/writing-a-nodejs-module-in-typescript) - (2017/07/21) Learn how to write a module using TypeScript that can be consumed with both JavaScript and TypeScript in Node.js or the browser.
 
+* [Using ES modules natively in Node.js | 2ality](http://2ality.com/2017/09/native-esm-node.html) - (2017/09/12) Starting with version 8.5.0, Node.js supports ES modules natively, behind a command line option.
+
 
 ### NPM
 
