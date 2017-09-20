@@ -2332,6 +2332,8 @@
 
 > ECMAScript 6 -> ECMAScript 2015
 
+* [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ? | codeburst](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) - 2017/08/28
+
 * [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
   * [[GitHub] kangax / compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
