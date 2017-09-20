@@ -795,6 +795,10 @@
 
 --
 
+* [[GitHub] williamkapke / bson-objectid](https://github.com/williamkapke/bson-objectid) - Construct ObjectIDs without the mongodb driver or bson module
+
+--
+
 * [uuid | node.js modules](https://nodejsmodules.org/tags/uuid)
 
 * [[GitHub] broofa / node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript
