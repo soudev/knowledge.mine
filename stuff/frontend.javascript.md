@@ -354,6 +354,8 @@
 
   * [upload progress? #89](https://github.com/github/fetch/issues/89)
 
+* [[Speaker Deck] Introdução a fetch API](https://speakerdeck.com/marcelgsantos/introducao-a-fetch-api) - 2017/09/12
+
 * [[YouTube] Fetch API (100 Days of Google Dev) - Google Developers](https://www.youtube.com/watch?v=g6-ZwZmRncs) - 2015/07/05
 
 * [Using Fetch | CSS-Tricks](https://css-tricks.com/using-fetch/) - 2017/05/02
