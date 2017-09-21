@@ -663,6 +663,14 @@
 
 --
 
+* [Solution for Floating-Point Problems in JavaScript | The Web Flash](https://www.thewebflash.com/solution-for-floating-point-problems-in-javascript/)
+
+* [Avoiding Problems with Decimal Math in JavaScript | A Drip of JavaScript](http://adripofjavascript.com/blog/drips/avoiding-problems-with-decimal-math-in-javascript.html)
+
+* [JavaScript Mistakes | w3schools](https://www.w3schools.com/js/js_mistakes.asp)
+
+--
+
 * [The Dangers of Stopping Event Propagation | CSS-Tricks](http://css-tricks.com/dangers-stopping-event-propagation/)
 
 * [JavaScript Events: Save the Bubbles! | David Walsh Blog](http://davidwalsh.name/javascript-events)
