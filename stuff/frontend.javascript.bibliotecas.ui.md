@@ -6,6 +6,7 @@
   * [PDF Viewer](#pdf-viewer)
   * [JQuery](#jquery)
   * [Vue.js](#vuejs)
+  * [infernojs](#infernojs)
   * [preact](#preact)
   * [React.js](#reactjs)
     * [React Native](#react-native)
@@ -343,6 +344,11 @@
 --
 
 * [Code splitting com Vue.js e Webpack | Comunidade Brasileira de Vue.js](http://vuejs-brasil.com.br/code-splitting-com-vue-js-e-webpack/) - 2017/09/07
+
+
+### infernojs
+
+* [[GitHub] infernojs / inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces
 
 
 ### preact
