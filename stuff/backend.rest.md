@@ -188,6 +188,8 @@
 
 * [Choosing an HTTP Status Code — Stop Making It Hard | Racksburg](http://racksburg.com/choosing-an-http-status-code/)
 
+* [httpstatuses.com](https://httpstatuses.com/) - is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+
 * [HTTP Status Codes](http://restpatterns.org/HTTP_Status_Codes)
 
 * [The HTTP status codes in IIS 7.0 and in IIS 7.5 | x443](http://x443.wordpress.com/2012/12/02/the-http-status-codes-in-iis-7-0-and-in-iis-7-5/)
