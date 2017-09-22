@@ -632,6 +632,8 @@
 
 --
 
+* [Optimize React Performance | DailyJS](https://medium.com/dailyjs/optimize-react-performance-c1a491ed9c36) - (2017/08/12) How to improve React performance in production and avoid common mistakes
+
 * [Twitter Lite and High Performance React Progressive Web Apps at Scale | Medium by @paularmstrong](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) - 2017/04/11
 
 * [Testing React Components Best Practices | selleo – Medium](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) - 2017/03/03
