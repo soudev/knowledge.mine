@@ -657,6 +657,8 @@
 
 * [[GitHub] garthenweb / react-native-e2etest](https://github.com/garthenweb/react-native-e2etest)
 
+* [[GitHub] gabrielbull / react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10
+
 --
 
 * [Deco IDE](https://www.decosoftware.com/) - the React Native IDE
