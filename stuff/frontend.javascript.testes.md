@@ -11,6 +11,8 @@
     * [Protractor](#protractor)
     * [Karma](#karma)
     * [Testem](#testem)
+    * [Supertest](#supertest)
+    * [Jest](#jest)
     * [Headless Chrome](#headless-chrome)
     * [Headless Firefox](#headless-firefox)
     * [PhantomJS](#phantomjs)
@@ -149,6 +151,18 @@
   * [[GitHub] joe-zim-javascript-blog / Jasmine-Testem-Boilerplate](https://github.com/joe-zim-javascript-blog/Jasmine-Testem-Boilerplate) - Boilerplate code for projects using Jasmine with Testem for unit testing
 
 * [Configurando um ambiente de teste unitário Jasmine com Testem | iMasters](http://imasters.com.br/front-end/javascript/configurando-um-ambiente-de-teste-unitario-jasmine-com-testem/)
+
+
+#### Supertest
+
+* [[GitHub] visionmedia / supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API
+
+
+#### Jest
+
+* [Jest](https://facebook.github.io/jest/) - Delightful JavaScript Testing
+
+* [A clear and concise introduction to testing Koa with Jest and Supertest | Valentino G's Blog](https://www.valentinog.com/blog/testing-api-koa-jest/) - (2017/09/13) Did you know you could use async/await with Jest? Here's an introduction to writing cleaner code while testing, with Jest and Supertest
 
 
 #### Headless Chrome
