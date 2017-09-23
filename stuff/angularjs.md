@@ -169,6 +169,8 @@
 
 * [[GitHub] UltimateAngular / angular-fundamentals-src](https://github.com/UltimateAngular/angular-fundamentals-src) - Source code for the "Angular 2 Fundamentals" course
 
+* [[GitHub] angular / playground](https://github.com/angular/playground)
+
 --
 
 * [Angular 2: Why TypeScript? | vsavkin.com](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
