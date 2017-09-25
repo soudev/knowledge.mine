@@ -1,5 +1,18 @@
 # PHP
 
+<!-- toc -->
+
+* [Infos](#infos)
+* [Frameworks](#frameworks)
+  * [Slim](#slim)
+  * [Laravel](#laravel)
+* [Tools](#tools)
+
+<!-- toc stop -->
+
+
+## Infos
+
 * [PHP](https://php.net)
 
 * [PHP: Do Jeito Certo](http://br.phptherightway.com/)
@@ -37,3 +50,8 @@
 * [[Speaker Deck] 50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes) - 2015/11/19
 
 * [[GitHub] lsrur / inspector](https://github.com/lsrur/inspector) - Laravel Inspector, debugging and profiling tools for Web Artisans
+
+
+## Tools
+
+* [[GitHub] weprovide / valet-plus](https://github.com/weprovide/valet-plus) - Blazing fast macOS PHP development environment
