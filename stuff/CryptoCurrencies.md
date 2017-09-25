@@ -13,6 +13,7 @@
 * [Mining](#mining)
   * [Mining Pool](#mining-pool)
 * [Tips](#tips)
+* [Projects and APIs](#projects-and-apis)
 
 <!-- toc stop -->
 
@@ -283,3 +284,8 @@
     * [Remote Desktop Manager](https://remotedesktopmanager.com/Home/Download)
 
   * [[YouTube] How to Keep Your Mining Rigs cool in the Summer](https://www.youtube.com/watch?v=E-_9F8R_PFU) - 2017/06/11
+
+
+## Projects and APIs
+
+* [[GitHub] lucianopf / bitwages](https://github.com/lucianopf/bitwages) - Project to calculate the conversion rate with or without fees receiving money from USD/BTC - Coinbase
