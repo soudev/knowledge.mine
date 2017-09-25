@@ -406,6 +406,10 @@
 
 ### Padrões
 
+* [[GitHub] mbeaudru / modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
+
+--
+
 * [Popular Coding Convention on Github - JavaScript](http://sideeffect.kr/popularconvention#javascript)
 
 --
