@@ -228,9 +228,13 @@
 
   * [[GitHub] vuejs / vue](https://github.com/vuejs/vue) - Simple yet powerful library for building modern web interfaces.
 
+--
+
 * [Consider VueJS for Your Next Web Project | @codeship](https://blog.codeship.com/consider-vuejs-next-web-project/) - 2016/06/30
 
 * [[GitHub] Justineo / vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
+
+* [[GitHub] vuejs-br / empresas-que-usam-vue-no-brasil](https://github.com/vuejs-br/empresas-que-usam-vue-no-brasil) - Empresas que usam Vue no Brasil
 
 --
 
