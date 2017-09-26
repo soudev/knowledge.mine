@@ -159,6 +159,14 @@
 
 --
 
+* [[YouTube] 21 Habits of Rich People, Part 1 – Golden Nugget #62 | DonHoweSuccess](https://www.youtube.com/watch?v=8yRKCvlX5Gg) - 2015/04/06
+
+* [[YouTube] 21 Habits of Rich People, Part 2 – Golden Nugget #63 | DonHoweSuccess](https://www.youtube.com/watch?v=y6Ni5Yk8390) - 2015/04/07
+
+* [[YouTube] 21 Habits of Rich People, Part 3 - Golden Nugget #64 | DonHoweSuccess](https://www.youtube.com/watch?v=XeARHlhYrWQ) - 2015/04/09
+
+--
+
 * [[YouTube playlist] Billionaires Only | Alux.com](https://www.youtube.com/watch?v=pT50F7u0TAI&list=PLP35LyTOQVIsO8kOTx8-YOgwkGvrPtJ3M)
 
 --
