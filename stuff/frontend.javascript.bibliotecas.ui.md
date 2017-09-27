@@ -230,6 +230,10 @@
 
 --
 
+* [Uma visão geral sobre o Vue.js e o futuro do framework | Ktquez Playground](https://ktquez.com/vuejs/uma-visao-geral-sobre-o-vue-js-e-o-futuro-framework) - 2017/09/26
+
+--
+
 * [Consider VueJS for Your Next Web Project | @codeship](https://blog.codeship.com/consider-vuejs-next-web-project/) - 2016/06/30
 
 * [[GitHub] Justineo / vue-awesome](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
