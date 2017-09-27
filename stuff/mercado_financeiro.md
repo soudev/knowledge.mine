@@ -97,6 +97,30 @@
 
 * [[YouTube] How to Double Your Money | Valuetainment](https://www.youtube.com/watch?v=eh5VcbLHMeI) - 2017/05/23
 
+--
+
+* [[YouTube] How To Think Like Millionaires - Secrets of The Millionaire Mind by Harv Eker - Animated Book Review | Proactive Thinker](https://www.youtube.com/watch?v=iLRBkIcBJ48) - 2017/03/02
+
+* [[YouTube] 3 Most Important Rules Of Money | Proactive Thinker](https://www.youtube.com/watch?v=TIHRdrVZl_Q) - 2017/06/18
+
+* [[YouTube] 3 Practical Ways To Make Passive Income Online | Proactive Thinker](https://www.youtube.com/watch?v=VwRCZdDJtaM) - 2017/06/26
+
+* [[YouTube] Investing for beginners | Proactive Thinker](https://www.youtube.com/watch?v=Z-VRWG5jhWg) - 2017/07/07
+
+* [[YouTube] Investing In Stocks For Beginners - How To Invest In Stock Market | Proactive Thinker](https://www.youtube.com/watch?v=YEkpPTlfHeI) - 2017/07/16
+
+* [[YouTube] 5 Practical Money Saving Hacks - How To Save More Money Each Month! | Proactive Thinker](https://www.youtube.com/watch?v=-gloUoFWNaY) - 2017/07/25
+
+* [[YouTube] Why The Rich Keep Getting Richer And The Poor Poorer | Proactive Thinker](https://www.youtube.com/watch?v=opsD-l1zxi0) - 2017/08/07
+
+* [[YouTube] Why I Regret Going To College! - Is College Worth It For You? | Proactive Thinker](https://www.youtube.com/watch?v=7e5alVWtWH4) - 2017/08/15
+
+* [[YouTube] Psychological Hack To Get Rich | Proactive Thinker](https://www.youtube.com/watch?v=3FgZEnAvmtE) - 2017/08/17
+
+* [[YouTube] You Will Go Broke If You Invest Your Money Here - Financial System Exposed | Proactive Thinker](https://www.youtube.com/watch?v=j79liIvJr70) - 2017/09/18
+
+* [[YouTube] How Exercise Affects Your Brain | Proactive Thinker](https://www.youtube.com/watch?v=GssC6Dbr9fw) - 2017/09/23
+
 
 ## Informações gerais
 
