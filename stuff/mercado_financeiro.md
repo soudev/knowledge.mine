@@ -123,6 +123,8 @@
 
 * [[YouTube] How Exercise Affects Your Brain | Proactive Thinker](https://www.youtube.com/watch?v=GssC6Dbr9fw) - 2017/09/23
 
+* [[YouTube] Why Rich People Pay Less Taxes Than You - The Truth About Taxes | Proactive Thinker](https://www.youtube.com/watch?v=7W582wAoIWg) - 2017/09/27
+
 
 ## Informações gerais
 
