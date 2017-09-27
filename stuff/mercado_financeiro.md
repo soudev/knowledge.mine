@@ -117,6 +117,8 @@
 
 * [[YouTube] Psychological Hack To Get Rich | Proactive Thinker](https://www.youtube.com/watch?v=3FgZEnAvmtE) - 2017/08/17
 
+* [[YouTube] 7 Reasons Why You Will Never Get Rich | Proactive Thinker](https://www.youtube.com/watch?v=OdyUyS1taJA) - 2017/09/04
+
 * [[YouTube] You Will Go Broke If You Invest Your Money Here - Financial System Exposed | Proactive Thinker](https://www.youtube.com/watch?v=j79liIvJr70) - 2017/09/18
 
 * [[YouTube] How Exercise Affects Your Brain | Proactive Thinker](https://www.youtube.com/watch?v=GssC6Dbr9fw) - 2017/09/23
