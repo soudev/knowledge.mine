@@ -46,6 +46,8 @@
 
 * [Basics of CSS grid layout | Labcodes Software Studio – Medium](https://medium.com/labcodes/basics-of-css-grid-layout-3a47aea089dc) - 2017/05/23
 
+* [CSS Grid PlayGround - Terminology | Mozilla](https://mozilladevelopers.github.io/playground/)
+
 
 ### Dicas
 
