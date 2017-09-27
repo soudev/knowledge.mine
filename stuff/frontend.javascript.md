@@ -617,6 +617,8 @@
 
 --
 
+* [Essential Vanilla JavaScript Functions | The Practical Dev](https://dev.to/amit_merchant/essential-vanilla-javascript-functions) - 2017/09/22
+
 * [Super useful JavaScript functions | RevillWeb](http://www.revillweb.com/tutorials/super-useful-javascript-functions/)
 
 * [Of how to implement transient in JavaScript | Paul Masurel](http://fulmicoton.com/posts/transient/) - Java programmers are probably familiar with the concept of transient as it is a keyword in this language. By marking an object property as transient, you tell Java that this property should be skipped in serialization.
