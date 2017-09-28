@@ -4,6 +4,7 @@
 
 * [Educação Financeira](#educação-financeira)
   * [Sites e Blogs](#sites-e-blogs)
+  * [Vamos Prosperar](#vamos-prosperar)
   * [Easyinvest](#easyinvest)
   * [XP Investimentos](#xp-investimentos)
   * [TED Talk](#ted-talk)
@@ -83,6 +84,11 @@
 * [Me poupe](http://mepoupenaweb.com/) - Finanças pessoais, economia simplificada, consumo consciente e enriquecimento lícito sem frescura
 
 * [Clube do Valor](https://clubedovalor.com.br/) - Seu Caminho Rumo à Independência Financeira
+
+
+### Vamos Prosperar
+
+* [[YouTube] Os 7 maiores erros financeiros segundo a Bíblia | Vamos Prosperar](https://www.youtube.com/watch?v=LaKVSk_gzb8) - 2017/04/20
 
 
 ### Easyinvest
