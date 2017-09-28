@@ -139,6 +139,8 @@
 
 * [[YouTube] Psychological Hack To Get Rich | Proactive Thinker](https://www.youtube.com/watch?v=3FgZEnAvmtE) - 2017/08/17
 
+* [[YouTube] 5 Books You Must Read Before You Die | Proactive Thinker](https://www.youtube.com/watch?v=UmSL2s0uDcg) - 2017/08/19
+
 * [[YouTube] 7 Reasons Why You Will Never Get Rich | Proactive Thinker](https://www.youtube.com/watch?v=OdyUyS1taJA) - 2017/09/04
 
 * [[YouTube] You Will Go Broke If You Invest Your Money Here - Financial System Exposed | Proactive Thinker](https://www.youtube.com/watch?v=j79liIvJr70) - 2017/09/18
@@ -702,7 +704,7 @@
 
 #### Fundos Imobiliários
 
-* [Fundos Imobiliários | BM&F BOVESPA](http://www.bmfbovespa.com.br/fundos-listados/fundoslistados.aspx?Idioma=pt-br&tipoFundo=imobiliario)
+* [Fundos Imobiliários | BM&F BOVESPA]http://www.bmfbovespa.com.br/pt_br/produtos/listados-a-vista-e-derivativos/renda-variavel/fundos-de-investimentos/fii/fiis-listados/)
 
 * [FIIs.com.br](http://fiis.com.br/) - Acompanhamento dos Fundos de Investimento Imobiliários
 
