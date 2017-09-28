@@ -3,8 +3,13 @@
 <!-- toc -->
 
 * [Educação Financeira](#educação-financeira)
-* [Informações gerais](#informações-gerais)
-  * [Curiosidades](#curiosidades)
+  * [Sites e Blogs](#sites-e-blogs)
+  * [Easyinvest](#easyinvest)
+  * [XP Investimentos](#xp-investimentos)
+  * [TED Talk](#ted-talk)
+  * [Valuetainment](#valuetainment)
+  * [Proactive Thinker](#proactive-thinker)
+  * [Project Better Self](#project-better-self)
   * [Livros](#livros)
     * [Os Axiomas de Zurique](#os-axiomas-de-zurique)
     * [O investidor inteligente](#o-investidor-inteligente)
@@ -12,6 +17,8 @@
     * [Pai Rico, Pai Pobre](#pai-rico-pai-pobre)
     * [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilônia)
     * [Os segredos da mente milionária](#os-segredos-da-mente-milionária)
+* [Informações gerais](#informações-gerais)
+  * [Curiosidades](#curiosidades)
   * [Pessoas](#pessoas)
     * [Gustavo Cerbasi](#gustavo-cerbasi)
     * [Carlos Wizard Martins](#carlos-wizard-martins)
@@ -39,9 +46,9 @@
 * [Ferramentas](#ferramentas)
   * [Home Broker](#home-broker)
 * [Cotações Online](#cotações-online)
-* [APIs](#apis)
-  * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
+  * [APIs](#apis)
+    * [Yahoo Finance](#yahoo-finance)
 * [Imposto de Renda](#imposto-de-renda)
 * [Economia](#economia)
 
@@ -49,10 +56,6 @@
 
 
 ## Educação Financeira
-
-* [Trade ao Vivo](http://www.tradeaovivo.com.br/)
-
---
 
 * [Economia e finanças | Khan Academy](https://pt.khanacademy.org/economics-finance-domain/) - recursos economia e finanças gratuitos da Khan Academy. Assista a vídeos, leia artigos e expanda seu conhecimento em qualquer tópico economia e finanças.
 
@@ -62,23 +65,32 @@
 
 --
 
-* [Suicide Squad Traders](http://suicidesquadtraders.com/) - Um esquadrão de traders que se formou para revolucionar a forma como o mercado financeiro enxerga o pequeno trader! #WEARESST
-
-* [Me poupe](http://mepoupenaweb.com/) - Finanças pessoais, economia simplificada, consumo consciente e enriquecimento lícito sem frescura
-
-* [Clube do Valor](https://clubedovalor.com.br/) - Seu Caminho Rumo à Independência Financeira
-
---
-
 * [12 ideias para aumentar as chances de seu filho ter um futuro acima da média | Blog Geração de Valor](http://geracaodevalor.com/blog/12-ideias-para-aumentar-as-chances-de-seu-filho-ter-um-futuro-acima-da-media/)
 
 * [20 dicas para ensinar crianças e adolescentes a lidar com dinheiro | Economia - UOL](http://economia.uol.com.br/financas-pessoais/noticias/redacao/2014/08/30/17-dicas-para-ensinar-criancas-a-lidar-com-dinheiro.htm)
 
 --
 
+* [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
+
+
+### Sites e Blogs
+
+* [Trade ao Vivo](http://www.tradeaovivo.com.br/)
+
+* [Suicide Squad Traders](http://suicidesquadtraders.com/) - Um esquadrão de traders que se formou para revolucionar a forma como o mercado financeiro enxerga o pequeno trader! #WEARESST
+
+* [Me poupe](http://mepoupenaweb.com/) - Finanças pessoais, economia simplificada, consumo consciente e enriquecimento lícito sem frescura
+
+* [Clube do Valor](https://clubedovalor.com.br/) - Seu Caminho Rumo à Independência Financeira
+
+
+### Easyinvest
+
 * [[YouTube] 5 dicas para uma aposentadoria sem INSS - Easyinvest](https://www.youtube.com/watch?v=NR4eEkc6avI)
 
---
+
+### XP Investimentos
 
 * [[YouTube] XP Investimentos: Como Montar o Orçamento Doméstico?](https://www.youtube.com/watch?v=itqLOX3hQlA)
 
@@ -86,19 +98,22 @@
 
 * [[YouTube] XP Investimentos: Aprenda a Investir seu Dinheiro](https://www.youtube.com/watch?v=0R9IWnQnn0Q)
 
-* [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
+
+### TED Talk
 
 * [[YouTube] Why the Rich are Getting Richer | Robert Kiyosaki | TEDxUCSD](https://www.youtube.com/watch?v=abMQhaMdQu0) - 2016/07/21
 
 * [[YouTube] When money isn’t real: the $10,000 experiment | Adam Carroll | TEDxLondonBusinessSchool](https://www.youtube.com/watch?v=_VB39Jo8mAQ) - 2015/07/09
 
---
+
+### Valuetainment
 
 * [[YouTube] The 20 Rules of Money | Valuetainment](https://www.youtube.com/watch?v=D9cPAuZIigs) - 2017/03/14
 
 * [[YouTube] How to Double Your Money | Valuetainment](https://www.youtube.com/watch?v=eh5VcbLHMeI) - 2017/05/23
 
---
+
+### Proactive Thinker
 
 * [[YouTube] How To Think Like Millionaires - Secrets of The Millionaire Mind by Harv Eker - Animated Book Review | Proactive Thinker](https://www.youtube.com/watch?v=iLRBkIcBJ48) - 2017/03/02
 
@@ -126,7 +141,8 @@
 
 * [[YouTube] Why Rich People Pay Less Taxes Than You - The Truth About Taxes | Proactive Thinker](https://www.youtube.com/watch?v=7W582wAoIWg) - 2017/09/27
 
---
+
+### Project Better Self
 
 * [[YouTube] Investing in stocks for beginners - the intelligent investor by Benjamin Graham - Animated Book Review | Project Better Self](https://www.youtube.com/watch?v=ttv0ApD4wtw) - 2017/04/12
 
@@ -135,6 +151,98 @@
 * [[YouTube] How to make passive income - passive income online for beginners | Project Better Self](https://www.youtube.com/watch?v=wusYkoUThAI) - 2017/08/28
 
 * [[YouTube] Pratical ways to make passive income - passive income ideas | Project Better Self](https://www.youtube.com/watch?v=PX3WBSo2hfE) - 2017/09/14
+
+
+### Livros
+
+#### Os Axiomas de Zurique
+
+> Max Gunther
+
+* [Axiomas De Zurique – Max Gunther | Le Livros](http://lelivros.stream/book/download-axiomas-de-zurique-max-gunther-em-epub-mobi-e-pdf/)
+
+* [[YouTube] Os Axiomas de Zurique (em áudio) - Max Gunther](https://www.youtube.com/watch?v=RbSdt64fXtE)
+
+* [[YouTube playlist] Os Axiomas de Zurique - resenhas](https://www.youtube.com/watch?v=UwSm1Ygw90o&list=PLS1nXzTLGEYdz6QTP_zhNed26XdFVnw1G)
+
+
+#### O investidor inteligente
+
+> Benjamin Graham
+
+* [O Investidor Inteligente – Benjamin Graham | e-Livros](https://www.e-livros.xyz/ver/o-investidor-inteligente-benjamin-graham)
+
+* [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
+
+--
+
+* [[YouTube] The Intelligent Investor - Benjamin Graham - Animated Book Review | Practical Psychology](https://www.youtube.com/watch?v=7B72GjlKKPY) - 2016/05/11
+
+
+#### Warren Buffett: A bola de Neve
+
+> Alice Schroeder
+
+* [A Bola de Neve – Alice Schroeder | Le Livros](http://lelivros.stream/book/download-a-bola-de-neve-alice-schroeder-em-epub-mobi-e-pdf)
+
+* [[YouTube] Livro Warren Buffett A bola de Neve - Alice Schroeder #32 | Livros & Negócios](https://www.youtube.com/watch?v=79Wna828Xco) - 2016/08/20
+
+
+#### Pai Rico, Pai Pobre
+
+> Robert Kiyosaki
+>
+> * [[YouTube] 15 Things You Didn't Know About Robert Kiyosaki | Alux.com](https://www.youtube.com/watch?v=ZA27mBm8wjM) - 2017/07/27
+
+* Pai Rico Pai Pobre - Robert Kiyosaki - [e-Livros](https://www.e-livros.xyz/ver/pai-rico-pai-pobre-robert-kiyosaki) | [Le Livros](http://lelivros.stream/book/download-pai-rico-pai-pobre-robert-kiyosaki-em-epub-mobi-pdf/)
+
+* [[YouTube] Pai Rico, Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
+
+* [[YouTube] Pai Rico, Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
+
+* [[YouTube] Pai Rico, Pai Pobre - Robert Kiyosaki - resumo animado](https://www.youtube.com/watch?v=USwqPoFfgfw)
+
+* [[YouTube] 5 melhores lições do livro Pai Rico, Pai Pobre | Rafael Seabra](https://www.youtube.com/watch?v=XvOwJm3fKaA) - 2017/08/28
+
+* [[YouTube] 5 Lições que EU APRENDI com Pai Rico, Pai Pobre! | O primo rico](https://www.youtube.com/watch?v=0RpwPpcw3iU) - 2017/09/08
+
+--
+
+* [[YouTube] HOW TO GET RICH - Rich Dad Poor Dad by Robert Kiyosaki- Animated Book Review | The Better Men Project](https://www.youtube.com/watch?v=S0kTWPCVaT4) - 2016/06/17
+
+* [[YouTube] How to Create Passive Income - Rich Dad Poor Dad by Robert Kiyosaki Animated | The Better Men Project](https://www.youtube.com/watch?v=qdtzLMrb8zQ) - 2016/06/21
+
+
+#### O homem mais rico da Babilônia
+
+> autor: George S. Clason
+
+* [O Homem Mais Rico da Babilônia – George S. Clason | Le Livros](http://lelivros.stream/book/download-o-homem-mais-rico-da-babilonia-george-s-clason-em-epub-mobi-e-pdf/)
+
+* [[YouTube] Como ficar rico? - O homem mais rico da Babilônia](https://www.youtube.com/watch?v=JM2GD1UJwIA)
+
+* [[YouTube] Resumo: O homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
+
+* [[YouTube] O homem mais rico da Babilônia - George Clason - resumo animado](https://www.youtube.com/watch?v=d6CI30Y_iSU)
+
+* [[YouTube] O homem mais rico da Babilonia - Resumo Arata Academy](https://www.youtube.com/watch?v=BwuRcC7q44A)
+
+* [[YouTube] 037 - O Homem Mais Rico da Babilônia | Resumocast](https://www.youtube.com/watch?v=0vyV4UJ21vY) - 2016/09/19
+
+
+#### Os segredos da mente milionária
+
+> autor: T. Harv Eker
+
+* [[gist] erkobridee / os-segredos-da-mente-milionaria.txt](https://gist.github.com/erkobridee/b274a02161de4946527f) - Resumo do livro Os Segredos da Mente Milionária
+
+* [[YouTube] Os segredos da mente milionária | Principais lições do livro](https://www.youtube.com/watch?v=ZYclh68XaO8)
+
+* [[YouTube] Os segredos da mente milionária - T. Harv Eker - resumo animado](https://www.youtube.com/watch?v=_FPxHuA5A68)
+
+* [[YouTube] 002 - Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=Wsu2X-HYmI8) - 2016/04/06
+
+* [[YouTube] 002 - [Complement] Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=mCqmKGqzNAw) - 2016/04/12
 
 
 
@@ -289,98 +397,6 @@
 * [Nerdcast 519 - Nerd Rico, Nerd Pobre 3 | Jovem Nerd](https://jovemnerd.com.br/nerdcast/nerdcast-519-nerd-rico-nerd-pobre-3/)
 
 * [Tecnocast 042 – Independência Financeira | Tecnoblog](https://tecnoblog.net/196498/tecnocast-042-independencia-financeira/)
-
-
-### Livros
-
-#### Os Axiomas de Zurique
-
-> Max Gunther
-
-* [Axiomas De Zurique – Max Gunther | Le Livros](http://lelivros.stream/book/download-axiomas-de-zurique-max-gunther-em-epub-mobi-e-pdf/)
-
-* [[YouTube] Os Axiomas de Zurique (em áudio) - Max Gunther](https://www.youtube.com/watch?v=RbSdt64fXtE)
-
-* [[YouTube playlist] Os Axiomas de Zurique - resenhas](https://www.youtube.com/watch?v=UwSm1Ygw90o&list=PLS1nXzTLGEYdz6QTP_zhNed26XdFVnw1G)
-
-
-#### O investidor inteligente
-
-> Benjamin Graham
-
-* [O Investidor Inteligente – Benjamin Graham | e-Livros](https://www.e-livros.xyz/ver/o-investidor-inteligente-benjamin-graham)
-
-* [[YouTube] 033 - O Investidor Inteligente | Resumocast](https://www.youtube.com/watch?v=IrbonY07Bs4) - 2016/08/23
-
---
-
-* [[YouTube] The Intelligent Investor - Benjamin Graham - Animated Book Review | Practical Psychology](https://www.youtube.com/watch?v=7B72GjlKKPY) - 2016/05/11
-
-
-#### Warren Buffett: A bola de Neve
-
-> Alice Schroeder
-
-* [A Bola de Neve – Alice Schroeder | Le Livros](http://lelivros.stream/book/download-a-bola-de-neve-alice-schroeder-em-epub-mobi-e-pdf)
-
-* [[YouTube] Livro Warren Buffett A bola de Neve - Alice Schroeder #32 | Livros & Negócios](https://www.youtube.com/watch?v=79Wna828Xco) - 2016/08/20
-
-
-#### Pai Rico, Pai Pobre
-
-> Robert Kiyosaki
->
-> * [[YouTube] 15 Things You Didn't Know About Robert Kiyosaki | Alux.com](https://www.youtube.com/watch?v=ZA27mBm8wjM) - 2017/07/27
-
-* Pai Rico Pai Pobre - Robert Kiyosaki - [e-Livros](https://www.e-livros.xyz/ver/pai-rico-pai-pobre-robert-kiyosaki) | [Le Livros](http://lelivros.stream/book/download-pai-rico-pai-pobre-robert-kiyosaki-em-epub-mobi-pdf/)
-
-* [[YouTube] Pai Rico, Pai Pobre - Contabilidade](https://www.youtube.com/watch?v=COVaGdOU--I)
-
-* [[YouTube] Pai Rico, Pai Pobre - Como ficar rico? | Principais ideias](https://www.youtube.com/watch?v=Mx6EEpsIE5w)
-
-* [[YouTube] Pai Rico, Pai Pobre - Robert Kiyosaki - resumo animado](https://www.youtube.com/watch?v=USwqPoFfgfw)
-
-* [[YouTube] 5 melhores lições do livro Pai Rico, Pai Pobre | Rafael Seabra](https://www.youtube.com/watch?v=XvOwJm3fKaA) - 2017/08/28
-
-* [[YouTube] 5 Lições que EU APRENDI com Pai Rico, Pai Pobre! | O primo rico](https://www.youtube.com/watch?v=0RpwPpcw3iU) - 2017/09/08
-
---
-
-* [[YouTube] HOW TO GET RICH - Rich Dad Poor Dad by Robert Kiyosaki- Animated Book Review | The Better Men Project](https://www.youtube.com/watch?v=S0kTWPCVaT4) - 2016/06/17
-
-* [[YouTube] How to Create Passive Income - Rich Dad Poor Dad by Robert Kiyosaki Animated | The Better Men Project](https://www.youtube.com/watch?v=qdtzLMrb8zQ) - 2016/06/21
-
-
-#### O homem mais rico da Babilônia
-
-> autor: George S. Clason
-
-* [O Homem Mais Rico da Babilônia – George S. Clason | Le Livros](http://lelivros.stream/book/download-o-homem-mais-rico-da-babilonia-george-s-clason-em-epub-mobi-e-pdf/)
-
-* [[YouTube] Como ficar rico? - O homem mais rico da Babilônia](https://www.youtube.com/watch?v=JM2GD1UJwIA)
-
-* [[YouTube] Resumo: O homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
-
-* [[YouTube] O homem mais rico da Babilônia - George Clason - resumo animado](https://www.youtube.com/watch?v=d6CI30Y_iSU)
-
-* [[YouTube] O homem mais rico da Babilonia - Resumo Arata Academy](https://www.youtube.com/watch?v=BwuRcC7q44A)
-
-* [[YouTube] 037 - O Homem Mais Rico da Babilônia | Resumocast](https://www.youtube.com/watch?v=0vyV4UJ21vY) - 2016/09/19
-
-
-#### Os segredos da mente milionária
-
-> autor: T. Harv Eker
-
-* [[gist] erkobridee / os-segredos-da-mente-milionaria.txt](https://gist.github.com/erkobridee/b274a02161de4946527f) - Resumo do livro Os Segredos da Mente Milionária
-
-* [[YouTube] Os segredos da mente milionária | Principais lições do livro](https://www.youtube.com/watch?v=ZYclh68XaO8)
-
-* [[YouTube] Os segredos da mente milionária - T. Harv Eker - resumo animado](https://www.youtube.com/watch?v=_FPxHuA5A68)
-
-* [[YouTube] 002 - Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=Wsu2X-HYmI8) - 2016/04/06
-
-* [[YouTube] 002 - [Complement] Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=mCqmKGqzNAw) - 2016/04/12
 
 
 ### Pessoas
@@ -907,19 +923,6 @@
 * [Yahoo Finance](http://finance.yahoo.com/)
 
 
-## APIs
-
-### Yahoo Finance
-
-* [Exchanges, markets, and indices covered on Yahoo Finance](https://help.yahoo.com/kb/finance/SLN2310.html) - Data delays and providers
-
-* [Yahoo! Finance APIs | Google Code](https://code.google.com/p/yahoo-finance-managed/wiki/YahooFinanceAPIs)
-
-* [Get Yahoo Finance API Data via YQL | Jarloo](http://www.jarloo.com/get-yahoo-finance-api-data-via-yql/)
-
-* [JSON Chart Example with Yahoo YQL | ipublia](https://www.ipublia.com/json-chart-example-with-yahoo-yq/)
-
-
 ## Códigos
 
 * [[GitHub] eduardocl / jstock](https://github.com/eduardocl/jstock) - Litte page to get stock information from yahoo finance. Only for Bovespa (Brazilian stock market)
@@ -933,6 +936,19 @@
 * [[GitHub] dgtostes / cpp_study / py_codes / finance](https://github.com/dgtostes/cpp_study/tree/master/py_codes/finance) - python
 
 * [[Bitbuckets] ghost_br / bmfstock](https://bitbucket.org/ghost_br/bmfstock/) - python
+
+
+### APIs
+
+#### Yahoo Finance
+
+* [Exchanges, markets, and indices covered on Yahoo Finance](https://help.yahoo.com/kb/finance/SLN2310.html) - Data delays and providers
+
+* [Yahoo! Finance APIs | Google Code](https://code.google.com/p/yahoo-finance-managed/wiki/YahooFinanceAPIs)
+
+* [Get Yahoo Finance API Data via YQL | Jarloo](http://www.jarloo.com/get-yahoo-finance-api-data-via-yql/)
+
+* [JSON Chart Example with Yahoo YQL | ipublia](https://www.ipublia.com/json-chart-example-with-yahoo-yq/)
 
 
 ## Imposto de Renda
