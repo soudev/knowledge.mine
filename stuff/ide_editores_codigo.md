@@ -14,10 +14,10 @@
   * [Vim](#vim)
   * [Brackets](#brackets)
   * [Visual Studio Code](#visual-studio-code)
+    * [Visual Studio Code : extesions](#visual-studio-code-extesions)
   * [Atom](#atom)
 
 <!-- toc stop -->
-
 
 ## Online
 
@@ -179,11 +179,24 @@
 
 * [[GitHub] viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources
 
+
+#### Visual Studio Code : extesions
+
+* Visual Studio Code extension
+
+  * [Code Runner | Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+
+    * [Code Runner supports Kotlin in Visual Studio Code now! | formulahendry](https://blogs.msdn.microsoft.com/formulahendry/2017/05/21/code-runner-supports-kotlin-in-visual-studio-code-now/) - 2017/05/21
+
+  * [Java Extension Pack | Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack)
+
+    * [Using VS Code to Debug Java Applications | Visual Studio Code](https://code.visualstudio.com/blogs/2017/09/28/java-debug) - 2017/09/28
+
+--
+
 * [[GitHug] Microsoft / vscode-spell-check](https://github.com/Microsoft/vscode-spell-check) - An extension to VSCode for spell and grammar checking
 
-* [Code Runner | Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
-
-  * [Code Runner supports Kotlin in Visual Studio Code now! | formulahendry](https://blogs.msdn.microsoft.com/formulahendry/2017/05/21/code-runner-supports-kotlin-in-visual-studio-code-now/) - 2017/05/21
+* [[GitHub] foxundermoon / vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript format extension
 
 
 ### Atom
