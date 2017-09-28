@@ -123,6 +123,10 @@
 
 --
 
+* [[GitHub] woliveiras / nodejs-in-brazil](https://github.com/woliveiras/nodejs-in-brazil) - A great list about Nodejs use in Brazil
+
+--
+
 * [Updating NodeJS on Windows - Some Tips | Raymond Camden](https://www.raymondcamden.com/2017/05/31/updating-nodejs-on-windows-some-tips/) - 2017/05/31
 
 --
