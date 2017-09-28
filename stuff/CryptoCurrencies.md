@@ -95,6 +95,12 @@
 
 * [[YouTube] Como Transformar Bitcoin em Dinheiro de Verdade!](https://www.youtube.com/watch?v=d9RyFqvbH6o)
 
+--
+
+* [[YouTube] Bitcoins | Nerdologia Tech 12](https://www.youtube.com/watch?v=h87O2xfUSv8) - 2017/08/30
+
+* [[YouTube] Criptomoedas, blockchain e Altcoins | Nerdologia Tech 13](https://www.youtube.com/watch?v=PQQ0NpwqMlg) - 2017/09/28
+
 
 ### TED Talks
 
