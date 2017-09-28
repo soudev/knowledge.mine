@@ -43,6 +43,7 @@
   * [Yahoo Finance](#yahoo-finance)
 * [Códigos](#códigos)
 * [Imposto de Renda](#imposto-de-renda)
+* [Economia](#economia)
 
 <!-- toc stop -->
 
@@ -124,6 +125,17 @@
 * [[YouTube] How Exercise Affects Your Brain | Proactive Thinker](https://www.youtube.com/watch?v=GssC6Dbr9fw) - 2017/09/23
 
 * [[YouTube] Why Rich People Pay Less Taxes Than You - The Truth About Taxes | Proactive Thinker](https://www.youtube.com/watch?v=7W582wAoIWg) - 2017/09/27
+
+--
+
+* [[YouTube] Investing in stocks for beginners - the intelligent investor by Benjamin Graham - Animated Book Review | Project Better Self](https://www.youtube.com/watch?v=ttv0ApD4wtw) - 2017/04/12
+
+* [[YouTube] How to save money fast - 5 tips to saving money | Project Better Self](https://www.youtube.com/watch?v=iIt_MzyKaac) - 2017/06/11
+
+* [[YouTube] How to make passive income - passive income online for beginners | Project Better Self](https://www.youtube.com/watch?v=wusYkoUThAI) - 2017/08/28
+
+* [[YouTube] Pratical ways to make passive income - passive income ideas | Project Better Self](https://www.youtube.com/watch?v=PX3WBSo2hfE) - 2017/09/14
+
 
 
 ## Informações gerais
@@ -954,3 +966,12 @@
   * [Receita Federal aumenta controle sobre as movimentações financeiras | Jornal Nacional](http://g1.globo.com/jornal-nacional/noticia/2016/02/receita-federal-aumenta-controle-sobre-movimentacoes-financeiras.html) - 2016/02/03
 
   * [Fisco vai monitorar transações mensais acima de R$ 2 mil | Jornal O Globo](https://oglobo.globo.com/economia/fisco-vai-monitorar-transacoes-mensais-acima-de-2-mil-18595543) - 2016/02/03
+
+
+## Economia
+
+* [[YouTube] A Curva de Laffer - Impostos Altos, Receita Baixa | Tradutores de Direita](https://www.youtube.com/watch?v=zxo_Ivy5RKw) - 2015/08/10
+
+* [[YouTube] Curva de Laffer: mais impostos só piora a situação | Instituto Montanari](https://www.youtube.com/watch?v=XBoqqO5igIQ) - 2016/02/29
+
+* [[YouTube] O Brasil e a Curva de Laffer! | Blog Reflexões](https://www.youtube.com/watch?v=CaB1UrF5RiY) - 2016/10/23
