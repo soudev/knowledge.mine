@@ -528,6 +528,8 @@
 
 * [[YouTube] Alberto Dines entrevista Warren Buffett | Grande Pequena Imprensa](https://www.youtube.com/watch?v=v_u348BjO3w) - 2013/11/05
 
+* [[YouTube] Warren Buffett Legendary Speech 2015 | The Wealth Acquirer](https://www.youtube.com/watch?v=_3sP8Iu8w7o) - (2015/12/24) - Warren Buffett's fantastic Q & A with Nebraska's students. Warren covers topics from acquiring wealth at a young age along with his own personal experience and how that made him the man he is today.
+
 * [[YouTube] Warren Buffett - HBO Documentary 2017 (HD) | Art of Money](https://www.youtube.com/watch?v=ridk6OvkgGM) - 2017/03/18
 
 * [[YouTube] Entrevista histórica com Warren Buffett, o 2º homem mais rico no mundo | Patricia Meirelles](https://www.youtube.com/watch?v=UbdDxOdYD4A) - 2017/08/17
