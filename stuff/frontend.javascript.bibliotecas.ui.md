@@ -278,6 +278,8 @@
 
 * [7 Ways To Define A Component Template in Vue.js | Codementor](https://www.codementor.io/vuejsdevelopers/7-ways-to-define-a-component-template-in-vue-js-8wxxhmxo6) - 2017/07/03
 
+* [Imprevistos com libs de terceiros - C3.js | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/imprevistos-com-libs-de-terceiros-c3-js/) - 2016/07/29
+
 --
 
 * [Our Guide To Learning Vue | CSS-Tricks](https://css-tricks.com/guides/vue/)
