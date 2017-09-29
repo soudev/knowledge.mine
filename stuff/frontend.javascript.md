@@ -338,6 +338,8 @@
 
 * [The Promise of a Burger Party | Mariko Kosaka](http://kosamari.com/notes/the-promise-of-a-burger-party) - (2017/01/25) An illustrated guide to understanding JavaScript Promise
 
+* [Learn JavaScript Promises by Building a Promise from Scratch | Medium - gitconnected](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720) - (2017/09/26) A step-by-step tutorial to make sure you fully understand how Promises work
+
 * [Javascript - entendendo e criando suas próprias Promises | Da2k Blog](http://blog.da2k.com.br/2015/03/05/javascript-entendendo-e-criando-suas-proprias-promises/)
 
 * [Javascript - Criando um módulo Ajax com Promises - Parte 1 | Da2k Blog](http://blog.da2k.com.br/2015/03/06/javascript-criando-um-modulo-ajax-com-promises/)
