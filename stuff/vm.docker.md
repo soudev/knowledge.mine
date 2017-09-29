@@ -305,6 +305,8 @@
 
   * [[SlideShare] Package your Java EE Application using Docker and Kubernetes](http://www.slideshare.net/arungupta1/package-your-java-ee-application-using-docker-and-kubernetes)
 
+* [[GitHub] coreos / flannel](https://github.com/coreos/flannel) - is a network fabric for containers, designed for Kubernetes
+
 
 ### Private Registry
 
