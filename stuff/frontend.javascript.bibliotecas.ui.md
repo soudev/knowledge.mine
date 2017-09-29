@@ -436,6 +436,10 @@
 
 --
 
+* [Novidades do React 16 | Willian Justen](https://willianjusten.com.br/novidades-do-react-16/) - 2017/09/28
+
+--
+
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
 
 * [[GitHub] reactjs / react-future](https://github.com/reactjs/react-future) - Specs & docs for potential future and experimental React APIs and JavaScript syntax.
