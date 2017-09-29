@@ -729,6 +729,8 @@
 
 --
 
+* [[GitHub] lukasoppermann / html5sortable](https://github.com/lukasoppermann/html5sortable) - VanillaJS sortable lists and grids using native HTML5 drag and drop API.
+
 * [[GitHub] willianjusten / screamer-js](https://github.com/willianjusten/screamer-js) - is a Vanilla Javascript plugin to provide simple yet fully customisable web notifications using Web Notifications API.
 
 
