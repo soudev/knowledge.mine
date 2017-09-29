@@ -13,6 +13,7 @@
 * [Git em empresas](#git-em-empresas)
 * [Dicas](#dicas)
   * [Workflow](#workflow)
+  * [Rebase](#rebase)
   * [Merge](#merge)
     * [Squash commits](#squash-commits)
   * [SVN para GIT](#svn-para-git)
@@ -374,6 +375,11 @@ git clean -fd
 * [cheatsheet do git-flow](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html) - O git-flow é um conjunto de extensões para o git que provê operações de alto-nível para repositórios usando o modelo de branches do Vincent Driessen.
 
 * [Quatro workflows para trabalhar com Git | iMasters﻿](http://imasters.com.br/desenvolvimento/qatro-workflows-para-trabalhar-com-git/)
+
+
+### Rebase
+
+* [The Git Rebase Introduction I Wish I'd Had | The Practical Dev](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had) - (2017/09/28) If you don't know what rebasing in Git is, read this before it's too late. Especially if you love cupcakes!
 
 
 ### Merge
