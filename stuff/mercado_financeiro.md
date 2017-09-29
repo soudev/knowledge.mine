@@ -21,8 +21,9 @@
 * [Informações gerais](#informações-gerais)
   * [Curiosidades](#curiosidades)
   * [Pessoas](#pessoas)
-    * [Gustavo Cerbasi](#gustavo-cerbasi)
     * [Carlos Wizard Martins](#carlos-wizard-martins)
+    * [Geraldo Rufino](#geraldo-rufino)
+    * [Gustavo Cerbasi](#gustavo-cerbasi)
     * [Jorge Paulo Lemann](#jorge-paulo-lemann)
     * [Luiz Barsi Filho](#luiz-barsi-filho)
     * [Warren Buffett](#warren-buffett)
@@ -414,6 +415,20 @@
 * [[YouTube] Os 3 investidores bilionários da bolsa e suas estratégias (E o que eles tem em comum) | O primo rico](https://www.youtube.com/watch?v=mTUvfKgpDrA) - 2017/04/27
 
 
+#### Carlos Wizard Martins
+
+* [[YouTube] O inicio de Carlos Wizard Martins](https://www.youtube.com/watch?v=qxmPrLM0pSE) - 2013/02/18
+
+* [[YouTube] Carlos Wizard - Como me tornei um bilionário](https://www.youtube.com/watch?v=5OS7c0M0uqs) - 2013/07/05
+
+
+#### Geraldo Rufino
+
+* [[YouTube] Geraldo Rufino - O ex-catador de latinhas que hoje fatura 50 milhões por ano](https://www.youtube.com/watch?v=8TrnsONIpX4) - 2016/01/09
+
+* [[YouTube] História de Sucesso: Conheça o Ex-Catador de lixo e hoje Milionário Geraldo Rufino](https://www.youtube.com/watch?v=VQ0VrdRiSuc) - 2016/07/02
+
+
 #### Gustavo Cerbasi
 
 * [Gustavo Cerbasi](http://www.gustavocerbasi.com.br/)
@@ -471,13 +486,6 @@
   * [YouTube playlist](https://www.youtube.com/watch?v=SLJhnDFJ02o&list=PLPBLaFNYOx7saTlwu4d-CjsLBrTJhFBYK)
 
   * [[YouTube] #CerbasiResponde 37 - Casamento é sinônimo de conta conjunta?](https://www.youtube.com/watch?v=RULZyGJ5SgU) - 2017/04/17
-
-
-#### Carlos Wizard Martins
-
-* [[YouTube] O inicio de Carlos Wizard Martins](https://www.youtube.com/watch?v=qxmPrLM0pSE) - 2013/02/18
-
-* [[YouTube] Carlos Wizard - Como me tornei um bilionário](https://www.youtube.com/watch?v=5OS7c0M0uqs) - 2013/07/05
 
 
 #### Jorge Paulo Lemann
