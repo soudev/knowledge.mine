@@ -11,6 +11,7 @@
   * [Valuetainment](#valuetainment)
   * [Proactive Thinker](#proactive-thinker)
   * [Project Better Self](#project-better-self)
+  * [The Better Men Project](#the-better-men-project)
   * [Livros](#livros)
     * [Os Axiomas de Zurique](#os-axiomas-de-zurique)
     * [O investidor inteligente](#o-investidor-inteligente)
@@ -160,6 +161,23 @@
 * [[YouTube] How to make passive income - passive income online for beginners | Project Better Self](https://www.youtube.com/watch?v=wusYkoUThAI) - 2017/08/28
 
 * [[YouTube] Pratical ways to make passive income - passive income ideas | Project Better Self](https://www.youtube.com/watch?v=PX3WBSo2hfE) - 2017/09/14
+
+
+### The Better Men Project
+
+* [[YouTube playlist] The Rich Playlist | The Better Men Project](https://www.youtube.com/watch?v=NQhTXyu7d5s&list=PLkxByrIbVCSpHnuafUHcmB5weem7APbr7)
+
+--
+
+* [[YouTube] The 5 Steps to Get RICH - Animated Breakdown for the Richest Man in Babylon by George S. Clason | The Better Men Project](https://www.youtube.com/watch?v=mUpxD5inOvY) - 2016/10/22
+
+* [[YouTube] 5 Secrets of the New Rich - The 4 Hour Workweek - Animated Breakdown | The Better Men Project](https://www.youtube.com/watch?v=8rVpupuvfxQ) - 2016/12/23
+
+* [[YouTube] 8 Habits Rich People Have (That Most of Us Don't) | The Better Men Project](https://www.youtube.com/watch?v=9KbmaJYK_Tk) - 2017/09/12
+
+* [[YouTube] 7 Things Poor People Do (That The Rich Don´t) | The Better Men Project](https://www.youtube.com/watch?v=D8lPmXFM1Is) - 2017/09/14
+
+* [[YouTube] How to be Filthy RICH! - Top Ideas Rich Dad Poor Dad, Richest Man In Babylon, The 4 Hour Workweek | The Better Men Project](https://www.youtube.com/watch?v=4852GzmiYnA) - 2017/09/20
 
 
 ### Livros
