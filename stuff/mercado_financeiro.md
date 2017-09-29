@@ -442,6 +442,10 @@
 
 #### Geraldo Rufino
 
+* [[YouTube channel] Geraldo Rufino](https://www.youtube.com/channel/UCU_aTte1Y9MwukvCuS2hOxQ)
+
+* [[YouTube] Geraldo Rufino: o catador de sonhos | VAGAS.com](https://www.youtube.com/watch?v=nAbqlW4cNbw) - 2015/11/25
+
 * [[YouTube] Geraldo Rufino - O ex-catador de latinhas que hoje fatura 50 milhões por ano](https://www.youtube.com/watch?v=8TrnsONIpX4) - 2016/01/09
 
 * [[YouTube] História de Sucesso: Conheça o Ex-Catador de lixo e hoje Milionário Geraldo Rufino](https://www.youtube.com/watch?v=VQ0VrdRiSuc) - 2016/07/02
