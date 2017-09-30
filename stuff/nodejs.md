@@ -1622,6 +1622,10 @@
 
 * [[GitHub] fdaciuk / hmh-cli](https://github.com/fdaciuk/hmh-cli) - How many hours? Calculate hours, using time spaces on terminal.
 
+--
+
+* [Node e TypeScript | Medium - by @programadriano](https://medium.com/@programadriano/node-e-typescript-f632deabe356) - 2017/07/17
+
 
 ### Streams
 
