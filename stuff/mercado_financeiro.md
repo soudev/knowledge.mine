@@ -19,6 +19,7 @@
     * [Pai Rico, Pai Pobre](#pai-rico-pai-pobre)
     * [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilônia)
     * [Os segredos da mente milionária](#os-segredos-da-mente-milionária)
+    * [Pense e Enriqueça](#pense-e-enriqueça)
 * [Informações gerais](#informações-gerais)
   * [Curiosidades](#curiosidades)
   * [Pessoas](#pessoas)
@@ -246,6 +247,12 @@
 
 * [O Homem Mais Rico da Babilônia – George S. Clason | Le Livros](http://lelivros.stream/book/download-o-homem-mais-rico-da-babilonia-george-s-clason-em-epub-mobi-e-pdf/)
 
+--
+
+* [[YouTube] The Richest Man in Babylon by George S Clason Full Audiobook | TTS](https://www.youtube.com/watch?v=G9Eo3eIuJmE) - 2015/09/18
+
+--
+
 * [[YouTube] Como ficar rico? - O homem mais rico da Babilônia](https://www.youtube.com/watch?v=JM2GD1UJwIA)
 
 * [[YouTube] Resumo: O homem mais rico da Babilônia](https://www.youtube.com/watch?v=dU8ka7LwgW8)
@@ -271,6 +278,17 @@
 
 * [[YouTube] 002 - [Complement] Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=mCqmKGqzNAw) - 2016/04/12
 
+
+#### Pense e Enriqueça
+
+> Think and Grow Rich
+> autor: Napoleon Hill
+
+* [[YouTube] Think And Grow Rich Audiobook | Hirmann Yub](https://www.youtube.com/watch?v=1KzGoyVallY) - 2014/07/12
+
+--
+
+* [[YouTube] Think and Grow Rich - Napoleon Hill - ANIMATED BOOK REVIEW | Practical Psychology](https://www.youtube.com/watch?v=FyjLOg8o6_w) - 2016/03/26
 
 
 ## Informações gerais
