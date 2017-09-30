@@ -371,7 +371,7 @@
 
 * [Livemocha](http://livemocha.com/) - Free Online Language Learning
 
-* [Aprenda Ingles- Learn Portuguese (Rio de Janeiro) | Meetup](http://www.meetup.com/Aprenda-Ingles-Learn-Portuguese/) - Presencial
+* [Aprenda Ingles - Learn Portuguese (Rio de Janeiro) | Meetup](http://www.meetup.com/Aprenda-Ingles-Learn-Portuguese/) - Presencial
 
 * [Você Aprende Agora](http://www.voceaprendeagora.com/) - É um curso de inglês online, com Felipe Dib onde você aprenda rápido e usa o inglês a seu favor.
 
@@ -493,6 +493,15 @@
 * [[YouTube] How Does Language Change Your Brain?](https://www.youtube.com/watch?v=aGITqiG-Ips) - 2015/08/11
 
 * [[YouTube] 4 reasons to learn a new language - John McWhorter | TED](https://www.youtube.com/watch?v=VQRjouwKDlU) - 2016/08/28
+
+--
+
+* [[YouTube] Teaching English without Teaching English | Roberto Guzman | TEDxUPRM](https://www.youtube.com/watch?v=8pZa6R3rmRQ) - 2016/05/26
+
+* [[YouTube] Melhor metodologia para aprender idiomas e por onde começar | Renata Valim](https://www.youtube.com/watch?v=AdAjhoxbRJI) - 2016/11/14
+
+* [[YouTube] How to Stop Translating in Your Head and Start Thinking in English Like a Native | Go Natural English](https://www.youtube.com/watch?v=FUW_FN8uzy0) - 2017/08/07
+
 
 
 ### Codificação
