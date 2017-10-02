@@ -152,6 +152,8 @@
 
 * [[YouTube] Why Rich People Pay Less Taxes Than You - The Truth About Taxes | Proactive Thinker](https://www.youtube.com/watch?v=7W582wAoIWg) - 2017/09/27
 
+* [[YouTube] How School Prepared You To Fail | Proactive Thinker](https://www.youtube.com/watch?v=dxPVzdT1lG0) - 2017/10/02
+
 
 ### Project Better Self
 
