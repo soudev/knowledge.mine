@@ -294,6 +294,8 @@
 
 * [[YouTube] Think and Grow Rich - Napoleon Hill - ANIMATED BOOK REVIEW | Practical Psychology](https://www.youtube.com/watch?v=FyjLOg8o6_w) - 2016/03/26
 
+* [[YouTube] 10 Best Ideas - THINK AND GROW RICH - Napoleon Hill - Book Summary | Clark Kegley](https://www.youtube.com/watch?v=y0PMFipaFzc) - 2016/09/07
+
 * [[YouTube] Think and Grow Rich by Napoleon Hill - How to Be Rich ► Animated Book Summary | OnePercentBetter](https://www.youtube.com/watch?v=K2CDU1AeAj0) - 2016/10/19
 
 
