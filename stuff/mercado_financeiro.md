@@ -292,6 +292,8 @@
 
 * [[YouTube] Napoleon Hill's Top 10 Rules For Success | Evan Carmichael](https://www.youtube.com/watch?v=UTl-X6BkrDU) - 2015/08/28
 
+* [[YouTube] Think and Grow Rich Summary Animated | LearningREADefined](https://www.youtube.com/watch?v=Jwmxp2UNyVY) - 2015/11/19
+
 * [[YouTube] Think and Grow Rich - Napoleon Hill - ANIMATED BOOK REVIEW | Practical Psychology](https://www.youtube.com/watch?v=FyjLOg8o6_w) - 2016/03/26
 
 * [[YouTube] 10 Best Ideas - THINK AND GROW RICH - Napoleon Hill - Book Summary | Clark Kegley](https://www.youtube.com/watch?v=y0PMFipaFzc) - 2016/09/07
