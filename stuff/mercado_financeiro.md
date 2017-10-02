@@ -290,6 +290,8 @@
 
 --
 
+* [[YouTube] Think and Grow Rich: The Lost Secret | Vic Johnson](https://www.youtube.com/watch?v=m73pePb5BUY) - 2010/05/24
+
 * [[YouTube] Napoleon Hill's Top 10 Rules For Success | Evan Carmichael](https://www.youtube.com/watch?v=UTl-X6BkrDU) - 2015/08/28
 
 * [[YouTube] Think and Grow Rich Summary Animated | LearningREADefined](https://www.youtube.com/watch?v=Jwmxp2UNyVY) - 2015/11/19
