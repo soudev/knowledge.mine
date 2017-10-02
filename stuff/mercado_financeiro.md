@@ -999,6 +999,10 @@
 
 * [[Bitbuckets] ghost_br / bmfstock](https://bitbucket.org/ghost_br/bmfstock/) - python
 
+--
+
+* [[GitHub] easynvest / simulador-rendafixa](https://github.com/easynvest/simulador-rendafixa) - Simulador de Renda Fixa Pré e Pós
+
 
 ### APIs
 
