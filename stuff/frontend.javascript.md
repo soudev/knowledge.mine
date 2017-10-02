@@ -286,6 +286,8 @@
 
 * [JavaScript: What the hell is this!? | VG Tech](http://tech.vg.no/2014/04/16/javascript-what-the-hell-is-this/)
 
+* [What is This in JavaScript? | Telerik Developer Network](https://developer.telerik.com/topics/web-development/what-is-this-in-javascript/) - 2017/09/27
+
 --
 
 * [Common Misconceptions About Inheritance in JavaScript — JavaScript Scene | Medium - Eric Elliott](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
