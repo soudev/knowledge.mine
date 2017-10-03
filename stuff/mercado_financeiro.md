@@ -9,6 +9,7 @@
   * [XP Investimentos](#xp-investimentos)
   * [TED Talk](#ted-talk)
   * [Video School Online](#video-school-online)
+  * [Evan Carmichael](#evan-carmichael)
   * [Valuetainment](#valuetainment)
   * [Proactive Thinker](#proactive-thinker)
   * [Project Better Self](#project-better-self)
@@ -78,8 +79,6 @@
 
 * [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
 
-* [[YouTube] 7 Signs You're Destined to Become a MILLIONAIRE - #7Ways | Evan Carmichael](https://www.youtube.com/watch?v=AxPIrII7ZrM) - 2016/08/24
-
 
 ### Sites e Blogs
 
@@ -127,6 +126,13 @@
 * [[YouTube] What Is The 4% Rule? How Much Money Do I Need To Retire? | Video School Online](https://www.youtube.com/watch?v=0GpC8U0tF0M) - 2015/09/14
 
 * [[YouTube] Top 10 Ways to Earn Passive Income I'm doing it right now! | Video School Online](https://www.youtube.com/watch?v=nqwziYu-Fb8) - 2015/03/03
+
+
+### Evan Carmichael
+
+* [[YouTube] 7 Reasons Why Most People DON'T Become Wealthy - #7Ways | Evan Carmichael](https://www.youtube.com/watch?v=UmK_IexxPMM) - 2017/02/15
+
+* [[YouTube] 7 Signs You're Destined to Become a MILLIONAIRE - #7Ways | Evan Carmichael](https://www.youtube.com/watch?v=AxPIrII7ZrM) - 2016/08/24
 
 
 ### Valuetainment
