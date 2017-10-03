@@ -832,6 +832,8 @@
 
   * [GeoFire 2.0](https://www.firebase.com/blog/2014-06-23-geofire-two-point-oh.html) - is an open-source JavaScript library that allows you to store and query a set of items based on their geographic location
 
+  * [Firebase Database não é bagunça! - BrazilJS](https://braziljs.org/blog/firebase-database-nao-e-bagunca/) - 2017/10/03
+
 --
 
 * [PouchDB](http://pouchdb.com/) - The Database that Syncs! PouchDB is an open-source JavaScript database inspired by [Apache CouchDB](https://couchdb.apache.org/) that is designed to run well within the browser.
