@@ -1,4 +1,15 @@
-# Personal Improvement
+# Self Improvement
+
+<!-- toc -->
+
+* [General Stuff](#general-stuff)
+* [Mindfulness](#mindfulness)
+* [Meditation](#meditation)
+
+<!-- toc stop -->
+
+
+## General Stuff
 
 * [[YouTube] Simon Sinek: The Video That Will Change Your Life | MINDSHIFT Inc](https://www.youtube.com/watch?v=o44dolLLzos) - 2017/09/19
 
