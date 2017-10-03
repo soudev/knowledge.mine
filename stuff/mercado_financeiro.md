@@ -182,6 +182,8 @@
 
 * [[YouTube] How to be Filthy RICH! - Top Ideas Rich Dad Poor Dad, Richest Man In Babylon, The 4 Hour Workweek | The Better Men Project](https://www.youtube.com/watch?v=4852GzmiYnA) - 2017/09/20
 
+* [[YouTube] 8 Steps to Get RICH! - From Think and Grow Rich by Napoleon Hill | The Better Men Project](https://www.youtube.com/watch?v=enzteWv3chY) - 2017/10/03
+
 
 ### Livros
 
@@ -463,6 +465,8 @@
 
 
 ### Pessoas
+
+* [De funcionários a milionários: conheça cinco histórias | Gazeta do Povo](http://www.gazetadopovo.com.br/economia/livre-iniciativa/empreender/de-funcionarios-a-milionarios-cinco-historias-de-quem-mudou-de-vida-0eskhamqtkc8i5zh90k30clu1/)
 
 * [[YouTube] Entrevista com dois bilionários da Bolsa: Luiz Barsi Filho e Guilherme Afonso Ferreira](https://www.youtube.com/watch?v=b72yedzSxjc) - 2014/05/16
 
