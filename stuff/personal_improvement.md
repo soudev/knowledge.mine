@@ -1,5 +1,8 @@
 # Personal Improvement
 
+* [[YouTube] Simon Sinek: The Video That Will Change Your Life | MINDSHIFT Inc](https://www.youtube.com/watch?v=o44dolLLzos) - 2017/09/19
+
+
 ## Mindfulness
 
 * [[YouTube] Why Mindfulness Is a Superpower: An Animation | Happify](https://www.youtube.com/watch?v=w6T02g5hnT4) - 2015/12/07
