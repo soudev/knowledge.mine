@@ -8,6 +8,7 @@
   * [Easyinvest](#easyinvest)
   * [XP Investimentos](#xp-investimentos)
   * [TED Talk](#ted-talk)
+  * [Video School Online](#video-school-online)
   * [Valuetainment](#valuetainment)
   * [Proactive Thinker](#proactive-thinker)
   * [Project Better Self](#project-better-self)
@@ -113,6 +114,17 @@
 * [[YouTube] Why the Rich are Getting Richer | Robert Kiyosaki | TEDxUCSD](https://www.youtube.com/watch?v=abMQhaMdQu0) - 2016/07/21
 
 * [[YouTube] When money isn’t real: the $10,000 experiment | Adam Carroll | TEDxLondonBusinessSchool](https://www.youtube.com/watch?v=_VB39Jo8mAQ) - 2015/07/09
+
+
+### Video School Online
+
+* [[YouTube] How to Become a Millionaire: The Slow and Steady Way | Video School Online](https://www.youtube.com/watch?v=9ZygpQWosu4) - 2017/03/23
+
+* [[YouTube] 11 Tips for Becoming a Millionaire By Age 30 | Video School Online](https://www.youtube.com/watch?v=5sqPPloOqmE) - 2016/10/18
+
+* [[YouTube] What Is The 4% Rule? How Much Money Do I Need To Retire? | Video School Online](https://www.youtube.com/watch?v=0GpC8U0tF0M) - 2015/09/14
+
+* [[YouTube] Top 10 Ways to Earn Passive Income I'm doing it right now! | Video School Online](https://www.youtube.com/watch?v=nqwziYu-Fb8) - 2015/03/03
 
 
 ### Valuetainment
@@ -399,11 +411,6 @@
   * [3 - Ganhar pouco não significa ser pobre!](https://www.youtube.com/watch?v=4mx17ZrIS6I)
 
   * [4 - Está atolado até o pescoço? Respire e saia da dívida](https://www.youtube.com/watch?v=CnRA9FXNp-E)
-
---
-
-* [[YouTube] What Is The 4% Rule? How Much Money Do I Need To Retire? | Video School Online](https://www.youtube.com/watch?v=0GpC8U0tF0M) - 2015/09/14
-
 
 ### Curiosidades
 
