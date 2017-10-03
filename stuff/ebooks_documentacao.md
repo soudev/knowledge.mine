@@ -247,6 +247,8 @@
 
 --
 
+* [[YouTube] How To Learn Faster | AsapSCIENCE](https://www.youtube.com/watch?v=B9SptdjpJBQ) - 2017/09/28
+
 * [[YouTube] How To Learn Anything Faster - 5 Tips to Increase your Learning Speed (Feat. Project Better Self) | Practical Psychology](https://www.youtube.com/watch?v=rA2XHWM__yE) - 2017/09/20
 
 * [[YouTube] The first 20 hours - how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY) - 2013/03/14
