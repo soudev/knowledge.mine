@@ -78,6 +78,8 @@
 
 * [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
 
+* [[YouTube] 7 Signs You're Destined to Become a MILLIONAIRE - #7Ways | Evan Carmichael](https://www.youtube.com/watch?v=AxPIrII7ZrM) - 2016/08/24
+
 
 ### Sites e Blogs
 
