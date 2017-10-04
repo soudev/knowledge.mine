@@ -264,6 +264,8 @@
 
 * [[YouTube] How to Create Passive Income - Rich Dad Poor Dad by Robert Kiyosaki Animated | The Better Men Project](https://www.youtube.com/watch?v=qdtzLMrb8zQ) - 2016/06/21
 
+* [[YouTube] HOW TO GET RICH - Rich Dad Poor Dad - Robert Kiyosaki - 10 Best Ideas | Clark Kegley](https://www.youtube.com/watch?v=KJ1qdAbYjOc) - 2017/08/29
+
 
 #### O homem mais rico da Babilônia
 
