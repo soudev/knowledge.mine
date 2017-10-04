@@ -15,6 +15,7 @@
   * [Proactive Thinker](#proactive-thinker)
   * [Project Better Self](#project-better-self)
   * [The Better Men Project](#the-better-men-project)
+  * [Financial Education](#financial-education)
   * [Livros](#livros)
     * [Os Axiomas de Zurique](#os-axiomas-de-zurique)
     * [O investidor inteligente](#o-investidor-inteligente)
@@ -209,6 +210,11 @@
 * [[YouTube] How to be Filthy RICH! - Top Ideas Rich Dad Poor Dad, Richest Man In Babylon, The 4 Hour Workweek | The Better Men Project](https://www.youtube.com/watch?v=4852GzmiYnA) - 2017/09/20
 
 * [[YouTube] 8 Steps to Get RICH! - From Think and Grow Rich by Napoleon Hill | The Better Men Project](https://www.youtube.com/watch?v=enzteWv3chY) - 2017/10/03
+
+
+### Financial Education
+
+* [[YouTube] Passive Income Secrets... Passive Income 101 | Financial Education](https://www.youtube.com/watch?v=COcAFIjmLUA) - 2017/09/19
 
 
 ### Livros
