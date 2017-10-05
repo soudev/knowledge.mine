@@ -351,6 +351,8 @@
 
 * [Duolingo](https://www.duolingo.com/) - serviço online e gratuito para aprendizado de idiomas. Possui interface com suporte ao português. As aulas vão do básico ao avançado no aprendizado de um idioma.
 
+  * [Tinycards — Flashcards by Duolingo](https://tinycards.duolingo.com/)
+
 * [LinguaLeo](https://lingualeo.com/) - Aprenda Inglês Jogando
 
 * [Sounds of Speech](http://soundsofspeech.uiowa.edu/)
