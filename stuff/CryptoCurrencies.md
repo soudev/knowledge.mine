@@ -55,7 +55,11 @@
 
 * [Cryptominded](https://cryptominded.com/) - Curated directory of cryptocurrency resources
 
+--
+
 * [[YouTube] Getting Started With Bitcoin - Top 5 Things To Know](https://www.youtube.com/watch?v=OXQGxhYGCbc) - 2016/12/26
+
+* [Criptomoedas para iniciantes (Guia básico) | Dinheiro Dicas](http://www.dinheirodicas.com/criptmoedas/criptomoedas-para-iniciantes-guia-basico/) - 2017/09/28
 
 * [Bitcoin: O guia básico definitivo para iniciantes da moeda virtual | Guia do Bitcoin](http://guiadobitcoin.com.br/bitcoin-o-guia-basico-definitivo-para-iniciantes-da-moeda-virtual/) - 2016/11/12
 
