@@ -206,6 +206,8 @@
 
 --
 
+* [JavaScript - What is a function? | codeburst](https://codeburst.io/javascript-what-is-a-function-172e3488fcdc) - 2017/09/25
+
 * [Every Possible Way to Define a Javascript Function | Bryan Braun](http://www.bryanbraun.com/2014/11/27/every-possible-way-to-define-a-javascript-function)
 
 * [Functions Explained | Mark Daggett's Blog](http://markdaggett.com/blog/2013/02/15/functions-explained/)
