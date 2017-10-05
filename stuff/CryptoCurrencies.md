@@ -14,6 +14,8 @@
   * [Mining Pool](#mining-pool)
 * [Tips](#tips)
 * [Projects and APIs](#projects-and-apis)
+* [Brasil](#brasil)
+  * [Imposto de Renda](#imposto-de-renda)
 
 <!-- toc stop -->
 
@@ -295,3 +297,10 @@
 ## Projects and APIs
 
 * [[GitHub] lucianopf / bitwages](https://github.com/lucianopf/bitwages) - Project to calculate the conversion rate with or without fees receiving money from USD/BTC - Coinbase
+
+
+## Brasil
+
+### Imposto de Renda
+
+* [Utilização de criptomoedas e como a receita federal pode rastrear as suas operações | LinkedIn Pulse](https://www.linkedin.com/pulse/utilização-de-criptomoedas-e-como-receita-federal-bueno-abitante/) - 2017/10/05
