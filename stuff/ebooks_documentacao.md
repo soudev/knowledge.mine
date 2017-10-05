@@ -505,6 +505,10 @@
 * [[YouTube] How to Stop Translating in Your Head and Start Thinking in English Like a Native | Go Natural English](https://www.youtube.com/watch?v=FUW_FN8uzy0) - 2017/08/07
 
 
+##### Small Advantages
+
+* [[YouTube] Do I have to say "do"? MONTANDO PERGUNTAS EM INGLÊS | DICA #68 | Small Advantages](https://www.youtube.com/watch?v=tgrJRsWPt2s) - 2017/10/05
+
 
 ### Codificação
 
