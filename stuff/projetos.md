@@ -27,9 +27,12 @@
 
 <!-- toc stop -->
 
+
 ## Geral
 
 * [10 documentários para empreendedores escondidos na Netflix | Endeavor Brasil](https://endeavor.org.br/documentario-empreendedorismo-netflix/)
+
+* [7 minute read to save $100,000 on your app idea | Hacker Noon](https://hackernoon.com/7-minute-read-to-save-100-000-on-your-app-idea-2d17db675a1) - 2017/09/22
 
 --
 
