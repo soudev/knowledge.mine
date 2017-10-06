@@ -452,6 +452,8 @@
 
 --
 
+* [[YouTube] O Bilionário da Forbes | Ricos S/A](https://www.youtube.com/watch?v=UQUWt3Rp5C8) - 2017/10/01
+
 * [[YouTube] Billionaire Mathematician - Numberphile](https://www.youtube.com/watch?v=gjVDqfUhXOY) - 2015/05/13
 
   * [[YouTube] James Simons (full length interview) - Numberphile](https://www.youtube.com/watch?v=QNznD9hMEh0) - 2015/05/13
