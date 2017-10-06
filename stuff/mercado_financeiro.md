@@ -81,6 +81,8 @@
 
 * [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
 
+* [[YouTube] Como Programar Seu Cérebro Para Enriquecer | Rafael Seabra](https://www.youtube.com/watch?v=kI2cjqYFxSI) - 2016/03/29
+
 
 ### Sites e Blogs
 
