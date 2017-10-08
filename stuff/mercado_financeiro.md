@@ -909,6 +909,10 @@
 
 * [[YouTube] Dividend Ratios - Payout And Retention | Investopedia](https://www.youtube.com/watch?v=6wUsVZsRKfw) - 2013/12/12
 
+--
+
+* [[YouTube] 3 practical ways to double your money! Multi-bagger Stocks | Invest with Sven Carlin, Ph.D.](https://www.youtube.com/watch?v=dzsSL6O0G_o) - 2016/09/26
+
 
 #### Dividendos
 
