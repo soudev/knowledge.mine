@@ -3,6 +3,7 @@
 <!-- toc -->
 
 * [General Stuff](#general-stuff)
+* [Exercise](#exercise)
 * [Mindfulness](#mindfulness)
 * [Meditation](#meditation)
 
@@ -12,6 +13,13 @@
 ## General Stuff
 
 * [[YouTube] Simon Sinek: The Video That Will Change Your Life | MINDSHIFT Inc](https://www.youtube.com/watch?v=o44dolLLzos) - 2017/09/19
+
+
+## Exercise
+
+* [[YouTube] Exercise and the brain - Spark by John Ratey - Animated Book Summary | Project Better Self](https://www.youtube.com/watch?v=OPhcft_hwV8) - 2017/04/02
+
+* [[YouTube] WHY Exercise is so Underrated (Brain Power & Movement Link) | What I've Learned](https://www.youtube.com/watch?v=DsVzKCk066g) - 2016/12/27
 
 
 ## Mindfulness
