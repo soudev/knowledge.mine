@@ -100,6 +100,10 @@
 
 ### Colors
 
+* [[YouTube] Understanding Color | Blender Guru](https://www.youtube.com/watch?v=Qj1FK8n7WgY) - 2014/02/27
+
+--
+
 * [Color Swatches](http://maxmackie.com/jquery.swatches/) - a free to use [jQuery plugin](http://github.com/maxmackie/jquery.swatches) by [Max Mackie](http://maxmackie.com/)
 
 * [Color Wheel - Color Calculator | Sessions College](http://www.sessions.edu/color-calculator)
