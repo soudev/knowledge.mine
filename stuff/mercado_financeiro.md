@@ -340,6 +340,8 @@
 
 * [[YouTube] Think and Grow Rich by Napoleon Hill - How to Be Rich ► Animated Book Summary | OnePercentBetter](https://www.youtube.com/watch?v=K2CDU1AeAj0) - 2016/10/19
 
+* [[YouTube] Think and Grow Rich Explained | Financial Education](https://www.youtube.com/watch?v=nWmWm7ruXMA) - 2017/10/07
+
 --
 
 * [[YouTube] Napoleon Hill's Secret formula - includes Your Wish Is Your Command | The Law of Success Coach](https://www.youtube.com/watch?v=suJueIj8WCo) - 2013/06/25
