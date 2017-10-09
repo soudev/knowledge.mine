@@ -183,6 +183,8 @@
 
 * [[YouTube] How School Prepared You To Fail | Proactive Thinker](https://www.youtube.com/watch?v=dxPVzdT1lG0) - 2017/10/02
 
+* [[YouTube] How Rich People Invest Their Money | Proactive Thinker](https://www.youtube.com/watch?v=4jXTpf4sZLg) - 2017/10/07
+
 
 ### Project Better Self
 
