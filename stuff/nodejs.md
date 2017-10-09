@@ -1552,6 +1552,8 @@
 
 * [[GitHub] mholt / PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 
+* [[GitHub] nickpisacane / CsvBuilder](https://github.com/nickpisacane/CsvBuilder) - Easily encode complex JSON objects to CSV with CsvBuilder's schema-like API
+
 * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder
 
 * [[GitHub] SheetJS / js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer
