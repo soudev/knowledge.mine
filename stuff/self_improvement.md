@@ -18,6 +18,8 @@
 
 ## Motivation
 
+* [[YouTube] Best Morning Routine To Wake Up And Feel Motivated - The Miracle Morning by Hal Elrod | Proactive Thinker](https://www.youtube.com/watch?v=nrJZ7sLpDig) - 2017/03/08
+
 * [[YouTube] How To Stay Motivated | Proactive Thinker](https://www.youtube.com/watch?v=8E6lWSLv1KA) - 2017/09/13
 
 
