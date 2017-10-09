@@ -83,6 +83,8 @@
 
 * [[YouTube] Como Programar Seu Cérebro Para Enriquecer | Rafael Seabra](https://www.youtube.com/watch?v=kI2cjqYFxSI) - 2016/03/29
 
+* [[YouTube] Secrets Of A Millionaire Mind - How Rich People Think](https://www.youtube.com/watch?v=XlYSp-RqqrI)
+
 
 ### Sites e Blogs
 
