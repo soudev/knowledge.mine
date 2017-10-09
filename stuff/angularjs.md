@@ -982,6 +982,8 @@ O time do AngularJS sentiu a necessidade de que o código JavaScript  precisava 
 
 --
 
+* [[GitHub] DanWahlin / Angular-Docker-Microservices](https://github.com/DanWahlin/Angular-Docker-Microservices) - Example of serving an Angular app to the browser using nginx. App calls Node.js/MongoDB and ASP.NET Core/PostgreSQL microservices.
+
 * [[GitHub] EwanValentine / SymfonyAngularDocker](https://github.com/EwanValentine/SymfonyAngularDocker) - Symfony angular docker example
 
   * [Running Angularjs and Symfony2 on Docker | Ewan Valentine](http://ewanvalentine.io/running-angularjs-and-symfony-projects-on-docker/)
