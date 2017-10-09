@@ -3,6 +3,7 @@
 <!-- toc -->
 
 * [General Stuff](#general-stuff)
+* [Motivation](#motivation)
 * [Exercise](#exercise)
 * [Mindfulness](#mindfulness)
 * [Meditation](#meditation)
@@ -13,6 +14,11 @@
 ## General Stuff
 
 * [[YouTube] Simon Sinek: The Video That Will Change Your Life | MINDSHIFT Inc](https://www.youtube.com/watch?v=o44dolLLzos) - 2017/09/19
+
+
+## Motivation
+
+* [[YouTube] How To Stay Motivated | Proactive Thinker](https://www.youtube.com/watch?v=8E6lWSLv1KA) - 2017/09/13
 
 
 ## Exercise
