@@ -223,6 +223,8 @@
 
 * [[YouTube] Upgrading Enterprise Angular Applications - Victor Savkin | NG-CONF-2017](https://www.youtube.com/watch?v=izpqQpD8RQ0) - 2017/04/11
 
+* [Converting an AngularJS 1.5 app to Angular 4 | Medium by @satsukitv](https://medium.com/@satsukitv/converting-an-angularjs-1-5-app-to-angular-4-4b10c6cb8672) - 2017/07/12
+
 --
 
 * [Angular 2 Patterns for Angular 1.x Apps | Telerik Developer Network](http://developer.telerik.com/featured/angular-2-patterns-angular-1-x-apps/) - 2016/10/10
