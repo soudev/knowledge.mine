@@ -342,6 +342,10 @@
 
 --
 
+* [10 Ways to Misuse Angular | Rangle.io Blog](http://blog.rangle.io/10-ways-to-misuse-angular/) - 2017/07/11
+
+--
+
 * [Optimize your Angular 2 Application with Tree Shaking | Rangle.io Blog](http://blog.rangle.io/optimize-your-angular2-application-with-tree-shaking/) - 2016/09/02
 
 * [Making your Angular apps fast | thoughtram](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html) - 2017/02/02
