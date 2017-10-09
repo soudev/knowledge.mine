@@ -6,7 +6,13 @@
 
 * [So what’s this GraphQL thing I keep hearing about? | freeCodeCamp](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) - 2017/04/11
 
-* [[YouTube] GraphQL Basics | Fun Fun Function](https://www.youtube.com/watch?v=lAJWHHUz8_8) - 2017/09/18
+--
+
+* [[YouTube playlist] GraphQL | Fun Fun Function](https://www.youtube.com/watch?v=lAJWHHUz8_8&list=PL0zVEGEvSaeEjIDdbK1KfR7V9XBCVAr0P)
+
+  * [[YouTube] GraphQL Basics | Fun Fun Function](https://www.youtube.com/watch?v=lAJWHHUz8_8) - 2017/09/18
+
+--
 
 * [Getting up and running with GraphQL | Pusher Blog](https://blog.pusher.com/getting-up-and-running-with-graphql/) - 2017/08/31
 
