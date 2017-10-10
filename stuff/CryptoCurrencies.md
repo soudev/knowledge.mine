@@ -5,6 +5,7 @@
 * [Infos](#infos)
 * [Learn](#learn)
   * [TED Talks](#ted-talks)
+  * [Udemy](#udemy)
 * [Wallets](#wallets)
 * [Prices Rankings](#prices-rankings)
 * [Buy and Sell](#buy-and-sell)
@@ -119,6 +120,15 @@
 * [Don Tapscott: How the blockchain is changing money and business | TED Talk](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business) - 2016/06
 
 * [[YouTube] New Kids on the Blockchain | Lorne Lantz | TEDxHamburgSalon](https://www.youtube.com/watch?v=A1Vbrxkqjwc) - 2016/05/24
+
+
+### Udemy
+
+* [Ethereum Blockchain Developer: Build Projects Using Solidity | Udemy](https://www.udemy.com/blockchain-developer/) - One Of The Largest, Most In-Depth Ethereum Blockchain Development Courses, Helping You To Build Projects Using Solidity!
+
+* [Learn Solidity: Programming Language for Smart Contracts | Udemy](https://www.udemy.com/best-solidity-tutorial-course-ethereum-blockchain-development/) - Best Solidity Tutorial Available Online to Build Blockchain Based Decentralized Application DApps on Ethereum Network
+
+* [Ethereum : Decentralized Application Design & Development | Udemy](https://www.udemy.com/ethereum-dapp/) - Develop a full blown DAPP in next 2 weeks. You will learn Geth, Web3, Truffle, TestRPC, MetaMask, Wallets, Solidity +++
 
 
 ## Wallets
