@@ -326,7 +326,7 @@
 
 * [[YouTube] Os segredos da mente milionária | Principais lições do livro](https://www.youtube.com/watch?v=ZYclh68XaO8)
 
-* [[YouTube] Os segredos da mente milionária - T. Harv Eker - resumo animado](https://www.youtube.com/watch?v=_FPxHuA5A68)
+* [[YouTube] Os segredos da mente milionária - T. Harv Eker - resumo animado | IlustradaMente](https://www.youtube.com/watch?v=_FPxHuA5A68)
 
 * [[YouTube] 002 - Os segredos da mente milionaria | Resumocast](https://www.youtube.com/watch?v=Wsu2X-HYmI8) - 2016/04/06
 
