@@ -47,4 +47,6 @@
 
 * [[YouTube] Meditação Guiada - 10 minutos! | Yoga pra Você](https://www.youtube.com/watch?v=jEISnPXnwCk) - 2016/07/25
 
+* [[YouTube] Como meditar? - Monja Coen explica o ZAZEN - Meditação Zen Budista | MOVA](https://www.youtube.com/watch?v=pRpayFySsto) - 2017/03/29
+
 * [[YouTube] O poder da meditação: 7 benefícios extraordinários de meditar | IlustradaMente](https://www.youtube.com/watch?v=0uTWzpQ4HL4) - 2017/03/30
