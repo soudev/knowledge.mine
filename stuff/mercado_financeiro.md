@@ -4,9 +4,10 @@
 
 * [Educação Financeira](#educação-financeira)
   * [Sites e Blogs](#sites-e-blogs)
-  * [Vamos Prosperar](#vamos-prosperar)
   * [Easyinvest](#easyinvest)
   * [XP Investimentos](#xp-investimentos)
+  * [Vamos Prosperar](#vamos-prosperar)
+  * [IlustradaMente](#ilustradamente)
   * [TED Talk](#ted-talk)
   * [Geniusmind LLC](#geniusmind-llc)
   * [Video School Online](#video-school-online)
@@ -99,11 +100,6 @@
 * [Clube do Valor](https://clubedovalor.com.br/) - Seu Caminho Rumo à Independência Financeira
 
 
-### Vamos Prosperar
-
-* [[YouTube] Os 7 maiores erros financeiros segundo a Bíblia | Vamos Prosperar](https://www.youtube.com/watch?v=LaKVSk_gzb8) - 2017/04/20
-
-
 ### Easyinvest
 
 * [[YouTube] 5 dicas para uma aposentadoria sem INSS - Easyinvest](https://www.youtube.com/watch?v=NR4eEkc6avI)
@@ -116,6 +112,18 @@
 * [[YouTube] XP Investimentos: Como se Planejar Financeiramente?](https://www.youtube.com/watch?v=3Sucd6VrbtU)
 
 * [[YouTube] XP Investimentos: Aprenda a Investir seu Dinheiro](https://www.youtube.com/watch?v=0R9IWnQnn0Q)
+
+
+### Vamos Prosperar
+
+* [[YouTube] Os 7 maiores erros financeiros segundo a Bíblia | Vamos Prosperar](https://www.youtube.com/watch?v=LaKVSk_gzb8) - 2017/04/20
+
+
+### IlustradaMente
+
+* [[YouTube] A mágica de pensar grande - David J. Schwartz - Resumo Animado | IlustradaMente](https://www.youtube.com/watch?v=4YrMuzl3Xko) - 2017/08/08
+
+* [[YouTube] As 16 leis do Sucesso - Jacob Petry - Resumo Animado | IlustradaMente](https://www.youtube.com/watch?v=iW-19JdbZyM) - 2017/09/26
 
 
 ### TED Talk
