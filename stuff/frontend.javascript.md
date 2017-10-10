@@ -747,6 +747,12 @@
 
 --
 
+* [JS Streams specs](https://streams.spec.whatwg.org/)
+
+* [A Guide to Faster Web App I/O and Data Operations with Streams | SitePen](https://www.sitepen.com/blog/2017/10/02/a-guide-to-faster-web-app-io-and-data-operations-with-streams/) - 2017/10/09
+
+--
+
 * [[YouTube] Netflix JavaScript Talks - Async JavaScript with Reactive Extensions](https://www.youtube.com/watch?v=XRYN2xt11Ek)
 
 * [[Gist]  staltz / introrx.md](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing
