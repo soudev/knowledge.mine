@@ -40,3 +40,11 @@
 ## Meditation
 
 * [[YouTube] Meditation for Beginners - Featuring Dan Harris and Sharon Salzberg | Happify](https://www.youtube.com/watch?v=mtsdz_jhB7c) - 2015/03/27
+
+--
+
+* [[YouTube] Aprender a Meditar - Como Meditar - Meditação Feliz Com Você! | Amanda Dreher](https://www.youtube.com/watch?v=HEVqg4NWozo) - 2015/02/19
+
+* [[YouTube] Meditação Guiada - 10 minutos! | Yoga pra Você](https://www.youtube.com/watch?v=jEISnPXnwCk) - 2016/07/25
+
+* [[YouTube] O poder da meditação: 7 benefícios extraordinários de meditar | IlustradaMente](https://www.youtube.com/watch?v=0uTWzpQ4HL4) - 2017/03/30
