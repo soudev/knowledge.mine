@@ -85,6 +85,8 @@
 
 * [[YouTube] Secrets Of A Millionaire Mind - How Rich People Think](https://www.youtube.com/watch?v=XlYSp-RqqrI)
 
+* [[YouTube] How to Develop a Millionaire Mindset | Jack Canfield](https://www.youtube.com/watch?v=iRXQvJeCWeU) - 2016/08/11
+
 
 ### Sites e Blogs
 
