@@ -227,6 +227,10 @@
 
 * [[YouTube] 8 Steps to Get RICH! - From Think and Grow Rich by Napoleon Hill | The Better Men Project](https://www.youtube.com/watch?v=enzteWv3chY) - 2017/10/03
 
+* [[YouTube] The 16 Mindsets That can Make You RICH! | The Better Men Project](https://www.youtube.com/watch?v=mj8eBpfyBBA) - 2017/10/10
+
+* [[YouTube] The 16 Mindsets That can Make You RICH! (Part 2) | The Better Men Project](https://www.youtube.com/watch?v=5HdkHvN29YA) - 2017/10/11
+
 
 ### Financial Education
 
