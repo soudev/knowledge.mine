@@ -160,6 +160,8 @@
 
 * [Catching JavaScript Mistakes with TypeScript - TypeScript Video Tutorial #free | @eggheadio](https://egghead.io/lessons/javascript-catching-javascript-mistakes-with-typescript)
 
+* [Get the advantages of TypeScript without transpiling | Phaultlines](http://seg.phault.net/blog/2017/10/typescript-without-transpiling/) - 2017/10/08
+
 --
 
 * [15 JavaScript Hacks | Underground WebDev](http://udgwebdev.com/15-javascript-hacks/)
