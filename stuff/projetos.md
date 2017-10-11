@@ -299,6 +299,10 @@
 
 * [Pomello](http://www.tinynudge.co/pomello/) - Stay focused. Accomplish more.
 
+--
+
+* [[YouTube] Como ter foco - A ténica Pomodoro - Resumo Animado | IlustradaMente](https://www.youtube.com/watch?v=hfxfJ7Qa4sg) - 2016/09/15
+
 
 ### GTD - Getting Things Done
 
