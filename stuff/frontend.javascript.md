@@ -558,6 +558,8 @@
 
   * [Getting Started with Redux - Course by @dan_abramov | @eggheadio](https://egghead.io/courses/getting-started-with-redux)
 
+  * [[GitHub] concretesolutions / redux-zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
+
 
 ### Dicas
 
