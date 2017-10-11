@@ -683,6 +683,9 @@
 
 * [[YouTube playlist] Millionaire Mindset | Dan Lok](https://www.youtube.com/watch?v=1Q-nK8XMS48&list=PLEmTTOfet46O591glMGzRMoHaIJB-bQiq)
 
+--
+
+* [[YouTube] How To Buy A Business With No Money | Dan Lok](https://www.youtube.com/watch?v=JGenV2sVkBE) - 2015/09/07
 
 * The Wealth Triangle
 
