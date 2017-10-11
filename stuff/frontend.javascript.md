@@ -1195,6 +1195,8 @@
 
 --
 
+* [[GitHub] webpackmonitor / webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
+
 * [webpack analyze](https://webpack.github.io/analyse/)
 
 * [webpack visualizer](https://chrisbateman.github.io/webpack-visualizer/)
