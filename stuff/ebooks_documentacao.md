@@ -447,6 +447,8 @@
 
   * [[YouTube] Pula Muralha](https://www.youtube.com/channel/UC6qjUYfE_cG4PHWVs9MMBlA) | [site](http://pulamuralha.com.br/)
 
+    * [5 Apps para Aprender CHINÊS de GRAÇA](https://www.youtube.com/watch?v=EFX0sjGkIYo)
+
     * [Aula Mais Importante do Curso de Chinês: Tons!](https://www.youtube.com/watch?v=hLoNw8P0rRc)
 
     * [Como Contar de 1 a 10 em Chinês! + Música Especial](https://www.youtube.com/watch?v=Qew-Umiz6Gc)
