@@ -261,6 +261,10 @@
 
 --
 
+* [[YouTube] Forget university? 4 steps to design your own education | Till H. Groß | TEDxKlagenfurt](https://www.youtube.com/watch?v=TUnpSYMNEhY) - 2014/10/20
+
+--
+
 * [[GitHub] off99555 / machine-learning-curriculum](https://github.com/off99555/machine-learning-curriculum) - Make machines learn so that you don't have to program them; The ultimate list
 
 * [Deep Learning Gallery](http://deeplearninggallery.com/) - a curated list of awesome deep learning projects
