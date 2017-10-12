@@ -164,6 +164,10 @@
 
 * [A clear and concise introduction to testing Koa with Jest and Supertest | Valentino G's Blog](https://www.valentinog.com/blog/testing-api-koa-jest/) - (2017/09/13) Did you know you could use async/await with Jest? Here's an introduction to writing cleaner code while testing, with Jest and Supertest
 
+--
+
+* [[GitHub] kulshekhar / ts-jest](https://github.com/kulshekhar/ts-jest) - A preprocessor with sourcemap support to help use Typescript with Jest
+
 
 #### Headless Chrome
 
