@@ -25,6 +25,7 @@
     * [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilônia)
     * [Os segredos da mente milionária](#os-segredos-da-mente-milionária)
     * [Pense e Enriqueça](#pense-e-enriqueça)
+    * [The 4-hour Workweek](#the-4-hour-workweek)
 * [Informações gerais](#informações-gerais)
   * [Curiosidades](#curiosidades)
   * [Pessoas](#pessoas)
@@ -217,8 +218,6 @@
 
 * [[YouTube] The 5 Steps to Get RICH - Animated Breakdown for the Richest Man in Babylon by George S. Clason | The Better Men Project](https://www.youtube.com/watch?v=mUpxD5inOvY) - 2016/10/22
 
-* [[YouTube] 5 Secrets of the New Rich - The 4 Hour Workweek - Animated Breakdown | The Better Men Project](https://www.youtube.com/watch?v=8rVpupuvfxQ) - 2016/12/23
-
 * [[YouTube] 8 Habits Rich People Have (That Most of Us Don't) | The Better Men Project](https://www.youtube.com/watch?v=9KbmaJYK_Tk) - 2017/09/12
 
 * [[YouTube] 7 Things Poor People Do (That The Rich Don´t) | The Better Men Project](https://www.youtube.com/watch?v=D8lPmXFM1Is) - 2017/09/14
@@ -365,6 +364,32 @@
 * [[YouTube] Napoleon Hill's Secret formula - includes Your Wish Is Your Command | The Law of Success Coach](https://www.youtube.com/watch?v=suJueIj8WCo) - 2013/06/25
 
 * [[YouTube] Napoleon Hill's formula EXPLAINED: The "secret" behind the Secret and The Power | The Law of Success Coach](https://www.youtube.com/watch?v=qtFW9H_6JlE) - 2015/07/04
+
+
+#### The 4-hour Workweek
+
+> The 4 hour Workweek
+> autor: Tim Ferriss
+
+* [The 4-Hour Workweek Tools](https://tim.blog/4-hour-workweek-tools/)
+
+--
+
+* [[YouTube] 5 Secrets of the New Rich - The 4 Hour Workweek - Animated Breakdown | The Better Men Project](https://www.youtube.com/watch?v=8rVpupuvfxQ) - 2016/12/23
+
+* [[YouTube] 4 Hour Work Week by Tim Ferriss (1) ► Animated Book Summary | OnePercentBetter](https://www.youtube.com/watch?v=Czof3Fz4JOw) - 2016/09/13
+
+* [[YouTube] 4 Hour Work Week by Tim Ferriss (2) ► Animated Book Summary | OnePercentBetter](https://www.youtube.com/watch?v=A9gFizTK6bE) - 2016/09/19
+
+* [[YouTube] The 4-hour Workweek by Tim Ferriss - Animated Book Review | Practical Psychology](https://www.youtube.com/watch?v=MsRWdJLsdW8) - 2016/03/15
+
+* [[YouTube] The 4-hour Workweek by Tim Ferriss - Animated Book Review | FightMediocrity](https://www.youtube.com/watch?v=j3TeLsaKzAM) - 2015/02/13
+
+--
+
+* [[YouTube] Tim Ferriss' 4-Hour Work Week #MentorMeTim | Evan Carmichael](https://www.youtube.com/watch?v=Bpz0_ESFjrI) - 2016/10/22
+
+* [[YouTube] 10 Best Ideas - The 4-Hour Work Week - Tim Ferriss - Summary | Clark Kegley](https://www.youtube.com/watch?v=Pe670Q9cJXE) - 2016/06/15
 
 
 ## Informações gerais
