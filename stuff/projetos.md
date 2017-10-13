@@ -3,6 +3,7 @@
 <!-- toc -->
 
 * [Geral](#geral)
+* [Envio de dinheiro para o exterior](#envio-de-dinheiro-para-o-exterior)
 * [Trabalho no exterior](#trabalho-no-exterior)
 * [Trabalho remoto](#trabalho-remoto)
 * [Time Traking](#time-traking)
@@ -127,6 +128,17 @@
 * [CodePad](https://coderpad.io/) - helps you interview your candidates in an intuitive live programming environment
 
 * [Who is hiring - whoishiring.io](https://whoishiring.io/) - The map with the collection of jobs for Software Engineers, Developers
+
+
+## Envio de dinheiro para o exterior
+
+* [Passo a passo para enviar dinheiro ao exterior | Blog - MelhorCâmbio.com](http://blog.melhorcambio.com/passo-a-passo-para-enviar-dinheiro-ao-exterior/) - 2016/02/17
+
+* [Como enviar dinheiro para o exterior - Época NEGÓCIOS | Finanças de Bolso](http://epocanegocios.globo.com/colunas/Financas-de-Bolso/noticia/2017/04/como-enviar-dinheiro-para-o-exterior.html) - 2017/04/27
+
+--
+
+* [Confidence Câmbio](https://www.confidencecambio.com.br/) - Corretora de Câmbio (ver remessa internacional)
 
 
 ## Trabalho no exterior
