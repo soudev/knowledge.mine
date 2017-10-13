@@ -359,6 +359,10 @@ git clean -fd
 
 * [Git as a NoSql database | Kenneth Truyers](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/) - 2016/10/13
 
+--
+
+* [git push --force-with-lease | MetaBroadcast](https://metabroadcast.com/blog/force-with-lease) - 2014/11/25
+
 
 ### Workflow
 
