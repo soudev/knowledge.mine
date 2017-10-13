@@ -14,6 +14,8 @@
 
 --
 
+* [The beauty of Go | Hacker Noon](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d) - 2017/10/06
+
 * [Go por Exemplo](http://goporexemplo.golangbr.org/)
 
   * [[GitHub] golangbr / goporexemplo](https://github.com/golangbr/goporexemplo)
