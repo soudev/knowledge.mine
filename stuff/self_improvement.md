@@ -8,6 +8,7 @@
 * [Mindfulness](#mindfulness)
 * [Meditation](#meditation)
 * [Subconscious](#subconscious)
+* [Speed reading](#speed-reading)
 
 <!-- toc stop -->
 
@@ -56,3 +57,8 @@
 ## Subconscious
 
 * [[YouTube] O poder do Subconsciente - Como transformar a mente - Joseph Murphy - resumo animado | IlustradaMente](https://www.youtube.com/watch?v=L-UPDDoPOd0) - 2017/07/23
+
+
+## Speed reading
+
+* [[YouTube] Tim Ferriss about how he learns languages](https://www.youtube.com/watch?v=ZwEquW_Yij0) - 2017/07/26
