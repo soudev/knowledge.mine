@@ -43,6 +43,8 @@
 
 * [[YouTube] Meditation for Beginners - Featuring Dan Harris and Sharon Salzberg | Happify](https://www.youtube.com/watch?v=mtsdz_jhB7c) - 2015/03/27
 
+* [[YouTube] Tim Ferriss on how to start meditating](https://www.youtube.com/watch?v=BfLuQ2arP48) - 2017/06/28
+
 --
 
 * [[YouTube] Aprender a Meditar - Como Meditar - Meditação Feliz Com Você! | Amanda Dreher](https://www.youtube.com/watch?v=HEVqg4NWozo) - 2015/02/19
