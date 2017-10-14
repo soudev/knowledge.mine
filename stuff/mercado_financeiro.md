@@ -753,6 +753,10 @@
 
 #### Clark Kegley
 
+* [[YouTube] Deep Marketing Strategies - SO GOOD These Should Be Illegal! | Clark Kegley](https://www.youtube.com/watch?v=J8LYPpVr37s) - 2017/06/12
+
+--
+
 * [[YouTube] How to Make Passive Income with Kindle Publishing on Amazon | Clark Kegley](https://www.youtube.com/watch?v=lOYeqx9labA) - 2017/09/20
 
 --
