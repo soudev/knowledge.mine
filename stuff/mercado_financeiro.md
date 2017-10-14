@@ -374,6 +374,8 @@
 
 * [The 4-Hour Workweek Tools](https://tim.blog/4-hour-workweek-tools/)
 
+* [[YouTube] 4-Hour Workweek Video Summary + Highlights | Tim Ferriss](https://www.youtube.com/watch?v=OYpRja0-vrU) - 2008/01/12
+
 --
 
 * [[YouTube] 5 Secrets of the New Rich - The 4 Hour Workweek - Animated Breakdown | The Better Men Project](https://www.youtube.com/watch?v=8rVpupuvfxQ) - 2016/12/23
