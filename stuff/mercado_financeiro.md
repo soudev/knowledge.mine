@@ -37,6 +37,7 @@
     * [Warren Buffett](#warren-buffett)
     * [Peter Jonathan Adeney](#peter-jonathan-adeney)
     * [Dan Lok](#dan-lok)
+    * [Clark Kegley](#clark-kegley)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Investir no Exterior](#investir-no-exterior)
   * [Robos de Investimento](#robos-de-investimento)
@@ -391,6 +392,10 @@
 
 * [[YouTube] 10 Best Ideas - The 4-Hour Work Week - Tim Ferriss - Summary | Clark Kegley](https://www.youtube.com/watch?v=Pe670Q9cJXE) - 2016/06/15
 
+--
+
+* [[YouTube] The TRUTH about the 4-Hour Work Week (True Case Study) | Alex Ikonn](https://www.youtube.com/watch?v=4x-VXmt7tAo) - 2015/02/16
+
 
 ## Informações gerais
 
@@ -744,6 +749,19 @@
 
 
 * [[YouTube] Why School Sucks! Why School Kills Creativity - An Entrepreneur's Perspective | Dan Lok](https://www.youtube.com/watch?v=jUFIpvSbExw) - 2016/01/09
+
+
+#### Clark Kegley
+
+* [[YouTube] How to Make Passive Income with Kindle Publishing on Amazon | Clark Kegley](https://www.youtube.com/watch?v=lOYeqx9labA) - 2017/09/20
+
+--
+
+* [[YouTube] The New RICH - My Four Hour Work Week Success Story (EYF 1 of 3) | Clark Kegley](https://www.youtube.com/watch?v=IYnNe6xeZlQ) - 2017/09/22
+
+* [[YouTube] How to Make Passive Income While Traveling The World (EYF 2 of 3) | Clark Kegley](https://www.youtube.com/watch?v=ykcX6ckJrsc) - 2017/09/25
+
+* [[YouTube] How to Make A Million Dollars Online - The Blueprint (EYF 3 of 3) | Clark Kegley](https://www.youtube.com/watch?v=bKMYQO8qi-A) - 2017/09/28
 
 
 ## Informações úteis sobre investimentos
