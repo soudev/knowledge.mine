@@ -607,6 +607,8 @@ Share with others around the world
 
   * [learn | Code.org](http://learn.code.org)
 
+  * [[YouTube] What Most Schools Don't Teach | Code.org](https://www.youtube.com/watch?v=nKIu9yen5nc)
+
 * [Computer programming | Khan Academy](https://www.khanacademy.org/computing/cs)
 
   * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/cs/programming)
