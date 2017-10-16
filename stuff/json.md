@@ -196,3 +196,5 @@
 * [[GitHub] FGRibreau / gron](https://github.com/FGRibreau/gron) - Make JSON greppable
 
 * [[GitHub] wellsjo / JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
+
+* [[GitHub] SelectTransform / st.js](https://github.com/SelectTransform/st.js) - Bend JSON to your will
