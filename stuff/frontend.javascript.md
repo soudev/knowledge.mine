@@ -1010,6 +1010,10 @@
 
 * [regex101](http://regex101.com/#javascript)
 
+* [Regexly](https://regexly.chipto.io/) - A WYSIWYG Regex Playground for JavaScript Developers
+
+  * [[GitHub] chipto / regexly](https://github.com/chipto/regexly)
+
 
 ### Performance
 
