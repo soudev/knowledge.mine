@@ -17,6 +17,8 @@
 
 * [[YouTube] Simon Sinek: The Video That Will Change Your Life | MINDSHIFT Inc](https://www.youtube.com/watch?v=o44dolLLzos) - 2017/09/19
 
+* [[YouTube] Skills to master to be more productive | Tim Ferriss](https://www.youtube.com/watch?v=PnLUpoU714M) - 2017/01/19
+
 
 ## Motivation
 
