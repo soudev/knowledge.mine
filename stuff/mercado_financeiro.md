@@ -375,6 +375,10 @@
 
 * [The 4-Hour Workweek Tools](https://tim.blog/4-hour-workweek-tools/)
 
+* [[YouTube] Tim Ferriss | The 4 Hour Method | Oxford Union](https://www.youtube.com/watch?v=CvYitCV9m84) - 2013/02/08
+
+* [[YouTube] Timothy Ferriss and The 4-Hour Workweek | Fast Company](https://www.youtube.com/watch?v=owAat3D3tHk) - 2008/11/08
+
 * [[YouTube] 4-Hour Workweek Video Summary + Highlights | Tim Ferriss](https://www.youtube.com/watch?v=OYpRja0-vrU) - 2008/01/12
 
 --
