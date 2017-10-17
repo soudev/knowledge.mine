@@ -647,6 +647,8 @@
 
 #### Luiz Barsi Filho
 
+* [Luiz Barsi: Conheça a História e os Principais Ensinamentos do “Rei dos Dividendos”, o Maior Investidor da Bolsa Brasileira | Clube do Valor](https://clubedovalor.com.br/luiz-barsi/) - 2017/10/17
+
 * ["Qualquer um poderia se tornar o 'rei da Bolsa'", diz investidor bilionário | Folha de São Paulo](http://www1.folha.uol.com.br/mercado/2014/03/1422428-qualquer-um-poderia-se-tornar-o-rei-da-bolsa-diz-investidor-bilionario.shtml) - 2014/03
 
 * [[YouTube] Luiz Barsi e o Segredo do Sucesso em Investimentos](https://www.youtube.com/watch?v=97-2U6AQ_JQ) - 2016/06/25
