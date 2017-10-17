@@ -38,6 +38,7 @@
     * [Peter Jonathan Adeney](#peter-jonathan-adeney)
     * [Dan Lok](#dan-lok)
     * [Clark Kegley](#clark-kegley)
+    * [Jeff Rose](#jeff-rose)
 * [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
   * [Investir no Exterior](#investir-no-exterior)
   * [Robos de Investimento](#robos-de-investimento)
@@ -768,6 +769,17 @@
 * [[YouTube] How to Make Passive Income While Traveling The World (EYF 2 of 3) | Clark Kegley](https://www.youtube.com/watch?v=ykcX6ckJrsc) - 2017/09/25
 
 * [[YouTube] How to Make A Million Dollars Online - The Blueprint (EYF 3 of 3) | Clark Kegley](https://www.youtube.com/watch?v=bKMYQO8qi-A) - 2017/09/28
+
+
+#### Jeff Rose
+
+* [Good Financial Cents](https://www.goodfinancialcents.com/)
+
+--
+
+* [[YouTube] How to Invest $1,000 💵 (and grow it to $1 Million) | Jeff Rose](https://www.youtube.com/watch?v=t456xfXL-Bs) - 2017/09/27
+
+* [[YouTube] How I Built 7 Multiple Streams of Income [That Make Me Money EVERY Single Month] | Jeff Rose](https://www.youtube.com/watch?v=mCG-Y9bkGpU) - 2017/10/08
 
 
 ## Informações úteis sobre investimentos
