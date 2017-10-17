@@ -381,6 +381,8 @@
 
 * [[YouTube] 5 Secrets of the New Rich - The 4 Hour Workweek - Animated Breakdown | The Better Men Project](https://www.youtube.com/watch?v=8rVpupuvfxQ) - 2016/12/23
 
+* [[YouTube] The New Rich - The Four Hour Workweek | Improvement Pill](https://www.youtube.com/watch?v=e9MonD2m-rc) - 2016/10/27
+
 * [[YouTube] 4 Hour Work Week by Tim Ferriss (1) ► Animated Book Summary | OnePercentBetter](https://www.youtube.com/watch?v=Czof3Fz4JOw) - 2016/09/13
 
 * [[YouTube] 4 Hour Work Week by Tim Ferriss (2) ► Animated Book Summary | OnePercentBetter](https://www.youtube.com/watch?v=A9gFizTK6bE) - 2016/09/19
