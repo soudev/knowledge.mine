@@ -785,9 +785,13 @@
 
 --
 
+* [[YouTube] How to Become a Millionaire (from $20k of debt to a successful entrepreneur) | Jeff Rose](https://www.youtube.com/watch?v=8uq5BFQ4nGM) - 2017/03/27
+
 * [[YouTube] How to Invest $1,000 💵 (and grow it to $1 Million) | Jeff Rose](https://www.youtube.com/watch?v=t456xfXL-Bs) - 2017/09/27
 
 * [[YouTube] How I Built 7 Multiple Streams of Income [That Make Me Money EVERY Single Month] | Jeff Rose](https://www.youtube.com/watch?v=mCG-Y9bkGpU) - 2017/10/08
+
+* [[YouTube] How To Make Over $1000 Per Month Blogging (from 0 to $1000+ per day) | Jeff Rose](https://www.youtube.com/watch?v=bc4WKqnRW30) - 2017/10/18
 
 
 ## Informações úteis sobre investimentos
