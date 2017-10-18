@@ -288,6 +288,8 @@
 
   * [Using Filters in Vue.js | CSS-Tricks](https://css-tricks.com/using-filters-vue-js/) - 2017/06/03
 
+* [How to Create Filters in Vue.js with Examples | Scotch](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples) - 2017/09/18
+
 * [The Power of Custom Directives in Vue | CSS-Tricks](https://css-tricks.com/power-custom-directives-vue/) - 2017/04/20
 
 * [Writing Abstract Components With Vue.js | @alligatorio](https://alligator.io/vuejs/vue-abstract-components/)
