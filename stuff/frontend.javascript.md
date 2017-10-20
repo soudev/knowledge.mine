@@ -1201,6 +1201,8 @@
 
 --
 
+* [Put Your Webpack Bundle On A Diet - Part 1 | Contentful](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/) - (2017/10/10) How to make your users happy by learning the right way to slim down your webpack bundle.
+
 * [[GitHub] webpackmonitor / webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 
 * [webpack analyze](https://webpack.github.io/analyse/)
