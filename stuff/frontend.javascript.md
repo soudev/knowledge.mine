@@ -1201,7 +1201,12 @@
 
 --
 
-* [Put Your Webpack Bundle On A Diet - Part 1 | Contentful](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/) - (2017/10/10) How to make your users happy by learning the right way to slim down your webpack bundle.
+* Put Your Webpack Bundle On A Diet | Contentful
+
+  * [part 1](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/) - (2017/10/10) How to make your users happy by learning the right way to slim down your webpack bundle.
+
+  * [part 2](https://www.contentful.com/blog/2017/10/19/put-your-webpack-bundle-on-a-diet-part-2/) - (2017/10/19) - We're back, and this time, it's all about optimizing for production. You'll learn how to minify your code, tweak module concatenation, and so much more.
+
 
 * [[GitHub] webpackmonitor / webpackmonitor](https://github.com/webpackmonitor/webpackmonitor) - A tool for monitoring webpack optimization metrics through the development process
 
