@@ -14,12 +14,14 @@
   * [Tratamento e Isolamento Acústico](#tratamento-e-isolamento-acústico)
   * [Gravação](#gravação)
   * [Microfone sem fio](#microfone-sem-fio)
-* [Sincronia audio e vídeo](#sincronia-audio-e-vídeo)
 * [Vídeo](#vídeo)
-  * [Editor](#editor)
+  * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Filmagem](#filmagem)
     * [Smartphone](#smartphone)
     * [Câmera](#câmera)
+* [Edição](#edição)
+  * [Sincronia audio e vídeo](#sincronia-audio-e-vídeo)
+  * [Editor](#editor)
 
 <!-- toc stop -->
 
@@ -71,6 +73,8 @@
 
 * [[YouTube] DIY-Como fazer Softbox caseiro - Iluminação para vídeos e fotos | uduluiz](https://www.youtube.com/watch?v=cXsVo09JaZU) - 2016/12/09
 
+* [[YouTube] Como fazer uma softbox caseira (resistente e firme) | Fiama Pereira](https://www.youtube.com/watch?v=icxJpUuKouk) - 2016/08/19
+
 * [[YouTube] Como fazer softbox caseiro - Portátil | Up Media](https://www.youtube.com/watch?v=vKmPqlQbOwk) - 2015/10/14
 
 
@@ -101,25 +105,16 @@
 * [[YouTube] Como fazer um Microfone Sem Fio | Michael Oliveira](https://www.youtube.com/watch?v=Ag5BaIc6uMM) - 2016/06/23
 
 
-## Sincronia audio e vídeo
-
-* [[YouTube] Como Sincronizar o Áudio nos seus Vídeos Passo a Passo | Michael Oliveira](https://www.youtube.com/watch?v=GJ03_XP1k34) - 2016/06/24
-
-
 ## Vídeo
 
-### Editor
-
-* [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
-
-
-### Filmagem
+### Medo de falar em vídeos
 
 * [[YouTube] Como Perder o Medo de Falar Para a Câmera | Michael Oliveira](https://www.youtube.com/watch?v=R-msQVtG1Y4) - 2016/08/11
 
 * [[YouTube] Como Eliminar o Medo de Falar em Vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=cm3imBQYZv8) - 2016/05/12
 
---
+
+### Filmagem
 
 * [[YouTube] A Regra dos 3 Terços em Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=eRK_bhleSPM) - 2016/06/22
 
@@ -146,3 +141,15 @@
 * [[YouTube] Como regular o áudio da sua câmera | Michael Oliveira](https://www.youtube.com/watch?v=JvjGXJHkWFM) - 2016/04/14
 
 * [[YouTube] COMO escolher a melhor câmera para gravar Vídeos sozinho | Michael Oliveira](https://www.youtube.com/watch?v=PSfgatkXF9Y) - 2016/01/21
+
+
+## Edição
+
+### Sincronia audio e vídeo
+
+* [[YouTube] Como Sincronizar o Áudio nos seus Vídeos Passo a Passo | Michael Oliveira](https://www.youtube.com/watch?v=GJ03_XP1k34) - 2016/06/24
+
+
+### Editor
+
+* [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
