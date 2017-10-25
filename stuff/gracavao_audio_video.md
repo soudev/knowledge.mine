@@ -143,4 +143,6 @@
 
 #### Câmera
 
+* [[YouTube] Como regular o áudio da sua câmera | Michael Oliveira](https://www.youtube.com/watch?v=JvjGXJHkWFM) - 2016/04/14
+
 * [[YouTube] COMO escolher a melhor câmera para gravar Vídeos sozinho | Michael Oliveira](https://www.youtube.com/watch?v=PSfgatkXF9Y) - 2016/01/21
