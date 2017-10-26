@@ -13,8 +13,8 @@
 * [Audio](#audio)
   * [Acústica](#acústica)
   * [Tratamento e Isolamento Acústico](#tratamento-e-isolamento-acústico)
-  * [Gravação](#gravação)
-  * [Microfone sem fio](#microfone-sem-fio)
+  * [Microfone](#microfone)
+    * [Microfone sem fio](#microfone-sem-fio)
 * [Vídeo](#vídeo)
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Filmagem](#filmagem)
@@ -113,9 +113,14 @@
 * [[YouTube] Acústica com caixa de ovo dá certo? | Gilmar Lima](https://www.youtube.com/watch?v=U9V-nWiRpyg) - 2016/09/06
 
 
-### Gravação
+### Microfone
 
-### Microfone sem fio
+* [[YouTube] Como Fazer um Vídeo com Áudio Excelente | Michael Oliveira](https://www.youtube.com/watch?v=bKDJR64PN4o) - 2016/05/07
+
+* [[YouTube] Como Escolher o Microfone para Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=Zd6-a1q_j2M) - 2015/07/09
+
+
+#### Microfone sem fio
 
 * [[YouTube] Microfone Ideal para Começar a Gravar Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=sHmA4aNbzBM) - 2017/06/16
 
@@ -197,3 +202,5 @@
 * [[YouTube] Como Colocar Legendas em Videos | Michael Oliveira](https://www.youtube.com/watch?v=pRQG5xb-UDI) - 2016/05/15
 
 * [[YouTube] Como Editar Vídeos com Jump Cuts (Cortes Secos) | Michael Oliveira](https://www.youtube.com/watch?v=kZujd2jZKfc) - 2016/04/27
+
+* [[YouTube] Como Gravar e Editar com 3 Câmeras - Audio e Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=KIznE1vD-_E) - 2015/07/06
