@@ -5,8 +5,8 @@
 * [Canais no YouTube](#canais-no-youtube)
 * [Dicas em geral](#dicas-em-geral)
 * [Iluminação](#iluminação)
-  * [Dicas de iluminação](#dicas-de-iluminação)
   * [Iluminação External](#iluminação-external)
+  * [Iluminação Interna](#iluminação-interna)
   * [China Ball](#china-ball)
   * [Softbox](#softbox)
   * [Ring Light](#ring-light)
@@ -47,11 +47,17 @@
 
 ## Iluminação
 
-### Dicas de iluminação
-
 * [[YouTube playlist] Entendendo a Luz! | Zona da Fotografia](https://www.youtube.com/watch?v=BBLlp-kKFAs&list=PLJTEZ6j4YWf-J17gGzuL-2lyDzlOYe1Po)
 
---
+
+### Iluminação External
+
+* [[YouTube] Os 7 Macetes da Iluminação Gratuita - Luz Acessível | ABC do Vídeo](https://www.youtube.com/watch?v=4pl6afF7SVY) - 2017/03/02
+
+* [[YouTube] Como Fazer Vídeos com Iluminação Externa | Michagel Oliveira](https://www.youtube.com/watch?v=3yRSRjNUUSw) - 2015/08/20
+
+
+### Iluminação Interna
 
 * [[YouTube] Dicas práticas de iluminação - Tutorial Foco Filmes | Focofilmes](https://www.youtube.com/watch?v=fx5y2ptJAxo) - 2017/09/27
 
@@ -61,12 +67,7 @@
 
 * [[YouTube] 5 Dicas Práticas de iluminação para vídeos | Michael Oliveira](https://www.youtube.com/watch?v=9T5fa87kxzY) - 2016/06/17
 
-
-### Iluminação External
-
-* [[YouTube] Os 7 Macetes da Iluminação Gratuita - Luz Acessível | ABC do Vídeo](https://www.youtube.com/watch?v=4pl6afF7SVY) - 2017/03/02
-
-* [[YouTube] Como Fazer Vídeos com Iluminação Externa | Michagel Oliveira](https://www.youtube.com/watch?v=3yRSRjNUUSw) - 2015/08/20
+* [[YouTube] Como fazer Vídeos com Iluminação Interna | Michael Oliveira](https://www.youtube.com/watch?v=XRaweR7IQTs) - 2015/08/21
 
 
 ### China Ball
@@ -134,6 +135,10 @@
 
 
 ### Filmagem
+
+* [[YouTube] Kit Básico Para Gravar Vídeos com Qualidade | Michael Oliveira](https://www.youtube.com/watch?v=wfZVvJHLsn4) - 2016/09/23
+
+* [[YouTube] Como Montar um Setup Para Gravar Seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=qczwB8NHxi0) - 2016/07/03
 
 * [[YouTube] A Regra dos 3 Terços em Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=eRK_bhleSPM) - 2016/06/22
 
