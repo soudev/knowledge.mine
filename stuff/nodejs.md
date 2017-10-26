@@ -1180,6 +1180,8 @@
 
   * [[GitHub] gilbitron / Raneto](https://github.com/gilbitron/Raneto) - Markdown powered Knowledgebase for Nodejs
 
+* [[GitHub] Requarks / wiki](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+
 
 #### Jogos
 
