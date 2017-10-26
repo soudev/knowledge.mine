@@ -482,6 +482,12 @@
 
 --
 
+* [[YouTube] Método Inglês Fluente em 3 Meses - Você Também Pode Aprender | O Mano Em New York](https://www.youtube.com/watch?v=vrQcvL0c-4g) - 2017/07/11
+
+* [[YouTube] Aprenda Inglês Sozinho - Os melhores aplicativos para aprender inglês | O Mano Em New York](https://www.youtube.com/watch?v=rCIbQbyz-HU) - 2017/10/08
+
+--
+
 * [Three Secrets You Need to Know About Spoken English | Judy Thompson | TEDxOakville](https://www.youtube.com/watch?v=NcX2AwH3cG8) - 2010/10/26
 
 * [[YouTube] How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0) - 2013/11/20
