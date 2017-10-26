@@ -15,6 +15,7 @@
   * [Tratamento e Isolamento Acústico](#tratamento-e-isolamento-acústico)
   * [Microfone](#microfone)
     * [Microfone sem fio](#microfone-sem-fio)
+  * [Gravador de áudio](#gravador-de-áudio)
 * [Vídeo](#vídeo)
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Como se posicionar em frente das câmeras](#como-se-posicionar-em-frente-das-câmeras)
@@ -27,7 +28,8 @@
   * [Sincronia audio e vídeo](#sincronia-audio-e-vídeo)
   * [Dicas de edição](#dicas-de-edição)
   * [Trilha sonora](#trilha-sonora)
-  * [Uso de imagens de pessoas](#uso-de-imagens-de-pessoas)
+  * [Direito de imagem](#direito-de-imagem)
+* [Dicas do YouTube](#dicas-do-youtube)
 
 <!-- toc stop -->
 
@@ -44,6 +46,12 @@
 * [[YouTube] Como Fazer Cenas Incríveis para seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=2zu1wOY41QM) - 2017/05/02
 
 * [[YouTube] Como Ter Mais Autenticidade Nos Seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=GfnMdXHt1GY) - 2016/06/29
+
+* [[YouTube] Por que você precisa gravar vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=MxL0odrG5ug) - 2016/04/15
+
+* [[YouTube] Como construir Autoridade com Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=SPsYvpEkTCk) - 2016/04/12
+
+* [[YouTube] Como identificar o seu publico alvo | Michael Oliveira](https://www.youtube.com/watch?v=tBDy0h8So6E) - 2016/01/25
 
 * [[YouTube] Como gastar pouco com câmera, áudio e iluminação | Fazedora de Vídeos](https://www.youtube.com/watch?v=Dtljt_Z4XXE) - 2015/08/10
 
@@ -130,7 +138,16 @@
 * [[YouTube] Como fazer um Microfone Sem Fio | Michael Oliveira](https://www.youtube.com/watch?v=Ag5BaIc6uMM) - 2016/06/23
 
 
+### Gravador de áudio
+
+* [[YouTube] TUDO sobre o gravador ZOOM H5 (unboxing, hands on, review e testes de áudio) | Gambiacine](https://www.youtube.com/watch?v=OEhTwYrA190) - 2017/10/04
+
+* [[YouTube] Como Usar um Gravador USB em Vídeos ao Vivo (ZOOM H4n) | Michael Oliveira](https://www.youtube.com/watch?v=LPhbjxsG5YU) - 2016/12/18
+
+
 ## Vídeo
+
+* [[YouTube] Como Funciona um Teleprompter | Michael Oliveira](https://www.youtube.com/watch?v=rd0qOlwlWoc) - 2016/08/01
 
 * [[YouTube] Como Fazer Live para Vários lugares ao mesmo tempo (Twitch, youtube, hitbox e etc) | Casal Na Ment](https://www.youtube.com/watch?v=NMTC4HpW1Go) - 2016/06/27
 
@@ -195,6 +212,10 @@
 
 * [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
 
+* [[YouTube] Software de Edição de Vídeo de Baixo Custo (Parte 2) | Michael Oliveira](https://www.youtube.com/watch?v=rRUb7PA4TOg) - 2016/08/29
+
+* [[YouTube] Software de Edição de Vídeo de Baixo Custo (Parte 1) | Michael Oliveira](https://www.youtube.com/watch?v=07xxhAx9oiU) - 2016/08/26
+
 * [[YouTube] Como escolher um bom programa de Edição de Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=cTuTzdeOKo0) - 2016/05/02
 
 
@@ -202,10 +223,16 @@
 
 * [[YouTube] Como Sincronizar o Áudio nos seus Vídeos Passo a Passo | Michael Oliveira](https://www.youtube.com/watch?v=GJ03_XP1k34) - 2016/06/24
 
+* [[YouTube] Sincronizar a gravação de áudio e vídeo (e de duas ou mais câmeras) // #DicaDoGambiacine 4 | Gambiacine](https://www.youtube.com/watch?v=Yc3c-SLbH5c) - 2014/09/09
+
 
 ### Dicas de edição
 
+* [[YouTube] Dica de Edição de Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=S_TZwaCUVhQ) - 2016/10/07
+
 * [[YouTube] Dica para Você Editar os Seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=htWvta8fAkE) - 2016/07/31
+
+* [[YouTube] Como colocar títulos e anotações nos vídeos | Michael Oliveira](https://www.youtube.com/watch?v=YOjGofa-LoU) - 2016/06/27
 
 * [[YouTube] Como Colocar Legendas em Videos | Michael Oliveira](https://www.youtube.com/watch?v=pRQG5xb-UDI) - 2016/05/15
 
@@ -224,7 +251,20 @@
 
 * [[YouTube] Trilha Sonora para Vídeos no YouTube - Direitos Autorais | Michael Oliveira](https://www.youtube.com/watch?v=0kQmMxvlgBg) - 2016/04/24
 
+* [[YouTube] Onde baixar trilhas grátis para vídeos monetizados (uso comercial) // #DicaDoGambiacine 5 | Gambiacine](https://www.youtube.com/watch?v=PSLE-1HNuTo) - 2015/04/22
 
-### Uso de imagens de pessoas
+
+### Direito de imagem
+
+* [[YouTube] Direito de imagem nos Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=JpYWjDjXUG4) - 2016/10/23
 
 * [[YouTube] Como usar imagens de pessoas nos seus vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=VG-CZsW3Vg8) - 2016/07/12
+
+
+## Dicas do YouTube
+
+* [[YouTube] Como Começar um Canal no Youtube | Michael Oliveira](https://www.youtube.com/watch?v=nyXkPl3z83o) - 2016/10/15
+
+* [[YouTube] Como Colocar Imagem Personalizada na Miniatura do Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=H6F-WFY3Lfo) - 2016/08/31
+
+* [[YouTube] Como Criar um Canal no Youtube Conta Verificada | Michael Oliveira](https://www.youtube.com/watch?v=DLFBv7hbOkg) - 2016/08/30
