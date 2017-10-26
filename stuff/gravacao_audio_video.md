@@ -189,6 +189,9 @@
 
 ## Edição
 
+* [[YouTube] 14 Músicas Gratuitas Royalty Free no YouTube | Michael Oliveira](https://www.youtube.com/watch?v=fEhvAjBW0UE) - 2016/06/08
+
+
 ### Editor
 
 * [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
