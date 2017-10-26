@@ -9,6 +9,7 @@
   * [Iluminação External](#iluminação-external)
   * [China Ball](#china-ball)
   * [Softbox](#softbox)
+  * [Ring Light](#ring-light)
 * [Audio](#audio)
   * [Acústica](#acústica)
   * [Tratamento e Isolamento Acústico](#tratamento-e-isolamento-acústico)
@@ -17,11 +18,13 @@
 * [Vídeo](#vídeo)
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Filmagem](#filmagem)
+    * [Tela do computador](#tela-do-computador)
     * [Smartphone](#smartphone)
     * [Câmera](#câmera)
 * [Edição](#edição)
-  * [Sincronia audio e vídeo](#sincronia-audio-e-vídeo)
   * [Editor](#editor)
+  * [Sincronia audio e vídeo](#sincronia-audio-e-vídeo)
+  * [Dicas de edição](#dicas-de-edição)
 
 <!-- toc stop -->
 
@@ -46,7 +49,13 @@
 
 ### Dicas de iluminação
 
+* [[YouTube playlist] Entendendo a Luz! | Zona da Fotografia](https://www.youtube.com/watch?v=BBLlp-kKFAs&list=PLJTEZ6j4YWf-J17gGzuL-2lyDzlOYe1Po)
+
+--
+
 * [[YouTube] Dicas práticas de iluminação - Tutorial Foco Filmes | Focofilmes](https://www.youtube.com/watch?v=fx5y2ptJAxo) - 2017/09/27
+
+* [Como Fazer Iluminação Caseira em Vídeos | Michael Oliveira](http://www.michaeloliveira.com.br/como-fazer-iluminacao-caseira-em-videos/) - 2017/07/07
 
 * [[YouTube] Como Fazer Iluminação Caseira em Vídeos | Michagel Oliveira](https://www.youtube.com/watch?v=BqxA_ub-kqI&t=115s) - 2017/03/02
 
@@ -76,6 +85,13 @@
 * [[YouTube] Como fazer uma softbox caseira (resistente e firme) | Fiama Pereira](https://www.youtube.com/watch?v=icxJpUuKouk) - 2016/08/19
 
 * [[YouTube] Como fazer softbox caseiro - Portátil | Up Media](https://www.youtube.com/watch?v=vKmPqlQbOwk) - 2015/10/14
+
+* [[YouTube] DIY: Como fazer mini SOFT BOX caseira! | Jessica Belcost](https://www.youtube.com/watch?v=u2c7lXwsbtY) - 2015/10/07
+
+
+### Ring Light
+
+* [[YouTube] Ring Light Caseira com Forma de Bolo - DIY | Michagel Oliveira](https://www.youtube.com/watch?v=Ag9TZ0NbcdU) - 2017/07/21
 
 
 ## Audio
@@ -107,6 +123,9 @@
 
 ## Vídeo
 
+* [[YouTube] Como Fazer Live para Vários lugares ao mesmo tempo (Twitch, youtube, hitbox e etc) | Casal Na Ment](https://www.youtube.com/watch?v=NMTC4HpW1Go) - 2016/06/27
+
+
 ### Medo de falar em vídeos
 
 * [[YouTube] Como Perder o Medo de Falar Para a Câmera | Michael Oliveira](https://www.youtube.com/watch?v=R-msQVtG1Y4) - 2016/08/11
@@ -119,6 +138,15 @@
 * [[YouTube] A Regra dos 3 Terços em Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=eRK_bhleSPM) - 2016/06/22
 
 * [[YouTube] Como começar a gravar vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=_cKZX1GK5eo) - 2015/11/27
+
+
+#### Tela do computador
+
+* [[YouTube] Dica: Como Gravar a Tela do Computador | Michael Oliveira](https://www.youtube.com/watch?v=-OCAOrqW994) -  2016/12/14
+
+* [[YouTube] Como Gravar a Tela sem Perder Qualidade na imagem | Michael Oliveira](https://www.youtube.com/watch?v=cfH8dg9DmR8) - 2016/11/14
+
+* [[YouTube] Dicas Para Gravar a Tela do Computador | Michael Oliveira](https://www.youtube.com/watch?v=QRmpKIeAUTY) - 2016/08/05
 
 
 #### Smartphone
@@ -145,11 +173,22 @@
 
 ## Edição
 
+### Editor
+
+* [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
+
+* [[YouTube] Como escolher um bom programa de Edição de Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=cTuTzdeOKo0) - 2016/05/02
+
+
 ### Sincronia audio e vídeo
 
 * [[YouTube] Como Sincronizar o Áudio nos seus Vídeos Passo a Passo | Michael Oliveira](https://www.youtube.com/watch?v=GJ03_XP1k34) - 2016/06/24
 
 
-### Editor
+### Dicas de edição
 
-* [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
+* [[YouTube] Dica para Você Editar os Seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=htWvta8fAkE) - 2016/07/31
+
+* [[YouTube] Como Colocar Legendas em Videos | Michael Oliveira](https://www.youtube.com/watch?v=pRQG5xb-UDI) - 2016/05/15
+
+* [[YouTube] Como Editar Vídeos com Jump Cuts (Cortes Secos) | Michael Oliveira](https://www.youtube.com/watch?v=kZujd2jZKfc) - 2016/04/27
