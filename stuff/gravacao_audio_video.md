@@ -26,6 +26,8 @@
   * [Editor](#editor)
   * [Sincronia audio e vídeo](#sincronia-audio-e-vídeo)
   * [Dicas de edição](#dicas-de-edição)
+  * [Trilha sonora](#trilha-sonora)
+  * [Uso de imagens de pessoas](#uso-de-imagens-de-pessoas)
 
 <!-- toc stop -->
 
@@ -189,9 +191,6 @@
 
 ## Edição
 
-* [[YouTube] 14 Músicas Gratuitas Royalty Free no YouTube | Michael Oliveira](https://www.youtube.com/watch?v=fEhvAjBW0UE) - 2016/06/08
-
-
 ### Editor
 
 * [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
@@ -213,3 +212,19 @@
 * [[YouTube] Como Editar Vídeos com Jump Cuts (Cortes Secos) | Michael Oliveira](https://www.youtube.com/watch?v=kZujd2jZKfc) - 2016/04/27
 
 * [[YouTube] Como Gravar e Editar com 3 Câmeras - Audio e Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=KIznE1vD-_E) - 2015/07/06
+
+
+### Trilha sonora
+
+* [[YouTube] Como Ajustar a Trilha Sonora em Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=BXtCc_7_TOs) - 2016/06/28
+
+--
+
+* [[YouTube] 14 Músicas Gratuitas Royalty Free no YouTube | Michael Oliveira](https://www.youtube.com/watch?v=fEhvAjBW0UE) - 2016/06/08
+
+* [[YouTube] Trilha Sonora para Vídeos no YouTube - Direitos Autorais | Michael Oliveira](https://www.youtube.com/watch?v=0kQmMxvlgBg) - 2016/04/24
+
+
+### Uso de imagens de pessoas
+
+* [[YouTube] Como usar imagens de pessoas nos seus vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=VG-CZsW3Vg8) - 2016/07/12
