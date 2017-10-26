@@ -17,6 +17,7 @@
     * [Microfone sem fio](#microfone-sem-fio)
 * [Vídeo](#vídeo)
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
+  * [Como se posicionar em frente das câmeras](#como-se-posicionar-em-frente-das-câmeras)
   * [Filmagem](#filmagem)
     * [Tela do computador](#tela-do-computador)
     * [Smartphone](#smartphone)
@@ -137,6 +138,11 @@
 * [[YouTube] Como Perder o Medo de Falar Para a Câmera | Michael Oliveira](https://www.youtube.com/watch?v=R-msQVtG1Y4) - 2016/08/11
 
 * [[YouTube] Como Eliminar o Medo de Falar em Vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=cm3imBQYZv8) - 2016/05/12
+
+
+### Como se posicionar em frente das câmeras
+
+* [[YouTube] Dicas de Como se posicionar na Frente da Câmera | Michael Oliveira](https://www.youtube.com/watch?v=zfBPziOmlf4) - 2016/05/19
 
 
 ### Filmagem
