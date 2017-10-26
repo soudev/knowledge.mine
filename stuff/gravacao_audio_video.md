@@ -49,6 +49,8 @@
 
 * [[YouTube] Por que você precisa gravar vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=MxL0odrG5ug) - 2016/04/15
 
+* [[YouTube] Entrar em Flow com a sua audiência | Michael Oliveira](https://www.youtube.com/watch?v=w_P22Ke9jQM) - 2016/04/13
+
 * [[YouTube] Como construir Autoridade com Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=SPsYvpEkTCk) - 2016/04/12
 
 * [[YouTube] Como identificar o seu publico alvo | Michael Oliveira](https://www.youtube.com/watch?v=tBDy0h8So6E) - 2016/01/25
