@@ -25,6 +25,7 @@
     * [Câmera](#câmera)
 * [Edição](#edição)
   * [Editor](#editor)
+    * [HITFILM EXPRESS](#hitfilm-express)
   * [Sincronia audio e vídeo](#sincronia-audio-e-vídeo)
   * [Dicas de edição](#dicas-de-edição)
   * [Trilha sonora](#trilha-sonora)
@@ -110,6 +111,9 @@
 
 ## Audio
 
+* [[YouTube] Captação de áudio "caseira" e dublagem | Produccine](https://www.youtube.com/watch?v=egUEhOfChdc) - 2014/04/23
+
+
 ### Acústica
 
 * [[YouTube] Painel Acústico Fácil: Como Fazer | Áudio nítido](https://www.youtube.com/watch?v=lIlozyuj5Fs) - 2017/02/24
@@ -156,9 +160,18 @@
 
 ### Medo de falar em vídeos
 
+* [[YouTube] Como Perder o Medo de Gravar Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=fH67cDrinkk) - 2016/10/13
+
 * [[YouTube] Como Perder o Medo de Falar Para a Câmera | Michael Oliveira](https://www.youtube.com/watch?v=R-msQVtG1Y4) - 2016/08/11
 
+
+* [[YouTube] Por que as pessoas têm vergonha de aparecer em vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=rNWzjjymLkM) - 2016/07/27
+
+* [[YouTube] 8 dicas para ficar natural falando pra câmera // #DicaDoGambiacine 20 | Gambiacine](https://www.youtube.com/watch?v=griFgOxqOJI) - 2016/06/28
+
 * [[YouTube] Como Eliminar o Medo de Falar em Vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=cm3imBQYZv8) - 2016/05/12
+
+* [[YouTube] Como falar pra câmera com naturalidade | Escola para Youtubers](https://www.youtube.com/watch?v=Xtlo0wg6f_A) - 2015/06/23
 
 
 ### Como se posicionar em frente das câmeras
@@ -198,10 +211,14 @@
 
 * [[YouTube] 7 Dicas infaliveis para Gravar com o Smartphone | Michagel Oliveira](https://www.youtube.com/watch?v=Y9WTU_mUlJU) - 2016/09/25
 
+* [[YouTube] Como gravar vídeos com celular // #DicadoGambiacine 29 | Gambiacide](https://www.youtube.com/watch?v=a_lyM5dI7cw) - 2016/09/05
+
 * [[YouTube] Como gravar com a Câmera Traseira do Celular e ver o que está Filmando | Michael Oliveira](https://www.youtube.com/watch?v=Lq7NAxnG9aE) - 2016/04/21
 
 
 #### Câmera
+
+* [[YouTube] PODE gravar com CÂMERAS DIFERENTES? | Produccine](https://www.youtube.com/watch?v=kuGRoyAqVjU) - 2017/03/24
 
 * [[YouTube] Como regular o áudio da sua câmera | Michael Oliveira](https://www.youtube.com/watch?v=JvjGXJHkWFM) - 2016/04/14
 
@@ -218,10 +235,39 @@
 
 * [[YouTube] Software de Edição de Vídeo de Baixo Custo (Parte 1) | Michael Oliveira](https://www.youtube.com/watch?v=07xxhAx9oiU) - 2016/08/26
 
+* [[YouTube] Programa de edição grátis // #Indicashow 01 (piloto) | Gambiacine](https://www.youtube.com/watch?v=e4G8la6y4jY) - 2016/08/03
+
 * [[YouTube] Como escolher um bom programa de Edição de Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=cTuTzdeOKo0) - 2016/05/02
 
 
+#### HITFILM EXPRESS
+
+* [HITFILM EXPRESS](https://hitfilm.com/express)
+
+--
+
+* Produccine
+
+  * [[YouTube] Como fazer EFEITO PRETO E BRANCO no Hitfilm 4 Express | Produccine](https://www.youtube.com/watch?v=S0U-2xAgyHs) - 2017/03/03
+
+  * [[YouTube] Como fazer TRANSIÇÕES no HITFILM | Produccine](https://www.youtube.com/watch?v=_OWSxnofy1o) - 2017/01/30
+
+  * [[YouTube] Efeito CLONE no HITFILM 4 EXPRESS | Produccine](https://www.youtube.com/watch?v=7q0Ljhad8No) - 2016/12/08
+
+  * [[YouTube] Como fazer a TELA FINAL no Hitfilm 4 Express | Produccine](https://www.youtube.com/watch?v=LPBZkPIn_z0) - 2016/11/28
+
+  * [[YouTube] Como fazer FACECAM no HITFILM 4 EXPRESS | Produccine](https://www.youtube.com/watch?v=-Iu-VOl3WDU) - 2016/11/21
+
+  * [[YouTube] Edição BÁSICA no HITFILM 4 EXPRESS | Produccine](https://www.youtube.com/watch?v=RqJyIngRZns) - 2016/10/13
+
+  * [[YouTube] Conhecendo o HITFILM 4 Express | Produccine](https://www.youtube.com/watch?v=poUPoOTk66Y) - 2016/10/13
+
+* [[YouTube] HITFILM 4 EXPRESS - Editor de Vídeos GRÁTIS! | Brainstorm Tutoriais - Edição de Vídeo](https://www.youtube.com/watch?v=Tf_vzL6Z_dA) - 2016/05/04
+
+
 ### Sincronia audio e vídeo
+
+* [[YouTube] 3 SITUAÇÕES para usar a CLAQUETE | Produccine](https://www.youtube.com/watch?v=Lkge9XbhLBQ) - 2016/11/24
 
 * [[YouTube] Como Sincronizar o Áudio nos seus Vídeos Passo a Passo | Michael Oliveira](https://www.youtube.com/watch?v=GJ03_XP1k34) - 2016/06/24
 
@@ -229,6 +275,10 @@
 
 
 ### Dicas de edição
+
+* [[YouTube] O segredo da edição dos youtuber's | Produccine](https://www.youtube.com/watch?v=hVT5poUOuI4) - 2017/10/26
+
+* [[YouTube] Como começar a editar vídeos | Produccine](https://www.youtube.com/watch?v=iOI_pGYcE9M) - 2017/06/01
 
 * [[YouTube] Dica de Edição de Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=S_TZwaCUVhQ) - 2016/10/07
 
