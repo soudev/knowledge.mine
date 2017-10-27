@@ -112,6 +112,8 @@
 
 ## Audio
 
+* [[YouTube] Meus equipamentos de gravação de áudio (o essencial para captação de som profissional) | Gambiacine](https://www.youtube.com/watch?v=UwAOygnLcNE) - 2017/08/19
+
 * [[YouTube] Captação de áudio "caseira" e dublagem | Produccine](https://www.youtube.com/watch?v=egUEhOfChdc) - 2014/04/23
 
 
@@ -193,6 +195,10 @@
 
 ### Filmagem
 
+* [[YouTube] Criando os melhores enquadramentos para seus vídeos | Gambiacine](https://www.youtube.com/watch?v=PAcl7Amzqnw) - 2017/06/30
+
+* [[YouTube] Composição: CONHECENDO a Regra dos Terços! | Produccine](https://www.youtube.com/watch?v=7MAE7KAHsp4) - 2017/06/30
+
 * [[YouTube] Kit Básico Para Gravar Vídeos com Qualidade | Michael Oliveira](https://www.youtube.com/watch?v=wfZVvJHLsn4) - 2016/09/23
 
 * [[YouTube] Como Começar a Gravar Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=mGJZFNRc46w) - 2016/09/10
@@ -251,6 +257,8 @@
 
 ### Editor
 
+* [[YouTube] OS 3 MELHORES EDITORES DE VÍDEO GRÁTIS! [2017] | Brainstorm Tutoriais - Edição de Vídeo](https://www.youtube.com/watch?v=eh4JRH2uEIo) - 2017/06/11
+
 * [[YouTube] Qual é o Melhor Editor de Vídeo Grátis ? [2017] | ABC do Vídeo](https://www.youtube.com/watch?v=W-cIy1_ohkA) - 2017/04/08
 
 * [[YouTube] Software de Edição de Vídeo de Baixo Custo (Parte 2) | Michael Oliveira](https://www.youtube.com/watch?v=rRUb7PA4TOg) - 2016/08/29
@@ -272,6 +280,8 @@
 
   * [[YouTube] Como fazer EFEITO PRETO E BRANCO no Hitfilm 4 Express | Produccine](https://www.youtube.com/watch?v=S0U-2xAgyHs) - 2017/03/03
 
+  * [[YouTube] HITFILM NÃO exporta MP4 e AVI? | Produccine](https://www.youtube.com/watch?v=VivzBOOrfA4) - 2017/02/06
+
   * [[YouTube] Como fazer TRANSIÇÕES no HITFILM | Produccine](https://www.youtube.com/watch?v=_OWSxnofy1o) - 2017/01/30
 
   * [[YouTube] Efeito CLONE no HITFILM 4 EXPRESS | Produccine](https://www.youtube.com/watch?v=7q0Ljhad8No) - 2016/12/08
@@ -284,7 +294,25 @@
 
   * [[YouTube] Conhecendo o HITFILM 4 Express | Produccine](https://www.youtube.com/watch?v=poUPoOTk66Y) - 2016/10/13
 
-* [[YouTube] HITFILM 4 EXPRESS - Editor de Vídeos GRÁTIS! | Brainstorm Tutoriais - Edição de Vídeo](https://www.youtube.com/watch?v=Tf_vzL6Z_dA) - 2016/05/04
+* Shockwave Tutoriais - Edição de vídeo
+
+  * [[YouTube] Tutorial de INTRO/ANIMAÇÃO estilo AQUARELA no HITFILM EXPRESS 2017 | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=O1ohXdxjRKc) - 2017/08/19
+
+  * [[YouTube] HitFilm EXPRESS 2017 - Editor de vídeos e Compositor VFX GRÁTIS! | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=vwHBXGva5CQ) - 2017/05/26
+
+  * [[YouTube] Como RENDERIZAR EXPORTAR no HITFILM EXPRESS 2017 | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=Z0GprQKonss) - 2017/05/24
+
+  * [[YouTube] EDITANDO NO HITFILM BASICO | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=_SZG0At_y-8) - 2017/07/01
+
+  * [[YouTube] Como fazer EFEITO GLITCH no HITFILM 4 EXPRESS | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=QEMd0amQtBQ) - 2016/11/06
+
+  * [[YouTube] Editando no HITFILM 4 EXPRESS ( FERRAMENTAS DE EDIÇÃO ) | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=a-dOFrtvcfE) - 2016/08/25
+
+  * [[YouTube] HITFILM 4 EXPRESS - Editor de Vídeos GRÁTIS! | Brainstorm Tutoriais - Edição de Vídeo](https://www.youtube.com/watch?v=Tf_vzL6Z_dA) - 2016/05/04
+
+  * [[YouTube] COMO EDITAR NO HITFILM 3 EXPRESS/PRO - TUTORIAL COMPLETO para INICIANTES | Brainstorm Tutoriais - Edição de Vídeo](https://www.youtube.com/watch?v=oG8SlCHrrAM) - 2015/08/05
+
+* [[YouTube] COMO SALVAR UM VÍDEO NO HITFILM EXPRESS 2017 | Estúdio do Mat](https://www.youtube.com/watch?v=vYLznYfQCks) - 2017/09/15
 
 
 ### Sincronia audio e vídeo
@@ -295,6 +323,8 @@
 
 * [[YouTube] Como sincronizar o áudio de maneira simples  | Michael Oliveira](https://www.youtube.com/watch?v=LukFeiqmCMI) - 2016/06/15
 
+* [[YouTube] Como Sincronizar Áudio e Vídeo - Rápido | Marcio Caus](https://www.youtube.com/watch?v=sidXgUUSRdQ) - 2015/09/01
+
 * [[YouTube] Sincronizar a gravação de áudio e vídeo (e de duas ou mais câmeras) // #DicaDoGambiacine 4 | Gambiacine](https://www.youtube.com/watch?v=Yc3c-SLbH5c) - 2014/09/09
 
 
@@ -303,6 +333,12 @@
 * [[YouTube] O segredo da edição dos youtuber's | Produccine](https://www.youtube.com/watch?v=hVT5poUOuI4) - 2017/10/26
 
 * [[YouTube] Como começar a editar vídeos | Produccine](https://www.youtube.com/watch?v=iOI_pGYcE9M) - 2017/06/01
+
+* [[YouTube] COMO FAZER TILT SHIFT NO ADOBE PREMIERE - DICAS DO CAJAL #13 | MilkieTV](https://www.youtube.com/watch?v=hqrYK6jU0M8) - 2017/04/06
+
+* [[YouTube] COMO FAZER TRANSIÇÕES - Dicas do Cajal #13 | MilkieTV](https://www.youtube.com/watch?v=xWSOBNPOBic) - 2016/11/10
+
+* [[YouTube] COMO TRATAMOS AS CORES DO CANAL - Dicas do Cajal #11 | MilkieTV](https://www.youtube.com/watch?v=KKZVXH9-KtY) - 2016/10/20
 
 * [[YouTube] Dica de Áudio e Vídeo na Edição | Michael Oliveira](https://www.youtube.com/watch?v=OXTLZVTxEGY) - 2016/08/10
 
@@ -340,6 +376,8 @@
 
 
 ## Dicas do YouTube
+
+* [[YouTube] 5 DICAS para MELHORAR sua EDIÇÃO no YouTube | Gambiacine](https://www.youtube.com/watch?v=l_Ns-ixfMQI) - 2017/01/31
 
 * [[YouTube] Como Começar um Canal no Youtube | Michael Oliveira](https://www.youtube.com/watch?v=nyXkPl3z83o) - 2016/10/15
 
