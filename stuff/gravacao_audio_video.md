@@ -19,6 +19,7 @@
 * [Vídeo](#vídeo)
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Como se posicionar em frente das câmeras](#como-se-posicionar-em-frente-das-câmeras)
+  * [Teleprompter](#teleprompter)
   * [Filmagem](#filmagem)
     * [Tela do computador](#tela-do-computador)
     * [Smartphone](#smartphone)
@@ -153,8 +154,6 @@
 
 ## Vídeo
 
-* [[YouTube] Como Funciona um Teleprompter | Michael Oliveira](https://www.youtube.com/watch?v=rd0qOlwlWoc) - 2016/08/01
-
 * [[YouTube] Como Fazer Live para Vários lugares ao mesmo tempo (Twitch, youtube, hitbox e etc) | Casal Na Ment](https://www.youtube.com/watch?v=NMTC4HpW1Go) - 2016/06/27
 
 
@@ -177,6 +176,17 @@
 ### Como se posicionar em frente das câmeras
 
 * [[YouTube] Dicas de Como se posicionar na Frente da Câmera | Michael Oliveira](https://www.youtube.com/watch?v=zfBPziOmlf4) - 2016/05/19
+
+
+### Teleprompter
+
+* [[YouTube] Tripe para Teleprompter | Michael Oliveira](https://www.youtube.com/watch?v=9sVLFAvua1I) - 2016/11/08
+
+* [[YouTube] Como Gravar Vídeos Com Textos Longos | Michael Oliveira](https://www.youtube.com/watch?v=cxWYqQng3Lw) - 2016/08/16
+
+* [[YouTube] Como Funciona um Teleprompter | Michael Oliveira](https://www.youtube.com/watch?v=rd0qOlwlWoc) - 2016/08/01
+
+* [[YouTube] Tutorial Como Montar Um Teleprompter Com Tablet | Marcos Felippe](https://www.youtube.com/watch?v=EeEBQKTbmP4) - 2015/09/20
 
 
 ### Filmagem
@@ -287,6 +297,8 @@
 * [[YouTube] O segredo da edição dos youtuber's | Produccine](https://www.youtube.com/watch?v=hVT5poUOuI4) - 2017/10/26
 
 * [[YouTube] Como começar a editar vídeos | Produccine](https://www.youtube.com/watch?v=iOI_pGYcE9M) - 2017/06/01
+
+* [[YouTube] Dica de Áudio e Vídeo na Edição | Michael Oliveira](https://www.youtube.com/watch?v=OXTLZVTxEGY) - 2016/08/10
 
 * [[YouTube] Dica de Edição de Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=S_TZwaCUVhQ) - 2016/10/07
 
