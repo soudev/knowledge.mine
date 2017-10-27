@@ -191,6 +191,10 @@
 
 * [[YouTube] A Regra dos 3 Terços em Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=eRK_bhleSPM) - 2016/06/22
 
+* [[YouTube] Quais equipamentos quem tá começando deve comprar? // #DicaDoGambiacine 16 | Gambiacine](https://www.youtube.com/watch?v=-1ZKMP_SdAU) - 2016/06/05
+
+* [[YouTube] Como escolher o lugar para gravar videos | Michael Oliveira](https://www.youtube.com/watch?v=fcVeTCnbbnY) - 2016/05/04
+
 * [[YouTube] Como começar a gravar vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=_cKZX1GK5eo) - 2015/11/27
 
 
@@ -320,6 +324,8 @@
 ## Dicas do YouTube
 
 * [[YouTube] Como Começar um Canal no Youtube | Michael Oliveira](https://www.youtube.com/watch?v=nyXkPl3z83o) - 2016/10/15
+
+* [[YouTube] Como configurar o Vídeo de Boas Vindas no YouTube | Michael Oliveira](https://www.youtube.com/watch?v=Q9WnrpwGDY8) - 2016/09/05
 
 * [[YouTube] Como Colocar Imagem Personalizada na Miniatura do Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=H6F-WFY3Lfo) - 2016/08/31
 
