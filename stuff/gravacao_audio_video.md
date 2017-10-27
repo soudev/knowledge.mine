@@ -289,6 +289,8 @@
 
 * [[YouTube] Como Sincronizar o Áudio nos seus Vídeos Passo a Passo | Michael Oliveira](https://www.youtube.com/watch?v=GJ03_XP1k34) - 2016/06/24
 
+* [[YouTube] Como sincronizar o áudio de maneira simples  | Michael Oliveira](https://www.youtube.com/watch?v=LukFeiqmCMI) - 2016/06/15
+
 * [[YouTube] Sincronizar a gravação de áudio e vídeo (e de duas ou mais câmeras) // #DicaDoGambiacine 4 | Gambiacine](https://www.youtube.com/watch?v=Yc3c-SLbH5c) - 2014/09/09
 
 
