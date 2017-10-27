@@ -278,6 +278,8 @@
 
 * Produccine
 
+  * [[YouTube] ALTERAR VELOCIDADE do VÍDEO no HITFILM EXPRESS | Produccine](https://www.youtube.com/watch?v=ds1qlEDjgwE) - 2017/08/24
+
   * [[YouTube] Como fazer EFEITO PRETO E BRANCO no Hitfilm 4 Express | Produccine](https://www.youtube.com/watch?v=S0U-2xAgyHs) - 2017/03/03
 
   * [[YouTube] HITFILM NÃO exporta MP4 e AVI? | Produccine](https://www.youtube.com/watch?v=VivzBOOrfA4) - 2017/02/06
@@ -305,6 +307,8 @@
   * [[YouTube] EDITANDO NO HITFILM BASICO | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=_SZG0At_y-8) - 2017/07/01
 
   * [[YouTube] Como fazer EFEITO GLITCH no HITFILM 4 EXPRESS | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=QEMd0amQtBQ) - 2016/11/06
+
+  * [[YouTube] Como MUDAR a VELOCIDADE do VÍDEO no HITFILM 4 EXPRESS | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=lDLq9vL-aPQ) - 2016/09/23
 
   * [[YouTube] Editando no HITFILM 4 EXPRESS ( FERRAMENTAS DE EDIÇÃO ) | Shockwave Tutoriais - Edição de vídeo](https://www.youtube.com/watch?v=a-dOFrtvcfE) - 2016/08/25
 
