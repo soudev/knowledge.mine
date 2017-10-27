@@ -183,6 +183,10 @@
 
 * [[YouTube] Kit Básico Para Gravar Vídeos com Qualidade | Michael Oliveira](https://www.youtube.com/watch?v=wfZVvJHLsn4) - 2016/09/23
 
+* [[YouTube] Como Começar a Gravar Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=mGJZFNRc46w) - 2016/09/10
+
+* [[YouTube] Gravação de Baixo Custo | Michael Oliveira](https://www.youtube.com/watch?v=Scs1OyWJ8LQ) - 2016/09/02
+
 * [[YouTube] Como Montar um Setup Para Gravar Seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=qczwB8NHxi0) - 2016/07/03
 
 * [[YouTube] A Regra dos 3 Terços em Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=eRK_bhleSPM) - 2016/06/22
