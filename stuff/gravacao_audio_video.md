@@ -126,6 +126,8 @@
 
 * [[YouTube] Caixa de Ovos Abafa o Som - Verdade ou Mito? S02E16 | Home Studio Fans](https://www.youtube.com/watch?v=SGUsZpgUhbo) - 2017/04/13
 
+* [[YouTube] Como fazer Vídeo sem ECO no áudio | Michael Oliveira](https://www.youtube.com/watch?v=dDNn7oeLa5k) - 2016/06/11
+
 * [[YouTube] Saibam as diferenças entre lã de rocha e lá de vidro | L M Canal para músicos](https://www.youtube.com/watch?v=bdBCxE668H4) - 2016/11/07
 
 * [[YouTube] Acústica com caixa de ovo dá certo? | Gilmar Lima](https://www.youtube.com/watch?v=U9V-nWiRpyg) - 2016/09/06
@@ -200,6 +202,8 @@
 * [[YouTube] Como Montar um Setup Para Gravar Seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=qczwB8NHxi0) - 2016/07/03
 
 * [[YouTube] A Regra dos 3 Terços em Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=eRK_bhleSPM) - 2016/06/22
+
+* [[YouTube] Como gravar videos com o que eu tenho na mão | Michael Oliveira](https://www.youtube.com/watch?v=FhbbfYKgBmI) - 2016/06/19
 
 * [[YouTube] Quais equipamentos quem tá começando deve comprar? // #DicaDoGambiacine 16 | Gambiacine](https://www.youtube.com/watch?v=-1ZKMP_SdAU) - 2016/06/05
 
