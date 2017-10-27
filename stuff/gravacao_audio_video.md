@@ -167,7 +167,6 @@
 
 * [[YouTube] Como Perder o Medo de Falar Para a Câmera | Michael Oliveira](https://www.youtube.com/watch?v=R-msQVtG1Y4) - 2016/08/11
 
-
 * [[YouTube] Por que as pessoas têm vergonha de aparecer em vídeos? | Michael Oliveira](https://www.youtube.com/watch?v=rNWzjjymLkM) - 2016/07/27
 
 * [[YouTube] 8 dicas para ficar natural falando pra câmera // #DicaDoGambiacine 20 | Gambiacine](https://www.youtube.com/watch?v=griFgOxqOJI) - 2016/06/28
