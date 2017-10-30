@@ -20,6 +20,7 @@
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Como se posicionar em frente das câmeras](#como-se-posicionar-em-frente-das-câmeras)
   * [Teleprompter](#teleprompter)
+  * [Chroma Key](#chroma-key)
   * [Filmagem](#filmagem)
     * [Tela do computador](#tela-do-computador)
     * [Smartphone](#smartphone)
@@ -79,6 +80,8 @@
 * [Como Fazer Iluminação Caseira em Vídeos | Michael Oliveira](http://www.michaeloliveira.com.br/como-fazer-iluminacao-caseira-em-videos/) - 2017/07/07
 
 * [[YouTube] Como Fazer Iluminação Caseira em Vídeos | Michagel Oliveira](https://www.youtube.com/watch?v=BqxA_ub-kqI&t=115s) - 2017/03/02
+
+* [[YouTube] Kit de iluminação para youtubers | Gambiacine](https://www.youtube.com/watch?v=F1ZURe8PklU) - 2016/11/01
 
 * [[YouTube] 5 Dicas Práticas de iluminação para vídeos | Michael Oliveira](https://www.youtube.com/watch?v=9T5fa87kxzY) - 2016/06/17
 
@@ -192,6 +195,13 @@
 * [[YouTube] Tutorial Como Montar Um Teleprompter Com Tablet | Marcos Felippe](https://www.youtube.com/watch?v=EeEBQKTbmP4) - 2015/09/20
 
 
+### Chroma Key
+
+* [[YouTube] Como Colocar Efeitos de Chroma key no seu Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=J5juthkX0GI) - 2017/01/19
+
+* [[YouTube] Como fazer chroma key simples // #DicadoGambiacine 28 | Gambiacine](https://www.youtube.com/watch?v=51ut9DAGy9U) - 2016/08/22
+
+
 ### Filmagem
 
 * [[YouTube] Criando os melhores enquadramentos para seus vídeos | Gambiacine](https://www.youtube.com/watch?v=PAcl7Amzqnw) - 2017/06/30
@@ -247,9 +257,17 @@
 
 * [[YouTube] PODE gravar com CÂMERAS DIFERENTES? | Produccine](https://www.youtube.com/watch?v=kuGRoyAqVjU) - 2017/03/24
 
+* [[YouTube] Guia Rápido: Como configurar sua câmera para gravar vídeos (DSLRs) | Gambiacine](https://www.youtube.com/watch?v=9YXUmE4VIA8) - 2016/11/29
+
+* [[YouTube] Como fazer foco em si mesmo sozinho // #DicaDoGambiacine 18 | Gambiacine](https://www.youtube.com/watch?v=qfGchv96FXY) - 2016/06/13
+
 * [[YouTube] Como regular o áudio da sua câmera | Michael Oliveira](https://www.youtube.com/watch?v=JvjGXJHkWFM) - 2016/04/14
 
+* [[YouTube] TUTORIAL DE INSTALAÇÃO CINESTYLE | Produccine](https://www.youtube.com/watch?v=p_9QCCWsDiY) - 2016/04/06
+
 * [[YouTube] COMO escolher a melhor câmera para gravar Vídeos sozinho | Michael Oliveira](https://www.youtube.com/watch?v=PSfgatkXF9Y) - 2016/01/21
+
+* [[YouTube] Como escolher a melhor câmera para vídeos sem gastar muito // #DicaDoGambiacine 1 | Gambiacine](https://www.youtube.com/watch?v=w-xmZlx7F9U) - 2014/08/27
 
 
 ## Edição
@@ -335,9 +353,15 @@
 
 * [[YouTube] O segredo da edição dos youtuber's | Produccine](https://www.youtube.com/watch?v=hVT5poUOuI4) - 2017/10/26
 
+* [[YouTube] Como eu faço TRATAMENTO de COR (correção básica no Premiere CC com Lumetri) | Gambiacine](https://www.youtube.com/watch?v=aHTUTVQZclM) - 2017/09/13
+
 * [[YouTube] Como começar a editar vídeos | Produccine](https://www.youtube.com/watch?v=iOI_pGYcE9M) - 2017/06/01
 
 * [[YouTube] COMO FAZER TILT SHIFT NO ADOBE PREMIERE - DICAS DO CAJAL #13 | MilkieTV](https://www.youtube.com/watch?v=hqrYK6jU0M8) - 2017/04/06
+
+* [[YouTube] Dica para EDITAR mais RÁPIDO (e organizadamente) | Gambiacine](https://www.youtube.com/watch?v=LW_VaAKZP8c) - 2017/02/14
+
+* [[YouTube] Como Unir Cenas no Vídeo de Forma Agradável | Michael Oliveira](https://www.youtube.com/watch?v=ZrSGz99VqwY) - 2016/12/15
 
 * [[YouTube] COMO FAZER TRANSIÇÕES - Dicas do Cajal #13 | MilkieTV](https://www.youtube.com/watch?v=xWSOBNPOBic) - 2016/11/10
 
@@ -380,12 +404,24 @@
 
 ## Dicas do YouTube
 
+* [[YouTube] Quanto um YouTuber ganha? | Gambiacine](https://www.youtube.com/watch?v=wMYHZ0-Kn8w) - 2017/07/17
+
+* [[YouTube] Vale a pena criar um canal no YouTube? | Gambiacine](https://www.youtube.com/watch?v=q-Cmtkf7W5U) - 2017/07/11
+
+* [[YouTube] Qual a melhor câmera para fazer vídeos pro YouTube? | Gambiacine](https://www.youtube.com/watch?v=TwOiCrUpGy8) - 2017/07/04
+
+* [[YouTube] 3 DICAS para ser ENCONTRADO no YouTube | Gambiacine](https://www.youtube.com/watch?v=1DatZ2yyLig) - 2017/06/27
+
 * [[YouTube] 5 DICAS para MELHORAR sua EDIÇÃO no YouTube | Gambiacine](https://www.youtube.com/watch?v=l_Ns-ixfMQI) - 2017/01/31
 
 * [[YouTube] Como Começar um Canal no Youtube | Michael Oliveira](https://www.youtube.com/watch?v=nyXkPl3z83o) - 2016/10/15
+
+* [[YouTube] 6 coisas que você deve aprender para fazer vídeos legais // #DicadoGambiacine 31 | Gambiacine](https://www.youtube.com/watch?v=7-xGGye-xPE) - 2016/09/20
 
 * [[YouTube] Como configurar o Vídeo de Boas Vindas no YouTube | Michael Oliveira](https://www.youtube.com/watch?v=Q9WnrpwGDY8) - 2016/09/05
 
 * [[YouTube] Como Colocar Imagem Personalizada na Miniatura do Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=H6F-WFY3Lfo) - 2016/08/31
 
 * [[YouTube] Como Criar um Canal no Youtube Conta Verificada | Michael Oliveira](https://www.youtube.com/watch?v=DLFBv7hbOkg) - 2016/08/30
+
+* [[YouTube] 5 dicas pra quem está começando um canal no YouTube // #DicaDoGambiacine 24 | Gambiacine](https://www.youtube.com/watch?v=gblKfHLckS4) - 2016/07/25
