@@ -170,6 +170,8 @@
 
 ### Proactive Thinker
 
+* [[YouTube] Where Rich People Invest Their Money | Proactive Thinker](https://www.youtube.com/watch?v=ILyQlnxE3XI) - 2017/10/21
+
 * [[YouTube] How To Think Like Millionaires - Secrets of The Millionaire Mind by Harv Eker - Animated Book Review | Proactive Thinker](https://www.youtube.com/watch?v=iLRBkIcBJ48) - 2017/03/02
 
 * [[YouTube] 3 Most Important Rules Of Money | Proactive Thinker](https://www.youtube.com/watch?v=TIHRdrVZl_Q) - 2017/06/18
@@ -827,6 +829,10 @@
 * [[YouTube] A SELIC CAIU! O Que vai RENDER MAIS DAQUI PRA FRENTE? | O primo rico](https://www.youtube.com/watch?v=MfYt3GPIN7o) - 2017/02/10
 
 * [[YouTube] ONDE investir com a Selic em QUEDA? | Rico](https://www.youtube.com/watch?v=QyB6TOFLrz4) - 2017/09/13
+
+--
+
+* [[YouTube] The Ultimate Investing Guide (For Beginners) | The Better Men Project](https://www.youtube.com/watch?v=5TMguibsd38) - 2017/10/30
 
 
 ### Investir no Exterior
