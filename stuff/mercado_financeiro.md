@@ -104,6 +104,10 @@
 
 * [Clube do Valor](https://clubedovalor.com.br/) - Seu Caminho Rumo à Independência Financeira
 
+* [PenseRico](http://viverdedividendos.org/) - Viver de Dividendos
+
+* [Jornada do Dinheiro](http://jornadadodinheiro.com/)
+
 
 ### Easyinvest
 
@@ -843,7 +847,11 @@
 
 * [[YouTube] Como investir seu dinheiro nos EUA. Deixar na poupança é um bom negócio? | Simmie na América](https://www.youtube.com/watch?v=x2seDRsUJKQ) - 2016/09/26
 
+* [[YouTube] Como Analisar as Ações Americanas | Jornada do Dinheiro](https://www.youtube.com/watch?v=qVt2EuqDkxQ) - 2016/03/23
+
 * [[YouTube] Como Investir em Ações Americanas | Jornada do Dinheiro](https://www.youtube.com/watch?v=UOy3NOhew_k) - 2016/03/15
+
+  * [Como investir em ações americanas | Jornada do Dinheiro](http://jornadadodinheiro.com/investir/como-investir-em-acoes-americanas/) - 2016/03/15
 
 
 ### Robos de Investimento
