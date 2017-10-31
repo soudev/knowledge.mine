@@ -843,6 +843,8 @@
 
 * [[YouTube] Como investir no exterior legalmente (mesmo com pouco dinheiro) | Clube do Valor](https://www.youtube.com/watch?v=YfNMfcix9uY) - 2017/05/10
 
+* [[YouTube] Como montar seu ETF de ações da bolsa americana | PenseRico](https://www.youtube.com/watch?v=AqY5mWy17r8) - 2017/04/19
+
 * [[YouTube] Quer investir no mercado internacional? Saiba isso antes! | Blod do Valor](https://www.youtube.com/watch?v=mArGksYkjCA) - 2016/12/20
 
 * [[YouTube] Como investir seu dinheiro nos EUA. Deixar na poupança é um bom negócio? | Simmie na América](https://www.youtube.com/watch?v=x2seDRsUJKQ) - 2016/09/26
