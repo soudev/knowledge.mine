@@ -839,7 +839,11 @@
 
 * [[YouTube] Como investir no exterior legalmente (mesmo com pouco dinheiro) | Clube do Valor](https://www.youtube.com/watch?v=YfNMfcix9uY) - 2017/05/10
 
-* [[YouTube] Quer investir no mercado internacional? Saiba isso antes! | Blod do Valor]() - 2016/12/20
+* [[YouTube] Quer investir no mercado internacional? Saiba isso antes! | Blod do Valor](https://www.youtube.com/watch?v=mArGksYkjCA) - 2016/12/20
+
+* [[YouTube] Como investir seu dinheiro nos EUA. Deixar na poupança é um bom negócio? | Simmie na América](https://www.youtube.com/watch?v=x2seDRsUJKQ) - 2016/09/26
+
+* [[YouTube] Como Investir em Ações Americanas | Jornada do Dinheiro](https://www.youtube.com/watch?v=UOy3NOhew_k) - 2016/03/15
 
 
 ### Robos de Investimento
