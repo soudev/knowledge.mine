@@ -414,9 +414,13 @@
 
 * [[YouTube] 3 DICAS para ser ENCONTRADO no YouTube | Gambiacine](https://www.youtube.com/watch?v=1DatZ2yyLig) - 2017/06/27
 
+* [[YouTube] Meus Equipamentos de Gravação | GustaTV](https://www.youtube.com/watch?v=cXYpT_sgcpw) - 2017/06/15
+
 * [[YouTube] 5 DICAS para MELHORAR sua EDIÇÃO no YouTube | Gambiacine](https://www.youtube.com/watch?v=l_Ns-ixfMQI) - 2017/01/31
 
 * [[YouTube] Como Começar um Canal no Youtube | Michael Oliveira](https://www.youtube.com/watch?v=nyXkPl3z83o) - 2016/10/15
+
+* [[YouTube] Como fazer vídeo para internet? | Coisa de Nerd](https://www.youtube.com/watch?v=NxEL31CpycU) - 2016/10/04
 
 * [[YouTube] 6 coisas que você deve aprender para fazer vídeos legais // #DicadoGambiacine 31 | Gambiacine](https://www.youtube.com/watch?v=7-xGGye-xPE) - 2016/09/20
 
