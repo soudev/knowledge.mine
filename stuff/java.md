@@ -19,6 +19,10 @@
 
 * [[GitHub] akullpp / awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 
+--
+
+* [Benchmarking JDK String.replace() vs Apache Commons StringUtils.replace() | Java, SQL and jOOQ](https://blog.jooq.org/2017/10/11/benchmarking-jdk-string-replace-vs-apache-commons-stringutils-replace/) - 2017/10/11
+
 
 ## Learn
 
