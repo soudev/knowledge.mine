@@ -16,6 +16,10 @@
 
 ## CSS
 
+* [A Look Back at the History of CSS | CSS-Tricks](https://css-tricks.com/look-back-history-css/) - 2017/10/17
+
+--
+
 * [CSS Brasil](http://cssbrasil.org/)
 
 * [CSS Reference](http://cssreference.io/) - A free visual guide to the most popular CSS properties
