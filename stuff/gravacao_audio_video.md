@@ -267,6 +267,8 @@
 
 * [[YouTube] TUTORIAL DE INSTALAÇÃO CINESTYLE | Produccine](https://www.youtube.com/watch?v=p_9QCCWsDiY) - 2016/04/06
 
+* [[YouTube] Vídeo Manual - Canon EOS Rebel T5i ( Pt-Br) | Zona da Fotografia](https://www.youtube.com/watch?v=ZcO0lC-kkRI) - 2016/01/26
+
 * [[YouTube] COMO escolher a melhor câmera para gravar Vídeos sozinho | Michael Oliveira](https://www.youtube.com/watch?v=PSfgatkXF9Y) - 2016/01/21
 
 * [[YouTube] Como escolher a melhor câmera para vídeos sem gastar muito // #DicaDoGambiacine 1 | Gambiacine](https://www.youtube.com/watch?v=w-xmZlx7F9U) - 2014/08/27
@@ -431,3 +433,5 @@
 * [[YouTube] Como Criar um Canal no Youtube Conta Verificada | Michael Oliveira](https://www.youtube.com/watch?v=DLFBv7hbOkg) - 2016/08/30
 
 * [[YouTube] 5 dicas pra quem está começando um canal no YouTube // #DicaDoGambiacine 24 | Gambiacine](https://www.youtube.com/watch?v=gblKfHLckS4) - 2016/07/25
+
+* [[YouTube] Como Editar Vídeos pro Youtube : 5 DICAS PRA INICIANTES | Alessandra - Projeto DIY](https://www.youtube.com/watch?v=x7kHYYdLr74) - 2016/06/24
