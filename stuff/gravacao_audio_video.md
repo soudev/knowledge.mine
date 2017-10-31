@@ -257,6 +257,8 @@
 
 * [[YouTube] PODE gravar com CÂMERAS DIFERENTES? | Produccine](https://www.youtube.com/watch?v=kuGRoyAqVjU) - 2017/03/24
 
+* [[YouTube] Câmeras que eu recomendo para começar (definitivo) | Zona da Fotografia](https://www.youtube.com/watch?v=FPvQlczRby0) - 2017/01/16
+
 * [[YouTube] Guia Rápido: Como configurar sua câmera para gravar vídeos (DSLRs) | Gambiacine](https://www.youtube.com/watch?v=9YXUmE4VIA8) - 2016/11/29
 
 * [[YouTube] Como fazer foco em si mesmo sozinho // #DicaDoGambiacine 18 | Gambiacine](https://www.youtube.com/watch?v=qfGchv96FXY) - 2016/06/13
