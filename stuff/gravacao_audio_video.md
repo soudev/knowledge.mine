@@ -271,6 +271,8 @@
 
 * [[YouTube] Guia Rápido: Como configurar sua câmera para gravar vídeos (DSLRs) | Gambiacine](https://www.youtube.com/watch?v=9YXUmE4VIA8) - 2016/11/29
 
+* [[YouTube] Porque ter uma Lente 50mm | Michael Oliveira](https://www.youtube.com/watch?v=jPQB6Rh6PIA) - 2016/11/04
+
 * [[YouTube] Como fazer foco em si mesmo sozinho // #DicaDoGambiacine 18 | Gambiacine](https://www.youtube.com/watch?v=qfGchv96FXY) - 2016/06/13
 
 * [[YouTube] Como regular o áudio da sua câmera | Michael Oliveira](https://www.youtube.com/watch?v=JvjGXJHkWFM) - 2016/04/14
@@ -280,6 +282,8 @@
 * [[YouTube] Vídeo Manual - Canon EOS Rebel T5i ( Pt-Br) | Zona da Fotografia](https://www.youtube.com/watch?v=ZcO0lC-kkRI) - 2016/01/26
 
 * [[YouTube] COMO escolher a melhor câmera para gravar Vídeos sozinho | Michael Oliveira](https://www.youtube.com/watch?v=PSfgatkXF9Y) - 2016/01/21
+
+* [[YouTube] Como Fazer Vídeos com o Fundo Desfocado - Lente 50mm | Michael Oliveira](https://www.youtube.com/watch?v=WFHVa9Ib6u0) - 2015/08/11
 
 * [[YouTube] Como escolher a melhor câmera para vídeos sem gastar muito // #DicaDoGambiacine 1 | Gambiacine](https://www.youtube.com/watch?v=w-xmZlx7F9U) - 2014/08/27
 
