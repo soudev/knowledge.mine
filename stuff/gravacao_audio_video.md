@@ -263,6 +263,8 @@
 
 #### Câmera
 
+* [[YouTube] Como regular a sua Câmera da forma correta | Zona da Fotografia](https://www.youtube.com/watch?v=FsSP0pSYuAw) - 2017/09/14
+
 * [[YouTube] PODE gravar com CÂMERAS DIFERENTES? | Produccine](https://www.youtube.com/watch?v=kuGRoyAqVjU) - 2017/03/24
 
 * [[YouTube] Vídeo manual - T6, T6i e T6s | Zona da Fotografia](https://www.youtube.com/watch?v=ldJOvDeUf1U) - 2017/01/31
