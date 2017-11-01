@@ -99,7 +99,9 @@
 
 --
 
-* [UX, colors and brands | Pintrest - Erko Bridee](https://pinterest.com/erkobridee/ux-colors-and-brands/)
+* [Psychology of color | Pintrest - Erko Bridee](https://pinterest.com/erkobridee/psychology-of-color/)
+
+* [Colour schemes | Pintrest - Erko Bridee](https://br.pinterest.com/erkobridee/colour-schemes/)
 
 
 ### Colors
