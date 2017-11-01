@@ -43,6 +43,8 @@
 
 * [Michael Oliveira](https://www.youtube.com/channel/UCzZ3bsANMA4B7HkVT-izXuw)
 
+* [Gambiacine](https://www.youtube.com/user/gambiacine)
+
 
 ## Dicas em geral
 
