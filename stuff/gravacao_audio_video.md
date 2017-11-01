@@ -203,6 +203,8 @@
 
 * [[YouTube] Como Colocar Efeitos de Chroma key no seu Vídeo | Michael Oliveira](https://www.youtube.com/watch?v=J5juthkX0GI) - 2017/01/19
 
+* [[YouTube] Qual tecido usar para CHROMA KEY? | Produccine](https://www.youtube.com/watch?v=ym-mbR08_Hc) - 2016/10/06
+
 * [[YouTube] Como fazer chroma key simples // #DicadoGambiacine 28 | Gambiacine](https://www.youtube.com/watch?v=51ut9DAGy9U) - 2016/08/22
 
 
@@ -330,6 +332,8 @@
   * [[YouTube] Como fazer a TELA FINAL no Hitfilm 4 Express | Produccine](https://www.youtube.com/watch?v=LPBZkPIn_z0) - 2016/11/28
 
   * [[YouTube] Como fazer FACECAM no HITFILM 4 EXPRESS | Produccine](https://www.youtube.com/watch?v=-Iu-VOl3WDU) - 2016/11/21
+
+  * [[YouTube] Efeito CHROMA KEY no HITFILM 4 EXPRESS | Produccine](https://www.youtube.com/watch?v=IEq-mwsWUJI) - 2016/10/24
 
   * [[YouTube] Edição BÁSICA no HITFILM 4 EXPRESS | Produccine](https://www.youtube.com/watch?v=RqJyIngRZns) - 2016/10/13
 
