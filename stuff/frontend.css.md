@@ -228,6 +228,12 @@
 
 --
 
+* [Custom checkbox and Radio buttons with icon fonts | And we code](https://andwecode.com/custom-checkbox-radio-with-icon-fonts/) - n this tutorial you will learn how to use Font Awesome or any other icon fonts to create custom checkbox and radio buttons.
+
+  * [Every Font Awesome Icon, CSS Class, & Unicode](http://fontawesome.io/cheatsheet/) - to use on css content attribute, from the given unicode `[&#xf26e;]` use like `\f26e`
+
+--
+
 * [Using SVG | CSS-Tricks](http://css-tricks.com/using-svg/)
 
 * [Trendy CSS Text Shadows | MIXFONT](https://www.mixfont.com/shadows)
