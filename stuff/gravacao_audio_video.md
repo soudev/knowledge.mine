@@ -165,6 +165,8 @@
 
 * [[YouTube] Como Fazer Live para Vários lugares ao mesmo tempo (Twitch, youtube, hitbox e etc) | Casal Na Ment](https://www.youtube.com/watch?v=NMTC4HpW1Go) - 2016/06/27
 
+* [[YouTube] Conheça 10 serviços essenciais para filmmakers | Audiovizuando](https://www.youtube.com/watch?v=LfYGBaFLg0I) - 2013/06/05
+
 
 ### Medo de falar em vídeos
 
@@ -210,11 +212,15 @@
 
 * [[YouTube] Composição: CONHECENDO a Regra dos Terços! | Produccine](https://www.youtube.com/watch?v=7MAE7KAHsp4) - 2017/06/30
 
+* [[YouTube] Como gravar vídeos com pouca luz | Audiovizuando](https://www.youtube.com/watch?v=-hH6SmyzD4U) - 2016/12/11
+
 * [[YouTube] Kit Básico Para Gravar Vídeos com Qualidade | Michael Oliveira](https://www.youtube.com/watch?v=wfZVvJHLsn4) - 2016/09/23
 
 * [[YouTube] Como Começar a Gravar Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=mGJZFNRc46w) - 2016/09/10
 
 * [[YouTube] Gravação de Baixo Custo | Michael Oliveira](https://www.youtube.com/watch?v=Scs1OyWJ8LQ) - 2016/09/02
+
+* [[YouTube] Configurações Iniciais para Gravar Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=ySBttNp4BUE) - 2016/07/09
 
 * [[YouTube] Como Montar um Setup Para Gravar Seus Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=qczwB8NHxi0) - 2016/07/03
 
@@ -274,6 +280,8 @@
 * [[YouTube] COMO escolher a melhor câmera para gravar Vídeos sozinho | Michael Oliveira](https://www.youtube.com/watch?v=PSfgatkXF9Y) - 2016/01/21
 
 * [[YouTube] Como escolher a melhor câmera para vídeos sem gastar muito // #DicaDoGambiacine 1 | Gambiacine](https://www.youtube.com/watch?v=w-xmZlx7F9U) - 2014/08/27
+
+* [[YouTube] Como bater o branco na câmera (ou acertar depois na edição) | Audiovizuando](https://www.youtube.com/watch?v=irqLCCwkicU) - 2012/11/13
 
 
 ## Edição
