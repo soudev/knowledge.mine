@@ -162,10 +162,16 @@
 
 * [[YouTube] Microfone Ideal para Começar a Gravar Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=sHmA4aNbzBM) - 2017/06/16
 
+* [[YouTube] Como ter um Áudio de Vídeo Perfeito / DIY MICROFONE DE LAPELA / #dicasyoutuberiniciantes | Renata Ascari](https://www.youtube.com/watch?v=8UelgPqlijE) - 2016/06/28
+
 * [[YouTube] Como fazer um Microfone Sem Fio | Michael Oliveira](https://www.youtube.com/watch?v=Ag5BaIc6uMM) - 2016/06/23
 
 
 #### Gravador de áudio
+
+* [[Google Play] RecForge II - Audio Recorder](https://play.google.com/store/apps/details?id=dje073.android.modernrecforge)
+
+--
 
 * [[YouTube] TUDO sobre o gravador ZOOM H5 (unboxing, hands on, review e testes de áudio) | Gambiacine](https://www.youtube.com/watch?v=OEhTwYrA190) - 2017/10/04
 
@@ -276,6 +282,8 @@
 
 * [[YouTube] Como gravar vídeos com celular // #DicadoGambiacine 29 | Gambiacide](https://www.youtube.com/watch?v=a_lyM5dI7cw) - 2016/09/05
 
+* [[YouTube] Como ter Vídeo e Áudio perfeito usando UM Celular / #dicasyoutuberiniciantes | Renata Ascari](https://www.youtube.com/watch?v=nt2ZsEjnk7s) - 2016/08/16
+
 * [[YouTube] Como gravar com a Câmera Traseira do Celular e ver o que está Filmando | Michael Oliveira](https://www.youtube.com/watch?v=Lq7NAxnG9aE) - 2016/04/21
 
 
@@ -325,6 +333,12 @@
 * [[YouTube] Programa de edição grátis // #Indicashow 01 (piloto) | Gambiacine](https://www.youtube.com/watch?v=e4G8la6y4jY) - 2016/08/03
 
 * [[YouTube] Como escolher um bom programa de Edição de Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=cTuTzdeOKo0) - 2016/05/02
+
+--
+
+* [[Google Play] KineMaster – Editor Completo](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree)
+
+  * [[YouTube] Como edito meus vídeos pelo Celular / #dicasyoutuberiniciantes | Renata Ascari](https://www.youtube.com/watch?v=QJUyI9K17XI) - 2017/03/15
 
 
 #### HITFILM EXPRESS
