@@ -85,6 +85,10 @@
 
 --
 
+* [Como viver de renda? Conheça esse plano de 3 simples passos | Clube do Valor](https://clubedovalor.com.br/como-viver-de-renda/) - 2017/11/02
+
+--
+
 * [[YouTube] Educação Financeira - Por que alguns ficam ricos](https://www.youtube.com/watch?v=vVe-oNzbDdM)
 
 * [[YouTube] Como Programar Seu Cérebro Para Enriquecer | Rafael Seabra](https://www.youtube.com/watch?v=kI2cjqYFxSI) - 2016/03/29
