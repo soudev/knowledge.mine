@@ -158,6 +158,8 @@
 
 * [[YouTube] TUDO sobre o gravador ZOOM H5 (unboxing, hands on, review e testes de áudio) | Gambiacine](https://www.youtube.com/watch?v=OEhTwYrA190) - 2017/10/04
 
+* [[YouTube] Como gravar AUDIO em EVENTOS ? - TUTORIAL | Fernando Cesar](https://www.youtube.com/watch?v=UemcOQ3Z8JY) - 2017/09/13
+
 * [[YouTube] Como Usar um Gravador USB em Vídeos ao Vivo (ZOOM H4n) | Michael Oliveira](https://www.youtube.com/watch?v=LPhbjxsG5YU) - 2016/12/18
 
 * [[YouTube] Áudio - Qual melhor custo benefício? | Fotografia Moderna](https://www.youtube.com/watch?v=uQZpWALnwTw) - 2014/10/18
