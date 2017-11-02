@@ -192,6 +192,8 @@
 
     * [Using VS Code to Debug Java Applications | Visual Studio Code](https://code.visualstudio.com/blogs/2017/09/28/java-debug) - 2017/09/28
 
+* [Nasc VSCode Touchbar | Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=felipe.nasc-touchbar)
+
 --
 
 * [[GitHug] Microsoft / vscode-spell-check](https://github.com/Microsoft/vscode-spell-check) - An extension to VSCode for spell and grammar checking
