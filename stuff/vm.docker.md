@@ -105,6 +105,8 @@
 
 --
 
+* [Starting with Docker | Sergio Rodriguez – Medium](https://medium.com/@saysduran/starting-with-docker-c2ed6046184b) - 2017/10/30
+
 * [[GitHub] prakhar1989 / docker-curriculum](https://github.com/prakhar1989/docker-curriculum) - (Docker for Beginners) A comprehensive tutorial on getting started with Docker.
 
 * [[Speaker Deck] Docker, Get used to it!](https://speakerdeck.com/julienvey/docker-get-used-to-it)
