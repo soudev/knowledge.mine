@@ -192,6 +192,9 @@
 
   * [[YouTube] DIAFRAGMA (AULA 3)](https://www.youtube.com/watch?v=Msht49-0f7M) - 2017/09/08
 
+  * [[YouTube] OBTURADOR (AULA 4)](https://www.youtube.com/watch?v=G413Wyuyw4U) - 2017/09/15
+
+  * [[YouTube] ISO (AULA 5)](https://www.youtube.com/watch?v=SkJasT_PXWc) - 2017/09/22
 
 
 ## Vídeo
