@@ -122,6 +122,8 @@
 
 * [Angular 1.5 is close - here's the interesting parts | codelord.net](http://www.codelord.net/2015/12/10/angular-1-dot-5-is-close-heres-the-interesting-parts/) - 2015/12/10
 
+* [Build an Angular 1.5 component – An AngularJS tutorial | Tests4Geeks Blog](https://tests4geeks.com/build-angular-1-5-component-angularjs-tutorial/) - 2016/03/31
+
 * [Angular 1.5 new component lifecycle hooks | codelord.net](http://www.codelord.net/2016/04/14/angular-1-dot-5-new-component-lifecycle-hooks/) - 2016/04/14
 
 * [Comprehensive dive into Angular 1.5 lifecycle hooks | @toddmotto](https://toddmotto.com/angular-1-5-lifecycle-hooks) - 2016/06/03
@@ -133,8 +135,6 @@
 * [Exploring the Angular 1.5 .component() method | @toddmotto](https://toddmotto.com/exploring-the-angular-1-5-component-method/)
 
 * [Writing component based app with angular 1.5 | Dima Grossman](http://blog.grossman.io/angular-1-component-based-architecture-2/) - 2016/07/21
-
-* [Build an Angular 1.5 Component – An AngularJS Tutorial | CodeProject](https://www.codeproject.com/Articles/1212533/Build-an-Angular-component-An-AngularJS-tutorial) - 2017/10/27
 
 --
 
