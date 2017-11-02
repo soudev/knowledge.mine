@@ -342,6 +342,8 @@
 
 --
 
+* [JavaScript: Learn Promises | codeburst](https://codeburst.io/javascript-learn-promises-f1eaa00c5461) - 2017/10/31
+
 * [The Promise of a Burger Party | Mariko Kosaka](http://kosamari.com/notes/the-promise-of-a-burger-party) - (2017/01/25) An illustrated guide to understanding JavaScript Promise
 
 * [Learn JavaScript Promises by Building a Promise from Scratch | Medium - gitconnected](https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720) - (2017/09/26) A step-by-step tutorial to make sure you fully understand how Promises work
