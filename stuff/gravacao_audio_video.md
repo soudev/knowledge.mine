@@ -17,6 +17,7 @@
     * [Microfone](#microfone)
     * [Microfone sem fio](#microfone-sem-fio)
     * [Gravador de áudio](#gravador-de-áudio)
+* [Fotografia](#fotografia)
 * [Vídeo](#vídeo)
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Como se posicionar em frente das câmeras](#como-se-posicionar-em-frente-das-câmeras)
@@ -37,8 +38,6 @@
 
 <!-- toc stop -->
 
-
-* [[YouTube] 4 erros mortais da fotografia | Cara da Foto](https://www.youtube.com/watch?v=cU-varfn2sc) - 2017/09/04
 
 ## Canais no YouTube
 
@@ -178,6 +177,20 @@
 * [[YouTube] TUDO sobre o gravador ZOOM H5 (unboxing, hands on, review e testes de áudio) | Gambiacine](https://www.youtube.com/watch?v=OEhTwYrA190) - 2017/10/04
 
 * [[YouTube] Como Usar um Gravador USB em Vídeos ao Vivo (ZOOM H4n) | Michael Oliveira](https://www.youtube.com/watch?v=LPhbjxsG5YU) - 2016/12/18
+
+
+## Fotografia
+
+* [[YouTube] 4 erros mortais da fotografia | Cara da Foto](https://www.youtube.com/watch?v=cU-varfn2sc) - 2017/09/04
+
+
+* [[YouTube playlist] Curso de Fotografia - Cezar Augusto Fotografia](https://www.youtube.com/watch?v=eN44bxxl0Yg&list=PLvtNw6QSPTNoBknd7XGThOaZuD7DX3yLt)
+
+  * [[YouTube] ENTENDENDO A LUZ (AULA 1)](https://www.youtube.com/watch?v=eN44bxxl0Yg) - 2017/08/27
+
+  * [[YouTube] COMPOSIÇÃO (AULA 2)](https://www.youtube.com/watch?v=OLJUmkwlz_0) - 2017/09/01
+
+  * [[YouTube] DIAFRAGMA (AULA 3)](https://www.youtube.com/watch?v=Msht49-0f7M) - 2017/09/08
 
 
 
