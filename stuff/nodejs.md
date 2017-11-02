@@ -1194,8 +1194,15 @@
 
 ### Site Estático
 
+* [Build a static site generator in 40 lines with Node.js | Douglas Matoso](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22) - 2017/09/14
+
+  * [[GitHub] doug2k1 / nanogen](https://github.com/doug2k1/nanogen/) - Micro static site generator in Node.js
+
+--
+
 * [Boilerplate for static site generation | bdadam](http://bdadam.com/blog/static-site-generation-boilerplate.html) - boilerplate code for generating static websites with node.js, GruntJS and Assembe | [[GitHub] bdadam / static-site-boilerplate](https://github.com/bdadam/static-site-boilerplate)
 
+--
 
 * [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
 
@@ -1213,6 +1220,7 @@
 
   * [A Taste of FruitJS | Flippin' Awesome](http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/)
 
+--
 
 * [[GitHub] tommy351 / hexo](https://github.com/tommy351/hexo)
 
@@ -1222,6 +1230,7 @@
 
   * [How to Create a Blog with Hexo On Ubuntu 14.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04) - 2016/02/04
 
+--
 
 * [[GitHub] bevry / docpad](https://github.com/bevry/docpad)
 
@@ -1229,6 +1238,7 @@
 
   * [Primeiros passos com o Docpad | Luiz Felipe Tartarotti Fialho](http://www.felipefialho.com/blog/2013/primeiros-passos-com-o-docpad/)
 
+--
 
 * [Techy](http://krasimir.github.io/techy/)
 
@@ -1238,17 +1248,21 @@
 
   * [Simple Content Management with Node.js and Markdown | Flippin' Awesome](http://flippinawesome.org/2014/05/05/simple-content-management-with-node-js-and-markdown/)
 
+--
 
 * [[GitHub] Crossbow-js / crossbow](https://github.com/Crossbow-js/crossbow) - Static Site Generator API - built for speed & extensibility
 
+--
 
 * [CMS.js](https://cdmedia.github.io/cms.js/) - Javascript CMS
 
   * [[GitHub] cdmedia / cms.js](https://github.com/cdmedia/cms.js) - The Javascript Site Generator
 
+--
 
 * [[GitHub] gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
 
+--
 
 * [[GitHub] sintaxi / harp](https://github.com/sintaxi/harp) - Static Site Server/Generator with built-in preprocessing
 
