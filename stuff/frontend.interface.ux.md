@@ -99,6 +99,8 @@
 
 --
 
+* [Making up metaphors | John Saito – Medium](https://medium.com/@jsaito/making-up-metaphors-4bcc85bc1039) - 2017/10/31
+
 * [Psychology of color | Pintrest - Erko Bridee](https://pinterest.com/erkobridee/psychology-of-color/)
 
 * [Colour schemes | Pintrest - Erko Bridee](https://br.pinterest.com/erkobridee/colour-schemes/)
