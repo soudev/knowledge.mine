@@ -1193,6 +1193,14 @@
 
 --
 
+* Webpack sem Medo | Douglas Matoso
+
+  * [Parte 1: Introdução](https://blog.dmatoso.com/webpack-sem-medo-introducao-af889eb659e7) - 2017/10/20
+
+  * [Parte 2: Loaders](https://blog.dmatoso.com/webpack-sem-medo-parte-2-loaders-1d1239df3945) - 2017/10/24
+
+--
+
 * [[GitHub] shama / gulp-webpack](https://github.com/shama/gulp-webpack) - webpack plugin for gulp
 
 * [Combine Webpack with Gulp 4 | CSS-Tricks](https://css-tricks.com/combine-webpack-gulp-4/) - 2017/05/15
