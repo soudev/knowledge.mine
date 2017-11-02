@@ -49,6 +49,10 @@
 
 --
 
+* [[GitHub] BeeTech-global / bee-stylish](https://github.com/BeeTech-global/bee-stylish) - Styleguides da moda (ou não)
+
+--
+
 * [Why Do Developers Contribute to Open Source Projects? - Website Magazine](http://www.websitemagazine.com/m/Blog/Post/27064?name=why-developers-contribute-to-open-source-projects)
 
 * [14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star | Software Quality Matters Blog](http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/)
