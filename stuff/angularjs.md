@@ -134,6 +134,8 @@
 
 * [Writing component based app with angular 1.5 | Dima Grossman](http://blog.grossman.io/angular-1-component-based-architecture-2/) - 2016/07/21
 
+* [Build an Angular 1.5 Component – An AngularJS Tutorial | CodeProject](https://www.codeproject.com/Articles/1212533/Build-an-Angular-component-An-AngularJS-tutorial) - 2017/10/27
+
 --
 
 * [Angular 1.6's Possibly unhandled rejection errors | codelord.net](http://www.codelord.net/2017/08/20/angular-1-dot-6-s-possibly-unhandled-rejection-errors/) - 2017/08/20
