@@ -118,11 +118,6 @@
 
 ## Audio
 
-* [[YouTube] Meus equipamentos de gravação de áudio (o essencial para captação de som profissional) | Gambiacine](https://www.youtube.com/watch?v=UwAOygnLcNE) - 2017/08/19
-
-* [[YouTube] Captação de áudio "caseira" e dublagem | Produccine](https://www.youtube.com/watch?v=egUEhOfChdc) - 2014/04/23
-
-
 ### Acústica
 
 * [[YouTube] Painel Acústico Fácil: Como Fazer | Áudio nítido](https://www.youtube.com/watch?v=lIlozyuj5Fs) - 2017/02/24
@@ -145,11 +140,17 @@
 
 * [[YouTube] Como gravar AUDIO em EVENTOS ? - TUTORIAL | Fernando Cesar](https://www.youtube.com/watch?v=UemcOQ3Z8JY) - 2017/09/13
 
+* [[YouTube] Meus equipamentos de gravação de áudio (o essencial para captação de som profissional) | Gambiacine](https://www.youtube.com/watch?v=UwAOygnLcNE) - 2017/08/19
+
 * [[YouTube] Dicas de captura de audio para casamentos | Rafa Guedes](https://www.youtube.com/watch?v=_ZKbveRnNwg) - 2017/02/14
 
 * [[YouTube] Como Fazer um Vídeo com Áudio Excelente | Michael Oliveira](https://www.youtube.com/watch?v=bKDJR64PN4o) - 2016/05/07
 
+* [[YouTube] Gravação de Voz em Home Studio (dicas para gravar voz) | Eduardo Roque](https://www.youtube.com/watch?v=y42f36ISee8) - 2016/01/25
+
 * [[YouTube] Áudio - Qual melhor custo benefício? | Fotografia Moderna](https://www.youtube.com/watch?v=uQZpWALnwTw) - 2014/10/18
+
+* [[YouTube] Captação de áudio "caseira" e dublagem | Produccine](https://www.youtube.com/watch?v=egUEhOfChdc) - 2014/04/23
 
 
 #### Microfone
