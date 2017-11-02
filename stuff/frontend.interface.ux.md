@@ -33,6 +33,10 @@
 
 --
 
+* [Muzli Design Inspiration](https://muz.li/#)
+
+--
+
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
 
 * [Google Design](http://www.google.com/design/)
@@ -101,16 +105,20 @@
 
 * [Making up metaphors | John Saito – Medium](https://medium.com/@jsaito/making-up-metaphors-4bcc85bc1039) - 2017/10/31
 
+
+### Colors
+
 * [Psychology of color | Pintrest - Erko Bridee](https://pinterest.com/erkobridee/psychology-of-color/)
 
 * [Colour schemes | Pintrest - Erko Bridee](https://br.pinterest.com/erkobridee/colour-schemes/)
 
-
-### Colors
+--
 
 * [[YouTube] Understanding Color | Blender Guru](https://www.youtube.com/watch?v=Qj1FK8n7WgY) - 2014/02/27
 
 --
+
+* [Color Hunt](http://colorhunt.co/) - Beautiful Color Palettes
 
 * [Color Swatches](http://maxmackie.com/jquery.swatches/) - a free to use [jQuery plugin](http://github.com/maxmackie/jquery.swatches) by [Max Mackie](http://maxmackie.com/)
 
