@@ -160,6 +160,8 @@
 
 * [[YouTube] Como Usar um Gravador USB em Vídeos ao Vivo (ZOOM H4n) | Michael Oliveira](https://www.youtube.com/watch?v=LPhbjxsG5YU) - 2016/12/18
 
+* [[YouTube] Áudio - Qual melhor custo benefício? | Fotografia Moderna](https://www.youtube.com/watch?v=uQZpWALnwTw) - 2014/10/18
+
 
 ## Vídeo
 
