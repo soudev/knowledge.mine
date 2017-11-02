@@ -38,6 +38,8 @@
 <!-- toc stop -->
 
 
+* [[YouTube] 4 erros mortais da fotografia | Cara da Foto](https://www.youtube.com/watch?v=cU-varfn2sc) - 2017/09/04
+
 ## Canais no YouTube
 
 * [ABC do Vídeo](https://www.youtube.com/channel/UCj_vuKaW0Vu3qE8yr1qvTvw)
