@@ -13,9 +13,10 @@
 * [Audio](#audio)
   * [Acústica](#acústica)
   * [Tratamento e Isolamento Acústico](#tratamento-e-isolamento-acústico)
-  * [Microfone](#microfone)
+  * [Equipamentos de gravação](#equipamentos-de-gravação)
+    * [Microfone](#microfone)
     * [Microfone sem fio](#microfone-sem-fio)
-  * [Gravador de áudio](#gravador-de-áudio)
+    * [Gravador de áudio](#gravador-de-áudio)
 * [Vídeo](#vídeo)
   * [Medo de falar em vídeos](#medo-de-falar-em-vídeos)
   * [Como se posicionar em frente das câmeras](#como-se-posicionar-em-frente-das-câmeras)
@@ -140,9 +141,18 @@
 * [[YouTube] Acústica com caixa de ovo dá certo? | Gilmar Lima](https://www.youtube.com/watch?v=U9V-nWiRpyg) - 2016/09/06
 
 
-### Microfone
+### Equipamentos de gravação
+
+* [[YouTube] Como gravar AUDIO em EVENTOS ? - TUTORIAL | Fernando Cesar](https://www.youtube.com/watch?v=UemcOQ3Z8JY) - 2017/09/13
+
+* [[YouTube] Dicas de captura de audio para casamentos | Rafa Guedes](https://www.youtube.com/watch?v=_ZKbveRnNwg) - 2017/02/14
 
 * [[YouTube] Como Fazer um Vídeo com Áudio Excelente | Michael Oliveira](https://www.youtube.com/watch?v=bKDJR64PN4o) - 2016/05/07
+
+* [[YouTube] Áudio - Qual melhor custo benefício? | Fotografia Moderna](https://www.youtube.com/watch?v=uQZpWALnwTw) - 2014/10/18
+
+
+#### Microfone
 
 * [[YouTube] Como Escolher o Microfone para Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=Zd6-a1q_j2M) - 2015/07/09
 
@@ -154,15 +164,12 @@
 * [[YouTube] Como fazer um Microfone Sem Fio | Michael Oliveira](https://www.youtube.com/watch?v=Ag5BaIc6uMM) - 2016/06/23
 
 
-### Gravador de áudio
+#### Gravador de áudio
 
 * [[YouTube] TUDO sobre o gravador ZOOM H5 (unboxing, hands on, review e testes de áudio) | Gambiacine](https://www.youtube.com/watch?v=OEhTwYrA190) - 2017/10/04
 
-* [[YouTube] Como gravar AUDIO em EVENTOS ? - TUTORIAL | Fernando Cesar](https://www.youtube.com/watch?v=UemcOQ3Z8JY) - 2017/09/13
-
 * [[YouTube] Como Usar um Gravador USB em Vídeos ao Vivo (ZOOM H4n) | Michael Oliveira](https://www.youtube.com/watch?v=LPhbjxsG5YU) - 2016/12/18
 
-* [[YouTube] Áudio - Qual melhor custo benefício? | Fotografia Moderna](https://www.youtube.com/watch?v=uQZpWALnwTw) - 2014/10/18
 
 
 ## Vídeo
