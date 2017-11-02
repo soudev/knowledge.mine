@@ -506,6 +506,12 @@
 
 * [Faster AngularJS Rendering (AngularJS and ReactJS) | thierry.nicola](http://www.williambrownstreet.net/blog/2014/04/faster-angularjs-rendering-angularjs-and-reactjs/)
 
+--
+
+* [React — Setup mínimo com Webpack | Douglas Matoso](https://blog.dmatoso.com/react-setup-m%C3%ADnimo-com-webpack-ec33b116ac07) - 2017/08/28
+
+  * [[GitHub] doug2k1 / react-minimal-setup](https://github.com/doug2k1/react-minimal-setup)
+
 * [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
 
 * [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
