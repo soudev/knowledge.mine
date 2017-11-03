@@ -267,6 +267,10 @@
 
 --
 
+* [O jeito mais rápido de aprender a tabela de multiplicação | Incrível](https://incrivel.club/inspiracao-dicas/como-aprender-la-tabla-de-multiplicar-y-ahorrarte-un-monton-de-nervios-277760/)
+
+--
+
 * [[GitHub] off99555 / machine-learning-curriculum](https://github.com/off99555/machine-learning-curriculum) - Make machines learn so that you don't have to program them; The ultimate list
 
 * [Deep Learning Gallery](http://deeplearninggallery.com/) - a curated list of awesome deep learning projects
