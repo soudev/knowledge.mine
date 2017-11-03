@@ -414,6 +414,10 @@
 
 --
 
+* [[GitHub] react-brasil / empresas-que-usam-react-no-brasil](https://github.com/react-brasil/empresas-que-usam-react-no-brasil) - Repositório que mostra empresas e projetos que utilizam React no Brasil
+
+--
+
 * [From JSXTransformer to Babel | Stoyan's phpied.com](http://www.phpied.com/from-jsxtransformer-to-babel/) - 2015/06/22
 
 --
