@@ -279,6 +279,10 @@
 
 #### Tela do computador
 
+* [How Do I Record My Computer Screen? | Techwalla.com](https://www.techwalla.com/articles/how-do-i-record-my-computer-screen) - 2015/03/31
+
+--
+
 * [[YouTube] Dica: Como Gravar a Tela do Computador | Michael Oliveira](https://www.youtube.com/watch?v=-OCAOrqW994) -  2016/12/14
 
 * [[YouTube] Como Gravar a Tela sem Perder Qualidade na imagem | Michael Oliveira](https://www.youtube.com/watch?v=cfH8dg9DmR8) - 2016/11/14
@@ -350,6 +354,8 @@
 
 * [[YouTube] Programa de edição grátis // #Indicashow 01 (piloto) | Gambiacine](https://www.youtube.com/watch?v=e4G8la6y4jY) - 2016/08/03
 
+* [[YouTube] Best Video Editing Software and Video Editing Tips | Think Media](https://www.youtube.com/watch?v=fkJIaeWklIk) - 2016/08/01
+
 * [[YouTube] Como escolher um bom programa de Edição de Vídeos | Michael Oliveira](https://www.youtube.com/watch?v=cTuTzdeOKo0) - 2016/05/02
 
 --
@@ -357,6 +363,10 @@
 * [[Google Play] KineMaster – Editor Completo](https://play.google.com/store/apps/details?id=com.nexstreaming.app.kinemasterfree)
 
   * [[YouTube] Como edito meus vídeos pelo Celular / #dicasyoutuberiniciantes | Renata Ascari](https://www.youtube.com/watch?v=QJUyI9K17XI) - 2017/03/15
+
+--
+
+* [Wondershare Filmora](https://filmora.wondershare.com.br/editor-de-video/)
 
 
 #### HITFILM EXPRESS
