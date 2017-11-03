@@ -82,6 +82,8 @@
 
 * [[YouTube] Bitcoin: How Cryptocurrencies Work | SciShow](https://www.youtube.com/watch?v=kubGCSj5y3k) - 2016/12/21
 
+* [O que é e como funciona o blockchain, a tecnologia do bitcoin | Tecnoblog](https://tecnoblog.net/227293/como-funciona-blockchain-bitcoin/) - 2017/11/03
+
 --
 
 * [[YouTube] Os full nodes e o consenso no bitcoin](https://www.youtube.com/watch?v=BhNL3a1b_MA) - 2017/06/20
