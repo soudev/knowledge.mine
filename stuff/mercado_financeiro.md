@@ -52,6 +52,7 @@
     * [Dividendos](#dividendos)
     * [Análise Técnica](#análise-técnica)
     * [Queda](#queda)
+  * [Canal Investidor Leigo](#canal-investidor-leigo)
 * [Por onde investir](#por-onde-investir)
   * [Robos](#robos)
 * [Simuladores](#simuladores)
@@ -63,6 +64,7 @@
     * [Yahoo Finance](#yahoo-finance)
 * [Imposto de Renda](#imposto-de-renda)
 * [Economia](#economia)
+* [Bancos Digitais](#bancos-digitais)
 
 <!-- toc stop -->
 
@@ -1097,6 +1099,21 @@
 * [[YouTube] Estratégias para Ganhar com o Mercado em Queda](https://www.youtube.com/watch?v=4neAWsHV4QI)
 
 
+### Canais do YouTube
+
+* [Canal Investidor Leigo](https://www.youtube.com/channel/UC6T6g5namNBfNLM7GB1nOfA)
+
+  * Siglas do Dinheiro
+
+    * [1 - CDB (pre e pós-fixado) e CDI versus Tesouro Direto](https://www.youtube.com/watch?v=xBg-VSobCsU) - 2017/10/13
+
+    * [2 - ADEUS TESOURO SELIC com CDB de liquidez diária do Banco Inter e Banco Sofisa](https://www.youtube.com/watch?v=zTXlCb52Eeg) - 2017/10/21
+
+    * [3 - TCHAU IMPOSTOS com LCA e LCI (Banco Inter, Banco Sofisa e Banco PAN)](https://www.youtube.com/watch?v=H7g3BRUPQY4) - 2017/11/03
+
+* [EconoMirna](https://www.youtube.com/channel/UCwLxXLLWEIJFHEeTMlYqHTA)
+
+
 ## Por onde investir
 
 * [Modal Mais](https://www.modalmais.com.br/)
@@ -1234,3 +1251,24 @@
 * [[YouTube] Curva de Laffer: mais impostos só piora a situação | Instituto Montanari](https://www.youtube.com/watch?v=XBoqqO5igIQ) - 2016/02/29
 
 * [[YouTube] O Brasil e a Curva de Laffer! | Blog Reflexões](https://www.youtube.com/watch?v=CaB1UrF5RiY) - 2016/10/23
+
+
+## Bancos Digitais
+
+* [Banco Sofisa Direto](http://www.sofisadireto.com.br/)
+
+* [Banco Inter](https://bancointer.com.br/)
+
+  * [[YouTube] NUCONTA ou Banco INTER? O que a Nubank NÃO TE CONTA!!! | Dinheiro Com Você - Por William Ribeiro](https://www.youtube.com/watch?v=w4RkfZG5-Nk) - 2017/10/28
+
+  * [[YouTube] Tendência Digital - Conta do Banco Inter | Dialogando Ti](https://www.youtube.com/watch?v=zBvqcMooS0w) - 2017/09/06
+
+  * [[YouTube] O que é Banco Digital? Como funciona? Banco Inter? | Milene Toda](https://www.youtube.com/watch?v=e3bdL67L0xg) - 2017/06/20
+
+  * [[YouTube] Banco Intermedium - Conta digital SEM tarifas e cartão de crédito ZERO anuidade! | EconoMirna](https://www.youtube.com/watch?v=DHt8q2RfehU) - 2017/02/13
+
+* [Banco Neon](https://www.banconeon.com.br/)
+
+* [Banco Pan](https://www.bancopan.com.br/)
+
+* [NuBank](https://www.nubank.com.br/)
