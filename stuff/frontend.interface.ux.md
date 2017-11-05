@@ -137,6 +137,8 @@
 
 * [[Tumblr] Give n Go](http://give-n-go.tumblr.com/) - A curated gallery of Dribbble shots reworked as interactive CodePen pens.
 
+* [Collect UI](http://collectui.com/) - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.
+
 
 ### Tours
 
