@@ -1257,6 +1257,8 @@
 
 * [Banco Sofisa Direto](http://www.sofisadireto.com.br/)
 
+  * [[YouTube] R$ 1,00 DE INVESTIMENTO - BANCO SOFISA DIGITAL + Cartão | Cartões de Crédito Alta Renda](https://www.youtube.com/watch?v=QPWgUxU5AuQ) - 2017/06/21
+
 * [Banco Inter](https://bancointer.com.br/)
 
   * [[YouTube] NUCONTA ou Banco INTER? O que a Nubank NÃO TE CONTA!!! | Dinheiro Com Você - Por William Ribeiro](https://www.youtube.com/watch?v=w4RkfZG5-Nk) - 2017/10/28
