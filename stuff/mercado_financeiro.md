@@ -1261,6 +1261,8 @@
 
 * [Banco Inter](https://bancointer.com.br/)
 
+  * [#contacomagente](http://www.contacomagente.com.br/) - O blog da Conta Digital do Banco Inter
+
   * [[YouTube] NUCONTA ou Banco INTER? O que a Nubank NÃO TE CONTA!!! | Dinheiro Com Você - Por William Ribeiro](https://www.youtube.com/watch?v=w4RkfZG5-Nk) - 2017/10/28
 
   * [[YouTube] Tendência Digital - Conta do Banco Inter | Dialogando Ti](https://www.youtube.com/watch?v=zBvqcMooS0w) - 2017/09/06
