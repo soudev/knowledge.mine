@@ -17,7 +17,9 @@
 
 * Flat UI - Free Web User Interface Kit
 
-  * [Site](http://designmodo.com/flat-free/) - [Demo](http://designmodo.com/demo/flat-ui/) - [[GitHub] Code](https://github.com/iurevych/Flat-UI)
+  * [Site](http://designmodo.com/flat-free/) - [Demo](https://designmodo.github.io/Flat-UI/)
+
+  * [[GitHub] designmodo / Flat-UI](https://github.com/designmodo/Flat-UI/) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. [gh-page](https://designmodo.github.io/Flat-UI/)
 
 * [Free Download: Flattastic UI kit | Webdesigner Depot](http://www.webdesignerdepot.com/2013/08/free-download-flattastic-ui-kit/)
 
@@ -100,7 +102,9 @@ for developing fast and powerful web interfaces.
 
 --
 
-* [[GitHub] luiztiago / bootstraptherightway](A compilation of good practices to use Bootstrap) - A compilation of good practices to use Bootstrap
+* [[GitHub] luiztiago / bootstraptherightway](https://github.com/luiztiago/bootstraptherightway) - A compilation of good practices to use Bootstrap
+
+* [[GitHub] froala / design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites
 
 --
 
