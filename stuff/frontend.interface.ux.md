@@ -122,6 +122,8 @@
 
   * [Color Hunt: Behind The Scenes | Gal Shir – Medium](https://medium.com/@galshir/color-hunt-behind-the-scenes-3e32573f7752) - 2017/10/30
 
+* [Flat UI colors](http://flatuicolors.com/)
+
 * [Color Swatches](http://maxmackie.com/jquery.swatches/) - a free to use [jQuery plugin](http://github.com/maxmackie/jquery.swatches) by [Max Mackie](http://maxmackie.com/)
 
 * [Color Wheel - Color Calculator | Sessions College](http://www.sessions.edu/color-calculator)
