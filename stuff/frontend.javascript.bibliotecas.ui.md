@@ -448,6 +448,12 @@
 
 * [React Tips](http://react.tips/) - Best React.js tips and tricks.
 
+* [[YouTube playlist] ReactJS na Prática | DevPleno](https://www.youtube.com/watch?v=Ckp23FEAVQ8&list=PLBNBxpMAbyhXehTmR9nLxV3hVtVOZYIvd)
+
+* [[YouTube] Hands-on ReactJS Aula 1 - Crie seu próprio App Web de classificados | DevPleno](https://www.youtube.com/watch?v=n9aP7mFX2Ac) - 2017/11/02
+
+  * [Hands-on ReactJS Materiais de Apoio | DevPleno](https://www.devpleno.com/hands-on-reactjs-materiaisdeapoio/)
+
 --
 
 * [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
