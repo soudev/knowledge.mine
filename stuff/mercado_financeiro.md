@@ -1269,6 +1269,8 @@
 
   * [[YouTube] NUCONTA ou Banco INTER? O que a Nubank NÃO TE CONTA!!! | Dinheiro Com Você - Por William Ribeiro](https://www.youtube.com/watch?v=w4RkfZG5-Nk) - 2017/10/28
 
+  * [[YouTube] Mineiro, Banco Inter quer se popularizar com a conta digital | Portal O Tempo](https://www.youtube.com/watch?v=kW4Tti0tFvU) - 2017/07/05
+
   * [[YouTube] Tendência Digital - Conta do Banco Inter | Dialogando Ti](https://www.youtube.com/watch?v=zBvqcMooS0w) - 2017/09/06
 
   * [[YouTube] O que é Banco Digital? Como funciona? Banco Inter? | Milene Toda](https://www.youtube.com/watch?v=e3bdL67L0xg) - 2017/06/20
