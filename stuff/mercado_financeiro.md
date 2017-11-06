@@ -1255,6 +1255,10 @@
 
 ## Bancos Digitais
 
+* [[YouTube] CONTAS DIGITAIS, A BATALHA! Next, Neon, Agipag, Original, Superdigital, Inter e Pag! | EconoMirna](https://www.youtube.com/watch?v=W-7M67Il3_w) - 2017/06/26
+
+--
+
 * [Banco Sofisa Direto](http://www.sofisadireto.com.br/)
 
   * [[YouTube] R$ 1,00 DE INVESTIMENTO - BANCO SOFISA DIGITAL + Cartão | Cartões de Crédito Alta Renda](https://www.youtube.com/watch?v=QPWgUxU5AuQ) - 2017/06/21
@@ -1268,6 +1272,8 @@
   * [[YouTube] Tendência Digital - Conta do Banco Inter | Dialogando Ti](https://www.youtube.com/watch?v=zBvqcMooS0w) - 2017/09/06
 
   * [[YouTube] O que é Banco Digital? Como funciona? Banco Inter? | Milene Toda](https://www.youtube.com/watch?v=e3bdL67L0xg) - 2017/06/20
+
+  * [[YouTube] Banco Intermedium: contas digitais gratuitas são mesmo possíveis? [CT Entrevista] | Canaltech](https://www.youtube.com/watch?v=qY3i6jgj-M0) - 2017/04/17
 
   * [[YouTube] Banco Intermedium - Conta digital SEM tarifas e cartão de crédito ZERO anuidade! | EconoMirna](https://www.youtube.com/watch?v=DHt8q2RfehU) - 2017/02/13
 
