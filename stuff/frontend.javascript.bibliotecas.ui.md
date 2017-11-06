@@ -448,6 +448,10 @@
 
 * [React Tips](http://react.tips/) - Best React.js tips and tricks.
 
+* [React basic in just 1 hour | Udemy](https://www.udemy.com/react-basic-in-just-1-hour/)
+
+  * [[plunker] react.js first contact, doing basics tests with ECMAScript 5](http://embed.plnkr.co/OIWlahbUG7RqE5dsiYy2/)
+
 * [[YouTube playlist] ReactJS na Prática | DevPleno](https://www.youtube.com/watch?v=Ckp23FEAVQ8&list=PLBNBxpMAbyhXehTmR9nLxV3hVtVOZYIvd)
 
 * [[YouTube] Hands-on ReactJS Aula 1 - Crie seu próprio App Web de classificados | DevPleno](https://www.youtube.com/watch?v=n9aP7mFX2Ac) - 2017/11/02
