@@ -173,6 +173,8 @@
 
 * [Migrei para o VSCode e estou feliz! | Willian Justen](https://willianjusten.com.br/migrei-para-o-vscode-e-estou-feliz/) - (2017/07/27) Um pouco da minha experiência com esse editor que me fez aposentar o Sublime e plugins que uso.
 
+* [Can VS Code Do Emmet? | CSS-Tricks](https://css-tricks.com/can-vs-code-emmet/) - 2017/11/01
+
 --
 
 * [[Github] Microsoft/vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
