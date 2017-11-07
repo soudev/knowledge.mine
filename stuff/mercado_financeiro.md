@@ -1267,7 +1267,11 @@
 
   * [#contacomagente](http://www.contacomagente.com.br/) - O blog da Conta Digital do Banco Inter
 
+  * [[YouTube] NOVA FUNCIONALIDADE na CONTA DIGITAL do Banco INTER! Conheça e entenda! | EconoMirna](https://www.youtube.com/watch?v=DECIsP6gyTs) - 2017/11/01
+
   * [[YouTube] NUCONTA ou Banco INTER? O que a Nubank NÃO TE CONTA!!! | Dinheiro Com Você - Por William Ribeiro](https://www.youtube.com/watch?v=w4RkfZG5-Nk) - 2017/10/28
+
+  * [[YouTube] Portabilidade de Salário do Banco Inter - Como Funciona? Como faz? | Milene Toda](https://www.youtube.com/watch?v=aheeD1EfJeE) - 2017/10/07
 
   * [[YouTube] Mineiro, Banco Inter quer se popularizar com a conta digital | Portal O Tempo](https://www.youtube.com/watch?v=kW4Tti0tFvU) - 2017/07/05
 
