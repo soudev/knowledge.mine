@@ -14,6 +14,8 @@
 
 --
 
+* [Criando um servidor GraphQL pronto para produção em 5 minutos | BrazilJS](https://braziljs.org/blog/criando-um-servidor-graphql-pronto-para-producao-em-5-minutos/) - 2017/11/07
+
 * [Getting up and running with GraphQL | Pusher Blog](https://blog.pusher.com/getting-up-and-running-with-graphql/) - 2017/08/31
 
 --
