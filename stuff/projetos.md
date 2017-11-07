@@ -149,6 +149,8 @@
 
 ## Trabalho no exterior
 
+* [Carreira de programação no exterior - Hipsters #69 | Hipsters Ponto TechHipsters Ponto Tech](https://hipsters.tech/carreira-de-programacao-no-exterior-hipsters-69/) - 2017/11/07
+
 * [Programando no exterior | Nerdcast - JovemNerd](https://jovemnerd.com.br/nerdcast/nerdtech-02-programando-no-exterior/) - 2016/04/01
 
 * [#013 – Trabalhando no Exterior (Parte 1 de 2) | PODebug](http://www.podebug.com/2016/01/013-trabalhando-no-exterior-parte-1-de-2/) - 2016/01/20
