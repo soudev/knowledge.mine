@@ -458,11 +458,7 @@
 
   * [[YouTube playlist] ReactJS na Prática | DevPleno](https://www.youtube.com/watch?v=Ckp23FEAVQ8&list=PLBNBxpMAbyhXehTmR9nLxV3hVtVOZYIvd)
 
-  * [[YouTube] Hands-on ReactJS Aula 1 - Crie seu próprio App Web de classificados | DevPleno](https://www.youtube.com/watch?v=n9aP7mFX2Ac) - 2017/11/02
-
-    * [Hands-on ReactJS Materiais de Apoio | DevPleno](https://www.devpleno.com/hands-on-reactjs-materiaisdeapoio/)
-
-  * [[YouTube] Hands-on ReactJS Aula 2 | DevPleno](https://www.youtube.com/watch?v=qCvrzGvEv34) - 2017/11/07
+  * [[YouTube] Hands-on ReactJS | DevPleno](https://www.youtube.com/watch?v=n9aP7mFX2Ac&list=PLBNBxpMAbyhXSRcKIKWg04FTPGNy-ZPMa)
 
 --
 
