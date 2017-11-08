@@ -454,6 +454,8 @@
 
   * [[plunker] react.js first contact, doing basics tests with ECMAScript 5](http://embed.plnkr.co/OIWlahbUG7RqE5dsiYy2/)
 
+  * [[plunker] react.js first contact, doing basics tests with ECMAScript 6](http://plnkr.co/edit/STMlKzr1pWOlqDF2dnlI)
+
 * DevPleno
 
   * [[YouTube playlist] ReactJS na Prática | DevPleno](https://www.youtube.com/watch?v=Ckp23FEAVQ8&list=PLBNBxpMAbyhXehTmR9nLxV3hVtVOZYIvd)
