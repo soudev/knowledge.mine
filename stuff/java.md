@@ -48,6 +48,10 @@
 
 * [[GitHub] cko / predefined_maven_properties](https://github.com/cko/predefined_maven_properties) - List of predefined Maven properties
 
+### Maven Plugins
+
+* [[GitHub] ferstl / depgraph-maven-plugin](https://github.com/ferstl/depgraph-maven-plugin) - A Maven plugin that generates dependency graphs in various formats (DOT, GML, PlantUML, JSON and Text)
+
 
 ## Microservices
 
