@@ -246,6 +246,8 @@
 
 * [[YouTube] The 16 Mindsets That can Make You RICH! (Part 2) | The Better Men Project](https://www.youtube.com/watch?v=5HdkHvN29YA) - 2017/10/11
 
+* [[YouTube] 5 Ways to Build Passive Income (With Your Computer) | The Better Men Project](https://www.youtube.com/watch?v=CDz-a_9pr6M) - 2017/11/08
+
 
 ### Financial Education
 
