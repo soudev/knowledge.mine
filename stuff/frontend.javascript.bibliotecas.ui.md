@@ -860,6 +860,8 @@
 
 * [[GitHub] gionkunz / chartist-js](https://github.com/gionkunz/chartist-js) - is a simple responsive charting library built with SVG. | [site](https://gionkunz.github.io/chartist-js/)
 
+* [[GitHub] frappe / charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
+
 --
 
 * [[GitHub] sbstjn / timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
