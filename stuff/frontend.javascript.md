@@ -232,6 +232,8 @@
 
 * [[eBook] Professor Frisby's Mostly Adequate Guide to Function Programming | gitbooks](http://drboolean.gitbooks.io/mostly-adequate-guide/)
 
+* [Functional Programming Jargon | Functional Works](https://functional.works-hub.com/blog/Functional-Programming-Jargon)
+
 * [Functional programming with JavaScript | Minko Gechev's blog](http://blog.mgechev.com/2013/01/21/functional-programming-with-javascript/)
 
 * [Functional programming with JavaScript, some concepts | dreyacosta](http://dreyacosta.com/functional-javascript/)
