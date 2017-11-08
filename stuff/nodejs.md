@@ -1570,6 +1570,10 @@
 
 * [[GitHub] nickpisacane / CsvBuilder](https://github.com/nickpisacane/CsvBuilder) - Easily encode complex JSON objects to CSV with CsvBuilder's schema-like API
 
+* [[GitHub] C2FO / fast-csv](https://github.com/C2FO/fast-csv) - CSV parser for node
+
+  * [[YouTube] Fast-CSV - processando CSVs com JS para quem está com pressa | DevPleno](https://www.youtube.com/watch?v=zVlm_zUfitE) - 2017/10/04
+
 * [[GitHub] mgcrea / node-xlsx](https://github.com/mgcrea/node-xlsx) - Node.js excel parser & builder
 
 * [[GitHub] SheetJS / js-xlsx](https://github.com/SheetJS/js-xlsx) - XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet) / ODS parser and writer
