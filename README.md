@@ -30,5 +30,9 @@ Mina de Conhecimento - referências de apoio para os desenvolvedores
 >
 > * [[GitHub] segmentio / metalsmith](https://github.com/segmentio/metalsmith) - An extremely simple, pluggable static site generator.
 >
+> * [Build a static site generator in 40 lines with Node.js | Douglas Matoso](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22) - 2017/09/14
+>
+>  * [[GitHub] doug2k1 / nanogen](https://github.com/doug2k1/nanogen/) - Micro static site generator in Node.js
+>
 > * [[GitHub] Dynalon / mdwiki](https://github.com/Dynalon/mdwiki/) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown
 >
