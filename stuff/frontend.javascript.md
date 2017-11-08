@@ -2575,6 +2575,8 @@
 
 * [JavaScript Factory Functions with ES6+ | JavaScript Scene – Medium](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1) - 2017/07/20
 
+* [Functional JS with ES6 — Recursive Patterns | DailyJS - Medium](https://medium.com/dailyjs/functional-js-with-es6-recursive-patterns-b7d0813ef9e3) - 2017/09/29
+
 --
 
 * [[GitHub] metagrover / ES6-for-humans](https://github.com/metagrover/ES6-for-humans) - A kickstarter guide to writing ES6
