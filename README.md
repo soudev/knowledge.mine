@@ -32,6 +32,3 @@ Mina de Conhecimento - referências de apoio para os desenvolvedores
 >
 > * [[GitHub] Dynalon / mdwiki](https://github.com/Dynalon/mdwiki/) - CMS/Wiki system using Javascript for 100% client side single page application using Markdown
 >
-> * [[GitHub] saucelabs / docs](https://github.com/saucelabs/docs) - Sauce Labs markdown docs
->
->  * [Building markdown-based developer docs — Code stories | Medium](https://medium.com/code-stories/building-markdown-based-developer-docs-87c0317c56f7)
