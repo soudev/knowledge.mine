@@ -65,6 +65,12 @@
 
 --
 
+* [Rocket.Chat](https://rocket.chat/) - Open Source Communication
+
+  * [[GitHub] RocketChat / Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor
+
+  * [[YouTube] Gabriel Engel - Como um projeto JS open source se transformou em uma empresa de 60 milhões | BrazilJS](https://www.youtube.com/watch?v=hXG5R15Uc-E) - 2017/11/07
+
 * [Slack: Be less busy](https://slack.com/) - brings all your communication together in one place. It’s real-time messaging, archiving and search for modern teams.
 
   * [The ultimate guide to doing anything in Slack | The Next Web](http://thenextweb.com/insider/2015/08/11/the-ultimate-guide-to-doing-anything-in-slack/)
