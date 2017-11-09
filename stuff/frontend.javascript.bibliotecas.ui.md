@@ -9,6 +9,7 @@
   * [infernojs](#infernojs)
   * [preact](#preact)
   * [React.js](#reactjs)
+    * [React starter kit](#react-starter-kit)
     * [React and css](#react-and-css)
     * [React style components](#react-style-components)
     * [React UI components](#react-ui-components)
@@ -559,30 +560,6 @@
 
 --
 
-* [[GitHub] facebookincubator / create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-
-  * [Create Apps with No Configuration | React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) - 2016/07/22
-
-  * [What's New in Create React App | React Blog](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html) - 2017/05/18
-
---
-
-* [[GitHub] richardkall / react-starter](https://github.com/richardkall/react-starter) - Boilerplate for universal React applications
-
-* [[GitHub] este / este](https://github.com/este/este) - The best dev stack and starter kit for React universal web/mobile apps.
-
-* [[GitHub] mxstbr / react-boilerplate](https://github.com/mxstbr/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices
-
-* [[GitHub] kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Facebook React Starter Kit - a skeleton for a typical web application / single-page application (SPA). Technology stack: Gulp, Webpack, BrowserSync, React.js, Bootstrap
-
-* [[GitHub] Granze / react-starterify](https://github.com/Granze/react-starterify) - React JS application skeleton using Browserify and other awesome tools
-
-* [[GitHub] obetomuniz / reeakt](https://github.com/obetomuniz/reeakt) - A modern React boilerplate to awesome web applications
-
-* [[GitHub] zeit / next.js](https://github.com/zeit/next.js/) - Framework for server-rendered or statically-exported React apps
-
---
-
 * Using RxJS with React.js: – Fahad Ibnay Heylaal – Medium
 
   * [Part I — Introduction](https://medium.com/@fahad19/using-rxjs-with-react-js-part-i-introduction-4d027ef55aa6) - 2017/03/19
@@ -598,16 +575,6 @@
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 * [[GitHub] yahoo / flux-examples](https://github.com/yahoo/flux-examples) - Isomorphic React + Flux examples using Dispatchr, Fetchr, and Routr
-
---
-
-* [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React
-
-* [React Components - reusable components by Khan Academy](https://khan.github.io/react-components/)
-
-* [[GitHub] plaxdan / react-topcoat](https://github.com/plaxdan/react-topcoat) - Topcoat components built with the React library
-
-* [React: HotKeys, Google Maps, Dataminr's UI Components | DailyJS](http://dailyjs.com/2015/04/07/react-components/)
 
 --
 
@@ -682,6 +649,31 @@
 * [Testing React Components Best Practices | selleo – Medium](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) - 2017/03/03
 
 
+#### React starter kit
+
+* [[GitHub] facebookincubator / create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
+
+  * [Create Apps with No Configuration | React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) - 2016/07/22
+
+  * [What's New in Create React App | React Blog](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html) - 2017/05/18
+
+--
+
+* [[GitHub] richardkall / react-starter](https://github.com/richardkall/react-starter) - Boilerplate for universal React applications
+
+* [[GitHub] este / este](https://github.com/este/este) - The best dev stack and starter kit for React universal web/mobile apps.
+
+* [[GitHub] mxstbr / react-boilerplate](https://github.com/mxstbr/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices
+
+* [[GitHub] kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Facebook React Starter Kit - a skeleton for a typical web application / single-page application (SPA). Technology stack: Gulp, Webpack, BrowserSync, React.js, Bootstrap
+
+* [[GitHub] Granze / react-starterify](https://github.com/Granze/react-starterify) - React JS application skeleton using Browserify and other awesome tools
+
+* [[GitHub] obetomuniz / reeakt](https://github.com/obetomuniz/reeakt) - A modern React boilerplate to awesome web applications
+
+* [[GitHub] zeit / next.js](https://github.com/zeit/next.js/) - Framework for server-rendered or statically-exported React apps
+
+
 #### React and css
 
 * [Styling React | SurviveJS](https://survivejs.com/react/advanced-techniques/styling-react/)
@@ -691,6 +683,8 @@
   * [[GitHub] gajus / react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components
 
   * [[GitHub] gajus / babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules) - Transforms styleName to className using compile time CSS module resolution
+
+* [How To Include SASS In Your React Project | AutomationFuel](https://www.automationfuel.com/sass-react-webpack/)
 
 
 #### React style components
@@ -715,6 +709,14 @@
 * [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
 
 * [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design
+
+* [React Bootstrap](https://react-bootstrap.github.io/) - The most popular front-end framework, rebuilt for React
+
+* [React Components - reusable components by Khan Academy](https://khan.github.io/react-components/)
+
+* [[GitHub] plaxdan / react-topcoat](https://github.com/plaxdan/react-topcoat) - Topcoat components built with the React library
+
+* [React: HotKeys, Google Maps, Dataminr's UI Components | DailyJS](http://dailyjs.com/2015/04/07/react-components/)
 
 
 #### React Native
