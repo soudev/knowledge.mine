@@ -691,6 +691,10 @@
 
 * [[YouTube] React JS Style Components | Full Stack Talks](https://www.youtube.com/watch?v=gNeavlJ7lNY) - 2016/08/31
 
+  * [“Scale” FUD and Style Components | learnreact](https://medium.learnreact.com/scale-fud-and-style-components-c0ce87ec9772) - 2016/07/18
+
+  * [[jsbin] Example Style Components around Twitter Bootstrap buttons](http://jsbin.com/zifitu/edit?js,output)
+
 --
 
 * [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
