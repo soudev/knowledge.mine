@@ -488,6 +488,8 @@
 
 ## Dicas do YouTube
 
+* [[YouTube] Seu canal PRECISA dela? | Produccine](https://www.youtube.com/watch?v=ypSU2qisoeA) - 2017/11/02
+
 * [[YouTube] Quanto um YouTuber ganha? | Gambiacine](https://www.youtube.com/watch?v=wMYHZ0-Kn8w) - 2017/07/17
 
 * [[YouTube] Vale a pena criar um canal no YouTube? | Gambiacine](https://www.youtube.com/watch?v=q-Cmtkf7W5U) - 2017/07/11
