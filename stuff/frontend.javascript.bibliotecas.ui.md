@@ -678,6 +678,10 @@
 
 * [Styling React | SurviveJS](https://survivejs.com/react/advanced-techniques/styling-react/)
 
+* [[YouTube] David Wells - CSS in React | reactjs sf meetup](https://www.youtube.com/watch?v=U86-MFPsarQ) - 2016/07/11
+
+  * [[Speaker Deck] Bulletproof CSS in React](https://speakerdeck.com/davidwells/bulletproof-css-in-react) - 2016/06/30
+
 * [Stop using CSS in JavaScript for web development | Gajus Kuizinas – Medium](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc) - 2017/04/27
 
   * [[GitHub] gajus / react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components
