@@ -9,6 +9,9 @@
   * [infernojs](#infernojs)
   * [preact](#preact)
   * [React.js](#reactjs)
+    * [React and css](#react-and-css)
+    * [React style components](#react-style-components)
+    * [React UI components](#react-ui-components)
     * [React Native](#react-native)
   * [Template Engine](#template-engine)
     * [Handlebars.js](#handlebarsjs)
@@ -540,12 +543,6 @@
 
 --
 
-* [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
-
-* [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - A CSS Framework and a Set of React Components that Implement Google's Material Design
-
---
-
 * [D3 and React - the future of charting components? | the Binary blog](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
 
 * [Integrating D3.js visualizations in a React app | Nicolas Hery](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
@@ -582,6 +579,8 @@
 
 * [[GitHub] obetomuniz / reeakt](https://github.com/obetomuniz/reeakt) - A modern React boilerplate to awesome web applications
 
+* [[GitHub] zeit / next.js](https://github.com/zeit/next.js/) - Framework for server-rendered or statically-exported React apps
+
 --
 
 * Using RxJS with React.js: – Fahad Ibnay Heylaal – Medium
@@ -599,16 +598,6 @@
 * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
 * [[GitHub] yahoo / flux-examples](https://github.com/yahoo/flux-examples) - Isomorphic React + Flux examples using Dispatchr, Fetchr, and Routr
-
---
-
-* [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design
-
-* [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
-
-  * [Quick Tip: How to Style React Components with styled-components | SitePoint](https://www.sitepoint.com/style-react-components-styled-components/) - 2017/04/20
-
-* [[GitHub] rtsao / styletron](https://github.com/rtsao/styletron) - Universal, high-performance JavaScript styles
 
 --
 
@@ -691,6 +680,41 @@
 * [Twitter Lite and High Performance React Progressive Web Apps at Scale | Medium by @paularmstrong](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3) - 2017/04/11
 
 * [Testing React Components Best Practices | selleo – Medium](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) - 2017/03/03
+
+
+#### React and css
+
+* [Styling React | SurviveJS](https://survivejs.com/react/advanced-techniques/styling-react/)
+
+* [Stop using CSS in JavaScript for web development | Gajus Kuizinas – Medium](https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc) - 2017/04/27
+
+  * [[GitHub] gajus / react-css-modules](https://github.com/gajus/react-css-modules) - Seamless mapping of class names to CSS modules inside of React components
+
+  * [[GitHub] gajus / babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules) - Transforms styleName to className using compile time CSS module resolution
+
+
+#### React style components
+
+* [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
+
+  * [Quick Tip: How to Style React Components with styled-components | SitePoint](https://www.sitepoint.com/style-react-components-styled-components/) - 2017/04/20
+
+  * [Styling in React: From External CSS to Styled Components | SitePoint](https://www.sitepoint.com/style-react-components-styled-components/) - 2017/09/07
+
+* [[GitHub] airbnb / react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
+
+  * [react-with-styles | Airbnb Engineering](http://airbnb.io/projects/react-with-styles/)
+
+* [[GitHub] marcohamersma / react-easy-styleguide](https://github.com/marcohamersma/react-easy-styleguide) - Easy styleguide/component library tool for React projects with support for global styles. Works great with create-react-app
+
+* [[GitHub] rtsao / styletron](https://github.com/rtsao/styletron) - Universal, high-performance JavaScript styles
+
+
+#### React UI components
+
+* [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
+
+* [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design
 
 
 #### React Native
