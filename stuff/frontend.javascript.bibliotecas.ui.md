@@ -678,6 +678,8 @@
 
 * [Styling React | SurviveJS](https://survivejs.com/react/advanced-techniques/styling-react/)
 
+* [[YouTube] Tech Talk: Make CSS Functional | Fullstack Academy](https://www.youtube.com/watch?v=eHS1Ohybb_k) - 2017/01/23
+
 * [[YouTube] David Wells - CSS in React | reactjs sf meetup](https://www.youtube.com/watch?v=U86-MFPsarQ) - 2016/07/11
 
   * [[Speaker Deck] Bulletproof CSS in React](https://speakerdeck.com/davidwells/bulletproof-css-in-react) - 2016/06/30
