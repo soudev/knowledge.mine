@@ -689,6 +689,10 @@
 
 #### React style components
 
+* [[YouTube] React JS Style Components | Full Stack Talks](https://www.youtube.com/watch?v=gNeavlJ7lNY) - 2016/08/31
+
+--
+
 * [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 
   * [Quick Tip: How to Style React Components with styled-components | SitePoint](https://www.sitepoint.com/style-react-components-styled-components/) - 2017/04/20
