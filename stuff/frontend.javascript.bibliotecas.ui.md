@@ -448,8 +448,6 @@
 
 * [Como começar a sua aplicação React em poucos minutos | Code Prestige - Medium](https://medium.com/code-prestige/configurando-aplica%C3%A7%C3%B5es-react-em-2-minutos-894025cbef82) - 2016/08/04
 
-  * [[GitHub] facebookincubator / create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
-
 * [React: do básico ao avançado - Parte 1 | BrasilJS](https://braziljs.org/blog/react-do-basico-ao-avancado-parte-1/) - 2016/10/17
 
 * [[GitBook] React com ES6: de Padawan a Mestre Jedi](https://skilloio.gitbooks.io/react-de-padawan-a-mestre-jedi/)
@@ -662,6 +660,10 @@
   * [Create Apps with No Configuration | React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) - 2016/07/22
 
   * [What's New in Create React App | React Blog](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html) - 2017/05/18
+
+* [[GitHub] timarney / react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
+
+  * [React / Create React App — But I don’t wanna Eject | Tim Arney - Medium](https://medium.com/@timarney/but-i-dont-wanna-eject-3e3da5826e39) - 2016/12/01
 
 --
 
