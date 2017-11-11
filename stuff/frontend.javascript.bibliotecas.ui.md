@@ -280,8 +280,6 @@
 
 * [Clean up your Vue modules with ES6 Arrow Functions | dotdev](https://dotdev.co/clean-up-your-vue-modules-with-es6-arrow-functions-2ef65e348d41) - 2016/11/26
 
-* [7 Ways To Define A Component Template in Vue.js | Codementor](https://www.codementor.io/vuejsdevelopers/7-ways-to-define-a-component-template-in-vue-js-8wxxhmxo6) - 2017/07/03
-
 * [Imprevistos com libs de terceiros - C3.js | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/imprevistos-com-libs-de-terceiros-c3-js/) - 2016/07/29
 
 --
@@ -293,6 +291,12 @@
   * [Using Filters in Vue.js | CSS-Tricks](https://css-tricks.com/using-filters-vue-js/) - 2017/06/03
 
 * [How to Create Filters in Vue.js with Examples | Scotch](https://scotch.io/tutorials/how-to-create-filters-in-vuejs-with-examples) - 2017/09/18
+
+--
+
+* [Building your very first component with VueJs | codeburst](https://codeburst.io/building-your-very-first-component-with-vuejs-21b4a2f6a15a) - 2017/11/01
+
+* [7 Ways To Define A Component Template in Vue.js | Codementor](https://www.codementor.io/vuejsdevelopers/7-ways-to-define-a-component-template-in-vue-js-8wxxhmxo6) - 2017/07/03
 
 * [The Power of Custom Directives in Vue | CSS-Tricks](https://css-tricks.com/power-custom-directives-vue/) - 2017/04/20
 
