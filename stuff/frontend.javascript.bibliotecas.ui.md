@@ -653,6 +653,8 @@
 
 * [[GitHub] facebookincubator / create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 
+  * [[GitHub] tuchk4 / awesome-create-react-app](https://github.com/tuchk4/awesome-create-react-app) - Awesome list of Create React App articles / tutorials / videos and FAQ
+
   * [Create Apps with No Configuration | React Blog](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html) - 2016/07/22
 
   * [What's New in Create React App | React Blog](https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html) - 2017/05/18
@@ -672,6 +674,14 @@
 * [[GitHub] obetomuniz / reeakt](https://github.com/obetomuniz/reeakt) - A modern React boilerplate to awesome web applications
 
 * [[GitHub] zeit / next.js](https://github.com/zeit/next.js/) - Framework for server-rendered or statically-exported React apps
+
+--
+
+* [[GitHub] CVarisco / create-component-app](https://github.com/CVarisco/create-component-app) - Tool to generate different types of React components from the terminal
+
+  * [create-component-app v1 is out now 🎉 | Hacker Noon](https://hackernoon.com/create-component-app-v1-is-out-now-6ca0217992e9) - 2017/10/25
+
+  * [Pare de copiar e colar componentes React e use o create-component-app | Diego Martins de Pinho - Medium](https://medium.com/@DiegoMartinsDePinho/pare-de-copiar-e-colar-componentes-react-e-use-o-create-component-app-25f0c7e21588) - 2017/10/26
 
 
 #### React and css
