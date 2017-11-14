@@ -468,6 +468,8 @@
 
   * [[YouTube] Hands-on ReactJS | DevPleno](https://www.youtube.com/watch?v=n9aP7mFX2Ac&list=PLBNBxpMAbyhXSRcKIKWg04FTPGNy-ZPMa)
 
+* [[YouTube] 8 Tips For Getting Better At React | LevelUpTuts](https://www.youtube.com/watch?v=BncMF2aTL0w) - 2017/11/07
+
 --
 
 * [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
