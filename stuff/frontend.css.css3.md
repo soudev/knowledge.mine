@@ -34,9 +34,13 @@
 
   * [[GitHub] a-jie / Agile](https://github.com/a-jie/Agile)
 
---
+
+### Flexbox
 
 * [[GitHub] afonsopacifer / awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - A curated list of CSS Flexible Box Layout Module or only Flexbox
+
+
+### CSS Grid
 
 * [[GitHub] afonsopacifer / learning-css-grid-layout](https://github.com/afonsopacifer/learning-css-grid-layout) - List of resources to learn CSS Grid Layout Module or only CSS Grid.
 
@@ -49,6 +53,18 @@
 * [An Introduction to the CSS Grid Layout Module | SitePoint](https://www.sitepoint.com/introduction-css-grid-layout-module/) - 2017/03/23
 
 * [CSS Grid PlayGround - Terminology | Mozilla](https://mozilladevelopers.github.io/playground/)
+
+--
+
+* [[YouTube] CSS Grid Changes Everything (About Web Layouts) - talk by Morten Rand-Hendriksen | freeCodeCamp Talks](https://www.youtube.com/watch?v=Qgyg-SRr-UQ) - 2017/11/07
+
+* Traversy Media
+
+  * [[YouTube] Grid CSS Responsive Website Layout - "Mobile First" Design | Traversy Media](https://www.youtube.com/watch?v=M3qBpPw77qo) - 2017/11/10
+
+    * [[CodePen] CSS Grid Website Layout](https://codepen.io/bradtraversy/pen/RjpQvZ)
+
+  * [[YouTube] CSS Grid Layout Crash Course | Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o) - 2017/08/01
 
 
 ### Dicas
