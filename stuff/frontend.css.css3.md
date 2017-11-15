@@ -35,12 +35,23 @@
   * [[GitHub] a-jie / Agile](https://github.com/a-jie/Agile)
 
 
-### Flexbox
+### CSS Layouts
+
+* [[YouTube] Building layouts with flexbox and CSS grids | Le Wagon](https://www.youtube.com/watch?v=dA00K9qmiWM) - 2017/11/07
+
+
+#### Flexbox
 
 * [[GitHub] afonsopacifer / awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox) - A curated list of CSS Flexible Box Layout Module or only Flexbox
 
+--
 
-### CSS Grid
+* [[YouTube] Flexbox CSS In 20 Minutes | Traversy Media](https://www.youtube.com/watch?v=JJSoEo8JSnc) - 2016/12/08
+
+* [[YouTube] Flexbox Tutorial (CSS): Real Layout Examples | LearnWebCode](https://www.youtube.com/watch?v=k32voqQhODc) - 2016/10/11
+
+
+#### CSS Grid
 
 * [[GitHub] afonsopacifer / learning-css-grid-layout](https://github.com/afonsopacifer/learning-css-grid-layout) - List of resources to learn CSS Grid Layout Module or only CSS Grid.
 
