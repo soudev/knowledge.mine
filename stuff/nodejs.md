@@ -2675,6 +2675,15 @@ $ sudo chown -R `whoami` .npm
 * [Nombo](http://nombo.io/) - Node.js Realtime App Framework
 
 
+* [[GitHub] gimm / gulp-live-server](https://github.com/gimm/gulp-live-server) - serve your nodejs/static app live
+
+* [[GitHub] tapio / live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability
+
+  * [Live Server | Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+  * [atom-live-server | Atom Package](https://atom.io/packages/atom-live-server)
+
+
 #### Socket.io
 
 * [Socket.IO](http://socket.io/) - aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms. It's care-free realtime 100% in JavaScript.
