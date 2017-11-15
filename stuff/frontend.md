@@ -282,6 +282,8 @@
 
 * [The Art Of The SVG Filter And Why It Is Awesome | Smashing Magazine](http://www.smashingmagazine.com/2015/05/26/why-the-svg-filter-is-awesome/)
 
+* [How to use SVG as a Placeholder, and Other Image Loading Techniques | freeCodeCamp](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) - 2017/10/30
+
 --
 
 * [Love Generating SVG With JavaScript? Move It To The Server! | Smashing Magazine](http://www.smashingmagazine.com/2014/05/26/love-generating-svg-javascript-move-to-server/)
