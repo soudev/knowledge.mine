@@ -34,6 +34,8 @@
 
 * [Resources for new Go programmers | Dave Cheney](https://dave.cheney.net/resources-for-new-go-programmers)
 
+* [Simple tools to improve your Go code | Rémy Mathieu](https://remy.io/blog/simple-tools-to-improve-your-go-code/)
+
 --
 
 * [Gophers, please tag your releases | Dave Cheney](http://dave.cheney.net/2016/06/24/gophers-please-tag-your-releases)
