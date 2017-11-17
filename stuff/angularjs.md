@@ -2476,6 +2476,10 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [[GitHub] angular-slider / angularjs-slider](https://github.com/angular-slider/angularjs-slider) - Slider directive for AngularJS 1.X. No dependencies and mobile friendly
+
+--
+
 * [[GitHub] PascalPrecht / angular-github-adapter](https://github.com/PascalPrecht/angular-github-adapter) - Angular adapter module for [github.js](https://github.com/michael/github)
 
 * [[GitHub] urish / angular-moment](https://github.com/urish/angular-moment) - Angular.JS directives for [Moment.JS](http://momentjs.com/) (timeago alternative)
