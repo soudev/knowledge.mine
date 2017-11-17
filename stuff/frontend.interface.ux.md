@@ -37,6 +37,8 @@
 
 * [Muzli Design Inspiration](https://muz.li/#)
 
+* [Empty States](http://emptystat.es/) - Delight users by designing the empty states.
+
 --
 
 * [GoodUI](http://www.goodui.org/) - Some tips about good UI, roughly illustrated.
