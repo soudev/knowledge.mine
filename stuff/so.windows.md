@@ -29,7 +29,15 @@
 
 * [ConEmu - Handy Windows Terminal](https://conemu.github.io/) - ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
 
+### Window Subsystem for Linux
+
 * [Learn About Bash on Windows Subsystem For Linux - Windows Command Line Tools For Developers](https://blogs.msdn.microsoft.com/commandline/learn-about-bash-on-windows-subsystem-for-linux/)
+
+* [[YouTube] Run Ubuntu Natively on Windows 10 | Novaspirit Tech](https://www.youtube.com/watch?v=2cmJ3eOgiFE) - 2016/08/18
+
+* [[YouTube] Cooking With Linux : Install and run Ubuntu Linux on Windows 10 | Marcel Gagne](https://www.youtube.com/watch?v=urxYdrv__qE) - 2016/08/31
+
+* [[YouTube] Bash on Ubuntu on Windows | Next Day Video](https://www.youtube.com/watch?v=7J-dRirlUvY) - 2016/11/17
 
 
 ## Jogos
