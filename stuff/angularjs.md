@@ -259,6 +259,8 @@
 
 * [[GitHub] loiane / curso-angular2](https://github.com/loiane/curso-angular2) - Código fonte apresentado no curso de Angular 2 gratuito do [blog loiane.com](http://loiane.training/curso/angular-2/)
 
+* [[YouTube Playlist] AngularCamp 2017 | AngularCamp](https://www.youtube.com/playlist?list=PLB17qI-lepyhiKF5sy6P46Vqj4crwuoDU) - 2017/07/06-07
+
 --
 
 * [Six months of dev, we launched project on top of Angular 2 | m12.io](http://m12.io/blog/we-launched-angular-2-project)
