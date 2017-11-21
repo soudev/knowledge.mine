@@ -2,6 +2,12 @@
 
 * [Free & Public DNS Servers](http://pcsupport.about.com/od/tipstricks/a/free-public-dns-servers.htm)
 
+## [Quad9 DNS](https://www.quad9.net)
+
+> [IBM, Packet Clearing House and Global Cyber Alliance Collaborate to Protect Businesses and Consumers from Internet Threats | Global Cyber Alliance](https://www.globalcyberalliance.org/ibm-packet-clearing-house-global-cyber-alliance-collaborate-protect-businesses-consumers-internet-threats.html)
+
+* 9.9.9.9
+
 ## [Google Public DNS](https://developers.google.com/speed/public-dns/)
 
 ### IPv4
@@ -37,4 +43,3 @@
 * 2804:10:10::10
 
 * 2804:10:10::20
-
