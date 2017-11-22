@@ -88,6 +88,8 @@
 
 --
 
+* [[GitHub] zehfernandes / pliim](https://github.com/zehfernandes/pliim) - One click and be ready to go up on stage and shine! (macOS 10.11 or above)
+
 * [[GitHub] Eun / DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac
 
 * Move windows
