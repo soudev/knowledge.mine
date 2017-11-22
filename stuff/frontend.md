@@ -25,6 +25,10 @@
 
 * [[GitHub] LFeh / frontend-tools](https://github.com/LFeh/frontend-tools) - Useful tools to frontenders
 
+--
+
+* [[GitHub] thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
+
 
 ## Visão Geral
 
