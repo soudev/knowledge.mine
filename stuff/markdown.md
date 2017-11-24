@@ -140,6 +140,10 @@
 
   * [Building markdown-based developer docs — Code stories | Medium](https://medium.com/code-stories/building-markdown-based-developer-docs-87c0317c56f7)
 
+--
+
+* [[GitHub] croqaz / clean-mark](https://github.com/croqaz/clean-mark) - Convert an article into a clean Markdown text
+
 
 ### Transformação Markdown ...
 
