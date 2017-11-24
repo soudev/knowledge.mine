@@ -114,6 +114,12 @@
 
 * [[GitHub] caarlos0 / go-web-api-example](https://github.com/caarlos0/go-web-api-example)
 
+--
+
+* [[GitHub] tj / node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, etc)
+
+--
+
 * [Hugo](https://gohugo.io/) - A Fast and Flexible Website Generator
 
   * [[GitHub] gohugoio / hugo](https://github.com/gohugoio/hugo) - A Fast and Flexible Static Site Generator built with love in GoLang
