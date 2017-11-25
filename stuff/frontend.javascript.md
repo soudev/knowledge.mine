@@ -556,6 +556,8 @@
 
 * Redux
 
+  * [How Redux can make you a better developer | COBE](https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec) - 2017/11/08
+
   * [Conhecendo o básico do Redux | Coderockr Way — Medium](https://medium.com/coderockr-way/conhecendo-o-básico-do-redux-7315bcf09cef) - 2016/06/02
 
   * [Practical Redux | Mark's Dev Blog](http://blog.isquaredsoftware.com/series/practical-redux/)
