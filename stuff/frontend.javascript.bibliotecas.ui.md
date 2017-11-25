@@ -373,6 +373,8 @@
 
 --
 
+* [[GitHub] Microsoft / TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together
+
 * [Code splitting com Vue.js e Webpack | Comunidade Brasileira de Vue.js](http://vuejs-brasil.com.br/code-splitting-com-vue-js-e-webpack/) - 2017/09/07
 
 * [Vue.js + Brunch: The Webpack Alternative You’ve Been Hungry For | Vue.js Developers - Medium](https://medium.com/js-dojo/vue-js-brunch-the-webpack-alternative-youve-been-hungry-for-5540bbb03758) - 2017/10/16
