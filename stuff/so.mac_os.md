@@ -80,6 +80,12 @@
 
 * [Lacona](https://www.lacona.io/)
 
+* [Cerebro App](https://cerebroapp.com/) – open-source productivity booster with a brain
+
+  * [[GitHub] KELiON / cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
+
+  * [[YouTube] Use o CEREBRO para agilizar a sua vida no Linux, Windows e macOS | Diolinux](https://www.youtube.com/watch?v=AsSFcmoUGfA)
+
 --
 
 * [Rescue Time](https://www.rescuetime.com/) - helps you understand your daily habits so you can focus and be more productive.

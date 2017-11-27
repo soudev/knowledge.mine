@@ -13,6 +13,14 @@
 
 ## Ferramentas
 
+* [Cerebro App](https://cerebroapp.com/) – open-source productivity booster with a brain
+
+  * [[GitHub] KELiON / cerebro](https://github.com/KELiON/cerebro) - Open-source productivity booster with a brain
+
+  * [[YouTube] Use o CEREBRO para agilizar a sua vida no Linux, Windows e macOS | Diolinux](https://www.youtube.com/watch?v=AsSFcmoUGfA)
+
+--
+
 * [Git for Windows](http://git-scm.com/download/win)
 
 * [[GitHub] msysgit / msysgit](https://github.com/msysgit/msysgit) - Build environment for Git for Windows.
@@ -28,6 +36,7 @@
 * [cmder | Console Emulator](https://bliker.github.io/cmder/) - Portable console emulator for Windows
 
 * [ConEmu - Handy Windows Terminal](https://conemu.github.io/) - ConEmu-Maximus5 is a full-featured local terminal for Windows devs, admins and users. Get better console window with tabs, splits, Quake style, copy+paste, DosBox and PuTTY integration, and much more.
+
 
 ### Window Subsystem for Linux
 
