@@ -65,6 +65,10 @@
 
 --
 
+* [Keybase](https://keybase.io/) - is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography. Imagine a Slack for the whole world, except end-to-end encrypted across all your devices. Or a Team Dropbox where the server can't leak your files or be hacked.
+
+  * [[GitHub] Keybase](https://github.com/keybase) - Crypto for everyone!
+
 * [Rocket.Chat](https://rocket.chat/) - Open Source Communication
 
   * [[GitHub] RocketChat / Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - Have your own Slack like online chat, built with Meteor
