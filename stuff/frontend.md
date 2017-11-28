@@ -19,9 +19,27 @@
 
 * [HTML Reference](http://htmlreference.io/) - A free guide to all HTML elements and attributes.
 
+--
+
 * [Front-end Developer Handbook](http://www.frontendhandbook.com/) - This is a guide that anyone could use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it.
 
 * [Front End Resources](https://enboard.co/frontend/) - Organized resources about front end development.
+
+--
+
+* From Zero to Front-end Hero | freeCodeCamp
+
+  * [Part 1](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-1-7d4f7f0bff02) - 2016/05/17
+
+  * [Part 2](https://medium.freecodecamp.org/from-zero-to-front-end-hero-part-2-adfa4824da9b) - 2016/05/24
+
+* Do Zero a Herói Front-End | Felipe Fialho
+
+  * [Parte 1](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-1) - 2016/05/30
+
+  * [Parte 2](https://www.felipefialho.com/blog/2016/do-zero-a-heroi-do-front-end-parte-2) - 2016/06/14
+
+--
 
 * [[GitHub] LFeh / frontend-tools](https://github.com/LFeh/frontend-tools) - Useful tools to frontenders
 
