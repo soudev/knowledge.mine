@@ -470,7 +470,27 @@
 
   * [[YouTube] Hands-on ReactJS | DevPleno](https://www.youtube.com/watch?v=n9aP7mFX2Ac&list=PLBNBxpMAbyhXSRcKIKWg04FTPGNy-ZPMa)
 
+* Ihatetomatoes
+
+  * [[YouTube playlist] React Tutorials 2017 | Ihatetomatoes](https://www.youtube.com/watch?v=OXmpxz_-pBU&list=PLkEZWD8wbltnXlfyhS5qSMTNb26utkOkI)
+
+* LearnCode.academy
+
+  * [[YouTube playlist] React JS Tutorials | LearnCode.academy](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
+
 * [[YouTube] 8 Tips For Getting Better At React | LevelUpTuts](https://www.youtube.com/watch?v=BncMF2aTL0w) - 2017/11/07
+
+* [[YouTube] React - The Complete Guide - Sneak Peek - First 2 Hours | Academind](https://www.youtube.com/watch?v=pgAvVxowaYU) - 2017/10/26
+
+  * [[Udemy] React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) - Dive in and learn React from scratch! Learn Reactjs, Redux, React Routing, Animations, Next.js basics and way more!
+
+* [[YouTube] The 2017 React Development Starter Guide | CodingTheSmartWay.com](https://www.youtube.com/watch?v=7ojad6QYuqI) - 2017/04/23
+
+* [[YouTube] React Tutorial for Beginners - Codepen.io | Dev Coffee](https://www.youtube.com/watch?v=ZnRFerIP8aA) - 2017/01/10
+
+* [[YouTube] React JS Crash Course | Traversy Media](https://www.youtube.com/watch?v=A71aqufiNtQ) - 2016/11/12
+
+* [[YouTube] Zero to Hero with React js | TechKeka](https://www.youtube.com/watch?v=-40p_dZccPg) - 2016/10/28
 
 --
 
