@@ -28,11 +28,17 @@
 
 * [[GitHub] avelino / awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
+--
+
 * [Go by Example](https://gobyexample.com/) - is a hands-on introduction to Go using annotated example programs.
 
 * [Go In 5 Minutes](https://www.goin5minutes.com/) is a screencast series with the most concise, practical Go screencasts on the web.
 
 * [Resources for new Go programmers | Dave Cheney](https://dave.cheney.net/resources-for-new-go-programmers)
+
+* [[GitHub] andrewsmedina / go-para-quem-sabe-go](https://github.com/andrewsmedina/go-para-quem-sabe-go)
+
+--
 
 * [Simple tools to improve your Go code | Rémy Mathieu](https://remy.io/blog/simple-tools-to-improve-your-go-code/)
 
