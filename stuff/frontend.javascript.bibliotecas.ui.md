@@ -428,6 +428,8 @@
 
 * [[YouTube] Learn to Code: How React.js Works | Fullstack Academy](https://www.youtube.com/watch?v=mLMfx8BEt8g) - 2017/01/31
 
+* [[YouTube] The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4) - A talk from FutureJS by Pete Hunt of Facebook
+
 --
 
 * [[GitHub] enaqx / awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome React libraries, resources and shiny things
@@ -504,14 +506,6 @@
 
 --
 
-* [[GitHub] markerikson / react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
-
-* [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
-
-* [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
-
---
-
 * [Novidades do React 16 | Willian Justen](https://willianjusten.com.br/novidades-do-react-16/) - 2017/09/28
 
 --
@@ -558,10 +552,6 @@
 
 --
 
-* [[YouTube] The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4) - A talk from FutureJS by Pete Hunt of Facebook
-
---
-
 * [[SlideShare] Reconciling ReactJS as a View Layer Replacement (MidwestJS 2014)](http://www.slideshare.net/ZachLendon/reconciling-react-as-a-view-layer-replacement-midwestjs-2014) - 2014/08/15
 
 --
@@ -598,6 +588,19 @@
 
 --
 
+* [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
+
+  * [Redux Examples](https://react.rocks/tag/Redux)
+
+  * [[GitHub] markerikson / react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
+
+  * [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
+
+  * [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
+
+
+--
+
 * Using RxJS with React.js: – Fahad Ibnay Heylaal – Medium
 
   * [Part I — Introduction](https://medium.com/@fahad19/using-rxjs-with-react-js-part-i-introduction-4d027ef55aa6) - 2017/03/19
@@ -610,9 +613,9 @@
 
 * [Flux](https://facebook.github.io/flux/)
 
-* [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
+  * [Flux: An Application Architecture for React | React Blog](https://facebook.github.io/react/blog/2014/05/06/flux.html)
 
-* [[GitHub] yahoo / flux-examples](https://github.com/yahoo/flux-examples) - Isomorphic React + Flux examples using Dispatchr, Fetchr, and Routr
+  * [[GitHub] yahoo / flux-examples](https://github.com/yahoo/flux-examples) - Isomorphic React + Flux examples using Dispatchr, Fetchr, and Routr
 
 --
 
