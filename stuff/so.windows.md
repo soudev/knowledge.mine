@@ -1,14 +1,17 @@
 # Windows
 
-* [[GitHub] felixrieseberg / windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) - Turning Windows into an environment ready for modern development
-
---
-
 * [[Git] igorcosta / converter_images.bat](https://gist.github.com/igorcosta/008173b435e0309d4773) - Convert Images from your Camera SD card into web size pictures for Windows Users
 
 --
 
 * [[GitHub] OpenLiveWriter / OpenLiveWriter](https://github.com/OpenLiveWriter/OpenLiveWriter) - An open source fork of Windows Live Writer
+
+
+## Development
+
+* [From Microsoft to Apple, and Back Again | AkitaOnRails.com](http://www.akitaonrails.com/2017/11/21/from-microsoft-to-apple-and-back-again) - 2017/11/21
+
+* [[GitHub] felixrieseberg / windows-development-environment](https://github.com/felixrieseberg/windows-development-environment) - Turning Windows into an environment ready for modern development
 
 
 ## Ferramentas
