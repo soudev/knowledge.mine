@@ -334,6 +334,10 @@
 
 --
 
+* [[GitHub] vuejs / vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
+
+  * [[GitHub] robinvdvleuten / vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Persist Vuex state with localStorage
+
 * [Migrating A VueJS App To Vuex | Vue.js Developers – Medium](https://medium.com/js-dojo/migrating-a-vuejs-app-to-vuex-b1762bfd4cf1) - 2017/10/09
 
 * [Vuex e chamadas AJAX | Fábio Vedovelli – Medium](https://medium.com/@vedovelli/vuex-e-chamadas-ajax-c0a26c7585e9) - 2017/11/27
