@@ -46,6 +46,8 @@
 
 --
 
+* [Mastering CSS Layout with Flexbox](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html) - the ultimate flexbox cheat sheet
+
 * [[YouTube] Flexbox CSS In 20 Minutes | Traversy Media](https://www.youtube.com/watch?v=JJSoEo8JSnc) - 2016/12/08
 
 * [[YouTube] Flexbox Tutorial (CSS): Real Layout Examples | LearnWebCode](https://www.youtube.com/watch?v=k32voqQhODc) - 2016/10/11
