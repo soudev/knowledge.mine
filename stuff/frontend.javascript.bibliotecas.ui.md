@@ -336,6 +336,8 @@
 
 * [Migrating A VueJS App To Vuex | Vue.js Developers – Medium](https://medium.com/js-dojo/migrating-a-vuejs-app-to-vuex-b1762bfd4cf1) - 2017/10/09
 
+* [Vuex e chamadas AJAX | Fábio Vedovelli – Medium](https://medium.com/@vedovelli/vuex-e-chamadas-ajax-c0a26c7585e9) - 2017/11/27
+
 --
 
 * [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest | Alex Jover Morales](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/)
