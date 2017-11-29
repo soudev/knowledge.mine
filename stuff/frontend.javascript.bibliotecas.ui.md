@@ -426,6 +426,10 @@
 
 --
 
+* [[YouTube] Learn to Code: How React.js Works | Fullstack Academy](https://www.youtube.com/watch?v=mLMfx8BEt8g) - 2017/01/31
+
+--
+
 * [[GitHub] enaqx / awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome React libraries, resources and shiny things
 
 * [[GitHub] petehunt / react-howto](https://github.com/petehunt/react-howto) - Your guide to the (sometimes overwhelming!) React ecosystem.
@@ -499,6 +503,8 @@
 * [[YouTube] Zero to Hero with React js | TechKeka](https://www.youtube.com/watch?v=-40p_dZccPg) - 2016/10/28
 
 --
+
+* [[GitHub] markerikson / react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
 
 * [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
 
