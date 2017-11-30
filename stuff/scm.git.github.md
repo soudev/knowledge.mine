@@ -274,6 +274,12 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 --
 
+* [[Speaker Deck] Explorando o Comando Git Stash](https://speakerdeck.com/marcelgsantos/explorando-o-comando-git-stash) - (2017/11/30) O Git stash é uma funcionalidade que permite guardar as alterações de seu diretório de trabalho e o seu entendimento é importante para ajudar no seu workflow de desenvolvimento.
+
+  * [[Gist] marcelgsantos / referencias-git-stash.md](https://gist.github.com/marcelgsantos/5a907953c8e93f552fd9a1bc30405b78) - Lista de referências sobre o comando git stash
+
+--
+
 > **Commit de um diretório vazio**
 >
 > Dentro do respectivo diretório crie o arquivo **\*.gitkeep**
