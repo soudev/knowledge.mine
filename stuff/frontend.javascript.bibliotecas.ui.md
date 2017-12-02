@@ -671,6 +671,10 @@
 
 --
 
+* [Introducing React Food Truck | Burke Knows Words](https://burkeknowswords.com/introducing-react-food-truck-b23ea1e2cf79) - (2017/11/30) React Food Truck is a curated set of extensions for discerning React developers who use VS Code.
+
+--
+
 * [Building Chrome Extensions in React+Redux | goguardian](http://blog.goguardian.com/nerds/chrome-extensions-in-react)
 
 --
