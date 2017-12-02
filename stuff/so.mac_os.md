@@ -3,24 +3,36 @@
 <!-- toc -->
 
 * [Dicas](#dicas)
-* [Mavericks](#mavericks)
-* [El Capitan](#el-capitan)
-* [HDD para SSD](#hdd-para-ssd)
-* [Trocar o DVD por um segundo HD](#trocar-o-dvd-por-um-segundo-hd)
-* [Colors](#colors)
-* [dotFiles](#dotfiles)
-* [Setup](#setup)
-* [Fontes](#fontes)
+* [Games](#games)
 * [Audio e Vídeo](#audio-e-vídeo)
   * [Media Center](#media-center)
   * [Editores de Vídeo](#editores-de-vídeo)
   * [Editores de Audio](#editores-de-audio)
-* [Games](#games)
-* [UNIX](#unix)
-  * [Shell](#shell)
+* [Setup Environment](#setup-environment)
+  * [Fontes](#fontes)
+  * [Colors](#colors)
+  * [dotFiles](#dotfiles)
 * [Desenvolvimento](#desenvolvimento)
+  * [UNIX](#unix)
+  * [Shell](#shell)
+  * [AWS](#aws)
+  * [Swift](#swift)
+  * [Ruby](#ruby)
+  * [Java](#java)
+  * [Node.js](#nodejs)
+  * [JavaScript](#javascript)
+  * [SQL](#sql)
+* [Hardware](#hardware)
+  * [mackbook pro 2015](#mackbook-pro-2015)
+    * [HDD para SSD](#hdd-para-ssd)
+    * [Trocar o DVD por um segundo HD](#trocar-o-dvd-por-um-segundo-hd)
+  * [mackbook pro setup 2017](#mackbook-pro-setup-2017)
+* [OS](#os)
+  * [Mavericks](#mavericks)
+  * [El Capitan](#el-capitan)
 
 <!-- toc stop -->
+
 
 ## Dicas
 
@@ -131,98 +143,15 @@
 * [Como saber a condição da bateria do MacBook e aumentar sua vida útil | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/06/como-saber-condicao-da-bateria-do-macbook-e-aumentar-sua-vida-util.html)
 
 
-## Mavericks
+## Games
 
-* [Everything You Need to Know About OS X Mavericks | Mac.AppStorm](http://mac.appstorm.net/reviews/os-x-reviews/everything-you-need-to-know-about-os-x-mavericks/)
+* [OpenTTD](http://www.openttd.org/) - is an open source simulation game based upon Transport Tycoon Deluxe
 
-* [Command Line Tools on OSX Mavericks | Marcos Junior](http://webmarcos.net/2013/11/20/command-line-tools-on-osx-mavericks/)
+* [OpenRA](http://www.openra.net/) - is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).
 
-* [Como criar um pendrive de instalação do OS X Mavericks | Meio Bit](http://meiobit.com/270071/como-instalar-os-x-mavericks-atraves-do-pendrive-usb/)
+  * [[GitHub] OpenRA / OpenRA](https://github.com/OpenRA/OpenRA)
 
-* [How to Create an OS X Mavericks USB Installation Drive | Lifehacker](http://lifehacker.com/how-to-create-an-os-x-mavericks-usb-installation-drive-1450280026)
-
-
-## El Capitan
-
-* [How to Burn OS X El Capitan to a USB Flash Drive | Lifehacker](http://lifehacker.com/how-to-burn-os-x-el-capitan-to-a-usb-flash-drive-1733425133) - 2015/09/30
-
-  * [PSA: An Expired Certificate Means You'll Need to Remake Any OS X USB Boot Drives | Lifehacker](http://lifehacker.com/psa-an-expired-certificate-means-youll-need-to-remake-1762704972)
-
-## HDD para SSD
-
->
-> Dica: antes de iniciar a instalação do SO, formate o SSD no padrão: `Mac OS Extended (Journaled)`
->
-> Lembre-se: crie um nome, por exemplo: `Macintosh SSD`
->
-
-* [Dobre a performance do seu Mac fazendo um upgrade de SSD | MacMagazine](http://macmagazine.com.br/2014/09/06/dobre-a-performance-do-seu-mac-fazendo-um-upgrade-de-ssd/) - 2014/09/06
-
-
-## Trocar o DVD por um segundo HD
-
-* [Unibody Laptop Dual Drive | iFixit](https://www.ifixit.com/Store/Mac/Unibody-Laptop-Dual-Drive/IF107-080)
-
-* [[YouTube] Mac Book Pro - Second Hard Drive Install Tutorial DIY](https://www.youtube.com/watch?v=dSwIoSnz7aY) - In this video we take out the Optical hard drive in my macbook pro (2011 Coire i5) And Replace it with a 1 TB hard drive. We do this by adding a caddie in place of the optical Hard drive. [2013/08/01]
-
-  * [Universal Macbook Hard drive Caddie | Amazon](http://amzn.com/B004FM4UGE)
-
-
-## Colors
-
-* [LSCOLORS Generator | Geoff Greer](http://geoff.greer.fm/lscolors/) - terminal `export LSCOLORS=GxFxCxDxBxegedabagaced`
-
-* [[GitHub] hukl / Smyck-Color-Scheme](https://github.com/hukl/Smyck-Color-Scheme) - Color Scheme for Terminal.app, iTerm2, Vim, MacVim, Sublime Text2 and Textmate
-
-
-## dotFiles
-
-* [[GitHub] webpro / awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-
---
-
-* [dotfiles.github.io](http://dotfiles.github.io/)
-
-* [[GitHub] mathiasbynens / dotfiles](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
-
-* [[GitHub] paulirish / dotfiles](https://github.com/paulirish/dotfiles)
-
-* [[GitHub] addyosmani / dotfiles](https://github.com/addyosmani/dotfiles)
-
-* [[GitHub] zenorocha / dotfiles](https://github.com/zenorocha/dotfiles) - OS X dotfiles
-
-* [[GitHub] davidsonfellipe / dotfiles](https://github.com/davidsonfellipe/dotfiles) - OS X dotfiles
-
-* [[GitHub] luanmuniz / dotfiles](https://github.com/luanmuniz/dotfiles) - Script de configuração de workspace
-
-* [[GitHub] holman / dotfiles](https://github.com/holman/dotfiles)
-
---
-
-* [[GitHub] alrra / dotfiles](https://github.com/alrra/dotfiles) - OS X / Ubuntu dotfiles
-
---
-
-* [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
-
-
-## Setup
-
-* [[GitHub] sb2nov / mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on Mac OS X
-
-* [Setup a Mac Dev Machine From Scratch | Laracasts](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch)
-
-* [SublimeText, iTerm, and Chrome setup | Damian Le Nouaille](http://www.damln.com/log/setup/)
-
-* [[Gist] millermedeiros / osx_setup.md](https://gist.github.com/millermedeiros/6615994) - Mac OS X Mountain Lion setup
-
-* [[Gist] zenorocha / osx-setup.md](https://gist.github.com/zenorocha/7159780) - Setup Mac OS X Mavericks (10.9)
-
-## Fontes
-
-* [Web Font Generator for Mac OSX | FontPrep](http://fontprep.com/)
-
-  * [[GitHub] briangonzalez / fontprep](https://github.com/briangonzalez/fontprep) - The missing font generator for Mac OSX
+* [OpenEmu](http://openemu.org/) - Multiple Video Game System
 
 
 ## Audio e Vídeo
@@ -257,22 +186,75 @@
   * [Ocenaudio: um editor de arquivos de áudio gratuito, rápido, simplificado e feito no Brasil | MeioBit](http://meiobit.com/294171/ocenaudio-um-editor-de-arquivos-de-audio-gratuito-rapido-simplificado-e-feito-brasil/)
 
 
-## Games
+## Setup Environment
 
-* [OpenTTD](http://www.openttd.org/) - is an open source simulation game based upon Transport Tycoon Deluxe
+* [[GitHub] sb2nov / mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on Mac OS X
 
-* [OpenRA](http://www.openra.net/) - is a project that recreates and modernizes the classic Command & Conquer real time strategy games. We have developed a flexible open source game engine (the OpenRA engine) that provides a common platform for rebuilding and reimagining classic 2D and 2.5D RTS games (the OpenRA mods).
+* [Setup a Mac Dev Machine From Scratch | Laracasts](https://laracasts.com/series/setup-a-mac-dev-machine-from-scratch)
 
-  * [[GitHub] OpenRA / OpenRA](https://github.com/OpenRA/OpenRA)
+* [SublimeText, iTerm, and Chrome setup | Damian Le Nouaille](http://www.damln.com/log/setup/)
 
-* [OpenEmu](http://openemu.org/) - Multiple Video Game System
+* [[Gist] millermedeiros / osx_setup.md](https://gist.github.com/millermedeiros/6615994) - Mac OS X Mountain Lion setup
+
+* [[Gist] zenorocha / osx-setup.md](https://gist.github.com/zenorocha/7159780) - Setup Mac OS X Mavericks (10.9)
 
 
-## UNIX
+### Fontes
+
+* [Web Font Generator for Mac OSX | FontPrep](http://fontprep.com/)
+
+  * [[GitHub] briangonzalez / fontprep](https://github.com/briangonzalez/fontprep) - The missing font generator for Mac OSX
+
+
+### Colors
+
+* [LSCOLORS Generator | Geoff Greer](http://geoff.greer.fm/lscolors/) - terminal `export LSCOLORS=GxFxCxDxBxegedabagaced`
+
+* [[GitHub] hukl / Smyck-Color-Scheme](https://github.com/hukl/Smyck-Color-Scheme) - Color Scheme for Terminal.app, iTerm2, Vim, MacVim, Sublime Text2 and Textmate
+
+
+### dotFiles
+
+* [[GitHub] webpro / awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+
+--
+
+* [dotfiles.github.io](http://dotfiles.github.io/)
+
+* [[GitHub] mathiasbynens / dotfiles](https://github.com/mathiasbynens/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X
+
+* [[GitHub] paulirish / dotfiles](https://github.com/paulirish/dotfiles)
+
+* [[GitHub] addyosmani / dotfiles](https://github.com/addyosmani/dotfiles)
+
+* [[GitHub] zenorocha / dotfiles](https://github.com/zenorocha/dotfiles) - OS X dotfiles
+
+* [[GitHub] davidsonfellipe / dotfiles](https://github.com/davidsonfellipe/dotfiles) - OS X dotfiles
+
+* [[GitHub] luanmuniz / dotfiles](https://github.com/luanmuniz/dotfiles) - Script de configuração de workspace
+
+* [[GitHub] holman / dotfiles](https://github.com/holman/dotfiles)
+
+--
+
+* [[GitHub] alrra / dotfiles](https://github.com/alrra/dotfiles) - OS X / Ubuntu dotfiles
+
+--
+
+* [[GitHub] eduardolundgren / dotfiles](https://github.com/eduardolundgren/dotfiles) - The first JavaScript-based dotfiles powered by Grunt
+
+
+## Desenvolvimento
+
+* [Make your app extensible with JavaScript Core | iOS App Development - Medium](https://medium.com/ios-os-x-development/make-your-app-extensible-with-javascript-core-7074061f2b05)
+
+
+### UNIX
 
 * [VIM Adventures](http://vim-adventures.com/) - is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
 
 * [Desvendando o editor Vim | Blog Caelum](http://blog.caelum.com.br/desvendando-o-editor-vim/)
+
 
 ### Shell
 
@@ -289,47 +271,44 @@
 * [[GitHub] alexanderepstein / Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 
 
-## Desenvolvimento
+### AWS
 
-* [Make your app extensible with JavaScript Core | iOS App Development - Medium](https://medium.com/ios-os-x-development/make-your-app-extensible-with-javascript-core-7074061f2b05)
+* [[GitHub] kwent / aws-launcher](https://github.com/kwent/aws-launcher) - AWS Launcher. Launch AWS Services from your macOS dock.
 
 
-* AWS
-
-  * [[GitHub] kwent / aws-launcher](https://github.com/kwent/aws-launcher) - AWS Launcher. Launch AWS Services from your macOS dock.
-
+### Swift
 
 * [Swift](https://developer.apple.com/swift/)
 
-  * [Swift Blog | Apple Developer](https://developer.apple.com/swift/blog/)
+* [Swift Blog | Apple Developer](https://developer.apple.com/swift/blog/)
 
-  * [The Swift Programming Language - Book | iTunes](https://itunes.apple.com/br/book/swift-programming-language/id881256329)
+* [The Swift Programming Language - Book | iTunes](https://itunes.apple.com/br/book/swift-programming-language/id881256329)
 
-  * [Swift Cheat Sheet and Quick Reference | Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
+* [Swift Cheat Sheet and Quick Reference | Ray Wenderlich](http://www.raywenderlich.com/73967/swift-cheat-sheet-and-quick-reference)
 
-  * [[GitHub] fullstackio / FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at [fullstackedu.com](https://www.fullstackedu.com/)
-
-
-* Ruby
-
-  * [[GitHub] sstephenson / rbenv](https://github.com/sstephenson/rbenv) - Groom your app’s Ruby environment
+* [[GitHub] fullstackio / FlappySwift](https://github.com/fullstackio/FlappySwift) - swift implementation of flappy bird. More at [fullstackedu.com](https://www.fullstackedu.com/)
 
 
-* Java
+### Ruby
 
-  * [Java for OS X 2014-001 | Apple Support](http://support.apple.com/kb/DL1572)
+* [[GitHub] sstephenson / rbenv](https://github.com/sstephenson/rbenv) - Groom your app’s Ruby environment
 
-  * [JDK 7 Installation for Mac OS X | Oracle Documentation](http://docs.oracle.com/javase/7/docs/webnotes/install/mac/mac-jdk.html)
 
-  * [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
+### Java
 
-  * [How do I update Java for my Mac? | Java](https://www.java.com/en/download/help/mac_java_update.xml) - Java 7+
+* [Java for OS X 2014-001 | Apple Support](http://support.apple.com/kb/DL1572)
 
-  * [How to Set $JAVA_HOME environment variable on Mac OS X | mkyong.com](mkyong.com)
+* [JDK 7 Installation for Mac OS X | Oracle Documentation](http://docs.oracle.com/javase/7/docs/webnotes/install/mac/mac-jdk.html)
 
-  * [[GitHub] wonder-mice / mac-java-launcher](https://github.com/wonder-mice/mac-java-launcher) - Launcher for bundled java application on Mac OS
+* [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
 
-  * WebStorm 9.0.2
+* [How do I update Java for my Mac? | Java](https://www.java.com/en/download/help/mac_java_update.xml) - Java 7+
+
+* [How to Set $JAVA_HOME environment variable on Mac OS X | mkyong.com](mkyong.com)
+
+* [[GitHub] wonder-mice / mac-java-launcher](https://github.com/wonder-mice/mac-java-launcher) - Launcher for bundled java application on Mac OS
+
+* WebStorm 9.0.2
 
 ```
   > inicialmente pede pelo java 1.6
@@ -343,28 +322,82 @@
     substitui do 1.6* para 1.6+
 ```
 
-* Node.js
+### Node.js
 
-  * [[StackOverflow] NPM throws error without sudo](https://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
+* [[StackOverflow] NPM throws error without sudo](https://stackoverflow.com/questions/16151018/npm-throws-error-without-sudo)
 
-  * [[GitHub] creationix / nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
+* [[GitHub] creationix / nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
 
-  * [How to uninstall Node.js on Mac | Maxwhale.com](http://www.maxwhale.com/how-to-uninstall-node-js-on-mac/)
+* [How to uninstall Node.js on Mac | Maxwhale.com](http://www.maxwhale.com/how-to-uninstall-node-js-on-mac/)
 
-  * [[gist] Mac OS X uninstall script for packaged install of node.js](https://gist.github.com/nicerobot/2697848)
-
-
-* JavaScript
-
-  * [[GitHub] dtinth / JXA-Cookbook](https://github.com/dtinth/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
+* [[gist] Mac OS X uninstall script for packaged install of node.js](https://gist.github.com/nicerobot/2697848)
 
 
-* SQL
+### JavaScript
 
-  * [[GitHub] sequelpro / sequelpro](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X
+* [[GitHub] dtinth / JXA-Cookbook](https://github.com/dtinth/JXA-Cookbook) - Cookbook for JavaScript for Automation in Mac OS X Yosemite
 
-  * [SQuirreL SQL Client](http://squirrel-sql.sourceforge.net/) - It is Java / JDBC and supports a very wide range of SQL backends. It is also plugin-based and has a surprising number of plugins.
 
-  * [RazorSQL - Query, Edit, Browse, and Manage Databases](http://www.razorsql.com/) - has been tested on over 30 databases, can connect to databases via either JDBC or ODBC.
+### SQL
 
-  * [GUI Tools for PostgreSQL on the Mac](http://postgresapp.com/documentation/gui-tools.html)
+* [[GitHub] sequelpro / sequelpro](https://github.com/sequelpro/sequelpro) - MySQL database management for Mac OS X
+
+* [SQuirreL SQL Client](http://squirrel-sql.sourceforge.net/) - It is Java / JDBC and supports a very wide range of SQL backends. It is also plugin-based and has a surprising number of plugins.
+
+* [RazorSQL - Query, Edit, Browse, and Manage Databases](http://www.razorsql.com/) - has been tested on over 30 databases, can connect to databases via either JDBC or ODBC.
+
+* [GUI Tools for PostgreSQL on the Mac](http://postgresapp.com/documentation/gui-tools.html)
+
+
+## Hardware
+
+### mackbook pro 2015
+
+#### HDD para SSD
+
+>
+> Dica: antes de iniciar a instalação do SO, formate o SSD no padrão: `Mac OS Extended (Journaled)`
+>
+> Lembre-se: crie um nome, por exemplo: `Macintosh SSD`
+>
+
+* [Dobre a performance do seu Mac fazendo um upgrade de SSD | MacMagazine](http://macmagazine.com.br/2014/09/06/dobre-a-performance-do-seu-mac-fazendo-um-upgrade-de-ssd/) - 2014/09/06
+
+
+#### Trocar o DVD por um segundo HD
+
+* [Unibody Laptop Dual Drive | iFixit](https://www.ifixit.com/Store/Mac/Unibody-Laptop-Dual-Drive/IF107-080)
+
+* [[YouTube] Mac Book Pro - Second Hard Drive Install Tutorial DIY](https://www.youtube.com/watch?v=dSwIoSnz7aY) - In this video we take out the Optical hard drive in my macbook pro (2011 Coire i5) And Replace it with a 1 TB hard drive. We do this by adding a caddie in place of the optical Hard drive. [2013/08/01]
+
+  * [Universal Macbook Hard drive Caddie | Amazon](http://amzn.com/B004FM4UGE)
+
+
+### mackbook pro setup 2017
+
+* [[YouTube] Ultimate Macbook Pro 5K Dual Monitor Desk Setup Tour (2017) | Danny Winget
+](https://www.youtube.com/watch?v=HhHoJ6NwOAc) - 2017/08/18
+
+* [[YouTube] FutureProof MacBook Pro Setup 2017 - USB-C Heaven! | TeQreation](https://www.youtube.com/watch?v=8FPUlPJtL9s) - 2017/07/28
+
+* [[YouTube] My Ultimate MacBook Pro Setup 2017! | UrAvgConsumer](https://www.youtube.com/watch?v=Jn20LcQ9Qco) - 2017/07/27
+
+
+## OS
+
+### Mavericks
+
+* [Everything You Need to Know About OS X Mavericks | Mac.AppStorm](http://mac.appstorm.net/reviews/os-x-reviews/everything-you-need-to-know-about-os-x-mavericks/)
+
+* [Command Line Tools on OSX Mavericks | Marcos Junior](http://webmarcos.net/2013/11/20/command-line-tools-on-osx-mavericks/)
+
+* [Como criar um pendrive de instalação do OS X Mavericks | Meio Bit](http://meiobit.com/270071/como-instalar-os-x-mavericks-atraves-do-pendrive-usb/)
+
+* [How to Create an OS X Mavericks USB Installation Drive | Lifehacker](http://lifehacker.com/how-to-create-an-os-x-mavericks-usb-installation-drive-1450280026)
+
+
+### El Capitan
+
+* [How to Burn OS X El Capitan to a USB Flash Drive | Lifehacker](http://lifehacker.com/how-to-burn-os-x-el-capitan-to-a-usb-flash-drive-1733425133) - 2015/09/30
+
+  * [PSA: An Expired Certificate Means You'll Need to Remake Any OS X USB Boot Drives | Lifehacker](http://lifehacker.com/psa-an-expired-certificate-means-youll-need-to-remake-1762704972)
