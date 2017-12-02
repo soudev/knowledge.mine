@@ -588,6 +588,12 @@
 
 --
 
+* Router
+
+  * [All About React Router 4 | CSS-Tricks](https://css-tricks.com/react-router-4/) - 2017/08/07
+
+--
+
 * [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
 
   * [Redux Examples](https://react.rocks/tag/Redux)
