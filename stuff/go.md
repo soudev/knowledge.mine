@@ -102,6 +102,8 @@
 
 * [[GitHub] kataras / iris](https://github.com/kataras/iris) - The fastest web framework for Go in (THIS) earth
 
+* [[GitHub] manifoldco / promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
+
 * [[GitHub] gizak / termui](https://github.com/gizak/termui) - Golang terminal dashboard
 
 * [[GitHub] caarlos0 / ports](https://github.com/caarlos0/ports) - Easily see what's happening on your computer's ports
