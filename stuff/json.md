@@ -183,6 +183,10 @@
 
 * [[GitHub] typicode / json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
+  * [integrate json-server with express server](https://github.com/typicode/json-server/issues/253)
+
+  * [Create A REST API With JSON Server | CodingTheSmartWay.com Blog – Medium](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) - 2017/02/26
+
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - A fake online REST API for testing and prototyping
 
 --
