@@ -504,6 +504,12 @@
 
 * [[YouTube] Zero to Hero with React js | TechKeka](https://www.youtube.com/watch?v=-40p_dZccPg) - 2016/10/28
 
+* egghead.io
+
+  * [The Beginner's Guide to ReactJS - Course by @kentcdodds | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
+
+  * [Advanced React Component Patterns - Course by @kentcdodds | egghead.io](https://egghead.io/courses/advanced-react-component-patterns)
+
 --
 
 * [Novidades do React 16 | Willian Justen](https://willianjusten.com.br/novidades-do-react-16/) - 2017/09/28
