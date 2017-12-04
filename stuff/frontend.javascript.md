@@ -2411,6 +2411,8 @@
 
 * [[Gist] ES6 cheat sheet, with very tasty examples](https://gist.github.com/mwitek/aa37e47b2546f994e387)
 
+* [[GitHub] wesbos / es6-articles](https://github.com/wesbos/es6-articles) - Blog Posts from Wes Bos. If you make an edit to one of these posts, my blog will automatically update.
+
 --
 
 * [[GitHub] addyosmani / es6-tools](https://github.com/addyosmani/es6-tools) - An aggregation of tooling for using ES6 today
