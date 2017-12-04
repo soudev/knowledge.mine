@@ -25,3 +25,9 @@
 * [[GitHub] keithwhor / nodal](https://github.com/keithwhor/nodal/) - Web Servers Made Easy With Node.js
 
   * [Nodal – GraphQL Playground](http://graphql.nodaljs.com/)
+
+--
+
+* [[GitHub org] The GraphQL Guide](https://github.com/GraphQLGuide)
+
+  * [[GitHub] GraphQLGuide / graphql-rest-api-demo](https://github.com/GraphQLGuide/graphql-rest-api-demo) - A demo of what an equivalent REST API and GraphQL interface look like.
