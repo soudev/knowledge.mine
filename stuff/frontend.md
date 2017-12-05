@@ -238,6 +238,8 @@
 
 * [Super semantic multicolor font icons in pure CSS | Pixelambacht](http://pixelambacht.nl/2014/multicolor-icons/)
 
+* [[GitHub] edent / SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+
 
 ### FavIcon
 
