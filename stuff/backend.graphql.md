@@ -6,7 +6,11 @@
 
 * [So what’s this GraphQL thing I keep hearing about? | freeCodeCamp](https://medium.freecodecamp.com/so-whats-this-graphql-thing-i-keep-hearing-about-baf4d36c20cf) - 2017/04/11
 
+--
+
 * [[GitHub] howtographql / howtographql](https://github.com/howtographql/howtographql) - is a fullstack tutorial website to learn all about GraphQL
+
+* [GraphQL vs. REST - A GraphQL Tutorial | Toptal](https://www.toptal.com/api-development/graphql-vs-rest-tutorial)
 
 --
 
