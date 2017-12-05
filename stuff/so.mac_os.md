@@ -153,6 +153,10 @@
 
 * [OpenEmu](http://openemu.org/) - Multiple Video Game System
 
+--
+
+* [Descent Game | GameNostalgia](http://gamesnostalgia.com/en/game/descent) - is a 3D sci-fi first-person shooter notable for the six axis movement, developed by Parallax Software and released by Interplay in 1995.
+
 
 ## Audio e Vídeo
 
