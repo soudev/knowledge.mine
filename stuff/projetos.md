@@ -79,6 +79,8 @@
 
   * [The ultimate guide to doing anything in Slack | The Next Web](http://thenextweb.com/insider/2015/08/11/the-ultimate-guide-to-doing-anything-in-slack/)
 
+  * [Team O'clock for Slack](https://www.teamoclock.com/slack) - `/planpoker`
+
 * [HipChat](https://www.hipchat.com/) - Private group chat, video chat, instant messaging for teams
 
 * [overv.io](https://overv.io/) - Your GitHub projects. Organized.
