@@ -540,6 +540,10 @@
 
 ### Codificação
 
+* [Hour of Code](https://hourofcode.com/)
+
+--
+
 > * [Coisas Que Eu Gostaria Que Alguém Tivesse Me Dito Quando Eu Estava Aprendendo a Programar | Julio Cesar Fausto](http://jcfausto.com/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar/)
 >
 >   * [Things I Wish Someone Had Told Me When I Was Learning How to Code | Medium by @cecilycarver](https://medium.com/@cecilycarver/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329)
@@ -623,9 +627,7 @@ Share with others around the world
 
   * [[YouTube] What Most Schools Don't Teach | Code.org](https://www.youtube.com/watch?v=nKIu9yen5nc)
 
-* [Computer programming | Khan Academy](https://www.khanacademy.org/computing/cs)
-
-  * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/cs/programming)
+* [Computing | Khan Academy](https://www.khanacademy.org/computing)
 
 * [Google Computer Science Education](https://www.google.com/edu/cs/)
 
