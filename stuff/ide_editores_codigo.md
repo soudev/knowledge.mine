@@ -200,6 +200,8 @@
 
 --
 
+* [[GitHub] Microsoft / vscode-java-debug](https://github.com/Microsoft/vscode-java-debug) - Java Debugger for Visual Studio Code
+
 * [[GitHug] Microsoft / vscode-spell-check](https://github.com/Microsoft/vscode-spell-check) - An extension to VSCode for spell and grammar checking
 
 * [[GitHub] foxundermoon / vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript format extension
