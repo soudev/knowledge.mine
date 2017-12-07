@@ -169,6 +169,16 @@
 
 * [#014 – Trabalhando no Exterior (Parte 2 de 2) | PODebug](http://www.podebug.com/2016/01/014-trabalhando-no-exterior-parte-2-de-2/) - 2016/01/27
 
+--
+
+* [[Google Apresentação] Como faz para trabalhar fora? - Geisy Domiciano](https://docs.google.com/presentation/d/1MJWHifxKRMIHlaR8Vh9Lj7rJbyiZLV69i7YpHyZkxW8)
+
+--
+
+* [HackerRank](https://www.hackerrank.com/) - Practice coding. Compete. Find jobs.
+
+* [[GitHub] h5bp / Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
 
 ## Trabalho remoto
 
