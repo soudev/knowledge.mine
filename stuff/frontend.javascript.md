@@ -196,6 +196,10 @@
 
 --
 
+* [So, you learned JavaScript – what now? | Christian Heilmann](https://christianheilmann.com/2017/12/05/so-you-learned-javascript-what-now/) - 2017/12/05
+
+--
+
 * [JavaScript Data Types Explained | codeburst](https://codeburst.io/javascript-data-types-explained-347555cd2d4d) - 2017/09/11
 
 * [Para que serve o "use strict" em JavaScript?](http://caioproiete.net/pt/para-que-serve-o-use-strict-em-javascript/)
