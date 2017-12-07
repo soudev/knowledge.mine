@@ -51,6 +51,8 @@
 
 * [StackBlitz](https://stackblitz.com/)
 
+  * [[GitHub] stackblitz / core](https://github.com/stackblitz/core) - Online VS Code IDE for Angular & React
+
   * [StackBlitz — Online VS Code IDE for Angular & React | Medium by @ericsimons](https://medium.com/@ericsimons/stackblitz-online-vs-code-ide-for-angular-react-7d09348497f4) - 2017/08/02
 
 --
