@@ -454,6 +454,8 @@
 
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals) - If you're new to React.js, there's no better place to learn React.js and the React ecosystem than with this React.js fundamentals course
 
+* [Everything You Should Know About React: The Basics You Need to Start Building | freeCodeCamp](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4) - 2017/11/12
+
 * [20 Things You Must Learn Before Writing Your First React App | Medium by @jdan](https://medium.com/@jdan/20-things-you-must-learn-before-writing-your-first-react-app-c9cc08246ec7) - 2016/11/17
 
 * [Fullstack React: 30 Days of React](https://www.fullstackreact.com/30-days-of-react/) - 2017/01/13
@@ -556,7 +558,17 @@
 
 --
 
+* [How to greatly improve your React app performance | MyHeritage Engineering – Medium](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6) - 2017/11/21
+
 * [45% Faster React Functional Components, Now | Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) - 2017/05/03
+
+* [Tips to optimise rendering of a set of elements in React | Medium by @lavrton](https://blog.lavrton.com/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae) - (2016/05/11) There is a guide to increase React performance. The advanced tip will increase speed by 20 times.
+
+--
+
+* [Using a React 16 Portal to do something cool | Hackernoon](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202) - 2017/11/07
+
+* [Usando os portais do React para criar modais mais práticos | CodePrestige - Medium](https://medium.com/code-prestige/usando-os-portais-do-react-para-criar-modais-mais-pr%C3%A1ticos-fe1db6ab68f2) - 2017/11/22
 
 --
 
