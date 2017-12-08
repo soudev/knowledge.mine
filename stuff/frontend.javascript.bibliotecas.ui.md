@@ -538,6 +538,8 @@
 
 --
 
+* [Clean Code vs. Dirty Code: React Best Practices | American Express Engineering Blog](http://americanexpress.io/clean-code-dirty-code/) - 2017/11/16
+
 * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 
 * [One Mixin to rule them all | Front-end Development — Medium](https://medium.com/front-end-development-2/3885aadb3c1a)
