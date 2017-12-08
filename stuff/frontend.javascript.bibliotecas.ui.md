@@ -504,7 +504,7 @@
 
 * [[YouTube] Zero to Hero with React js | TechKeka](https://www.youtube.com/watch?v=-40p_dZccPg) - 2016/10/28
 
-* egghead.io
+* [Learn React Fundamentals and Advanced Patterns | @kentcdodds](https://blog.kentcdodds.com/learn-react-fundamentals-and-advanced-patterns-eac90341c9db) - 2017/12/04
 
   * [The Beginner's Guide to ReactJS - Course by @kentcdodds | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 
