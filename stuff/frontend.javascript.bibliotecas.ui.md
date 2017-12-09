@@ -616,6 +616,8 @@
 
 * [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
 
+  * [How Redux can make you a better developer | COBE](https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec) - 2017/11/08
+
   * [Redux Examples](https://react.rocks/tag/Redux)
 
   * [[GitHub] markerikson / react-redux-links](https://github.com/markerikson/react-redux-links) - Curated tutorial and resource links I've collected on React, Redux, ES6, and more
