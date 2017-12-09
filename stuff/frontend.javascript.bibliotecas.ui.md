@@ -518,6 +518,10 @@
 
 --
 
+* [[GitHub] react-cosmos / react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
+
+--
+
 * [[Gist] sebmarkbage / ElementFactoriesAndJSX.md](https://gist.github.com/sebmarkbage/d7bce729f38730399d28#comment-1377720) - New React Element Factories and JSX
 
 * [[GitHub] reactjs / react-future](https://github.com/reactjs/react-future) - Specs & docs for potential future and experimental React APIs and JavaScript syntax.
@@ -682,6 +686,10 @@
 * [[GitHub] Chrisui / react-hotkeys](https://github.com/Chrisui/react-hotkeys) - Declarative hotkey and focus area management for React
 
 * [[GitHub] gilbarbara / react-joyride](https://github.com/gilbarbara/react-joyride) - Create walkthroughs and guided tours for your ReactJS apps.
+
+--
+
+* [[GitHub] raphamorim / react-tv](https://github.com/raphamorim/react-tv) - React development for TVs (Renderer for low memory applications and Packager for TVs)
 
 --
 
