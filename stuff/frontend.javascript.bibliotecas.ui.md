@@ -558,6 +558,8 @@
 
 --
 
+* [Debugging React performance with React 16 and Chrome Devtools | Building Calibre](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad) - 2017/11/27
+
 * [How to greatly improve your React app performance | MyHeritage Engineering – Medium](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6) - 2017/11/21
 
 * [45% Faster React Functional Components, Now | Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) - 2017/05/03
