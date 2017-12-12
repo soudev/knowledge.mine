@@ -669,6 +669,10 @@
 
 --
 
+* [[GitHub] zeit / next.js](https://github.com/zeit/next.js) - Framework for server-rendered or statically-exported React apps
+
+--
+
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
 
   * [[GitHub] brian3kb / tic_tac_reactjs](https://github.com/brian3kb/tic_tac_reactjs) - Simple tic tac toe game built with reactjs
