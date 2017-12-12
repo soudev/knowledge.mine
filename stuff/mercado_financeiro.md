@@ -844,6 +844,10 @@
 
 --
 
+* [[GitHub] nvrossett / guia-basico-de-como-evoluir-como-trader](https://github.com/nvrossett/guia-basico-de-como-evoluir-como-trader) - Basicamente tudo que você precisa saber é que existem algumas técnicas/conceitos de se operar no mercado, são sei se essa é de fato o termo correto, mas existem algumas formas de operar.
+
+--
+
 * [[YouTube] The Ultimate Investing Guide (For Beginners) | The Better Men Project](https://www.youtube.com/watch?v=5TMguibsd38) - 2017/10/30
 
 
