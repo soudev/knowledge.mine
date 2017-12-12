@@ -669,10 +669,6 @@
 
 --
 
-* [[GitHub] zeit / next.js](https://github.com/zeit/next.js) - Framework for server-rendered or statically-exported React apps
-
---
-
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
 
   * [[GitHub] brian3kb / tic_tac_reactjs](https://github.com/brian3kb/tic_tac_reactjs) - Simple tic tac toe game built with reactjs
@@ -742,6 +738,10 @@
 
 #### React starter kit
 
+* [Starter Kits | React](https://reactjs.org/community/starter-kits.html)
+
+--
+
 * [[GitHub] facebookincubator / create-react-app](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration.
 
   * [[GitHub] tuchk4 / awesome-create-react-app](https://github.com/tuchk4/awesome-create-react-app) - Awesome list of Create React App articles / tutorials / videos and FAQ
@@ -753,6 +753,10 @@
 * [[GitHub] timarney / react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 
   * [React / Create React App — But I don’t wanna Eject | Tim Arney - Medium](https://medium.com/@timarney/but-i-dont-wanna-eject-3e3da5826e39) - 2016/12/01
+
+--
+
+* [[GitHub] zeit / next.js](https://github.com/zeit/next.js) - Framework for server-rendered or statically-exported React apps
 
 --
 
