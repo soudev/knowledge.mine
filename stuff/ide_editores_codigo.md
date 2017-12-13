@@ -183,6 +183,10 @@
 
 * [[GitHub] viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources
 
+--
+
+* [[GitHub] rainglow / vscode](https://github.com/rainglow/vscode) - Eighty+ Color themes for Visual Studio Code.
+
 
 #### Visual Studio Code : extesions
 
