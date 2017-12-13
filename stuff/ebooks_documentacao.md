@@ -247,6 +247,10 @@
 
 --
 
+* [[YouTube] Educação para o Futuro | Atila Iamarino | TEDxUSP](https://www.youtube.com/watch?v=B_x8EccxJjU) - 2017/11/22
+
+--
+
 * [[YouTube] How To Learn Faster | AsapSCIENCE](https://www.youtube.com/watch?v=B9SptdjpJBQ) - 2017/09/28
 
 * [[YouTube] How To Learn Anything Faster - 5 Tips to Increase your Learning Speed (Feat. Project Better Self) | Practical Psychology](https://www.youtube.com/watch?v=rA2XHWM__yE) - 2017/09/20
