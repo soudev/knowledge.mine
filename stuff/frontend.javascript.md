@@ -1197,6 +1197,8 @@
 
 * [The Core Concepts | webpack learning academy](https://webpack.academy/p/the-core-concepts)
 
+* [Webpack: A Gentle Introduction to the Module Bundler |  Auth0](https://auth0.com/blog/webpack-a-gentle-introduction/) - (2017/12/05) Learn the basics of Webpack and how to configure it in your web application
+
 --
 
 * [Webpack — The Confusing Parts | Medium by @rajaraodv](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9) - 2016/04/10
