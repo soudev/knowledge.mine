@@ -2431,6 +2431,10 @@
 
 --
 
+* [A different way of understanding `this` in JavaScript | 2ality](http://2ality.com/2017/12/alternate-this.html) - 2017/12/06
+
+--
+
 * [es6rocks.com](http://es6rocks.com/) : new site dedicated to articles and talks about the next version of JavaScript
 
   * [ES6: Brincando com o novo Javascript | ES6 Rocks](http://es6rocks.com/pt-br/2014/11/es6-playing-with-the-new-javascript/)
