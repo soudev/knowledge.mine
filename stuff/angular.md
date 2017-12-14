@@ -36,6 +36,8 @@
 
 --
 
+* [Angular is easy | Cyrille Tuzi – Medium](https://medium.com/@cyrilletuzi/angular-is-easy-99797928e705) - 2017/12/11
+
 * [Angular 2: Why TypeScript? | vsavkin.com](https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8)
 
 * [[Slides] Desbravando AngularJS 2 e TypeScript by William Grasel](http://slides.com/williamgrasel/desbravando-angularjs-2-e-typescript)
