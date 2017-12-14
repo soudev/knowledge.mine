@@ -546,6 +546,8 @@
 
 * [[GitHub] jaredpalmer / awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
 
+* [Use a Render Prop! | componentDidBlog](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) - 2017/09/18
+
 --
 
 * [Clean Code vs. Dirty Code: React Best Practices | American Express Engineering Blog](http://americanexpress.io/clean-code-dirty-code/) - 2017/11/16
