@@ -282,6 +282,8 @@
 
 * [Imprevistos com libs de terceiros - C3.js | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/imprevistos-com-libs-de-terceiros-c3-js/) - 2016/07/29
 
+* [Vue.js Server-Side Rendering With Vue Router: Step-By-Step Guide | Vue.js  Developers](https://vuejsdevelopers.com/2017/12/11/vue-ssr-router/) - (2017/12/11) This tutorial goes through the steps of setting up a server-rendered multi-page app with Vue and Vue Router.
+
 --
 
 * [Our Guide To Learning Vue | CSS-Tricks](https://css-tricks.com/guides/vue/)
