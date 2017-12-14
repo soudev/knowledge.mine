@@ -428,6 +428,10 @@
 
 --
 
+* [[YouTube] Rat Race - A short film story | The SCRAMBLERS @eBIZ](https://www.youtube.com/watch?v=hlMAKpxN8N0) - 2017/11/30
+
+--
+
 * [[YouTube] Enriqueça com o seu parceiro(a) - Casais Inteligentes Enriquecem Juntos | Seja Uma Pessoa Melhor](https://www.youtube.com/watch?v=4KH6IfRnvDA) - 2016/08/03
 
 * [[YouTube] 5 dicas para os casais enriquecerem juntos - com Gustavo Cerbasi | Organize sem Frescuras!](https://www.youtube.com/watch?v=gQD0uKtbEp4) - 2017/08/06
@@ -510,6 +514,7 @@
   * [3 - Ganhar pouco não significa ser pobre!](https://www.youtube.com/watch?v=4mx17ZrIS6I)
 
   * [4 - Está atolado até o pescoço? Respire e saia da dívida](https://www.youtube.com/watch?v=CnRA9FXNp-E)
+
 
 ### Curiosidades
 
