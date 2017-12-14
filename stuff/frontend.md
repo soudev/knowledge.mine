@@ -187,6 +187,8 @@
 
 * [[GitHub] Rydgel / Fake-images-please](https://github.com/Rydgel/Fake-images-please) - [Fakeimg.pl](http://fakeimg.pl/) is a little tool that generates images with an URL. Choose the size, the colors, even the text. Oh… and it’s free
 
+* [placebeer](http://placebeer.com/) - Placeholder pictures - of beer!
+
 --
 
 * [Tools for image optimization | AddyOsmani.com](http://addyosmani.com/blog/image-optimization-tools/)
