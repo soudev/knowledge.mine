@@ -299,6 +299,12 @@
 
 ## Tips
 
+* [Experimento: Holding de R$1.000 divididos em 16 criptomoedas por 365 dias | Medium by @gabrielkruschewskymattosvaz](https://medium.com/@gabrielkruschewskymattosvaz/experimento-holding-de-r-1-000-divididos-em-16-criptomoedas-por-365-dias-cc5a2ca16af) - 2017/10/19
+
+* [8ª semana do Experimento: Holding de R$1.000 divididos em 16 criptomoedas por 365 dias | Medium by @gabrielkruschewskymattosvaz](https://medium.com/@gabrielkruschewskymattosvaz/8%C2%AA-semana-do-experimento-holding-de-r-1-000-divididos-em-16-criptomoedas-por-365-dias-9b3fbdde8bb2) - 2017/12/14
+
+--
+
 * TwoTon Hasher
 
   * [[YouTube] Two-Ton Mining Rig Tour](https://www.youtube.com/watch?v=4a2b96d2gxw) - 2017/06/17
