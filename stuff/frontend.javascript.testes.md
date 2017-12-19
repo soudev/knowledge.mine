@@ -177,6 +177,8 @@
 
 * [Automating Google Chrome with Node.js | Tutorialzine](https://tutorialzine.com/2017/08/automating-google-chrome-with-node-js) - 2017/08/31
 
+* [How GitLab switched to Headless Chrome for testing | GitLab](https://about.gitlab.com/2017/12/19/moving-to-headless-chrome/) - 2017/12/19
+
 --
 
 * [[GitHub] GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
