@@ -2000,6 +2000,12 @@ $ cd ~/
 $ sudo chown -R `whoami` .npm
 ```
 
+```bash
+# add on the bash_profile
+
+alias npmplease="rm -rf node_modules/ && rm -f package-lock.json && npm install"
+```
+
 --
 
 * [Meet The Face Behind NPM | Modulus Blog](http://blog.modulus.io/isaac-interview)
