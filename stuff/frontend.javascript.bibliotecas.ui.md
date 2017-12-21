@@ -855,6 +855,8 @@
 
 * [React: HotKeys, Google Maps, Dataminr's UI Components | DailyJS](http://dailyjs.com/2015/04/07/react-components/)
 
+* [[GitHub] danilowoz / create-react-content-loader](https://github.com/danilowoz/create-react-content-loader/) - Now you can use this tool to create your react-content-loader easily
+
 
 #### React Native
 
