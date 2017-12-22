@@ -87,6 +87,10 @@
 
 * [[SlidesShare] Using AWS to Build a Graph-Based Product Recommendation System (BDT303) | AWS re:Invent 2013](http://www.slideshare.net/AmazonWebServices/using-aws-to-build-a-graphbased-product-recommendation-system-bdt303-aws-reinvent-2013)
 
+--
+
+* [[GitHub] localstack / localstack](https://github.com/localstack/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+
 
 ## OpenStack
 
