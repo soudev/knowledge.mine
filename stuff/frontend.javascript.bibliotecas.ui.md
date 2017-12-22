@@ -574,6 +574,8 @@
 
 --
 
+* [[GitHub] amsul / react-performance](https://github.com/amsul/react-performance) - Helpers to debug and record component render performance
+
 * [Debugging React performance with React 16 and Chrome Devtools | Building Calibre](https://building.calibreapp.com/debugging-react-performance-with-react-16-and-chrome-devtools-c90698a522ad) - 2017/11/27
 
 * [How to greatly improve your React app performance | MyHeritage Engineering – Medium](https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6) - 2017/11/21
