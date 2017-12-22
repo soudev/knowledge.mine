@@ -512,6 +512,8 @@
 
   * [The Beginner's Guide to ReactJS - Course by @kentcdodds | egghead.io](https://egghead.io/courses/the-beginner-s-guide-to-reactjs)
 
+    * [[GitHub] aderaaij / notes-on-the-beginner-s-guide-to-reactjs](https://github.com/aderaaij/notes-on-the-beginner-s-guide-to-reactjs) - My notes on 'The beginners guide to ReactJS' on egghead.io
+
   * [Advanced React Component Patterns - Course by @kentcdodds | egghead.io](https://egghead.io/courses/advanced-react-component-patterns)
 
 --
