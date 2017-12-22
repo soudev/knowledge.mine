@@ -768,6 +768,8 @@
 
 --
 
+* [[GitHub] nozzle / react-static](https://github.com/nozzle/react-static) - A progressive static-site generator for React
+
 * [[GitHub] zeit / next.js](https://github.com/zeit/next.js) - Framework for server-rendered or statically-exported React apps
 
 --
