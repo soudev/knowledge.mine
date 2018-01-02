@@ -288,6 +288,8 @@
 
 * [Our Guide To Learning Vue | CSS-Tricks](https://css-tricks.com/guides/vue/)
 
+  * [[GitHub] sdras / intro-to-vue](https://github.com/sdras/intro-to-vue) - Workshop Materials for my Introduction to Vue.js Workshop
+
   * [Using Mixins in Vue.js | CSS-Tricks](https://css-tricks.com/using-mixins-vue-js/) - 2017/06/14
 
   * [Using Filters in Vue.js | CSS-Tricks](https://css-tricks.com/using-filters-vue-js/) - 2017/06/03
