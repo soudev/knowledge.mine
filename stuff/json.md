@@ -202,3 +202,5 @@
 * [[GitHub] wellsjo / JSON-Splora](https://github.com/wellsjo/JSON-Splora) - GUI for editing, visualizing, and manipulating JSON data
 
 * [[GitHub] SelectTransform / st.js](https://github.com/SelectTransform/st.js) - Bend JSON to your will
+
+* [[GitHub] dcodeIO / PSON](https://github.com/dcodeIO/PSON) - A super efficient binary serialization format for JSON
