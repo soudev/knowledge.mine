@@ -168,6 +168,8 @@
 
 * [[GitHub] kulshekhar / ts-jest](https://github.com/kulshekhar/ts-jest) - A preprocessor with sourcemap support to help use Typescript with Jest
 
+* [[GitHub] theoutlander / jest-dashboard](https://github.com/theoutlander/jest-dashboard) - Command Line Dashboard for Jest
+
 
 #### Headless Chrome
 
