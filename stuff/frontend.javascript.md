@@ -401,6 +401,10 @@
 
 --
 
+* [[GitHub] sdras / object-explorer](https://github.com/sdras/object-explorer) - A resource to help figure out what JavaScript object method would be best to use at any given time
+
+--
+
 * [Object-Oriented JavaScript - Presentation Slides](http://jordankasper.com/preso/oop-js)
 
 * [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
