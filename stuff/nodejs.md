@@ -1258,6 +1258,8 @@
 
   * [[GitHub] cdmedia / cms.js](https://github.com/cdmedia/cms.js) - The Javascript Site Generator
 
+* [[GitHub] netlify / netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators
+
 --
 
 * [[GitHub] gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
