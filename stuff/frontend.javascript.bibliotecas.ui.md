@@ -685,13 +685,15 @@
 
 --
 
+* [[GitHub] ruanyf / react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
+
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
 
   * [[GitHub] brian3kb / tic_tac_reactjs](https://github.com/brian3kb/tic_tac_reactjs) - Simple tic tac toe game built with reactjs
 
 * [[GitHub] andrewgleave / react-weather](https://github.com/andrewgleave/react-weather) - Example React weather app using forecast.io's API
 
-* [[GitHub] ruanyf / react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
+* [[GitHub] alexcurtis / react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable. 
 
 --
 
