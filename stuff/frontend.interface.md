@@ -22,6 +22,8 @@
 
   * [Usando Can i use na linha de comando | Anderson Menezes](https://andersonweb.github.io/blog/2015/07/01/usando-can-i-use-na-linha-de-comando.html)
 
+  * [[GitHub] Nyalab / caniuse-api](https://github.com/Nyalab/caniuse-api) - request the caniuse data to check browsers compatibilities
+
 * [Firefox Platform Status](https://platform-status.mozilla.org/) - provides an implementation and standardization roadmap for web platform features
 
 --
