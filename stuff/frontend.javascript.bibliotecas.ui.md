@@ -550,6 +550,8 @@
 
 --
 
+* [[GitHub] jaredpalmer / awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
+
 * [Use a Render Prop! | componentDidBlog](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) - 2017/09/18
 
 * [[GitHub] jaredpalmer / awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
@@ -693,7 +695,7 @@
 
 * [[GitHub] andrewgleave / react-weather](https://github.com/andrewgleave/react-weather) - Example React weather app using forecast.io's API
 
-* [[GitHub] alexcurtis / react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable. 
+* [[GitHub] alexcurtis / react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 
 --
 
