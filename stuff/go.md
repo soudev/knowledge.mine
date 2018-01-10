@@ -124,6 +124,10 @@
 
 --
 
+* [[GitHub] google / go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+
+--
+
 * [[GitHub] tj / node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, etc)
 
 --
