@@ -552,11 +552,13 @@
 
 * [[GitHub] jaredpalmer / awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
 
-* [Use a Render Prop! | componentDidBlog](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) - 2017/09/18
-
 * [[GitHub] jaredpalmer / awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
 
 * [[GitHub] jaredpalmer / react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
+
+* [Use a Render Prop! | componentDidBlog](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) - 2017/09/18
+
+* [Testing React components using render props | kentcdodds](https://blog.kentcdodds.com/testing-%EF%B8%8F-components-using-render-props-5623ab1814c) - 2018/01/08
 
 --
 
