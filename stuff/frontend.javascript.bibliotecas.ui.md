@@ -544,9 +544,13 @@
 
 * [Nixtu: How I Learned to Stop Worrying and Love React | Nixtu](http://www.nixtu.info/2014/07/how-i-learned-to-stop-worrying-and-love.html)
 
+* [The React Quick Start Guide | jackcallister.com](http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html) - (2015/01/05)
+
+--
+
 * [5 Practical Examples For Learning The React Framework | Tutorialzine](http://tutorialzine.com/2014/07/5-practical-examples-for-learning-facebooks-react-framework/)
 
-* [The React Quick Start Guide | jackcallister.com](http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html) - (2015/01/05)
+* [11 React Examples | The Practical Dev](https://dev.to/drminnaar/11-react-examples-2e6d) - 2018/01/01
 
 --
 
