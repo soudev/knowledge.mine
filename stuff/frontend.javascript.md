@@ -2634,6 +2634,8 @@
 
 * [Exploring EcmaScript Decorators | Google Developers – Medium](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841) - 2017/05/11
 
+* [Six Tiny But Awesome ES7 + ES8 Features | David Walsh Blog](https://davidwalsh.name/es7-es8-features) - 2018/01/07
+
 
 #### ECMAScript 8
 
