@@ -80,3 +80,5 @@
 * [[GitHub] jhalterman / modelmapper](https://github.com/jhalterman/modelmapper) - Intelligent object mapping
 
 * [[GitHub] jeddict / jeddict](https://github.com/jeddict/jeddict) - is an open source graphical tool that enhances productivity and simplifies development tasks of creating complex entity relationship models. Using it developers can create JPA class, visualize & modify Database and automates Java EE 8 code generation. The Jeddict provides forward & reverse engineering capabilities, import models from existing database, generate complex SQL/DDL and much more.
+
+* [[GitHub] oshi / oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
