@@ -1254,6 +1254,10 @@
 
   * [Fisco vai monitorar transações mensais acima de R$ 2 mil | Jornal O Globo](https://oglobo.globo.com/economia/fisco-vai-monitorar-transacoes-mensais-acima-de-2-mil-18595543) - 2016/02/03
 
+--
+
+* [Comunicação de saída, declaração de saída definitiva e como manter conta bancária no Brasil | Diário do casal 20](https://diariodocasal20.wordpress.com/2017/03/18/comunicacao-de-saida-declaracao-de-saida-definitiva-do-brasil-e-como-manter-conta-bancaria-no-brasil/) -  2017/03/18
+
 
 ## Economia
 
