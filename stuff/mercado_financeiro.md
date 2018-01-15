@@ -1257,6 +1257,10 @@
 
 ## Economia
 
+* [O salário mínimo](https://osalariominimo.com.br/)
+
+--
+
 * [[YouTube] A Curva de Laffer - Impostos Altos, Receita Baixa | Tradutores de Direita](https://www.youtube.com/watch?v=zxo_Ivy5RKw) - 2015/08/10
 
 * [[YouTube] Curva de Laffer: mais impostos só piora a situação | Instituto Montanari](https://www.youtube.com/watch?v=XBoqqO5igIQ) - 2016/02/29
