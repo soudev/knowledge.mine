@@ -2597,6 +2597,18 @@ describe('testing something...', function() {
 
 --
 
+* angular.js 1.5+
+
+  * [How to test Angular 1.5 components? | this.blog.name is undefined](https://puigcerber.com/2016/02/07/how-to-test-angular-1-5-components/) - 2016/02/07
+
+  * [Unit testing Angular 1.5 components - a detailed guide | velesin.io](https://velesin.io/2016/08/23/unit-testing-angular-1-5-components/) - 2016/08/23
+
+  * [Unit Testing Angular Components with $componentController | codelord.net](http://www.codelord.net/2017/01/09/unit-testing-angular-components-with-%24componentcontroller/) - 2017/01/09
+
+  * [Testing Components with $onChanges Using angular-stub-changes | codelord.net](http://www.codelord.net/2017/01/17/testing-components-with-%24onchanges-using-angular-stub-changes/) - 2017/01/17
+
+--
+
 * Try, Catch, Fail : AngularJS - Unit Testing
 
   * [Controllers](http://www.benlesh.com/2013/05/angularjs-unit-testing-controllers.html)
