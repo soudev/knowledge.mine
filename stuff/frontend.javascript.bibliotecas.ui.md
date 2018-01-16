@@ -642,6 +642,8 @@
 
   * [All About React Router 4 | CSS-Tricks](https://css-tricks.com/react-router-4/) - 2017/08/07
 
+  * [React Router v4: Philosophy and Introduction | tylermcginnis.com](https://tylermcginnis.com/react-router-philosophy-introduction/) - 2018/01/10
+
 --
 
 * [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
