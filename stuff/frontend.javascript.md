@@ -1337,6 +1337,10 @@
 
 --
 
+* [[GitHub] developit / workerize-loader](https://github.com/developit/workerize-loader) - Automatically move a module into a Web Worker (Webpack loader)
+
+--
+
 * [Browserify VS Webpack - JS Drama | Naman Goel](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
 
 
