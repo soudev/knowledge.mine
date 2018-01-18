@@ -520,6 +520,10 @@
 
 --
 
+* [Learn React.js from Top 45 Tutorials for the past year (v.2018) | Mybridge for Professionals](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4) - 2017/01/17
+
+--
+
 * [Novidades do React 16 | Willian Justen](https://willianjusten.com.br/novidades-do-react-16/) - 2017/09/28
 
 --
