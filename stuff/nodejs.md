@@ -737,6 +737,8 @@
 
 * [Node.js / V8 Garbage Collection & Memory Leak analysis](http://apmblog.dynatrace.com/2015/11/04/understanding-garbage-collection-and-hunting-memory-leaks-in-node-js/) - Using Garbage Collection & Memory Leaks to trace Node.js performance issues
 
+* [Monitoring the performance of a Node.js web application - Sqreen Blog | Modern Application Security](https://blog.sqreen.io/diy-node-apm/) - 2017/11/21
+
 
 #### Análise
 
