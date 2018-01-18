@@ -520,7 +520,7 @@
 
 --
 
-* [Learn React.js from Top 45 Tutorials for the past year (v.2018) | Mybridge for Professionals](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4) - 2017/01/17
+* [Learn React.js from Top 45 Tutorials for the past year (v.2018) | Mybridge for Professionals](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4) - 2018/01/17
 
 --
 
@@ -696,6 +696,10 @@
 * [reapp : Hybrid apps, fast](http://reapp.io/) - Make beautiful hybrid apps that feel great with React, Webpack and ES6
 
 * [Make your own React production version with webpack | Topheman JS](http://dev.topheman.com/make-your-react-production-minified-version-with-webpack/) - 2015/11/12
+
+--
+
+* [Essential React Libraries in 2018 | RWieruch](https://www.robinwieruch.de/essential-react-libraries-framework/) - 2018/01/11
 
 --
 
