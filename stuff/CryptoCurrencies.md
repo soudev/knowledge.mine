@@ -320,6 +320,8 @@
 
 * [[GitHub] lucianopf / bitwages](https://github.com/lucianopf/bitwages) - Project to calculate the conversion rate with or without fees receiving money from USD/BTC - Coinbase
 
+* [[GitHub] ManuCart / Cryptocurrency-Portfolio](https://github.com/ManuCart/Cryptocurrency-Portfolio) - Google Sheet's automatic creation with Google Apps Script (GAS) for a Cryptocurrency Portfolio
+
 
 ## Brasil
 
