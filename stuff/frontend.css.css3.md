@@ -69,6 +69,8 @@
 
 * [CSS Grid PlayGround - Terminology | Mozilla](https://mozilladevelopers.github.io/playground/)
 
+* [CSS Grid — Learn all about CSS Grid with Wes Bos in this free video series!](https://cssgrid.io/)
+
 --
 
 * [[YouTube] CSS Grid Changes Everything (About Web Layouts) - talk by Morten Rand-Hendriksen | freeCodeCamp Talks](https://www.youtube.com/watch?v=Qgyg-SRr-UQ) - 2017/11/07
