@@ -666,6 +666,8 @@
 
   * [[YouTube playlist] Redux Tutorials | LearnCode.academy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 
+  * [[GitHub] redux-offline / redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
+
 
 --
 
