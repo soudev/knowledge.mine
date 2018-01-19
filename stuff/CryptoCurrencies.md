@@ -132,6 +132,8 @@
 
 * [Ethereum : Decentralized Application Design & Development | Udemy](https://www.udemy.com/ethereum-dapp/) - Develop a full blown DAPP in next 2 weeks. You will learn Geth, Web3, Truffle, TestRPC, MetaMask, Wallets, Solidity +++
 
+* [Ethereum and Solidity: The Complete Developer's Guide | Udemy](https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/) - Use Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain
+
 
 ## Wallets
 
