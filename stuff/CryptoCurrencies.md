@@ -336,6 +336,8 @@
 
 * [[GitHub] miti0 / mosquito](https://github.com/miti0/mosquito) - Trading Bot with focus on Evolutionary Algorithms and Machine Learning
 
+* [[GitHub] DeviaVir / zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB
+
 
 ## Brasil
 
