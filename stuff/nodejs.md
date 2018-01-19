@@ -1262,6 +1262,8 @@
 
 * [[GitHub] netlify / netlify-cms](https://github.com/netlify/netlify-cms) - A CMS for Static Site Generators
 
+  * [Using Preact with Storybook 3 | Netlify](view-source:https://www.netlify.com/blog/2018/01/17/using-preact-with-storybook-3/) - (2018/01/17) Storybook is built for React, so if you're using Preact you'll need to do a bit of configuration to get it going. This tutorial will help you get up and running with Storybook 3 and Preact
+
 --
 
 * [[GitHub] gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
