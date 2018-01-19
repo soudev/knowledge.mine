@@ -1550,6 +1550,10 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [[GitHub] ionic-team / ionic-pwa-toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Ionic recommended solution for building lightning fast PWAs with 0 config and best practices built in. Go from 0 to production ready PWA with Ionic and Stencil.
+
+--
+
 * [[GitHub] IonicBrazil / guia-do-desenvolvedor](https://github.com/IonicBrazil/guia-do-desenvolvedor) - Guia do Desenvolvedor Ionic
 
 * [[YouTube] Ionic Adventures Pilot](https://www.youtube.com/watch?v=hqaFjSFjIuQ) - 2015/05/13
