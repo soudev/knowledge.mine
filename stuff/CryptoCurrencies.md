@@ -326,6 +326,8 @@
 
 * [[GitHub] philipperemy / deep-learning-bitcoin](https://github.com/philipperemy/deep-learning-bitcoin) - Exploiting Bitcoin prices patterns with Deep Learning
 
+* [[GitHub] llens / CryptoCurrencyTrader](https://github.com/llens/CryptoCurrencyTrader) - A machine learning program in python to generate cryptocurrency trading strategies using machine and deep learning on price, hash rate and scraped forum sentiment data (using natural language processing). Sklearn and Tensorflow.
+
 
 ## Brasil
 
