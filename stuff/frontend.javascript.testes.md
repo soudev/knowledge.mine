@@ -183,6 +183,10 @@
 
 --
 
+* [[GitHub] paulirish / headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
+
+--
+
 * [[GitHub] GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 
 
