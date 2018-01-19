@@ -324,6 +324,8 @@
 
 * [[GitHub] bichenkk / coinmon](https://github.com/bichenkk/coinmon) - The cryptocurrency price tool on CLI
 
+* [[GitHub] philipperemy / deep-learning-bitcoin](https://github.com/philipperemy/deep-learning-bitcoin) - Exploiting Bitcoin prices patterns with Deep Learning
+
 
 ## Brasil
 
