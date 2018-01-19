@@ -648,6 +648,8 @@
 
   * [React Router v4: Philosophy and Introduction | tylermcginnis.com](https://tylermcginnis.com/react-router-philosophy-introduction/) - 2018/01/10
 
+  * [Handling 404 pages (catch all routes) with React Router v4 | tylermcginnis.com](https://tylermcginnis.com/react-router-handling-404-pages/) - 2018/01/18
+
 --
 
 * [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
