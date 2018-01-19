@@ -322,6 +322,8 @@
 
 * [[GitHub] ManuCart / Cryptocurrency-Portfolio](https://github.com/ManuCart/Cryptocurrency-Portfolio) - Google Sheet's automatic creation with Google Apps Script (GAS) for a Cryptocurrency Portfolio
 
+* [[GitHub] bichenkk / coinmon](https://github.com/bichenkk/coinmon) - The cryptocurrency price tool on CLI
+
 
 ## Brasil
 
