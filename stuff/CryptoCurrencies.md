@@ -320,13 +320,21 @@
 
 * [[GitHub] lucianopf / bitwages](https://github.com/lucianopf/bitwages) - Project to calculate the conversion rate with or without fees receiving money from USD/BTC - Coinbase
 
+--
+
 * [[GitHub] ManuCart / Cryptocurrency-Portfolio](https://github.com/ManuCart/Cryptocurrency-Portfolio) - Google Sheet's automatic creation with Google Apps Script (GAS) for a Cryptocurrency Portfolio
 
 * [[GitHub] bichenkk / coinmon](https://github.com/bichenkk/coinmon) - The cryptocurrency price tool on CLI
 
+--
+
 * [[GitHub] philipperemy / deep-learning-bitcoin](https://github.com/philipperemy/deep-learning-bitcoin) - Exploiting Bitcoin prices patterns with Deep Learning
 
 * [[GitHub] llens / CryptoCurrencyTrader](https://github.com/llens/CryptoCurrencyTrader) - A machine learning program in python to generate cryptocurrency trading strategies using machine and deep learning on price, hash rate and scraped forum sentiment data (using natural language processing). Sklearn and Tensorflow.
+
+--
+
+* [[GitHub] miti0 / mosquito](https://github.com/miti0/mosquito) - Trading Bot with focus on Evolutionary Algorithms and Machine Learning
 
 
 ## Brasil
