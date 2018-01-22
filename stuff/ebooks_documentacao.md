@@ -247,6 +247,8 @@
 
 --
 
+* [[YouTube] Eduque-se apesar da escola | Geração de Valor](https://www.youtube.com/watch?v=PHJezR_oRpM) - 2017/12/27
+
 * [[YouTube] Educação para o Futuro | Atila Iamarino | TEDxUSP](https://www.youtube.com/watch?v=B_x8EccxJjU) - 2017/11/22
 
 --
