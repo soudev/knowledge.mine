@@ -87,10 +87,6 @@
 
 --
 
-* [[YouTube] Imagine que você tenha um salário de 10 mil reais/mês | Geração do Valor](https://www.youtube.com/watch?v=BrB_Wg5cvyU) - 2017/12/16
-
---
-
 * [Como viver de renda? Conheça esse plano de 3 simples passos | Clube do Valor](https://clubedovalor.com.br/como-viver-de-renda/) - 2017/11/02
 
 --
@@ -102,6 +98,14 @@
 * [[YouTube] Secrets Of A Millionaire Mind - How Rich People Think](https://www.youtube.com/watch?v=XlYSp-RqqrI)
 
 * [[YouTube] How to Develop a Millionaire Mindset | Jack Canfield](https://www.youtube.com/watch?v=iRXQvJeCWeU) - 2016/08/11
+
+--
+
+* [[YouTube] Imagine que você tenha um salário de 10 mil reais/mês | Geração do Valor](https://www.youtube.com/watch?v=BrB_Wg5cvyU) - 2017/12/16
+
+--
+
+* [[YouTube] NÃO compre um IMÓVEL! | Júlia Mendonça](https://www.youtube.com/watch?v=SqUHSX_A8Tk) - 2017/12/07
 
 
 ### Sites e Blogs
