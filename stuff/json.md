@@ -204,3 +204,5 @@
 * [[GitHub] SelectTransform / st.js](https://github.com/SelectTransform/st.js) - Bend JSON to your will
 
 * [[GitHub] dcodeIO / PSON](https://github.com/dcodeIO/PSON) - A super efficient binary serialization format for JSON
+
+* [[GitHub] skerit / json-dry](https://github.com/skerit/json-dry) - JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
