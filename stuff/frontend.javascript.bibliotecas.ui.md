@@ -644,6 +644,8 @@
 
 * [Publishing your first React component on NPM | Cameron Nokes](http://cameronnokes.com/blog/publishing-your-first-react-component-on-npm) - 2015/07/16
 
+* [A Guide to Building a React Component for npm | DailyJS – Medium](https://medium.com/dailyjs/a-guide-to-building-a-react-component-for-npm-68f03b314753) - 2018/01/09
+
 --
 
 * Router
