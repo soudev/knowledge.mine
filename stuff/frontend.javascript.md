@@ -1325,6 +1325,8 @@
 
   * [[YouTube] Redfin Tech Talk: How to Improve Webpack Performance in Large Projects | Redfin](https://www.youtube.com/watch?v=AifDI71uqF0) - 2017/08/30
 
+* [Keep webpack Fast: A Field Guide for Better Build Performance | Several People Are Coding - Medium](https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1) - 2018/01/17
+
 --
 
 * [[GitHub] geowarin / friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) - Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them to provide a better Developer Experience
