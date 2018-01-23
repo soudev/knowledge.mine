@@ -310,6 +310,8 @@
 
 * [How to use SVG as a Placeholder, and Other Image Loading Techniques | freeCodeCamp](https://medium.freecodecamp.org/using-svg-as-placeholders-more-image-loading-techniques-bed1b810ab2c) - 2017/10/30
 
+* [Using CSS Clip Path to Create Interactive Effects | CSS-Tricks](https://css-tricks.com/using-css-clip-path-create-interactive-effects/) - 2018/01/22
+
 --
 
 * [Love Generating SVG With JavaScript? Move It To The Server! | Smashing Magazine](http://www.smashingmagazine.com/2014/05/26/love-generating-svg-javascript-move-to-server/)
