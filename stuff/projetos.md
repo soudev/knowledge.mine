@@ -121,6 +121,8 @@
 
 * [Planning A Front-end JavaScript Application | Telerik Developer Network](http://developer.telerik.com/featured/planning-front-end-javascript-application/)
 
+* [[GitHub] wearehive / project-guidelines](https://github.com/wearehive/project-guidelines) - A set of best practices for JavaScript projects
+
 --
 
 * [Criando um media center com Raspberry Pi | Medium by @crp_underground](https://medium.com/@crp_underground/criando-um-media-center-com-raspberry-pi-7841917464c0)
