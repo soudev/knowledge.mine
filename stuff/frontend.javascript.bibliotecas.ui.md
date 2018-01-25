@@ -346,6 +346,8 @@
 
   * [[GitHub] robinvdvleuten / vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Persist Vuex state with localStorage
 
+  * [[YouTube] Front In Sampa 2017 - Fabio Vedovelli: Vue.js, Vuex, Single Source of Truth e aplicações reais](https://www.youtube.com/watch?v=A-ddJEfDiqA) - 2018/01/24
+
 * [Migrating A VueJS App To Vuex | Vue.js Developers – Medium](https://medium.com/js-dojo/migrating-a-vuejs-app-to-vuex-b1762bfd4cf1) - 2017/10/09
 
 * [Vuex e chamadas AJAX | Fábio Vedovelli – Medium](https://medium.com/@vedovelli/vuex-e-chamadas-ajax-c0a26c7585e9) - 2017/11/27
