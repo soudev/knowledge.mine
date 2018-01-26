@@ -340,6 +340,8 @@
 
 * [[GitHub] DeviaVir / zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB
 
+* [[GitHub] thrasher- / gocryptotrader](https://github.com/thrasher-/gocryptotrader) - A cryptocurrency trading bot supporting multiple exchanges written in Golang.
+
 
 ## Brasil
 
