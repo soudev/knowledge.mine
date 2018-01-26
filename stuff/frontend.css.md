@@ -300,6 +300,8 @@ rem - context is always based on root context (html or body)
 
 * [Free Flexbox Starter Course | Unraveling Flexbox](https://unravelingflexbox.com/subscribe) - With Unraveling Flexbox, you'll learn how to unlock the full potential of modern CSS to create responsive application layouts in hours, not days.
 
+* [Learn Flexbox for free | Scrimba.com](https://scrimba.com/g/gflexbox)
+
 * [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox
 
 * [Flexbox Defense](http://www.flexboxdefense.com/)
