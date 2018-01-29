@@ -51,6 +51,8 @@
 
 * [[YouTube] Bash on Ubuntu on Windows | Next Day Video](https://www.youtube.com/watch?v=7J-dRirlUvY) - 2016/11/17
 
+* [Emulando o Linux no Windows 10 | Daniel Pace Schmitz – Medium](https://medium.com/@DanielSchmitz/emulando-o-ubuntu-no-windows-10-9c667739e39b) - 2018/01/29
+
 
 ## Jogos
 
