@@ -84,6 +84,8 @@
 
 * [O que é e como funciona o blockchain, a tecnologia do bitcoin | Tecnoblog](https://tecnoblog.net/227293/como-funciona-blockchain-bitcoin/) - 2017/11/03
 
+* [[GitHub] openblockchains / awesome-blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection about awesome blockchains - open distributed public databases w/ crypto hashes incl. git ;-). Blockchains are the new tulips
+
 --
 
 * [[YouTube] Os full nodes e o consenso no bitcoin](https://www.youtube.com/watch?v=BhNL3a1b_MA) - 2017/06/20
