@@ -2520,6 +2520,8 @@
 
 --
 
+* [ES6 tips and tricks to make your code cleaner, shorter, and easier to read! | freeCodeCamp](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c) - 2018/01/29
+
 * [Top 10 ES6 features by example | Pragmatists](https://blog.pragmatists.com/top-10-es6-features-by-example-80ac878794bb) - 2017/09/15
 
 * [six tricks enabled by new ES6 features | 2ality](http://www.2ality.com/2016/05/six-nifty-es6-tricks.html)
