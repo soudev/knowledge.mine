@@ -1293,6 +1293,10 @@
 
 --
 
+* [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode | Hacker Noon](https://hackernoon.com/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-d32759d0dc2d) - 2018/01/19
+
+--
+
 * [webpack 3: Official Release!! – webpack – Medium](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) - 2017/06/19
 
 * [Getting started with Webpack 3 | Liquid Light](https://www.liquidlight.co.uk/blog/article/getting-started-with-webpack-3/) - 2017/06/26
