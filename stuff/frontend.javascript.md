@@ -1187,6 +1187,12 @@
   * [Introduction to FuseBox — a Faster, Simpler Webpack Alternative | SitePoint](https://www.sitepoint.com/fusebox-faster-webpack-alternative/) - 2017/06/13
 
 
+* [Parcel](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
+
+  * [[GitHub] parcel-bundler / parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler
+
+
+
 #### Webpack
 
 * [[GitHub] webpack / webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.
