@@ -73,6 +73,8 @@
 
 --
 
+* [11 Things I Learned Reading the CSS Grid Specification | freeCodeCamp](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0) - 2017/12/10
+
 * [[YouTube] CSS Grid Changes Everything (About Web Layouts) - talk by Morten Rand-Hendriksen | freeCodeCamp Talks](https://www.youtube.com/watch?v=Qgyg-SRr-UQ) - 2017/11/07
 
 * Traversy Media
