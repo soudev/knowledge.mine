@@ -189,6 +189,8 @@
 
 * [[GitHub] GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 
+* [[GitHub] joelgriffith / navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
+
 
 #### Headless Firefox
 
