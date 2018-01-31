@@ -727,6 +727,8 @@
 
 --
 
+* [[GitHub] FormidableLabs / urql](https://github.com/FormidableLabs/urql) - Universal React Query Library (GraphQL client)
+
 * [[GitHub] ruanyf / react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
