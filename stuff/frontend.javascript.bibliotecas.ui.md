@@ -310,6 +310,8 @@
 
 * [Writing Abstract Components With Vue.js | @alligatorio](https://alligator.io/vuejs/vue-abstract-components/)
 
+* [Building a Modal Component with Vue.js | Alligator.io](https://alligator.io/vuejs/vue-modal-component/)
+
 --
 
 * [Vue.js v2 - Official Style Guide](https://vuejs.org/v2/style-guide/)
