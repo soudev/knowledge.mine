@@ -522,6 +522,8 @@
 
 * [An Introduction to the IPA | English Teacher Melanie](http://www.englishteachermelanie.com/an-introduction-to-the-ipa/)
 
+* [Perfect your punctuation: 4 TED-ED Lessons on commas, semicolons and more | TED-Ed Blog](https://blog.ed.ted.com/2015/09/23/perfect-your-punctuation-4-ted-ed-lessons-on-commas-semicolons-and-more/) - 2015/09/23
+
 --
 
 * [[YouTube] The benefits of a bilingual brain - Mia Nacamulli | TED-ed](https://www.youtube.com/watch?v=MMmOLN5zBLY) - 2015/06/23
