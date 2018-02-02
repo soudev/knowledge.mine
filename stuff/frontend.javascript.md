@@ -2590,6 +2590,8 @@
 
 --
 
+* [JS things I never knew existed | skyllo's blog](http://air.ghost.io/js-things-i-never-knew-existed/) - 2017/12/30
+
 * [12 Amazing JavaScript Shorthand Techniques | @hackernoon](https://hackernoon.com/12-amazing-javascript-shorthand-techniques-fef16cdbc7fe) - 2017/06/18
 
 * [Rewriting A WebApp With ECMAScript 6 | TasteJS](http://blog.tastejs.com/rewriting-a-webapp-with-ecmascript-6/)
