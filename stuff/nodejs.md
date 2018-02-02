@@ -121,6 +121,8 @@
 
 * [[GitHub] simonholmes / knowing-node](https://github.com/simonholmes/knowing-node/) - Holds the code files from my Knowing Node tutorials
 
+* [[GitHub] sindresorhus / awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources
+
 --
 
 * [[GitHub] woliveiras / nodejs-in-brazil](https://github.com/woliveiras/nodejs-in-brazil) - A great list about Nodejs use in Brazil
