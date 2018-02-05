@@ -830,6 +830,8 @@
 
 * [[GitHub] mxstbr / react-boilerplate](https://github.com/mxstbr/react-boilerplate) - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices
 
+* [[GitHub] dtonys / universal-web-boilerplate](https://github.com/dtonys/universal-web-boilerplate) - Modern react boilerplate featuring universal rendering and code splitting
+
 * [[GitHub] kriasoft / react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Facebook React Starter Kit - a skeleton for a typical web application / single-page application (SPA). Technology stack: Gulp, Webpack, BrowserSync, React.js, Bootstrap
 
 * [[GitHub] Granze / react-starterify](https://github.com/Granze/react-starterify) - React JS application skeleton using Browserify and other awesome tools
