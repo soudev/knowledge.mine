@@ -250,6 +250,8 @@
 
 --
 
+* [10 things I love about Vue | Duncan Grant – Medium](https://medium.com/@dalaidunc/10-things-i-love-about-vue-505886ddaff2) - 2018/01/31
+
 * [Saindo do zero a zero com o Vue.js | Magnetis Backstage – Medium](https://medium.com/magnetis-backstage/saindo-do-zero-a-zero-com-o-vue-js-85d4cdce0556) - 2016/12/01
 
 * [Getting Started With Vue.js | SitePoint](http://www.sitepoint.com/getting-started-with-vue-js/) - 2015/07/15
