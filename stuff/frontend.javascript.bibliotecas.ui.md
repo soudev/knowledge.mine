@@ -675,6 +675,8 @@
 
   * [Handling 404 pages (catch all routes) with React Router v4 | tylermcginnis.com](https://tylermcginnis.com/react-router-handling-404-pages/) - 2018/01/18
 
+  * [Nested routes with React Router v4 | tylermcginnis.com](https://tylermcginnis.com/react-router-nested-routes/) - 2018/01/29
+
 --
 
 * [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
