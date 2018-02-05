@@ -344,6 +344,10 @@
 
 * [[GitHub] thrasher- / gocryptotrader](https://github.com/thrasher-/gocryptotrader) - A cryptocurrency trading bot supporting multiple exchanges written in Golang.
 
+--
+
+* [[GitHub] decentraland / marketplace](https://github.com/decentraland/marketplace) - Decentraland land manager and marketplace
+
 
 ## Brasil
 
