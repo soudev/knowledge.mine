@@ -346,6 +346,10 @@
 
   * [Parte 3 — Shell de aplicativo e começando os trabalhos com componentes](https://medium.com/@wesleysaraujo/aplica%C3%A7%C3%A3o-spa-com-vuejs-2-parte-3-shell-de-aplicativo-e-come%C3%A7ando-os-trabalhos-com-componentes-519c13e153d0)
 
+* [Exporte o projeto Vue para o GitHub Pages | Comunidade Brasileira de Vue.js](http://www.vuejs-brasil.com.br/exporte-seu-projeto-vue-para-o-github-pages/) - 2018/02/05
+
+  * [[GitHub] treinamento-daniel-schmitz / vue-push-dir](https://github.com/treinamento-daniel-schmitz/vue-push-dir) - Uma simples app Vue com deploy no gh-pages
+
 --
 
 * [[GitHub] vuejs / vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
@@ -363,6 +367,7 @@
 * [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest | Alex Jover Morales](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/)
 
 --
+
 * [[GitHub] marcosmoura / vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
 
 * [Create a GitHub File Explorer Using Vue.js | Scotch](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) - 2015/11/03
