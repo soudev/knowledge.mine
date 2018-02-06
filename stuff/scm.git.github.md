@@ -702,6 +702,10 @@ git branch -D feature/branch
 
 * [Publishing with GitHub Pages, now as easy as 1, 2, 3 | GitHub Blog](https://github.com/blog/2289-publishing-with-github-pages-now-as-easy-as-1-2-3) - 2016/12/08
 
+* [Using Jekyll as a static site generator with GitHub Pages - User Documentation | GitHub](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+
+* [About GitHub Pages and Jekyll - User Documentation | GitHub](https://help.github.com/articles/about-github-pages-and-jekyll/)
+
 --
 
 * [[GitHub] js-org / dns](https://github.com/js-org/dns) - free and short JS.ORG domains for GitHub Pages
