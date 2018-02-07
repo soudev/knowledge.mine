@@ -6,6 +6,7 @@
   * [PDF Viewer](#pdf-viewer)
   * [JQuery](#jquery)
   * [Vue.js](#vuejs)
+  * [hyperapp](#hyperapp)
   * [infernojs](#infernojs)
   * [preact](#preact)
   * [React.js](#reactjs)
@@ -411,6 +412,13 @@
 * [Vue.js + Brunch: The Webpack Alternative You’ve Been Hungry For | Vue.js Developers - Medium](https://medium.com/js-dojo/vue-js-brunch-the-webpack-alternative-youve-been-hungry-for-5540bbb03758) - 2017/10/16
 
 * [Building Vue.js Apps with Parcel | Alligator.io](https://alligator.io/vuejs/vue-parceljs/)
+
+
+### hyperapp
+
+* [[GitHub] hyperapp / hyperapp](https://github.com/hyperapp/hyperapp) - 1 KB JavaScript library for building web applications.
+
+* [Hyperapp + Parcel = 😎 | Daftcode Blog](https://blog.daftcode.pl/hyperapp-parcel-71823bd93f1c) - 2018/02/05
 
 
 ### infernojs
