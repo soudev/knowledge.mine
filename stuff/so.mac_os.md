@@ -174,6 +174,8 @@
 
 ### Editores de Vídeo
 
+* [[GitHub] wulkano / kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology
+
 * [How to record screencast videos with Mac OSX | The Next Web](http://thenextweb.com/apple/2011/01/15/how-to-record-quick-easy-screencast-videos-with-mac-osx/)
 
 * [ScreenFlow | Telestream](http://www.telestream.net/screenflow/) - Screen recording and video editing software for creating high-quality software demos, video tutorials, video training, and presentations.
