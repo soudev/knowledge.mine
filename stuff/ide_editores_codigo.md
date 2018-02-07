@@ -21,6 +21,10 @@
 
 ## Online
 
+* [CodeSandbox](https://codesandbox.io/) - Online Code Editor Tailored for Web Application Development
+
+  * [Announcing CodeSandbox 2.5 | Hacker Noon](https://hackernoon.com/announcing-codesandbox-2-5-be767d15ffd) - 2018/02/07
+
 * [Codepen.io](http://codepen.io/)
 
   * [Favorite CodePen Demos | Chris Coyier](http://davidwalsh.name/chris-coyiers-favorite-pens)
