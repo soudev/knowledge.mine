@@ -278,6 +278,10 @@
 
 * [Leaving Pixels Behind: A VECTOR WORKFLOW FOR DESIGNERS | ARTIFACT Conference](https://docs.google.com/presentation/d/1CNQLbqC0krocy_fZrM5fZ-YmQ2JgEADRh3qR6RbOOGk/preview?sle=true#slide=id.p)
 
+--
+
+* [SVG Backgrounds](https://www.svgbackgrounds.com/) - Customizable SVG patterns and background designs for websites and blogs
+
 * [SVGeneration : create gorgeous SVG backgrounds](http://www.svgeneration.com/)
 
 * [SVG Icons FTW | Codrops](http://tympanus.net/codrops/2013/11/27/svg-icons-ftw/) - Despite the growing popularity of SVG, its time around and excellent browser support, we have a lack of good vector icon approaches. It's time to fill this gap and use SVG as icons in our web projects.
