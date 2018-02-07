@@ -736,6 +736,8 @@
 
 --
 
+* [[GitHub] nitish24p / react-worker-image](https://github.com/nitish24p/react-worker-image) - React component to fetch image resources via web workers
+
 * [[GitHub] FormidableLabs / urql](https://github.com/FormidableLabs/urql) - Universal React Query Library (GraphQL client)
 
 * [[GitHub] ruanyf / react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
