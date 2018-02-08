@@ -41,6 +41,8 @@
 
 --
 
+* [[GitHub] LFeh / frontend-challenges](https://github.com/LFeh/frontend-challenges) - Listing some playful open-source's challenges of jobs to test your knowledge
+
 * [[GitHub] LFeh / frontend-tools](https://github.com/LFeh/frontend-tools) - Useful tools to frontenders
 
 --
