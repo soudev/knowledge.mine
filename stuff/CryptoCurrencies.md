@@ -356,3 +356,5 @@
 * [A receita federal pode rastrear os seus Bitcoins? | Criptomoedas Fácil](https://www.criptomoedasfacil.com/a-receita-federal-pode-rastrear-os-seus-bitcoins/) - 2017/11/28
 
 * [Utilização de criptomoedas e como a receita federal pode rastrear as suas operações | LinkedIn Pulse](https://www.linkedin.com/pulse/utilização-de-criptomoedas-e-como-receita-federal-bueno-abitante/) - 2017/10/05
+
+* [Como declarar bitcoin no imposto de renda? Veja mais! | Blog FOXBIT](https://blog.foxbit.com.br/como-declarar-bitcoin-no-imposto-de-renda-veja-mais/) - 2018/02/06
