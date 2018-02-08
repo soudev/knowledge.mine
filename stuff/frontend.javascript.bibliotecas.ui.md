@@ -393,11 +393,15 @@
 
 --
 
+* [[GitHub] shakee93 / vue-toasted](https://github.com/shakee93/vue-toasted) - Responsive Touch Compatible Toast plugin for VueJS 2+
+
 * [[GitHub] iview / iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js
 
 * [[GitHub] Zulko / eagle.js](https://github.com/zulko/eagle.js/) - A hackable slideshow framework built with Vue.js
 
 * [[GitHub] hilongjw / vue-recyclerview](https://github.com/hilongjw/vue-recyclerview) - Mastering Large Lists with the vue-recyclerview
+
+--
 
 * [[GitHub] ilyagru / Space-Snake](https://github.com/ilyagru/Space-Snake) - A Desktop game built with Electron and Vue.js
 
