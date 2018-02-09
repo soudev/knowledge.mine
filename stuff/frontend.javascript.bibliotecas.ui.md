@@ -764,6 +764,8 @@
 
 * [[GitHub] alexcurtis / react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
 
+* [[GitHub] probablyup / markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx) - Interprets GFM markdown text and outputs a React JSX equivalent
+
 --
 
 * [[GitHub] PixelsCommander / ReactiveElements](https://github.com/PixelsCommander/ReactiveElements) - Allows to use React.js component as HTML element (web component)
