@@ -542,6 +542,8 @@
 
 * [[YouTube] How to Stop Translating in Your Head and Start Thinking in English Like a Native | Go Natural English](https://www.youtube.com/watch?v=FUW_FN8uzy0) - 2017/08/07
 
+* [[YouTube] MEDO DE FALAR INGLÊS É COISA DE BRASILEIRO? - Aprender inglês fora do país | English in Brazil by Carina Fragozo](https://www.youtube.com/watch?v=KtNQmZ2GRYI)
+
 
 ##### Small Advantages
 
