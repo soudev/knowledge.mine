@@ -562,6 +562,8 @@
 
 * [A primeira linguagem que todo programador deve aprender | LF Bittencourt](https://lfbittencourt.com/a-primeira-linguagem-que-todo-programador-deve-aprender-a7e97eb68b26)
 
+* [[YouTube] Python? Javascript? What programming language should you learn? | mayuko](https://www.youtube.com/watch?v=2FgvaJJayyA) - 2018/02/12
+
 --
 
 * [[YouTube] You should learn to program: Christian Genco at TEDxUTA](https://www.youtube.com/watch?v=cALAPK2ZSrw) - 2014/02/03
