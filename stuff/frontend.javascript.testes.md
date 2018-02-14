@@ -48,7 +48,7 @@
 
 * [JavaScript unit testing on steroids - Automation and code coverage with grunt, jasmine, and istanbul](http://sandiegojs.org/blog/2013/03/10/client-side-code-coverage/)
 
-* [Intern : A next-generation JavaScript testing stack](http://theintern.io/) - Run tests in the browser or node.js; seamlessly integrate with  SauceLabs or Selenium; use object, TDD, or BDD styles; get code coverage  with Istanbul; Travis CI integration out of the box.
+* [Wallaby.js](https://wallabyjs.com/) - runs your JavaScript tests immediately as you type and displays execution results in your code editor. It also provides beautiful test and code coverage reports updated in realtime.
 
 --
 
@@ -82,6 +82,8 @@
 
 
 #### Intern
+
+* [Intern : A next-generation JavaScript testing stack](http://theintern.io/) - Run tests in the browser or node.js; seamlessly integrate with  SauceLabs or Selenium; use object, TDD, or BDD styles; get code coverage  with Istanbul; Travis CI integration out of the box.
 
 * [Intern - Software testing for humans](https://theintern.github.io/)
 
