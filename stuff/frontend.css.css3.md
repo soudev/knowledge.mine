@@ -39,6 +39,8 @@
 
 * [[YouTube] Building layouts with flexbox and CSS grids | Le Wagon](https://www.youtube.com/watch?v=dA00K9qmiWM) - 2017/11/07
 
+* [[YouTube channel] Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag)
+
 
 #### Flexbox
 
