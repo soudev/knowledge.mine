@@ -1339,6 +1339,8 @@
 
 * [How we improved webpack build performance by 95% | Box Blog](https://blog.box.com/blog/how-we-improved-webpack-build-performance-95/) - 2018/01/10
 
+* [A Guide to Web Performance Optimization with Webpack | Introduction - Web Fundamentals - Google Developers](https://developers.google.com/web/fundamentals/performance/webpack/)
+
 --
 
 * [[GitHub] geowarin / friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) - Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them to provide a better Developer Experience
