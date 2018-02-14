@@ -405,6 +405,8 @@
 
 * [[GitHub] ilyagru / Space-Snake](https://github.com/ilyagru/Space-Snake) - A Desktop game built with Electron and Vue.js
 
+* [[GitHub] lauthieb / code-notes](https://github.com/lauthieb/code-notes) - A simple code snippet & gist manager for developers built with Electron & Vue.js
+
 --
 
 * [[GitHub] Microsoft / TypeScript-Vue-Starter](https://github.com/Microsoft/TypeScript-Vue-Starter) - A starter template for TypeScript and Vue with a detailed README describing how to use the two together
