@@ -26,6 +26,8 @@
 
 * [Getting up and running with GraphQL | Pusher Blog](https://blog.pusher.com/getting-up-and-running-with-graphql/) - 2017/08/31
 
+* [GraphQL as an API Gateway to Microservices | @codeship](https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/) - 2018/02/08
+
 --
 
 * [[GitHub] keithwhor / nodal](https://github.com/keithwhor/nodal/) - Web Servers Made Easy With Node.js
