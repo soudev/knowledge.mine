@@ -830,6 +830,8 @@
 
 * [Testing React Components Best Practices | selleo – Medium](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) - 2017/03/03
 
+* [Testing React with Enzyme and Jest: A Video Series](https://javascriptplayground.com/testing-react-enzyme-jest/) - First five episodes are free.
+
 
 #### React starter kit
 
