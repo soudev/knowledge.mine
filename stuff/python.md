@@ -92,6 +92,8 @@
 
 --
 
+* [[GitHub] TheAlgorithms / Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+
 * [[GitHub] keon / algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 
 * [[GitHub] burnash / gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API
