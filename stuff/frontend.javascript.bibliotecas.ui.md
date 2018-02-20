@@ -599,6 +599,8 @@
 
 * [React’s new Context API | kentcdodds](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) - 2018/02/05
 
+* [[GitHub] diegohaz / awesome-react-context](https://github.com/diegohaz/awesome-react-context) - A curated list of stuff related to the new React Context API
+
 --
 
 * [[GitHub] jaredpalmer / awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
