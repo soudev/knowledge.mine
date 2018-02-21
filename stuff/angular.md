@@ -104,8 +104,6 @@
 
 --
 
-* [Angular: Best Practices | codeburst](https://codeburst.io/angular-best-practices-4bed7ae1d0b7) - 2017/07/16
-
 * [Aprenda Angular 2](http://aprendaangular2.online/)
 
 * [19 Tips to Make Learning Angular 2 Easier | Telerik Developer Network](http://developer.telerik.com/featured/19-tips-to-make-learning-angular-2-easier/) - 2016/08/25
@@ -121,6 +119,14 @@
 * [[GitHub] loiane / curso-angular2](https://github.com/loiane/curso-angular2) - Código fonte apresentado no curso de Angular 2 gratuito do [blog loiane.com](http://loiane.training/curso/angular-2/)
 
 * [[YouTube Playlist] AngularCamp 2017 | AngularCamp](https://www.youtube.com/playlist?list=PLB17qI-lepyhiKF5sy6P46Vqj4crwuoDU) - 2017/07/06-07
+
+--
+
+* [Angular: Best Practices | codeburst](https://codeburst.io/angular-best-practices-4bed7ae1d0b7) - 2017/07/16
+
+* [Angular architecture patterns – Additional application features | NETMedia](http://netmedia.io/blog/angular-architecture-patterns-additional-application-features_5670)
+
+  * [[GitHub] netmedia / angular-architecture-patterns](https://github.com/netmedia/angular-architecture-patterns) - Demo project for "Angular architecture patterns" blog series
 
 --
 
