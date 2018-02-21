@@ -355,6 +355,10 @@
 
 --
 
+* [[GitHub] chrisvfritz / vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
+
+--
+
 * [[GitHub] vuejs / vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js
 
   * [[GitHub] robinvdvleuten / vuex-persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate) - Persist Vuex state with localStorage
