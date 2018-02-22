@@ -129,6 +129,8 @@
 
 * [How to not suck at design, a 5 minute guide for the non-designer | Startup Grind – Medium](https://medium.com/startup-grind/how-to-not-suck-at-design-a-5-minute-guide-for-the-non-designer-291efac43037) - 2017/04/30
 
+* [7 Practical Tips for Cheating at Design | Refactoring UI – Medium](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886) - 2018/02/20
+
 
 ### Look and Feel
 
