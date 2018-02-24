@@ -705,6 +705,8 @@
 
   * [Nested routes with React Router v4 | tylermcginnis.com](https://tylermcginnis.com/react-router-nested-routes/) - 2018/01/29
 
+* [Protected routes and Authentication with React and Node.js | Medium](https://medium.com/strapi/protected-routes-and-authentication-with-react-and-node-js-d31d234644cd) - 2018/02/21
+
 --
 
 * [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
