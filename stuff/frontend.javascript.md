@@ -1293,6 +1293,8 @@
 
 --
 
+* [🎼webpack 4: released today!!✨ | webpack – Medium](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4) - 2018/02/26
+
 * [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode | Hacker Noon](https://hackernoon.com/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-d32759d0dc2d) - 2018/01/19
 
 --
