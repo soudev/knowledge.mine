@@ -164,6 +164,8 @@
 
   * [Elegant Overflow with CSS Ellipsis | David Walsh Blog](https://davidwalsh.name/css-ellipsis)
 
+  * [Handling long titles with truncation | Assortment - For the practical developer](https://assortment.io/posts/handling-long-titles-with-truncation) - (2018/02/15) Examples of how you can use CSS or JavaScript to many working with long strings of text that bit easier.
+
   * [CSS Riddle: reverse ellipsis](http://hugogiraudel.com/2014/12/16/css-riddle-reverse-ellipsis/)
 
   * [[GitHub] sparkalow / angular-truncate](https://github.com/sparkalow/angular-truncate) - truncate text and add ellipses
