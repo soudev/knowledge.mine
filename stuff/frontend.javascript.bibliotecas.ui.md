@@ -275,6 +275,8 @@
 
   * [Testando sua aplicação Vue.js](http://www.vuejs-brasil.com.br/testando-sua-aplicacao-vue-js/)
 
+  * [Automação de testes e2e no Vue.js](http://www.vuejs-brasil.com.br/testes-e2e-no-vue-js/)
+
   * router
 
     * [Vue-router](http://www.vuejs-brasil.com.br/vue-router/) - 2016/06/30
