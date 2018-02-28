@@ -191,6 +191,8 @@
 
 * [[GitHub] GoogleChrome / puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node API
 
+  * [Efficiently snapshotting your single-page-apps with Puppeteer | Hacker Noon](https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b) - 2018/02/27
+
 * [[GitHub] joelgriffith / navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 
 
