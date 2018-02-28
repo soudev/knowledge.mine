@@ -82,6 +82,8 @@
 
 --
 
+* [[YouTube] Philip Roberts:  Help I'm stuck in an event loop](https://www.youtube.com/watch?v=6MXRNXXgP_0)
+
 * [[YouTube] Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - [loupe tool](http://latentflip.com/loupe/)
 
 --
