@@ -744,3 +744,5 @@ Share with others around the world
 * [[GitHub] andrew--r / channels](https://github.com/andrew--r/channels) - A collection of useful YouTube channels for javascript developers and web designers
 
 * [[GitHub] ZuzooVn / machine-learning-for-software-engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) - A complete daily plan for studying to become a machine learning engineer.
+
+* [Machine Learning Crash Course | Google Developers](https://developers.google.com/machine-learning/crash-course/)
