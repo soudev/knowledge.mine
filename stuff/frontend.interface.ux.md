@@ -130,6 +130,8 @@
 
 * [Flat UI colors](http://flatuicolors.com/)
 
+* [Colors Wall](https://colorswall.com/)
+
 * [Color Swatches](http://maxmackie.com/jquery.swatches/) - a free to use [jQuery plugin](http://github.com/maxmackie/jquery.swatches) by [Max Mackie](http://maxmackie.com/)
 
 * [Color Wheel - Color Calculator | Sessions College](http://www.sessions.edu/color-calculator)
