@@ -59,6 +59,8 @@
 
 #### CSS Grid
 
+* [[YouTube] CSS Grid Explained in 7 Minutes (with diagrams and code) | Statuscode](https://www.youtube.com/watch?v=ojKbYz0iKQE) - 2018/01/07
+
 * [[GitHub] afonsopacifer / learning-css-grid-layout](https://github.com/afonsopacifer/learning-css-grid-layout) - List of resources to learn CSS Grid Layout Module or only CSS Grid.
 
 * [Learn CSS Grid - A Guide to Learning CSS Grid | Jonathan Suh](http://learncssgrid.com/)
