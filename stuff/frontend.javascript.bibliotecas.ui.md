@@ -277,6 +277,8 @@
 
   * [Automação de testes e2e no Vue.js](http://www.vuejs-brasil.com.br/testes-e2e-no-vue-js/)
 
+  * [Trabalhando com arquivos .env no Vue](http://www.vuejs-brasil.com.br/trabalhando-com-arquivos-env-no-vue/)
+
   * router
 
     * [Vue-router](http://www.vuejs-brasil.com.br/vue-router/) - 2016/06/30
