@@ -825,6 +825,8 @@
 
 * [Prime Numbers, Factorial, and Fibonacci Series with JavaScript Array](http://ariya.ofilabs.com/2013/07/prime-numbers-factorial-and-fibonacci-series-with-javascript-array.html)
 
+* [[GitHub] propelml / propel](https://github.com/propelml/propel) - Differential Programming in JavaScript.
+
 --
 
 * [Date and time in JavaScript | Tech.pro](http://tech.pro/tutorial/2468/date-and-time-javascript)
