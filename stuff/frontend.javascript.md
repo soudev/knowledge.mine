@@ -1877,6 +1877,8 @@
 
   * [[YouTube] Typescript - Daniel Rosenwasser | ng-conf 2016](https://www.youtube.com/watch?v=dzPjBWLdGz0)
 
+  * [TypeScript — JavaScript with superpowers | freeCodeCamp](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9) - 2018/02/28
+
   * [TypeScript for C# Programmers | InfoQ](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
 
   * [The Rise of TypeScript? | Telerik Developer Network](http://developer.telerik.com/featured/the-rise-of-typescript/)
