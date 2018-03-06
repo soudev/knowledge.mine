@@ -226,6 +226,8 @@
 
 --
 
+* [CSS Techniques and Effects for Knockout Text | CSS-Tricks](https://css-tricks.com/css-techniques-and-effects-for-knockout-text/) - 2018/03/06
+
 * [Design Considerations: Text on Images | CSS-Tricks](https://css-tricks.com/design-considerations-text-images/) - 2014/12/12
 
 --
