@@ -379,6 +379,8 @@
 
 --
 
+* [[GitHub] styled-components / vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components
+
 * [[GitHub] marcosmoura / vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
 
 * [Create a GitHub File Explorer Using Vue.js | Scotch](https://scotch.io/tutorials/create-a-github-file-explorer-using-vue-js) - 2015/11/03
