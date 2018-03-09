@@ -662,6 +662,8 @@
 
 --
 
+* [Debug Node.js Apps using VS Code | Visual Studio Code](https://code.visualstudio.com/docs/nodejs/nodejs-debugging) - (2018/03/07) The Visual Studio Code editor includes Node.js debugging support. Set breakpoints, step-in, inspect variables and more.
+
 * [Debugging Node.js with Google Chrome | Node.js Collection - Medium](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4) - 2017/05/25
 
 * [Running and debugging Node.js application | JetBrains WebStorm Blog](http://blog.jetbrains.com/webstorm/2014/02/running-and-debugging-node-js-application/)
