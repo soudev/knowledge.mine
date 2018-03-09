@@ -1757,6 +1757,10 @@
 
 --
 
+* [[GitHub] gribnoysup / wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
+
+--
+
 * [[GitHub] Cron for NodeJS](https://github.com/ncb000gt/node-cron)
 
 * [[GitHub] shell-jobs: Cron replacement in NodeJS, made for humans](https://github.com/azer/shell-jobs)
