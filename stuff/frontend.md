@@ -340,6 +340,8 @@
 
 * [A Better Way to Make Buttons in Sketch | UX Power Tools – Medium](https://medium.com/ux-power-tools/a-better-way-to-make-buttons-in-sketch-6c23470f27c) - 2017/02/15
 
+* [A Better Sketch File, a Better Designer, a Better You | Track Changes](https://trackchanges.postlight.com/a-better-sketch-file-a-better-designer-a-better-you-ade172c0fd40) 2018/02/01
+
 --
 
 * [Zeplin](https://zeplin.io/) - Collaboration app for UI designers and frontend developers
