@@ -507,6 +507,8 @@
 
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals) - If you're new to React.js, there's no better place to learn React.js and the React ecosystem than with this React.js fundamentals course
 
+* [10 obstáculos frequentes encontrados pelos novos tripulantes do React | React Brasil](https://medium.com/reactbrasil/10-obst%C3%A1culos-frequentes-encontrados-pelos-novos-tripulantes-do-react-7672c4facf58) - 2018/03/13
+
 * [Everything You Should Know About React: The Basics You Need to Start Building | freeCodeCamp](https://medium.freecodecamp.org/everything-you-need-to-know-about-react-eaedf53238c4) - 2017/11/12
 
 * [20 Things You Must Learn Before Writing Your First React App | Medium by @jdan](https://medium.com/@jdan/20-things-you-must-learn-before-writing-your-first-react-app-c9cc08246ec7) - 2016/11/17
