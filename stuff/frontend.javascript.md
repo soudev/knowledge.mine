@@ -659,6 +659,8 @@
 
 * [JavaScript Debugging Tips and Tricks | Zsolt Nagy](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 
+* [10 Tips for Javascript Debugging Like a PRO with Console | Medium by @kadishay](https://medium.com/appsflyer/10-tips-for-javascript-debugging-like-a-pro-with-console-7140027eb5f6) - 2018/02/11
+
 --
 
 * [7 JavaScript Basics Many Developers Aren't Using (Properly) | Tech.Pro](http://tech.pro/tutorial/1453/7-javascript-basics-many-developers-aren-t-using-properly)
