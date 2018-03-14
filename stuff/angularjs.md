@@ -2304,6 +2304,10 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 ## Projetos de Exemplo
 
+* [[GitHub] kamranayub / angularjs-sample-webpack-es6-jest](https://github.com/kamranayub/angularjs-sample-webpack-es6-jest) - AngularJS 1.5 with webpack, babel, and Jest
+
+--
+
 * [[GitHub] angular-app / angular-app](https://github.com/angular-app/angular-app) - Reference application for AngularJS
 
 * [[GitHub] angular / angular-prs](https://github.com/angular/angular-prs)
