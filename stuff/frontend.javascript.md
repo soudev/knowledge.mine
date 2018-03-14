@@ -1899,6 +1899,8 @@
 
     * [Define Mongoose Models Using TypeScript Classes | Coding Sans](http://codingsans.com/blog/mongoose-models-using-typescript-classes) - 2017/06/12
 
+  * [[GitHub] bitjson / typescript-starter](https://github.com/bitjson/typescript-starter) - a CLI to quickly generate and configure new javascript libraries and Node.js projects
+
 * [Blog | Wolk Software Engineering](http://blog.wolksoftware.com/)
 
   * Decorators & metadata reflection in TypeScript: From Novice to Expert
