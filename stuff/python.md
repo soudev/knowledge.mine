@@ -110,6 +110,10 @@
 
 * [[GitHub] wolever / wayslack](https://github.com/wolever/wayslack) - The Wayslack Machine: incrementally archive Slack messages and files using Slack's team export format
 
+--
+
+* [[GitHub] mzucker / noteshrink](https://github.com/mzucker/noteshrink) - Convert scans of handwritten notes to beautiful, compact PDFs
+
 
 ## Frameworks
 
