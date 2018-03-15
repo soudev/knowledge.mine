@@ -620,6 +620,8 @@
 
 * [[GitHub] MatthewMueller / cheerio](https://github.com/MatthewMueller/cheerio)
 
+  * [[YouTube] Web Scraping with Node.js | freeCodeCamp](https://www.youtube.com/watch?v=eUYMiztBEdY) - 2018/02/15
+
   * [Web Scraping With Node.js | Smashing Magazine](http://www.smashingmagazine.com/2015/04/08/web-scraping-with-nodejs/) - 2015/04/08
 
   * [Scraping the Web with Node.js | Code Responsible](http://coderesponsible.com/scraping-the-web-with-node-js/) - (2015/11/15) Cheerio is a perfect solution for retrieving the data from these websites and creating your own API using Node.js.
