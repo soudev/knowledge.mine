@@ -1152,6 +1152,8 @@
 
 * [heatmap.js](http://www.patrick-wied.at/static/heatmapjs/) - Dynamic Heatmaps for the Web
 
+  * [[GitHub] pa7 / heatmap.js](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps
+
 * [[GitHub] kamisama / cal-heatmap](https://github.com/kamisama/cal-heatmap) - Cal-Heatmap is a javascript module to create calendar heatmap to visualize time series data
 
 --
