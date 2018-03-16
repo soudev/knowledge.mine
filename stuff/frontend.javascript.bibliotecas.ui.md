@@ -1142,6 +1142,8 @@
 
 * [[GitHub] frappe / charts](https://github.com/frappe/charts) - Simple, responsive, modern SVG Charts with zero dependencies
 
+* [[GitHub] nhnent / tui.chart](https://github.com/nhnent/tui.chart) - Beautiful chart for data visualization
+
 --
 
 * [[GitHub] sbstjn / timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets
