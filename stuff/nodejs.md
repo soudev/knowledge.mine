@@ -1440,6 +1440,8 @@
 
 * [[GitHub] motdotla / dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
 
+  * [Here’s how you can actually use Node environment variables | freeCodeCamp](https://medium.freecodecamp.org/heres-how-you-can-actually-use-node-environment-variables-8fdf98f53a0a) - 2018/03/08
+
 --
 
 * [How to Implement Node + React Isomorphic JavaScript & Why it Matters | StrongLoop](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
