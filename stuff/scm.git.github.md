@@ -589,6 +589,8 @@ git branch -D feature/branch
 
 #### pull request
 
+* [[Gist] HTML5 <details> in GitHub](https://gist.github.com/ericclemmons/b146fe5da72ca1f706b2ef72a20ac39d)
+
 * [Checking out Pull Requests | GitHub Blog](https://github.com/blog/1582-checking-out-pull-requests)
 
 * [git request-pull | Manual Page](http://git-scm.com/docs/git-request-pull)
