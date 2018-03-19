@@ -412,4 +412,6 @@
 
 ## Hackintosh
 
+* [[YouTube] Xiaomi NoteBook PRO HACKINTOSH GUIA DE INSTALAÇÃO](https://www.youtube.com/watch?v=I81H24Iu52U) - 2018/02/28
+
 * [[YouTube] Super Simple Hackintosh Install 2018](https://www.youtube.com/watch?v=12BvDIMAy6Y) - 2018/01/04
