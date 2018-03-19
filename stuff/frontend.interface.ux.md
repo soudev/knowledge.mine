@@ -150,6 +150,8 @@
 
 ### Tours
 
+* [[GitHub] kamranahmedse / driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+
 * [Intro.js](http://usablica.github.com/intro.js/) - Better introductions for websites and features with a step-by-step guide for your projects
 
 * [Chardin.js](http://heelhook.github.com/chardin.js/) - Simple overlay instructions for your apps
