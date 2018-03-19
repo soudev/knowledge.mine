@@ -972,6 +972,10 @@
 
 * [[GitHub] danilowoz / create-react-content-loader](https://github.com/danilowoz/create-react-content-loader/) - Now you can use this tool to create your react-content-loader easily
 
+* [[GitHub] uber / react-vis](https://github.com/uber/react-vis) - Data-Visualization oriented components
+
+  * [Data visualization with react-vis | DailyJS – Medium](https://medium.com/dailyjs/data-visualization-with-react-vis-bd2587fe1660) - 2018/03/08
+
 
 #### React Native
 
