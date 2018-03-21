@@ -379,6 +379,12 @@
 
 --
 
+* JSX
+
+  * [Using JSX with Vue and Why You Should Care | Scotch](https://scotch.io/tutorials/using-jsx-with-vue-and-why-you-should-care) - 2018/03/16
+
+--
+
 * [[GitHub] styled-components / vue-styled-components](https://github.com/styled-components/vue-styled-components) - Visual primitives for the component age. A simple port for Vue of styled-components
 
 * [[GitHub] marcosmoura / vue-material](https://github.com/marcosmoura/vue-material) - Material design for Vue.js
