@@ -663,6 +663,8 @@
 
 * [45% Faster React Functional Components, Now | Missive App – Medium](https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f) - 2017/05/03
 
+* [Optimizing loading time for big React apps | SmartboxTv Engineering – Medium](https://medium.com/smartboxtv-engineering/optimizing-loading-time-for-big-react-apps-cf13bbf63c57) - 2017/04/04
+
 * [Tips to optimise rendering of a set of elements in React | Medium by @lavrton](https://blog.lavrton.com/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae) - (2016/05/11) There is a guide to increase React performance. The advanced tip will increase speed by 20 times.
 
 --
