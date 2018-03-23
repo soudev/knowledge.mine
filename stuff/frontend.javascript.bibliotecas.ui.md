@@ -747,6 +747,8 @@
 
   * [Developing Games with React, Redux, and SVG - Part 1 | @auth0](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/) - (2018/02/06) Learn how to make React and Redux control a bunch of SVG elements to create a game.
 
+  * [[slides] Redesigning Redux](https://slides.com/shmck/redesigning-redux) - 2018/03/22
+
 
 --
 
