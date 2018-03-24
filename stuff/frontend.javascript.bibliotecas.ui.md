@@ -631,6 +631,8 @@
 
 * [Use a Render Prop! | componentDidBlog](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce) - 2017/09/18
 
+* [Answers to common questions about render props | kentcdodds](https://blog.kentcdodds.com/answers-to-common-questions-about-render-props-a9f84bb12d5d) - 2018/02/12
+
 * [Testing React components using render props | kentcdodds](https://blog.kentcdodds.com/testing-%EF%B8%8F-components-using-render-props-5623ab1814c) - 2018/01/08
 
 --
