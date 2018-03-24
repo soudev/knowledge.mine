@@ -133,6 +133,8 @@
 
 * [Docker's - Beginner Guide | hack.guides()](http://tutorials.pluralsight.com/devops/docker-s-beginner-guide)
 
+* [A Short Guide to a Super Productive Docker Development Environment | Nicholas Rempel](https://nrempel.com/guides/docker-development-environment/)
+
 --
 
 * [[YouTube] Docker em 20 minutos](https://www.youtube.com/watch?v=caGS9EztYlc) - 2016/02/25
