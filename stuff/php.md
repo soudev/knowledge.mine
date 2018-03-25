@@ -2,6 +2,7 @@
 
 <!-- toc -->
 
+* [Patterns](#patterns)
 * [Infos](#infos)
 * [Frameworks](#frameworks)
   * [Slim](#slim)
@@ -10,6 +11,9 @@
 
 <!-- toc stop -->
 
+## Patterns
+
+* [PSRs - PHP Standards Recommendations](https://www.php-fig.org/psr/)
 
 ## Infos
 
