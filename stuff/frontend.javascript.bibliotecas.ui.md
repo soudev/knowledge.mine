@@ -371,6 +371,10 @@
 
 * [Migrating A VueJS App To Vuex | Vue.js Developers – Medium](https://medium.com/js-dojo/migrating-a-vuejs-app-to-vuex-b1762bfd4cf1) - 2017/10/09
 
+--
+
+* [How to Use Vue.js and Axios to Display Data from an API | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-vue-js-and-axios-to-display-data-from-an-api) - 2018/02/13
+
 * [Vuex e chamadas AJAX | Fábio Vedovelli – Medium](https://medium.com/@vedovelli/vuex-e-chamadas-ajax-c0a26c7585e9) - 2017/11/27
 
 --
