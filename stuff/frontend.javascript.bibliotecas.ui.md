@@ -333,6 +333,12 @@
 
 --
 
+* [Intro to Vue.js! - John Papa | Twitter](https://twitter.com/John_Papa/status/978466335821737985) - 2018/03/26
+
+  * [[slides] Introduction to Vue](https://slides.com/johnpapa/introvue)
+
+  * [[GitHub] johnpapa / vue-intro](https://github.com/johnpapa/vue-intro) - Vue.js app using Vue's CLI
+
 * [Vue.js e Single Page Applications: O que saber antes de começar (Vídeo) | Diego Brocanelli](http://www.diegobrocanelli.com.br/vuejs/vue-js-e-single-page-applications-o-que-saber-antes-de-comecar-video/) - 2017/03/29
 
 * [[YouTube] Vue.js in less than 30 minutes for beginners - Tutorial - 2.0](https://www.youtube.com/watch?v=VPUdtEf3oXI) - 2017/01/17
