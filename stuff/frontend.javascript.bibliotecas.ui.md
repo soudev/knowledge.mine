@@ -377,6 +377,10 @@
 
 * [Migrating A VueJS App To Vuex | Vue.js Developers – Medium](https://medium.com/js-dojo/migrating-a-vuejs-app-to-vuex-b1762bfd4cf1) - 2017/10/09
 
+* [Alternativas em relação ao Vuex | Vue.js Brasil](http://vuejs-brasil.com.br/alternativas-em-relacao-ao-vuex/) - 2018/02/26
+
+  * [[GitHub] danielschmitz / vue-sem-vuex](https://github.com/danielschmitz/vue-sem-vuex) - 2 alternativas ao Vuex, mais simples e diretas
+
 --
 
 * [How to Use Vue.js and Axios to Display Data from an API | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-vue-js-and-axios-to-display-data-from-an-api) - 2018/02/13
