@@ -1794,6 +1794,8 @@ if ($scope.$root.$$phase != '$apply' && $scope.$root.$$phase != '$digest') {
 
 --
 
+* [[GitHub] siddii / angular-timer](https://github.com/siddii/angular-timer) - re-usable/inter-operable AngularJS timer directive
+
 * [[GitHub] nlaplante / angular-google-maps](https://github.com/nlaplante/angular-google-maps) - AngularJS directives for the Google Maps Javascript API
 
 * [[GitHub] jonashartmann / webcam-directive](https://github.com/jonashartmann/webcam-directive) - Angularjs directive to access the webcam
