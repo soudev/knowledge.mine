@@ -2452,6 +2452,8 @@
 
 --
 
+* [Google publishes a JavaScript style guide. Here are some key lessons. | freeCodeCamp](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b) - 2018/03/27
+
 * [es6 cheatsheet | Duckduckgo](https://duckduckgo.com/?q=es6+cheat+sheet&ia=cheatsheet&iax=1)
 
 * [[GitHub] DrkSephy / es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
