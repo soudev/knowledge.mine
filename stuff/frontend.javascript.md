@@ -1525,6 +1525,10 @@
 
 ### Bibliotecas
 
+* [11 Javascript Machine Learning Libraries To Use In Your App | Bits and Pieces](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c) - 2018/03/26
+
+--
+
 * [JSDB.io](http://www.jsdb.io/) is a collection of the best javascript libraries
 
 * [Microjs](http://microjs.com/) - Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit! | [[GiHub] madrobby / microjs.com](https://github.com/madrobby/microjs.com)
