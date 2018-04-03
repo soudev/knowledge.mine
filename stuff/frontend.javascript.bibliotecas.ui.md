@@ -880,6 +880,8 @@
 
 * [[GitHub] kentcdodds / react-testing-library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 
+  * [Introducing the react-testing-library 🐐 | kentcdodds](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65) - 2018/04/02
+
 * [Testing React Components Best Practices | selleo – Medium](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) - 2017/03/03
 
 * [Testing React with Enzyme and Jest: A Video Series](https://javascriptplayground.com/testing-react-enzyme-jest/) - First five episodes are free.
