@@ -878,6 +878,8 @@
 
 --
 
+* [[YouTube] Testing Practices and Principles Workshop (Assert.js Conf) - Kent C. Dodds](https://www.youtube.com/watch?v=VQZx1Z3sW0E) - 2018/03/22
+
 * [[GitHub] kentcdodds / react-testing-library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 
   * [Introducing the react-testing-library 🐐 | kentcdodds](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65) - 2018/04/02

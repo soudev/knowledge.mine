@@ -50,6 +50,8 @@
 
 * [Wallaby.js](https://wallabyjs.com/) - runs your JavaScript tests immediately as you type and displays execution results in your code editor. It also provides beautiful test and code coverage reports updated in realtime.
 
+* [[YouTube] Testing Practices and Principles Workshop (Assert.js Conf) - Kent C. Dodds](https://www.youtube.com/watch?v=VQZx1Z3sW0E) - 2018/03/22
+
 --
 
 * [[GitHub] marmelab / gremlins.js](https://github.com/marmelab/gremlins.js) - Monkey testing library for web apps and Node.js
