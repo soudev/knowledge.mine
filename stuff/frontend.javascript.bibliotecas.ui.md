@@ -443,6 +443,8 @@
 
 * [Code splitting com Vue.js e Webpack | Comunidade Brasileira de Vue.js](http://vuejs-brasil.com.br/code-splitting-com-vue-js-e-webpack/) - 2017/09/07
 
+* [[GitHub] vuetifyjs / webpack](https://github.com/vuetifyjs/webpack) - A full-featured Webpack + vue-loader setup with hot reload, linting, testing & css extraction
+
 --
 
 * [Vue.js + Brunch: The Webpack Alternative You’ve Been Hungry For | Vue.js Developers - Medium](https://medium.com/js-dojo/vue-js-brunch-the-webpack-alternative-youve-been-hungry-for-5540bbb03758) - 2017/10/16
