@@ -391,6 +391,8 @@
 
 * [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest | Alex Jover Morales](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/)
 
+* [[GitHub] dfcook / vue-testing-library](https://github.com/dfcook/vue-testing-library) - Attempt at replicating the ultra-low surface area of react-testing-library using vue and @vue/test-utils
+
 --
 
 * JSX
