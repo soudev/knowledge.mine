@@ -196,6 +196,12 @@ O Git é um Sistema de Controle de Versão Distribuído. (Distributed Version Co
 
 * [[YouTube] Curso básico de Git](https://www.youtube.com/playlist?list=PLInBAd9OZCzzHBJjLFZzRl6DgUmOeG3H0)
 
+--
+
+* [How to Contribute to an Open Source Project on GitHub | @kentcdodds on @eggheadio](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
+
+* [Introduction to Git for Data Science | DataCamp](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
+
 
 ### Cursos online interativos
 
