@@ -244,6 +244,8 @@
 
 * [[GitHub] edent / SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
+* [780+ Free Vector Emoji](http://emoji.streamlineicons.com/)
+
 
 ### FavIcon
 
