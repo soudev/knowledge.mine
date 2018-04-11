@@ -14,6 +14,8 @@
 
 --
 
+* [GoLang — Simplificando a complexidade | Training Center – Medium](https://medium.com/trainingcenter/golang-d94e16d4b383) - 2018/04/08
+
 * [The beauty of Go | Hacker Noon](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d) - 2017/10/06
 
 * [Go por Exemplo](http://goporexemplo.golangbr.org/)
