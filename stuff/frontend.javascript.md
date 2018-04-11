@@ -2438,11 +2438,14 @@
 
 ### ECMAScript
 
+* [Here are examples of everything new in ECMAScript 2016, 2017, and 2018 | freeCodeCamp](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e) - 2018/04/03
+
+* [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ? | codeburst](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) - 2017/08/28
+
+
 #### ECMAScript 6
 
 > ECMAScript 6 -> ECMAScript 2015
-
-* [JavaScript — WTF is ES6, ES8, ES 2017, ECMAScript… ? | codeburst](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c) - 2017/08/28
 
 * [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 
