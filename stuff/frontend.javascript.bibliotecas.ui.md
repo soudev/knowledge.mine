@@ -597,6 +597,10 @@
 
 --
 
+* [[GitHub] kentcdodds / advanced-react-patterns-v2](https://github.com/kentcdodds/advanced-react-patterns-v2)
+
+--
+
 * [Learn React.js from Top 45 Tutorials for the past year (v.2018) | Mybridge for Professionals](https://medium.mybridge.co/learn-react-js-from-top-45-tutorials-for-the-past-year-v-2018-28b7f4d4b2c4) - 2018/01/17
 
 --
