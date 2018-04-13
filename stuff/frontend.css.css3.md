@@ -77,6 +77,8 @@
 
 * [How We Adopted CSS Grid at Scale | Julian Gaviria — Web Designer](https://julian.is/article/css-grid-at-scale/) - 2018/03/01
 
+* [Another Collection of Interesting Facts About CSS Grid | CSS-Tricks](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/) - 2018/04/13
+
 --
 
 * [11 Things I Learned Reading the CSS Grid Specification | freeCodeCamp](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0) - 2017/12/10
