@@ -365,6 +365,12 @@
 
 --
 
+* [[GitHub] vuejs / vuepress](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator
+
+  * [Artigos em Português sobre Vue.js | Vue.js Brasil](http://vuejs-brasil.com.br/conheca-o-vuepress/)
+
+--
+
 * [[GitHub] chrisvfritz / vue-enterprise-boilerplate](https://github.com/chrisvfritz/vue-enterprise-boilerplate) - An ever-evolving, very opinionated architecture and dev environment for new Vue SPA projects using Vue CLI 3.
 
 --
