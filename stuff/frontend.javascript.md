@@ -916,6 +916,8 @@
 
 * [Using String Replace in JavaScript | David Walsh](http://davidwalsh.name/string-replace-javascript)
 
+* [[GitHub] pedsmoreira / casex](https://github.com/pedsmoreira/casex) - All in one function for transforming word casings
+
 --
 
 * [Getting input from the keyboard using JavaScript | ANTONOFF](http://www.antonoffplus.com/getting-input-from-the-keyboard-using-javascript/)
