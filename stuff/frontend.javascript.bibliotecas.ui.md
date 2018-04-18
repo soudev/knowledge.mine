@@ -1026,6 +1026,10 @@
 
   * [Data visualization with react-vis | DailyJS – Medium](https://medium.com/dailyjs/data-visualization-with-react-vis-bd2587fe1660) - 2018/03/08
 
+* [[GitHub] YazanAabeed / react-tabs](https://github.com/YazanAabeed/react-tabs) - Simple React Tabs using the new react ContextAPI
+
+  * [[Sandbox Editor] React tabs component](https://codesandbox.io/s/n3jmxm05w4)
+
 
 #### React Native
 
