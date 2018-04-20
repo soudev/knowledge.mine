@@ -1030,6 +1030,8 @@
 
   * [[Sandbox Editor] React tabs component](https://codesandbox.io/s/n3jmxm05w4)
 
+* [[GitHub] didierbrun / react-path-recognizer](https://github.com/didierbrun/react-path-recognizer) - Path recognizing component for React
+
 
 #### React Native
 
