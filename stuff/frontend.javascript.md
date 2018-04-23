@@ -425,6 +425,10 @@
 
 * [Topiarist: A JavaScript OO library featuring mixins, interfaces & multiple inheritance | BladeRunnerJS](http://bladerunnerjs.org/blog/topiarist/)
 
+--
+
+* [Javascript : Prototype vs Class | Valentin PARSY – Medium](https://medium.com/@parsyval/javascript-prototype-vs-class-a7015d5473b) - 2018/04/04
+
 
 ### Padrões
 
