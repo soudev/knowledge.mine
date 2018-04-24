@@ -1311,6 +1311,8 @@
 
 * [Webpack 4.0 Release: What's New? | Auth0](https://auth0.com/blog/webpack-4-release-what-is-new/) - 2018/02/26
 
+* [A tale of Webpack 4 and how to finally configure it in the right way | hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) - 2018/04/08
+
 --
 
 * [webpack 3: Official Release!! – webpack – Medium](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) - 2017/06/19
