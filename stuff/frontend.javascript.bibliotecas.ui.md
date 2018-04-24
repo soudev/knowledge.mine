@@ -645,9 +645,11 @@
 
 --
 
-* [React’s new Context API | kentcdodds](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) - 2018/02/05
-
 * [[GitHub] diegohaz / awesome-react-context](https://github.com/diegohaz/awesome-react-context) - A curated list of stuff related to the new React Context API
+
+* [Migrating to React’s New Context API | kentcdodds](https://blog.kentcdodds.com/migrating-to-reacts-new-context-api-b15dc7a31ea0) - 2018/04/23
+
+* [React’s new Context API | kentcdodds](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) - 2018/02/05
 
 --
 
