@@ -1777,6 +1777,8 @@
 
   * [Managing Dates and Times Using Moment.js | SitePoint](http://www.sitepoint.com/managing-dates-times-using-moment-js/) - 2014/04/29
 
+* [[GitHub] xx45 / dayjs](https://github.com/xx45/dayjs) - Fast 2KB immutable date library alternative to Moment.js with the same modern API
+
 * [[GitHub] d3 / d3-time-format](https://github.com/d3/d3-time-format) - A JavaScript time formatter and parser inspired by strftime and strptime
 
 --
