@@ -2011,6 +2011,8 @@
 
 * [[GitHub] parro-it / canibekikked](https://github.com/parro-it/canibekikked) - Tool to check if any of your NPM repositories name are trademarked
 
+* [These 6 essential tools will release, version, and maintain your NPM modules for you | hackernoon](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb) - 2018/04/25
+
 --
 
 * [Fixing npm permissions | NPM Getting Started](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
