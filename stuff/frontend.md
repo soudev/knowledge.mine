@@ -374,6 +374,8 @@
 
 * [New to email coding? Here’s where to start | Really Good Emails](https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4) - 2018/04/03
 
+* [HTML Email and Accessibility | CSS-Tricks](https://css-tricks.com/html-email-accessibility/) - 2017/11/22
+
 * [Build an HTML Email Template From Scratch | Webdesigntuts+](http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/build-an-html-email-template-from-scratch/)
 
 * [Construa um Modelo de E-mail em HTML a Partir do Zero | Tuts+ Web Design](http://webdesign.tutsplus.com/pt/articles/build-an-html-email-template-from-scratch--webdesign-12770) - A melhor forma de entender qualquer processo é realizá-lo desde o começo Hoje, faremos isso com o design de e-mails, construindo um modelo de e-mail em HTML, do zero
