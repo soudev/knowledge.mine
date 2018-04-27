@@ -47,6 +47,8 @@
 
 * [[GitHub] jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md) - collection of awesome Mac applications and tools for developers and designers.
 
+* [[GitHub] serhii-londar / open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
+
 --
 
 * [iStats Menu | bjango](https://bjango.com/mac/istatmenus/) - an advance mac system monitor for your menubar
