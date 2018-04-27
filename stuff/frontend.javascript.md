@@ -1245,6 +1245,8 @@
 
 --
 
+* [Webpack configurator](http://web.jakoblind.no/webpack-config/) - Create a personalized and optimized webpack.config.js!
+
 * Put Your Webpack Bundle On A Diet | Contentful
 
   * [part 1](https://www.contentful.com/blog/2017/10/10/put-your-webpack-on-a-diet-part-1/) - (2017/10/10) How to make your users happy by learning the right way to slim down your webpack bundle.
