@@ -1781,6 +1781,8 @@
 
 * [[GitHub] xx45 / dayjs](https://github.com/xx45/dayjs) - Fast 2KB immutable date library alternative to Moment.js with the same modern API
 
+* [[GitHub] date-fns / date-fns](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library
+
 * [[GitHub] d3 / d3-time-format](https://github.com/d3/d3-time-format) - A JavaScript time formatter and parser inspired by strftime and strptime
 
 --
