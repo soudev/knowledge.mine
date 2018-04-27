@@ -145,6 +145,8 @@
 
 * [Como saber a condição da bateria do MacBook e aumentar sua vida útil | TechTudo](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2014/06/como-saber-condicao-da-bateria-do-macbook-e-aumentar-sua-vida-util.html)
 
+* [Making the Touch Bar finally useful :: By abandoning crappy Apple guidelines | vas3k's blog](http://vas3k.com/blog/touchbar/) - 2018/04/02
+
 
 ## Games
 
