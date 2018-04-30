@@ -1267,6 +1267,8 @@
 
 * [[GitHub] th0r / webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap
 
+* [[GitHub] nuxt / webpackbar](https://github.com/nuxt/webpackbar) - Elegant ProgressBar and Profiler for Webpack 3 and 4
+
 --
 
 * [[GitHub] FormidableLabs / electron-webpack-dashboard](https://github.com/FormidableLabs/electron-webpack-dashboard) - Electron Desktop GUI for Webpack Dashboard
