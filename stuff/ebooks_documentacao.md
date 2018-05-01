@@ -516,6 +516,10 @@
 
 * [[YouTube] Tim Ferriss about how he learns languages](https://www.youtube.com/watch?v=rh66cp33CrQ) - 2015/06/09
 
+* [[YouTube] How to learn any language easily | Matthew Youlden | TEDxClapham](https://www.youtube.com/watch?v=Yr_poW-KK1Q) - 2016/07/29
+
+* [[YouTube] Why We Struggle Learning Languages | Gabriel Wyner | TEDxNewBedford](https://www.youtube.com/watch?v=iBMfg4WkKL8) - 2017/12/18
+
 --
 
 * [Como melhorar o listening? A dica que você nunca ouviu... | Tecla SAP :: Dicas de Inglês](http://www.teclasap.com.br/como-melhorar-o-listening-a-dica-que-voce-nunca-ouviu/) - Defina expectativas reais antes de tentar melhorar o listening. Lembre-se de que o inglês é idioma falado em muitos países e com muitos sotaques diferentes
