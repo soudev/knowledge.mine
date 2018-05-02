@@ -425,6 +425,13 @@
 
 --
 
+* German
+
+  * [[YouTube Channel] Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g)
+
+  * [[YouTube] Fluent in German with Duolingo | Evan Edinger](https://www.youtube.com/watch?v=ht-w2JriwSw) - 2018/02/18
+
+
 * [[YouTube] Chinês Mandarim? Japonês? Qual diferença? - Aula de Chinês](https://www.youtube.com/watch?v=VvCYkFOUaA8)
 
 * Chinese
