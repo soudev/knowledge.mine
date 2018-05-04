@@ -1003,6 +1003,8 @@
 
   * [[YouTube] Maintainable CSS in React (JS@PayPal Summer 2017) | Kent C. Dodds](https://www.youtube.com/watch?v=3-4KsXPO2Q4) - 2017/07/20
 
+* [[GitHub] linkedin / css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
+
 * [[GitHub] marcohamersma / react-easy-styleguide](https://github.com/marcohamersma/react-easy-styleguide) - Easy styleguide/component library tool for React projects with support for global styles. Works great with create-react-app
 
 * [[GitHub] rtsao / styletron](https://github.com/rtsao/styletron) - Universal, high-performance JavaScript styles
