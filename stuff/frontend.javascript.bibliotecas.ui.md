@@ -701,6 +701,12 @@
 
 --
 
+* React server-side rendering
+
+  * [[GitHub] rherwig / template-react-16-ssr](https://github.com/rherwig/template-react-16-ssr) - Server-side rendering template using express and react 16
+
+--
+
 * [Using a React 16 Portal to do something cool | Hackernoon](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202) - 2017/11/07
 
 * [Usando os portais do React para criar modais mais práticos | CodePrestige - Medium](https://medium.com/code-prestige/usando-os-portais-do-react-para-criar-modais-mais-pr%C3%A1ticos-fe1db6ab68f2) - 2017/11/22
