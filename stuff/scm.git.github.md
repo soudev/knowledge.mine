@@ -588,6 +588,8 @@ git branch -D feature/branch
 
 --
 
+* [[GitHub] sallar / github-contributions-chart](https://github.com/sallar/github-contributions-chart) - Generate an image of all your Github contributions
+
 * [[GitHub] IonicaBizau / git-stats](https://github.com/IonicaBizau/git-stats) - Local git statistics including GitHub-like contributions calendars.
 
 * [[GitHub] kamranahmedse / git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
