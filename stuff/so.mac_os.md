@@ -307,15 +307,29 @@
 
 ### Java
 
-* [Java for OS X 2014-001 | Apple Support](http://support.apple.com/kb/DL1572)
+* [Java for OS X | Apple Support](http://support.apple.com/kb/DL1572)
+
+--
+
+* [JDK 8 Installation for OS X | Oracle Documentation](https://docs.oracle.com/javase/8/docs/technotes/guides/install/mac_jdk.html)
 
 * [JDK 7 Installation for Mac OS X | Oracle Documentation](http://docs.oracle.com/javase/7/docs/webnotes/install/mac/mac-jdk.html)
 
-* [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
+--
+
+* [[Gist] How To Install Java 8 on Mac](https://gist.github.com/tomysmile/a9a7aee85ff73454bd57e198ad90e614)
+
+* [How to install JDK 8 on Mac OS X | dalanzg.github.io](https://dalanzg.github.io/tips-tutorials/mac/2015/11/22/how-to-install-jdk-8-on-mac-os-x/) - 2015/11/22
 
 * [How do I update Java for my Mac? | Java](https://www.java.com/en/download/help/mac_java_update.xml) - Java 7+
 
+* [[StackOverflow] Installing Java on OS X 10.9 (Mavericks)](https://stackoverflow.com/questions/19533528/installing-java-on-os-x-10-9-mavericks)
+
+--
+
 * [How to Set $JAVA_HOME environment variable on Mac OS X | mkyong.com](mkyong.com)
+
+--
 
 * [[GitHub] wonder-mice / mac-java-launcher](https://github.com/wonder-mice/mac-java-launcher) - Launcher for bundled java application on Mac OS
 
