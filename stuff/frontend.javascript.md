@@ -1317,6 +1317,8 @@
 
 * [A tale of Webpack 4 and how to finally configure it in the right way | hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) - 2018/04/08
 
+* [An Easy to Understand Webpack 4+ Configuration File with Comments | Medium by @timurcatakli](https://medium.com/@timurcatakli/an-easy-to-understand-webpack-4-configuration-file-with-comments-6213882e9edf) - 2018/04/27
+
 --
 
 * [webpack 3: Official Release!! – webpack – Medium](https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b) - 2017/06/19
