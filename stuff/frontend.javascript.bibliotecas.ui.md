@@ -928,6 +928,8 @@
 
 * i18n - Internationalization
 
+  * [React & Redux - Internationalisation | David Bushell – Web Design (UK)](https://dbushell.com/2018/04/05/react-redux-internationalisation/) - 2018/04/05
+
   * [Building an Awesome App with i18n in React | PhraseApp Blog](https://phraseapp.com/blog/posts/react-i18n-app/) - 2018/02/26
 
     * [[GitHub] ashour / react-i18n-demo](https://github.com/ashour/react-i18n-demo/) - React i18n demo apps — companions to PhraseApp blog article
