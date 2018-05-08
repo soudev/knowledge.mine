@@ -900,15 +900,49 @@
 
 --
 
+* [Testing | React Community](https://reactjs.org/community/testing.html)
+
 * [[YouTube] Testing Practices and Principles Workshop (Assert.js Conf) - Kent C. Dodds](https://www.youtube.com/watch?v=VQZx1Z3sW0E) - 2018/03/22
 
 * [[GitHub] kentcdodds / react-testing-library](https://github.com/kentcdodds/react-testing-library) - Simple and complete React DOM testing utilities that encourage good testing practices.
 
   * [Introducing the react-testing-library 🐐 | kentcdodds](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65) - 2018/04/02
 
+* [Testing React Apps | Jest - Facebook](https://facebook.github.io/jest/docs/en/tutorial-react.html)
+
 * [Testing React Components Best Practices | selleo – Medium](https://medium.com/selleo/testing-react-components-best-practices-2f77ac302d12) - 2017/03/03
 
 * [Testing React with Enzyme and Jest: A Video Series](https://javascriptplayground.com/testing-react-enzyme-jest/) - First five episodes are free.
+
+--
+
+* React + Socket.io
+
+  * [Combining React with Socket.io for real-time goodness | DailyJS](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34) - 2017/06/08
+
+  * [ReactJS and Socket.IO Chat Application | Danial Khosravi's Blog](https://danialk.github.io/blog/2013/06/16/reactjs-and-socket-dot-io-chat-application/) - 2015/07/13
+
+    * [[GitHub] DanialK / ReactJS-Realtime-Chat](https://github.com/DanialK/ReactJS-Realtime-Chat) - ReactJS and Socket.IO Chat Application
+
+--
+
+* i18n - Internationalization
+
+  * [Building an Awesome App with i18n in React | PhraseApp Blog](https://phraseapp.com/blog/posts/react-i18n-app/) - 2018/02/26
+
+    * [[GitHub] ashour / react-i18n-demo](https://github.com/ashour/react-i18n-demo/) - React i18n demo apps — companions to PhraseApp blog article
+
+  * [[GitHub] alexdrel / i18n-react](https://github.com/alexdrel/i18n-react) - React (JS) text internationalization and externalizing
+
+    * [Getting started with internationalization (i18n) in React | Our Code World](https://ourcodeworld.com/articles/read/395/getting-started-with-internationalization-i18n-in-react) - 2017/02/19
+
+  * [[GitHub] i18next / react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
+
+    * [I18n with React and i18next | Alligator.io](https://alligator.io/react/i18n-with-react-and-i18next/) - 2017/10/24
+
+  * [[GitHub] yahoo / react-intl](https://github.com/yahoo/react-intl) - Internationalize React apps. This library provides React components and an API to format dates, numbers, and strings, including pluralization and handling translations.
+
+    * [Internationalization in React | freeCodeCamp](https://medium.freecodecamp.org/internationalization-in-react-7264738274a0)
 
 
 #### React starter kit
