@@ -789,6 +789,8 @@
 
   * [[YouTube] Redux Tutorial - Learn React/Redux in one video | Learn Coding Tutorials](https://www.youtube.com/watch?v=OSSpVLpuVWA) - 2018/02/12
 
+  * [[YouTube playlist] Redux Tutorial | LearnCode.academy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+
   * [[YouTube] Redux Crash Course With React | Traversy Media](https://www.youtube.com/watch?v=93p3LxR9xfM) - 2018/03/17
 
     * [[GitHub] bradtraversy / redux_crash_course](https://github.com/bradtraversy/redux_crash_course) - Simple implementation of Redux with React 16
