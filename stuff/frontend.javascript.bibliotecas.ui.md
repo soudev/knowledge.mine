@@ -529,6 +529,8 @@
 
 --
 
+* [[YouTube] Talk #54 - React para iniciantes | Pagar.me Talks](https://www.youtube.com/watch?v=hHDMKZ3T6Kw) - 2017/12/14
+
 * [Learn React](http://learnreact.com/)
 
 * [React in 7 Minutes - React Video Tutorial #free | @eggheadio](https://egghead.io/lessons/react-react-in-7-minutes)
