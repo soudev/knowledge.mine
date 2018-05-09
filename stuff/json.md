@@ -187,7 +187,9 @@
 
   * [Create A REST API With JSON Server | CodingTheSmartWay.com Blog – Medium](https://medium.com/codingthesmartway-com-blog/create-a-rest-api-with-json-server-36da8680136d) - 2017/02/26
 
-* [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - A fake online REST API for testing and prototyping
+* [[GitHub] typicode / jsonplaceholder](https://github.com/typicode/jsonplaceholder) - A simple online fake REST API server
+
+  * [JSONPlaceholder](http://jsonplaceholder.typicode.com/) - A fake online REST API for testing and prototyping
 
 --
 
