@@ -779,9 +779,11 @@
 
   * [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
 
+  * [[YouTube playlist] Redux Tutorials | LearnCode.academy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+
   * [[YouTube] Aprenda Redux em 5 minutos | V Plus Plus](https://www.youtube.com/watch?v=Bg0xlUYAp0c) - 2017/04/10
 
-  * [[YouTube playlist] Redux Tutorials | LearnCode.academy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
+  * [[YouTube] Adding Redux to a Simple React App | Dave Ceddia](https://www.youtube.com/watch?v=sX3KeP7v7Kg) - 2017/12/30
 
   * [[GitHub] redux-offline / redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 
@@ -789,6 +791,11 @@
 
   * [[slides] Redesigning Redux](https://slides.com/shmck/redesigning-redux) - 2018/03/22
 
+  * [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets | freeCodeCamp](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a) - 2017/12/07
+
+    * [[YouTube] Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets - Tutorial | freeCodeCamp](https://www.youtube.com/watch?v=x_fHXt9V3zQ) - 2018/01/26
+
+      * [[GitHub] beaucarnes / fcc-project-tutorials / chat](https://github.com/beaucarnes/fcc-project-tutorials/tree/master/chat)
 
 --
 
