@@ -139,6 +139,8 @@
 
 ### Fonts
 
+* [Nerd Fonts](http://nerdfonts.com/) - Iconic font aggregator, collection, and patcher
+
 * [Google Fonts](https://fonts.google.com/)
 
   * [The new Google Fonts database is a design geek's paradise | The Verge](http://www.theverge.com/2016/6/15/11950320/google-fonts-website-redesign-2016) - 2016/06/15
