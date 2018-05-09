@@ -787,6 +787,10 @@
 
   * [[YouTube] Redux Tutorial - Learn React/Redux in one video | Learn Coding Tutorials](https://www.youtube.com/watch?v=OSSpVLpuVWA) - 2018/02/12
 
+  * [[YouTube] Redux Crash Course With React | Traversy Media](https://www.youtube.com/watch?v=93p3LxR9xfM) - 2018/03/17
+
+    * [[GitHub] bradtraversy / redux_crash_course](https://github.com/bradtraversy/redux_crash_course) - Simple implementation of Redux with React 16
+
   * [[GitHub] redux-offline / redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 
   * [Developing Games with React, Redux, and SVG - Part 1 | @auth0](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/) - (2018/02/06) Learn how to make React and Redux control a bunch of SVG elements to create a game.
