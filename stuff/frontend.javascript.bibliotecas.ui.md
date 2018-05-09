@@ -785,6 +785,8 @@
 
   * [[YouTube] Adding Redux to a Simple React App | Dave Ceddia](https://www.youtube.com/watch?v=sX3KeP7v7Kg) - 2017/12/30
 
+  * [[YouTube] Redux Tutorial - Learn React/Redux in one video | Learn Coding Tutorials](https://www.youtube.com/watch?v=OSSpVLpuVWA) - 2018/02/12
+
   * [[GitHub] redux-offline / redux-offline](https://github.com/redux-offline/redux-offline) - Build Offline-First Apps for Web and React Native
 
   * [Developing Games with React, Redux, and SVG - Part 1 | @auth0](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/) - (2018/02/06) Learn how to make React and Redux control a bunch of SVG elements to create a game.
