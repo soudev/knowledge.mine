@@ -763,6 +763,10 @@
 
   * [Nested routes with React Router v4 | tylermcginnis.com](https://tylermcginnis.com/react-router-nested-routes/) - 2018/01/29
 
+  * [A Simple React Router v4 Tutorial | Paul Sherman – Medium](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) - 2017/03/11
+
+  * [[GitHub] ReactTraining / react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+
   * [[GitHub] pedsmoreira / named-react-router](https://github.com/pedsmoreira/named-react-router) - Use named routes with react-router v4
 
 * [Protected routes and Authentication with React and Node.js | Medium](https://medium.com/strapi/protected-routes-and-authentication-with-react-and-node-js-d31d234644cd) - 2018/02/21
