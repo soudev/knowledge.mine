@@ -653,6 +653,11 @@
 
 * [React’s new Context API | kentcdodds](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) - 2018/02/05
 
+* [[YouTube] Migrating from Redux to the New React Context API |
+Handlebar Labs](https://www.youtube.com/watch?v=ISgz8F9z0aM) - 2018/03/13
+
+  * [[YouTube] HandlebarLabs / currency-converter-starter](https://github.com/HandlebarLabs/currency-converter-starter) - Code for the React Native Basics: Build a Currency Converter Course | changes : [moving from redux to the context api](https://github.com/HandlebarLabs/currency-converter-starter/compare/e96b8b31529291029ce56d9cd1dab352a4a09102...dfd226dee89d2aa723470b567fab3a957e294822)
+
 --
 
 * [[GitHub] jaredpalmer / awesome-react-render-props](https://github.com/jaredpalmer/awesome-react-render-props) - Awesome list of React components with render props
@@ -785,7 +790,7 @@
 
   * [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
 
-  * [[YouTube] React-Redux best practice - Better architect applications | 
+  * [[YouTube] React-Redux best practice - Better architect applications |
 Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
   * [[YouTube playlist] Redux Tutorials | LearnCode.academy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
