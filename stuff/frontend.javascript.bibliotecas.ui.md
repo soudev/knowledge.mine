@@ -1052,6 +1052,8 @@
 
 --
 
+* [[GitHub] emotion-js / emotion](https://github.com/emotion-js/emotion) - style as a function of state
+
 * [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
 
   * [Quick Tip: How to Style React Components with styled-components | SitePoint](https://www.sitepoint.com/style-react-components-styled-components/) - 2017/04/20
