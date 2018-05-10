@@ -273,11 +273,17 @@
 
 * [JavaScript Dubstep Generator](http://www.mazbox.com/synths/dubstep/) - Uma lib que gera efeitos no canvas com ondas sonoras de uma música
 
+--
+
 * [HTML5 Video and Background Images](http://www.iandevlin.com/blog/2013/03/html5/html5-video-and-background-images)
 
 * [html5 video streaming from google drive](http://sourcey.com/html5-video-streaming-from-google-drive/)
 
 * [Adding captions and subtitles to HTML5 video | MDN](https://developer.mozilla.org/en-US/Apps/Build/Manipulating_media/Adding_captions_and_subtitles_to_HTML5_video)
+
+* [[GitHub] sampotts / plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+
+--
 
 * [[Speaker Deck] Augmented Reality in JavaScript](https://speakerdeck.com/zenorocha/augmented-reality-in-javascript) - by Zeno Rocha
 
