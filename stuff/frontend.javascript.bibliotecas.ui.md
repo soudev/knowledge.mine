@@ -785,6 +785,9 @@
 
   * [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
 
+  * [[YouTube] React-Redux best practice - Better architect applications | 
+Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
+
   * [[YouTube playlist] Redux Tutorials | LearnCode.academy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 
   * [[YouTube] Aprenda Redux em 5 minutos | V Plus Plus](https://www.youtube.com/watch?v=Bg0xlUYAp0c) - 2017/04/10
