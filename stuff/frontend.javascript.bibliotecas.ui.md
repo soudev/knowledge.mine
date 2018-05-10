@@ -653,8 +653,6 @@
 
 * [React’s new Context API | kentcdodds](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) - 2018/02/05
 
-* [[YouTube] Introduction To React 16.3 Context API | Theodore Anderson](https://www.youtube.com/watch?v=219L5lN3fpk) - 2018/02/06
-
 * [[YouTube] React 16.3 - New Context API, Updated Lifecycle Hooks, New Ref API | Academind](https://www.youtube.com/watch?v=yaZzJ37Qb0U) - 2018/04/04
 
 * [[YouTube] Migrating from Redux to the New React Context API |
