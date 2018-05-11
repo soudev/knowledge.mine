@@ -593,6 +593,8 @@
 
 * [16 Best YouTube Channels To Start Learning Web Development | Hongkiat](http://www.hongkiat.com/blog/web-dev-youtube-channels/)
 
+* [[GitHub] mtdvio / every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know
+
 --
 
 * [DevNewsletters](https://devnewsletters.github.io/) - [github](https://github.com/devnewsletters/devnewsletters.github.io)
