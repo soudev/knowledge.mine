@@ -742,6 +742,8 @@ Handlebar Labs](https://www.youtube.com/watch?v=ISgz8F9z0aM) - 2018/03/13
 
 --
 
+* [[YouTube] React & Webpack 4 From Scratch - No CLI | Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4) - 2018/03/29
+
 * [React — Setup mínimo com Webpack | Douglas Matoso](https://blog.dmatoso.com/react-setup-m%C3%ADnimo-com-webpack-ec33b116ac07) - 2017/08/28
 
   * [[GitHub] doug2k1 / react-minimal-setup](https://github.com/doug2k1/react-minimal-setup)
