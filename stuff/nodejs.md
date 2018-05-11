@@ -2742,6 +2742,8 @@ alias npmplease="rm -rf node_modules/ && rm -f package-lock.json && npm install"
 
   * [Criando um chat usando session do Express 4 no Socket.IO 1.0](http://udgwebdev.com/criando-um-chat-usando-session-do-express-4-no-socket-io-1-0/)
 
+* [[GitHub] AppSaloon / socket.io-tester](https://github.com/AppSaloon/socket.io-tester) - An electron app that lets you connect to a socket.io server and subscribe to a certain topic and/or lets you send socket messages to the server
+
 
 #### Connect
 
