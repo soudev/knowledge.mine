@@ -354,3 +354,8 @@
 --
 
 * [[GitHub] angular-redux / ng2-redux](https://github.com/angular-redux/ng2-redux) - Angular 2 bindings for Redux
+
+
+## Examples
+
+* [[GitHub] kdechant / angular5-httpclient-demo](https://github.com/kdechant/angular5-httpclient-demo) - Demo application showing how to use the HttpClient and Observables to make API calls from Angular 5
