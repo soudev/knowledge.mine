@@ -655,6 +655,10 @@
 
 * [React’s new Context API | kentcdodds](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) - 2018/02/05
 
+* [React’s safe Context API | codeburst](https://codeburst.io/reacts-impending-safe-context-api-630d119c93f4) - 2018/03/08
+
+  * [[Codepen] Day & Night toggle w/ React Context API ☀️🌔😎](https://codepen.io/jh3y/pen/WzeJZz)
+
 * [How to Use New React Context Api detailed | codeburst](https://codeburst.io/how-react-context-api-works-detailed-4fc483d93fd0) - 2018/04/05
 
   * [[GitHub] saigowthamr / React-context-api](https://github.com/saigowthamr/React-context-api) - how react context api works
