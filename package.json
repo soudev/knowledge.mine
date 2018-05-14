@@ -1,0 +1,29 @@
+{
+  "name": "knowledge-mine",
+  "version": "1.0.0",
+  "description": "place with a lot of useful references and its links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soudev/knowledge.mine.git"
+  },
+  "keywords": [
+    "knowledge",
+    "mine",
+    "markdown",
+    "links",
+    "development"
+  ],
+  "author": "Erko Bridee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soudev/knowledge.mine/issues"
+  },
+  "homepage": "https://github.com/soudev/knowledge.mine#readme",
+  "dependencies": {
+    "markdown-toc": "^1.2.0"
+  }
+}
