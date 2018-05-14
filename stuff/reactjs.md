@@ -6,6 +6,7 @@
 - [Learn](#learn)
 - [Tips](#tips)
 - [Project setup](#project-setup)
+  * [Using webpack](#using-webpack)
   * [React starter kit](#react-starter-kit)
 - [UI/Styles](#uistyles)
   * [React and css](#react-and-css)
@@ -288,15 +289,26 @@
 
 ## Project setup
 
+* [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
+
+* [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
+
+
+### Using webpack
+
 * [[YouTube] React & Webpack 4 From Scratch - No CLI | Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4) - 2018/03/29
 
 * [React — Setup mínimo com Webpack | Douglas Matoso](https://blog.dmatoso.com/react-setup-m%C3%ADnimo-com-webpack-ec33b116ac07) - 2017/08/28
 
   * [[GitHub] doug2k1 / react-minimal-setup](https://github.com/doug2k1/react-minimal-setup)
 
-* [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
+* [[YouTube] Webpack 3 - ES6 + React + Sass | Steven Pérez](https://www.youtube.com/watch?v=_w6KaIy_RP0) - 2017/07/17
 
-* [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
+  * [[GitHub] StevenPerez / tutorial-webpack](https://github.com/StevenPerez/tutorial-webpack) - Este repositorio contiene el material explicado en el video tutorial de Webpack 3
+
+* [[YouTube] ReactJS with Webpack Tutorial - Setup & ReactJS Router/Navigation David Acosta](https://www.youtube.com/watch?v=w9-1T1D0xlQ) - 2017/06/03
+
+  * [[GitHub] gugui3z24 / ReactJS-Webpack-Tutorial](https://github.com/gugui3z24/ReactJS-Webpack-Tutorial) - Setting a ReactJS Development Environment Using Webpack
 
 
 ### React starter kit
