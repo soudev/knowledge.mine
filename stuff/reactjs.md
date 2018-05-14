@@ -312,6 +312,8 @@
 
   * [[GitHub] gugui3z24 / ReactJS-Webpack-Tutorial](https://github.com/gugui3z24/ReactJS-Webpack-Tutorial) - Setting a ReactJS Development Environment Using Webpack
 
+* [[GitHub] roebuk / aletta](https://github.com/roebuk/aletta) - is a progressive blogging application created with React using webpack as devtool.
+
 
 ### React starter kit
 
@@ -330,6 +332,8 @@
 * [[GitHub] timarney / react-app-rewired](https://github.com/timarney/react-app-rewired) - Override create-react-app webpack configs without ejecting
 
   * [React / Create React App — But I don’t wanna Eject | Tim Arney - Medium](https://medium.com/@timarney/but-i-dont-wanna-eject-3e3da5826e39) - 2016/12/01
+
+* [[GitHub] MyNameIsURL / react-bootstrap-website](https://github.com/MyNameIsURL/react-bootstrap-website) - React-Bootstrap Tutorial posted to [YouTube](https://www.youtube.com/watch?v=jgVkR5EKI68)
 
 --
 
