@@ -12,9 +12,14 @@
   * [CSS in JS - React style components](#css-in-js---react-style-components)
   * [React UI components](#react-ui-components)
 - [Router](#router)
+- [Fetch Data](#fetch-data)
+  * [Axios](#axios)
+  * [Fetch API](#fetch-api)
+- [LocalStorage](#localstorage)
 - [RxJS](#rxjs)
 - [Flux Architecture](#flux-architecture)
   * [Redux](#redux)
+  * [Redux fetch data](#redux-fetch-data)
 - [Testing](#testing)
 - [Peer-to-peer](#peer-to-peer)
 - [Real time](#real-time)
@@ -446,6 +451,38 @@
 * [Protected routes and Authentication with React and Node.js | Medium](https://medium.com/strapi/protected-routes-and-authentication-with-react-and-node-js-d31d234644cd) - 2018/02/21
 
 
+## Fetch Data
+
+### Axios
+
+> [[GitHub] axios / axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
+
+* [[YouTube] How to use Axios with React | Paul Halliday](https://www.youtube.com/watch?v=oQnojIyTXb8) - 2018/03/16
+
+  * [Using Axios with React | Alligator.io](https://alligator.io/react/axios-react/)
+
+### Fetch API
+
+> * [[GitHub] github / fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
+
+* [[YouTube] React 101 - 6/11 - How to use Fetch API with React | Ihatetomatoes](https://www.youtube.com/watch?v=aNMY0lrWZXU) - 2017/11/08
+
+* [YouTbe] Using APIs in React - Create a Weather Application | React tutorial for Beginners
+
+  * [Part 1](https://www.youtube.com/watch?v=204C9yNeOYI)
+
+  * [Part 2](https://www.youtube.com/watch?v=P0vsGO4svUM)
+
+  * [[GitHub] hamza-mirza / react-weather-app](https://github.com/hamza-mirza/react-weather-app) - Source code for a React weather app tutorial.
+
+* [Create React App with an Express Backend | Dave Ceddia](https://daveceddia.com/create-react-app-express-backend/) - 2017/04/19
+
+
+## LocalStorage
+
+* [[YouTube] React 101 - 7/11 - How to use localStorage with React | Ihatetomatoes](https://www.youtube.com/watch?v=ZZS1irWSfxc) - 2017/11/09
+
+
 ## RxJS
 
 * Using RxJS with React.js: – Fahad Ibnay Heylaal – Medium
@@ -518,6 +555,19 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
   * [[YouTube] Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets - Tutorial | freeCodeCamp](https://www.youtube.com/watch?v=x_fHXt9V3zQ) - 2018/01/26
 
     * [[GitHub] beaucarnes / fcc-project-tutorials / chat](https://github.com/beaucarnes/fcc-project-tutorials/tree/master/chat)
+
+
+### Redux fetch data
+
+* [[GitHub] oviava / react-redux-axios-example](https://github.com/oviava/react-redux-axios-example) - Example async data fetch with spinner
+
+* [[GitHub] redux-saga / redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
+
+  * [[YouTube] How to add Redux Saga to Create React App | Ben Awad](https://www.youtube.com/watch?v=Bq_Hkj-G-4c) - 2017/08/10
+
+  * [[YouTube] Fetching data from an API using Redux Saga | Ben Awad](https://www.youtube.com/watch?v=jQ4YD7Ip6T4) - 2017/08/11
+
+    * [[GitHub] benawad / cra-redux-saga](https://github.com/benawad/cra-redux-saga/tree/2_fetch_from_api) - A simple example that uses Redux Saga and Create React App
 
 
 ## Testing
@@ -640,6 +690,8 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 * [How to Use New React Context Api detailed | codeburst](https://codeburst.io/how-react-context-api-works-detailed-4fc483d93fd0) - 2018/04/05
 
   * [[GitHub] saigowthamr / React-context-api](https://github.com/saigowthamr/React-context-api) - how react context api works
+
+* [[YouTube] React Context API | Dave Bennett - Development](https://www.youtube.com/watch?v=W_0z_6pMokA) - 2018/03/21
 
 * [[YouTube] React 16.3 - New Context API, Updated Lifecycle Hooks, New Ref API | Academind](https://www.youtube.com/watch?v=yaZzJ37Qb0U) - 2018/04/04
 
