@@ -1313,6 +1313,8 @@
 
 * [🎼webpack 4: released today!!✨ | webpack – Medium](https://medium.com/webpack/webpack-4-released-today-6cdb994702d4) - 2018/02/26
 
+* [[YouTube] webpack academy - webpack 4 - RIP CommonsChunkPlugin Pt 1. | Sean Larkin](https://www.youtube.com/watch?v=hQBAQh5AFwA) - 2018/02/04
+
 * [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode | Hacker Noon](https://hackernoon.com/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-d32759d0dc2d) - 2018/01/19
 
 * [Webpack 4.0 Release: What's New? | Auth0](https://auth0.com/blog/webpack-4-release-what-is-new/) - 2018/02/26
