@@ -9,6 +9,7 @@
   * [React starter kit](#react-starter-kit)
 - [UI/Styles](#uistyles)
   * [React and css](#react-and-css)
+    + [React and Sass](#react-and-sass)
   * [CSS in JS - React style components](#css-in-js---react-style-components)
   * [React components](#react-components)
     + [React compound components](#react-compound-components)
@@ -373,7 +374,20 @@
 
   * [[GitHub] gajus / babel-plugin-react-css-modules](https://github.com/gajus/babel-plugin-react-css-modules) - Transforms styleName to className using compile time CSS module resolution
 
+
+#### React and Sass
+
+* [Adding a CSS Preprocessor (Sass, Less etc.) | create-reat-app docs](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)
+
 * [How To Include SASS In Your React Project | AutomationFuel](https://www.automationfuel.com/sass-react-webpack/)
+
+* [[YouTube] Sass setup in create-react-app project | Jordan Rhea](https://www.youtube.com/watch?v=tWp0oxbzZ3s) - 2017/01/21
+
+  * [[Gist] rheajt / readme.md](https://gist.github.com/rheajt/2f2f070291e39e86cf44705aa74e412e) - sass setup for create-react-app cli tool
+
+* [[YouTube] Using Pre-processors Scss and Sass with Create-React-App | Jordan Rhea](https://www.youtube.com/watch?v=2QaI5ajg4Hw) - 2017/10/11
+
+* [[YouTube] Sass styles in create-react-app | Code With Nate](https://www.youtube.com/watch?v=B_zZDa80FVo) - 2017/11/03
 
 
 ### CSS in JS - React style components
