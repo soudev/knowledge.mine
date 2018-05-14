@@ -614,6 +614,16 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
   * [[GitHub] DanialK / ReactJS-Realtime-Chat](https://github.com/DanialK/ReactJS-Realtime-Chat) - ReactJS and Socket.IO Chat Application
 
+* [[YouTube] 15 - Curso React - SocketIO + React | codigofacilito](https://www.youtube.com/watch?v=KkjtC1UrUCI)
+
+* [[YouTube Playlist] Real Time Chat App with ReactJS and Socket.io | Leon Watson](https://www.youtube.com/watch?v=84GXJANOYFw&list=PLfUtdEcvGHFHdOYFXj4cY6ZIFkSp6MOuY)
+
+* [[YouTube] Basic Real-time Web App using React and Feathersjs | Ben Awad](https://www.youtube.com/watch?v=l2OIBV4RfAU) - Learn how to use sockets with react, redux, and [feathersjs](https://feathersjs.com/).
+
+  * Project template : [[GitHub] benawad / react-template](https://github.com/benawad/react-template) - Has all the boilerplate filled out for react + react-router + redux + redux-saga + semantic-ui
+
+  * [[GitHub] benawad / basic-realtime-react-client](https://github.com/benawad/basic-realtime-react-client) - Basic websockets example using React for the client and feathersjs for the backend
+
 
 ## i18n - Internationalization
 
