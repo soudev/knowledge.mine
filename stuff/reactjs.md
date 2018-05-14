@@ -5,8 +5,8 @@
 - [Main references](#main-references)
 - [Learn](#learn)
 - [Tips](#tips)
-- [React starter kit](#react-starter-kit)
-  * [Custom project setup](#custom-project-setup)
+- [Project setup](#project-setup)
+  * [React starter kit](#react-starter-kit)
 - [UI/Styles](#uistyles)
   * [React and css](#react-and-css)
   * [CSS in JS - React style components](#css-in-js---react-style-components)
@@ -283,7 +283,20 @@
 * [Introducing React Food Truck | Burke Knows Words](https://burkeknowswords.com/introducing-react-food-truck-b23ea1e2cf79) - (2017/11/30) React Food Truck is a curated set of extensions for discerning React developers who use VS Code.
 
 
-## React starter kit
+## Project setup
+
+* [[YouTube] React & Webpack 4 From Scratch - No CLI | Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4) - 2018/03/29
+
+* [React — Setup mínimo com Webpack | Douglas Matoso](https://blog.dmatoso.com/react-setup-m%C3%ADnimo-com-webpack-ec33b116ac07) - 2017/08/28
+
+  * [[GitHub] doug2k1 / react-minimal-setup](https://github.com/doug2k1/react-minimal-setup)
+
+* [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
+
+* [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
+
+
+### React starter kit
 
 * [Starter Kits | React](https://reactjs.org/community/starter-kits.html)
 
@@ -336,19 +349,6 @@
   * [create-component-app v1 is out now 🎉 | Hacker Noon](https://hackernoon.com/create-component-app-v1-is-out-now-6ca0217992e9) - 2017/10/25
 
   * [Pare de copiar e colar componentes React e use o create-component-app | Diego Martins de Pinho - Medium](https://medium.com/@DiegoMartinsDePinho/pare-de-copiar-e-colar-componentes-react-e-use-o-create-component-app-25f0c7e21588) - 2017/10/26
-
-
-### Custom project setup
-
-* [[YouTube] React & Webpack 4 From Scratch - No CLI | Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4) - 2018/03/29
-
-* [React — Setup mínimo com Webpack | Douglas Matoso](https://blog.dmatoso.com/react-setup-m%C3%ADnimo-com-webpack-ec33b116ac07) - 2017/08/28
-
-  * [[GitHub] doug2k1 / react-minimal-setup](https://github.com/doug2k1/react-minimal-setup)
-
-* [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
-
-* [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
 
 
 ## UI/Styles
