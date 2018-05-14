@@ -426,6 +426,10 @@
 
   * [Styling in React: From External CSS to Styled Components | SitePoint](https://www.sitepoint.com/style-react-components-styled-components/) - 2017/09/07
 
+  * [[YouTube Playlist] Tutorial: Build a portfolio with ReactJs | FroDev](https://www.youtube.com/watch?v=QR40RON4S-4&list=PLeQcRHIS0mbiyZ4rrbfu7CSfCTT0t4lSD) - using styled components
+
+    * [[GitHub] chuson1996 / portfolio-tutorial](https://github.com/chuson1996/portfolio-tutorial)
+
 * [[GitHub] airbnb / react-with-styles](https://github.com/airbnb/react-with-styles) - Use CSS-in-JavaScript with themes for React without being tightly coupled to one implementation
 
   * [react-with-styles | Airbnb Engineering](http://airbnb.io/projects/react-with-styles/)
