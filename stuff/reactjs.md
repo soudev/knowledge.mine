@@ -357,6 +357,8 @@
 
 * [Styling React | SurviveJS](https://survivejs.com/react/advanced-techniques/styling-react/)
 
+* [4. Four ways to style react components | codeburst.io](https://codeburst.io/4-four-ways-to-style-react-components-ac6f323da822)
+
 * [[YouTube] Tech Talk: Make CSS Functional | Fullstack Academy](https://www.youtube.com/watch?v=eHS1Ohybb_k) - 2017/01/23
 
 * [[YouTube] David Wells - CSS in React | reactjs sf meetup](https://www.youtube.com/watch?v=U86-MFPsarQ) - 2016/07/11
