@@ -10,7 +10,9 @@
 - [UI/Styles](#uistyles)
   * [React and css](#react-and-css)
   * [CSS in JS - React style components](#css-in-js---react-style-components)
-  * [React UI components](#react-ui-components)
+  * [React components](#react-components)
+    + [React compound components](#react-compound-components)
+    + [React UI components](#react-ui-components)
 - [Router](#router)
 - [Fetch Data](#fetch-data)
   * [Axios](#axios)
@@ -407,7 +409,16 @@
 * [[GitHub] rtsao / styletron](https://github.com/rtsao/styletron) - Universal, high-performance JavaScript styles
 
 
-### React UI components
+### React components
+
+#### React compound components
+
+* [[YouTube] Ryan Florence - Compound Components | Phoenix ReactJS](https://www.youtube.com/watch?v=hEGg-3pIHlE) - 2017/04/01
+
+* [3 easy steps to writing compound components | Steven Natera – Medium](https://medium.com/@stevennatera/3-easy-steps-to-writing-compound-components-5d4647b7bb7) - (2018/05/12) Let’s dive into the world of clean React code with compound components. [Sandbox Editor Example](https://codesandbox.io/s/n4yl5n9vp0).
+
+
+#### React UI components
 
 * [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
 
