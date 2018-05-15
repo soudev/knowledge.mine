@@ -6,6 +6,7 @@
 - [Learn](#learn)
 - [Tips](#tips)
 - [Project setup](#project-setup)
+  * [Using parcel](#using-parcel)
   * [Using webpack](#using-webpack)
   * [React starter kit](#react-starter-kit)
 - [UI/Styles](#uistyles)
@@ -293,8 +294,18 @@
 
 * [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
 
+### Using parcel
+
+> [Parcel](https://parceljs.org/)
+
+* [[YouTube] React, Typescript and Sass with Parcel - Part 1 | Richard Oliver Bray](https://www.youtube.com/watch?v=jdFaLrzfDB0) - 2018/01/22
+
+* [[YouTube] React, Typescript and Sass with Parcel - Part 2 | Richard Oliver Bray](https://www.youtube.com/watch?v=Px_2JE1vBkI) - 2018/01/22
+
 
 ### Using webpack
+
+> [Webpack](https://webpack.js.org/)
 
 * [[YouTube] React & Webpack 4 From Scratch - No CLI | Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4) - 2018/03/29
 
@@ -313,6 +324,12 @@
   * [[GitHub] gugui3z24 / ReactJS-Webpack-Tutorial](https://github.com/gugui3z24/ReactJS-Webpack-Tutorial) - Setting a ReactJS Development Environment Using Webpack
 
 * [[GitHub] roebuk / aletta](https://github.com/roebuk/aletta) - is a progressive blogging application created with React using webpack as devtool.
+
+* TypeScript
+
+  * [React & Typescript with Webpack | gitconnected](https://levelup.gitconnected.com/react-typescript-with-webpack-2fceebb8faf) - 2018/01/10
+
+  * [React & Typescript with Webpack part 2 | Richard Oliver Bray – Medium](https://medium.com/@richbray/react-typescript-with-webpack-part-2-aa02d150c59b) - 2018/01/10
 
 
 ### React starter kit
