@@ -513,6 +513,8 @@
 
 * [Three Secrets You Need to Know About Spoken English | Judy Thompson | TEDxOakville](https://www.youtube.com/watch?v=NcX2AwH3cG8) - 2010/10/26
 
+* [[YouTube] How to get fluent in English | Canguro English](https://www.youtube.com/watch?v=cxwRViDKwEg) - 2017/10/27
+
 * [[YouTube] How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0) - 2013/11/20
 
 * [[YouTube] 5 techniques to speak any language | Sid Efromovich | TEDxUpperEastSide](https://www.youtube.com/watch?v=-WLHr1_EVtQ) - 2013/08/30
