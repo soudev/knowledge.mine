@@ -543,7 +543,7 @@
 
 * [[YouTube] React 101 - 6/11 - How to use Fetch API with React | Ihatetomatoes](https://www.youtube.com/watch?v=aNMY0lrWZXU) - 2017/11/08
 
-* [YouTbe] Using APIs in React - Create a Weather Application | React tutorial for Beginners
+* [YouTube] Using APIs in React - Create a Weather Application | React tutorial for Beginners
 
   * [Part 1](https://www.youtube.com/watch?v=204C9yNeOYI)
 
