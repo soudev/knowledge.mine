@@ -512,6 +512,8 @@
 
 * [React Router v4: Philosophy and Introduction | tylermcginnis.com](https://tylermcginnis.com/react-router-philosophy-introduction/) - 2018/01/10
 
+* [Basic intro to React Router v4 | Jason Arnold – Medium](https://medium.com/@thejasonfile/basic-intro-to-react-router-v4-a08ae1ba5c42) - 2017/09/18
+
 * [Handling 404 pages (catch all routes) with React Router v4 | tylermcginnis.com](https://tylermcginnis.com/react-router-handling-404-pages/) - 2018/01/18
 
 * [Nested routes with React Router v4 | tylermcginnis.com](https://tylermcginnis.com/react-router-nested-routes/) - 2018/01/29
