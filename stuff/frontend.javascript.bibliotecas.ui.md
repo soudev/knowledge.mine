@@ -41,6 +41,8 @@
 
 * [What Progressive Web Apps can do for you | The Official Ionic Blog](http://blog.ionic.io/what-progressive-web-apps-can-do-for-you/) - 2017/08/21
 
+* [Como fazer seu site funcionar offline com PWA | Willian Justen](https://willianjusten.com.br/como-fazer-seu-site-funcionar-offline-com-pwa/) - (2018/03/26) O passo-a-passo de como criar um site PWA que funciona até offline.
+
 --
 
 * [[GitHub] Fooidge / PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
