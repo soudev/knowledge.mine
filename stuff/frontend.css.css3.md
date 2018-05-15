@@ -88,6 +88,10 @@
 
 * Traversy Media
 
+  * [[YouTube] Build a Responsive Grid CSS Website Layout From Scratch | Traversy Media](https://www.youtube.com/watch?v=moBhzSC455o) - 2018/02/05
+
+    * [[CodePen] GridBiz Grid CSS Website Theme](https://codepen.io/bradtraversy/pen/gvMGyB)
+
   * [[YouTube] Grid CSS Responsive Website Layout - "Mobile First" Design | Traversy Media](https://www.youtube.com/watch?v=M3qBpPw77qo) - 2017/11/10
 
     * [[CodePen] CSS Grid Website Layout](https://codepen.io/bradtraversy/pen/RjpQvZ)
