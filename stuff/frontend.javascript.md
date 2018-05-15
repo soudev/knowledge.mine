@@ -1321,6 +1321,8 @@
 
 * [A tale of Webpack 4 and how to finally configure it in the right way | hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) - 2018/04/08
 
+* [A Beginner’s Guide to Webpack 4 and Module Bundling | SitePoint](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/) - 2018/04/25
+
 * [An Easy to Understand Webpack 4+ Configuration File with Comments | Medium by @timurcatakli](https://medium.com/@timurcatakli/an-easy-to-understand-webpack-4-configuration-file-with-comments-6213882e9edf) - 2018/04/27
 
 --
