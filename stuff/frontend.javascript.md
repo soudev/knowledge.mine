@@ -1321,6 +1321,10 @@
 
 * [Moving from Webpack 3 to Webpack 4 | WeAreBrain](https://thebrainfiles.wearebrain.com/moving-from-webpack-3-to-webpack-4-f8cdacd290f9) - 2018/03/09
 
+* [Webpack 4 Tutorial: from 0 Conf to Production Mode | Valentino Gagliardi](https://www.valentinog.com/blog/webpack-4-tutorial/) - 2018/04/01
+
+  * [[GitHub] valentinogagliardi / webpack-4-quickstart](https://github.com/valentinogagliardi/webpack-4-quickstart) - Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
+
 * [A tale of Webpack 4 and how to finally configure it in the right way | hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) - 2018/04/08
 
 * [A Beginner’s Guide to Webpack 4 and Module Bundling | SitePoint](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/) - 2018/04/25

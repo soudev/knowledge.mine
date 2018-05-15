@@ -309,6 +309,10 @@
 
 * [How to streamline your development process and create a React.js app using Webpack 4 | freeCodeCamp](https://medium.freecodecamp.org/how-to-develop-react-js-apps-fast-using-webpack-4-3d772db957e4) - 2018/05/09
 
+* [Webpack 4 Tutorial: from 0 Conf to Production Mode | Valentino Gagliardi](https://www.valentinog.com/blog/webpack-4-tutorial/) - 2018/04/01
+
+  * [[GitHub] valentinogagliardi / webpack-4-quickstart](https://github.com/valentinogagliardi/webpack-4-quickstart) - Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
+
 * [[YouTube] React & Webpack 4 From Scratch - No CLI | Traversy Media](https://www.youtube.com/watch?v=deyxI-6C2u4) - 2018/03/29
 
   * [[GitHub] bradtraversy / react_webpack_starter](https://github.com/bradtraversy/react_webpack_starter) - React 16 and Webpack 4 starter pack
