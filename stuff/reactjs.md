@@ -784,6 +784,8 @@ Handlebar Labs](https://www.youtube.com/watch?v=ISgz8F9z0aM) - 2018/03/13
 
   * [[YouTube] HandlebarLabs / currency-converter-starter](https://github.com/HandlebarLabs/currency-converter-starter) - Code for the React Native Basics: Build a Currency Converter Course | changes : [moving from redux to the context api](https://github.com/HandlebarLabs/currency-converter-starter/compare/e96b8b31529291029ce56d9cd1dab352a4a09102...dfd226dee89d2aa723470b567fab3a957e294822)
 
+* [How to create react-tabs using ContextAPI | DailyJS](https://medium.com/dailyjs/how-to-create-react-tabs-using-contextapi-932c7bec35c7) - 2018/05/11
+
 
 ### Render Props
 
