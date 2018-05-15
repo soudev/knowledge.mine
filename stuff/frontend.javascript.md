@@ -1319,6 +1319,8 @@
 
 * [Webpack 4.0 Release: What's New? | Auth0](https://auth0.com/blog/webpack-4-release-what-is-new/) - 2018/02/26
 
+* [Moving from Webpack 3 to Webpack 4 | WeAreBrain](https://thebrainfiles.wearebrain.com/moving-from-webpack-3-to-webpack-4-f8cdacd290f9) - 2018/03/09
+
 * [A tale of Webpack 4 and how to finally configure it in the right way | hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) - 2018/04/08
 
 * [A Beginner’s Guide to Webpack 4 and Module Bundling | SitePoint](https://www.sitepoint.com/beginners-guide-webpack-module-bundling/) - 2018/04/25
