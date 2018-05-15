@@ -429,6 +429,8 @@
 
 ### CSS in JS - React style components
 
+* [Getting started with CSS modules in React | Pusher Blog](https://blog.pusher.com/css-modules-react/) - 2018/02/15
+
 * [[YouTube] React JS Style Components | Full Stack Talks](https://www.youtube.com/watch?v=gNeavlJ7lNY) - 2016/08/31
 
   * [“Scale” FUD and Style Components | learnreact](https://medium.learnreact.com/scale-fud-and-style-components-c0ce87ec9772) - 2016/07/18
