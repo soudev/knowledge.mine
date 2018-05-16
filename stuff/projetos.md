@@ -109,11 +109,17 @@
 
 --
 
+* [[GitHub] tobloef / text2mindmap](https://github.com/tobloef/text2mindmap) - Online tool for making mindmaps by writing indented lists
+
 * [MindMup](https://www.mindmup.com/) - free online mind mapping
+
+--
 
 * [NinjaMock](http://ninjamock.com/) - free tool for mobile app wireframes and website mockups.
 
 * [Balsamiq](https://balsamiq.com/) - is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.
+
+--
 
 * [InVision](http://www.invisionapp.com/) - Free Web & Mobile Prototyping (Web, iOS, Android) and UI Mockup Tool
 
