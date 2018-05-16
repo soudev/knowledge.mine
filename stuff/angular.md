@@ -359,3 +359,7 @@
 ## Examples
 
 * [[GitHub] kdechant / angular5-httpclient-demo](https://github.com/kdechant/angular5-httpclient-demo) - Demo application showing how to use the HttpClient and Observables to make API calls from Angular 5
+
+## Documentation
+
+* [[GitHub] compodoc / compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
