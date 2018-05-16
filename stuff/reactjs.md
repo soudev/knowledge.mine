@@ -696,6 +696,8 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 * [[YouTube] Hangout #1 - Desenvolvendo um chat com React e Node.js do zero | Deividy Metheler Zachetti](https://www.youtube.com/watch?v=jetavHnJFxw) - 2018/03/02
 
+  * [[YouTube] Hangout #2 - Usando Redux com React na prática | Deividy Metheler Zachetti](https://www.youtube.com/watch?v=ds6BuQbtQg0) - 2018/03/09
+
   * [[GitHub] fullninja / livechat](https://github.com/fullninja/livechat) - Final version of live chat, start development in youtube hangout
 
 * [[YouTube] Basic Real-time Web App using React and Feathersjs | Ben Awad](https://www.youtube.com/watch?v=l2OIBV4RfAU) - Learn how to use sockets with react, redux, and [feathersjs](https://feathersjs.com/).
