@@ -694,6 +694,10 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 * [[YouTube Playlist] Real Time Chat App with ReactJS and Socket.io | Leon Watson](https://www.youtube.com/watch?v=84GXJANOYFw&list=PLfUtdEcvGHFHdOYFXj4cY6ZIFkSp6MOuY)
 
+* [[YouTube] Hangout #1 - Desenvolvendo um chat com React e Node.js do zero | Deividy Metheler Zachetti](https://www.youtube.com/watch?v=jetavHnJFxw) - 2018/03/02
+
+  * [[GitHub] fullninja / livechat](https://github.com/fullninja/livechat) - Final version of live chat, start development in youtube hangout
+
 * [[YouTube] Basic Real-time Web App using React and Feathersjs | Ben Awad](https://www.youtube.com/watch?v=l2OIBV4RfAU) - Learn how to use sockets with react, redux, and [feathersjs](https://feathersjs.com/).
 
   * Project template : [[GitHub] benawad / react-template](https://github.com/benawad/react-template) - Has all the boilerplate filled out for react + react-router + redux + redux-saga + semantic-ui
