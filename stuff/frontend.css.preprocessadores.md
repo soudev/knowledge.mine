@@ -127,6 +127,12 @@
 
 --
 
+* [Dealing with Color Schemes in Sass | SitePoint](https://www.sitepoint.com/dealing-color-schemes-sass/) - 2014/03/06
+
+* [Aesthetic Sass 2: Colors and Palettes | Scotch](https://scotch.io/tutorials/aesthetic-sass-2-colors) - 2015/04/07
+
+--
+
 * [[GitHub] Igosuki / compass-mixins](https://github.com/Igosuki/compass-mixins) - A collection of compass' stylesheet for bower dependencies and libsass
 
 --
