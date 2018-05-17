@@ -422,6 +422,8 @@
 
 #### React and Sass
 
+* [Styling React Components in Sass | HugoGiraudel](https://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/) - 2015/06/18
+
 * [Adding a CSS Preprocessor (Sass, Less etc.) | create-reat-app docs](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)
 
 * [How To Include SASS In Your React Project | AutomationFuel](https://www.automationfuel.com/sass-react-webpack/)
@@ -486,6 +488,8 @@
 #### React UI components
 
 * [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
+
+* [[GitHub] mlaursen / react-md](https://github.com/mlaursen/react-md) - React material design
 
 * [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design
 
