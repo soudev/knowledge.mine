@@ -530,6 +530,12 @@
 
 * [Protected routes and Authentication with React and Node.js | Medium](https://medium.com/strapi/protected-routes-and-authentication-with-react-and-node-js-d31d234644cd) - 2018/02/21
 
+* tabs
+
+  * [Bootstrap Tabs, React Router, and the active class | Brandon Lehr](http://brandonlehr.com/bootstrap-tabs-react-router-and-the-active-class/) - 2016/06/06
+
+  * [[GitHub] chacestew / react-router-tabs](https://github.com/chacestew/react-router-tabs) - Simple navigation tabs for React Router 4
+
 
 ## Fetch Data
 
