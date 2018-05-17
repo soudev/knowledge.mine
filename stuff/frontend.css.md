@@ -2,17 +2,17 @@
 
 <!-- toc -->
 
-* [CSS](#css)
+- [CSS](#css)
   * [Font](#font)
-    * [Font Size and Units](#font-size-and-units)
+    + [Font Size and Units](#font-size-and-units)
   * [Flexbox](#flexbox)
+  * [CSS Selectors](#css-selectors)
   * [Media Query](#media-query)
   * [Tools](#tools)
-    * [Online Tools](#online-tools)
-    * [Desktop Tools](#desktop-tools)
+    + [Online Tools](#online-tools)
+    + [Desktop Tools](#desktop-tools)
 
-<!-- toc stop -->
-
+<!-- tocstop -->
 
 ## CSS
 
@@ -321,6 +321,13 @@ rem - context is always based on root context (html or body)
 --
 
 * [[GitHub] philipwalton / flexbugs](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+
+
+### CSS Selectors
+
+* [CSS Selectors Reference | w3schools](https://www.w3schools.com/cssref/css_selectors.asp)
+
+* [[attribute] | CSS-Tricks](https://css-tricks.com/almanac/selectors/a/attribute/)
 
 
 ### Media Query
