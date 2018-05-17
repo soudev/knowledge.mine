@@ -680,6 +680,8 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 ## Socket.io
 
+* [[GitHub] Cretezy / Noderize / examples / chat-socket-react](https://github.com/Cretezy/Noderize/tree/master/examples/chat-socket-react) - chat server + react chat client
+
 * [Combining React with Socket.io for real-time goodness | DailyJS](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34) - 2017/06/08
 
 * [Build A Real-Time Twitter Stream with Node and React.js | Scotch](https://scotch.io/tutorials/build-a-real-time-twitter-stream-with-node-and-react-js)
