@@ -422,6 +422,10 @@
 
 #### React and Sass
 
+* [[Stack Overflow] React component theme using sass variables depending on React prop value](https://stackoverflow.com/questions/42388393/react-component-theme-using-sass-variables-depending-on-react-prop-value)
+
+--
+
 * [Styling React Components in Sass | HugoGiraudel](https://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/) - 2015/06/18
 
 * [Adding a CSS Preprocessor (Sass, Less etc.) | create-reat-app docs](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#adding-a-css-preprocessor-sass-less-etc)
@@ -789,7 +793,13 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 * [Migrating to React’s New Context API | kentcdodds](https://blog.kentcdodds.com/migrating-to-reacts-new-context-api-b15dc7a31ea0) - 2018/04/23
 
+* [Putting Things in Context With React | CSS-Tricks](https://css-tricks.com/putting-things-in-context-with-react/) - 2018/03/21
+
+* [React’s new Context API | Codementor](https://www.codementor.io/kentcdodds/react-s-new-context-api-gqlqavqyv) - 2018/02/14
+
 * [React’s new Context API | kentcdodds](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b) - 2018/02/05
+
+  * [[CodeSandbox] Example of React's new context API](https://codesandbox.io/s/n4r0qq898j)
 
 * [React’s safe Context API | codeburst](https://codeburst.io/reacts-impending-safe-context-api-630d119c93f4) - 2018/03/08
 
