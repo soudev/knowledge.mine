@@ -7,6 +7,7 @@
     + [Font Size and Units](#font-size-and-units)
   * [Flexbox](#flexbox)
   * [CSS Selectors](#css-selectors)
+    + [BEM](#bem)
   * [Media Query](#media-query)
   * [Tools](#tools)
     + [Online Tools](#online-tools)
@@ -73,8 +74,6 @@
 * [ARQUITETURA CSS | Tableless - Medium](https://medium.com/tableless/arquitetura-css-d344fb01dd18) - 2015/03/29
 
 * [Por que usar classes para estilizar elementos? | iMasters](http://imasters.com.br/desenvolvimento/por-que-usar-classes-para-estilizar-elementos/) - 2016/10/06
-
-* [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/) -  Block, Element, Modifier methodology (commonly referred to as BEM) is a popular naming convention for classes in HTML and CSS.
 
 * CSS escalável - Da filosofia à metodologia
 
@@ -328,6 +327,15 @@ rem - context is always based on root context (html or body)
 * [CSS Selectors Reference | w3schools](https://www.w3schools.com/cssref/css_selectors.asp)
 
 * [[attribute] | CSS-Tricks](https://css-tricks.com/almanac/selectors/a/attribute/)
+
+
+#### BEM
+
+* [BEM](http://getbem.com/) - Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
+
+* [BEM 101 | CSS-Tricks](https://css-tricks.com/bem-101/) - 2015/04/02
+
+* [ABEM. A more useful adaptation of BEM. | CSS-Tricks](https://css-tricks.com/abem-useful-adaptation-bem/) - 2017/12/13
 
 
 ### Media Query
