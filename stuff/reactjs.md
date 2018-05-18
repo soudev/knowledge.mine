@@ -784,6 +784,12 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 * [Usando os portais do React para criar modais mais práticos | CodePrestige - Medium](https://medium.com/code-prestige/usando-os-portais-do-react-para-criar-modais-mais-pr%C3%A1ticos-fe1db6ab68f2) - 2017/11/22
 
+* Using advanced design patterns to create flexible and reusable React components | ITNEXT
+
+  * [Part 1: Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823) - 2018/04/02
+
+  * [Part 2: Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab) - 2018/04/09
+
 
 ### Context API
 
