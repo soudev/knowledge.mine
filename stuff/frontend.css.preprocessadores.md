@@ -115,6 +115,10 @@
 
 --
 
+* [Sass Guidelines](https://sass-guidelin.es/) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
+
+--
+
 * [Efficient Sass Mixins For DRY Stylesheets | Toptal](https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry)
 
 * [Bye Bye Compass | Medium by @luisfmsouza](https://medium.com/@luisfmsouza/bye-bye-compass-576d424ff092)
@@ -126,6 +130,18 @@
 * [Using Sass to Control Scope With BEM Naming | CSS-Tricks](https://css-tricks.com/using-sass-control-scope-bem-naming/) - 2018/02/28
 
 --
+
+* [Sass: Color & Theming](http://sass-lang.com/styleguide/color/)
+
+* [Controlling color with Sass color functions](https://robots.thoughtbot.com/controlling-color-with-sass-color-functions) - 2011/11/22
+
+* [Sass Color Variables That Don’t Suck | David Walsh Blog](https://davidwalsh.name/sass-color-variables-dont-suck) - 2014/05/12
+
+* [One Sass Color to Rule Them All | Manorisms](http://elijahmanor.com/one-sass-color-to-rule-them-all/) - 2014/07/10
+
+* [A successful Sass theme structure | codeburst](https://codeburst.io/a-successful-sass-theme-structure-ca9d1c477dc7) - 2017/10/26
+
+* [Organizing Multiple Theme Styles with Sass | Zell Liew](https://zellwk.com/blog/organizing-multiple-theme-styles-with-sass/) - 2014/06/30
 
 * [Dealing with Color Schemes in Sass | SitePoint](https://www.sitepoint.com/dealing-color-schemes-sass/) - 2014/03/06
 
