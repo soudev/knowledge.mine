@@ -791,6 +791,8 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 * [[GitHub] diegohaz / awesome-react-context](https://github.com/diegohaz/awesome-react-context) - A curated list of stuff related to the new React Context API
 
+* [Understanding the React Context API | Alligator.io](https://alligator.io/react/context-api/) - 2018/04/24
+
 * [Migrating to React’s New Context API | kentcdodds](https://blog.kentcdodds.com/migrating-to-reacts-new-context-api-b15dc7a31ea0) - 2018/04/23
 
 * [Putting Things in Context With React | CSS-Tricks](https://css-tricks.com/putting-things-in-context-with-react/) - 2018/03/21
