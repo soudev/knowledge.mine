@@ -117,6 +117,8 @@
 
 * [Sass Guidelines](https://sass-guidelin.es/) - An opinionated styleguide for writing sane, maintainable and scalable Sass.
 
+* [(S)CSS Best Practices That You Have Not Yet Known – Mirosław Ciastek | Medium](https://medium.com/@mciastek/s-css-best-practices-that-you-have-not-yet-known-ba2f6329b5dd)
+
 --
 
 * [Efficient Sass Mixins For DRY Stylesheets | Toptal](https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry)
