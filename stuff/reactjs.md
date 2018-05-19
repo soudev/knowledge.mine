@@ -603,6 +603,8 @@
 
 * [[Gist] datchley / react-redux-style-guide.md](https://gist.github.com/datchley/4e0d05c526d532d1b05bf9b48b174faf) - React + Redux Style Guide
 
+* [Analyze Redux | TOAST UI – Medium](https://medium.com/@toastui/analyze-redux-f1424a5eaa8e) - 2018/05/17
+
 * [Building Chrome Extensions in React+Redux | goguardian](http://blog.goguardian.com/nerds/chrome-extensions-in-react)
 
 * [How Redux can make you a better developer | COBE](https://medium.cobeisfresh.com/how-redux-can-make-you-a-better-developer-30a094d5e3ec) - 2017/11/08
