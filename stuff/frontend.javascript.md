@@ -1305,6 +1305,8 @@
 
 * [Source Maps with webpack in Chrome | Erik Aybar](http://erikaybar.name/webpack-source-maps-in-chrome/) - 2017/01/23
 
+* [Using the ES7 Spread Operator with Webpack | Stefan Magnuson](https://stefan.magnuson.co/articles/frontend/using-es7-spread-operator-with-webpack/)
+
 --
 
 * [[GitHub] kalcifer / webpack-library-example](https://github.com/kalcifer/webpack-library-example) - An example of how to author libraries using webpack.
