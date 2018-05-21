@@ -605,7 +605,17 @@
 
 * [[GitHub] reactjs / redux](https://github.com/reactjs/redux) - Predictable state container for JavaScript apps
 
+--
+
 * [[Gist] datchley / react-redux-style-guide.md](https://gist.github.com/datchley/4e0d05c526d532d1b05bf9b48b174faf) - React + Redux Style Guide
+
+* [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
+
+* [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
+
+* [an interesting alternative to mocking the #redux dispatch function in order to test middleware | @alexandereardon - twitter](https://twitter.com/alexandereardon/status/996625171610923008)
+
+--
 
 * [Analyze Redux | TOAST UI – Medium](https://medium.com/@toastui/analyze-redux-f1424a5eaa8e) - 2018/05/17
 
@@ -623,9 +633,7 @@
 
   * [[GitHub] FortechRomania / react-redux-complete-example](https://github.com/FortechRomania/react-redux-complete-example) - A react+redux example project
 
-* [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
-
-* [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
+--
 
 * [[YouTube] React-Redux best practice - Better architect applications |
 Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
