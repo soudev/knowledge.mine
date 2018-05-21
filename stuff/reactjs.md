@@ -219,6 +219,10 @@
 
 --
 
+* [You Don’t Need Redux, MobX, RxJS, Cerebral | Fox Donut – Medium](https://medium.com/@foxdonut00/you-dont-need-redux-mobx-rxjs-cerebral-6a735b150a02) - 2018/04/29
+
+--
+
 * [[SlideShare] Reconciling ReactJS as a View Layer Replacement (MidwestJS 2014)](http://www.slideshare.net/ZachLendon/reconciling-react-as-a-view-layer-replacement-midwestjs-2014) - 2014/08/15
 
 --
@@ -301,6 +305,7 @@
 * [How to keep a fast build with Browserify and ReactJS | Avisi Blog](http://blog.avisi.nl/2014/04/25/how-to-keep-a-fast-build-with-browserify-and-reactjs/)
 
 * [Browserify and Gulp with React | Mozilla Hacks](https://hacks.mozilla.org/2014/08/browserify-and-gulp-with-react/)
+
 
 ### Using parcel
 
