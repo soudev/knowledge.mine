@@ -143,7 +143,11 @@
 
 --
 
+* [css variables | can I use](https://caniuse.com/#feat=css-variables)
+
 * [[YouTube] Trabalhando com custom properties | Quick Tips - Css CastShow](https://www.youtube.com/playlist?list=PLgcWRW66amTnK9RhsViFHd3B7-pUW02U1)
+
+* [Dark theme in a day | Marcin Wichary – Medium](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a) - 2018/05/15
 
 --
 
