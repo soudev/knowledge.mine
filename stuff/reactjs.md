@@ -16,6 +16,7 @@
   * [React components](#react-components)
     + [React compound components](#react-compound-components)
     + [React UI components](#react-ui-components)
+- [Patterns](#patterns)
 - [Router](#router)
 - [Fetch Data](#fetch-data)
   * [Axios](#axios)
@@ -28,7 +29,7 @@
 - [Testing](#testing)
 - [Peer-to-peer](#peer-to-peer)
 - [Real time](#real-time)
-- [Socket.io](#socketio)
+  * [Socket.io](#socketio)
 - [i18n - Internationalization](#i18n---internationalization)
 - [Performance](#performance)
   * [React server-side rendering](#react-server-side-rendering)
@@ -216,10 +217,6 @@
 * [How to Organize a Large React Application and Make It Scale | SitePoint](https://www.sitepoint.com/organize-large-react-application/) - 2017/04/26
 
 * [Writing Scalable React Apps with the Component Folder Pattern | Styled Components - Medium](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68) - 2017/08/28
-
---
-
-* [You Don’t Need Redux, MobX, RxJS, Cerebral | Fox Donut – Medium](https://medium.com/@foxdonut00/you-dont-need-redux-mobx-rxjs-cerebral-6a735b150a02) - 2018/04/29
 
 --
 
@@ -527,6 +524,21 @@
 * [[GitHub] didierbrun / react-path-recognizer](https://github.com/didierbrun/react-path-recognizer) - Path recognizing component for React
 
 
+## Patterns
+
+* [You Don’t Need Redux, MobX, RxJS, Cerebral | Fox Donut – Medium](https://medium.com/@foxdonut00/you-dont-need-redux-mobx-rxjs-cerebral-6a735b150a02) - 2018/04/29
+
+--
+
+* Using advanced design patterns to create flexible and reusable React components | ITNEXT (with react 16+)
+
+  * [Part 1: Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823) - 2018/04/02
+
+  * [Part 2: Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab) - 2018/04/09
+
+* [Advanced React/Redux Techniques | How to Use Refs on Connected Components | ITNEXT](https://itnext.io/advanced-react-redux-techniques-how-to-use-refs-on-connected-components-e27b55c06e34) - 2018/05/11
+
+
 ## Router
 
 * [All About React Router 4 | CSS-Tricks](https://css-tricks.com/react-router-4/) - 2017/08/07
@@ -711,7 +723,7 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 ## Real time
 
-## Socket.io
+### Socket.io
 
 * [[GitHub] Cretezy / Noderize / examples / chat-socket-react](https://github.com/Cretezy/Noderize/tree/master/examples/chat-socket-react) - chat server + react chat client
 
@@ -802,12 +814,6 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 * [Using a React 16 Portal to do something cool | Hackernoon](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202) - 2017/11/07
 
 * [Usando os portais do React para criar modais mais práticos | CodePrestige - Medium](https://medium.com/code-prestige/usando-os-portais-do-react-para-criar-modais-mais-pr%C3%A1ticos-fe1db6ab68f2) - 2017/11/22
-
-* Using advanced design patterns to create flexible and reusable React components | ITNEXT
-
-  * [Part 1: Compound Components](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-1-dd495fa1823) - 2018/04/02
-
-  * [Part 2: Context API](https://itnext.io/using-advanced-design-patterns-to-create-flexible-and-reusable-react-components-part-2-react-3c5662b997ab) - 2018/04/09
 
 
 ### Context API
