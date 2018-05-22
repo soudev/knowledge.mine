@@ -683,6 +683,12 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
     * [[GitHub] beaucarnes / fcc-project-tutorials / chat](https://github.com/beaucarnes/fcc-project-tutorials/tree/master/chat)
 
+---
+
+* [[GitHub] reduxjs / redux-thunk](https://github.com/reduxjs/redux-thunk) - Thunk middleware for Redux
+
+  * [Super Simple Redux Thunk Example | Tyler Buchea](http://blog.tylerbuchea.com/super-simple-redux-thunk-example/) - 2017/10/10 ([Sandbox Editor](https://codesandbox.io/s/github/tylerbuchea/my-simple-async-app))
+
 
 ### Redux fetch data
 
