@@ -757,6 +757,16 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
   * [[GitHub] benawad / basic-realtime-react-client](https://github.com/benawad/basic-realtime-react-client) - Basic websockets example using React for the client and feathersjs for the backend
 
+--
+
+* React + Redux + Socket.io
+
+  * [[StackOverflow] React-Redux and Websockets with socket.io](https://stackoverflow.com/questions/37876889/react-redux-and-websockets-with-socket-io)
+
+  * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html) - (2015/09/10) A Comprehensive Guide to Test-First Development with Redux, React, and Immutable
+
+    * [[GitHub] teropa / redux-voting-client](https://github.com/teropa/redux-voting-client) - Client app for the Full-Stack Redux Tutorial
+
 
 ## i18n - Internationalization
 
