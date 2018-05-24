@@ -51,6 +51,8 @@
 
   * [Como colocar seu site no ar de graca | Willian Justen](https://willianjusten.com.br/como-colocar-seu-site-no-ar-de-graca/) - 2018/04/02
 
+  * [[YouTube playlist] Curso Netlify | Willian Justen](https://www.youtube.com/watch?v=a1cIjP1bueM&list=PLlAbYrWSYTiMGMxQf9JSoZUU1rgVpGPth)
+
 --
 
 * [[GitHub] BeeTech-global / bee-stylish](https://github.com/BeeTech-global/bee-stylish) - Styleguides da moda (ou não)
