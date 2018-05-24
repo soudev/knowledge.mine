@@ -829,9 +829,17 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
 
 * [Novidades do React 16 | Willian Justen](https://willianjusten.com.br/novidades-do-react-16/) - 2017/09/28
 
+---
+
 * [Using a React 16 Portal to do something cool | Hackernoon](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202) - 2017/11/07
 
 * [Usando os portais do React para criar modais mais práticos | CodePrestige - Medium](https://medium.com/code-prestige/usando-os-portais-do-react-para-criar-modais-mais-pr%C3%A1ticos-fe1db6ab68f2) - 2017/11/22
+
+---
+
+* [[YouTube] How to return multiple elements the right way in React 16 - Tutorial | hackages.tv](https://www.youtube.com/watch?v=cvS5o86wRfE) - 2017/10/06
+
+* [[YouTube] Get derived state from props in React 16.3 | hackages.tv](https://www.youtube.com/watch?v=p_m4TrYGtCo) - 2018/03/14
 
 
 ### Context API
