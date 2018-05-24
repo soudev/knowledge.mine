@@ -47,6 +47,8 @@
 
 * [[GitHub] 255kb / stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget
 
+* [Netlify](https://www.netlify.com/) - All-in-one platform for automating modern web projects.
+
 --
 
 * [[GitHub] BeeTech-global / bee-stylish](https://github.com/BeeTech-global/bee-stylish) - Styleguides da moda (ou não)
