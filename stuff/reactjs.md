@@ -194,6 +194,8 @@
 
 --
 
+* [[YouTube] 6 Pro Tips from React Developers](https://www.youtube.com/watch?v=xa-_FIy2NgE)
+
 * [The best way to bind event handlers in React | freeCodeCamp](https://medium.freecodecamp.org/the-best-way-to-bind-event-handlers-in-react-282db2cf1530) - 2018/05/08
 
 --
@@ -208,9 +210,13 @@
 
 * [Simplifying Code with React | kevindangoor.com](http://www.kevindangoor.com/2014/05/simplifying-code-with-react/)
 
+--
+
 * [One Mixin to rule them all | Front-end Development — Medium](https://medium.com/front-end-development-2/3885aadb3c1a)
 
 * [React Mixins By Example | Simble Studios](http://simblestudios.com/blog/development/react-mixins-by-example.html)
+
+--
 
 * [React Components for Cat Videos | David and Suzi](http://davidandsuzi.com/react-components-for-cat-videos/)
 
@@ -219,6 +225,8 @@
 * [How to Organize a Large React Application and Make It Scale | SitePoint](https://www.sitepoint.com/organize-large-react-application/) - 2017/04/26
 
 * [Writing Scalable React Apps with the Component Folder Pattern | Styled Components - Medium](https://medium.com/styled-components/component-folder-pattern-ee42df37ec68) - 2017/08/28
+
+* [[YouTube] React Component Patterns by Michael Chan | Full Stack Talks](https://www.youtube.com/watch?v=YaZg8wg39QQ) - 2017/02/03
 
 --
 
