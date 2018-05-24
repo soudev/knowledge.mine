@@ -129,7 +129,11 @@
 
 * [How to do SASS Grandparent Selectors | Jake Wilson – Medium](https://medium.com/@jakobud/how-to-do-sass-grandparent-selectors-b8666dcaf961)
 
+--
+
 * [Using Sass to Control Scope With BEM Naming | CSS-Tricks](https://css-tricks.com/using-sass-control-scope-bem-naming/) - 2018/02/28
+
+* [Modular CSS with Sass & BEM | Mat Hayward](http://mathayward.com/modular-css-with-sass-and-bem/) - 2014/01/17
 
 --
 
