@@ -49,6 +49,8 @@
 
 * [Netlify](https://www.netlify.com/) - All-in-one platform for automating modern web projects.
 
+  * [Como colocar seu site no ar de graca | Willian Justen](https://willianjusten.com.br/como-colocar-seu-site-no-ar-de-graca/) - 2018/04/02
+
 --
 
 * [[GitHub] BeeTech-global / bee-stylish](https://github.com/BeeTech-global/bee-stylish) - Styleguides da moda (ou não)
