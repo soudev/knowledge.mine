@@ -327,6 +327,10 @@
 
 > [Webpack](https://webpack.js.org/)
 
+* [Enable dynamic Hot Module Replacement with Webpack | Kent C. Dodds](https://www.youtube.com/watch?v=JGXAvgVHC5A) - 2018/05/24
+
+  * [[GitHub] kentcdodds / webpack-dynamic-hmr-example](https://github.com/kentcdodds/webpack-dynamic-hmr-example)
+
 * [How to streamline your development process and create a React.js app using Webpack 4 | freeCodeCamp](https://medium.freecodecamp.org/how-to-develop-react-js-apps-fast-using-webpack-4-3d772db957e4) - 2018/05/09
 
 * [Webpack 4 Tutorial: from 0 Conf to Production Mode | Valentino Gagliardi](https://www.valentinog.com/blog/webpack-4-tutorial/) - 2018/04/01
