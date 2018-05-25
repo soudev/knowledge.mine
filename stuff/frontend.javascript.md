@@ -2683,6 +2683,8 @@
 
 * [ECMAScript 6 Proxy | Loop Infinito](http://loopinfinito.com.br/2014/09/09/ecmascript-6-proxy/)
 
+* [JavaScript: Entendendo ES6 Proxies | Eduardo Rabelo – Medium](https://medium.com/@oieduardorabelo/javascript-entendendo-es6-proxies-6ed5f8f4d0b6) - 2018/05/20
+
 * [JavaScript Factory Functions with ES6+ | JavaScript Scene – Medium](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1) - 2017/07/20
 
 * [Functional JS with ES6 — Recursive Patterns | DailyJS - Medium](https://medium.com/dailyjs/functional-js-with-es6-recursive-patterns-b7d0813ef9e3) - 2017/09/29
