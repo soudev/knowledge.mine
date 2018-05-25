@@ -76,9 +76,11 @@
 
 * [[YouTube] O fantástico mundo do JavaScript - Jean Carlo Emer](http://www.youtube.com/watch?v=Zn7B-X0y5qs)
 
+* [A Study Plan To Cure JavaScript Fatigue | Free Code Camp - Medium](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1) - 2016/10/31
+
 * [[GitHub] javascript-society / javascript-path](https://github.com/javascript-society/javascript-path) - List of books to master JavaScript Development
 
-* [A Study Plan To Cure JavaScript Fatigue | Free Code Camp - Medium](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1) - 2016/10/31
+* [[GitHub] mgechev / javascript-algorithms](https://github.com/mgechev/javascript-algorithms) - JavaScript implementation of different computer science algorithms.
 
 --
 
