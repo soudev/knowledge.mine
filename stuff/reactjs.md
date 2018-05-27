@@ -555,6 +555,8 @@
 
 ## Router
 
+* [React Router v4 Unofficial Migration Guide | codeburst.io](https://codeburst.io/react-router-v4-unofficial-migration-guide-5a370b8905a) - 2017/05/05
+
 * [All About React Router 4 | CSS-Tricks](https://css-tricks.com/react-router-4/) - 2017/08/07
 
 * [React Router v4: Philosophy and Introduction | tylermcginnis.com](https://tylermcginnis.com/react-router-philosophy-introduction/) - 2018/01/10
