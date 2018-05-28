@@ -27,6 +27,8 @@
 
 * [Python Cheat Sheet | BSD MAG](https://bsdmag.org/python-cheat-sheet/)
 
+* [[GitHub] kriadmin / 30-seconds-of-python-code](https://github.com/kriadmin/30-seconds-of-python-code) - Python implementation of 30-seconds-of-code
+
 --
 
 * [Por que há tantos Pythons? | toptal](http://www.toptal.com/python/por-que-h-tantos-pythons/pt)
