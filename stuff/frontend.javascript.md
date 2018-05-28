@@ -599,6 +599,8 @@
 
 * [[GitHub] vasanthk / js-bits](https://github.com/vasanthk/js-bits) - JavaScript concepts with code!
 
+* * [[GitHub] Chalarangelo / 30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
+
 --
 
 * [Learning to Use Google Analytics More Effectively at CodePen | CSS-Tricks](https://css-tricks.com/learning-use-google-analytics-effectively-codepen/)
