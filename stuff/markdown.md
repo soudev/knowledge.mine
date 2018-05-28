@@ -55,6 +55,10 @@
 
 --
 
+* [Making READMEs readable | 18F Open Source Style Guide](https://open-source-guide.18f.gov/making-readmes-readable/)
+
+--
+
 * [[GitHub] noffle / art-of-readme](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
 
 * [[GitHub] matiassingers / awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
