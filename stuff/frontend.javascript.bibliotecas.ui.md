@@ -460,6 +460,10 @@
 
 * [Building Vue.js Apps with Parcel | Alligator.io](https://alligator.io/vuejs/vue-parceljs/)
 
+--
+
+* [[GitHub] mimecorg / vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
+
 
 ### hyperapp
 
