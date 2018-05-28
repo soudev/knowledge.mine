@@ -38,6 +38,7 @@
   * [Render Props](#render-props)
 - [Mobile](#mobile)
   * [React Native](#react-native)
+- [Desktop](#desktop)
 - [preact](#preact)
 
 <!-- tocstop -->
@@ -951,12 +952,13 @@ Handlebar Labs](https://www.youtube.com/watch?v=ISgz8F9z0aM) - 2018/03/13
 
 * [[GitHub] gabrielbull / react-desktop](https://github.com/gabrielbull/react-desktop) - React UI Components for macOS Sierra and Windows 10
 
---
+
+## Desktop
 
 * [Deco IDE](https://www.decosoftware.com/) - the React Native IDE
 
+* [[GitHub] kusti8 / proton-native](https://github.com/kusti8/proton-native) - A React environment for cross platform native desktop apps
 
----
 
 ## preact
 
