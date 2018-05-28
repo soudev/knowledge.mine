@@ -21,6 +21,10 @@
 
 --
 
+* [[GitHub] atomiks / 30-seconds-of-css](https://github.com/atomiks/30-seconds-of-css) - A curated collection of useful CSS snippets.
+
+--
+
 * [CSS Brasil](http://cssbrasil.org/)
 
 * [CSS Reference](http://cssreference.io/) - A free visual guide to the most popular CSS properties
