@@ -473,6 +473,10 @@
 
 --
 
+* [[GitHub] jxnblk / styled-system](https://github.com/jxnblk/styled-system) - Design system utilities for styled-components and other css-in-js libraries
+
+--
+
 * [[GitHub] emotion-js / emotion](https://github.com/emotion-js/emotion) - style as a function of state
 
 * [[GitHub] styled-components / styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age
