@@ -43,6 +43,8 @@
 
 * [Como fazer seu site funcionar offline com PWA | Willian Justen](https://willianjusten.com.br/como-fazer-seu-site-funcionar-offline-com-pwa/) - (2018/03/26) O passo-a-passo de como criar um site PWA que funciona até offline.
 
+* [PWA no iOS: Como deixá-lo mais Nativo | Eduardo Rabelo – Medium](https://medium.com/@oieduardorabelo/pwa-no-ios-como-deix%C3%A1-lo-mais-nativo-e022f6c67b9c) - (2018/05/28) Dicas e truques de como melhorar a UX de PWA no iOS!
+
 --
 
 * [[GitHub] Fooidge / PleaseJS](https://github.com/Fooidge/PleaseJS) - JavaScript Library for creating random pleasing colors and color schemes
