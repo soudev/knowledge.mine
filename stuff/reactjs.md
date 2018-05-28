@@ -517,6 +517,8 @@
 
 * [Using ReactJS and KendoUI Together | if & else](http://www.ifandelse.com/using-reactjs-and-kendoui-together/)
 
+* [[GitHub] pagarme / former-kit](https://github.com/pagarme/former-kit) - Primitive and unstyled React components ready for receiving your own visual identity.
+
 * [[GitHub] mlaursen / react-md](https://github.com/mlaursen/react-md) - React material design
 
 * [[GitHub] callemall / material-ui](https://github.com/callemall/material-ui) - React Components that Implement Google's Material Design
