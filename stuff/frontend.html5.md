@@ -713,11 +713,13 @@
 
 --
 
+* [[GitHub] RelaxedJS / ReLaXed](https://github.com/RelaxedJS/ReLaXed) - Create PDF documents using web technologies
+
 * [jsPDF](http://jspdf.com/) - A HTML5 client-side solution for generating PDFs.
 
   * [[GitHub] MrRio / jsPDF](https://github.com/MrRio/jsPDF) - Generate PDF files in JavaScript. HTML5 FTW : [gh-page](https://mrrio.github.io/jsPDF/)
 
-  * [Generating PDFs from Web Pages on the Fly with jsPDF | SitePoint]() - 2016/02/16
+  * [Generating PDFs from Web Pages on the Fly with jsPDF | SitePoint](https://www.sitepoint.com/generating-pdfs-from-web-pages-on-the-fly-with-jspdf/) - 2016/02/16
 
 * [PDF.js](https://mozilla.github.io/pdf.js/) - A general-purpose, web standards-based platform for parsing and rendering PDFs.
 
