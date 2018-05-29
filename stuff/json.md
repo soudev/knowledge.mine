@@ -208,3 +208,5 @@
 * [[GitHub] dcodeIO / PSON](https://github.com/dcodeIO/PSON) - A super efficient binary serialization format for JSON
 
 * [[GitHub] skerit / json-dry](https://github.com/skerit/json-dry) - JSON-dry allows you to serialize & revive objects containing circular references, dates, regexes, class instances,...
+
+* [[GitHub] jprichardson / node-jsonfile](https://github.com/jprichardson/node-jsonfile) - Easily read/write JSON files.
