@@ -1309,6 +1309,8 @@
 
 * [Source Maps with webpack in Chrome | Erik Aybar](http://erikaybar.name/webpack-source-maps-in-chrome/) - 2017/01/23
 
+* [Using ES6 and ES7 in the Browser, with Babel 6 and Webpack | James K Nelson](http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/) - 2015/11/10
+
 * [Using the ES7 Spread Operator with Webpack | Stefan Magnuson](https://stefan.magnuson.co/articles/frontend/using-es7-spread-operator-with-webpack/)
 
 --
