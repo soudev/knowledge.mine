@@ -815,6 +815,8 @@
 
 * [A Quick Practical Example of JavaScript’s Reduce Function | codeburst](https://codeburst.io/a-quick-practical-example-of-javascripts-reduce-function-862b506d01a4) - 2017/07/21
 
+* [[YouTube] JavaScript reduce | Kent C. Dodds](https://www.youtube.com/watch?v=lcfnrg7PZyk) - (2018/05/29) Some tricks with JavaScript's Array reduce method.
+
 --
 
 * [Fun with Javascript and function tracing](http://ebobby.org/2013/05/18/Fun-with-Javascript-and-function-tracing.html)
