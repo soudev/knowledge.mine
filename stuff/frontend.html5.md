@@ -870,6 +870,8 @@
 
 * [[GitHub] tantaman / LargeLocalStorage](https://github.com/tantaman/LargeLocalStorage) - Problem: You need to store a large amount of key-value based data in IE, Chrome, Safari, AND Firefox
 
+* [[GitHub] DVLP / localStorageDB](https://github.com/DVLP/localStorageDB) - Increase localStorage size 10 times or more! Very easy to use and potentially much faster than native localStorage!
+
 * [JayData](http://jaydata.org/) - The cross-platform HTML5 data-management library for JavaScript
 
   * [GitHub / JayData](https://github.com/jaydata)
