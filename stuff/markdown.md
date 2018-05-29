@@ -25,6 +25,8 @@
 
 * [GitHub Flavored Markdown | GitHub:Help](https://help.github.com/articles/github-flavored-markdown)
 
+* [Relative links in markup files | The GitHub Blog](https://blog.github.com/2013-01-31-relative-links-in-markup-files/)
+
 --
 
 * [Little Stuff about Markdown I Always Forget and have to Google | CSS-Tricks](https://css-tricks.com/little-stuff-markdown-always-forget-google/) - 2017/04/05
