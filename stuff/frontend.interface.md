@@ -260,6 +260,10 @@
 
   * [An Intro to Monkey Testing with Gremlins.js | CSS-Tricks](https://css-tricks.com/intro-monkey-testing-gremlins-js/) - 2016/11/14
 
+--
+
+* [[GitHub] hybridsjs / hybrids](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API
+
 
 #### Polyfills
 
