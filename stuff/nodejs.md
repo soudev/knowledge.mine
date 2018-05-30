@@ -2744,6 +2744,10 @@ alias npmplease="rm -rf node_modules/ && rm -f package-lock.json && npm install"
 
 * [[GitHub] AppSaloon / socket.io-tester](https://github.com/AppSaloon/socket.io-tester) - An electron app that lets you connect to a socket.io server and subscribe to a certain topic and/or lets you send socket messages to the server
 
+--
+
+* [[GitHub] Feathers](https://github.com/feathersjs) - An open source REST and realtime API layer for modern applications.
+
 
 #### Connect
 
