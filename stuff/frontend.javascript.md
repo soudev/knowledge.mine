@@ -2493,6 +2493,8 @@
 
   * [[GitHub] kangax / compat-table](https://github.com/kangax/compat-table) - ECMAScript 5/6/7 compatibility tables
 
+* [[GitHub] lukehoban / es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
+
 * [Five to Six — Addy Osmani’s list of ECMAScript 6 tools | Super-Script](http://www.super-script.us/2015/es6-tools.html)
 
 * [[GitHub] alexmoreno / ES6-para-humanos](https://github.com/alexmoreno/ES6-para-humanos) - Um guia de fácil compreensão pra começar a escrever ES6
