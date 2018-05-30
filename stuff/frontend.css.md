@@ -25,6 +25,10 @@
 
 --
 
+* [5 Most Annoying Things with CSS | GeekyAnts Blog](https://blog.geekyants.com/5-most-annoying-things-with-css-8c356dc24f5e) - 2017/10/09
+
+--
+
 * [CSS Brasil](http://cssbrasil.org/)
 
 * [CSS Reference](http://cssreference.io/) - A free visual guide to the most popular CSS properties
