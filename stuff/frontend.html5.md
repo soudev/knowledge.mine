@@ -548,6 +548,8 @@
 
 * [Using Local Storage as a communication channel | Tech.pro](http://tech.pro/blog/6950/using-local-storage-communication-channel)
 
+* [Please Stop Using Local Storage | The Practical Dev](https://dev.to/rdegges/please-stop-using-local-storage-1i04) - 2018/01/30
+
 --
 
 * [[Gist] leudanielm / GlobalEvents.js](https://gist.github.com/leudanielm/a49535053fd30274183e) - Fire events between different browser windows using localStorage
