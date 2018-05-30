@@ -631,6 +631,8 @@
 
 * [[YouTube] BGTSD - Part 23: What do you do when you do not know how to do something?](https://www.youtube.com/watch?v=PounrNJPMkU) - 2015/06/10 - Jesse Warden
 
+* [[YouTube] Tips to improve your programming skills | Jad Joubran – Medium](https://medium.com/@JoubranJad/tips-to-improve-your-programming-skills-c81563c7cfcd) - 2017/10/05
+
 --
 
 * [[GitHub] dgadelha / Portugol-Webstudio](https://github.com/dgadelha/Portugol-Webstudio) - IDE online para o Portugol (UNIVALI)
