@@ -651,14 +651,6 @@
 
 * [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
 
---
-
-* [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
-
-* [[YouTube] [Redux] The Best Way to Store Data | Rally Coding](https://www.youtube.com/watch?v=aJxcVidE0I0) - 2016/06/23
-
---
-
 * [an interesting alternative to mocking the #redux dispatch function in order to test middleware | @alexandereardon - twitter](https://twitter.com/alexandereardon/status/996625171610923008)
 
 --
@@ -681,8 +673,18 @@
 
 --
 
+* [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
+
+* [[YouTube] [React/Redux] Logicless Components with Reselect | Rally Coding](https://www.youtube.com/watch?v=XCQ0ZSr-a2o) - 2016/05/05
+
+* [[YouTube] [React/Redux] A Better Way to Load Data | Rally Coding](https://www.youtube.com/watch?v=JicUNpwLzLY) - 2016/05/12
+
+* [[YouTube] [Redux] The Best Way to Store Data | Rally Coding](https://www.youtube.com/watch?v=aJxcVidE0I0) - 2016/06/23
+
 * [[YouTube] React-Redux best practice - Better architect applications |
 Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
+
+--
 
 * [[YouTube playlist] Redux Tutorials | LearnCode.academy](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt)
 
