@@ -651,7 +651,13 @@
 
 * [A Guide to creating Web Applications with React and Redux | Hackernoon](https://hackernoon.com/a-guide-to-creating-web-applications-with-react-and-redux-2f6bc0775951) - 2017/10/31
 
+--
+
 * [Reactjs and Redux best practices | Abhishek Nalwaya](http://nalwaya.com/javascript/2016/05/02/react-js-best-practices.html) - 2016/05/02
+
+* [[YouTube] [Redux] The Best Way to Store Data | Rally Coding](https://www.youtube.com/watch?v=aJxcVidE0I0) - 2016/06/23
+
+--
 
 * [an interesting alternative to mocking the #redux dispatch function in order to test middleware | @alexandereardon - twitter](https://twitter.com/alexandereardon/status/996625171610923008)
 
