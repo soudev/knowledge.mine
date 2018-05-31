@@ -589,6 +589,10 @@
 
 ### Dicas
 
+* [Code to go](https://codetogo.io/) - Find up to date snippets for common JavaScript use cases
+
+--
+
 * [[YouTube] Dependency Injection basics - Fun Fun Function](https://www.youtube.com/watch?v=0X1Ns2NRfks) - 2017/01/16 ([code of this episode](https://gist.github.com/mpj/c55dc66bc2cfd389dbbd25ab5092d4f3))
 
 * [[YouTube] Inversion of Control - Fun Fun Function](https://www.youtube.com/watch?v=-kpEP4JeEdc) - 2017/01/30 ([code of this episode](https://gist.github.com/mpj/a4a7d784a396b5a4d18add7606ab77ce))
