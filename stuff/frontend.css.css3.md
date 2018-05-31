@@ -76,6 +76,8 @@
 
 * [CSS Grid — Learn all about CSS Grid with Wes Bos in this free video series!](https://cssgrid.io/)
 
+* [CSS Grid — Responsive layouts and components | Deemaze Writing Wall – Medium](https://medium.com/deemaze-software/css-grid-responsive-layouts-and-components-eee1badd5a2f) - 2018/05/03
+
 * [How We Adopted CSS Grid at Scale | Julian Gaviria — Web Designer](https://julian.is/article/css-grid-at-scale/) - 2018/03/01
 
 * [Another Collection of Interesting Facts About CSS Grid | CSS-Tricks](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/) - 2018/04/13
