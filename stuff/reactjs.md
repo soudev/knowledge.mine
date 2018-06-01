@@ -267,6 +267,12 @@
 
 * [[GitHub] FormidableLabs / urql](https://github.com/FormidableLabs/urql) - Universal React Query Library (GraphQL client)
 
+* [[GitHub] alexcurtis / react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
+
+* [[GitHub] probablyup / markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx) - Interprets GFM markdown text and outputs a React JSX equivalent
+
+--
+
 * [[GitHub] ruanyf / react-demos](https://github.com/ruanyf/react-demos) - a collection of simple demos of React.js
 
 * [Tic Tac React (Part 1) | Brian Barnett](http://w.brianbar.net/2014/08/tic-tac-react-part-1/)
@@ -275,9 +281,7 @@
 
 * [[GitHub] andrewgleave / react-weather](https://github.com/andrewgleave/react-weather) - Example React weather app using forecast.io's API
 
-* [[GitHub] alexcurtis / react-treebeard](https://github.com/alexcurtis/react-treebeard) - React Tree View Component. Data-Driven, Fast, Efficient and Customisable.
-
-* [[GitHub] probablyup / markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx) - Interprets GFM markdown text and outputs a React JSX equivalent
+* [[GitHub] KaiHotz / React-Calculator-App](https://github.com/KaiHotz/React-Calculator-App) - The Apple MacOs/iOS calculator app rebuild with React as a Progressive Web App
 
 --
 
