@@ -100,6 +100,10 @@
 
 ## Ferramentas e bibliotecas
 
+* [[GitHub] egoist / maid](https://github.com/egoist/maid) - Markdown driven task runner
+
+--
+
 * [EpicEditor](http://oscargodson.github.io/EpicEditor/) - Embeddable JavaScript Markdown Editor
 
 * [demarcate.js](http://will-hart.github.io/demarcate.js/) - is a jQuery based editor for Markdown.
