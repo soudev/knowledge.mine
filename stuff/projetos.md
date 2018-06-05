@@ -280,6 +280,10 @@
 
 ## Conceitos
 
+* [UTC is Enough for Everyone, Right? | Zach Holman](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - Programming with dates, times, and timezones is hard. But here's some help.
+
+--
+
 * [10 Things Successful People Do To Maximize Their Time | Umano](https://umano.me/c/KmOVQ/10-things-successful-people-do-to-maximize-their-time) - Lifehack  by Casey Imafidon. Learn from the masters how you can be successful at maximizing your time.
 
 --
