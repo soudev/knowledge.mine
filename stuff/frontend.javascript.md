@@ -1409,6 +1409,14 @@
 
 --
 
+* [[GitHub] webpack / webpack-dev-server](https://github.com/webpack/webpack-dev-server) - Serves a webpack app. Updates the browser on changes
+
+* [[GitHub] webpack-contrib / webpack-serve](https://github.com/webpack-contrib/webpack-serve) - A lean, modern, and flexible webpack development server
+
+  * [[GitHub] elisherer / webpack-serve-waitpage](https://github.com/elisherer/webpack-serve-waitpage) - Webpack progress wait page for webpack-serve
+
+--
+
 * [Browserify VS Webpack - JS Drama | Naman Goel](http://blog.namangoel.com/browserify-vs-webpack-js-drama)
 
 
