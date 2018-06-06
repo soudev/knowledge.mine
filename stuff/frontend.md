@@ -47,6 +47,8 @@
 
 --
 
+* [[GitHub] grab / front-end-guide](https://github.com/grab/front-end-guide) - Study guide and introduction to the modern front end stack.
+
 * [[GitHub] thedaviddias / Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - The perfect Front-End Checklist for modern websites and meticulous developers
 
 
