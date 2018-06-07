@@ -1,5 +1,9 @@
 # Cross Origin Resource Sharing (CORS)
 
+* [CORS | the frontendian](https://frontendian.co/cors) - (2018/06/03) is subject tinged with dread for many web developers. Like tales of a mythical sea beast, every developer has a story to tell about the day CORS seized upon one of their web requests, dragging it down into the inexorable depths, never to be seen again.
+
+---
+
 **Request Variables**
 
 ```
@@ -20,7 +24,7 @@ XS_SHARING_ALLOWED_HEADERS = ['Content-Type', 'X-Requested-With']{code}
 
 * [Cross Domain Javascript, Lessons Learned | Software Alchemist](http://avalanche123.com/blog/2011/10/10/cross-domain-javascript-lessons-learned/)
 
---
+---
 
 * [JSONProxy](http://jsonp.jit.su/) - Enables cross-domain requests to any JSON API | [[GitHub] afeld / jsonp](https://github.com/afeld/jsonp) - A simple JSON proxy
 
