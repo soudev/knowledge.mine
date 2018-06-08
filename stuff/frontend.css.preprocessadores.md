@@ -121,6 +121,10 @@
 
 --
 
+* [Build a Style Guide Straight from Sass | CSS-Tricks](https://css-tricks.com/build-style-guide-straight-sass/) - 2017/06/01
+
+--
+
 * [Efficient Sass Mixins For DRY Stylesheets | Toptal](https://www.toptal.com/css/sass-mixins-keep-your-stylesheets-dry)
 
 * [Bye Bye Compass | Medium by @luisfmsouza](https://medium.com/@luisfmsouza/bye-bye-compass-576d424ff092)
