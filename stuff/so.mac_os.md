@@ -45,6 +45,14 @@
 
 --
 
+* message on the login screen ([tweet](https://twitter.com/chadwhitaker/status/1004441991415922688))
+
+```
+sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "MESSAGE HERE"
+```
+
+--
+
 * [[GitHub] jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md) - collection of awesome Mac applications and tools for developers and designers.
 
 * [[GitHub] serhii-londar / open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
