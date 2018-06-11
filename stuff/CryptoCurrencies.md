@@ -192,6 +192,8 @@
 
 ## Prices Rankings
 
+* [bitValor](http://bitvalor.com/) - Principais indicadores das Exchanges Brasileiras de Bitcoin
+
 * [WatchCoins](https://watchcoins.herokuapp.com) - Acompanhe valores em tempo real das principais traders de cryptocoins do Brasil.
 
 * [CoinCap](http://coincap.io/)
@@ -254,6 +256,8 @@
 
 * [CoinBR](https://coinbr.net/) - Somos uma plataforma completa de bitcoin e outras moedas digitais, as mais moderna tecnologia em serviços financeiros.
 
+* [Braziliex.com](https://braziliex.com/) - Exchange for Bitcoin, Ethereum, Litecoin, Monero, Dash and BRL (Real / R$)
+
 
 ## Mining
 
@@ -302,6 +306,10 @@
 
 
 ## Tips
+
+* [BitWage](https://www.bitwage.com/) - jobs and wages for remove workers and dev shops (uses BTC to transfer the money between countries)
+
+--
 
 * [Experimento: Holding de R$1.000 divididos em 16 criptomoedas por 365 dias | Medium by @gabrielkruschewskymattosvaz](https://medium.com/@gabrielkruschewskymattosvaz/experimento-holding-de-r-1-000-divididos-em-16-criptomoedas-por-365-dias-cc5a2ca16af) - 2017/10/19
 
