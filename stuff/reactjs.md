@@ -26,6 +26,7 @@
 - [Flux Architecture](#flux-architecture)
   * [Redux](#redux)
   * [Redux fetch data](#redux-fetch-data)
+- [Documentation](#documentation)
 - [Testing](#testing)
 - [Peer-to-peer](#peer-to-peer)
 - [Real time](#real-time)
@@ -738,6 +739,11 @@ Provash Shoumma](https://www.youtube.com/watch?v=w4t527D69vI) - 2017/10/19
   * [[YouTube] Fetching data from an API using Redux Saga | Ben Awad](https://www.youtube.com/watch?v=jQ4YD7Ip6T4) - 2017/08/11
 
     * [[GitHub] benawad / cra-redux-saga](https://github.com/benawad/cra-redux-saga/tree/2_fetch_from_api) - A simple example that uses Redux Saga and Create React App
+
+
+## Documentation
+
+* [[GitHub] pedronauck / docz](https://github.com/pedronauck/docz) - It has never been so easy to document your things!
 
 
 ## Testing
