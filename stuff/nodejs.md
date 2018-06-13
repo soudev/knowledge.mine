@@ -1272,7 +1272,7 @@
 
 --
 
-* [[GitHub] gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - Transform plain text into dynamic blogs and websites using React.js
+* [[GitHub] gatsbyjs / gatsby](https://github.com/gatsbyjs/gatsby) - Blazing fast static site generator for React
 
 --
 
