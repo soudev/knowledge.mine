@@ -1217,6 +1217,8 @@
 
   * [[GitHub] parcel-bundler / parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler
 
+  * [Parcel v1.9.0 — Tree Shaking, 2x faster watcher, and more! | Medium by @devongovett](https://medium.com/@devongovett/parcel-v1-9-0-tree-shaking-2x-faster-watcher-and-more-87f2e1a70f79) - 2018/06/14
+
 
 
 #### Webpack
