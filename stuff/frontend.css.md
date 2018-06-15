@@ -286,6 +286,8 @@ target px / context px = em
 rem - context is always based on root context (html or body)
 ```
 
+* [[CodePen] EM vs REM](https://codepen.io/seyedi/pen/oxWOVX) - Helpful for understanding the different between `rem` and `em`
+
 * [Font sizing with rem | Snook.ca](http://snook.ca/archives/html_and_css/font-size-with-rem) - 2011/05/01
 
 * [CSS3 rem units | SitePoint](http://www.sitepoint.com/css3-rem-units/)
