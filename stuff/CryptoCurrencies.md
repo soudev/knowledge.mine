@@ -106,6 +106,8 @@
 
 * [[YouTube] Como Transformar Bitcoin em Dinheiro de Verdade!](https://www.youtube.com/watch?v=d9RyFqvbH6o)
 
+  * [Advcash](https://www.advcash.com/) - Advanced Cash. Money + online = easy
+
 --
 
 * [[YouTube] Bitcoins | Nerdologia Tech 12](https://www.youtube.com/watch?v=h87O2xfUSv8) - 2017/08/30
