@@ -2605,6 +2605,8 @@
 
 --
 
+* [JavaScript default parameters | kentcdodds](https://blog.kentcdodds.com/javascript-default-parameters-6e0ff7ae7248) - 2018/06/25
+
 * [ES6 tips and tricks to make your code cleaner, shorter, and easier to read! | freeCodeCamp](https://medium.freecodecamp.org/make-your-code-cleaner-shorter-and-easier-to-read-es6-tips-and-tricks-afd4ce25977c) - 2018/01/29
 
 * [7 Hacks for ES6 Developers | DailyJS – Medium](https://medium.com/dailyjs/7-hacks-for-es6-developers-4e24ff425d0b) - 2017/12/21
