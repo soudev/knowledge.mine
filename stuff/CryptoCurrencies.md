@@ -329,6 +329,10 @@
 
   * [[YouTube] How to Keep Your Mining Rigs cool in the Summer](https://www.youtube.com/watch?v=E-_9F8R_PFU) - 2017/06/11
 
+--
+
+* [Coin ATM Radar](https://coinatmradar.com/) - Find Bitcoin ATM, Online Rates
+
 
 ## Projects and APIs
 
