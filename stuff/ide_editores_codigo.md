@@ -185,6 +185,10 @@
 
 --
 
+* [Creating a VS Code Theme | CSS-Tricks](https://css-tricks.com/creating-a-vs-code-theme/) - 2018/06/08
+
+--
+
 * [[Github] Microsoft/vscode-tips-and-tricks](https://github.com/Microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 
 * [[GitHub] viatsko / awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources
