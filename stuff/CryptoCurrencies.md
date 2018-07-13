@@ -106,7 +106,7 @@
 
 * [[YouTube] Como Transformar Bitcoin em Dinheiro de Verdade!](https://www.youtube.com/watch?v=d9RyFqvbH6o)
 
-  * [Advcash](https://www.advcash.com/) - Advanced Cash. Money + online = easy
+  * [Advcash](https://www.advcash.com/) - Advanced Cash. Money + online = easy [não está mais aceitando contas para brasileiros]
 
 --
 
@@ -245,6 +245,8 @@
 
 
 --
+
+* [Kraken](https://www.kraken.com/) - Buy, Sell and Margin Trade Bitcoin (BTC) and Ethereum (ETH) - Buy, Sell, & Trade Bitcoin
 
 * [rippex](https://rippex.net/) - Join the World's First Decentralized Exchange (has support to BRL)
 
