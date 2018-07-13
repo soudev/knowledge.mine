@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-* [Educação Financeira](#educação-financeira)
+- [Educação Financeira](#educacao-financeira)
   * [Sites e Blogs](#sites-e-blogs)
   * [Easyinvest](#easyinvest)
   * [XP Investimentos](#xp-investimentos)
@@ -18,55 +18,56 @@
   * [The Better Men Project](#the-better-men-project)
   * [Financial Education](#financial-education)
   * [Livros](#livros)
-    * [Os Axiomas de Zurique](#os-axiomas-de-zurique)
-    * [O investidor inteligente](#o-investidor-inteligente)
-    * [Warren Buffett: A bola de Neve](#warren-buffett-a-bola-de-neve)
-    * [Pai Rico, Pai Pobre](#pai-rico-pai-pobre)
-    * [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilônia)
-    * [Os segredos da mente milionária](#os-segredos-da-mente-milionária)
-    * [Pense e Enriqueça](#pense-e-enriqueça)
-    * [The 4-hour Workweek](#the-4-hour-workweek)
-* [Informações gerais](#informações-gerais)
+    + [Os Axiomas de Zurique](#os-axiomas-de-zurique)
+    + [O investidor inteligente](#o-investidor-inteligente)
+    + [Warren Buffett: A bola de Neve](#warren-buffett-a-bola-de-neve)
+    + [Pai Rico, Pai Pobre](#pai-rico-pai-pobre)
+    + [O homem mais rico da Babilônia](#o-homem-mais-rico-da-babilonia)
+    + [Os segredos da mente milionária](#os-segredos-da-mente-milionaria)
+    + [Pense e Enriqueça](#pense-e-enriqueca)
+    + [The 4-hour Workweek](#the-4-hour-workweek)
+- [Informações gerais](#informacoes-gerais)
   * [Curiosidades](#curiosidades)
   * [Pessoas](#pessoas)
-    * [Carlos Wizard Martins](#carlos-wizard-martins)
-    * [Geraldo Rufino](#geraldo-rufino)
-    * [Gustavo Cerbasi](#gustavo-cerbasi)
-    * [Jorge Paulo Lemann](#jorge-paulo-lemann)
-    * [Luiz Barsi Filho](#luiz-barsi-filho)
-    * [Warren Buffett](#warren-buffett)
-    * [Peter Jonathan Adeney](#peter-jonathan-adeney)
-    * [Dan Lok](#dan-lok)
-    * [Clark Kegley](#clark-kegley)
-    * [Jeff Rose](#jeff-rose)
-* [Informações úteis sobre investimentos](#informações-úteis-sobre-investimentos)
+    + [Carlos Wizard Martins](#carlos-wizard-martins)
+    + [Geraldo Rufino](#geraldo-rufino)
+    + [Gustavo Cerbasi](#gustavo-cerbasi)
+    + [Jorge Paulo Lemann](#jorge-paulo-lemann)
+    + [Luiz Barsi Filho](#luiz-barsi-filho)
+    + [Warren Buffett](#warren-buffett)
+    + [Peter Jonathan Adeney](#peter-jonathan-adeney)
+    + [Dan Lok](#dan-lok)
+    + [Clark Kegley](#clark-kegley)
+    + [Jeff Rose](#jeff-rose)
+- [Informações úteis sobre investimentos](#informacoes-uteis-sobre-investimentos)
   * [Investir no Exterior](#investir-no-exterior)
   * [Robos de Investimento](#robos-de-investimento)
   * [Renda Fixa](#renda-fixa)
-  * [Títulos do Governo](#títulos-do-governo)
+  * [Títulos do Governo](#titulos-do-governo)
   * [Fundos de Investimento](#fundos-de-investimento)
-    * [Fundos de Índice](#fundos-de-índice)
-    * [Fundos Imobiliários](#fundos-imobiliários)
+    + [Fundos de Índice](#fundos-de-indice)
+    + [Fundos Imobiliários](#fundos-imobiliarios)
   * [COE](#coe)
-  * [Ações](#ações)
-    * [Dividendos](#dividendos)
-    * [Análise Técnica](#análise-técnica)
-    * [Queda](#queda)
-  * [Canal Investidor Leigo](#canal-investidor-leigo)
-* [Por onde investir](#por-onde-investir)
+  * [Ações](#acoes)
+    + [Dividendos](#dividendos)
+    + [Análise Técnica](#analise-tecnica)
+    + [Queda](#queda)
+  * [Canais do YouTube](#canais-do-youtube)
+- [Por onde investir](#por-onde-investir)
   * [Robos](#robos)
-* [Simuladores](#simuladores)
-* [Ferramentas](#ferramentas)
+- [Simuladores](#simuladores)
+- [Ferramentas](#ferramentas)
   * [Home Broker](#home-broker)
-* [Cotações Online](#cotações-online)
-* [Códigos](#códigos)
+- [Cotações Online](#cotacoes-online)
+- [Códigos](#codigos)
   * [APIs](#apis)
-    * [Yahoo Finance](#yahoo-finance)
-* [Imposto de Renda](#imposto-de-renda)
-* [Economia](#economia)
-* [Bancos Digitais](#bancos-digitais)
+    + [Yahoo Finance](#yahoo-finance)
+- [Imposto de Renda](#imposto-de-renda)
+- [Economia](#economia)
+- [Bancos Digitais](#bancos-digitais)
+- [Bancos Digitais Internacionais](#bancos-digitais-internacionais)
 
-<!-- toc stop -->
+<!-- tocstop -->
 
 
 ## Educação Financeira
@@ -1317,3 +1318,16 @@
 * [Banco Pan](https://www.bancopan.com.br/)
 
 * [NuBank](https://www.nubank.com.br/)
+
+
+## Bancos Digitais Internacionais
+
+* [N26](https://n26.com/)
+
+* [LeuPay](https://www.leupay.eu/) - Online Payments & Money Transfers Made Easy
+
+  * [[YouTube] Melhor cartão para compras no exterior | Viver de Dividendos](https://www.youtube.com/watch?v=j6QtusI7deQ) - 2018/01/17
+
+  * [Como abrir uma conta corrente no exterior em Euro e Dólar | Viver de Dividendos](http://viverdedividendos.org/conta-corrente-no-exterior/) - 2018/01/08
+
+  * [Como Transferir Dinheiro para o Exterior | Hora Do Brunch](http://horadobrunch.com.br/como-transferir-dinheiro-para-o-exterior) - 2017/11/14
