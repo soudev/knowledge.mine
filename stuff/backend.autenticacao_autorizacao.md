@@ -1,5 +1,24 @@
 # Autenticação & Autorização
 
+<!-- toc -->
+
+  * [Geral](#geral)
+  * [x509](#x509)
+    + [nodejs x509](#nodejs-x509)
+  * [JWT](#jwt)
+  * [OAuth](#oauth)
+    + [Two-Factor Authentication](#two-factor-authentication)
+  * [SAML](#saml)
+  * [WS-Trust](#ws-trust)
+  * [Identity Server](#identity-server)
+- [CAS](#cas)
+  * [Microsoft ADFS / Microsoft ACS / SWT](#microsoft-adfs--microsoft-acs--swt)
+
+<!-- tocstop -->
+
+
+## Geral
+
 * [Authentication for Single Page Apps | madhatted.com](http://madhatted.com/2014/6/17/authentication-for-single-page-apps)
 
 * [10 Things You Should Know about Tokens | Auth0](https://auth0.com/blog/2014/01/27/ten-things-you-should-know-about-tokens-and-cookies/) - (2014/01/27) Explore in more detail some of the most common questions around token-based authentication.
@@ -124,7 +143,7 @@
 
 *Definição:* _CAS_ - Central Authentication Service
 
-* [JaSig CAS](https://jasig.github.io/cas) OpenSource / Free | [GitHub : code](https://github.com/Jasig/cas)
+* [[GitHub] apereo / cas](https://github.com/apereo/cas) - Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
 
 * [[YouTube] CAS in 10 Minutes - Jasig's Central Authentication Service (CAS) Single Sign-On Open Source](https://www.youtube.com/watch?v=wx98IaaBLfw)
 
