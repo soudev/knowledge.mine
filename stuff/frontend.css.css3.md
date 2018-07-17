@@ -82,6 +82,8 @@
 
 * [Another Collection of Interesting Facts About CSS Grid | CSS-Tricks](https://css-tricks.com/another-collection-of-interesting-facts-about-css-grid/) - 2018/04/13
 
+* [CSS Grid in IE: CSS Grid and the New Autoprefixer | CSS-Tricks](https://css-tricks.com/css-grid-in-ie-css-grid-and-the-new-autoprefixer/) - 2018/07/04
+
 --
 
 * [11 Things I Learned Reading the CSS Grid Specification | freeCodeCamp](https://medium.freecodecamp.org/11-things-i-learned-reading-the-css-grid-specification-fb3983aa5e0) - 2017/12/10
