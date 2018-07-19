@@ -791,6 +791,8 @@
 
 * [NVD3 Re-usable charts for D3.js](http://nvd3.org/)
 
+  * [How to make a modern dashboard with NVD3.js | CSS-Tricks](https://css-tricks.com/how-to-make-a-modern-dashboard-with-nvd3-js/) - 2018/07/19
+
 * [[GitHub] tenXer / xcharts](https://github.com/tenXer/xcharts) - A D3-based library for building custom charts and graphs
 
 * [Rickshaw|](http://code.shutterstock.com/rickshaw/) - is a JavaScript toolkit for creating interactive time series graphs
