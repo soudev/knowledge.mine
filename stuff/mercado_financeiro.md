@@ -955,6 +955,8 @@
 
 * [Fundos Imobiliários | BM&F BOVESPA](http://www.bmfbovespa.com.br/pt_br/produtos/listados-a-vista-e-derivativos/renda-variavel/fundos-de-investimentos/fii/fiis-listados/)
 
+* [Clube FII](https://www.clubefii.com.br) - O maior site de Fundos Imobiliários do Brasil
+
 * [FIIs.com.br](http://fiis.com.br/) - Acompanhamento dos Fundos de Investimento Imobiliários
 
 * [Receba 3 aluguéis mesmo em tempos de crise | Empiricus](http://sl.empiricus.com.br/fixa-fi/)
