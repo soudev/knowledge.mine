@@ -61,6 +61,8 @@
 
 ## Learn
 
+* [[YouTube] Learn React - React Crash Course 2018 - React Tutorial with Examples | Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - 2018/07/16
+
 * [[YouTube] Learn to Code: How React.js Works | Fullstack Academy](https://www.youtube.com/watch?v=mLMfx8BEt8g) - 2017/01/31
 
 * [[YouTube] The Secrets of React's Virtual DOM](https://www.youtube.com/watch?v=-DX3vJiqxm4) - A talk from FutureJS by Pete Hunt of Facebook
