@@ -926,6 +926,8 @@ Handlebar Labs](https://www.youtube.com/watch?v=ISgz8F9z0aM) - 2018/03/13
 
 * [How to create react-tabs using ContextAPI | DailyJS](https://medium.com/dailyjs/how-to-create-react-tabs-using-contextapi-932c7bec35c7) - 2018/05/11
 
+* [Redux vs. The React Context API | Dave Ceddia](https://daveceddia.com/context-api-vs-redux/) - 2018/07/17
+
 
 ### Render Props
 
