@@ -187,6 +187,14 @@
 
 --
 
+* [[GitHub] angular / protractor - Setting Up the Browser : using headless chrome](https://github.com/angular/protractor/blob/master/docs/browser-setup.md#using-headless-chrome)
+
+* [Execute protractor tests on headless chrome browser | WebDriverJS](http://www.webdriverjs.com/execute-protractor-tests-on-headless-chrome-browser/) - 2017/07/05
+
+* [Running Angular tests in headless Chrome | Cvuorinen.net](https://cvuorinen.net/2017/05/running-angular-tests-in-headless-chrome/) - 2017/05/05
+
+--
+
 * [[GitHub] paulirish / headless-cat-n-mouse](https://github.com/paulirish/headless-cat-n-mouse) - Is headless chrome currently detectable? Let's pit the detections and detection evasions against eachother.
 
 --
