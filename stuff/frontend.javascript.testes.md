@@ -203,6 +203,8 @@
 
   * [Efficiently snapshotting your single-page-apps with Puppeteer | Hacker Noon](https://hackernoon.com/efficiently-snapshotting-spas-with-puppeteer-c4c77aa2831b) - 2018/02/27
 
+  * [Automating Google Chrome with Node.js | Tutorialzine](https://tutorialzine.com/2017/08/automating-google-chrome-with-node-js) - 2017/08/31
+
 * [[GitHub] joelgriffith / navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API
 
 
