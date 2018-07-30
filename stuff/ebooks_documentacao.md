@@ -434,6 +434,11 @@
   * [[YouTube] Fluent in German with Duolingo | Evan Edinger](https://www.youtube.com/watch?v=ht-w2JriwSw) - 2018/02/18
 
 
+* French
+
+  * [[YouTube playlist] Curso básico de Francês (A1) | Céline Chevallier](https://www.youtube.com/watch?v=gtEATs6iJIk&index=1&list=PLbavEN-18iPmF2cmkT2cb9f-09g5UhET_)
+
+
 * [[YouTube] Chinês Mandarim? Japonês? Qual diferença? - Aula de Chinês](https://www.youtube.com/watch?v=VvCYkFOUaA8)
 
 * Chinese
