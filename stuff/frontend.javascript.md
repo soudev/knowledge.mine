@@ -2762,3 +2762,5 @@
 * [EcmaScript 8 é lançado e essas são as principais novidades! | Felipe Orlando](https://felipeorlando.github.io/2017/07/17/es8-lancado-e-essas-sao-as-principais-novidades/) - 2017/07/17
 
 * [ES8 foi lançado em Junho, cadê as novidades? | BrazilJS](https://braziljs.org/blog/es8-foi-lancado-em-junho-cade-novidades/) - 2017/07/19
+
+* [Understanding the new features in JavaScript 2017 (aka ES8) | Full-Stack Engine](https://fullstackengine.net/understanding-javascript-2017-es8/) - 2017/12/15
