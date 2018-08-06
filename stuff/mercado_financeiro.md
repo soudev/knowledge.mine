@@ -1330,6 +1330,8 @@
 
   * [[YouTube] Melhor cartão para compras no exterior | Viver de Dividendos](https://www.youtube.com/watch?v=j6QtusI7deQ) - 2018/01/17
 
+  * [LeuPay, veja como funciona, criar conta e enviar dinheiro | Euro Dicas](https://www.eurodicas.com.br/leupay-como-funciona/) - 2018/05/31
+
   * [Como abrir uma conta corrente no exterior em Euro e Dólar | Viver de Dividendos](http://viverdedividendos.org/conta-corrente-no-exterior/) - 2018/01/08
 
   * [Como Transferir Dinheiro para o Exterior | Hora Do Brunch](http://horadobrunch.com.br/como-transferir-dinheiro-para-o-exterior) - 2017/11/14
