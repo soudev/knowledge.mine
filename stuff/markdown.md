@@ -1,15 +1,14 @@
 # Markdown
 
-
 <!-- toc -->
-* [Visão Geral](#visão-geral)
-* [Markdown editor](#markdown-editor)
-* [Markdown online tools](#markdown-online-tools)
-* [Ferramentas e bibliotecas](#ferramentas-e-bibliotecas)
-  * [Transformação Markdown ...](#transformação-markdown)
 
-<!-- toc stop -->
+- [Visão Geral](#visao-geral)
+- [Markdown editor](#markdown-editor)
+- [Markdown online tools](#markdown-online-tools)
+  * [Transformação Markdown ...](#transformacao-markdown-)
+    + [mdx](#mdx)
 
+<!-- tocstop -->
 
 ## Visão Geral
 
@@ -192,3 +191,12 @@
 * [[GitHub] treasonx / grunt-markdown](https://github.com/treasonx/grunt-markdown) - Markdown gruntjs task with code highlighting
 
 * [[GitHub] bylexus / grunt-md2html](https://github.com/bylexus/grunt-md2html) - Small Grunt MultiTask to convert Markdown files to HTML, supporting Grunt >= 0.4.0
+
+
+#### mdx
+
+* [[GitHub] mdx-js / mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
+
+  * [[YouTube] What is MDX | Kent C. Dodds](https://www.youtube.com/watch?v=d2sQiI5NFAM)
+
+* [[GitHub] hamlim / inline-mdx.macro](https://github.com/hamlim/inline-mdx.macro) - A babel-macro for transforming mdx inline
