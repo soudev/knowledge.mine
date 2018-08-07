@@ -5,6 +5,7 @@
 - [Visão Geral](#visao-geral)
 - [Markdown editor](#markdown-editor)
 - [Markdown online tools](#markdown-online-tools)
+- [Ferramentas e bibliotecas](#ferramentas-e-bibliotecas)
   * [Transformação Markdown ...](#transformacao-markdown-)
     + [mdx](#mdx)
 
