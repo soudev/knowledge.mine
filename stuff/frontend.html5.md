@@ -1,47 +1,48 @@
 # Front-End
 
 <!-- toc -->
-* [HTML5](#html5)
+
+- [HTML5](#html5)
   * [Aprendizado](#aprendizado)
   * [Compatibilidade](#compatibilidade)
   * [Ferramentas](#ferramentas)
   * [Caso de Uso](#caso-de-uso)
   * [Dicas](#dicas)
-    * [dicas: WebRTC](#dicas-webrtc)
-    * [dicas: WebGL](#dicas-webgl)
-    * [dicas: Game](#dicas-game)
-    * [dicas: Desenvolvimento de Jogos](#dicas-desenvolvimento-de-jogos)
-    * [dicas: Armazenamento](#dicas-armazenamento)
-    * [dicas: Performance](#dicas-performance)
-    * [dicas: Server Sent Events](#dicas-server-sent-events)
-    * [dicas: Full Screen API](#dicas-full-screen-api)
-    * [dicas: File System/API](#dicas-file-systemapi)
+    + [dicas: WebRTC](#dicas-webrtc)
+    + [dicas: WebGL](#dicas-webgl)
+    + [dicas: Game](#dicas-game)
+    + [dicas: Desenvolvimento de Jogos](#dicas-desenvolvimento-de-jogos)
+    + [dicas: Armazenamento](#dicas-armazenamento)
+    + [dicas: Performance](#dicas-performance)
+    + [dicas: Server Sent Events](#dicas-server-sent-events)
+    + [dicas: Full Screen API](#dicas-full-screen-api)
+    + [dicas: File System/API](#dicas-file-systemapi)
+    + [dicas: Clipboard API](#dicas-clipboard-api)
   * [Bibliotecas](#bibliotecas)
-    * [Presentation System](#presentation-system)
-    * [WebRTC](#webrtc)
-    * [Text Search](#text-search)
-    * [Gesture](#gesture)
-    * [Storage](#storage)
-    * [Animations](#animations)
-    * [Physics](#physics)
-    * [WebGL](#webgl)
-    * [Games](#games)
-      * [Game Engine](#game-engine)
-  * [Desenvolvimento de Aplicações](#desenvolvimento-de-aplicações)
-    * [Offline](#offline)
-      * [Christophe Coenraets](#christophe-coenraets)
-      * [FT Labs](#ft-labs)
-      * [Icenium](#icenium)
-    * [Mobile](#mobile)
-      * [Firefox OS](#firefox-os)
-      * [Apache Cordova & PhoneGap](#apache-cordova-phonegap)
+    + [Presentation System](#presentation-system)
+    + [WebRTC](#webrtc)
+    + [Text Search](#text-search)
+    + [Gesture](#gesture)
+    + [Storage](#storage)
+    + [Animations](#animations)
+    + [Physics](#physics)
+    + [WebGL](#webgl)
+    + [Games](#games)
+      - [Game Engine](#game-engine)
+  * [Desenvolvimento de Aplicações](#desenvolvimento-de-aplicacoes)
+    + [Offline](#offline)
+      - [Christophe Coenraets](#christophe-coenraets)
+      - [FT Labs](#ft-labs)
+      - [Icenium](#icenium)
+    + [Mobile](#mobile)
+      - [Firefox OS](#firefox-os)
+      - [Apache Cordova & PhoneGap](#apache-cordova--phonegap)
         * [PhoneGap](#phonegap)
         * [BlackBerry](#blackberry)
-    * [Desktop](#desktop)
-    * [Desktop and Mobile](#desktop-and-mobile)
+    + [Desktop](#desktop)
+    + [Desktop and Mobile](#desktop-and-mobile)
 
-<!-- toc stop -->
-
+<!-- tocstop -->
 
 ## HTML5
 
@@ -599,6 +600,15 @@
 * [Resize an Image Using Canvas, Drag and Drop and the File API | David Walsh Blog](http://davidwalsh.name/resize-image-canvas)
 
 * [Creating a File Encryption App with JavaScript | Tutorialzine](http://tutorialzine.com/2013/11/javascript-file-encrypter/)
+
+
+#### dicas: Clipboard API
+
+* [Clipboard API and events | W3C](https://www.w3.org/TR/clipboard-apis/)
+
+* [Unblocking Clipboard Access | Web | Google Developers](https://developers.google.com/web/updates/2018/03/clipboardapi)
+
+* [The Clipboard API crashcourse | Frontend News #2](https://frontendnews.io/editions/2018-08-01-copy-and-paste-clipboard-api) - 2018/08/01
 
 
 ### Bibliotecas
