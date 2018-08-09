@@ -516,6 +516,9 @@
 
 ### React components
 
+* [How to pass props to components in React | RWieruch](https://www.robinwieruch.de/react-pass-props-to-component/) - 2018/07/29
+
+
 #### React compound components
 
 * [[YouTube] Ryan Florence - Compound Components | Phoenix ReactJS](https://www.youtube.com/watch?v=hEGg-3pIHlE) - 2017/04/01
