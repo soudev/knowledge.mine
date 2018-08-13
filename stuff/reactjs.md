@@ -61,6 +61,8 @@
 
 ## Learn
 
+* [[YouTube] 10 Things to Know About ES6 Before Learning React | Carlos Mafia](https://www.youtube.com/watch?v=UweDK_imADU) - 2018/08/04
+
 * [[YouTube] Learn React - React Crash Course 2018 - React Tutorial with Examples | Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0) - 2018/07/16
 
 * [[YouTube] Learn to Code: How React.js Works | Fullstack Academy](https://www.youtube.com/watch?v=mLMfx8BEt8g) - 2017/01/31
