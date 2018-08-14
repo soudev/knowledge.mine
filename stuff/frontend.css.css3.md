@@ -117,6 +117,8 @@
 
   * [[YouTube] CSS Grid Layout Crash Course | Traversy Media](https://www.youtube.com/watch?v=jV8B24rSN5o) - 2017/08/01
 
+* [Progressive Enhancement with CSS Grid | freeCodeCamp](https://medium.freecodecamp.org/progressive-enhancement-with-css-grid-8138d4c7508c) - 2018/08/08
+
 
 ### Dicas
 
