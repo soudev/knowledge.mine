@@ -2541,6 +2541,8 @@
 
 --
 
+* [Variable Scope in Modern JavaScript with var, let and const | Andy Carter](https://andy-carter.com/blog/variable-scope-in-modern-javascript) - 2018/07/18
+
 * [WTF is this - Understanding the this keyword, call, apply, and bind in JavaScript | tylermcginnis.com](https://tylermcginnis.com/this-keyword-call-apply-bind-javascript/) - 2018/03/26
 
 * [A different way of understanding `this` in JavaScript | 2ality](http://2ality.com/2017/12/alternate-this.html) - 2017/12/06
