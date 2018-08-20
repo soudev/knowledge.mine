@@ -201,3 +201,7 @@
   * [[YouTube] What is MDX | Kent C. Dodds](https://www.youtube.com/watch?v=d2sQiI5NFAM)
 
 * [[GitHub] hamlim / inline-mdx.macro](https://github.com/hamlim/inline-mdx.macro) - A babel-macro for transforming mdx inline
+
+* [[GitHub] jxnblk / mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks
+
+  * [mdx-deck: slide decks powered by markdown and react | Kent C. Dodds](https://blog.kentcdodds.com/mdx-deck-slide-decks-powered-by-markdown-and-react-bfc6d6af20da)
