@@ -1152,6 +1152,11 @@
 
   * [[YouTube playlist] Como usar o Portal Easynvest](https://www.youtube.com/playlist?list=PLJGPBSvUf2Rr60tYtZDT6ws8nOWoarpM2)
 
+* **Europa**
+
+  * [DEGIRO](https://www.degiro.eu/) - is one of the fastest growing online brokers in Europe.
+What separates DEGIRO from the rest is that we offer institutional fees to retail investors.
+
 
 ### Robos
 
