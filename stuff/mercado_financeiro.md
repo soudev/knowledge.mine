@@ -1244,6 +1244,8 @@ What separates DEGIRO from the rest is that we offer institutional fees to retai
 
 * [Imposto de Renda 2016: a hora de encarar o Leão | Conta Azul](https://blog.contaazul.com/imposto-de-renda-2016-a-hora-de-encarar-o-leao)
 
+* [[GitHub] IRPF 2019 - Documentos essenciais para fazer a declaração | XP Investimentos](https://www.youtube.com/watch?v=2p-GB-H-JDY) - 2019/03/06
+
 --
 
 * [Como Declarar FIIs no Imposto de Renda 2018?](http://abacusliquid.com/irpf/como-declarar-fiis/)
