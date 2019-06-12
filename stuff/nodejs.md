@@ -135,6 +135,10 @@
 
 * NVM - node version manager
 
+  * [[GitHub] Schniz / fnm](https://github.com/Schniz/fnm) -  Fast and simple Node.js version manager, built in native ReasonML
+
+    * [fnm: Fast and Simple Node.js Version Manager | dev.to](https://dev.to/schniz/fnm-fast-and-simple-node-js-version-manager-189j)
+
   * [[GitHub] brianloveswords / nvm](https://github.com/brianloveswords/nvm) - Install and managing different versions of node and linking local versions into specific directories. Very simple setup and no need for a special shell [ `npm install -g nvm` ]
 
   * [[GitHub] creationix / nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions
