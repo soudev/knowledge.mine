@@ -538,6 +538,8 @@
 
 * [[YouTube] How to learn any language easily | Matthew Youlden | TEDxClapham](https://www.youtube.com/watch?v=Yr_poW-KK1Q) - 2016/07/29
 
+* [[YouTube] The secrets of learning a new language | Lýdia Machová | TED](https://www.youtube.com/watch?v=o_XVt5rdpFY)
+
 * [[YouTube] Why We Struggle Learning Languages | Gabriel Wyner | TEDxNewBedford](https://www.youtube.com/watch?v=iBMfg4WkKL8) - 2017/12/18
 
 --
