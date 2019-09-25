@@ -420,13 +420,15 @@
 
   - [[YouTube] Learn German For Beginners 🇩🇪 The Complete Course (Level A.1) | Get Germanized](https://www.youtube.com/watch?v=r9os9Q6t6Xc) - 2017/04/30
 
-* French
+- French
 
   - [[YouTube playlist] Curso básico de Francês (A1) | Céline Chevallier](https://www.youtube.com/watch?v=gtEATs6iJIk&index=1&list=PLbavEN-18iPmF2cmkT2cb9f-09g5UhET_)
 
-- [[YouTube] Chinês Mandarim? Japonês? Qual diferença? - Aula de Chinês](https://www.youtube.com/watch?v=VvCYkFOUaA8)
+  - [[YouTube] Learn French for Kids - Numbers, Colors & More](https://www.youtube.com/watch?v=uyHIcOX4FaE) - 2018/09/12
 
 - Chinese
+
+  - [[YouTube] Chinês Mandarim? Japonês? Qual diferença? - Aula de Chinês](https://www.youtube.com/watch?v=VvCYkFOUaA8)
 
   - [Chinese for Beginners | Coursera](https://www.coursera.org/learn/learn-chinese)
 
