@@ -502,6 +502,8 @@
 
 - [[YouTube] Aprenda Inglês Sozinho - Os melhores aplicativos para aprender inglês | O Mano Em New York](https://www.youtube.com/watch?v=rCIbQbyz-HU) - 2017/10/08
 
+- [Speak English Fluently - The 5 Steps To Improve Your English Fluency | Dan Lok](https://www.youtube.com/watch?v=PgkYa6gkEQ4)
+
 --
 
 - [[YouTube] Why you should speak English like you’re playing a video game | Marianna Pascal | TEDxPenangRoad](https://www.youtube.com/watch?v=Ge7c7otG2mk) - 2017/05/11
