@@ -755,7 +755,13 @@
 
   - [eBook](https://www.fumoney.com/ebook)
 
-  - [5 takeaways from Dan Lok’s book F.U. Money | The Swedish Investor](https://www.youtube.com/watch?v=65GPcar5pqM)
+  - [[YouTube] 5 takeaways from Dan Lok’s book F.U. Money | The Swedish Investor](https://www.youtube.com/watch?v=65GPcar5pqM)
+
+- Skills in Sales
+
+  - [[YouTube] What Is Copywriting? How Do You Get Into It? | Dan Lok](https://www.youtube.com/watch?v=UfCgUv8-HlI)
+
+  - [[YouTube] The 3 Most Important Skills In Sales | Dan Lok](https://www.youtube.com/watch?v=QQQe1aDy4fE)
 
 --
 
