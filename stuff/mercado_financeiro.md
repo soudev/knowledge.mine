@@ -765,6 +765,8 @@
 
   - [[YouTube] 5 Copywriting Tips For Beginners | Dan Lok](https://www.youtube.com/watch?v=CA1pC9FQpuA)
 
+  - [[YouTube] 7 Copywriting Exercises You Can Do Right Now | Dan Lok](https://www.youtube.com/watch?v=LU4gHGdYDI0)
+
   - [[YouTube] The 3 Most Important Skills In Sales | Dan Lok](https://www.youtube.com/watch?v=QQQe1aDy4fE)
 
   - [[YouTube] 27 Words To Avoid In Sales | Dan Lok](https://www.youtube.com/watch?v=UfQS91N7gn0)
