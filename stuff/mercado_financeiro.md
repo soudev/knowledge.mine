@@ -763,6 +763,8 @@
 
   - [[YouTube] What Is Copywriting? How Do You Get Into It? | Dan Lok](https://www.youtube.com/watch?v=UfCgUv8-HlI)
 
+  - [[YouTube] 5 Copywriting Tips For Beginners | Dan Lok](https://www.youtube.com/watch?v=CA1pC9FQpuA)
+
   - [[YouTube] The 3 Most Important Skills In Sales | Dan Lok](https://www.youtube.com/watch?v=QQQe1aDy4fE)
 
 --
