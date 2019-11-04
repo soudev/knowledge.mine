@@ -767,6 +767,8 @@
 
   - [[YouTube] The 3 Most Important Skills In Sales | Dan Lok](https://www.youtube.com/watch?v=QQQe1aDy4fE)
 
+  - [[YouTube] 27 Words To Avoid In Sales | Dan Lok](https://www.youtube.com/watch?v=UfQS91N7gn0)
+
 --
 
 - [[YouTube] Why School Sucks! Why School Kills Creativity - An Entrepreneur's Perspective | Dan Lok](https://www.youtube.com/watch?v=jUFIpvSbExw) - 2016/01/09
