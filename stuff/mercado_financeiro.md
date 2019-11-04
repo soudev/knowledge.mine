@@ -719,6 +719,8 @@
 
 --
 
+- [[YouTube] How To Start With No Money | Dan Lok](https://www.youtube.com/watch?v=u6LvZz6lBQ8)
+
 - [[YouTube] How To Buy A Business With No Money | Dan Lok](https://www.youtube.com/watch?v=JGenV2sVkBE) - 2015/09/07
 
 - The Wealth Triangle
