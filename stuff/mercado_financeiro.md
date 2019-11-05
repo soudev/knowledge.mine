@@ -761,15 +761,19 @@
 
 - Skills in Sales
 
+  - [[YouTube] The 3 Most Important Skills In Sales | Dan Lok](https://www.youtube.com/watch?v=QQQe1aDy4fE)
+
+  - [[YouTube] 27 Words To Avoid In Sales | Dan Lok](https://www.youtube.com/watch?v=UfQS91N7gn0)
+
   - [[YouTube] What Is Copywriting? How Do You Get Into It? | Dan Lok](https://www.youtube.com/watch?v=UfCgUv8-HlI)
 
   - [[YouTube] 5 Copywriting Tips For Beginners | Dan Lok](https://www.youtube.com/watch?v=CA1pC9FQpuA)
 
   - [[YouTube] 7 Copywriting Exercises You Can Do Right Now | Dan Lok](https://www.youtube.com/watch?v=LU4gHGdYDI0)
 
-  - [[YouTube] The 3 Most Important Skills In Sales | Dan Lok](https://www.youtube.com/watch?v=QQQe1aDy4fE)
+  - [[YouTube] How To Sell Millions Without Ever Opening Your Mouth! Copywriting Secrets Simple 7-Step Formula Pt.1 | Dan Lok](https://www.youtube.com/watch?v=rT7adLpMZkw)
 
-  - [[YouTube] 27 Words To Avoid In Sales | Dan Lok](https://www.youtube.com/watch?v=UfQS91N7gn0)
+  - [[YouTube] How To Sell Millions Without Ever Opening Your Mouth! Copywriting Secrets Simple 7-Step Formula Pt.2 | Dan Lok](https://www.youtube.com/watch?v=njj8X48ERUY)
 
 --
 
