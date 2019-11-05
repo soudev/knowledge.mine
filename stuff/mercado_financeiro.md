@@ -775,6 +775,8 @@
 
   - [[YouTube] How To Sell Millions Without Ever Opening Your Mouth! Copywriting Secrets Simple 7-Step Formula Pt.2 | Dan Lok](https://www.youtube.com/watch?v=njj8X48ERUY)
 
+  - [[YouTube] How To Sell Millions Without Ever Opening Your Mouth! Copywriting Secrets Simple 7-Step Formula Pt.3 | Dan Lok](https://www.youtube.com/watch?v=3RZJUwQX5B4)
+
 --
 
 - [[YouTube] Why School Sucks! Why School Kills Creativity - An Entrepreneur's Perspective | Dan Lok](https://www.youtube.com/watch?v=jUFIpvSbExw) - 2016/01/09
