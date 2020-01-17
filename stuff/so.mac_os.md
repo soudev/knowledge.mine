@@ -57,7 +57,7 @@ sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "
 
 ```
 security find-generic-password -wa [wifi network name]
-
+```
 
 --
 
