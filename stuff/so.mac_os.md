@@ -53,6 +53,14 @@ sudo defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText "
 
 --
 
+* check the stored WiFi password
+
+```
+security find-generic-password -wa [wifi network name]
+
+
+--
+
 * [[GitHub] jaywcjlove / awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-en.md) - collection of awesome Mac applications and tools for developers and designers.
 
 * [[GitHub] serhii-londar / open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome list of open source applications for macOS.
